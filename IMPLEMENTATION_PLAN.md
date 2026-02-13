@@ -25,7 +25,7 @@ marketingskills/
 │       │   ├── UrlInput.tsx         # URL input field + submit button
 │       │   ├── ScanProgress.tsx     # Scanning animation with 5 progress steps
 │       │   ├── AgencyProfileCard.tsx # Profile display card (logo, services, team, etc.)
-│       │   ├── AgencyTypeSelector.tsx # 6 agency type cards with AI pre-selection
+│       │   ├── AgencyTypeSelector.tsx # 11 agency type cards with AI pre-selection
 │       │   ├── FinancialForm.tsx    # Revenue, EBITDA, growth rate, recurring %
 │       │   ├── LeadCaptureForm.tsx  # Name + email capture
 │       │   └── ValuationResults.tsx # Valuation range, factors, CTAs
@@ -181,7 +181,7 @@ Connect Drizzle to Neon using `@neondatabase/serverless`.
 | company_name | text | |
 | logo_url | text | |
 | description | text | AI-generated 1-2 sentence summary |
-| agency_type | text | One of 6 types |
+| agency_type | text | One of 11 types |
 | services | jsonb | `[{ name, description }]` |
 | team_members | jsonb | `[{ name, title }]` |
 | headcount_estimate | integer | |
@@ -239,7 +239,7 @@ Define all interfaces used across the API boundary:
 - `ScanStatusResponse` — `{ id, status, progress, current_step }`
 - `ScanResults` — Full scan data (company_name, agency_type, services, team, clients, locations, etc.)
 - `CompaniesHouseData` — company_number, incorporation_date, directors, filed_accounts
-- `AgencyType` — Union of 6 types: `digital_marketing | creative_agency | performance_marketing | social_media_marketing | growth_marketing | full_service`
+- `AgencyType` — Union of 11 types: `digital_marketing | creative_branding | performance_paid_media | social_media | pr_communications | web_dev_design | data_analytics | martech_automation | ecommerce | healthcare_pharma | full_service_integrated`
 - `ValuationFormData` — `{ scan_id, full_name, email, agency_type, annual_revenue, annual_ebitda, growth_rate, recurring_revenue_pct }`
 - `ValuationResult` — `{ id, scan_id, valuation_low, valuation_high, multiple_low, multiple_high, factors, agency_profile }`
 - `ValuationFactor` — `{ name, impact: "helping" | "hurting", description }`
@@ -308,7 +308,7 @@ Converts relative URLs to absolute. Quick HEAD request to verify URL is accessib
 The main intelligence step. Single Claude API call.
 
 - Model: `claude-sonnet-4-5-20250929`
-- System prompt: Expert agency website analyzer. Return only valid JSON. For agency_type, classify into exactly one of the 6 types. For description, write 1-2 professional sentences. Only include data explicitly found on the website.
+- System prompt: Expert agency website analyzer. Return only valid JSON. For agency_type, classify into exactly one of the 11 types (digital_marketing, creative_branding, performance_paid_media, social_media, pr_communications, web_dev_design, data_analytics, martech_automation, ecommerce, healthcare_pharma, full_service_integrated). For description, write 1-2 professional sentences. Only include data explicitly found on the website.
 - User prompt: All page content (homepage + up to 4 crawled pages), each labeled with URL and section name
 - Expected: ~3000 input tokens, ~800 output tokens
 - Cost: ~$0.03-0.05 per scan
@@ -381,16 +381,30 @@ Entire pipeline wrapped in try/catch. On any unhandled error: set status="failed
 
 `calculateValuation(formData, scanData)` → `{ low, high, multiple_low, multiple_high, factors[] }`
 
-**Base EBITDA multiples by agency type**:
+**EBITDA multiples by agency type and EBITDA range**:
 
-| Agency Type | Low Multiple | High Multiple |
-|-------------|-------------|--------------|
-| Digital Marketing | 4.0x | 6.0x |
-| Creative Agency | 3.5x | 5.5x |
-| Performance Marketing | 4.5x | 7.0x |
-| Social Media Marketing | 3.5x | 5.0x |
-| Growth Marketing | 4.5x | 7.0x |
-| Full-Service | 4.0x | 6.5x |
+The multiple is determined by two inputs: agency type + EBITDA size tier. Larger agencies command higher multiples.
+
+| Agency Type | $1-3M EBITDA | $3-5M EBITDA | $5-10M EBITDA |
+|-------------|-------------|-------------|--------------|
+| Digital Marketing (SEO/PPC/Content) | 4-6x | 5-7x | 6-9x |
+| Creative / Branding | 3-5x | 4-6x | 5-8x |
+| Performance / Paid Media | 5-7x | 6-8x | 7-10x |
+| Social Media | 3-5x | 4-6x | 5-7x |
+| PR / Communications | 3-5x | 4-6x | 5-8x |
+| Web Dev / Design | 3-5x | 4-6x | 5-7x |
+| Data / Analytics | 5-8x | 7-10x | 8-12x |
+| Martech / Marketing Automation | 6-9x | 8-11x | 9-14x |
+| eCommerce | 4-6x | 5-8x | 7-10x |
+| Healthcare / Pharma Marketing | 5-7x | 6-9x | 8-12x |
+| Full-Service / Integrated | 4-6x | 5-8x | 7-10x |
+
+**EBITDA tier selection logic**:
+- EBITDA < $1M: use the $1-3M column (smallest tier)
+- EBITDA $1M-$3M: use $1-3M column
+- EBITDA $3M-$5M: use $3-5M column
+- EBITDA $5M-$10M: use $5-10M column
+- EBITDA > $10M: use the $5-10M column (largest tier)
 
 **Adjustment factors** (each adds/subtracts from the multiple and generates a ValuationFactor):
 
@@ -401,6 +415,7 @@ Entire pipeline wrapped in try/catch. On any unhandled error: set status="failed
 5. **Client diversity** (from scan, number of clients): <3 = -0.5x, 3-10 = 0x, 10+ = +0.3x
 
 **Calculation**:
+- Look up the base multiple range (low, high) from the table using `agency_type` + EBITDA tier
 - `adjustedLow = baseLow + sum(adjustments)` (floor at 1.0x)
 - `adjustedHigh = baseHigh + sum(adjustments)` (floor at 1.5x)
 - `valuationLow = EBITDA * adjustedLow`
@@ -446,7 +461,7 @@ Base URL: `https://api.close.com/api/v1/`. Auth: Basic auth with `CLOSE_API_KEY`
 
 | Field Name | Type | Values |
 |------------|------|--------|
-| Agency Type | Dropdown | Digital Marketing, Creative Agency, Performance Marketing, Social Media Marketing, Growth Marketing, Full-Service |
+| Agency Type | Dropdown | Digital Marketing, Creative/Branding, Performance/Paid Media, Social Media, PR/Communications, Web Dev/Design, Data/Analytics, Martech/Automation, eCommerce, Healthcare/Pharma, Full-Service/Integrated |
 | Headcount | Number | |
 | Services | Text | Comma-separated |
 | Sectors | Text | Comma-separated |
@@ -693,14 +708,30 @@ Each stage component is shown/hidden based on the current flow state. Previous s
 │  Your Agency Type                             │
 │  Based on your website, we've categorised you:│
 │                                               │
-│  ☐ Digital Marketing   ☑ Creative Agency      │
-│  ☐ Performance Mktg    ☐ Social Media Mktg    │
-│  ☐ Growth Marketing    ☐ Full-Service         │
+│  ☑ Digital Marketing   ☐ Creative/Branding    │
+│  ☐ Performance/Paid    ☐ Social Media         │
+│  ☐ PR/Communications   ☐ Web Dev/Design       │
+│  ☐ Data/Analytics      ☐ Martech/Automation   │
+│  ☐ eCommerce           ☐ Healthcare/Pharma    │
+│  ☐ Full-Service                               │
 │                                               │
 └───────────────────────────────────────────────┘
 ```
 
-- 6 cards in 2x3 grid (3x2 on wide screens)
+11 agency types:
+1. Digital Marketing (SEO/PPC/Content)
+2. Creative / Branding
+3. Performance / Paid Media
+4. Social Media
+5. PR / Communications
+6. Web Dev / Design
+7. Data / Analytics
+8. Martech / Marketing Automation
+9. eCommerce
+10. Healthcare / Pharma Marketing
+11. Full-Service / Integrated
+
+- Cards in responsive grid (2 cols mobile, 3 cols tablet, 4 cols desktop)
 - Each card: icon (from lucide-react), name, brief subtitle
 - One pre-selected based on `agency_type` from scan
 - User can click to override
