@@ -68,7 +68,7 @@ From first-hand experience on the Acquire.com mailing list: the marketplace is d
 - "Acquire.com claims 500K buyers — but their average deal is $250K. How many of those buyers are qualified to acquire a real marketing agency?"
 - "Their '$2B verified funds' is self-reported. Do the math: 500K buyers at $390/month would be $195M in revenue. Does Acquire.com look like a $195M company to you?"
 - "Your agency deserves a confidential, controlled process — not a public listing where your employees, clients, and competitors can see you're selling."
-- "82% of Agencies.co sellers close. Acquire.com won't even share their close rate. That tells you everything."
+- "Agency M&A is hard — most deals don't close. That's why how you pay matters. With us, you're capped at $12K. On Acquire.com, you're paying $50/month to sit in a junk drawer with no advisory support."
 
 ### Content Angles for Comparison Pages
 
@@ -93,13 +93,12 @@ From first-hand experience on the Acquire.com mailing list: the marketplace is d
 - **Scale**: Claims 1,000+ businesses "guided," but only ~100 transactions showcased
 - **Deal size**: Under $50M
 
-### The Close Rate Problem
+### The Close Rate Reality
 
-1,000 businesses "guided" but only 100 transactions showcased. Let's unpack this:
-- **Best case**: "Guided" includes consultations, valuations, and informal conversations — only ~10% resulted in a completed transaction
-- **Worst case**: They engaged 1,000 businesses on retainer and only closed 100 — a 10% success rate
-- **Either way**: Compare this to Agencies.co's published 82% close rate
-- **They will never publish this number** — it's their biggest vulnerability
+1,000 businesses "guided" but only 100 transactions showcased. That implies a ~10% close rate — which is actually typical for agency M&A across the industry. The real question isn't who closes more deals (everyone's close rate is roughly similar), it's **what happens to the seller when the deal doesn't close**:
+- **With Merge**: You've been paying $5K–$20K/month the whole time. A 6-month failed engagement = $30K–$120K lost.
+- **With Agencies.co**: You paid a $12K capped retainer. That's it.
+- **The math is brutal for Merge clients**: At a 10% close rate, 9 out of 10 Merge clients are paying $30K–$120K for nothing. With Agencies.co, those 9 out of 10 are out $12K max.
 
 ### Known Reputation Issues
 
@@ -165,7 +164,7 @@ The longer the deal takes with Merge, the more they earn. With Agencies.co, the 
 ### Objection Handling: "Merge has more experience and a bigger team"
 
 **Response framework**:
-- "Experience matters — which is why we publish our 82% close rate. Merge has guided 1,000 businesses but only showcases 100 transactions. Ask them what their actual close rate is."
+- "Agency M&A close rates are around 10% industry-wide. The question isn't who closes more — it's what you pay when 9 out of 10 don't close. With us, $12K max. With Merge, $30K–$120K."
 - "With Merge, you'll pay $40K–$120K in uncapped monthly retainers over the life of a deal. With us, it's a $12K ceiling. The retainer stops there — period."
 - "Merge's monthly retainer means they earn more the longer your deal takes. Our retainer is capped and we're incentivized to close within 6 months."
 - "Merge started in agencies but now serves ecommerce, retail, media, and tech. We stay 100% focused on marketing agencies."
@@ -228,7 +227,7 @@ The Standard tier at $12K retainer ceiling is the most compelling value proposit
 - $12K ceiling vs. Merge's $40K–$120K in uncapped monthly retainers
 - 10% of cash at close — incentives fully aligned with seller outcomes
 - Agency-specific expertise (not diluted across business types like Merge)
-- Published 82% close rate (neither competitor will share theirs)
+- Capped downside risk — if the deal doesn't close, seller is out $12K, not $60K–$120K
 - Incentivized to close within 6 months (no monthly billing to drag out)
 
 ---
