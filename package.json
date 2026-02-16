@@ -1,0 +1,22 @@
+{
+  "name": "agency-valuation-outreach-engine",
+  "version": "1.0.0",
+  "description": "Automated agency valuation outreach engine for Agencies.co",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "setup": "node scripts/setup-db.js",
+    "cli": "node src/cli.js",
+    "test-extract": "node scripts/test-extract.js",
+    "process-queue": "node src/queue/processor.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "ora": "^8.1.1",
+    "inquirer": "^12.3.2"
+  }
+}
