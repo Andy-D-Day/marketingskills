@@ -17,8 +17,10 @@ You are a growth strategist specializing in B2B services and M&A advisory market
 
 **Product**: Agencies.co 2.0 — a seller-first M&A platform for marketing agency founders to sell their business through a controlled, confidential process.
 
-**Primary Offer**: Standard Tier at $12,000 retainer + 10% success fee
-**Secondary Offers**: Lite (AI-powered) at $2,500 one-time or $699/month + 10% success fee | Boardroom at $30,000 retainer + 10% success fee
+**Primary Offer**: Standard Tier at $12,000 retainer ceiling + 10% of cash at close
+**Secondary Offers**: Lite (AI-powered) at $2,500 one-time or $699/month + 10% of cash at close | Boardroom at $30,000 retainer ceiling + 10% of cash at close
+
+**Key pricing distinction**: All retainers are capped ceilings, not ongoing monthly fees. No monthly retainers — ever. The seller pays a fixed amount upfront, and Agencies.co is incentivized to close within 6 months, not drag it out.
 
 **Goal**: 10 Standard-tier clients per month
 **Conversion Rate**: 30% from qualified lead to signed client
@@ -37,8 +39,8 @@ You are a growth strategist specializing in B2B services and M&A advisory market
 |-----------|-------------|-------------|------------------|
 | **Focus** | Agencies only | All online businesses | Agencies + professional services |
 | **Model** | Seller-first advisory | Self-serve marketplace | Traditional M&A brokerage |
-| **Retainer** | $2,500–$30,000 | Free–$390 (buyer side) | $5,000–$20,000/mo |
-| **Success Fee** | 10% | Not disclosed (seller) | 10% |
+| **Retainer** | $2,500–$30,000 ceiling (one-time) | $50/mo seller + $390 buyer | $5,000–$20,000/mo (ongoing) |
+| **Success Fee** | 10% of cash at close | 8% on deals under $250K | 10% |
 | **Buyer Access** | Curated, screened buyers | 500K+ unfiltered buyers | Pre-qualified network |
 | **Confidentiality** | Staged NDA, no public listing | Public listing default | Private process |
 | **Close Rate** | 82% of sellers close | Not disclosed | Not disclosed |
@@ -48,43 +50,59 @@ You are a growth strategist specializing in B2B services and M&A advisory market
 
 ### Acquire.com — Detailed Profile
 
-**What they do**: Marketplace connecting buyers and sellers of online businesses (SaaS, ecommerce, agencies, apps). 500K+ buyers, $500M+ closed, 2,000+ startups sold.
+**What they do**: Marketplace connecting buyers and sellers of online businesses (SaaS, ecommerce, agencies, apps). Claims 500K+ buyers, $500M+ closed, 2,000+ startups sold.
+
+**Reality check**: The "500K+ buyers" and "$2B+ verified funds" claims deserve skepticism. At $390/mo per buyer, 500K paying buyers would mean ~$195M/year in buyer subscription revenue alone — unlikely for a platform of this maturity. Most of those 500K are likely free-tier browsers, not active qualified buyers. Similarly, "$2B verified funds" is marketing language — it likely means buyers have collectively *claimed* that amount, not that $2B is sitting ready to deploy on Acquire deals.
+
+**Sellers pay $50/month** to maintain a listing — it's not free despite the marketing.
+
+**Listing quality is poor**: The marketplace is flooded with developers listing projects with 3 weeks of revenue, extrapolated to 10x annual revenue. Agency founders browsing Acquire.com will see their business listed alongside speculative side projects. Serious agency buyers are not browsing this marketplace.
 
 **Strengths**:
-- Massive buyer pool (500K+ with $2B+ verified funds)
-- Brand recognition and trust (4.7/5 rating, 500+ reviews)
-- Free listing for sellers — low barrier to entry
+- Large buyer database (though quality is questionable)
+- Brand recognition in the indie/micro-acquisition space
+- Low barrier to entry ($50/mo for sellers)
 - AI-powered legal and diligence tools
 - Acquire Academy for buyer education
+- 8% success fee on deals under $250K
 
 **Weaknesses**:
-- **Not agency-specific** — agencies compete against SaaS, ecommerce, and every other business type for buyer attention
+- **Not agency-specific** — agencies compete against SaaS, ecommerce, crypto projects, and developer side-projects for buyer attention
+- **Low listing quality** — marketplace flooded with speculative, early-stage projects that drag down the signal-to-noise ratio
 - **Public marketplace model** — listings are visible, confidentiality is not the default
 - **Self-serve** — no dedicated M&A advisory team guiding sellers
-- **Buyer quality varies** — large volume means more tire-kickers
-- **No success metric disclosed** — no published close rate
+- **Inflated buyer metrics** — "500K buyers" and "$2B verified funds" are marketing claims, not indicators of qualified agency buyers
+- **No success metric disclosed** — no published close rate (telling for a platform that claims 2,000+ deals)
 
 **Positioning against Acquire.com**: "Acquire.com is a marketplace. Agencies.co is your M&A team. If you're selling a marketing agency, you need advisors who understand agency valuations, buyer motivations, and deal structures — not a listing next to a crypto app."
 
 ### Merge (GoMerge) — Detailed Profile
 
-**What they do**: Traditional M&A advisory for agencies and professional services firms. ~10 years in market, 1,000+ businesses guided, deals under $50M.
+**What they do**: Traditional M&A advisory that started in agencies but has expanded to professional services, tech, ecommerce, retail, and media. ~10 years in market, claims 1,000+ businesses "guided," but only ~100 transactions showcased.
+
+**The close rate question**: 1,000 businesses "guided" but only 100 transactions showcased. That's either a 10% conversion from consultation to close, or they're hiding unsuccessful engagements. Either way, it's a fraction of Agencies.co's 82% close rate. Worth noting: "guided" likely includes initial consultations, valuations, and engagements that went nowhere.
+
+**Known behavior**: Merge has a reputation for talking agency owners INTO selling — sometimes before the founder is truly ready. This is a common complaint. Their incentive is to generate engagement retainers, and monthly billing means the longer the process takes, the more they earn.
 
 **Strengths**:
-- Agency-specific focus (marketing, digital, PR, tech)
-- Decade of experience with extensive case study portfolio (100+ transactions)
+- Originally agency-specific (marketing, digital, PR) — still mainly known for this
+- Decade of experience with case study portfolio
 - Full white-glove service from valuation to close
-- Strong LinkedIn presence and referral program
+- Strong LinkedIn presence and founder-led brand
 - Human capital valuation expertise
 
 **Weaknesses**:
-- **Expensive monthly retainer** ($5,000–$20,000/month ongoing vs. Agencies.co's one-time $12K)
+- **Ongoing monthly retainer** ($5,000–$20,000/month) — no ceiling, compounds indefinitely
+  - 5-month sale at $10K/month = $50,000 in retainers (vs. Agencies.co's $12K ceiling)
+  - 6-month sale at $15K/month = $90,000 in retainers
+- **Misaligned incentives** — monthly billing means they earn more when deals take longer
+- **Reputation for pushing founders to sell** before they're ready
+- **Scope creep** — expanded beyond agencies into ecommerce, retail, media, tech — diluting their agency expertise
 - **No AI/tech layer** — purely traditional advisory model
-- **No self-serve option** — can't serve smaller agencies cost-effectively
-- **Slower process** — 4–6 months is the baseline
-- **No published close rate** — no equivalent to Agencies.co's 82%
+- **No self-serve option** — smaller agencies are completely priced out
+- **Questionable close rate** — 100 transactions from 1,000 "guided" businesses
 
-**Positioning against Merge**: "Merge charges $5K–$20K every month for the duration of your sale. Agencies.co charges a one-time $12K retainer with a full M&A team from day one — and 82% of our sellers close. Same quality, better structure, transparent results."
+**Positioning against Merge**: "Merge charges $5K–$20K every month with no cap. The longer your deal takes, the more they earn. Agencies.co has retainer ceilings — $12K max for Standard — and we're incentivized to close within 6 months, not string you along. 82% of our sellers close. Ask Merge for their number."
 
 ---
 
@@ -92,18 +110,19 @@ You are a growth strategist specializing in B2B services and M&A advisory market
 
 ### Core Positioning Statement
 
-**For** marketing agency founders considering an exit, **Agencies.co** is the seller-first M&A platform **that** combines expert advisory with a controlled, confidential process **unlike** general marketplaces (Acquire.com) or expensive traditional brokers (Merge) **because** we focus exclusively on agencies, charge a one-time retainer instead of monthly fees, and close 82% of our deals.
+**For** marketing agency founders considering an exit, **Agencies.co** is the seller-first M&A platform **that** combines expert advisory with a controlled, confidential process **unlike** junk-filled marketplaces (Acquire.com) or expensive monthly-retainer brokers (Merge) **because** we focus exclusively on marketing agencies, charge a capped retainer ceiling (not ongoing monthly fees), take 10% of cash at close so our incentives align with yours, and close 82% of our deals.
 
 ### Key Messages by Audience
 
 **Agency founders exploring an exit**:
-- "Your agency is worth more than a marketplace listing. Get a dedicated M&A team for a one-time $12K retainer."
+- "Your agency is worth more than a marketplace listing next to a developer's 3-week-old side project. Get a dedicated M&A team for a $12K retainer ceiling."
 - "82% of our sellers close. That's not a marketplace — that's a process that works."
-- "Confidential. Controlled. Agency-specific. The way your exit should be."
+- "Confidential. Controlled. Agency-specific. 10% of cash at close — we only win when you win."
 
 **Agency founders frustrated with brokers**:
-- "Stop paying $10K+/month to your broker. One retainer. Full team. 82% close rate."
-- "Traditional brokers charge monthly with no guarantee. We align our success with yours."
+- "Stop paying $10K+/month with no end in sight. We cap our retainer at $12K. Period."
+- "Your broker earns more the longer your deal takes. We have retainer ceilings and want to close within 6 months."
+- "Traditional brokers charge monthly with no guarantee. We take 10% of cash at close — our incentives are your incentives."
 
 **Budget-conscious founders / smaller agencies**:
 - "Not ready for full advisory? Our AI-powered process starts at $699/month."
@@ -111,24 +130,27 @@ You are a growth strategist specializing in B2B services and M&A advisory market
 
 ### Tier-Specific Positioning
 
-**Lite ($2,500 or $699/mo)** — "The smart starting point"
+**Lite ($2,500 or $699/mo) + 10% of cash at close** — "The smart starting point"
 - AI-powered self-serve onboarding
 - EBITDA calculation and marketplace listing
 - 6-month listing window
 - Best for: Agencies exploring their options, smaller agencies, founders who want to test the market
 
-**Standard ($12,000)** — "The recommended path" (PRIMARY TARGET)
+**Standard ($12,000 retainer ceiling) + 10% of cash at close** — "The recommended path" (PRIMARY TARGET)
 - Full M&A team from day one
 - Professional 2-week go-to-market setup
 - Custom buyer list with targeted outreach
 - Full agency valuation and positioning
+- $12K is the maximum — not a monthly fee, a one-time ceiling
+- Incentivized to close within 6 months
 - Best for: Serious sellers ready to transact within 3–7 months
 
-**Boardroom ($30,000)** — "The premium exit"
+**Boardroom ($30,000 retainer ceiling) + 10% of cash at close** — "The premium exit"
 - 6 months of sustained weekly outreach
 - Senior advisor on every call
 - PE/HoldCo targeting
 - Pre-LOI negotiation support
+- $30K is the maximum — not a monthly fee, a one-time ceiling
 - Best for: Larger agencies ($3M+ revenue) seeking strategic or PE buyers
 
 ---
@@ -450,7 +472,7 @@ Repeat every business day. Assign to a dedicated growth person or split across t
 | Q4 | 45 (15/mo) | $540,000 | Scaled and systematized |
 | **Year 1 Total** | **135** | **$1,620,000** | **+ success fees at close** |
 
-**Note**: At 82% close rate and assuming average agency sale of $1.5M, success fees (10%) would add ~$16.6M in potential success fee revenue across 135 clients — though collected over 12–18 months as deals close.
+**Note**: At 82% close rate and assuming average agency sale of $1.5M, success fees (10% of cash at close) would add ~$16.6M in potential success fee revenue across 135 clients — though collected over 12–18 months as deals close. Actual cash-at-close percentage varies by deal structure (earnouts, seller financing, etc.).
 
 ---
 
@@ -468,7 +490,7 @@ Repeat every business day. Assign to a dedicated growth person or split across t
 | **Total** | **$12,000** | **100%** |
 
 **CAC Target**: $12,000 budget / 10 clients = $1,200 CAC
-**LTV**: $12,000 retainer + ~$150,000 average success fee = ~$162,000
+**LTV**: $12,000 retainer ceiling + 10% of cash at close (~$150,000 on avg) = ~$162,000
 **LTV:CAC Ratio**: ~135:1
 
 ---
@@ -499,10 +521,12 @@ Repeat every business day. Assign to a dedicated growth person or split across t
 
 ### Campaign 4: "Broker Breakup" (Competitive Campaign)
 
-- Targeted at agency founders currently working with expensive brokers
-- Messaging: "Stop paying $10K/month. One retainer. Full team. 82% close rate."
+- Targeted at agency founders currently working with expensive monthly-retainer brokers
+- Messaging: "Your broker earns more the longer your deal takes. We cap ours at $12K and want to close in 6 months."
+- Secondary angle: "Merge guided 1,000 businesses but only showcases 100 transactions. We close 82%."
 - LinkedIn ads + direct outreach to founders who follow Merge/GoMerge
 - Comparison landing page: agencies.co/vs/merge
+- Call out that Merge has expanded beyond agencies (ecommerce, retail, media) while Agencies.co stays focused
 - **Expected impact**: 10–15 highly qualified leads/month
 
 ### Campaign 5: "AI-Powered Exit" (Lite Tier Funnel)
