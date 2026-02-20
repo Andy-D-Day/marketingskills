@@ -1,4 +1,17 @@
-# Agencies.co SEO Blog Strategy: Competing with GoMerge
+# Agencies.co SEO Blog Strategy: Later-Stage Agency Content
+
+## Strategic Focus
+
+Agencies.co's blog targets **later-stage agency owners** — those past the startup phase who are thinking about scaling, increasing enterprise value, acquiring other agencies, rolling up, and eventually exiting. We are NOT competing for early-stage keywords (how to start, how to get clients, business plans). Instead, we own the conversation around **agency M&A, valuations, scale, and exits**.
+
+This is a deliberate strategic choice:
+
+1. **Less competition** — everyone writes "how to start an agency." Almost nobody writes actionable content about agency roll-ups, acquisition playbooks, or vertical-specific multiples.
+2. **Higher-value audience** — later-stage agency owners have more revenue, more budget, and are the exact buyers/sellers Agencies.co serves.
+3. **Direct GoMerge competition** — GoMerge only covers selling/exiting. We go deeper on their turf AND expand into scaling and acquisition content they don't touch.
+4. **Moat** — this content requires real expertise and data. It's harder to replicate with generic AI content.
+
+---
 
 ## Competitive Intelligence: GoMerge.com/learn
 
@@ -55,12 +68,13 @@ They also cover: Online Business, Shopify Store, Instagram Business, YouTube Cha
 |-----------|:-----------:|-------|
 | **Depth** | 2 | Thin, templated content. Same structure with nouns swapped. |
 | **Breadth (agency types)** | 2 | Only 6 agency niches. Many high-value types missing. |
-| **Lifecycle coverage** | 1 | Only covers selling/exiting. Nothing on starting, growing, managing, or scaling. |
+| **M&A sophistication** | 1 | No content on acquisitions, roll-ups, or buy-side strategy. |
+| **Scaling content** | 0 | Nothing on how to scale or increase enterprise value. |
 | **Uniqueness** | 1 | Highly formulaic. Read one vertical, you've read them all. |
 | **Authority signals** | 2 | No expert quotes, no original data, no named case studies. |
 | **Technical SEO** | 3 | Basic markup, decent internal linking within verticals. |
 
-**Key vulnerability**: GoMerge only covers **one phase** of the agency lifecycle (selling/exiting). This is a massive gap for Agencies.co to exploit.
+**Key vulnerability**: GoMerge only covers **selling** from the seller's perspective. Zero content on the buy side (acquiring agencies, roll-ups, due diligence as a buyer). Zero content on scaling or value creation pre-exit.
 
 ---
 
@@ -69,31 +83,33 @@ They also cover: Online Business, Shopify Store, Instagram Business, YouTube Cha
 ### Competitive Advantages
 
 1. **Audience alignment**: Agencies.co's audience IS agency owners — GoMerge's audience is business sellers generally
-2. **Full lifecycle**: Cover start → grow → manage → scale → sell (5x the content surface)
+2. **Buy-side + sell-side**: Cover both acquiring AND selling agencies (GoMerge is sell-side only)
 3. **More verticals**: Cover 20 agency types vs. GoMerge's 6
-4. **Deeper content**: 2,500-4,000 words with real frameworks, benchmarks, and examples
-5. **Community data**: Leverage Agencies.co community insights for unique angles
+4. **Scaling & value creation**: Entire content pillar that GoMerge doesn't touch
+5. **Deeper content**: 2,500-4,000 words with real frameworks, multiples data, and deal structures
+6. **Community data**: Leverage Agencies.co community insights for unique benchmarks
 
 ### Content Architecture
 
 ```
 agencies.co/blog/
-├── [vertical]-agency/                          (Hub - 20 hubs)
-│   ├── how-to-start-a-[vertical]-agency        (Starting)
-│   ├── [vertical]-agency-business-plan         (Starting)
-│   ├── how-to-get-clients-for-[vertical]-agency (Growing)
-│   ├── how-to-grow-a-[vertical]-agency         (Growing)
-│   ├── how-to-price-[vertical]-agency-services (Managing)
-│   ├── how-to-run-a-[vertical]-agency          (Managing)
-│   ├── how-to-scale-a-[vertical]-agency        (Scaling)
-│   ├── [vertical]-agency-profit-margins        (Scaling)
-│   ├── how-to-sell-a-[vertical]-agency         (Selling - competes with GoMerge)
-│   └── [vertical]-agency-valuation             (Selling - competes with GoMerge)
-└── agency-[topic]/                             (Cross-vertical hubs)
-    ├── agency-pricing-models
-    ├── agency-client-retention
-    ├── agency-hiring-guide
-    └── agency-owner-salary
+├── [vertical]-agency/                                    (Hub - 20 hubs)
+│   ├── how-to-scale-a-[vertical]-agency                  (Scaling)
+│   ├── [vertical]-agency-profit-margins                   (Scaling)
+│   ├── how-to-increase-[vertical]-agency-value            (Value Creation)
+│   ├── [vertical]-agency-valuation                        (Valuation)
+│   ├── how-to-sell-a-[vertical]-agency                    (Selling)
+│   ├── exit-strategy-for-[vertical]-agency                (Exit)
+│   ├── how-to-acquire-a-[vertical]-agency                 (Acquisition)
+│   └── [vertical]-agency-roll-up-strategy                 (Roll-Up / M&A)
+└── agency-[topic]/                                        (Cross-vertical hubs)
+    ├── agency-roll-up-playbook
+    ├── how-to-acquire-a-marketing-agency
+    ├── agency-valuation-multiples
+    ├── agency-ebitda-benchmarks
+    ├── private-equity-agency-acquisitions
+    ├── agency-exit-planning-timeline
+    └── agency-holding-company-model
 ```
 
 ---
@@ -104,22 +120,22 @@ agencies.co/blog/
 
 These verticals have ZERO GoMerge competition:
 
-| # | Vertical | Slug | Search Demand Signal |
-|---|----------|------|---------------------|
-| 1 | SEO Agency | seo-agency | "how to start an seo agency" — high volume |
-| 2 | Marketing Agency | marketing-agency | "how to start a marketing agency" — very high volume |
-| 3 | Web Design Agency | web-design-agency | "how to start a web design agency" — high volume |
-| 4 | PR Agency | pr-agency | "how to start a pr agency" — moderate volume |
-| 5 | PPC Agency | ppc-agency | "ppc agency" — moderate volume |
-| 6 | Email Marketing Agency | email-marketing-agency | Growing niche |
-| 7 | Web Development Agency | web-development-agency | "web development agency" — high volume |
-| 8 | UX Design Agency | ux-design-agency | Growing niche |
-| 9 | Influencer Marketing Agency | influencer-marketing-agency | Trending niche |
-| 10 | AI Agency | ai-agency | "how to start an ai agency" — rapidly growing |
+| # | Vertical | Slug | Later-Stage Search Signal |
+|---|----------|------|--------------------------|
+| 1 | SEO Agency | seo-agency | "seo agency valuation," "sell seo agency" |
+| 2 | Marketing Agency | marketing-agency | "marketing agency valuation," "how to scale a marketing agency" |
+| 3 | Web Design Agency | web-design-agency | "sell web design agency," "web design agency profit margins" |
+| 4 | PR Agency | pr-agency | "pr agency valuation," "sell pr firm" |
+| 5 | PPC Agency | ppc-agency | "ppc agency valuation" |
+| 6 | Email Marketing Agency | email-marketing-agency | Growing M&A niche |
+| 7 | Web Development Agency | web-development-agency | "sell web development company" |
+| 8 | UX Design Agency | ux-design-agency | Growing M&A niche |
+| 9 | Influencer Marketing Agency | influencer-marketing-agency | Hot acquisition target vertical |
+| 10 | AI Agency | ai-agency | Rapidly growing, high multiples expected |
 | 11 | Video Marketing Agency | video-marketing-agency | Growing niche |
-| 12 | Consulting Agency | consulting-agency | Broad search volume |
-| 13 | Staffing Agency | staffing-agency | High volume niche |
-| 14 | Recruitment Agency | recruitment-agency | High volume niche |
+| 12 | Consulting Agency | consulting-agency | "consulting firm valuation" — high volume |
+| 13 | Staffing Agency | staffing-agency | "staffing agency valuation" — established M&A market |
+| 14 | Recruitment Agency | recruitment-agency | "recruitment agency valuation" — established M&A market |
 
 ### Priority 2 — Direct Competition with GoMerge
 
@@ -136,228 +152,202 @@ Outrank GoMerge's existing content with deeper, more comprehensive articles:
 
 ---
 
-## Article Templates (10 per vertical)
+## Article Templates (8 per vertical)
 
-### Template 1: How to Start a [Vertical] Agency
-
-- **Target keyword**: "how to start a [vertical] agency"
-- **Lifecycle phase**: Starting
-- **Word count**: 3,000-4,000
-- **Sections**: Define your niche → Business plan → Legal setup → First clients → Pricing → Tools/stack → Common mistakes → Timeline and milestones
-
-### Template 2: [Vertical] Agency Business Plan
-
-- **Target keyword**: "[vertical] agency business plan"
-- **Lifecycle phase**: Starting
-- **Word count**: 2,500-3,500
-- **Sections**: Executive summary template → Market analysis → Service offerings → Revenue model → Financial projections → Growth strategy
-
-### Template 3: How to Get Clients for Your [Vertical] Agency
-
-- **Target keyword**: "how to get clients for [vertical] agency"
-- **Lifecycle phase**: Growing
-- **Word count**: 3,000-4,000
-- **Sections**: Inbound strategies → Outbound strategies → Referral systems → Partnerships → Content marketing → Case study selling → Niche positioning
-
-### Template 4: How to Grow a [Vertical] Agency
-
-- **Target keyword**: "how to grow a [vertical] agency"
-- **Lifecycle phase**: Growing
-- **Word count**: 3,000-4,000
-- **Sections**: Revenue milestones → Hiring → Service expansion → Client retention → Systems → Marketing your agency → Growth benchmarks
-
-### Template 5: How to Price [Vertical] Agency Services
-
-- **Target keyword**: "[vertical] agency pricing"
-- **Lifecycle phase**: Managing
-- **Word count**: 2,500-3,500
-- **Sections**: Pricing models (hourly, project, retainer, value-based) → Rate benchmarks → Pricing psychology → Scope creep prevention → When to raise prices → Proposal templates
-
-### Template 6: How to Run a [Vertical] Agency
-
-- **Target keyword**: "how to run a [vertical] agency"
-- **Lifecycle phase**: Managing
-- **Word count**: 3,000-4,000
-- **Sections**: Operations → Project management → Client communication → Team management → Financial management → Tools and systems → Work-life balance
-
-### Template 7: How to Scale a [Vertical] Agency
+### Template 1: How to Scale a [Vertical] Agency
 
 - **Target keyword**: "how to scale a [vertical] agency"
-- **Lifecycle phase**: Scaling
+- **Content pillar**: Scaling
 - **Word count**: 3,000-4,000
-- **Sections**: When to scale → Hiring plan → Productizing services → SOPs and documentation → Revenue diversification → Agency structure models → Delegation frameworks
+- **Sections**: When you're ready to scale → Hiring plan and org structure → Productizing services → SOPs and documentation → Revenue diversification → Delegation frameworks → Scaling from 7 to 8 figures → Common scaling mistakes → KPIs to track while scaling
+- **Angle**: This is the bridge between "running an agency" and "building a sellable asset." Frame scaling as enterprise value creation.
 
-### Template 8: [Vertical] Agency Profit Margins
+### Template 2: [Vertical] Agency Profit Margins: Industry Benchmarks
 
 - **Target keyword**: "[vertical] agency profit margins"
-- **Lifecycle phase**: Scaling
+- **Content pillar**: Scaling
 - **Word count**: 2,500-3,000
-- **Sections**: Industry benchmarks → Revenue per employee → Margin optimization → Cost structure → Profitability levers → Financial KPIs
+- **Sections**: Industry average margins by agency size → Revenue per employee benchmarks → Cost structure breakdown → Margin optimization levers → How margins affect valuation → Financial KPIs that buyers care about → Profitability by pricing model
+- **Angle**: Connect margins directly to enterprise value. "Every 5% margin improvement adds $X to your exit price."
 
-### Template 9: How to Sell a [Vertical] Agency
+### Template 3: How to Increase [Vertical] Agency Value Before Selling
 
-- **Target keyword**: "how to sell a [vertical] agency"
-- **Lifecycle phase**: Selling (competes directly with GoMerge)
-- **Word count**: 3,500-4,500
-- **Sections**: When to sell → Valuation methods → Preparation checklist → Finding buyers → Deal structure → Due diligence → Transition planning → Tax considerations → Common mistakes
-- **Differentiation**: Combine GoMerge's 4-5 separate thin articles into one comprehensive guide
+- **Target keyword**: "increase [vertical] agency value"
+- **Content pillar**: Value Creation
+- **Word count**: 3,000-4,000
+- **Sections**: The 12-24 month pre-exit playbook → Reducing owner dependence → Diversifying revenue → Improving client retention and contracts → Building recurring revenue → Documenting processes → Cleaning up financials → Building a leadership team → Strategic positioning → Case studies of agencies that 2x'd value pre-exit
+- **Angle**: Tactical, timeline-based guide. "If you plan to sell in 2 years, here's exactly what to do quarter by quarter."
 
-### Template 10: [Vertical] Agency Valuation
+### Template 4: [Vertical] Agency Valuation: What's Your Agency Worth?
 
 - **Target keyword**: "[vertical] agency valuation"
-- **Lifecycle phase**: Selling (competes directly with GoMerge)
+- **Content pillar**: Valuation (competes directly with GoMerge)
+- **Word count**: 3,000-4,000
+- **Sections**: Valuation methods (SDE, EBITDA, revenue multiples) → Current multiples for [vertical] agencies → What drives higher multiples → What decreases value → Size tiers and how they affect multiples → Example calculations at different revenue levels → Getting a professional valuation → Quick self-assessment framework
+- **Differentiation**: Include actual multiple ranges by agency size tier. GoMerge doesn't do this.
+
+### Template 5: How to Sell a [Vertical] Agency
+
+- **Target keyword**: "how to sell a [vertical] agency"
+- **Content pillar**: Selling (competes directly with GoMerge)
+- **Word count**: 3,500-4,500
+- **Sections**: When to sell (and when not to) → Preparing for sale (12-month checklist) → Valuation methods recap → Finding buyers (strategic, financial, individual) → Deal structures (asset vs stock, earnouts, seller financing) → Due diligence — what to expect → The LOI and negotiation process → Transition planning → Tax considerations → Common mistakes that kill deals → Life after the sale
+- **Differentiation**: Combine GoMerge's 4-5 separate thin articles into ONE comprehensive guide that ranks for all their fragmented keywords.
+
+### Template 6: Exit Strategy for [Vertical] Agency Owners
+
+- **Target keyword**: "[vertical] agency exit strategy"
+- **Content pillar**: Exit
 - **Word count**: 2,500-3,500
-- **Sections**: Valuation methods → Revenue multiples → EBITDA multiples → What drives higher multiples → What decreases value → Example calculations → Getting a professional valuation
+- **Sections**: The 5 exit paths (strategic sale, financial buyer, management buyout, merger, wind-down) → Matching your exit path to your goals → Timeline by exit type → Financial planning and tax optimization → Building an advisory team (M&A broker, attorney, CPA) → Emotional preparation → What happens to your team and clients
+- **Angle**: Broader than "how to sell" — covers ALL exit options including MBOs and mergers.
+
+### Template 7: How to Acquire a [Vertical] Agency
+
+- **Target keyword**: "how to acquire a [vertical] agency" / "buy a [vertical] agency"
+- **Content pillar**: Acquisition (GoMerge has ZERO buy-side content)
+- **Word count**: 3,000-4,000
+- **Sections**: Why acquire vs organic growth → What to look for in an acquisition target → Sourcing deal flow → Valuation from the buyer's perspective → Due diligence checklist for buyers → Deal structuring (earnouts, seller financing, equity rolls) → Integration playbook (clients, team, systems, culture) → Common acquisition mistakes → Financing options (SBA loans, PE backing, seller notes)
+- **Angle**: This is the biggest gap in GoMerge's content. Nobody is writing buy-side content for agency owners who want to grow through acquisition.
+
+### Template 8: [Vertical] Agency Roll-Up Strategy
+
+- **Target keyword**: "[vertical] agency roll-up" / "[vertical] agency consolidation"
+- **Content pillar**: Roll-Up / M&A
+- **Word count**: 3,000-4,000
+- **Sections**: What is an agency roll-up → Why [vertical] agencies are prime roll-up targets → The roll-up thesis (multiple arbitrage) → Finding and evaluating targets → Financing a roll-up → Integration strategy (centralize vs. decentralize) → Building a holding company structure → Technology and operations unification → Case studies of successful agency roll-ups → PE and investor considerations → Risks and how to mitigate them
+- **Angle**: Sophisticated M&A content. This is entirely uncontested — no one is writing this for specific agency verticals.
 
 ---
 
 ## Cross-Vertical Hub Content
 
-These articles target high-volume keywords that apply to ALL agency types:
+These articles target high-volume keywords that apply across ALL agency types:
 
 | Priority | Article Title | Target Keyword | Est. Volume |
 |----------|--------------|----------------|-------------|
-| P1 | How to Start an Agency: The Complete Guide | how to start an agency | Very High |
-| P1 | Agency Pricing Models: How to Price Your Services | agency pricing models | High |
-| P1 | How to Get Clients for Your Agency | how to get agency clients | High |
-| P1 | How Much Do Agency Owners Make? | agency owner salary | High |
+| P1 | The Agency Roll-Up Playbook: How to Build Through Acquisition | agency roll-up playbook | Low but high-intent |
+| P1 | How to Acquire a Marketing Agency | how to acquire a marketing agency / buy a marketing agency | Moderate |
+| P1 | Agency Valuation Multiples: What's Your Agency Worth? | agency valuation multiples | High |
+| P1 | Agency EBITDA Benchmarks by Type and Size | agency EBITDA benchmarks | Moderate |
+| P1 | How to Scale an Agency Past 7 Figures | how to scale an agency | High |
 | P1 | Agency Profit Margins: Benchmarks by Type | agency profit margins | High |
-| P2 | How to Write an Agency Business Plan | agency business plan | Moderate |
-| P2 | Agency Hiring Guide: When and Who to Hire First | agency hiring guide | Moderate |
-| P2 | Client Retention Strategies for Agencies | agency client retention | Moderate |
-| P2 | Best Tools for Running an Agency | agency management tools | Moderate |
-| P2 | How to Scale an Agency Past 7 Figures | scale agency to 7 figures | Moderate |
-| P3 | Agency Business Models: Which Structure Is Right? | agency business model | Moderate |
-| P3 | How to Sell Your Agency: The Complete Guide | how to sell an agency | Moderate |
-| P3 | Remote Agency: How to Build and Run One | remote agency | Moderate |
-| P3 | Agency vs Freelancer: When to Make the Leap | agency vs freelancer | Moderate |
-| P3 | White Label Services for Agencies | white label agency services | Moderate |
+| P2 | Private Equity in the Agency Space: What Founders Need to Know | private equity agency acquisitions | Moderate |
+| P2 | How to Build an Agency Holding Company | agency holding company | Low but high-intent |
+| P2 | Agency Exit Planning: The 24-Month Timeline | agency exit planning | Moderate |
+| P2 | How to Sell Your Agency: The Complete Guide | how to sell an agency | Moderate |
+| P2 | Agency M&A Due Diligence Checklist | agency due diligence | Moderate |
+| P2 | Agency Earnout Structures: How They Work | agency earnout | Low but high-intent |
+| P3 | Agency Owner Salary and Compensation Benchmarks | agency owner salary | High |
+| P3 | SBA Loans for Agency Acquisitions | sba loan agency acquisition | Low but high-intent |
+| P3 | Strategic vs Financial Buyers: Who Should You Sell To? | strategic vs financial buyer agency | Low but high-intent |
 
 ---
 
 ## Full Article Inventory
 
-### Phase 1: Uncontested Verticals (Month 1-2) — 50 articles
+### Phase 1: High-Impact Verticals (Month 1-2) — 40 articles
 
-Focus on the top 5 uncontested verticals with all 10 templates each:
+Focus on the top 5 verticals with all 8 templates each:
 
-**SEO Agency (10 articles)**
+**SEO Agency (8 articles)**
 
-1. How to Start an SEO Agency
-2. SEO Agency Business Plan Template
-3. How to Get Clients for Your SEO Agency
-4. How to Grow an SEO Agency
-5. How to Price SEO Agency Services
-6. How to Run an SEO Agency
-7. How to Scale an SEO Agency
-8. SEO Agency Profit Margins: Industry Benchmarks
-9. How to Sell an SEO Agency
-10. SEO Agency Valuation: What's Your Agency Worth?
+1. How to Scale an SEO Agency
+2. SEO Agency Profit Margins: Industry Benchmarks
+3. How to Increase SEO Agency Value Before Selling
+4. SEO Agency Valuation: What's Your Agency Worth?
+5. How to Sell an SEO Agency
+6. Exit Strategy for SEO Agency Owners
+7. How to Acquire an SEO Agency
+8. SEO Agency Roll-Up Strategy
 
-**Marketing Agency (10 articles)**
+**Marketing Agency (8 articles)**
 
-1. How to Start a Marketing Agency
-2. Marketing Agency Business Plan Template
-3. How to Get Clients for Your Marketing Agency
-4. How to Grow a Marketing Agency
-5. How to Price Marketing Agency Services
-6. How to Run a Marketing Agency
-7. How to Scale a Marketing Agency
-8. Marketing Agency Profit Margins: Industry Benchmarks
-9. How to Sell a Marketing Agency
-10. Marketing Agency Valuation: What's Your Agency Worth?
+1. How to Scale a Marketing Agency
+2. Marketing Agency Profit Margins: Industry Benchmarks
+3. How to Increase Marketing Agency Value Before Selling
+4. Marketing Agency Valuation: What's Your Agency Worth?
+5. How to Sell a Marketing Agency
+6. Exit Strategy for Marketing Agency Owners
+7. How to Acquire a Marketing Agency
+8. Marketing Agency Roll-Up Strategy
 
-**Web Design Agency (10 articles)**
+**Digital Agency (8 articles)**
 
-1. How to Start a Web Design Agency
-2. Web Design Agency Business Plan Template
-3. How to Get Clients for Your Web Design Agency
-4. How to Grow a Web Design Agency
-5. How to Price Web Design Agency Services
-6. How to Run a Web Design Agency
-7. How to Scale a Web Design Agency
-8. Web Design Agency Profit Margins: Industry Benchmarks
-9. How to Sell a Web Design Agency
-10. Web Design Agency Valuation: What's Your Agency Worth?
+1. How to Scale a Digital Agency
+2. Digital Agency Profit Margins: Industry Benchmarks
+3. How to Increase Digital Agency Value Before Selling
+4. Digital Agency Valuation: What's Your Agency Worth?
+5. How to Sell a Digital Agency
+6. Exit Strategy for Digital Agency Owners
+7. How to Acquire a Digital Agency
+8. Digital Agency Roll-Up Strategy
 
-**PR Agency (10 articles)**
+**Web Design Agency (8 articles)**
 
-1. How to Start a PR Agency
-2. PR Agency Business Plan Template
-3. How to Get Clients for Your PR Agency
-4. How to Grow a PR Agency
-5. How to Price PR Agency Services
-6. How to Run a PR Agency
-7. How to Scale a PR Agency
-8. PR Agency Profit Margins: Industry Benchmarks
-9. How to Sell a PR Agency
-10. PR Agency Valuation: What's Your Agency Worth?
+1. How to Scale a Web Design Agency
+2. Web Design Agency Profit Margins: Industry Benchmarks
+3. How to Increase Web Design Agency Value Before Selling
+4. Web Design Agency Valuation: What's Your Agency Worth?
+5. How to Sell a Web Design Agency
+6. Exit Strategy for Web Design Agency Owners
+7. How to Acquire a Web Design Agency
+8. Web Design Agency Roll-Up Strategy
 
-**AI Agency (10 articles)**
+**Consulting Agency (8 articles)**
 
-1. How to Start an AI Agency
-2. AI Agency Business Plan Template
-3. How to Get Clients for Your AI Agency
-4. How to Grow an AI Agency
-5. How to Price AI Agency Services
-6. How to Run an AI Agency
-7. How to Scale an AI Agency
-8. AI Agency Profit Margins: Industry Benchmarks
-9. How to Sell an AI Agency
-10. AI Agency Valuation: What's Your Agency Worth?
+1. How to Scale a Consulting Agency
+2. Consulting Agency Profit Margins: Industry Benchmarks
+3. How to Increase Consulting Agency Value Before Selling
+4. Consulting Agency Valuation: What's Your Agency Worth?
+5. How to Sell a Consulting Agency
+6. Exit Strategy for Consulting Agency Owners
+7. How to Acquire a Consulting Agency
+8. Consulting Agency Roll-Up Strategy
 
-### Phase 2: More Uncontested + Cross-Vertical (Month 3-4) — 65 articles
+### Phase 2: More Verticals + Cross-Vertical Hubs (Month 3-4) — 55 articles
 
-**Remaining uncontested verticals (9 verticals x 5 articles each = 45)**
+**Next 5 verticals (5 verticals x 8 articles each = 40)**
 
-Publish the top 5 templates for each remaining uncontested vertical:
+- Staffing Agency
+- Recruitment Agency
+- PR Agency
+- AI Agency
+- Advertising Agency
+
+**Cross-vertical hub content (15 articles)**
+
+Publish all 15 cross-vertical articles listed above. These target the highest-volume head terms and link down to every vertical spoke.
+
+### Phase 3: Remaining Verticals + GoMerge Competition (Month 5-6) — 55 articles
+
+**Remaining 10 verticals (10 verticals x 4 priority articles each = 40)**
+
+Publish the top 4 templates (Valuation, How to Sell, Scaling, Value Creation) for:
 
 - PPC Agency
 - Email Marketing Agency
 - Web Development Agency
 - UX Design Agency
 - Influencer Marketing Agency
-- Video Marketing Agency
-- Consulting Agency
-- Staffing Agency
-- Recruitment Agency
-
-Templates to prioritize first: Starting, Getting Clients, Pricing, Growing, Scaling.
-
-**Cross-vertical hub content (15 articles)**
-
-Publish all 15 cross-vertical articles listed above. These target the highest-volume head terms and link down to every vertical spoke.
-
-**Complete Phase 1 verticals (5 remaining articles per Phase 2 vertical = added over time)**
-
-### Phase 3: Compete with GoMerge (Month 5-6) — 60 articles
-
-**GoMerge's 6 agency verticals (6 verticals x 10 articles each = 60)**
-
-Now publish all 10 templates for GoMerge's verticals:
-
-- Digital Agency
 - Social Media Agency
 - Creative Agency
-- Advertising Agency
 - Branding Agency
 - Content Marketing Agency
+- Video Marketing Agency
 
-For Templates 9 and 10 (selling and valuation), which directly compete with GoMerge, ensure:
+**Complete remaining templates for Phase 3 verticals (15 articles)**
 
-- 2x the word count of GoMerge's articles
-- Include specific numbers, multiples, and benchmarks
-- Add expert quotes or community data from Agencies.co
-- Include downloadable checklists or templates
-- Consolidate what GoMerge splits across 4-5 thin articles into one comprehensive guide
+Fill in the remaining 4 templates (Exit Strategy, Acquisition, Roll-Up, Profit Margins) for the highest-performing Phase 3 verticals.
 
 ### Phase 4: Complete Coverage + Authority (Month 7+) — 45+ articles
 
-- Complete all 10 templates for Phase 2 verticals (45 remaining articles)
-- Add new verticals as market demand emerges
-- Refresh top performers with updated data
-- Build out comparison content ("SEO Agency vs Marketing Agency")
-- Create "agency type quiz" or interactive tools
+- Complete all 8 templates for remaining Phase 3 verticals
+- Add new verticals as market demand emerges (e.g., Performance Marketing Agency, Growth Agency)
+- Refresh top performers with updated multiples data
+- Build out comparison content ("SEO Agency vs Digital Agency Valuations")
+- Create interactive tools (agency valuation calculator, exit readiness assessment)
+- Publish deal teardown case studies
 
 ---
 
@@ -365,23 +355,24 @@ For Templates 9 and 10 (selling and valuation), which directly compete with GoMe
 
 | Phase | Timeframe | Articles | Focus |
 |-------|-----------|----------|-------|
-| Phase 1 | Month 1-2 | 50 | Top 5 uncontested verticals (full coverage) |
-| Phase 2 | Month 3-4 | 65 | 9 more verticals + cross-vertical hubs |
-| Phase 3 | Month 5-6 | 60 | GoMerge's 6 verticals (direct competition) |
+| Phase 1 | Month 1-2 | 40 | Top 5 verticals (full 8-template coverage) |
+| Phase 2 | Month 3-4 | 55 | 5 more verticals + cross-vertical hubs |
+| Phase 3 | Month 5-6 | 55 | Remaining 10 verticals (priority templates) |
 | Phase 4 | Month 7+ | 45+ | Complete coverage + authority building |
-| **Total** | | **220+** | **20 verticals x 10 templates + 15 hubs** |
+| **Total** | | **195+** | **20 verticals x 8 templates + 15 hubs** |
 
 ### vs. GoMerge Comparison
 
 | Metric | GoMerge | Agencies.co Plan |
 |--------|---------|-----------------|
 | Agency verticals | 6 | 20 |
-| Lifecycle phases | 1 (selling only) | 5 (start, grow, manage, scale, sell) |
-| Articles per vertical | 8 | 10 |
-| Total agency articles | 45 | 200+ |
+| Content focus | Selling only | Scale, value creation, sell, acquire, roll-up |
+| Buy-side content | 0 articles | 20+ articles |
+| Roll-up / M&A content | 0 articles | 20+ articles |
+| Total agency articles | 45 | 195+ |
 | Cross-vertical hubs | 0 | 15+ |
 | Avg. word count | 1,800 | 3,000-4,000 |
-| Original data/benchmarks | No | Yes (community data) |
+| Original data/benchmarks | No | Yes (community data, real multiples) |
 | Article depth | Templated, thin | Comprehensive, actionable |
 
 ---
@@ -390,7 +381,7 @@ For Templates 9 and 10 (selling and valuation), which directly compete with GoMe
 
 ### Hub-to-Spoke
 
-Every hub page (`/blog/[vertical]-agency/`) links to all 10 spoke articles for that vertical.
+Every hub page (`/blog/[vertical]-agency/`) links to all 8 spoke articles for that vertical.
 
 ### Spoke-to-Hub
 
@@ -398,11 +389,11 @@ Every spoke article links back to its hub page in the introduction and conclusio
 
 ### Spoke-to-Spoke
 
-Each spoke article links to 2-3 related spokes within the same vertical (e.g., "How to Start" links to "Business Plan" and "Getting Clients").
+Each spoke article links to 2-3 related spokes within the same vertical (e.g., "Valuation" links to "How to Sell" and "Increase Value").
 
 ### Cross-Vertical
 
-Each spoke article links to the same template in 2-3 related verticals (e.g., "How to Start an SEO Agency" links to "How to Start a Marketing Agency" and "How to Start a PPC Agency").
+Each spoke article links to the same template in 2-3 related verticals (e.g., "SEO Agency Valuation" links to "Marketing Agency Valuation" and "PPC Agency Valuation").
 
 ### Hub-to-Hub
 
@@ -410,42 +401,62 @@ Hub pages link to the cross-vertical hub content and to 3-4 related vertical hub
 
 ### Cross-Vertical Hubs
 
-The 15 cross-vertical hub articles link down to the relevant spoke in every vertical (e.g., "Agency Pricing Models" links to the pricing article for all 20 verticals).
+The 15 cross-vertical hub articles link down to the relevant spoke in every vertical (e.g., "Agency Valuation Multiples" links to the valuation article for all 20 verticals).
+
+### Topical Linking Clusters
+
+Create tight link clusters around key themes:
+
+- **Valuation cluster**: All valuation articles + EBITDA benchmarks + profit margins + multiples hub
+- **Acquisition cluster**: All acquisition articles + roll-up articles + due diligence + SBA loans + holding company
+- **Exit cluster**: All selling articles + exit strategy + earnout structures + strategic vs financial buyers + tax considerations
 
 ---
 
 ## Differentiation Tactics
 
-### 1. Agency-Specific Benchmarks
+### 1. Real Multiples Data
 
-Include real numbers wherever possible:
+Include actual valuation ranges wherever possible:
 
-- Average revenue per employee by agency type
-- Typical profit margins by agency size and type
-- Client acquisition cost benchmarks
-- Revenue per client benchmarks
-- Common pricing ranges by service and market
+- EBITDA multiples by agency type and revenue tier
+- Revenue multiples for recurring vs project-based agencies
+- How multiples have trended over the past 3-5 years
+- Premium multipliers (recurring revenue, niche specialization, geographic diversification)
+- Discount factors (owner dependence, client concentration, no contracts)
 
-### 2. Community Insights
+### 2. Deal Structure Examples
+
+Show real deal math:
+
+- Example: $2M revenue agency at 4x EBITDA with 70% at close, 30% earnout
+- SBA 7(a) loan acquisition at 10% down
+- Roll-up scenario: 3 agencies at 3x EBITDA sold as a group at 6x
+- Earnout structures with milestone-based triggers
+- Seller financing terms and typical interest rates
+
+### 3. Community Insights
 
 Leverage Agencies.co's community for:
 
-- Founder quotes and stories
-- Poll data on agency challenges
-- Real examples (anonymized if needed)
-- Salary and compensation data
+- Founder quotes on exit experiences
+- Poll data on exit goals and timelines
+- Real acquisition stories (anonymized if needed)
+- Salary and compensation benchmarks for scaled agencies
+- Survey data on what buyers actually paid
 
-### 3. Actionable Templates
+### 4. Actionable Frameworks
 
 Every article should include at least one:
 
-- Checklist, template, or framework
-- Step-by-step process with specific actions
-- Example calculations or scenarios
+- Checklist, scorecard, or decision framework
+- Step-by-step process with specific actions and timelines
+- Example calculations or deal scenarios
+- Template (LOI template, due diligence checklist, integration plan)
 
-### 4. Consolidation Strategy
+### 5. Consolidation Strategy (vs. GoMerge)
 
-Where GoMerge splits thin content across 5 articles (how to sell, prepare for sale, valuation, exit strategy, what buyers want), Agencies.co should create ONE comprehensive guide that covers it all — then rank for all 5 keywords with a single, stronger page.
+Where GoMerge splits thin content across 5 articles (how to sell, prepare for sale, valuation, exit strategy, what buyers want), Agencies.co creates ONE comprehensive guide per topic that covers it all — then ranks for all their fragmented keywords with a single, stronger page.
 
 ---
 
@@ -480,10 +491,13 @@ Where GoMerge splits thin content across 5 articles (how to sell, prepare for sa
 
 | Metric | Target (6 months) | Target (12 months) |
 |--------|-------------------|---------------------|
-| Indexed pages | 150+ | 220+ |
-| Organic traffic (monthly) | 10,000+ visits | 50,000+ visits |
-| Keywords ranking top 10 | 200+ | 500+ |
-| Keywords ranking top 3 | 50+ | 150+ |
-| Avg. time on page | 4+ minutes | 4+ minutes |
-| Backlinks acquired | 100+ | 300+ |
-| Conversion rate (blog → signup) | 2-3% | 3-5% |
+| Indexed pages | 100+ | 195+ |
+| Organic traffic (monthly) | 5,000+ visits | 25,000+ visits |
+| Keywords ranking top 10 | 150+ | 400+ |
+| Keywords ranking top 3 | 30+ | 100+ |
+| Avg. time on page | 5+ minutes | 5+ minutes |
+| Backlinks acquired | 75+ | 250+ |
+| Conversion rate (blog → inquiry/signup) | 3-5% | 5-8% |
+| Qualified M&A leads from content | 10+/month | 30+/month |
+
+**Note**: Traffic targets are lower than a full-lifecycle strategy because later-stage keywords have lower volume but dramatically higher intent and conversion rates. A single "marketing agency valuation" visitor is worth 100x a "how to start an agency" visitor.
