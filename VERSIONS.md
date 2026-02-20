@@ -26,11 +26,15 @@ Current versions of all skills. Agents can compare against local versions to che
 | programmatic-seo | 1.0.0 | 2026-01-27 |
 | referral-program | 1.0.0 | 2026-01-27 |
 | schema-markup | 1.0.0 | 2026-01-27 |
+| seo-blog-strategy | 1.0.0 | 2026-02-20 |
 | seo-audit | 1.0.0 | 2026-01-27 |
 | signup-flow-cro | 1.0.0 | 2026-01-27 |
 | social-content | 1.0.0 | 2026-01-27 |
 
 ## Recent Changes
+
+### 2026-02-20
+- Added seo-blog-strategy skill with competitive analysis framework
 
 ### 2026-01-27
 - Initial version tracking added
