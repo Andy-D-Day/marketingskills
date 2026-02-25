@@ -13,23 +13,23 @@ Your best people are burning out. Clients keep escalating to you. Growth feels l
 
 Sound familiar?
 
-Here's what's actually happening: you're solving $3M problems with a $1M team structure. Every new dollar of revenue feels harder because it is — you never rebuilt the foundation.
+Here's what's happening: you're solving $3M problems with a $1M team structure. Every new dollar feels harder because you never rebuilt the foundation.
 
-The pattern is always the same. More revenue means more hiring. More hiring means more management overhead. More overhead means thinner margins. Thinner margins mean more pressure. More pressure means your best people leave. Their departure means more work on your plate.
+The pattern is always the same. More revenue means more hiring. More hiring means more overhead. More overhead means thinner margins. Thinner margins mean your best people leave. Their departure means more work on your plate.
 
 It's a cycle, and revenue won't break it.
 
-The agencies that get through the $3-5M phase all share one counterintuitive trait: the founder makes the business smaller before making it bigger.
+The agencies that get through $3-5M share one counterintuitive trait: the founder makes the business smaller before making it bigger.
 
-That means firing clients. I know that sounds insane when you're trying to grow. But your 3 lowest-margin clients are consuming 40% of your team's energy for 15% of your revenue. They're the reason your A-players are burning out.
+That means firing clients. Your 3 lowest-margin clients are consuming 40% of your team's energy for 15% of your revenue. They're the reason your A-players are burning out.
 
-Here's what breaking the cycle actually looks like:
+Here's what breaking the cycle looks like:
 
-Identify your 3 lowest-margin clients. Build a 90-day plan to replace them with fewer, higher-value accounts. Raise your prices 20% for all new business. Take the margin improvement and invest it in one senior ops hire.
+Identify your 3 lowest-margin clients. Build a 90-day plan to replace them with higher-value accounts. Raise prices 20% on new business. Invest the margin improvement in one senior ops hire.
 
-That single sequence — cut, reprice, reinvest — changes the entire trajectory.
+Cut, reprice, reinvest. That sequence changes the entire trajectory.
 
-You didn't build an agency to run on a hamster wheel. The $3-5M wall isn't a growth problem. It's a structure problem.
+The $3-5M wall isn't a growth problem. It's a structure problem.
 
 What would you change first if you could rebuild your agency from scratch?
 
