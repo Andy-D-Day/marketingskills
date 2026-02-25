@@ -5,6 +5,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | Skill | Version | Last Updated |
 |-------|---------|--------------|
 | ab-test-setup | 1.0.0 | 2026-01-27 |
+| b2b-influencer-posts | 1.0.0 | 2026-02-25 |
 | analytics-tracking | 1.0.0 | 2026-01-27 |
 | competitor-alternatives | 1.0.0 | 2026-01-27 |
 | content-strategy | 1.0.0 | 2026-01-27 |
@@ -31,6 +32,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.0.0 | 2026-01-27 |
 
 ## Recent Changes
+
+### 2026-02-25
+- Added b2b-influencer-posts skill (20 social media posts for agency exits & acquisitions)
 
 ### 2026-01-27
 - Initial version tracking added
