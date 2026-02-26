@@ -6,13 +6,13 @@
 
 ## 1. Brand Essence
 
-**No Nasties exists to make clean, chemical-free living feel effortless and aspirational for health-conscious consumers who refuse to compromise on style.**
+**No Nasties exists to lead the global shift toward clean, toxin-aware living — removing unnecessary toxins and complexity from modern life through trusted products, influential media, and transformative experiences.**
 
 ---
 
 ## 2. Brand Positioning Statement
 
-For health-conscious consumers who want to live clean without looking like they're trying too hard, **No Nasties** is the curated wellness brand that combines research-backed, chemical-free products with a fashion-forward aesthetic — because clean living should look as good as it feels.
+**No Nasties** is the global wellness company built around one clear principle: removing unnecessary toxins and complexity from modern living to help people achieve optimal health. Operating across products, media, and immersive experiences, No Nasties creates a connected ecosystem that supports physical wellbeing, mental clarity, and long-term vitality — making optimal health practical, scalable, and culturally relevant.
 
 ---
 
@@ -23,7 +23,7 @@ For health-conscious consumers who want to live clean without looking like they'
 - **What it doesn't mean:** Preachy, lecturing, or guilt-tripping. We inform, we don't shame.
 
 ### Clean Authority
-- **What it means:** We are a trusted resource. We do the homework so our customers don't have to. If it's in our range, it's been vetted.
+- **What it means:** We are a trusted resource. We do the homework so our customers don't have to. If it's in our range, it's been vetted. Our media and education platforms set the standard for evidence-led wellbeing.
 - **What it doesn't mean:** Clinical or sterile. We're authoritative but warm — a knowledgeable friend, not a lab coat.
 
 ### Effortless Style
@@ -31,7 +31,7 @@ For health-conscious consumers who want to live clean without looking like they'
 - **What it doesn't mean:** Superficial or trend-chasing. Style serves substance. We look good because we are good.
 
 ### Conscious Living
-- **What it means:** Respect for body, environment, and longevity. Every choice considers long-term wellbeing and environmental impact.
+- **What it means:** Respect for body, environment, and longevity. Every choice considers long-term wellbeing and environmental impact. Prevention, optimisation, and conscious consumption are the new baseline — not a niche trend.
 - **What it doesn't mean:** Militant, restrictive, or judgemental. We make the better choice feel like the easy choice.
 
 ---
@@ -47,13 +47,13 @@ For health-conscious consumers who want to live clean without looking like they'
 | **Knowledge** | Research-informed, credible | Academic, jargon-heavy, dry |
 
 ### Brand as a Person
-She's 32, lives in a bright apartment with white oak floors and linen curtains. She shops at farmers' markets on Saturday mornings but spends Saturday nights at a gallery opening. She reads *Kinfolk* and *Vogue*. She knows what adaptogens are but doesn't make it her whole personality. She's the friend who always knows which sunscreen is actually clean — and it looks beautiful on her bathroom shelf.
+She's 32, lives in a bright apartment with white oak floors and linen curtains. She shops at farmers' markets on Saturday mornings but spends Saturday nights at a gallery opening. She reads *World of Interiors* and *Vogue*. She knows what adaptogens are but doesn't make it her whole personality. She's the friend who always knows which sunscreen is actually clean — and it looks beautiful on her bathroom shelf.
 
 ### Brand as a Place
-A white sand beach at the edge of a tropical rainforest. The air is warm and clean. There's a simple wooden table with an acai bowl, sparkling water, and a single stem of bougainvillea. The ocean is pale blue and perfectly still. Everything is natural but nothing is rough.
+A white sand beach at the edge of a tropical rainforest. The air is warm and clean. There's a simple wooden table with an acai bowl, sparkling water, and a single stem of jasmine. The ocean is pale blue and perfectly still. Everything is natural but nothing is rough.
 
 ### Brand as a Magazine
-A cross between *Kinfolk* (aesthetic restraint, natural beauty) and *Vogue* (fashion authority, aspiration) — with the wellness credibility of *Well+Good*.
+A cross between *World of Interiors* (architectural elegance, refined taste) and *Vogue* (fashion authority, aspiration) — with the wellness credibility of *Well+Good*.
 
 ---
 
@@ -65,7 +65,7 @@ A cross between *Kinfolk* (aesthetic restraint, natural beauty) and *Vogue* (fas
 | Color | Hex (approx.) | Role |
 |-------|---------------|------|
 | **Pale Sky Blue** | `#B8D4E3` | Trust, clarity, clean water — the brand's signature calm |
-| **Soft Blush Pink** | `#F2D4D0` | Warmth, approachability, femininity without fragility |
+| **Soft Rose Pink** | `#F2D4D0` | Warmth, approachability, femininity without fragility |
 | **Sage Green** | `#C5D5C0` | Nature, wellness, growth — grounding without being earthy |
 
 #### Secondary Colors
@@ -82,7 +82,7 @@ A cross between *Kinfolk* (aesthetic restraint, natural beauty) and *Vogue* (fas
 | **Off-White** | `#FAFAF7` | Backgrounds — warm, not sterile |
 
 #### Color Rationale
-The palette draws directly from the brand's natural references: ocean water (pale blue), wildflowers and skin (blush pink), and meadow fields (sage green). These are deliberately **pale and muted** — never saturated or loud. The palette communicates cleanliness and nature without veering into "health food store" territory.
+The palette draws directly from the brand's natural references: ocean water (pale blue), wildflowers and skin (rose pink), and meadow fields (sage green). These are deliberately **pale and muted** — never saturated or loud. The palette communicates cleanliness and nature without veering into "health food store" territory.
 
 ### Typography Direction
 
@@ -171,9 +171,11 @@ The palette draws directly from the brand's natural references: ocean water (pal
 
 There's a gap in the market — and it's shaped like a question most people are quietly asking: *What am I actually putting on my skin, in my home, in my body?*
 
-The clean living space is full of answers, but most of them come wrapped in guilt, jargon, or an aesthetic that feels like it belongs in a different decade. On one side, there's the wellness world — well-intentioned but often unpolished, unverified, and speaking in a language that only converts already believe. On the other, there's the beauty and lifestyle industry — glossy, desirable, and powered by ingredients lists that require a chemistry degree to decode.
+The wellness space is full of answers, but most of them come wrapped in guilt, jargon, or an aesthetic that feels like it belongs in a different decade. On one side, there's the wellness world — well-intentioned but often unpolished, unverified, and speaking in a language that only converts already believe. On the other, there's the beauty and lifestyle industry — glossy, desirable, and powered by ingredients lists that require a chemistry degree to decode.
 
-**No Nasties sits in the space between.** We do the research — properly — so you don't have to. Every product we recommend or sell has been vetted for what's in it and what's not. But we don't think clean living should come with a uniform. No Nasties looks like the brands you already love — the fashion labels, the design studios, the editorial titles that set the standard for modern taste. We just happen to believe that what's inside matters as much as what's outside. Clean, researched, beautiful. No compromises. No nasties.
+**No Nasties sits in the space between — and builds an entire ecosystem there.** From supplements and clean-living products to digital media, education platforms, and large-scale live experiences, we translate wellness science into practical, accessible lifestyle choices at global scale. We do the research — properly — so you don't have to. Every product has been vetted. Every piece of content is evidence-led. Every experience is designed to make clean living feel like the obvious choice, not the difficult one.
+
+Rather than positioning wellness as a niche trend, No Nasties frames it as the new baseline for modern life — where prevention, optimisation, and conscious consumption are normalised worldwide. We look like the brands you already love. We just happen to believe that what's inside matters as much as what's outside. Clean, researched, transformative. No compromises. No nasties.
 
 ---
 
@@ -189,7 +191,7 @@ The clean living space is full of answers, but most of them come wrapped in guil
 
 **Aspirations:** To age well. To live in an environment that feels clean and beautiful. To make better choices without it feeling like a project. To be the friend who always knows the best version of everything.
 
-**Media diet:** *Kinfolk*, *Vogue*, *The New York Times Wirecutter*, *Well+Good*, *Goop* (but slightly skeptical of it). Follows curated Instagram accounts for interiors, food, and fashion. Listens to wellness-adjacent podcasts but skips anything too "woo."
+**Media diet:** *World of Interiors*, *Vogue*, *The New York Times Wirecutter*, *Well+Good*, *Goop* (but slightly skeptical of it). Follows curated Instagram accounts for interiors, food, and fashion. Listens to wellness-adjacent podcasts but skips anything too "woo."
 
 **Brands she loves:** Aesop, Le Labo, Glossier, Reformation, Patagonia, Byredo, The Laundress, Seed, Dr. Barbara Sturm.
 
@@ -225,7 +227,7 @@ The clean living space is full of answers, but most of them come wrapped in guil
                     ACCESSIBLE / MASS
 ```
 
-**The white space No Nasties occupies:** Premium and aspirational, but editorially styled rather than clinically positioned. More fashion-credible than Goop, more accessible than prestige dermatology brands. The key differentiator is the fusion of **research credibility** with **editorial aesthetics** — trusted like a Wirecutter review, beautiful like a Kinfolk spread.
+**The white space No Nasties occupies:** A category-defining company that integrates products, media, and experiences into a single ecosystem. Premium and aspirational, editorially styled rather than clinically positioned. More fashion-credible than Goop, more accessible than prestige dermatology brands, and broader than any single-category competitor. The key differentiator is the fusion of **research credibility** with **editorial aesthetics** at global scale — trusted like a Wirecutter review, beautiful like a *World of Interiors* spread, experienced like a world-class live event.
 
 ---
 
@@ -235,22 +237,24 @@ The clean living space is full of answers, but most of them come wrapped in guil
 PROJECT: No Nasties — Brandmark & Logo Design
 
 BRAND ESSENCE:
-No Nasties makes clean, chemical-free living effortless and
-aspirational — researched, trusted, and fashion-forward.
+No Nasties leads the global shift toward clean, toxin-aware
+living — through trusted products, influential media, and
+transformative experiences.
 
 POSITIONING:
-The curated wellness brand where research meets editorial
-aesthetics. Clean living that looks as good as it feels.
+The global wellness company where research meets editorial
+aesthetics. Products, media, and experiences that make
+optimal health practical, scalable, and culturally relevant.
 
 PERSONALITY:
 Confident, warm, refined, modern, credible
 
 VISUAL DIRECTION:
-- Primary colors: Pale Sky Blue (#B8D4E3), Soft Blush Pink
+- Primary colors: Pale Sky Blue (#B8D4E3), Soft Rose Pink
   (#F2D4D0), Sage Green (#C5D5C0)
 - Secondary: Warm Sand (#F0E6D3)
 - Typography feel: Clean sans-serif with editorial elegance.
-  Think Celine, Glossier, Kinfolk — modern, spacious, refined.
+  Think Celine, Glossier, World of Interiors — modern, spacious, refined.
 - Imagery references: Açai bowls on marble, fields of
   wildflowers in soft focus, white sand meeting rainforest
   edge, still pale-blue water
@@ -291,7 +295,7 @@ BRANDMARK CONSIDERATIONS:
 REFERENCE BRANDS (for style direction, not imitation):
 - Glossier — clean, modern, pink-toned, approachable luxury
 - Aesop — typographic confidence, understated premium feel
-- Kinfolk — editorial restraint, natural color palette, space
+- World of Interiors — architectural elegance, refined taste, space
 - Byredo — minimal, fashion-credible, quiet luxury
 - Reformation — sustainable but stylish, never preachy
 
