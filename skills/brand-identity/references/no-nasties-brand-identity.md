@@ -71,7 +71,6 @@ A cross between *Kinfolk* (aesthetic restraint, natural beauty) and *Vogue* (fas
 #### Secondary Colors
 | Color | Hex (approx.) | Role |
 |-------|---------------|------|
-| **Lavender Mist** | `#D8D0E8` | Luxury, premium feel, modernity |
 | **Warm Sand** | `#F0E6D3` | Neutral warmth, beach reference, natural elegance |
 | **Soft White** | `#FAFAF7` | Clean space, breathing room, purity |
 
@@ -83,7 +82,7 @@ A cross between *Kinfolk* (aesthetic restraint, natural beauty) and *Vogue* (fas
 | **Off-White** | `#FAFAF7` | Backgrounds — warm, not sterile |
 
 #### Color Rationale
-The palette draws directly from the brand's natural references: ocean water (pale blue), wildflowers and skin (blush pink), meadow fields (sage green), and tropical florals (lavender). These are deliberately **pale and muted** — never saturated or loud. The palette communicates cleanliness and nature without veering into "health food store" territory. The lavender adds a fashion-forward edge that separates No Nasties from the typical green-and-brown wellness aesthetic.
+The palette draws directly from the brand's natural references: ocean water (pale blue), wildflowers and skin (blush pink), and meadow fields (sage green). These are deliberately **pale and muted** — never saturated or loud. The palette communicates cleanliness and nature without veering into "health food store" territory.
 
 ### Typography Direction
 
@@ -249,7 +248,7 @@ Confident, warm, refined, modern, credible
 VISUAL DIRECTION:
 - Primary colors: Pale Sky Blue (#B8D4E3), Soft Blush Pink
   (#F2D4D0), Sage Green (#C5D5C0)
-- Secondary: Lavender Mist (#D8D0E8), Warm Sand (#F0E6D3)
+- Secondary: Warm Sand (#F0E6D3)
 - Typography feel: Clean sans-serif with editorial elegance.
   Think Celine, Glossier, Kinfolk — modern, spacious, refined.
 - Imagery references: Açai bowls on marble, fields of
