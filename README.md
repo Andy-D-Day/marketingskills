@@ -19,6 +19,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 |-------|-------------|
 | [ab-test-setup](skills/ab-test-setup/) | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B... |
 | [analytics-tracking](skills/analytics-tracking/) | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions... |
+| [buyer-mandate-form](skills/buyer-mandate-form/) | When the user wants to build a buyer mandate form, acquisition marketplace, or M&A matching platform. Also use when... |
 | [competitor-alternatives](skills/competitor-alternatives/) | When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when... |
 | [content-strategy](skills/content-strategy/) | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also... |
 | [copy-editing](skills/copy-editing/) | When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this... |
@@ -174,6 +175,7 @@ You can also invoke skills directly:
 ### Growth Engineering
 - `free-tool-strategy` - Marketing tools and calculators
 - `referral-program` - Referral and affiliate programs
+- `buyer-mandate-form` - M&A marketplace mandate forms and agency matching
 
 ### Strategy & Monetization
 - `marketing-ideas` - 140 SaaS marketing ideas
