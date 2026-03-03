@@ -7,7 +7,7 @@ description: "20 ready-to-script B2B social media posts for agency founders abov
 
 20 high-performing social media post concepts targeting three audiences: entrepreneurs running $3M+ agencies, agency founders considering a sale, and investors acquiring marketing agencies. Each post uses a proven B2B hook format designed for LinkedIn and Twitter/X.
 
-These are post concepts ready to be turned into full scripts.
+Full scripts for all 20 posts are available in the `scripts/` directory. Each script includes a LinkedIn version (1,200-1,500 characters) and a Twitter/X thread (8 tweets).
 
 ---
 
@@ -444,17 +444,44 @@ These are post concepts ready to be turned into full scripts.
 
 ---
 
-## Turning Posts Into Scripts
+## Scripts Database
 
-Each post above is designed to become a full script. When scripting:
+All 20 posts have full scripts in the `scripts/` directory, ready to publish:
 
-1. **Expand the hook** — Write 2-3 variations and test the strongest
-2. **Build the body** — Use the key points as your outline, add data, examples, and personal anecdotes
-3. **Write the close** — End with a clear CTA that drives comments
-4. **Adapt per platform:**
-   - **LinkedIn:** 1,200-1,500 characters, use line breaks for readability
-   - **Twitter/X:** Thread format, 1 key point per tweet, hook tweet must stand alone
-   - **Short-form video:** 60-90 seconds, hook in first 3 seconds, key points as on-screen text
+| Post | File | Title | Audience |
+|------|------|-------|----------|
+| 1 | `scripts/post-01.md` | Your Agency Isn't Worth What Your Broker Says | Seller |
+| 2 | `scripts/post-02.md` | Why Most Agency Acquisitions Fail | Investor |
+| 3 | `scripts/post-03.md` | The Founder Who Turned Down $8M | Seller |
+| 4 | `scripts/post-04.md` | 7 Signs Your Agency Is Worthless Without You | Entrepreneur |
+| 5 | `scripts/post-05.md` | You're Not an Owner, You're the Highest-Paid Employee | Entrepreneur |
+| 6 | `scripts/post-06.md` | PE Is Coming for Marketing Agencies | Investor |
+| 7 | `scripts/post-07.md` | The 90-Day Disappearance Test | Seller |
+| 8 | `scripts/post-08.md` | Stop Chasing $10M Revenue | Entrepreneur |
+| 9 | `scripts/post-09.md` | 3 Years Preparing to Sell | Seller |
+| 10 | `scripts/post-10.md` | We Bought a $3M Agency and Doubled It | Investor |
+| 11 | `scripts/post-11.md` | The Worst Thing That Happened Was Crossing $3M | Entrepreneur |
+| 12 | `scripts/post-12.md` | Client Concentration Will Kill Your Valuation | Seller |
+| 13 | `scripts/post-13.md` | 200 Agency Deals Later, Here's the #1 Red Flag | Investor |
+| 14 | `scripts/post-14.md` | What PE Firms Evaluate in the First 48 Hours | Seller |
+| 15 | `scripts/post-15.md` | Growth Feels Like a Trap | Entrepreneur |
+| 16 | `scripts/post-16.md` | Agency Valuations Have Peaked | Seller |
+| 17 | `scripts/post-17.md` | $2M Agency With Great Ops vs. $8M Hero Founder | Investor |
+| 18 | `scripts/post-18.md` | Stop Trying to Grow Your Way to a Better Valuation | Seller |
+| 19 | `scripts/post-19.md` | I Needed More Clients (I Was Wrong) | Entrepreneur |
+| 20 | `scripts/post-20.md` | The 4-Agency Roll-Up That Sold for $42M | Investor |
+
+Each script includes:
+- **LinkedIn version** — 1,200-1,500 characters, line breaks for readability
+- **Twitter/X thread** — 8 tweets, hook tweet stands alone
+
+### Customizing Scripts
+
+When adapting scripts for a specific voice or brand:
+
+1. Swap in real numbers from the founder's own experience
+2. Adjust the CTA to match their current funnel (DMs, link, newsletter)
+3. Add a short-form video version: 60-90 seconds, hook in first 3 seconds, key points as on-screen text
 
 ---
 
