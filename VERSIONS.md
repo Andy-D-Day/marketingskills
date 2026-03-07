@@ -20,6 +20,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | launch-strategy | 1.1.0 | 2026-02-27 |
 | marketing-ideas | 1.1.0 | 2026-02-27 |
 | marketing-psychology | 1.1.0 | 2026-02-27 |
+| newsletter-inactive-contacts | 1.0.0 | 2026-03-07 |
 | onboarding-cro | 1.1.0 | 2026-02-27 |
 | page-cro | 1.1.0 | 2026-02-27 |
 | paid-ads | 1.1.0 | 2026-02-27 |
@@ -38,6 +39,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.1.0 | 2026-02-27 |
 
 ## Recent Changes
+
+### 2026-03-07
+- Added `newsletter-inactive-contacts` skill for re-engaging dormant email contacts, list hygiene, platform contact limit management, and reactivation campaigns
 
 ### 2026-02-27
 - Migrated context path from `.claude/` to `.agents/` for agent-agnostic compatibility
