@@ -128,6 +128,10 @@ async function main() {
               }
               console.error(`Downloading: ${t.title} (${t.id})...`)
               const full = await graphql(FULL_TRANSCRIPT_QUERY, { id: t.id })
+              if (!full || !full.transcript) {
+                console.error(`  Warning: no data returned for ${t.id}, skipping`)
+                continue
+              }
               fs.writeFileSync(filepath, JSON.stringify(full.transcript, null, 2))
               totalDownloaded++
             }
