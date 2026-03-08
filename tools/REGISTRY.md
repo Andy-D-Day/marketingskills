@@ -64,6 +64,7 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 | intercom | Messaging | ✓ | - | [✓](clis/intercom.js) | ✓ | [intercom.md](integrations/intercom.md) |
 | buffer | Social | ✓ | - | [✓](clis/buffer.js) | - | [buffer.md](integrations/buffer.md) |
 | wistia | Video | ✓ | - | [✓](clis/wistia.js) | - | [wistia.md](integrations/wistia.md) |
+| fireflies | Meeting Intelligence | ✓ | - | [✓](clis/fireflies.js) | - | [fireflies.md](integrations/fireflies.md) |
 | trustpilot | Reviews | ✓ | - | [✓](clis/trustpilot.js) | - | [trustpilot.md](integrations/trustpilot.md) |
 | g2 | Reviews | ✓ | - | [✓](clis/g2.js) | - | [g2.md](integrations/g2.md) |
 | onesignal | Push | ✓ | - | [✓](clis/onesignal.js) | ✓ | [onesignal.md](integrations/onesignal.md) |
@@ -291,6 +292,16 @@ Webinar and virtual event platforms.
 
 **Agent recommendation**: Demio for marketing-focused webinars. Livestorm for full event engagement.
 
+### Meeting Intelligence
+
+Meeting transcription, recording, and analysis tools.
+
+| Tool | Best For | Notes |
+|------|----------|-------|
+| **fireflies** | Meeting transcription, AI summaries | GraphQL API |
+
+**Agent recommendation**: Fireflies.ai for automated meeting transcription and action item extraction.
+
 ### Email Outreach
 
 Cold email outreach and email finding tools for link building and sales prospecting.
@@ -362,6 +373,10 @@ To use MCP tools, ensure the appropriate MCP server is configured in your enviro
 ### Running email outreach for backlinks
 1. Read [hunter.md](integrations/hunter.md) for finding emails
 2. Read [lemlist.md](integrations/lemlist.md) or [instantly.md](integrations/instantly.md) for sending campaigns
+
+### Downloading meeting transcripts
+1. Read [fireflies.md](integrations/fireflies.md) for setup
+2. Run `node tools/clis/fireflies.js transcripts download-all` to export all transcripts
 
 ### Running paid ads
 1. Read [google-ads.md](integrations/google-ads.md) for search campaigns
