@@ -119,10 +119,16 @@ async function main() {
             if (!transcripts || transcripts.length === 0) { hasMore = false; break }
 
             for (const t of transcripts) {
+              const filename = `${t.id}-${sanitize(t.title)}.json`
+              const filepath = path.join(outputDir, filename)
+              if (fs.existsSync(filepath)) {
+                console.error(`Skipping (exists): ${t.title} (${t.id})`)
+                totalDownloaded++
+                continue
+              }
               console.error(`Downloading: ${t.title} (${t.id})...`)
               const full = await graphql(FULL_TRANSCRIPT_QUERY, { id: t.id })
-              const filename = `${t.id}-${sanitize(t.title)}.json`
-              fs.writeFileSync(path.join(outputDir, filename), JSON.stringify(full.transcript, null, 2))
+              fs.writeFileSync(filepath, JSON.stringify(full.transcript, null, 2))
               totalDownloaded++
             }
 
