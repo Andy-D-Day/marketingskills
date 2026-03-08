@@ -35,15 +35,10 @@ async function graphql(query, variables = {}) {
   if (args['dry-run']) {
     return { _dry_run: true, url: BASE_URL, query, variables }
   }
-  const res = await fetch(BASE_URL, {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${API_KEY}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ query, variables }),
-  })
-  const json = await res.json()
+  const { execFileSync } = require('child_process')
+  const postData = JSON.stringify({ query, variables })
+  const body = execFileSync('curl', ['-s', '-X', 'POST', BASE_URL, '-H', `Authorization: Bearer ${API_KEY}`, '-H', 'Content-Type: application/json', '-d', postData], { encoding: 'utf8' })
+  const json = JSON.parse(body)
   if (json.errors) return { errors: json.errors }
   return json.data
 }
