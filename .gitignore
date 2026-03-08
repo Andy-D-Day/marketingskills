@@ -1,6 +1,10 @@
 # Dependencies
 node_modules/
 
+# Python virtual environment
+venv/
+__pycache__/
+
 # Environment variables / secrets
 .env
 .env.*
