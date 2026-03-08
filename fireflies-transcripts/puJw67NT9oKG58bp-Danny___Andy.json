@@ -1,0 +1,4864 @@
+{
+  "id": "puJw67NT9oKG58bp",
+  "title": "Danny & Andy",
+  "date": 1734433200000,
+  "dateString": "2024-12-17T11:00:00.000Z",
+  "duration": 55,
+  "participants": [
+    "andrew.day@capitala.co,daniel@marketingengines.co.uk",
+    "andrew.day@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "daniel@marketingengines.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "I used to have one a while ago, but because I've got quite a thick accent, it doesn't always work as that well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 0.84,
+      "end_time": 10.457
+    },
+    {
+      "text": "So, yeah, I ended up, ended up getting rid of it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 10.641,
+      "end_time": 13.365
+    },
+    {
+      "text": "You'll have to train it up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 15.345,
+      "end_time": 17.045
+    },
+    {
+      "text": "I know, I know.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 17.465,
+      "end_time": 18.569
+    },
+    {
+      "text": "I just, I don't think I had the patience for it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 18.617,
+      "end_time": 20.617
+    },
+    {
+      "text": "I actually got it for free.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 20.681,
+      "end_time": 21.873
+    },
+    {
+      "text": "It was like, this is like a year or so ago, I might even be a little bit longer.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 21.929,
+      "end_time": 28.363
+    },
+    {
+      "text": "And it was like a startup company and they were client of ours at one point and they gave me, and they gave it me for free.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 28.499,
+      "end_time": 35.603
+    },
+    {
+      "text": "But it wasn't like the AI wasn't that good, to be honest.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 35.779,
+      "end_time": 39.027
+    },
+    {
+      "text": "So I just ended up just building it off when.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 39.051,
+      "end_time": 40.731
+    },
+    {
+      "text": "And then they canceled the return, unsurprisingly, as soon as I did that, which is funny.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 40.803,
+      "end_time": 45.683
+    },
+    {
+      "text": "Well, you should try Fireflies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 45.819,
+      "end_time": 47.203
+    },
+    {
+      "text": "It's very good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 47.259,
+      "end_time": 48.195
+    },
+    {
+      "text": "I've heard, I've heard a lot actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 48.315,
+      "end_time": 49.851
+    },
+    {
+      "text": "I might have a look at it after this.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 49.923,
+      "end_time": 51.937
+    },
+    {
+      "text": "I'm going to open it up actually, just so I can have a look because the amount of calls that I do is just absolutely, absolutely mental.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 51.961,
+      "end_time": 59.137
+    },
+    {
+      "text": "It can do so much work for you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 59.241,
+      "end_time": 60.681
+    },
+    {
+      "text": "And even if it doesn't, I don't know whether you use ChatGPT or any of the other AIs, but you can download the transcript from the meeting and then use ChatGPT to extract from it for you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 60.713,
+      "end_time": 73.185
+    },
+    {
+      "text": "I mean, Fireflies does already do that, but for instance, we have like three weeks weekly meetings with my team and I've downloaded like 30 of these conversations and I said to ChatGPT, like every time my managing director mentions this one company, can you pull out everything that he's ever said about it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 73.225,
+      "end_time": 91.663
+    },
+    {
+      "text": "And it just collates like this whole thing on his opinion of one of our clients, which is really useful.",
+      "speaker_name": "Andrew Day",
+      "start_time": 91.679,
+      "end_time": 98.795
+    },
+    {
+      "text": "That's what this other software should have done, but it didn't.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 100.655,
+      "end_time": 103.735
+    },
+    {
+      "text": "It basically just did a transcript and then that was it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 103.895,
+      "end_time": 106.831
+    },
+    {
+      "text": "So it didn't really do what it, what it said.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 106.863,
+      "end_time": 108.483
+    },
+    {
+      "text": "There was no AI involved, like at all.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 108.499,
+      "end_time": 110.755
+    },
+    {
+      "text": "Even though I said that there were.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 110.875,
+      "end_time": 112.255
+    },
+    {
+      "text": "Good stuff for the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 113.715,
+      "end_time": 114.747
+    },
+    {
+      "text": "Yeah, I'm all over that, that sort of AI thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 114.811,
+      "end_time": 117.563
+    },
+    {
+      "text": "Sure you are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 117.699,
+      "end_time": 118.655
+    },
+    {
+      "text": "I know you are, mate.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 119.075,
+      "end_time": 120.455
+    },
+    {
+      "text": "So Lord's going on, really.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 120.875,
+      "end_time": 124.815
+    },
+    {
+      "text": "But what I want to do is I, I suppose like, I just want to get an idea of like where you're at, I suppose, I suppose I've got lots of questions, but it'd be good to like know like what it is that you're actually after.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 125.675,
+      "end_time": 140.209
+    },
+    {
+      "text": "I suppose.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 140.337,
+      "end_time": 141.205
+    },
+    {
+      "text": "So is this like a job interview, me interviewing you or you're interviewing me to see if you want.",
+      "speaker_name": "Andrew Day",
+      "start_time": 141.905,
+      "end_time": 145.721
+    },
+    {
+      "text": "I think it's more me interviewing you, I think.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 145.793,
+      "end_time": 147.805
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 148.385,
+      "end_time": 149.405
+    },
+    {
+      "text": "Okay, we'll see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 149.825,
+      "end_time": 151.073
+    },
+    {
+      "text": "We'll see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 151.209,
+      "end_time": 151.721
+    },
+    {
+      "text": "Because I've got questions too.",
+      "speaker_name": "Andrew Day",
+      "start_time": 151.753,
+      "end_time": 153.165
+    },
+    {
+      "text": "So what is it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 153.905,
+      "end_time": 155.009
+    },
+    {
+      "text": "What is the role?",
+      "speaker_name": "Andrew Day",
+      "start_time": 155.137,
+      "end_time": 156.017
+    },
+    {
+      "text": "So the role is biz dev.",
+      "speaker_name": "Andrew Day",
+      "start_time": 156.081,
+      "end_time": 157.645
+    },
+    {
+      "text": "I had somebody work for me for the last year.",
+      "speaker_name": "Andrew Day",
+      "start_time": 158.425,
+      "end_time": 160.681
+    },
+    {
+      "text": "It really didn't work out well at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 160.753,
+      "end_time": 163.175
+    },
+    {
+      "text": "So I definitely know exactly what I don't want.",
+      "speaker_name": "Andrew Day",
+      "start_time": 164.675,
+      "end_time": 167.131
+    },
+    {
+      "text": "I'm looking for somebody who's a self starter who understands that they also have to create the leads to some degree themselves and also understands how technology works.",
+      "speaker_name": "Andrew Day",
+      "start_time": 167.203,
+      "end_time": 177.655
+    },
+    {
+      "text": "I think the issue that we've had this year is we've had systems that were set up that were brilliant and then over time they've become worse for where, you know, and things just break down, they stop working the way they should and you've got to keep.",
+      "speaker_name": "Andrew Day",
+      "start_time": 177.955,
+      "end_time": 193.491
+    },
+    {
+      "text": "You've got to keep an eye on it, but also you've kind of got to stay abreast of just the changing landscape of things like email and lead gen and LinkedIn, et cetera.",
+      "speaker_name": "Andrew Day",
+      "start_time": 193.603,
+      "end_time": 204.611
+    },
+    {
+      "text": "You know, if things are always changing, the security is getting upgraded and then, you know, we can use a new piece of tech that goes around that there's always this dance going on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 204.643,
+      "end_time": 213.283
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 213.459,
+      "end_time": 214.175
+    },
+    {
+      "text": "That you just need to kind of be aware of and you more than most business development people as it's your trade.",
+      "speaker_name": "Andrew Day",
+      "start_time": 214.515,
+      "end_time": 221.705
+    },
+    {
+      "text": "So yeah, somebody's self start can generate some leads.",
+      "speaker_name": "Andrew Day",
+      "start_time": 223.085,
+      "end_time": 225.869
+    },
+    {
+      "text": "We do have a lot of inbound stuff going on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 225.917,
+      "end_time": 229.021
+    },
+    {
+      "text": "I'm quite active socially as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 229.173,
+      "end_time": 231.585
+    },
+    {
+      "text": "So we do get inbound stuff and we get some good SEO results as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 232.485,
+      "end_time": 238.181
+    },
+    {
+      "text": "So people Google how can I sell my marketing agency or whatever.",
+      "speaker_name": "Andrew Day",
+      "start_time": 238.213,
+      "end_time": 242.005
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 242.165,
+      "end_time": 242.693
+    },
+    {
+      "text": "And Capital A comes up top for that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 242.789,
+      "end_time": 245.677
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 245.741,
+      "end_time": 246.345
+    },
+    {
+      "text": "So that's pretty good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 246.925,
+      "end_time": 247.765
+    },
+    {
+      "text": "Plus we've got a mailing list of 20,000 on agencies co.",
+      "speaker_name": "Andrew Day",
+      "start_time": 247.805,
+      "end_time": 251.789
+    },
+    {
+      "text": "So we've.",
+      "speaker_name": "Andrew Day",
+      "start_time": 251.837,
+      "end_time": 252.221
+    },
+    {
+      "text": "We're emailing people opportunities and Updates and news, etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 252.253,
+      "end_time": 256.781
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 256.813,
+      "end_time": 257.157
+    },
+    {
+      "text": "So there is stuff coming off the back of that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 257.221,
+      "end_time": 259.445
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 259.565,
+      "end_time": 260.253
+    },
+    {
+      "text": "As well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 260.389,
+      "end_time": 261.205
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 261.365,
+      "end_time": 261.981
+    },
+    {
+      "text": "So it's a combination really of all those different.",
+      "speaker_name": "Andrew Day",
+      "start_time": 262.093,
+      "end_time": 265.265
+    },
+    {
+      "text": "And who's doing all the like sales stuff at the minute?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 265.645,
+      "end_time": 269.051
+    },
+    {
+      "text": "Are you, are you taking that on or.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 269.083,
+      "end_time": 270.899
+    },
+    {
+      "text": "I just fired somebody right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 271.027,
+      "end_time": 273.459
+    },
+    {
+      "text": "Last week, but they've been with us for a year.",
+      "speaker_name": "Andrew Day",
+      "start_time": 273.587,
+      "end_time": 275.603
+    },
+    {
+      "text": "But the performance was really poor and it was just more excuses just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 275.659,
+      "end_time": 279.003
+    },
+    {
+      "text": "It had to be ended really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 279.059,
+      "end_time": 280.595
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 280.675,
+      "end_time": 281.295
+    },
+    {
+      "text": "The target really is to do these five.",
+      "speaker_name": "Andrew Day",
+      "start_time": 282.595,
+      "end_time": 284.815
+    },
+    {
+      "text": "Well, I can give you some stats from him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 285.795,
+      "end_time": 287.891
+    },
+    {
+      "text": "So from May, which is when he was fully.",
+      "speaker_name": "Andrew Day",
+      "start_time": 287.923,
+      "end_time": 290.219
+    },
+    {
+      "text": "So he started in January, but by May he had been trained to do the calls on his own so he has spoken with 270 individual agencies since May and he closed less than.",
+      "speaker_name": "Andrew Day",
+      "start_time": 290.307,
+      "end_time": 306.417
+    },
+    {
+      "text": "Well, he closed about 1% of those.",
+      "speaker_name": "Andrew Day",
+      "start_time": 306.561,
+      "end_time": 308.525
+    },
+    {
+      "text": "So what, 27?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 309.065,
+      "end_time": 310.965
+    },
+    {
+      "text": "No, that's 10.",
+      "speaker_name": "Andrew Day",
+      "start_time": 312.225,
+      "end_time": 313.365
+    },
+    {
+      "text": "Oh yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 313.985,
+      "end_time": 315.165
+    },
+    {
+      "text": "About 1% of them, which is poor.",
+      "speaker_name": "Andrew Day",
+      "start_time": 315.785,
+      "end_time": 319.045
+    },
+    {
+      "text": "They did close one client twice.",
+      "speaker_name": "Andrew Day",
+      "start_time": 319.625,
+      "end_time": 321.725
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 324.135,
+      "end_time": 324.567
+    },
+    {
+      "text": "There's even less than that then.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 324.631,
+      "end_time": 326.235
+    },
+    {
+      "text": "Well, so it's three.",
+      "speaker_name": "Andrew Day",
+      "start_time": 326.655,
+      "end_time": 327.703
+    },
+    {
+      "text": "Three agencies out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 327.799,
+      "end_time": 328.735
+    },
+    {
+      "text": "270.",
+      "speaker_name": "Andrew Day",
+      "start_time": 328.775,
+      "end_time": 329.847
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 330.031,
+      "end_time": 330.519
+    },
+    {
+      "text": "So those 270, like what was.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 330.607,
+      "end_time": 333.955
+    },
+    {
+      "text": "So 270 booked appointments, was it 270 unique agencies.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 335.575,
+      "end_time": 342.879
+    },
+    {
+      "text": "So out of those agencies you would expect to probably have two meetings to close them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 342.967,
+      "end_time": 348.375
+    },
+    {
+      "text": "There's very little chance of closing somebody on the first call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 348.415,
+      "end_time": 351.519
+    },
+    {
+      "text": "Yeah, it's usually two calls and a close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 351.647,
+      "end_time": 355.199
+    },
+    {
+      "text": "And it could be two calls and then hand over to me and I close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 355.287,
+      "end_time": 358.727
+    },
+    {
+      "text": "Yeah, but it, but it usually is at least two calls.",
+      "speaker_name": "Andrew Day",
+      "start_time": 358.871,
+      "end_time": 362.655
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 362.775,
+      "end_time": 363.103
+    },
+    {
+      "text": "So you would expect to do about three or four calls a day, minimum every working, working day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 363.159,
+      "end_time": 369.423
+    },
+    {
+      "text": "To hit the target you'd have to do about 50 to 60 calls a month.",
+      "speaker_name": "Andrew Day",
+      "start_time": 369.479,
+      "end_time": 374.985
+    },
+    {
+      "text": "You can do way more than that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 375.485,
+      "end_time": 376.997
+    },
+    {
+      "text": "I mean there is opportunity to do more than that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 377.061,
+      "end_time": 379.197
+    },
+    {
+      "text": "But that would be like the sort of minimum expectation I would think because at a 10% close rate, which you should be able to hit, that would be the five that we need per month and those five.",
+      "speaker_name": "Andrew Day",
+      "start_time": 379.221,
+      "end_time": 392.613
+    },
+    {
+      "text": "So there are three tiers that we offer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 392.749,
+      "end_time": 394.205
+    },
+    {
+      "text": "We offer a free tier as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 394.245,
+      "end_time": 396.005
+    },
+    {
+      "text": "And obviously the sort of monetization of that free tier could take six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 396.125,
+      "end_time": 403.967
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 404.111,
+      "end_time": 404.479
+    },
+    {
+      "text": "So it's not ideal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 404.527,
+      "end_time": 405.959
+    },
+    {
+      "text": "Yeah, but it is a fallback in that we can just bring them onto the books.",
+      "speaker_name": "Andrew Day",
+      "start_time": 406.087,
+      "end_time": 410.311
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 410.423,
+      "end_time": 411.071
+    },
+    {
+      "text": "At a free tier.",
+      "speaker_name": "Andrew Day",
+      "start_time": 411.223,
+      "end_time": 412.207
+    },
+    {
+      "text": "If they, if they really can't handle the risk of spending any money to be listed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 412.271,
+      "end_time": 418.511
+    },
+    {
+      "text": "The volume tier is 5, $5,000.",
+      "speaker_name": "Andrew Day",
+      "start_time": 418.703,
+      "end_time": 421.503
+    },
+    {
+      "text": "And for that we basically onboard them and provide all of the marketing materials to be listed on agencies co, which would include evaluation process as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 421.679,
+      "end_time": 433.031
+    },
+    {
+      "text": "So they get on board with the M and a team who go through their financials make sure that everything is included.",
+      "speaker_name": "Andrew Day",
+      "start_time": 433.103,
+      "end_time": 440.407
+    },
+    {
+      "text": "That should be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 440.431,
+      "end_time": 441.279
+    },
+    {
+      "text": "It's a full onboarding process versus the minimal at the free tier.",
+      "speaker_name": "Andrew Day",
+      "start_time": 441.367,
+      "end_time": 445.435
+    },
+    {
+      "text": "And then there's a top tier which is 30k which you could look at as 5k a month for a six month period where we run a full M and a process to get them sold within the six month.",
+      "speaker_name": "Andrew Day",
+      "start_time": 446.255,
+      "end_time": 457.765
+    },
+    {
+      "text": "It's kind of like a guaranteed process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 458.385,
+      "end_time": 460.737
+    },
+    {
+      "text": "I don't like saying it's guaranteed because we don't sell everything and there is no guarantee to offer because nine times out of 10 it's the seller will say we've had enough, we've done enough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 460.801,
+      "end_time": 475.337
+    },
+    {
+      "text": "Meetings.",
+      "speaker_name": "Andrew Day",
+      "start_time": 475.401,
+      "end_time": 476.057
+    },
+    {
+      "text": "We don't think it's going to work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 476.161,
+      "end_time": 477.441
+    },
+    {
+      "text": "We want to get bigger.",
+      "speaker_name": "Andrew Day",
+      "start_time": 477.513,
+      "end_time": 478.505
+    },
+    {
+      "text": "You know, they come up with their own reasons why they don't want to sell.",
+      "speaker_name": "Andrew Day",
+      "start_time": 478.585,
+      "end_time": 481.205
+    },
+    {
+      "text": "And quite often we will have them at the table with buyers at that point and they've just run out of juice and they just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 481.955,
+      "end_time": 488.415
+    },
+    {
+      "text": "But it is pretty much a guaranteed process in that we will find them buyers in that six process and they will have serious conversations.",
+      "speaker_name": "Andrew Day",
+      "start_time": 490.115,
+      "end_time": 497.535
+    },
+    {
+      "text": "And there tends to be tiers of agency size.",
+      "speaker_name": "Andrew Day",
+      "start_time": 498.715,
+      "end_time": 503.963
+    },
+    {
+      "text": "So for instance, bigger agencies that are doing 3, 4, 5 million minimums, but certainly over that, they will want a proper M and A process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 504.059,
+      "end_time": 512.719
+    },
+    {
+      "text": "I mean, they can more than afford it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 512.767,
+      "end_time": 514.167
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 514.271,
+      "end_time": 514.999
+    },
+    {
+      "text": "And they just want a proper process that's run properly and they probably understand that, you know, unless you've got contention in a deal, et cetera, et cetera, that you're not going to get the best price, so you need to run full M and A process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 515.167,
+      "end_time": 526.495
+    },
+    {
+      "text": "The smaller agencies, even if they're doing 2 or 3 million in revenue, they tend to not be hugely profitable and the idea of spending 30 grand out of their revenue pisses them off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 526.655,
+      "end_time": 537.783
+    },
+    {
+      "text": "So they just don't want to do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 537.839,
+      "end_time": 539.071
+    },
+    {
+      "text": "And that's where we can just say, look, go through the valuation process, let us build a list of potential buyers and we'll do the marketing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 539.183,
+      "end_time": 546.695
+    },
+    {
+      "text": "But it just isn't a guaranteed process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 546.735,
+      "end_time": 549.247
+    },
+    {
+      "text": "In the same way, we'll get you up for sale on the platform and then the platform produces its own traffic, but there's no guarantees that come with it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 549.311,
+      "end_time": 556.839
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 556.967,
+      "end_time": 557.527
+    },
+    {
+      "text": "So those are the tiers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 557.631,
+      "end_time": 559.215
+    },
+    {
+      "text": "It's free, it's 5k or it's 30k.",
+      "speaker_name": "Andrew Day",
+      "start_time": 559.255,
+      "end_time": 561.783
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 561.839,
+      "end_time": 562.167
+    },
+    {
+      "text": "So on the free, it's basically just like, we'll put you on the platform and if something happens, something happens, but if not, it doesn't type thing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 562.231,
+      "end_time": 568.031
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 568.223,
+      "end_time": 569.223
+    },
+    {
+      "text": "And to be honest with you, within the first week, we usually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 569.279,
+      "end_time": 573.383
+    },
+    {
+      "text": "We usually kind of know, but we don't know until we've sent out to our mailing list.",
+      "speaker_name": "Andrew Day",
+      "start_time": 573.439,
+      "end_time": 577.715
+    },
+    {
+      "text": "And if the mailing list responds excitedly, then we know it's probably gonna.",
+      "speaker_name": "Andrew Day",
+      "start_time": 579.215,
+      "end_time": 583.807
+    },
+    {
+      "text": "It's probably gonna sell.",
+      "speaker_name": "Andrew Day",
+      "start_time": 583.951,
+      "end_time": 585.207
+    },
+    {
+      "text": "We could put the effort in, actually, without even a retainer and probably still sell it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 585.311,
+      "end_time": 589.847
+    },
+    {
+      "text": "Right, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 589.991,
+      "end_time": 591.155
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 591.575,
+      "end_time": 591.983
+    },
+    {
+      "text": "So what is it that you're actually like, look, are you looking for more agencies that are selling or are you looking more for more buyers that are looking for.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 592.039,
+      "end_time": 600.125
+    },
+    {
+      "text": "Look for both, to be honest with you, the buy side work is fucking hard.",
+      "speaker_name": "Andrew Day",
+      "start_time": 600.165,
+      "end_time": 604.149
+    },
+    {
+      "text": "I don't really enjoy it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 604.317,
+      "end_time": 606.425
+    },
+    {
+      "text": "I try and give you an example.",
+      "speaker_name": "Andrew Day",
+      "start_time": 609.085,
+      "end_time": 610.429
+    },
+    {
+      "text": "So let's say an agency that's doing 5 million in revenue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 610.477,
+      "end_time": 613.997
+    },
+    {
+      "text": "They want to buy another agency that's doing a couple of million in revenue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 614.181,
+      "end_time": 617.705
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 618.165,
+      "end_time": 618.741
+    },
+    {
+      "text": "They don't really know M and A, it's their first time out the gates.",
+      "speaker_name": "Andrew Day",
+      "start_time": 618.853,
+      "end_time": 621.825
+    },
+    {
+      "text": "They don't really know what to say and it's just very, it's a very shaky process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 622.185,
+      "end_time": 627.217
+    },
+    {
+      "text": "We could find them brilliant leads every week but the chances of them closing is slim to none.",
+      "speaker_name": "Andrew Day",
+      "start_time": 627.281,
+      "end_time": 634.565
+    },
+    {
+      "text": "A deal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 635.305,
+      "end_time": 636.281
+    },
+    {
+      "text": "And so for a 6 month process they would spend about 30k and come up with nothing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 636.473,
+      "end_time": 640.769
+    },
+    {
+      "text": "At the end of it we could, we could do a lot of the work, a lot more work to close it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 640.897,
+      "end_time": 646.073
+    },
+    {
+      "text": "But quite often they feel they're entrepreneurs and they want to do themselves else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 646.089,
+      "end_time": 649.125
+    },
+    {
+      "text": "Yeah, so we can do the work, we can take the money and it's fine.",
+      "speaker_name": "Andrew Day",
+      "start_time": 649.245,
+      "end_time": 652.389
+    },
+    {
+      "text": "But they, they get angry during the process, we're not providing them with enough leads, the quality is bad, blah, blah, blah, blah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 652.437,
+      "end_time": 657.677
+    },
+    {
+      "text": "They've always got something to moan about that it's not their fault because they don't know what they're doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 657.701,
+      "end_time": 660.765
+    },
+    {
+      "text": "It's the truth.",
+      "speaker_name": "Andrew Day",
+      "start_time": 660.805,
+      "end_time": 661.629
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 661.757,
+      "end_time": 662.505
+    },
+    {
+      "text": "Then you get other teams.",
+      "speaker_name": "Andrew Day",
+      "start_time": 663.085,
+      "end_time": 664.733
+    },
+    {
+      "text": "For instance, I work with these two guys from the US they had no experience in agencies but they'd done 20 years of M and A in cloud computing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 664.909,
+      "end_time": 674.717
+    },
+    {
+      "text": "Mentioned him last time we spoke actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 674.901,
+      "end_time": 676.985
+    },
+    {
+      "text": "They were, they were a pain in the ass because people that we were generating as leads were saying, well, who are these guys?",
+      "speaker_name": "Andrew Day",
+      "start_time": 677.625,
+      "end_time": 685.369
+    },
+    {
+      "text": "I mean they just, it just seems like bullshit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 685.417,
+      "end_time": 687.321
+    },
+    {
+      "text": "And we had to back them up a lot to keep them at the table.",
+      "speaker_name": "Andrew Day",
+      "start_time": 687.353,
+      "end_time": 690.945
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 691.105,
+      "end_time": 691.593
+    },
+    {
+      "text": "Eventually it paid off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 691.689,
+      "end_time": 692.801
+    },
+    {
+      "text": "They've done two deals with us and we've done 350 grands worth of fees out of them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 692.873,
+      "end_time": 697.313
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 697.369,
+      "end_time": 697.729
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 697.817,
+      "end_time": 698.321
+    },
+    {
+      "text": "So you can't always tell who is going to be good or bad, but you can get really bad experiences for the buyers and it's kind of not our fault, but it's just the way that it shakes out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 698.433,
+      "end_time": 709.021
+    },
+    {
+      "text": "So I don't love buy side but it does generate considerable fees.",
+      "speaker_name": "Andrew Day",
+      "start_time": 709.133,
+      "end_time": 713.077
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 713.221,
+      "end_time": 713.693
+    },
+    {
+      "text": "And you also need the buyers for the sellers really, don't you?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 713.789,
+      "end_time": 716.785
+    },
+    {
+      "text": "You can, but we've got a list, we've got a mailing list.",
+      "speaker_name": "Andrew Day",
+      "start_time": 718.325,
+      "end_time": 720.573
+    },
+    {
+      "text": "I mean at the moment, right, we're selling a marketing software company based in the uk.",
+      "speaker_name": "Andrew Day",
+      "start_time": 720.629,
+      "end_time": 726.517
+    },
+    {
+      "text": "Our win fee will probably be around one and a half million pounds.",
+      "speaker_name": "Andrew Day",
+      "start_time": 726.581,
+      "end_time": 730.293
+    },
+    {
+      "text": "If we close the deal they're going to be worth 30 million plus and most of the buyers are supermarkets or investors in supermarkets, private equity companies right now and we've had to create a brand new list of those buyers so it doesn't really matter.",
+      "speaker_name": "Andrew Day",
+      "start_time": 730.469,
+      "end_time": 746.293
+    },
+    {
+      "text": "Who the buyers are, we can find them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 746.429,
+      "end_time": 748.385
+    },
+    {
+      "text": "Whoever our client is on the sell side, we'll just find the buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 748.685,
+      "end_time": 751.813
+    },
+    {
+      "text": "And that's what we do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 751.909,
+      "end_time": 752.701
+    },
+    {
+      "text": "We generate, you know, the research that brings the buyers to the table.",
+      "speaker_name": "Andrew Day",
+      "start_time": 752.733,
+      "end_time": 757.965
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 758.125,
+      "end_time": 758.877
+    },
+    {
+      "text": "So you're more bothered about the agencies rather than the acquirers.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 758.941,
+      "end_time": 764.025
+    },
+    {
+      "text": "Well, so historically, the sellers do generate two thirds of our revenue, but the interesting thing is about a third of our revenue is sellers that don't pay as any retainers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 764.445,
+      "end_time": 778.985
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 780.405,
+      "end_time": 781.125
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 781.285,
+      "end_time": 781.669
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 781.717,
+      "end_time": 782.189
+    },
+    {
+      "text": "So the actual process of just onboarding them and getting them within a mandate is also good for us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 782.317,
+      "end_time": 789.075
+    },
+    {
+      "text": "So with what you'd want me to do, for example, how far along the process do you want them taking before, like the handover happens?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 791.255,
+      "end_time": 802.695
+    },
+    {
+      "text": "If you like, how far along do you want that to be?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 802.735,
+      "end_time": 805.075
+    },
+    {
+      "text": "Well, I'd like them closing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 805.895,
+      "end_time": 807.063
+    },
+    {
+      "text": "I mean, it's more beneficial for everybody if you can close them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 807.119,
+      "end_time": 810.151
+    },
+    {
+      "text": "And there's nothing stopping you from doing that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 810.183,
+      "end_time": 813.297
+    },
+    {
+      "text": "I think probably it just depends at what level those companies are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 813.481,
+      "end_time": 817.489
+    },
+    {
+      "text": "So what you'll find is a lot of guys in their 40s or 50s, or maybe even 60s who just want to speak to me or they want to speak to somebody who's older, who's more experienced, and they're just not going to sign with you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 817.657,
+      "end_time": 832.505
+    },
+    {
+      "text": "And you can, I mean, if you're an adjusted person, you can recognize that it's not an ego thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 832.585,
+      "end_time": 837.441
+    },
+    {
+      "text": "It's just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 837.473,
+      "end_time": 838.041
+    },
+    {
+      "text": "Okay, they just need that level of seriousness before they sign up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 838.153,
+      "end_time": 841.841
+    },
+    {
+      "text": "You know, it's a big, a biggish business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 841.873,
+      "end_time": 844.553
+    },
+    {
+      "text": "They understand, they want to talk to the big man before they sign on.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 844.729,
+      "end_time": 847.649
+    },
+    {
+      "text": "The dotted line type thing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 847.657,
+      "end_time": 849.177
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 849.361,
+      "end_time": 850.393
+    },
+    {
+      "text": "And just, they recognize that you, you're not the M and A guy and they just want to ask a few maybe technical questions that you're not going to get that sort of thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 850.489,
+      "end_time": 857.793
+    },
+    {
+      "text": "So it's just reading the room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 857.849,
+      "end_time": 859.913
+    },
+    {
+      "text": "You know, your, your job really is to qualify them as serious clients, you know, potential clients, and then either get them closed if it's an easy one or two steps away, and if, you know, if there is still a lot of Q and A and tire kicking that they just need to do with me, then it just needs to be booked into my calendar and I close if I can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 860.049,
+      "end_time": 886.295
+    },
+    {
+      "text": "And those conversations can be really serious and they can go to the board.",
+      "speaker_name": "Andrew Day",
+      "start_time": 886.955,
+      "end_time": 891.555
+    },
+    {
+      "text": "I have a meeting with the board.",
+      "speaker_name": "Andrew Day",
+      "start_time": 891.635,
+      "end_time": 892.795
+    },
+    {
+      "text": "There could be three or four or more people on a call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 892.835,
+      "end_time": 896.597
+    },
+    {
+      "text": "They're extremely experienced in M and A and they, they want to make sure we know what we're doing, etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 896.741,
+      "end_time": 901.797
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 901.821,
+      "end_time": 902.309
+    },
+    {
+      "text": "Experience.",
+      "speaker_name": "Andrew Day",
+      "start_time": 902.437,
+      "end_time": 903.105
+    },
+    {
+      "text": "So those Types of deals, you're never going to close them anyway.",
+      "speaker_name": "Andrew Day",
+      "start_time": 903.765,
+      "end_time": 906.429
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 906.557,
+      "end_time": 907.341
+    },
+    {
+      "text": "Are you in.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 907.533,
+      "end_time": 909.397
+    },
+    {
+      "text": "Not in those scenarios with the commission structure.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 909.421,
+      "end_time": 911.861
+    },
+    {
+      "text": "Be different.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 911.893,
+      "end_time": 912.705
+    },
+    {
+      "text": "So, for example, if I take it the whole way versus if I take it three quarters of the way.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 913.565,
+      "end_time": 919.517
+    },
+    {
+      "text": "No, it's always 8% regardless.",
+      "speaker_name": "Andrew Day",
+      "start_time": 919.661,
+      "end_time": 922.495
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 922.795,
+      "end_time": 924.011
+    },
+    {
+      "text": "If it's your lead, if you haven't touched it at all and it comes straight to me into my calendar, then there's no commission.",
+      "speaker_name": "Andrew Day",
+      "start_time": 924.123,
+      "end_time": 932.963
+    },
+    {
+      "text": "But if you, if you have touched it, you've brought it to the table in whatever way, then, then you get your, your, your percentage of the deal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 933.139,
+      "end_time": 943.139
+    },
+    {
+      "text": "So it's 8.8% of either 5K or 30K.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 943.307,
+      "end_time": 946.855
+    },
+    {
+      "text": "It is 8% of that, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 949.115,
+      "end_time": 950.803
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 950.939,
+      "end_time": 951.235
+    },
+    {
+      "text": "Is that what would work out?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 951.275,
+      "end_time": 952.251
+    },
+    {
+      "text": "Right, that's fine.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 952.283,
+      "end_time": 953.083
+    },
+    {
+      "text": "So obviously more incentivized to push him for the 30, but obviously.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 953.179,
+      "end_time": 956.555
+    },
+    {
+      "text": "So what happened?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 956.675,
+      "end_time": 957.735
+    },
+    {
+      "text": "But I gave you a calculation based on an average of those two.",
+      "speaker_name": "Andrew Day",
+      "start_time": 958.275,
+      "end_time": 962.331
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 962.403,
+      "end_time": 963.015
+    },
+    {
+      "text": "So I'm not working it out on the 30K.",
+      "speaker_name": "Andrew Day",
+      "start_time": 965.035,
+      "end_time": 967.691
+    },
+    {
+      "text": "I'm working it out on 35K divided by two, whatever that is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 967.723,
+      "end_time": 971.019
+    },
+    {
+      "text": "15 and a half.",
+      "speaker_name": "Andrew Day",
+      "start_time": 971.107,
+      "end_time": 972.185
+    },
+    {
+      "text": "15 and a half, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 972.315,
+      "end_time": 973.665
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 974.605,
+      "end_time": 974.941
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 974.973,
+      "end_time": 975.253
+    },
+    {
+      "text": "So what would happen if they went on to the free tier then?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 975.309,
+      "end_time": 979.189
+    },
+    {
+      "text": "Obviously we're pushing them into our M and A team and our M A team will hopefully close a deal with that client and you take a percentage on the back end when that deal close as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 979.237,
+      "end_time": 990.213
+    },
+    {
+      "text": "So that would be worth a percentage on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 990.269,
+      "end_time": 995.625
+    },
+    {
+      "text": "I'll have to look at the numbers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 997.405,
+      "end_time": 998.477
+    },
+    {
+      "text": "I think it is only 1% or something like that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 998.501,
+      "end_time": 1000.661
+    },
+    {
+      "text": "So it ends up being something like 350 quid to three and a half grand on the back end for you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1000.693,
+      "end_time": 1009.685
+    },
+    {
+      "text": "Sweet, mate.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1013.585,
+      "end_time": 1014.765
+    },
+    {
+      "text": "The volume is nice over time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1015.905,
+      "end_time": 1019.273
+    },
+    {
+      "text": "I mean, there's nothing to stop you bringing those companies on and signing them up en masse.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1019.449,
+      "end_time": 1024.725
+    },
+    {
+      "text": "Because if we've got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1025.105,
+      "end_time": 1026.153
+    },
+    {
+      "text": "If you were bringing in 20amonth, eventually, you know, a percentage of those are going to close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1026.209,
+      "end_time": 1031.196
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1031.32,
+      "end_time": 1031.984
+    },
+    {
+      "text": "Six months or 12 months or however long.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1032.644,
+      "end_time": 1034.732
+    },
+    {
+      "text": "Eventually they're going to close, aren't they?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1034.788,
+      "end_time": 1036.404
+    },
+    {
+      "text": "Yeah, well, they're going to stay there forever.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1036.564,
+      "end_time": 1039.244
+    },
+    {
+      "text": "Well, the ones that will close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1039.364,
+      "end_time": 1040.812
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1040.868,
+      "end_time": 1041.18
+    },
+    {
+      "text": "They will close within six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1041.212,
+      "end_time": 1042.484
+    },
+    {
+      "text": "I mean, actually they end up being the same as if it was a managed process, because if they're good leads, which probably about a third of them are, and they will close within six months anyway.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1042.524,
+      "end_time": 1054.54
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1054.732,
+      "end_time": 1055.356
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1055.46,
+      "end_time": 1055.964
+    },
+    {
+      "text": "So to bring them on is the last resort.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1056.084,
+      "end_time": 1058.956
+    },
+    {
+      "text": "They're just, they're just wavering.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1059.02,
+      "end_time": 1060.764
+    },
+    {
+      "text": "They're like, we don't really want to risk it or we don't really know whether it's going to work out then Bringing them on and having loads of them in the pipeline just means that you're, you're assured to get some back end stuff later on in the year.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1060.804,
+      "end_time": 1073.165
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1073.545,
+      "end_time": 1074.365
+    },
+    {
+      "text": "So with the existing database of what was it, 20,000 or whatever it was.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1076.465,
+      "end_time": 1082.073
+    },
+    {
+      "text": "How many, how many of them are UK?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1082.209,
+      "end_time": 1083.845
+    },
+    {
+      "text": "No, the existing database is 130,000.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1087.225,
+      "end_time": 1089.737
+    },
+    {
+      "text": "We've got a huge database, our CRMs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1089.801,
+      "end_time": 1092.099
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1092.257,
+      "end_time": 1092.679
+    },
+    {
+      "text": "And we have a guy in India that comes on for a week or two at a time who will go through the data and update it, you know, on sort of various data points, including our own Fireflies notes which we have for about, I don't know the exact numbers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1092.727,
+      "end_time": 1109.255
+    },
+    {
+      "text": "Probably about 900 conversations in there with Fireflies notes as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1109.295,
+      "end_time": 1114.515
+    },
+    {
+      "text": "So we have that 130,000 and we're updating it all the time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1116.935,
+      "end_time": 1122.045
+    },
+    {
+      "text": "So we buy data, we also, we also get fresh data off some of the other platforms that we use, like instantly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1122.205,
+      "end_time": 1130.665
+    },
+    {
+      "text": "There's a couple of other ones that we used to buy data from.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1132.245,
+      "end_time": 1135.517
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1135.581,
+      "end_time": 1136.185
+    },
+    {
+      "text": "So yeah, it's, it's growing all the time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1137.445,
+      "end_time": 1139.745
+    },
+    {
+      "text": "I'm just trying to get a feel for like what I need to do versus what you already do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1140.925,
+      "end_time": 1148.471
+    },
+    {
+      "text": "So like for example, before this call, I was thinking I'm gonna have to go out and get all the data myself.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1148.583,
+      "end_time": 1155.023
+    },
+    {
+      "text": "But the data sounds like you've already got it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1155.159,
+      "end_time": 1157.223
+    },
+    {
+      "text": "We've.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1157.399,
+      "end_time": 1157.863
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1157.919,
+      "end_time": 1158.103
+    },
+    {
+      "text": "You wouldn't have to get the date.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1158.119,
+      "end_time": 1158.999
+    },
+    {
+      "text": "Well, I mean some of it it's combination, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1159.047,
+      "end_time": 1161.223
+    },
+    {
+      "text": "You've got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1161.239,
+      "end_time": 1161.575
+    },
+    {
+      "text": "Yeah, plus.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1161.615,
+      "end_time": 1162.231
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1162.303,
+      "end_time": 1162.915
+    },
+    {
+      "text": "Fishing plus flight, fly fishing plus shooting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1163.215,
+      "end_time": 1166.275
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1167.215,
+      "end_time": 1169.355
+    },
+    {
+      "text": "I always say that there's, there's three engines that you need to have together.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1170.935,
+      "end_time": 1175.875
+    },
+    {
+      "text": "You've got your shotgun engine, a sniper engine and a nurture engine.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1175.915,
+      "end_time": 1179.615
+    },
+    {
+      "text": "Like those three things that you need to, that you need to put together.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1179.995,
+      "end_time": 1183.255
+    },
+    {
+      "text": "Exactly what I've just said in a different language.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1184.475,
+      "end_time": 1186.939
+    },
+    {
+      "text": "Yeah, right, exactly.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1187.067,
+      "end_time": 1190.135
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1190.955,
+      "end_time": 1191.775
+    },
+    {
+      "text": "So you mentioned that any marketing stuff would need to be done by me, for example, and fronted by me, which is fine.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1192.555,
+      "end_time": 1205.945
+    },
+    {
+      "text": "So that would include instantly stuff.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1206.485,
+      "end_time": 1209.461
+    },
+    {
+      "text": "So I'll get that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1209.493,
+      "end_time": 1210.125
+    },
+    {
+      "text": "Absolutely fine.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1210.165,
+      "end_time": 1210.805
+    },
+    {
+      "text": "No problem.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1210.845,
+      "end_time": 1211.625
+    },
+    {
+      "text": "If I did any instantly outreach, for example, would that be through the Capital Air brand?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1212.085,
+      "end_time": 1218.285
+    },
+    {
+      "text": "Would it be through the agencies.core brand?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1218.325,
+      "end_time": 1221.069
+    },
+    {
+      "text": "Would it be through.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1221.117,
+      "end_time": 1222.317
+    },
+    {
+      "text": "Would I just get a domain name.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1222.501,
+      "end_time": 1223.973
+    },
+    {
+      "text": "Called sell your marketing agency.com or so instantly?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1224.029,
+      "end_time": 1229.941
+    },
+    {
+      "text": "We have, I don't know exact number, probably about 25, 30 domain names and 120 email addresses already built in new ones occasionally to add because they do go through a process of being good and then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1230.013,
+      "end_time": 1244.293
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1244.469,
+      "end_time": 1245.265
+    },
+    {
+      "text": "So they tend to be a combination.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1247.005,
+      "end_time": 1248.949
+    },
+    {
+      "text": "We've got.agencies.com is a new one, but we've got email, capital A dot com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1249.037,
+      "end_time": 1257.527
+    },
+    {
+      "text": "Capital mail dot com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1257.671,
+      "end_time": 1260.155
+    },
+    {
+      "text": "Capital one A dot com a capital A dot com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1262.575,
+      "end_time": 1266.623
+    },
+    {
+      "text": "You know, we've got lots of different stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1266.679,
+      "end_time": 1268.135
+    },
+    {
+      "text": "Get Capital A dot com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1268.255,
+      "end_time": 1270.119
+    },
+    {
+      "text": "Yeah, go Capital A dot com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1270.247,
+      "end_time": 1272.471
+    },
+    {
+      "text": "Mycapital A dot com team Capital A dot com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1272.583,
+      "end_time": 1275.605
+    },
+    {
+      "text": "We are Capital A dot Com.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1275.695,
+      "end_time": 1277.365
+    },
+    {
+      "text": "So we have all of those already, but we do add to them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1278.305,
+      "end_time": 1283.605
+    },
+    {
+      "text": "We share inboxes on those platforms.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1284.185,
+      "end_time": 1287.565
+    },
+    {
+      "text": "So we tend to send out across the 120 email addresses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1288.905,
+      "end_time": 1292.769
+    },
+    {
+      "text": "And whoever's campaign it is, you would just say if it ended up being Ahmed or Jack's email address, you would just say, oh, I'm just referring you over to Danny, our agency's advisor or whatever.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1292.857,
+      "end_time": 1308.595
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1308.755,
+      "end_time": 1309.347
+    },
+    {
+      "text": "And then that way.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1309.451,
+      "end_time": 1311.059
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1311.187,
+      "end_time": 1311.935
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1314.195,
+      "end_time": 1314.547
+    },
+    {
+      "text": "But I get access to that, so that's fine.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1314.571,
+      "end_time": 1316.455
+    },
+    {
+      "text": "What about ads?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1318.195,
+      "end_time": 1319.803
+    },
+    {
+      "text": "Have you thought about doing any ads before?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1319.859,
+      "end_time": 1321.315
+    },
+    {
+      "text": "Like Facebook ads?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1321.395,
+      "end_time": 1322.707
+    },
+    {
+      "text": "Yeah, we have tried ads, but it just hasn't worked.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1322.891,
+      "end_time": 1327.495
+    },
+    {
+      "text": "I spend thousands on it and it just produces a lot of spam is the problem.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1328.125,
+      "end_time": 1332.773
+    },
+    {
+      "text": "We get stuff booked in and we have to pay for it and it ends up just being really spurious Gmail addresses that just never end up turning up for meetings.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1332.869,
+      "end_time": 1344.905
+    },
+    {
+      "text": "So we don't really do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1345.805,
+      "end_time": 1347.525
+    },
+    {
+      "text": "I mean, we have to keep changing tactics all the time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1347.565,
+      "end_time": 1350.109
+    },
+    {
+      "text": "But more recently we use Dripify for LinkedIn and we've had a bit of success with LinkedIn more recently.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1350.157,
+      "end_time": 1358.375
+    },
+    {
+      "text": "So you know, you've just got to keep moving around.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1360.435,
+      "end_time": 1364.931
+    },
+    {
+      "text": "When it got really bad for cold email a few months ago, we started using the phone.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1365.043,
+      "end_time": 1369.975
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1370.675,
+      "end_time": 1371.415
+    },
+    {
+      "text": "So moving.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1372.035,
+      "end_time": 1375.851
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1376.003,
+      "end_time": 1376.883
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1377.019,
+      "end_time": 1377.695
+    },
+    {
+      "text": "So Ahmed and Jack was it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1379.235,
+      "end_time": 1381.917
+    },
+    {
+      "text": "So what, what, what is it that they're doing?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1382.021,
+      "end_time": 1384.025
+    },
+    {
+      "text": "So Ahmad and Jack are working with our clients, so they are doing buy and sell side campaigns.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1384.685,
+      "end_time": 1390.685
+    },
+    {
+      "text": "So we obviously have our own marketing and then we have our client marketing as well and we use the same database more or less.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1390.765,
+      "end_time": 1398.405
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1398.565,
+      "end_time": 1399.005
+    },
+    {
+      "text": "So that, so that once, once people are on board, they won't take over the process from there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1399.085,
+      "end_time": 1404.265
+    },
+    {
+      "text": "Yeah, Once they have a client, they tend.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1404.565,
+      "end_time": 1407.975
+    },
+    {
+      "text": "Ahmed tends to put it together in terms of the marketing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1408.055,
+      "end_time": 1411.055
+    },
+    {
+      "text": "I mean, they both do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1411.095,
+      "end_time": 1412.295
+    },
+    {
+      "text": "Jack does more of the sniper stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1412.455,
+      "end_time": 1414.435
+    },
+    {
+      "text": "But they both do put campaigns together for themselves, for their clients.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1415.575,
+      "end_time": 1419.555
+    },
+    {
+      "text": "But there's a lot of crossover and there's a lot of internal referrers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1421.135,
+      "end_time": 1425.871
+    },
+    {
+      "text": "For instance, they may speak to somebody that just isn't a fit for the client, but it's a seller and they can pass them over or vice versa.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1426.023,
+      "end_time": 1434.185
+    },
+    {
+      "text": "We, we get somebody who's come into the sales funnel, but we can see that they're a really good fit for a client.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1434.225,
+      "end_time": 1441.121
+    },
+    {
+      "text": "And if it's likely to close, then we're better off passing it over than trying to get them on five grand because we could end up with a, you know, 200 grand fee.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1441.193,
+      "end_time": 1448.857
+    },
+    {
+      "text": "So, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1448.921,
+      "end_time": 1450.205
+    },
+    {
+      "text": "What was I going to say?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1454.465,
+      "end_time": 1455.845
+    },
+    {
+      "text": "How.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1457.545,
+      "end_time": 1458.073
+    },
+    {
+      "text": "So you mentioned five.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1458.169,
+      "end_time": 1459.715
+    },
+    {
+      "text": "Five clauses a month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1459.905,
+      "end_time": 1461.591
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1461.783,
+      "end_time": 1462.271
+    },
+    {
+      "text": "Where are you at at the minute?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1462.343,
+      "end_time": 1463.631
+    },
+    {
+      "text": "Like, I know that your other guy was obviously way under that, but, like, obviously you're doing that process at the minute.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1463.663,
+      "end_time": 1469.247
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1469.311,
+      "end_time": 1469.535
+    },
+    {
+      "text": "Yeah, so he was, he was, he.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1469.575,
+      "end_time": 1472.119
+    },
+    {
+      "text": "He had a good period in the middle of the year where he was closing one a month for like June, July, August.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1472.167,
+      "end_time": 1480.595
+    },
+    {
+      "text": "And I think in August I closed 4.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1483.215,
+      "end_time": 1485.159
+    },
+    {
+      "text": "But I tend to close a couple of months as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1485.247,
+      "end_time": 1488.565
+    },
+    {
+      "text": "But I'm not really trying.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1489.505,
+      "end_time": 1490.577
+    },
+    {
+      "text": "I think that's the main things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1490.641,
+      "end_time": 1491.633
+    },
+    {
+      "text": "I don't really do a lot of prospecting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1491.689,
+      "end_time": 1493.169
+    },
+    {
+      "text": "It's just stuff that lands in my inbox.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1493.217,
+      "end_time": 1495.321
+    },
+    {
+      "text": "A lot of them are referrals from lawyers or people I've spoke to previously or old clients.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1495.433,
+      "end_time": 1502.525
+    },
+    {
+      "text": "So they come directly into me in the, you know, they're fairly hot leads.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1503.265,
+      "end_time": 1507.489
+    },
+    {
+      "text": "So what would happen with doors moving forwards?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1507.657,
+      "end_time": 1510.737
+    },
+    {
+      "text": "Would you just continue to do with those?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1510.761,
+      "end_time": 1512.497
+    },
+    {
+      "text": "Would they get forwarded on to, like, me, for example?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1512.561,
+      "end_time": 1515.791
+    },
+    {
+      "text": "In as many cases as I can, I do forward them on, particularly if I've got no idea who they are, if they're a hot lead or someone who's referred personally and it's like, oh, you need to speak to Andy, then knocking them back down a peg normally and they just come back anyway, so they're awkward on that first call and it would waste your time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1515.863,
+      "end_time": 1536.223
+    },
+    {
+      "text": "So I tend to take them in those instances.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1536.359,
+      "end_time": 1540.355
+    },
+    {
+      "text": "I'm just trying to think how, how realistic is the five.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1541.505,
+      "end_time": 1544.113
+    },
+    {
+      "text": "So, like, you're the guy who's doing one, you're doing four.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1544.169,
+      "end_time": 1547.285
+    },
+    {
+      "text": "Well, it's important to point out that the other guy was useless.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1549.105,
+      "end_time": 1553.485
+    },
+    {
+      "text": "And it is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1555.385,
+      "end_time": 1556.345
+    },
+    {
+      "text": "I mean, it's a long story.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1556.505,
+      "end_time": 1557.529
+    },
+    {
+      "text": "I can summarize it, but there was a reason why I had.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1557.577,
+      "end_time": 1563.729
+    },
+    {
+      "text": "I was invested in making it work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1563.857,
+      "end_time": 1567.043
+    },
+    {
+      "text": "And actually I should have recognized what it was a lot earlier for what it was.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1567.169,
+      "end_time": 1571.463
+    },
+    {
+      "text": "He was as well, he was really nice.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1571.639,
+      "end_time": 1574.367
+    },
+    {
+      "text": "And also he's based in New York, so it's super convenient for us because we are currently in London, New York and San Francisco or in Los Angeles last year for six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1574.431,
+      "end_time": 1586.675
+    },
+    {
+      "text": "To have that coverage across the UK and the US is really useful.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1587.135,
+      "end_time": 1591.115
+    },
+    {
+      "text": "And so having him in New York was really good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1592.905,
+      "end_time": 1595.325
+    },
+    {
+      "text": "And the reason why I was invested was because I bought into this fucking bullshit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1598.825,
+      "end_time": 1604.593
+    },
+    {
+      "text": "Fucking.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1604.649,
+      "end_time": 1605.089
+    },
+    {
+      "text": "I can't remember what it's called now, but they charged me 15 grand basically to do their course in how to get the ideal salesperson.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1605.137,
+      "end_time": 1614.753
+    },
+    {
+      "text": "And then they put me in a process where I had.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1614.849,
+      "end_time": 1617.273
+    },
+    {
+      "text": "They provided me with a load of salespeople of which this guy was one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1617.369,
+      "end_time": 1620.905
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1621.065,
+      "end_time": 1621.761
+    },
+    {
+      "text": "So I kind of had sunk costs and I should have just acted like a true businessman and seen costs for what they were and that you can't recoup.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1621.913,
+      "end_time": 1632.765
+    },
+    {
+      "text": "But instead I invested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1633.985,
+      "end_time": 1635.401
+    },
+    {
+      "text": "No longer stupidly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1635.513,
+      "end_time": 1637.121
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1637.273,
+      "end_time": 1638.017
+    },
+    {
+      "text": "But I would say when we've had sales people before, we have had very close to the five a month.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1638.201,
+      "end_time": 1645.147
+    },
+    {
+      "text": "So it's definitely doable.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1645.251,
+      "end_time": 1646.587
+    },
+    {
+      "text": "It's just that this guy was extremely consultative and that was.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1646.691,
+      "end_time": 1652.059
+    },
+    {
+      "text": "It is an issue in, in the sales call process because a lot of people are tire kickers and they just want to find stuff out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1652.187,
+      "end_time": 1659.135
+    },
+    {
+      "text": "And so if you sit and have a one hour consultation and half of that is them talking about themselves and what they're doing, how their agency, I mean, they could go on fucking hours, you know what?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1659.875,
+      "end_time": 1668.895
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1669.475,
+      "end_time": 1671.261
+    },
+    {
+      "text": "They just want to get to the information and then get them all the line.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1671.293,
+      "end_time": 1675.465
+    },
+    {
+      "text": "Yeah, I mean, agency owners want to, they want to do it themselves, basically.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1676.125,
+      "end_time": 1679.905
+    },
+    {
+      "text": "They think they can do it themselves.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1680.245,
+      "end_time": 1681.581
+    },
+    {
+      "text": "They're just tire kicking to find that information.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1681.653,
+      "end_time": 1683.541
+    },
+    {
+      "text": "And actually it needs to be a very narrow sales process where you're qualifying them as potential sellers that we can list and then showing them what the benefits are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1683.613,
+      "end_time": 1694.669
+    },
+    {
+      "text": "Work with us vesting, doing it themselves and how much quicker it is and more guaranteed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1694.717,
+      "end_time": 1699.695
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1699.815,
+      "end_time": 1700.183
+    },
+    {
+      "text": "And just closing them on either a full process or a 5k to get enlisted.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1700.239,
+      "end_time": 1705.463
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1705.599,
+      "end_time": 1706.175
+    },
+    {
+      "text": "So it's basically I come across a saying the other day, I never heard it before, and it was don't ask how the sausage gets made, which I thought was quite, quite funny, which I think sums that up probably.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1706.295,
+      "end_time": 1717.119
+    },
+    {
+      "text": "So, like, instead of just saying don't ask how the sausage is made, if you want the sausage, you can have the sausage but don't ask how it's made type thing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1717.207,
+      "end_time": 1724.727
+    },
+    {
+      "text": "Do you want it or not?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1724.751,
+      "end_time": 1725.959
+    },
+    {
+      "text": "Is that the kind of like more thing that you'd rather happen?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1726.127,
+      "end_time": 1728.915
+    },
+    {
+      "text": "Yeah, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1729.375,
+      "end_time": 1730.199
+    },
+    {
+      "text": "So the problem is they have a lot of questions like how much more company can we worth, et cetera, et cetera.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1730.287,
+      "end_time": 1734.871
+    },
+    {
+      "text": "And the problem the guy that I had in there is he would sit and do the whole fucking process like he knew what he was talking about.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1734.943,
+      "end_time": 1740.551
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1740.703,
+      "end_time": 1741.231
+    },
+    {
+      "text": "And as much as I said, you've got to lay off this conversation and direct the person towards the paid solution.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1741.343,
+      "end_time": 1748.709
+    },
+    {
+      "text": "And then My M and A team will provide them with everything that they need and that is what they're paying for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1748.847,
+      "end_time": 1754.217
+    },
+    {
+      "text": "So if you tell them they're worth something, then they've got the information, they're off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1754.321,
+      "end_time": 1758.457
+    },
+    {
+      "text": "Or their brain will get distracted by a thousand different things between that moment and trying to sign them up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1758.561,
+      "end_time": 1765.725
+    },
+    {
+      "text": "So you just have to avoid the conversation that they want to have until they're actually signed in as a client and then they can have that conversation with a qualified M, a person that knows what they're talking about.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1766.345,
+      "end_time": 1778.509
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1778.637,
+      "end_time": 1778.925
+    },
+    {
+      "text": "And actually isn't an answer that you can give them straight away.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1778.965,
+      "end_time": 1781.285
+    },
+    {
+      "text": "I mean, you can give them a ballpark, but again, as soon as you give them the ballpark, then they're off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1781.325,
+      "end_time": 1787.565
+    },
+    {
+      "text": "So you have to give them a very broad range.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1787.645,
+      "end_time": 1789.741
+    },
+    {
+      "text": "It's like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1789.773,
+      "end_time": 1790.101
+    },
+    {
+      "text": "Well, it could be somewhere between two times to eight times, but we don't really know until we have a look at your finance.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1790.133,
+      "end_time": 1796.765
+    },
+    {
+      "text": "Deep dive into it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1796.845,
+      "end_time": 1797.733
+    },
+    {
+      "text": "But you've got to pay for that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1797.749,
+      "end_time": 1799.061
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1799.213,
+      "end_time": 1801.265
+    },
+    {
+      "text": "So is that all of your questions?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1811.145,
+      "end_time": 1812.849
+    },
+    {
+      "text": "No, I've got lords.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1812.977,
+      "end_time": 1813.785
+    },
+    {
+      "text": "I'm just looking through which ones I've already asked.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1813.825,
+      "end_time": 1816.085
+    },
+    {
+      "text": "Must have written down about 50 or 60 of them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1818.905,
+      "end_time": 1822.245
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1824.065,
+      "end_time": 1824.805
+    },
+    {
+      "text": "What did I ask?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1830.875,
+      "end_time": 1832.255
+    },
+    {
+      "text": "So we got the basic, haven't we?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1835.155,
+      "end_time": 1837.015
+    },
+    {
+      "text": "Which is what it is.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1837.715,
+      "end_time": 1839.415
+    },
+    {
+      "text": "So I get that you've got to pull your finger out and actually deliver at the end of the day.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1840.875,
+      "end_time": 1847.175
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1849.635,
+      "end_time": 1850.131
+    },
+    {
+      "text": "You have to actually close, otherwise it's not going to work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1850.203,
+      "end_time": 1852.315
+    },
+    {
+      "text": "But it doesn't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1852.355,
+      "end_time": 1852.731
+    },
+    {
+      "text": "Yeah, well, otherwise it's pointless for you as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1852.763,
+      "end_time": 1854.587
+    },
+    {
+      "text": "So I, I, I get that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1854.611,
+      "end_time": 1856.599
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1856.727,
+      "end_time": 1857.031
+    },
+    {
+      "text": "I mean, that's the bottom line is I could pay you handsomely and you just wouldn't have to lift a finger and I wouldn't get anything either.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1857.063,
+      "end_time": 1863.463
+    },
+    {
+      "text": "Yeah, yeah, yeah, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1863.519,
+      "end_time": 1865.511
+    },
+    {
+      "text": "I wouldn't, I wouldn't want that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1865.543,
+      "end_time": 1867.195
+    },
+    {
+      "text": "Obviously, I want you to benefit at the end of the day.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1868.175,
+      "end_time": 1872.595
+    },
+    {
+      "text": "So let's say in a mad scenario, if I get more than five clause of the month, what happened then in terms of commission?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1874.335,
+      "end_time": 1884.479
+    },
+    {
+      "text": "Would you get more commission or would it stay the same?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1884.527,
+      "end_time": 1886.595
+    },
+    {
+      "text": "Yeah, we could structure with a bonus and I think it was for the last one, actually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1887.855,
+      "end_time": 1892.155
+    },
+    {
+      "text": "I mean, we could obviously discuss that as we go along, but I just want to know if it's on the table.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1892.775,
+      "end_time": 1896.635
+    },
+    {
+      "text": "It is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1897.655,
+      "end_time": 1898.415
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1898.535,
+      "end_time": 1898.871
+    },
+    {
+      "text": "I mean, if, if we were, if we're working together and we're winning, then I don't give a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1898.903,
+      "end_time": 1903.471
+    },
+    {
+      "text": "There's more money than you can ever dream of.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1903.543,
+      "end_time": 1906.223
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1906.359,
+      "end_time": 1907.075
+    },
+    {
+      "text": "I mean, the fees that we generate off the back of these, Dan, are really good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1907.425,
+      "end_time": 1912.025
+    },
+    {
+      "text": "You Know, the worst case scenario is usually sort of 40, $50,000.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1912.105,
+      "end_time": 1917.845
+    },
+    {
+      "text": "We actually structure our contract so that it's a $50,000 minimum fee.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1918.225,
+      "end_time": 1922.425
+    },
+    {
+      "text": "But sometimes I give them a discount, they cry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1922.465,
+      "end_time": 1924.845
+    },
+    {
+      "text": "But if we take 50,000 off that, then obviously that's only 500 quid to you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1926.985,
+      "end_time": 1931.673
+    },
+    {
+      "text": "But it's still, there is still tons of money to be made off those tiny deals.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1931.729,
+      "end_time": 1936.891
+    },
+    {
+      "text": "But we tend to be working with companies that are worth 5 to 10 million and those deals are worth more up to half a million dollars, which is about £400,000.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1936.963,
+      "end_time": 1951.975
+    },
+    {
+      "text": "So I pay my team handsomely as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1953.435,
+      "end_time": 1956.067
+    },
+    {
+      "text": "If we close, the M and A team get a nice cut of that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1956.091,
+      "end_time": 1958.955
+    },
+    {
+      "text": "But there is still money washing around the business that's decent off the deals that we can do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1958.995,
+      "end_time": 1964.111
+    },
+    {
+      "text": "We just need the volume really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1964.223,
+      "end_time": 1966.263
+    },
+    {
+      "text": "That's why it doesn't matter to me personally if we can close sellers that don't even pay retainers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1966.319,
+      "end_time": 1974.239
+    },
+    {
+      "text": "If they're good companies, they'll still be worth money to everybody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1974.287,
+      "end_time": 1978.319
+    },
+    {
+      "text": "Yeah, yeah, they'll sell, won't they?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1978.367,
+      "end_time": 1979.887
+    },
+    {
+      "text": "At some point?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1979.911,
+      "end_time": 1980.795
+    },
+    {
+      "text": "Okay, so we've covered that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1984.815,
+      "end_time": 1998.005
+    },
+    {
+      "text": "I think that's most of it, mate.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2000.465,
+      "end_time": 2002.177
+    },
+    {
+      "text": "You might want to.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2002.241,
+      "end_time": 2002.945
+    },
+    {
+      "text": "That I've missed.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2002.985,
+      "end_time": 2004.085
+    },
+    {
+      "text": "I mean it sounds good on the face.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2005.585,
+      "end_time": 2007.417
+    },
+    {
+      "text": "I mean, from my end, like, is what we've done within marketing engines is we've started working with a lot of business buyers recently.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2007.481,
+      "end_time": 2016.325
+    },
+    {
+      "text": "Conversation with you because of the services that you claim to be providing on LinkedIn.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2018.145,
+      "end_time": 2022.633
+    },
+    {
+      "text": "Yeah, yeah, well, we're doing basically what you're doing, but industry agnostic.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2022.769,
+      "end_time": 2028.965
+    },
+    {
+      "text": "So that's in a way what we, what we're already doing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2030.545,
+      "end_time": 2033.645
+    },
+    {
+      "text": "So we are like generating our business buyers, the companies that are interested in selling and then basically putting it into a calendar, into the client's calendar and then they sit the call.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2034.585,
+      "end_time": 2047.675
+    },
+    {
+      "text": "But before they book the call, they have to go through like a bit of a qualification process, like ballpark revenue figures, ballpark profit margin, stuff like that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2047.755,
+      "end_time": 2055.715
+    },
+    {
+      "text": "So like they qualified a little bit before they get, before they get on a call.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2055.755,
+      "end_time": 2060.695
+    },
+    {
+      "text": "But because we're industry agnostic for the most part, like we don't say we won't or we try not to take on a client if they are like only focused on one industry just because we want to hit scale.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2062.115,
+      "end_time": 2073.959
+    },
+    {
+      "text": "So like we've got our instantly running at the minute and it will send like a hundred thousand emails a month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2074.007,
+      "end_time": 2080.183
+    },
+    {
+      "text": "Similar, similar process to what you've got with all domain names and stuff like that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2080.359,
+      "end_time": 2083.915
+    },
+    {
+      "text": "And because they're industry agnostic, like we can just continue to hit scale and just fly through, fly through the list which works quite nicely.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2085.615,
+      "end_time": 2092.535
+    },
+    {
+      "text": "But I quite like the industry, I quite like M A and I'd kind of like to get into it a little bit more.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2092.695,
+      "end_time": 2101.127
+    },
+    {
+      "text": "So when I saw your thing I was just a bit like that sounds all right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2101.271,
+      "end_time": 2106.515
+    },
+    {
+      "text": "And like where with my agency now we've kind of like almost like had to like restart again.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2107.215,
+      "end_time": 2112.623
+    },
+    {
+      "text": "So before we were working with like a landscaper and then the next week we're working with a shoe manufacturer, the week after we're working with some guy that builds like office pods.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2112.759,
+      "end_time": 2126.195
+    },
+    {
+      "text": "And then we're working with a business buyer.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2126.935,
+      "end_time": 2128.471
+    },
+    {
+      "text": "It's like all our case studies were all over the place so we kind of simplified it right down.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2128.503,
+      "end_time": 2133.479
+    },
+    {
+      "text": "I started working with just business buyers but as part of that process we have kind of like had to like restart it all again.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2133.567,
+      "end_time": 2141.715
+    },
+    {
+      "text": "Not, not from scratch but for the most part we've had to start it all again.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2142.095,
+      "end_time": 2146.199
+    },
+    {
+      "text": "So I'm kind of like a phase now where I'm like I can continue the way that I am and I can continue doing what I'm doing or if I think there's actually probably better career progression, should we say no by coming on board like someone like yourself for example.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2146.367,
+      "end_time": 2162.755
+    },
+    {
+      "text": "And so long as I'm like hitting like decent revenue on my end, you know.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2163.655,
+      "end_time": 2168.247
+    },
+    {
+      "text": "And like I say I've got that career, career path I suppose mapped out trajectory.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2168.271,
+      "end_time": 2174.235
+    },
+    {
+      "text": "Okay, so what were you charging those general business buyers?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2174.655,
+      "end_time": 2178.575
+    },
+    {
+      "text": "What do you charge as a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2178.735,
+      "end_time": 2180.007
+    },
+    {
+      "text": "So for the, for the Full Monty it was for.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2180.071,
+      "end_time": 2182.751
+    },
+    {
+      "text": "It's four grand a month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2182.783,
+      "end_time": 2183.695
+    },
+    {
+      "text": "So that includes LinkedIn content, it includes LinkedIn outreach and includes the 100,000 emails a month and then they get booked into the client's calendar and then you use clause CRM, don't you?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2183.735,
+      "end_time": 2196.239
+    },
+    {
+      "text": "Well we use go high level.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2196.327,
+      "end_time": 2197.439
+    },
+    {
+      "text": "Don't you think that before similar to clause.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2197.487,
+      "end_time": 2201.665
+    },
+    {
+      "text": "So our clients get access to that as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2201.965,
+      "end_time": 2204.309
+    },
+    {
+      "text": "So basically from the client side all they need to do is their first touch point is on that first initial call.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2204.477,
+      "end_time": 2210.061
+    },
+    {
+      "text": "But we do all the follow ups and everything that's involved in that and that's four grand.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2210.173,
+      "end_time": 2213.865
+    },
+    {
+      "text": "What's your overhead?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2215.565,
+      "end_time": 2216.905
+    },
+    {
+      "text": "So we so, so from that we profit about 2K.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2218.805,
+      "end_time": 2222.505
+    },
+    {
+      "text": "Where's, where's the other 2K going?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2223.165,
+      "end_time": 2225.305
+    },
+    {
+      "text": "So we've got to pay the ghost writer, which is Joe.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2225.755,
+      "end_time": 2230.291
+    },
+    {
+      "text": "So he creates a LinkedIn content and then we have to put it into lists as well to build out the lists.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2230.323,
+      "end_time": 2235.931
+    },
+    {
+      "text": "You know, they're not massively cheap if you're just giving it cold data and then you've got your instantly fees and your domains and then NVAs and stuff like that that you need to do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2236.003,
+      "end_time": 2245.515
+    },
+    {
+      "text": "Well, it's not, it's a little bit less than 2k total, but what's LinkedIn content?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2245.555,
+      "end_time": 2250.615
+    },
+    {
+      "text": "So the LinkedIn content is through a guy called Joe, he's a LinkedIn ghost writer.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2251.285,
+      "end_time": 2255.493
+    },
+    {
+      "text": "He's actually from another agency.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2255.549,
+      "end_time": 2257.345
+    },
+    {
+      "text": "And what he does is he'll sit down with the client once a month and take them through like an interview and ask them between like 10 and 15 questions.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2257.645,
+      "end_time": 2265.941
+    },
+    {
+      "text": "And then what he'll do is he'll then create the LinkedIn content and schedule it out within Go High Level.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2266.133,
+      "end_time": 2273.397
+    },
+    {
+      "text": "Because Go High Level's got like an approval process.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2273.541,
+      "end_time": 2276.345
+    },
+    {
+      "text": "So the client then goes onto the CRM, goes into marketing and then approves or edits whatever content gets sent out.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2277.125,
+      "end_time": 2283.477
+    },
+    {
+      "text": "But they'll get like two or three posts per week on that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2283.621,
+      "end_time": 2286.437
+    },
+    {
+      "text": "It's quite nice.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2286.501,
+      "end_time": 2287.341
+    },
+    {
+      "text": "And why do you do that?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2287.453,
+      "end_time": 2288.785
+    },
+    {
+      "text": "Because when you're doing the LinkedIn, the LinkedIn outreach, if you're connecting with someone, let's say you send one message, two messages, but then you know it's crickets, nothing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2289.525,
+      "end_time": 2300.485
+    },
+    {
+      "text": "You know you're never going to speak to that person ever again.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2300.605,
+      "end_time": 2302.405
+    },
+    {
+      "text": "But if you've got the content going and you've got those little touch points going there that you can just build to your credibility.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2302.445,
+      "end_time": 2308.201
+    },
+    {
+      "text": "But also when you send a connection request, chances are that you can have a lot of people looking at your profile.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2308.393,
+      "end_time": 2314.073
+    },
+    {
+      "text": "So if they look at your profile and it's just dead and you've not posted in the past two years or however long it's been again, it can just damage that like authority.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2314.129,
+      "end_time": 2325.121
+    },
+    {
+      "text": "I suppose that's why we do it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2325.193,
+      "end_time": 2327.165
+    },
+    {
+      "text": "Got you email as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2327.905,
+      "end_time": 2329.801
+    },
+    {
+      "text": "So like in time we get a positive response.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2329.833,
+      "end_time": 2332.187
+    },
+    {
+      "text": "If they seem like a little bit iffy, like we'll direct them to the LinkedIn profile because again, what I've noticed is a lot of business buyers, they won't have like a website, like for acquisitions.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2332.361,
+      "end_time": 2343.183
+    },
+    {
+      "text": "Most multipliers don't anyway.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2343.359,
+      "end_time": 2345.135
+    },
+    {
+      "text": "But they do have LinkedIn profiles.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2345.215,
+      "end_time": 2346.551
+    },
+    {
+      "text": "We push them to the LinkedIn profile.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2346.583,
+      "end_time": 2348.275
+    },
+    {
+      "text": "I see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2349.415,
+      "end_time": 2350.199
+    },
+    {
+      "text": "And so what kind of revenue are you doing a year?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2350.327,
+      "end_time": 2352.775
+    },
+    {
+      "text": "I mean, you said that you're only getting about 40k.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2352.815,
+      "end_time": 2355.835
+    },
+    {
+      "text": "Yeah, well, that's just what I'm.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2356.775,
+      "end_time": 2357.823
+    },
+    {
+      "text": "That's just what I'm taking home.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2357.879,
+      "end_time": 2359.183
+    },
+    {
+      "text": "But like our revenues is about.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2359.239,
+      "end_time": 2361.035
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2363.015,
+      "end_time": 2363.279
+    },
+    {
+      "text": "Think year just gone to 120.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2363.287,
+      "end_time": 2365.795
+    },
+    {
+      "text": "So we broke, we broke the 100 mark, which is good this year because we've so like, we've basically like 7x our fees since starting working with business buyers.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2369.015,
+      "end_time": 2383.795
+    },
+    {
+      "text": "So if we have the same amount of clients as we do now, next year, but as the other ones drop off, as they, as they will just be natural churn and we replace them with business buyers, I reckon our revenues will probably be like, maybe like 170 maybe.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2385.015,
+      "end_time": 2401.087
+    },
+    {
+      "text": "But then my take home will maybe be 60 to 70 something in.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2401.271,
+      "end_time": 2406.879
+    },
+    {
+      "text": "In that mark.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2406.927,
+      "end_time": 2408.551
+    },
+    {
+      "text": "But again, when you do it all yourself, you're wearing all hats and blah, blah, blah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2408.703,
+      "end_time": 2411.999
+    },
+    {
+      "text": "I mean, granted, it's yours at the end of the day and it's like it's your business and you've got a bit more freedom there, but.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2412.087,
+      "end_time": 2416.955
+    },
+    {
+      "text": "Okay, your overhead seems really big for the size of the business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2420.165,
+      "end_time": 2425.825
+    },
+    {
+      "text": "Yeah, well, that's the thing though, isn't it?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2426.405,
+      "end_time": 2428.701
+    },
+    {
+      "text": "I mean, your overheads are still.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2428.733,
+      "end_time": 2430.225
+    },
+    {
+      "text": "It's still going to be massive though, aren't they?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2430.525,
+      "end_time": 2432.221
+    },
+    {
+      "text": "When you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2432.253,
+      "end_time": 2432.945
+    },
+    {
+      "text": "When you're at a small scale, you still got to pay for all the software and like the staff is still the same cost, you know.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2433.805,
+      "end_time": 2439.997
+    },
+    {
+      "text": "What stuff do you have?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2440.021,
+      "end_time": 2441.157
+    },
+    {
+      "text": "Who, who works for you full time?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2441.261,
+      "end_time": 2442.557
+    },
+    {
+      "text": "It's just this.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2442.581,
+      "end_time": 2443.061
+    },
+    {
+      "text": "Joe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2443.093,
+      "end_time": 2443.357
+    },
+    {
+      "text": "Yeah, Joe.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2443.381,
+      "end_time": 2444.803
+    },
+    {
+      "text": "Joe.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2444.859,
+      "end_time": 2445.043
+    },
+    {
+      "text": "And then I've got a via and Joel's got a via.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2445.059,
+      "end_time": 2447.495
+    },
+    {
+      "text": "Two other.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2448.795,
+      "end_time": 2449.603
+    },
+    {
+      "text": "Two other VAs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2449.739,
+      "end_time": 2450.935
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2451.675,
+      "end_time": 2452.003
+    },
+    {
+      "text": "So my VA is 500 quid a month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2452.019,
+      "end_time": 2455.075
+    },
+    {
+      "text": "And then Jaws VA.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2455.235,
+      "end_time": 2456.635
+    },
+    {
+      "text": "I don't know how much Jaws VA is.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2456.675,
+      "end_time": 2458.027
+    },
+    {
+      "text": "It's not my concern really.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2458.051,
+      "end_time": 2459.575
+    },
+    {
+      "text": "And then what are you looking at in terms of clients?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2461.995,
+      "end_time": 2465.043
+    },
+    {
+      "text": "You've got any given moment, like tier three clients live.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2465.099,
+      "end_time": 2469.027
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2469.091,
+      "end_time": 2469.331
+    },
+    {
+      "text": "So, I mean, so what we've.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2469.363,
+      "end_time": 2470.877
+    },
+    {
+      "text": "What we'll go out and say is we'll say we can only take on four a month just because of the onboarding process.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2471.011,
+      "end_time": 2475.801
+    },
+    {
+      "text": "And it's just me and Joe.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2475.873,
+      "end_time": 2476.801
+    },
+    {
+      "text": "I mean, really, it's just me.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2476.833,
+      "end_time": 2478.033
+    },
+    {
+      "text": "So we're saying four a month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2478.129,
+      "end_time": 2479.725
+    },
+    {
+      "text": "Some months just gone.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2480.545,
+      "end_time": 2481.945
+    },
+    {
+      "text": "Well, this month we've done three.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2482.025,
+      "end_time": 2483.841
+    },
+    {
+      "text": "So we've done three this month, which is good.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2483.953,
+      "end_time": 2487.885
+    },
+    {
+      "text": "And then next month we've got a few in the pipeline, a few that have said no this month as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2488.705,
+      "end_time": 2492.985
+    },
+    {
+      "text": "But, you know, it's December in it, so no, they'll come on board next month, so I reckon they'll.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2493.025,
+      "end_time": 2497.639
+    },
+    {
+      "text": "I reckon we'll probably hit four next month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2497.697,
+      "end_time": 2499.815
+    },
+    {
+      "text": "I don't know how the pipeline looks from there, but like I say, we're still like generating our pipeline like always.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2501.835,
+      "end_time": 2506.683
+    },
+    {
+      "text": "It's all still building up, but I reckon we can probably do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2506.739,
+      "end_time": 2510.643
+    },
+    {
+      "text": "I reckon if we average, like maybe, like, if we onboard, maybe like two or three a month, like, I reckon we'll get to like that once.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2510.739,
+      "end_time": 2518.315
+    },
+    {
+      "text": "170, 180 turnover.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2518.395,
+      "end_time": 2520.499
+    },
+    {
+      "text": "Pretty, pretty easily.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2520.627,
+      "end_time": 2521.935
+    },
+    {
+      "text": "We just got to do it, but then also implement all the campaigns.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2525.645,
+      "end_time": 2529.101
+    },
+    {
+      "text": "That's me as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2529.133,
+      "end_time": 2530.125
+    },
+    {
+      "text": "Why have you gone into M A though?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2530.245,
+      "end_time": 2531.901
+    },
+    {
+      "text": "I mean, you were doing just league gem for LinkedIn profiles, right?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2531.973,
+      "end_time": 2536.405
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2536.565,
+      "end_time": 2537.341
+    },
+    {
+      "text": "So we got into it because we were working industry agnostic for ages.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2537.373,
+      "end_time": 2541.133
+    },
+    {
+      "text": "And then I took on this.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2541.269,
+      "end_time": 2543.165
+    },
+    {
+      "text": "Originally he was a business coach, but then he decided he wanted to go into M A and he wanted me to do the marketing for him, to drum up the opportunities and blah, blah, blah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2543.325,
+      "end_time": 2553.145
+    },
+    {
+      "text": "And we started doing his stuff for him and he ended up doing 20 acquisitions in 18 months, either full acquisitions or like minority acquisitions.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2554.605,
+      "end_time": 2566.185
+    },
+    {
+      "text": "So, like, he was like a bit of a big, a big care study.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2567.845,
+      "end_time": 2571.065
+    },
+    {
+      "text": "So we did all of it, all of his outreach and he did his own content.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2571.645,
+      "end_time": 2577.605
+    },
+    {
+      "text": "But it was like almost like a bit eye opening for me because I was just like, right, we're missing this in a trick there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2578.305,
+      "end_time": 2582.233
+    },
+    {
+      "text": "We need to do content as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2582.249,
+      "end_time": 2583.921
+    },
+    {
+      "text": "One second.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2584.113,
+      "end_time": 2584.761
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2584.833,
+      "end_time": 2585.481
+    },
+    {
+      "text": "So sorry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2585.633,
+      "end_time": 2603.335
+    },
+    {
+      "text": "One second.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2603.755,
+      "end_time": 2604.403
+    },
+    {
+      "text": "I'll be back in a sec.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2604.459,
+      "end_time": 2605.531
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2605.643,
+      "end_time": 2606.455
+    },
+    {
+      "text": "My dog is a nasty piece of work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2618.195,
+      "end_time": 2620.375
+    },
+    {
+      "text": "So, yeah, so we start working with him, which was quite eye opening.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2624.315,
+      "end_time": 2629.133
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2629.259,
+      "end_time": 2630.085
+    },
+    {
+      "text": "So he was paying 1800 quid, if I remember.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2631.505,
+      "end_time": 2634.793
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2634.849,
+      "end_time": 2635.445
+    },
+    {
+      "text": "And then we took on one or two other clients as well, just doing LinkedIn business buyers, and they were generating a decent wad of stuff as well, but we're only charging like 500, 600 quid a month for them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2636.025,
+      "end_time": 2649.645
+    },
+    {
+      "text": "And then I was just like, you know, I wonder what would happen if we like really turned on the tap and just like went hell for letter on, like, email, for example, and like really started ramping it up because previous to that we're only, we're only sending about 5,000 emails a month.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2651.785,
+      "end_time": 2663.947
+    },
+    {
+      "text": "And I was just like, well, I wonder what happened if you did like 100,000 emails a month, what happened then?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2664.131,
+      "end_time": 2668.695
+    },
+    {
+      "text": "So we started doing that and then I say we started generating like eight to nine opportunities every day from there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2669.795,
+      "end_time": 2677.003
+    },
+    {
+      "text": "Obviously you qualify them and then put them into the calendar.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2677.019,
+      "end_time": 2679.131
+    },
+    {
+      "text": "So from those eight to nine, it was more like one or two a day, give or take, depended on the day, and that were actually qualified and went into the calendar.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2679.163,
+      "end_time": 2687.225
+    },
+    {
+      "text": "And then it was just like, we should, we should do this and charge more for it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2687.385,
+      "end_time": 2692.657
+    },
+    {
+      "text": "So then we've got the four grand package, which is what I've just described there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2692.681,
+      "end_time": 2696.825
+    },
+    {
+      "text": "And then there's the two grand package.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2696.945,
+      "end_time": 2698.801
+    },
+    {
+      "text": "Like it's actually 2850, but that's like just LinkedIn and the personal branding.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2698.913,
+      "end_time": 2704.565
+    },
+    {
+      "text": "But really you want the email as well, because you get the volume.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2705.065,
+      "end_time": 2707.845
+    },
+    {
+      "text": "But the clients that we're working with at the minute, they're, they for the most part they have to be industry, industry agnostic as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2709.435,
+      "end_time": 2716.291
+    },
+    {
+      "text": "So it's different to like, because you're obviously just in the marketing space.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2716.323,
+      "end_time": 2719.815
+    },
+    {
+      "text": "Which.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2722.955,
+      "end_time": 2723.267
+    },
+    {
+      "text": "Is why we can just.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2723.291,
+      "end_time": 2724.403
+    },
+    {
+      "text": "So we can use like a hundred thousand one month and then we get another list of 100,000, another list of 100.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2724.539,
+      "end_time": 2729.731
+    },
+    {
+      "text": "You know, if they want to target the UK and US, for example, there's a lot of businesses that we can, that we can go after.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2729.883,
+      "end_time": 2736.015
+    },
+    {
+      "text": "Where are your clients coming from?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2736.605,
+      "end_time": 2738.973
+    },
+    {
+      "text": "Who are they?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2739.149,
+      "end_time": 2740.185
+    },
+    {
+      "text": "So we've got one guy who is from Las Vegas and he's ex Facebook.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2740.845,
+      "end_time": 2750.765
+    },
+    {
+      "text": "So he's like one of the, he was one of the big software engineers at Facebook.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2750.885,
+      "end_time": 2754.465
+    },
+    {
+      "text": "So he came on board, he had like no pipeline or anything.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2756.045,
+      "end_time": 2760.349
+    },
+    {
+      "text": "Went from an absolute dead start.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2760.517,
+      "end_time": 2762.425
+    },
+    {
+      "text": "Within three weeks we got him.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2762.895,
+      "end_time": 2765.555
+    },
+    {
+      "text": "The businesses turnovers were about $20 million within three weeks.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2766.295,
+      "end_time": 2770.927
+    },
+    {
+      "text": "That was quite good.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2771.031,
+      "end_time": 2772.195
+    },
+    {
+      "text": "That's one example.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2773.695,
+      "end_time": 2774.863
+    },
+    {
+      "text": "We've got another guy.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2774.919,
+      "end_time": 2775.935
+    },
+    {
+      "text": "How did you get him?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2776.055,
+      "end_time": 2777.199
+    },
+    {
+      "text": "We just marked him to everybody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2777.327,
+      "end_time": 2779.595
+    },
+    {
+      "text": "Yeah, we just did our own, our own outreach campaigns.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2780.135,
+      "end_time": 2784.751
+    },
+    {
+      "text": "And yeah, he, he, he bit and then we just jumped on two calls with him.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2784.943,
+      "end_time": 2792.107
+    },
+    {
+      "text": "So one call was just exploring, just talking him through the process and then the second call was just a bit more.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2792.131,
+      "end_time": 2799.035
+    },
+    {
+      "text": "Right, this is actually how it works.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2799.075,
+      "end_time": 2800.619
+    },
+    {
+      "text": "This is what we do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2800.667,
+      "end_time": 2801.675
+    },
+    {
+      "text": "Here's what we charge.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2801.795,
+      "end_time": 2803.015
+    },
+    {
+      "text": "Do you want to do it or not?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2803.515,
+      "end_time": 2804.935
+    },
+    {
+      "text": "So that was one.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2805.955,
+      "end_time": 2807.175
+    },
+    {
+      "text": "We've got another guy, so he's actually currently still at Google, but he wants to do some acquisitions.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2807.475,
+      "end_time": 2813.855
+    },
+    {
+      "text": "He's quite an interesting one.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2814.795,
+      "end_time": 2816.435
+    },
+    {
+      "text": "So he said, so say if you're, I don't know, a shoe manufacturer, let's say he can buy your business and then just put you at the top of any Google search result.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2816.475,
+      "end_time": 2826.851
+    },
+    {
+      "text": "Like just put you at the top.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2826.923,
+      "end_time": 2829.067
+    },
+    {
+      "text": "Like you don't have to do anything because he's part of Google.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2829.171,
+      "end_time": 2831.563
+    },
+    {
+      "text": "So that's quite a cool one.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2831.659,
+      "end_time": 2833.095
+    },
+    {
+      "text": "And then we've got another guy that's a business coach.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2833.755,
+      "end_time": 2836.499
+    },
+    {
+      "text": "So he's part of Action Coach.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2836.667,
+      "end_time": 2837.923
+    },
+    {
+      "text": "Don't you heard of Action Coach?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2837.979,
+      "end_time": 2839.401
+    },
+    {
+      "text": "He's currently an action coach, but he wants to do some acquisitions.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2839.523,
+      "end_time": 2842.265
+    },
+    {
+      "text": "Talking to another guy.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2844.445,
+      "end_time": 2845.421
+    },
+    {
+      "text": "It's a husband and wife team.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2845.453,
+      "end_time": 2847.505
+    },
+    {
+      "text": "Speak to her.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2849.325,
+      "end_time": 2850.421
+    },
+    {
+      "text": "We onboarded one, our most recent guy that we onboarded, he's working, he's not like our perfect client to be fair, but he wants to acquire off offshore wind farms.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2850.573,
+      "end_time": 2862.581
+    },
+    {
+      "text": "Quite specific really.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2862.773,
+      "end_time": 2864.345
+    },
+    {
+      "text": "Originally he wanted to be industry agnostic, but once he signed the contract, all of a sudden he wants to be specific.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2864.765,
+      "end_time": 2869.465
+    },
+    {
+      "text": "So we'll see how that one goes actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2869.545,
+      "end_time": 2873.225
+    },
+    {
+      "text": "But yeah, I mean, to be honest, he's not ideal for me because I want them to be agnostic so I can hit the scale.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2873.265,
+      "end_time": 2880.329
+    },
+    {
+      "text": "But we'll see how he gets on.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2880.377,
+      "end_time": 2881.885
+    },
+    {
+      "text": "But yeah, that's a bit of a spread, I suppose.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2882.985,
+      "end_time": 2885.125
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2885.945,
+      "end_time": 2886.505
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2886.585,
+      "end_time": 2887.445
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2889.025,
+      "end_time": 2889.673
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2889.769,
+      "end_time": 2890.525
+    },
+    {
+      "text": "I mean there could be more to this potentially.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2893.795,
+      "end_time": 2896.655
+    },
+    {
+      "text": "So you're doing revenue of about 120.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2898.435,
+      "end_time": 2899.907
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2899.931,
+      "end_time": 2900.067
+    },
+    {
+      "text": "About 40k profit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2902.323,
+      "end_time": 2903.975
+    },
+    {
+      "text": "So I'm interested in, in the actual M process itself as well because I know that you do like an M A course as well, don't you?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2908.595,
+      "end_time": 2916.467
+    },
+    {
+      "text": "We do, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2916.651,
+      "end_time": 2917.523
+    },
+    {
+      "text": "I'm just in the middle of revamping that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2917.619,
+      "end_time": 2920.603
+    },
+    {
+      "text": "I've got an old course and when people originally signed up, I was, I can't remember how much I was charging.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2920.739,
+      "end_time": 2925.091
+    },
+    {
+      "text": "It was a couple of grand and then I reduced the price to about eight or nine hundred quid.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2925.123,
+      "end_time": 2929.835
+    },
+    {
+      "text": "And more recently I've been selling it for about £120 or something like 200.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2929.915,
+      "end_time": 2935.015
+    },
+    {
+      "text": "And it's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2937.475,
+      "end_time": 2938.035
+    },
+    {
+      "text": "Yeah, I mean it's, it's good and I could still market it, but I don't want to waste my, my list because I'm about to relaunch it and I'm hoping to charge about 15 grand for it as a Done with you process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2938.075,
+      "end_time": 2950.837
+    },
+    {
+      "text": "I've got a guy in the US who is the former COO of a agency called Eisenberg and also a lady from New York, he's Los Angeles lady from New York who was the CEO of a company called, I think they were called the Milhouse he sold to Technicolor and they're going to run the course for me and, and develop the, you know, the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2950.901,
+      "end_time": 2981.315
+    },
+    {
+      "text": "I was speaking to a guy the other day.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2981.475,
+      "end_time": 2983.255
+    },
+    {
+      "text": "You've probably seen his ads actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2984.075,
+      "end_time": 2985.147
+    },
+    {
+      "text": "It's called D.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2985.171,
+      "end_time": 2985.675
+    },
+    {
+      "text": "Ludlow.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2985.715,
+      "end_time": 2986.499
+    },
+    {
+      "text": "He seems to be like the new, the new guy about town at the.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2986.627,
+      "end_time": 2989.139
+    },
+    {
+      "text": "Minute in terms of the turkey teeth.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2989.147,
+      "end_time": 2991.483
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2991.619,
+      "end_time": 2992.415
+    },
+    {
+      "text": "I was speaking to them the other day about their courses and they're about 10k for year.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2994.355,
+      "end_time": 2999.345
+    },
+    {
+      "text": "Yeah, but how they do it is there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2999.725,
+      "end_time": 3002.385
+    },
+    {
+      "text": "Well, they call it a guarantee.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3003.005,
+      "end_time": 3004.365
+    },
+    {
+      "text": "It's not really.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3004.405,
+      "end_time": 3005.305
+    },
+    {
+      "text": "If you don't make an acquisition within your first year, you either get a full refund or they'll work with you until you do, which is typical.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3006.085,
+      "end_time": 3014.141
+    },
+    {
+      "text": "But yeah, we did the same thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3014.213,
+      "end_time": 3016.725
+    },
+    {
+      "text": "That's basically our guarantee is that we'll just continue working after the six months until we get something closed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3016.765,
+      "end_time": 3021.701
+    },
+    {
+      "text": "But like I say, most of them just, they get fatigued at a certain point and they just, they walk away from the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3021.813,
+      "end_time": 3028.191
+    },
+    {
+      "text": "Sometimes they'll come back like a year later and say, oh, we want to, we want to do it again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3028.343,
+      "end_time": 3031.655
+    },
+    {
+      "text": "I'll just say, look, we'll waive the fees because you've already paid.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3031.695,
+      "end_time": 3034.543
+    },
+    {
+      "text": "And so we just bring them on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3034.719,
+      "end_time": 3035.999
+    },
+    {
+      "text": "If they've got a good business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3036.047,
+      "end_time": 3037.355
+    },
+    {
+      "text": "Yeah, we bring them back home.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3037.655,
+      "end_time": 3039.967
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3040.111,
+      "end_time": 3040.835
+    },
+    {
+      "text": "But I mean, for like, from my perspective, like, I suppose what I find difficult, I suppose, you know, doing it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3042.215,
+      "end_time": 3051.289
+    },
+    {
+      "text": "Doing it on your own.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3051.337,
+      "end_time": 3052.337
+    },
+    {
+      "text": "So I haven't had a boss, let's say, for the last maybe.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3052.441,
+      "end_time": 3059.205
+    },
+    {
+      "text": "How old was that?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3059.865,
+      "end_time": 3060.777
+    },
+    {
+      "text": "Maybe 10 years or so.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3060.841,
+      "end_time": 3063.885
+    },
+    {
+      "text": "Even that job was quite like laid back, to be fair.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3064.905,
+      "end_time": 3067.605
+    },
+    {
+      "text": "So, like, what I have learned and figured out has all been on my own back, which is good in a way.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3068.305,
+      "end_time": 3073.713
+    },
+    {
+      "text": "But, like, I've never really had like a roadmap of like, do this, do this, do this and you'll get to that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3073.769,
+      "end_time": 3079.291
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3079.443,
+      "end_time": 3080.135
+    },
+    {
+      "text": "And I feel like you've kind of got a bit of more of a roadmap panned out in your head than maybe what I do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3080.915,
+      "end_time": 3085.907
+    },
+    {
+      "text": "Seems like you're a lot further down the line than where I am.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3086.051,
+      "end_time": 3089.499
+    },
+    {
+      "text": "So 51.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3089.587,
+      "end_time": 3092.735
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3093.315,
+      "end_time": 3093.891
+    },
+    {
+      "text": "But that appeals, that book.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3093.923,
+      "end_time": 3094.939
+    },
+    {
+      "text": "It appeals to me, though.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3094.987,
+      "end_time": 3096.375
+    },
+    {
+      "text": "Appeal to me.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3097.195,
+      "end_time": 3098.415
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3099.715,
+      "end_time": 3100.227
+    },
+    {
+      "text": "I guess why I would be skeptical is because you are a rebel and you're your own boss and you've done things your own way and perhaps you've never even been inside the system.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3100.291,
+      "end_time": 3113.145
+    },
+    {
+      "text": "And what I've found through experience is actually taking on people with university education and experience within the corporate world.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3114.525,
+      "end_time": 3125.065
+    },
+    {
+      "text": "It makes them a certain.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3125.845,
+      "end_time": 3127.665
+    },
+    {
+      "text": "More pliable.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3128.005,
+      "end_time": 3129.105
+    },
+    {
+      "text": "When I say more pliable, but actually just in fact, not at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3129.765,
+      "end_time": 3133.581
+    },
+    {
+      "text": "Jack is a pain in the ass to manage, but, you know, he's ex, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3133.613,
+      "end_time": 3139.381
+    },
+    {
+      "text": "I don't know what college he went to, is a good one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3139.413,
+      "end_time": 3141.285
+    },
+    {
+      "text": "University, sorry, maybe Oxford or something, but he's like ex rowing club and he's well spoken and, you know, he's worked in the city for a year or so and it just makes them more reliable, I would say, and just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3141.365,
+      "end_time": 3155.513
+    },
+    {
+      "text": "They just know how the system works with clients and generally being consistent and respectful and those types of things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3155.669,
+      "end_time": 3167.057
+    },
+    {
+      "text": "They're just kind of more assured to get them, rather than the rebels that just come in with their own systems making stuff up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3167.161,
+      "end_time": 3172.961
+    },
+    {
+      "text": "They don't like to be told what to do, et cetera, et cetera.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3172.993,
+      "end_time": 3177.205
+    },
+    {
+      "text": "Just makes it more difficult and chaotic than just having people that are previously well trained, et cetera.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3178.025,
+      "end_time": 3186.155
+    },
+    {
+      "text": "But that's not, to be said that that's the best route all the time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3187.695,
+      "end_time": 3191.063
+    },
+    {
+      "text": "The Thing with agency owners and certainly up to a certain size is that they kind of want the rebel.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3191.119,
+      "end_time": 3196.079
+    },
+    {
+      "text": "They don't want to speak to the square with the tie.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3196.127,
+      "end_time": 3199.795
+    },
+    {
+      "text": "They want to know that you understand their business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3200.615,
+      "end_time": 3204.075
+    },
+    {
+      "text": "And that's a big part of it, really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3204.895,
+      "end_time": 3206.595
+    },
+    {
+      "text": "Listen, I can posh it up if I need to.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3207.785,
+      "end_time": 3209.965
+    },
+    {
+      "text": "Yeah, you might have to for the Yanks, because they don't really understand regional accents.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3210.305,
+      "end_time": 3214.753
+    },
+    {
+      "text": "They think everybody talks like this.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3214.849,
+      "end_time": 3216.505
+    },
+    {
+      "text": "And so in the end, that's how I talk so that they understand me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3216.545,
+      "end_time": 3219.897
+    },
+    {
+      "text": "Yeah, I can do it, I can do it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3220.001,
+      "end_time": 3221.513
+    },
+    {
+      "text": "It's not a problem.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3221.529,
+      "end_time": 3222.521
+    },
+    {
+      "text": "I'm from Blackpool, so, you know, my accent was very similar to yours at one point, Danny.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3222.713,
+      "end_time": 3226.961
+    },
+    {
+      "text": "I was going to say, I wouldn't have guessed Blackpool.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3226.993,
+      "end_time": 3229.085
+    },
+    {
+      "text": "Well, live in St.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3229.945,
+      "end_time": 3230.793
+    },
+    {
+      "text": "Anne's let's say.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3230.809,
+      "end_time": 3231.809
+    },
+    {
+      "text": "Oh, that's not Blackpool.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3231.937,
+      "end_time": 3233.433
+    },
+    {
+      "text": "That doesn't count.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3233.489,
+      "end_time": 3234.531
+    },
+    {
+      "text": "The accent's the same nowadays.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3234.673,
+      "end_time": 3236.471
+    },
+    {
+      "text": "When I go back, I can't understand them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3236.623,
+      "end_time": 3238.875
+    },
+    {
+      "text": "You're northern.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3240.055,
+      "end_time": 3241.275
+    },
+    {
+      "text": "My brothers and their kids, Northern.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3243.055,
+      "end_time": 3245.835
+    },
+    {
+      "text": "Okay, all right, let me think about it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3248.455,
+      "end_time": 3250.663
+    },
+    {
+      "text": "I've got a hundred gone through the process thus far.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3250.759,
+      "end_time": 3258.835
+    },
+    {
+      "text": "All right, let me think about it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3265.175,
+      "end_time": 3266.167
+    },
+    {
+      "text": "I'll go back to you with an offer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3266.191,
+      "end_time": 3267.635
+    },
+    {
+      "text": "Yeah, think about it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3268.495,
+      "end_time": 3271.755
+    },
+    {
+      "text": "If I think of anything else, I'll drop you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3273.015,
+      "end_time": 3274.679
+    },
+    {
+      "text": "I'll drop your line as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3274.727,
+      "end_time": 3276.167
+    },
+    {
+      "text": "I might do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3276.351,
+      "end_time": 3276.927
+    },
+    {
+      "text": "I'll look through some of my stuff and I'll go.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3276.951,
+      "end_time": 3278.407
+    },
+    {
+      "text": "I didn't ask.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3278.471,
+      "end_time": 3279.355
+    },
+    {
+      "text": "Well, that was a good grilling that you gave me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3281.775,
+      "end_time": 3284.751
+    },
+    {
+      "text": "Was it?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3284.903,
+      "end_time": 3285.607
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3285.751,
+      "end_time": 3286.475
+    },
+    {
+      "text": "I've got meeting my CFO now, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3287.345,
+      "end_time": 3289.601
+    },
+    {
+      "text": "Right, you jump.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3289.673,
+      "end_time": 3290.321
+    },
+    {
+      "text": "You jump on that, then.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3290.353,
+      "end_time": 3291.393
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3291.529,
+      "end_time": 3291.841
+    },
+    {
+      "text": "If there's anything that I can answer as well, just let me know.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3291.873,
+      "end_time": 3295.201
+    },
+    {
+      "text": "Yeah, all right, brilliant.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3295.353,
+      "end_time": 3296.521
+    },
+    {
+      "text": "I will ping you some more questions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3296.593,
+      "end_time": 3298.673
+    },
+    {
+      "text": "Hi, everybody.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3298.809,
+      "end_time": 3299.465
+    },
+    {
+      "text": "Good to catch you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3299.505,
+      "end_time": 3300.297
+    },
+    {
+      "text": "Yeah, it was good to see you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3300.441,
+      "end_time": 3301.409
+    },
+    {
+      "text": "Enjoy the rest of your day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3301.457,
+      "end_time": 3302.449
+    },
+    {
+      "text": "You too.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3302.537,
+      "end_time": 3302.945
+    },
+    {
+      "text": "See you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 3302.985,
+      "end_time": 3303.185
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Business development",
+      "M&A",
+      "lead generation",
+      "sales process",
+      "agency acquisitions",
+      "commission structure"
+    ],
+    "action_items": "\n**Andrew Day**\nConsider Daniel's application and prepare an offer (54:28)\nSend additional questions to Daniel if needed (54:55)\n\n**Daniel Smith**\nLook through notes and send any additional questions to Andrew (54:42)\nBe prepared to answer any additional questions from Andrew (54:55)\n",
+    "outline": null,
+    "overview": "In the job interview meeting between Andrew Day and Daniel Smith, they discussed the business development role at Capital A, focusing on the company's need for a self-starter skilled in technology and lead generation, with a target of five closures per month due to recent underperformance in the role. They reviewed the company's three-tiered service offerings and commission structure, alongside the sales process where Daniel would qualify clients and handle deals, while Andrew manages complex interactions. Daniel shared insights into his own agency, Marketing Engines, and his relevant experience in the M&A industry, including interest in Andrew's upcoming M&A course. Andrew raised concerns about Daniel's independent work style versus the need for corporate experience, concluding the meeting by agreeing to consider Daniel's application and potentially follow up with further questions, while Daniel committed to reviewing his notes and preparing for any additional inquiries.",
+    "short_summary": "Andrew Day conducted a job interview with Daniel Smith for a business development position at Capital A. The meeting emphasized the company's need for a self-starter proficient in technology and lead generation, targeting five closures per month due to prior underperformance in this role. They discussed Capital A's three-tiered service offerings and an 8% commission structure across all tiers. Daniel shared insights about his agency, Marketing Engines, which works with business buyers and generates significant revenue. Additionally, Daniel expressed interest in Andrew's upcoming M&A course, which is set to be revamped and charged at £15,000. Andrew raised concerns regarding Daniel's independent work style versus the necessity for corporate experience, concluding the meeting with a promise to consider Daniel's application and possibly follow up with further inquiries.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/puJw67NT9oKG58bp",
+  "audio_url": "https://cdn.fireflies.ai/puJw67NT9oKG58bp/audio.mp3?Expires=1773225079&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL3B1Snc2N05UOW9LRzU4YnAvYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDc5fX19XX0_&Signature=ehW4yXhi270ujeWVKAbrL9zq4U4epwQ22m86WPjc3bLEneh39hiRQvETCQhQACVH5VnSbpY2WYadSofCm5-Wbtk8jZ5S9tXh1LDmRnuFvTrx3QrYHbseYTRwgsWn3tuOboWQ4o48fIMOyjld1noSO13vjqW6d~rhq9Io3Qp67kTEYNX7ubXJAVhcgQeUOjt5u5naV8Q6vazcRVeL-bI9gnSdQqgP0ex-oXeSw4pDze33GDfbom3eQlgRenOAUD6om4w0jwEVRpmDVgXLD7YAGiE6dqzVukYuxOXtB8S-MyZ7alfxDfrN9fI2l1y9A4aTobYhaGB4q7JPQRyzWW9Qhg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/puJw67NT9oKG58bp/video.mp4?Expires=1773225079&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL3B1Snc2N05UOW9LRzU4YnAvdmlkZW8ubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDc5fX19XX0_&Signature=k58l82O2OhWrzorHwq33FC-wJSzkDWYP0XoHhK4B3~JoNGve49wUS6Z62017p-Hp2xTmsQXhk1PxYMZqowaJ3jImil2hQOcfk~yNAAzzgnh-ZsRVbb32YjfEmbb~SgN5wNm1o7spIZn-hsRG3uwV7eX1JyoabdkFndBu9ksT9YNR25Jf-Gdsra7FCK5fMcqjH5ftC2H-rADRVUTlDeWlGgLNmjxeO~bzKCrkkgSQQI-hgI5oPFflmMsSWM6ZDwdgiiq37~YlUdDBaWjf28g9Z6HIrv0zFSuZ200bHm84qwt3SKCHO2JJpA9nQino-baUUvfnKIk3Nm-UcIIzy1Hrfg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

@@ -1,0 +1,4972 @@
+{
+  "id": "01K7F3Q7T0SQPXKFPV5AWHWN4Q",
+  "title": "Print - Forecast EBITDA follow-up",
+  "date": 1760540400000,
+  "dateString": "2025-10-15T15:00:00.000Z",
+  "duration": 53.209999084472656,
+  "participants": [
+    "andrew.day@capitala.co,howard.campion@omm.agency,simon@morrisathome.co.uk,ahmed.zia@capitala.co,travis.sales@skyviewi.com,jeff.kaplan@skyviewi.com,martin.horsman@premcom.co.uk,yousaf.ali@omm.agency,andy.day@capitala.co",
+    "andrew.day@capitala.co",
+    "howard.campion@omm.agency",
+    "simon@morrisathome.co.uk",
+    "ahmed.zia@capitala.co",
+    "travis.sales@skyviewi.com",
+    "jeff.kaplan@skyviewi.com",
+    "martin.horsman@premcom.co.uk",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Howard Campion",
+      "email": "howard.campion@omm.agency",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Simon Morris",
+      "email": "simon@morrisathome.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Ahmed Zia",
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Travis Sales",
+      "email": "travis.sales@skyviewi.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Jeff Kaplan",
+      "email": "jeff.kaplan@skyviewi.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Martin Horsman",
+      "email": "martin.horsman@premcom.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Yousaf Ali",
+      "email": "yousaf.ali@omm.agency",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Got Travis just trying to be more festive this time of the.",
+      "speaker_name": "Travis Sales",
+      "start_time": 0.08,
+      "end_time": 4.08
+    },
+    {
+      "text": "This time of the year.",
+      "speaker_name": "Travis Sales",
+      "start_time": 4.16,
+      "end_time": 5.2
+    },
+    {
+      "text": "Okay, yeah.",
+      "speaker_name": "Simon Morris",
+      "start_time": 5.68,
+      "end_time": 6.72
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Simon Morris",
+      "start_time": 6.72,
+      "end_time": 7.04
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Simon Morris",
+      "start_time": 7.04,
+      "end_time": 7.4
+    },
+    {
+      "text": "You've even got snow going.",
+      "speaker_name": "Simon Morris",
+      "start_time": 7.4,
+      "end_time": 8.72
+    },
+    {
+      "text": "That's really impressive.",
+      "speaker_name": "Simon Morris",
+      "start_time": 8.8,
+      "end_time": 10.16
+    },
+    {
+      "text": "So Travis is based over in the States, Simon, just for.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 12.72,
+      "end_time": 16
+    },
+    {
+      "text": "For your benefit.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 16.72,
+      "end_time": 17.92
+    },
+    {
+      "text": "Okay, right.",
+      "speaker_name": "Simon Morris",
+      "start_time": 18.32,
+      "end_time": 19.52
+    },
+    {
+      "text": "Pleasure to meet you.",
+      "speaker_name": "Travis Sales",
+      "start_time": 20.32,
+      "end_time": 21.2
+    },
+    {
+      "text": "And responsible for what?",
+      "speaker_name": "Simon Morris",
+      "start_time": 22.08,
+      "end_time": 23.44
+    },
+    {
+      "text": "Travis, you're.",
+      "speaker_name": "Simon Morris",
+      "start_time": 23.44,
+      "end_time": 24.64
+    },
+    {
+      "text": "So I'm one of the co founders of the company that bought OMM there in the uk, as well as two.",
+      "speaker_name": "Travis Sales",
+      "start_time": 26.09,
+      "end_time": 33.33
+    },
+    {
+      "text": "Other properties here in the us okay, brilliant.",
+      "speaker_name": "Simon Morris",
+      "start_time": 33.33,
+      "end_time": 36.89
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Simon Morris",
+      "start_time": 36.97,
+      "end_time": 37.37
+    },
+    {
+      "text": "So I'm just tagging along today.",
+      "speaker_name": "Travis Sales",
+      "start_time": 37.93,
+      "end_time": 39.53
+    },
+    {
+      "text": "Oh, I'm sure not.",
+      "speaker_name": "Simon Morris",
+      "start_time": 40.33,
+      "end_time": 41.33
+    },
+    {
+      "text": "I'm sure not.",
+      "speaker_name": "Simon Morris",
+      "start_time": 41.33,
+      "end_time": 42.13
+    },
+    {
+      "text": "I think you're being modest and you've got snow.",
+      "speaker_name": "Simon Morris",
+      "start_time": 42.13,
+      "end_time": 44.41
+    },
+    {
+      "text": "You're the only one that's got snow.",
+      "speaker_name": "Simon Morris",
+      "start_time": 44.41,
+      "end_time": 45.73
+    },
+    {
+      "text": "So that's good.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 45.73,
+      "end_time": 46.41
+    },
+    {
+      "text": "Don't wish it too quickly, Simon, please.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 47.45,
+      "end_time": 49.97
+    },
+    {
+      "text": "It's getting colder as we speak.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 49.97,
+      "end_time": 51.69
+    },
+    {
+      "text": "I know it is.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 52.17,
+      "end_time": 52.81
+    },
+    {
+      "text": "It's bloody cold, isn't it?",
+      "speaker_name": "Simon Morris",
+      "start_time": 52.81,
+      "end_time": 54.57
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 54.57,
+      "end_time": 55.13
+    },
+    {
+      "text": "Tell me about it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 55.13,
+      "end_time": 56.01
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 56.17,
+      "end_time": 56.89
+    },
+    {
+      "text": "Ahmed, how are you?",
+      "speaker_name": "Simon Morris",
+      "start_time": 57.13,
+      "end_time": 58.25
+    },
+    {
+      "text": "Good, thank you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 60.57,
+      "end_time": 61.61
+    },
+    {
+      "text": "Good, good.",
+      "speaker_name": "Simon Morris",
+      "start_time": 62.09,
+      "end_time": 63.37
+    },
+    {
+      "text": "I'm sorry, Yusuf.",
+      "speaker_name": "Simon Morris",
+      "start_time": 67.61,
+      "end_time": 69.09
+    },
+    {
+      "text": "I'm meant to be being joined by Martin and Julian, so.",
+      "speaker_name": "Simon Morris",
+      "start_time": 69.09,
+      "end_time": 74.45
+    },
+    {
+      "text": "Okay, so Julian is the PremCom FD.",
+      "speaker_name": "Simon Morris",
+      "start_time": 74.45,
+      "end_time": 81.5
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Simon Morris",
+      "start_time": 82.78,
+      "end_time": 83.18
+    },
+    {
+      "text": "Right, yeah.",
+      "speaker_name": "Simon Morris",
+      "start_time": 83.18,
+      "end_time": 85.02
+    },
+    {
+      "text": "Okay, terrific.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 85.58,
+      "end_time": 86.78
+    },
+    {
+      "text": "But I.",
+      "speaker_name": "Simon Morris",
+      "start_time": 87.5,
+      "end_time": 88.54
+    },
+    {
+      "text": "Oh, Martin's joining.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 90.86,
+      "end_time": 92.3
+    },
+    {
+      "text": "There we go.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 92.3,
+      "end_time": 92.94
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 95.02,
+      "end_time": 95.5
+    },
+    {
+      "text": "Wow, We've got a full house.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 95.5,
+      "end_time": 97.42
+    },
+    {
+      "text": "Hi, Martin.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 97.9,
+      "end_time": 98.78
+    },
+    {
+      "text": "How are you doing, Yusef?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 99.66,
+      "end_time": 101.42
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 102.86,
+      "end_time": 103.98
+    },
+    {
+      "text": "Martin.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 104.71,
+      "end_time": 104.99
+    },
+    {
+      "text": "Can I introduce Travis?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 104.99,
+      "end_time": 106.15
+    },
+    {
+      "text": "Travis is over in the States.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 106.15,
+      "end_time": 107.39
+    },
+    {
+      "text": "He's one of the owners of the business that bought us last year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 107.39,
+      "end_time": 111.43
+    },
+    {
+      "text": "How are you doing, Travis?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 112.95,
+      "end_time": 114.07
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 114.31,
+      "end_time": 114.91
+    },
+    {
+      "text": "Doing well.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 114.91,
+      "end_time": 115.31
+    },
+    {
+      "text": "Pleasure to meet you.",
+      "speaker_name": "Travis Sales",
+      "start_time": 115.31,
+      "end_time": 116.07
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 116.23,
+      "end_time": 117.11
+    },
+    {
+      "text": "Where are you based right now?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 117.11,
+      "end_time": 118.63
+    },
+    {
+      "text": "I'm in Nebraska in the us so right in the middle.",
+      "speaker_name": "Travis Sales",
+      "start_time": 119.43,
+      "end_time": 123.99
+    },
+    {
+      "text": "And Martin, we've discussed the snow.",
+      "speaker_name": "Simon Morris",
+      "start_time": 127.75,
+      "end_time": 130.15
+    },
+    {
+      "text": "Oh, have you?",
+      "speaker_name": "Simon Morris",
+      "start_time": 130.72,
+      "end_time": 131.6
+    },
+    {
+      "text": "Is he gone?",
+      "speaker_name": "Simon Morris",
+      "start_time": 132,
+      "end_time": 132.88
+    },
+    {
+      "text": "He's froze.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 133.76,
+      "end_time": 134.52
+    },
+    {
+      "text": "I think he's froze.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 134.52,
+      "end_time": 135.32
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Simon Morris",
+      "start_time": 135.32,
+      "end_time": 136.6
+    },
+    {
+      "text": "That's a good start.",
+      "speaker_name": "Simon Morris",
+      "start_time": 136.6,
+      "end_time": 137.52
+    },
+    {
+      "text": "Always a good start.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 140.4,
+      "end_time": 141.4
+    },
+    {
+      "text": "But technology.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 141.4,
+      "end_time": 142.72
+    },
+    {
+      "text": "Yeah, it's great when it works and it sucks when it doesn't.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 143.68,
+      "end_time": 146.4
+    },
+    {
+      "text": "Yes, absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 146.639,
+      "end_time": 147.92
+    },
+    {
+      "text": "So I really appreciate this.",
+      "speaker_name": "Simon Morris",
+      "start_time": 150.72,
+      "end_time": 152.2
+    },
+    {
+      "text": "Thank you very much for your time coming on.",
+      "speaker_name": "Simon Morris",
+      "start_time": 152.2,
+      "end_time": 155.28
+    },
+    {
+      "text": "I was.",
+      "speaker_name": "Simon Morris",
+      "start_time": 155.28,
+      "end_time": 155.76
+    },
+    {
+      "text": "I was really impressed.",
+      "speaker_name": "Simon Morris",
+      "start_time": 156.25,
+      "end_time": 157.05
+    },
+    {
+      "text": "You said.",
+      "speaker_name": "Simon Morris",
+      "start_time": 157.05,
+      "end_time": 157.53
+    },
+    {
+      "text": "It's a great little business, isn't it?",
+      "speaker_name": "Simon Morris",
+      "start_time": 159.05,
+      "end_time": 160.81
+    },
+    {
+      "text": "It is.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 161.05,
+      "end_time": 161.53
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Simon Morris",
+      "start_time": 161.69,
+      "end_time": 162.17
+    },
+    {
+      "text": "It's really, really good news.",
+      "speaker_name": "Simon Morris",
+      "start_time": 162.17,
+      "end_time": 164.17
+    },
+    {
+      "text": "And I was really.",
+      "speaker_name": "Simon Morris",
+      "start_time": 164.17,
+      "end_time": 165.69
+    },
+    {
+      "text": "It was good to meet Bob and I think there's some great opportunities.",
+      "speaker_name": "Simon Morris",
+      "start_time": 166.73,
+      "end_time": 173.37
+    },
+    {
+      "text": "Martin, Julian and I have.",
+      "speaker_name": "Simon Morris",
+      "start_time": 173.69,
+      "end_time": 175.69
+    },
+    {
+      "text": "Have talked about some synergies and compliments and.",
+      "speaker_name": "Simon Morris",
+      "start_time": 175.85,
+      "end_time": 180.41
+    },
+    {
+      "text": "Yeah, it's.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 180.97,
+      "end_time": 181.63
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Simon Morris",
+      "start_time": 181.78,
+      "end_time": 182.06
+    },
+    {
+      "text": "It's great.",
+      "speaker_name": "Simon Morris",
+      "start_time": 182.06,
+      "end_time": 182.66
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 182.66,
+      "end_time": 183.14
+    },
+    {
+      "text": "And I think you're right, Simon.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 183.14,
+      "end_time": 184.74
+    },
+    {
+      "text": "I think, you know, when you walked out of here myself and now and had a conversation and we thought, well, a very interesting chap that you are, absolutely two.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 184.74,
+      "end_time": 193.46
+    },
+    {
+      "text": "There's a lot of potential synergies and complimentary stuff that from the story that you were telling us from you know, the, the what you trying to achieve within the, the that wheelhouse that you're in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 194.18,
+      "end_time": 206.02
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 206.18,
+      "end_time": 206.82
+    },
+    {
+      "text": "I think it's it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 206.82,
+      "end_time": 207.62
+    },
+    {
+      "text": "This potentially could be a great fit.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 207.78,
+      "end_time": 209.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 210.59,
+      "end_time": 210.99
+    },
+    {
+      "text": "So Travis Webb.",
+      "speaker_name": "Simon Morris",
+      "start_time": 212.35,
+      "end_time": 214.35
+    },
+    {
+      "text": "So please ask any questions or you know, if you want to know anything of me, then by all means do.",
+      "speaker_name": "Simon Morris",
+      "start_time": 214.51,
+      "end_time": 221.95
+    },
+    {
+      "text": "But where we sort of left off was I'd, I'd taken the, the three years EBITDA figure that was actual and average that out and use that as a sort of base if you like plus plus I applied some multiples.",
+      "speaker_name": "Simon Morris",
+      "start_time": 223.95,
+      "end_time": 244.36
+    },
+    {
+      "text": "So consequently the figures that I put forward.",
+      "speaker_name": "Simon Morris",
+      "start_time": 244.44,
+      "end_time": 247.32
+    },
+    {
+      "text": "Yeah actually what I said to Joseph was that the, the 26 EBITDA figure is, is bigger and I just wanted, so I'm not disagreeing with it, I'm not saying it's not applicable.",
+      "speaker_name": "Simon Morris",
+      "start_time": 247.96,
+      "end_time": 264.179
+    },
+    {
+      "text": "I just wanted to understand how that figure had been arrived and the substance of that figure if you to then be able to go okay, so over four years we've got this average.",
+      "speaker_name": "Simon Morris",
+      "start_time": 264.499,
+      "end_time": 277.739
+    },
+    {
+      "text": "Now we have an EBITDA figure that we all agree we can apply a relevant multiple and that's where we get to type sense.",
+      "speaker_name": "Simon Morris",
+      "start_time": 277.739,
+      "end_time": 286.659
+    },
+    {
+      "text": "Yeah, yeah, yeah, absolutely, absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 286.659,
+      "end_time": 288.79
+    },
+    {
+      "text": "So, so okay.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 289.27,
+      "end_time": 291.23
+    },
+    {
+      "text": "Do you want to shoot with some questions or should I just give you some background to, to how those forecasts has been developed?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 291.23,
+      "end_time": 297.19
+    },
+    {
+      "text": "Yeah, that would be great.",
+      "speaker_name": "Simon Morris",
+      "start_time": 297.43,
+      "end_time": 298.55
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 298.79,
+      "end_time": 299.35
+    },
+    {
+      "text": "So, so essentially obviously from the numbers that you guys have seen, you've seen an uplift in the revenue from you know the 2 million that we, we achieved and our financial year is the end of June.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 299.35,
+      "end_time": 310.51
+    },
+    {
+      "text": "It's not the calendar year but we are swapping that around.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 310.51,
+      "end_time": 314.15
+    },
+    {
+      "text": "So you know, we achieved the 2 million.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 314.55,
+      "end_time": 316.42
+    },
+    {
+      "text": "We've got an uplift of circa about 350, 360000 for this FY26.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 316.42,
+      "end_time": 323.7
+    },
+    {
+      "text": "And the reason behind that is in June, June, mid June we took on a new sales guy in print and we're hoping that he's going to hit the ground with some decent sales to come through.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 323.86,
+      "end_time": 338.5
+    },
+    {
+      "text": "So obviously we are looking at that and that will be our of our biggest uplifts with our revenue from the 2 mil to, to the 2.3, 2.4 mil.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 338.74,
+      "end_time": 348.74
+    },
+    {
+      "text": "So we've got three sales guys and in essence each of those we're hoping we'll bring in if you like, 600,000 each and then we have house clients that bring in around 600,000.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 351.06,
+      "end_time": 364.5
+    },
+    {
+      "text": "So that's where I get to the 2.4 million.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 364.9,
+      "end_time": 367.46
+    },
+    {
+      "text": "Okay, now, now seasonally with the 2 guys that we've had as sales guys, they've achieved 5, 600,000 over the last 2 to 3 years and especially in 2024 where we had a, I think we hit the 2.3 that year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 368.02,
+      "end_time": 386.29
+    },
+    {
+      "text": "So we had a good, good year that year as well.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 386.29,
+      "end_time": 388.25
+    },
+    {
+      "text": "So these guys are obviously tasked at bringing in that sort of level of revenue and we set goals and targets and minimum GP margins etc just to make sure we try some of that revenue and that then hits our bottom line.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 388.73,
+      "end_time": 404.15
+    },
+    {
+      "text": "It's a competitive market as we know, but with our sticky clients that we have and like I said, I think I said I shared a schedule where we've got a lot of sticky clients that have been with us a number of years and obviously going forward, happy to share the names and et cetera, et cetera, but they've been with us a number of years and they contribute and they're known as my house clients.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 404.15,
+      "end_time": 426.47
+    },
+    {
+      "text": "A lot of those, the ones that have been here with us for a while are sort of our house clients and they're the ones that contribute to the house pot of say 600,000.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 426.47,
+      "end_time": 436.09
+    },
+    {
+      "text": "And then you've got the three guys and that's where the uplift in that revenue is.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 436.65,
+      "end_time": 441.53
+    },
+    {
+      "text": "So hopefully the, the, our new sales guy Jonathan will start hitting some goals.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 441.61,
+      "end_time": 448.21
+    },
+    {
+      "text": "And I'm looking at the pipeline because we have a sales meeting every month.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 448.21,
+      "end_time": 452.25
+    },
+    {
+      "text": "There's some good numbers on the pipeline for Jonathan, the new sales guy, I think the circle about 180 projects that he's working on at this moment in time.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 453.13,
+      "end_time": 464.65
+    },
+    {
+      "text": "Some are at 50%, some are at 75% but obviously I'm only interested in when they're 100% and I can bill it to be honest.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 464.81,
+      "end_time": 471.61
+    },
+    {
+      "text": "So that's all positive stuff.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 473.13,
+      "end_time": 474.65
+    },
+    {
+      "text": "And again some of these bigger projects that take a bit of time to convert and they're projects that we've started talking to clients about now for delivery pre Christmas, that type stuff.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 474.65,
+      "end_time": 487.43
+    },
+    {
+      "text": "So we're making all the right noises across our sales team in terms of trying to deliver and hit our numbers for this financial year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 487.43,
+      "end_time": 496.99
+    },
+    {
+      "text": "And as I say we have regular meetings once a month and then every week the sales guys catch up with Bob and they catch up on a coffee just to see what's going on, what issues they've got, et cetera, et cetera.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 497.31,
+      "end_time": 508.51
+    },
+    {
+      "text": "So that's where the revenue side comes in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 508.67,
+      "end_time": 510.75
+    },
+    {
+      "text": "And I know with the revenue and how I got to my number it's based on an average of three years because again if you to analyze and you know, later on you may want to look at the client and how.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 511.05,
+      "end_time": 524.97
+    },
+    {
+      "text": "So we've got client A who's one of our house clients and on average they do every year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 526.25,
+      "end_time": 531.05
+    },
+    {
+      "text": "They seem to do between 250 to 275 every year with us.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 531.05,
+      "end_time": 535.37
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 536.57,
+      "end_time": 536.89
+    },
+    {
+      "text": "And we got another client who does something similar.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 536.89,
+      "end_time": 538.81
+    },
+    {
+      "text": "So that's how it's built.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 541.24,
+      "end_time": 542.96
+    },
+    {
+      "text": "It's taken an average and again I can build it and then extrapolate on that on a monthly basis because obviously a lot of our sales.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 542.96,
+      "end_time": 551
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 551.56,
+      "end_time": 552.04
+    },
+    {
+      "text": "And I think there's a question that you asked when you were here, Simon.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 552.12,
+      "end_time": 555.24
+    },
+    {
+      "text": "Around, you know the seasons, is it seasonal?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 555.56,
+      "end_time": 558.6
+    },
+    {
+      "text": "Obviously going into November, December, January, you know the revenue does drop off because obviously you know, people aren't around print.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 558.6,
+      "end_time": 565.96
+    },
+    {
+      "text": "Majority of the print budgets are all done by December if they've got the calendar year as their financial year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 565.96,
+      "end_time": 573.61
+    },
+    {
+      "text": "And basically the those three months are, if you like seasonally quiet the rest of the nine months then it picks up for the rest of the year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 574.09,
+      "end_time": 584.57
+    },
+    {
+      "text": "So that's the seasonal aspect to our numbers.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 585.69,
+      "end_time": 588.93
+    },
+    {
+      "text": "In terms of the revenue material wise again the material costs are circle between I'd say 40, 42 to 48% and then on top of that you've got your direct cost salaries for the production team and the sales team, they're included in that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 588.93,
+      "end_time": 609.68
+    },
+    {
+      "text": "We've got headcount of 14 staff and then on top of that I've got a sales accounts assistant who does all the invoicing side of things.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 609.68,
+      "end_time": 619.36
+    },
+    {
+      "text": "But in my cogs I've got just the print department and then anything admin wise sits below that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 620.64,
+      "end_time": 627.34
+    },
+    {
+      "text": "And then obviously you're aware that we've got a facility here which you saw last week.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 628.22,
+      "end_time": 633.34
+    },
+    {
+      "text": "We're here for a couple more years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 634.22,
+      "end_time": 636.54
+    },
+    {
+      "text": "It finishes in 2027, the lease here.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 636.86,
+      "end_time": 639.34
+    },
+    {
+      "text": "But like I said to you at the time, we've had a good, since we've been here it's been really, really good in terms of production efficiency and everything else which is obviously affects our bottom line because I'm sure in the print industry margins are relatively, relatively tight.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 640.7,
+      "end_time": 659.98
+    },
+    {
+      "text": "So you've got to be careful on wastage and things like that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 659.98,
+      "end_time": 663.14
+    },
+    {
+      "text": "So that is a big issue for us in terms of making sure we manage that side sensibly and carefully.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 663.54,
+      "end_time": 669.22
+    },
+    {
+      "text": "So we, you know, wastage is kept to a minimum.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 669.3,
+      "end_time": 672.82
+    },
+    {
+      "text": "And then what else can I talk about in terms of the forecast and everything else apart from that is just taken based on previous historic numbers like insurance.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 674.18,
+      "end_time": 683.29
+    },
+    {
+      "text": "I mean insurance is an interesting one where you know, we've.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 683.29,
+      "end_time": 686.57
+    },
+    {
+      "text": "Our insurance cost for the year is circa of about 30,000 and I've added 2/3 of that to print.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 686.57,
+      "end_time": 691.49
+    },
+    {
+      "text": "And the reason I've added 2/3 of that is because of the equipment that we have now it might be even half that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 691.49,
+      "end_time": 698.89
+    },
+    {
+      "text": "It might be.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 698.89,
+      "end_time": 699.41
+    },
+    {
+      "text": "I've got I think circa about 20 odd grand for insurance it might be 15 grand.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 699.41,
+      "end_time": 703.81
+    },
+    {
+      "text": "But at the minute I've just based it on a figure of 20 and I'm trying to split out because the.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 703.81,
+      "end_time": 708.93
+    },
+    {
+      "text": "My P L and I think I explained to this to you Simon, was it's a company wide P L and I have it divvied up with the departments.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 709.3,
+      "end_time": 719.46
+    },
+    {
+      "text": "So we try and analyze a lot of the costs.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 719.54,
+      "end_time": 722.1
+    },
+    {
+      "text": "The cogs are straightforward.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 722.1,
+      "end_time": 723.54
+    },
+    {
+      "text": "That's print, that's agency, that's sport.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 723.7,
+      "end_time": 726.26
+    },
+    {
+      "text": "Fantastic.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 726.34,
+      "end_time": 727.06
+    },
+    {
+      "text": "Nice and simple.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 727.14,
+      "end_time": 728.1
+    },
+    {
+      "text": "But with the overheads we try and analyze those individually and try and split them out per department and we try and do that a lot, lot more.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 728.42,
+      "end_time": 739.39
+    },
+    {
+      "text": "So our central cost pot that's left is negligible.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 739.39,
+      "end_time": 743.15
+    },
+    {
+      "text": "So what would sit in central cost, that is my time, is Howard's time, etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 743.39,
+      "end_time": 748.63
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 748.63,
+      "end_time": 748.99
+    },
+    {
+      "text": "And, and the support team, HR and, and the other accounts people that are in there.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 748.99,
+      "end_time": 754.67
+    },
+    {
+      "text": "So that's it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 755.07,
+      "end_time": 755.67
+    },
+    {
+      "text": "And then we apportion that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 755.67,
+      "end_time": 756.71
+    },
+    {
+      "text": "But again as, as Howard alluded to, your print runs itself.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 756.71,
+      "end_time": 760.91
+    },
+    {
+      "text": "Bob does a superb job in running that side of the business with as little help from myself and Howard.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 761.67,
+      "end_time": 768.63
+    },
+    {
+      "text": "And nine times out of ten the relationships with those clients are with the team downstairs with the sales guys.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 769.43,
+      "end_time": 774.79
+    },
+    {
+      "text": "And Bob, you know, if you were to take myself and Howard out of the equation, I don't think that is a massive issue at all because all I'm interested in, I'll rattle the cage if somebody hasn't paid us from a finance perspective, et cetera, et cetera, or if there's a big project around there that needs a bit more of a financial finesse, I will get involved.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 774.79,
+      "end_time": 795.74
+    },
+    {
+      "text": "But nine times out of 10 the sales guys and Bob managed that side as well.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 795.74,
+      "end_time": 800.78
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Simon Morris",
+      "start_time": 800.78,
+      "end_time": 801.14
+    },
+    {
+      "text": "So it's a minimal approach for myself and Howard and I think we alluded to that when we, when you were here, Simon.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 801.46,
+      "end_time": 807.78
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 808.18,
+      "end_time": 808.58
+    },
+    {
+      "text": "And that's it really from, from that side of it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 810.02,
+      "end_time": 812.62
+    },
+    {
+      "text": "And in terms of the, the FY26, I think, you know, I'm reasonably confident that we can achieve those numbers.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 812.62,
+      "end_time": 820.5
+    },
+    {
+      "text": "There's no reason at this moment in time to think we can't.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 821.35,
+      "end_time": 823.83
+    },
+    {
+      "text": "But obviously, you know, from a management perspective it's always rattling the sales guys, you know.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 825.19,
+      "end_time": 830.31
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 830.31,
+      "end_time": 830.67
+    },
+    {
+      "text": "At the end of the day they're the ones that are going to go and deliver Can I just ask.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 830.67,
+      "end_time": 835.27
+    },
+    {
+      "text": "And we might have asked it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 835.27,
+      "end_time": 836.19
+    },
+    {
+      "text": "So apologies.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 836.19,
+      "end_time": 836.869
+    },
+    {
+      "text": "Simon probably has done so we saw that drop to 2000.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 837.75,
+      "end_time": 842.15
+    },
+    {
+      "text": "Like we saw the drop to this year from 2.3 down to sort of 2 sort of like 10.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 842.79,
+      "end_time": 847.51
+    },
+    {
+      "text": "Yeah, drop and then we're now looking for like a kind of 15 upwards.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 848.25,
+      "end_time": 853.53
+    },
+    {
+      "text": "Yeah, 20.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 853.61,
+      "end_time": 854.25
+    },
+    {
+      "text": "So would you be able to first explain that drop and then, and then how that can be increased to such a big extent then?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 855.69,
+      "end_time": 863.29
+    },
+    {
+      "text": "Yeah, so, so what.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 863.93,
+      "end_time": 864.89
+    },
+    {
+      "text": "It was a lot of that last year we had one big client who they have advertising space in and around London and they had a lot of issues with those sites through because of the local authority, so they couldn't get planning permission and stuff like that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 864.89,
+      "end_time": 878.73
+    },
+    {
+      "text": "That was del.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 878.89,
+      "end_time": 879.69
+    },
+    {
+      "text": "Hence why it had a, a knock on effect on our numbers and also a couple of jobs that were supposed to happen didn't happen.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 880.23,
+      "end_time": 889.31
+    },
+    {
+      "text": "We had a client, and I'll mention the name Kate Box, which then basically they bought every.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 889.31,
+      "end_time": 895.55
+    },
+    {
+      "text": "Took everything in house because I think they were farming it out to, to China their print.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 895.55,
+      "end_time": 901.75
+    },
+    {
+      "text": "I don't know why, but they were farming out to China.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 901.75,
+      "end_time": 903.75
+    },
+    {
+      "text": "But again and, and they'd been taken over.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 903.75,
+      "end_time": 906.47
+    },
+    {
+      "text": "So that had a massive impact for us in terms of the revenue side of things.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 906.94,
+      "end_time": 910.62
+    },
+    {
+      "text": "So those are the two key ones nine times out of ten, I mean, historically, if I was to go back, you know, six, seven, eight years, you know, our benchmark has always been about 2 mil.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 911.66,
+      "end_time": 921.1
+    },
+    {
+      "text": "It's just now getting a.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 921.18,
+      "end_time": 922.38
+    },
+    {
+      "text": "But trying to get to that 2.4 figure that I've always wanted to try and get to.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 922.38,
+      "end_time": 926.94
+    },
+    {
+      "text": "And, and Those are the two key bits of why the numbers in, in FY25 worse circle about 2 mil instead of the 2.3 that we were hoping.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 927.02,
+      "end_time": 936.31
+    },
+    {
+      "text": "Just, just on that Yusuf.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 936.71,
+      "end_time": 938.35
+    },
+    {
+      "text": "So do you have a.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 938.35,
+      "end_time": 939.43
+    },
+    {
+      "text": "You may not have it readily to hand, but it'll be interesting to see the certainly 24, 25 and 26 numbers broken down by quarter.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 939.43,
+      "end_time": 948.31
+    },
+    {
+      "text": "Yeah, because it will be interesting to see.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 948.95,
+      "end_time": 951.51
+    },
+    {
+      "text": "I mean you've now completed first quarter of what you're calling 26 up to the end of September.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 951.51,
+      "end_time": 957.67
+    },
+    {
+      "text": "Be interesting to see how that quarter compares to the comparative quarter in 24 and 25.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 958.17,
+      "end_time": 963.37
+    },
+    {
+      "text": "Yeah, yeah, sure.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 963.61,
+      "end_time": 964.49
+    },
+    {
+      "text": "See what kind of what the run rate is for the first quarter again against what you're predicting for the, for the entire FY26.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 964.89,
+      "end_time": 974.209
+    },
+    {
+      "text": "And yeah, yeah, ask questions around, you know that, that relativity you did mention earlier on, there is an element of seasonality.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 974.209,
+      "end_time": 981.77
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 982.41,
+      "end_time": 982.89
+    },
+    {
+      "text": "So what, what, when does it tend to drop off?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 983.86,
+      "end_time": 986.18
+    },
+    {
+      "text": "Around Christmas time.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 986.18,
+      "end_time": 987.3
+    },
+    {
+      "text": "Yeah, it's that it's it's.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 987.62,
+      "end_time": 989.1
+    },
+    {
+      "text": "It's that period between November, December, January.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 989.1,
+      "end_time": 992.82
+    },
+    {
+      "text": "I mean, you lose like December, December and January.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 992.98,
+      "end_time": 995.98
+    },
+    {
+      "text": "I think every turns off mid December and then comes back online after the second week in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 995.98,
+      "end_time": 1000.82
+    },
+    {
+      "text": "In Jatten, to be honest.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1000.98,
+      "end_time": 1002.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1002.34,
+      "end_time": 1002.7
+    },
+    {
+      "text": "So you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1002.7,
+      "end_time": 1003.06
+    },
+    {
+      "text": "You tend to lose those two months and then November is quiet because everybody's just, you know, and if they've got the year end of December, they've used all their budget and now they're waiting for the new year to start so they can use new budgets.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1003.06,
+      "end_time": 1014.77
+    },
+    {
+      "text": "So 1Q25, which was the dip when you went down to 2 million, was that dip apparent in that first quarter or did it happen primarily later in the year?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1015.01,
+      "end_time": 1027.17
+    },
+    {
+      "text": "It was apparent in that quarter.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1027.33,
+      "end_time": 1028.69
+    },
+    {
+      "text": "Okay, so if we looked at 25 against 26, then we would expect 26 to be a higher number than 25 for the first three months.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1029.41,
+      "end_time": 1036.77
+    },
+    {
+      "text": "For the.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1037.99,
+      "end_time": 1038.39
+    },
+    {
+      "text": "Yeah, potentially, yes.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1039.59,
+      "end_time": 1041.03
+    },
+    {
+      "text": "But there's a couple of.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1041.27,
+      "end_time": 1042.43
+    },
+    {
+      "text": "Yeah, so there's a couple of jobs with that quarter.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1042.43,
+      "end_time": 1044.71
+    },
+    {
+      "text": "There's a couple of jobs that we should have built in September, but they.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1044.71,
+      "end_time": 1048.47
+    },
+    {
+      "text": "Because of some logistic issues on a site at near Heathrow that we're doing, security issues and there's a horse on the site and everything else.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1048.63,
+      "end_time": 1056.27
+    },
+    {
+      "text": "Just trying to get that off the field so we can go in and then finish that off.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1056.27,
+      "end_time": 1059.71
+    },
+    {
+      "text": "That we've got some of those costs sitting there and that's moved into October, that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1059.71,
+      "end_time": 1063.47
+    },
+    {
+      "text": "But that was supposed to be built in September.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1063.47,
+      "end_time": 1066.57
+    },
+    {
+      "text": "But, yes, I can break that down for you, no problem.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1066.81,
+      "end_time": 1071.29
+    },
+    {
+      "text": "And when you have a situation like that, whereby, from what you've just said there.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1071.29,
+      "end_time": 1075.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1075.21,
+      "end_time": 1075.57
+    },
+    {
+      "text": "You virtually kind of incurred most of the costs around those jobs that were then deferred.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1075.57,
+      "end_time": 1080.77
+    },
+    {
+      "text": "From an invoicing point of view, do you try and match the cost to the invoicing or do the costs still sit in that first quarter?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1080.77,
+      "end_time": 1086.97
+    },
+    {
+      "text": "Oh, 100 first quarter might look pretty crap because you've got a load of cost in there without any billing against it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1087.21,
+      "end_time": 1093.05
+    },
+    {
+      "text": "Yeah, no, that's a great question.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1093.34,
+      "end_time": 1094.62
+    },
+    {
+      "text": "I move the cost to the revenue so it matches, basically.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1094.62,
+      "end_time": 1098.06
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1098.46,
+      "end_time": 1098.82
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1098.82,
+      "end_time": 1099.18
+    },
+    {
+      "text": "Yeah, I think.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1099.5,
+      "end_time": 1100.38
+    },
+    {
+      "text": "I mean, yeah, it'd be great to get in really into.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1100.86,
+      "end_time": 1104.14
+    },
+    {
+      "text": "So, coming back to Julian's question, you know, it'd be good to overlay the pipeline with that quarterly performance.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1104.7,
+      "end_time": 1110.94
+    },
+    {
+      "text": "So because you can imagine the main question that we.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1111.02,
+      "end_time": 1113.94
+    },
+    {
+      "text": "We're asking here is what's the evidence that gives us confidence that that forecast of that 20% uplift and a crazy uplift on the EBITDA there, like more than double, just based on a 20% increase in sales is kind of just.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1113.94,
+      "end_time": 1130.87
+    },
+    {
+      "text": "The question is will it happen?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1130.87,
+      "end_time": 1132.27
+    },
+    {
+      "text": "Will it happen?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1132.27,
+      "end_time": 1132.99
+    },
+    {
+      "text": "That's the obvious question, isn't it?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1133.47,
+      "end_time": 1135.07
+    },
+    {
+      "text": "And that's a, and that's a great question.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1135.23,
+      "end_time": 1136.71
+    },
+    {
+      "text": "Again, Martin, in terms of, you know, the EBITDAR on that, if you Compare that to FY24, where we did the 2.3 million, the EBITDA was over 200,000 anyway.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1136.71,
+      "end_time": 1146.63
+    },
+    {
+      "text": "So, you know, in comparison to that year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1146.63,
+      "end_time": 1149.07
+    },
+    {
+      "text": "Yeah, last year was a bit of a, you know, a challenging year because of obviously the reasons I explained.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1149.07,
+      "end_time": 1155.49
+    },
+    {
+      "text": "But then if you carry on into this year, if we hit the two point circle of 2.4, we're going to hopefully hit the 200, 000 EBITDA.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1155.49,
+      "end_time": 1161.77
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1162.17,
+      "end_time": 1162.53
+    },
+    {
+      "text": "Okay, so it's on, it's back to the sales question, isn't it then?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1162.53,
+      "end_time": 1165.53
+    },
+    {
+      "text": "It is, absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1165.53,
+      "end_time": 1166.57
+    },
+    {
+      "text": "So your three guys, especially Jonathan, you know, he joined a few months ago.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1166.73,
+      "end_time": 1171.13
+    },
+    {
+      "text": "It'd be really interesting.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1171.13,
+      "end_time": 1172.77
+    },
+    {
+      "text": "I know it takes a little bit of time to get your feet under the table, but I think that pipeline and understanding not only the individual lines in the pipeline, but if you, if we could categorize those into sort of revenue streams because you, you know, we tend to find that certain revenue streams are like a lot quicker to go from inquiry to delivery, whereas others, there's just a longer gestation period just because, just because of the size of it or the risk profile with that particular product.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1172.77,
+      "end_time": 1199.48
+    },
+    {
+      "text": "So it'd be good to get, to be able to draw out from the data these main categories of work to get under the skin and have an understanding of those kind of characteristics.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1199.48,
+      "end_time": 1209.75
+    },
+    {
+      "text": "You know, how long from inquiry to, you know, what's the bid process, you know, who are the kinds of companies that are being dealt with?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1209.75,
+      "end_time": 1217.23
+    },
+    {
+      "text": "I mean, I know it's mainly, I think it's mainly independent commercial organizations that are awfully, fairly quick to, to get approval on these things.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1217.23,
+      "end_time": 1226.03
+    },
+    {
+      "text": "Although I know that some of these football clubs aren't that efficient, are they, in their operations at all?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1226.11,
+      "end_time": 1231.39
+    },
+    {
+      "text": "I know for you guys, one or two that have worked for football clubs and it's an absolute chaos.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1232.92,
+      "end_time": 1237.76
+    },
+    {
+      "text": "So yeah, it is a ball like.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1237.76,
+      "end_time": 1240.28
+    },
+    {
+      "text": "Yeah, speak for me, I'd underline that with a 3.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1240.28,
+      "end_time": 1243.8
+    },
+    {
+      "text": "With the 3 line went.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1243.88,
+      "end_time": 1244.96
+    },
+    {
+      "text": "Sorry about that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1244.96,
+      "end_time": 1245.8
+    },
+    {
+      "text": "I'd underline that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1245.96,
+      "end_time": 1246.92
+    },
+    {
+      "text": "I like the pun.",
+      "speaker_name": "Simon Morris",
+      "start_time": 1247.959,
+      "end_time": 1248.92
+    },
+    {
+      "text": "Yeah, there you go.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1251.72,
+      "end_time": 1252.84
+    },
+    {
+      "text": "Well, just, I mean you can, if you put yourself in our shoes, we'd want to just get a little bit under the skin of it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1253.08,
+      "end_time": 1258.72
+    },
+    {
+      "text": "Not like with analysis paralysis.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1258.72,
+      "end_time": 1260.48
+    },
+    {
+      "text": "It's more almost to have, have the data but be able to take a Step back from it and say, okay, based on these kind of, you know, key levers, do we believe that they will continue in the way that you, you know, this slide suggests?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1260.48,
+      "end_time": 1275.75
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1275.91,
+      "end_time": 1276.39
+    },
+    {
+      "text": "I've got another question on that as well.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1276.39,
+      "end_time": 1278.19
+    },
+    {
+      "text": "That's related to the point you just made there, Martin.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1278.19,
+      "end_time": 1280.31
+    },
+    {
+      "text": "So if you look at the, the gap between gross profit and operating profit, which is effectively, I imagine you're kind of below the line costs in just doing a simple sum of like in 23, taking the 156 from the 487, that would show that you're operating well.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1280.31,
+      "end_time": 1296.35
+    },
+    {
+      "text": "Your admin cost was 330.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1296.59,
+      "end_time": 1298.03
+    },
+    {
+      "text": "The next year it's 366.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1298.35,
+      "end_time": 1300.11
+    },
+    {
+      "text": "Last year it's 402.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1300.43,
+      "end_time": 1301.95
+    },
+    {
+      "text": "That's a worrying trend that's going up by about 10% per annum.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1302.19,
+      "end_time": 1305.39
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1305.47,
+      "end_time": 1305.95
+    },
+    {
+      "text": "I would query as to whether your ebitda assumption for 26 is valid because.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1306.99,
+      "end_time": 1312.55
+    },
+    {
+      "text": "All right, on that same track, your operating costs will be 60 grand more than they were in, in 24.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1312.55,
+      "end_time": 1319.1
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1319.34,
+      "end_time": 1319.74
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1319.74,
+      "end_time": 1320.06
+    },
+    {
+      "text": "Okay, that's a great question.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1320.14,
+      "end_time": 1322.54
+    },
+    {
+      "text": "So there's a couple of things for that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1323.18,
+      "end_time": 1325.1
+    },
+    {
+      "text": "One is our rent because when we obviously in 23 we were fairly young tenants at this place, so obviously we negotiated a rent free period and that obviously impacted on the numbers in FY23 and then we had a rent increase after two years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1325.1,
+      "end_time": 1342.3
+    },
+    {
+      "text": "So that then went up and increased to what you see in FY25 and FY26 what you'll see this year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1342.94,
+      "end_time": 1349.42
+    },
+    {
+      "text": "And also the fact that we've had obviously tax increases as well.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1349.96,
+      "end_time": 1354.44
+    },
+    {
+      "text": "So in my forecast I've tried and built the, the national insurance rates that have now changed and that's had a knock on effect obviously.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1354.44,
+      "end_time": 1362.68
+    },
+    {
+      "text": "And that one, similar to you guys, that has a knock on effect as well.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1362.84,
+      "end_time": 1366.48
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1366.48,
+      "end_time": 1366.84
+    },
+    {
+      "text": "And that's why it's probably gone up circa of what, 70, 80 grand?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1367.16,
+      "end_time": 1371.4
+    },
+    {
+      "text": "Probably not almost 90 grand I think from FY 2523 to this year than the forecast year.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1372.44,
+      "end_time": 1380.01
+    },
+    {
+      "text": "You said it's 330.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1380.09,
+      "end_time": 1381.37
+    },
+    {
+      "text": "Yeah, I guess one could argue that the revenue is 100 grand more in 26 than it is in 24.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1383.45,
+      "end_time": 1390.17
+    },
+    {
+      "text": "So that could be a reason why you're still holding that 260ebit.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1390.33,
+      "end_time": 1395.01
+    },
+    {
+      "text": "I guess I'd just like to see a bit more of the, the detail that sits between to just validate really the cost model that you've got in for FY26.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1395.01,
+      "end_time": 1406.73
+    },
+    {
+      "text": "Yeah, yeah, absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1407.94,
+      "end_time": 1409.06
+    },
+    {
+      "text": "And Joseph, really appreciate this.",
+      "speaker_name": "Simon Morris",
+      "start_time": 1409.7,
+      "end_time": 1413.14
+    },
+    {
+      "text": "Thanks for fielding these questions.",
+      "speaker_name": "Simon Morris",
+      "start_time": 1413.3,
+      "end_time": 1416.26
+    },
+    {
+      "text": "Are you and Howard still in the, the numbers going forward?",
+      "speaker_name": "Simon Morris",
+      "start_time": 1418.02,
+      "end_time": 1423.46
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1424.82,
+      "end_time": 1425.22
+    },
+    {
+      "text": "So in these Numbers.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1428.82,
+      "end_time": 1430.18
+    },
+    {
+      "text": "What you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1430.26,
+      "end_time": 1430.82
+    },
+    {
+      "text": "What you see, we are not in these numbers.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1430.9,
+      "end_time": 1432.98
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Simon Morris",
+      "start_time": 1433.59,
+      "end_time": 1434.07
+    },
+    {
+      "text": "Any of them.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1434.15,
+      "end_time": 1434.87
+    },
+    {
+      "text": "So is it consistently removed?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1434.95,
+      "end_time": 1436.83
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1436.83,
+      "end_time": 1437.91
+    },
+    {
+      "text": "So that group charge, I think you touched on the kind of group charge, you call it something else.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1439.11,
+      "end_time": 1443.03
+    },
+    {
+      "text": "But is that also.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1443.03,
+      "end_time": 1444.07
+    },
+    {
+      "text": "That's not.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1445.03,
+      "end_time": 1445.59
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1445.67,
+      "end_time": 1446.07
+    },
+    {
+      "text": "So this is purely a print extract of our P L and the cost that the print department will have.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1446.23,
+      "end_time": 1452.47
+    },
+    {
+      "text": "Central.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1453.11,
+      "end_time": 1453.51
+    },
+    {
+      "text": "Central costs won't sit in there.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1453.67,
+      "end_time": 1456.43
+    },
+    {
+      "text": "The only thing I have added, I have added a accounts person in that from our central pot into this model, which I've called it for obvious reasons, accounts assistant in there.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1456.43,
+      "end_time": 1468.99
+    },
+    {
+      "text": "So I think it's on the bottom line of that, of the documents that you see.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1469.15,
+      "end_time": 1472.43
+    },
+    {
+      "text": "So just to follow on from that, I know you mentioned yourself and Howard, but quite often we see that those group costs are providing other essential services.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1474.11,
+      "end_time": 1485.07
+    },
+    {
+      "text": "So if we, you know, if we needed to fully pull away from that, you know, what else, you know, is there some sale brand, sorry, branding, marketing.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1485.23,
+      "end_time": 1494.48
+    },
+    {
+      "text": "Are there any other.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1494.48,
+      "end_time": 1495.24
+    },
+    {
+      "text": "Not really.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1495.64,
+      "end_time": 1496.2
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1497.48,
+      "end_time": 1497.8
+    },
+    {
+      "text": "That we would need to replace?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1497.8,
+      "end_time": 1499.88
+    },
+    {
+      "text": "No, I mean costing Martin, in terms of support services.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1500.04,
+      "end_time": 1505
+    },
+    {
+      "text": "I mean the branding side of it, the marketing, social media side that we.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1505.64,
+      "end_time": 1508.92
+    },
+    {
+      "text": "Down to you guys.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1508.92,
+      "end_time": 1509.72
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1509.8,
+      "end_time": 1510.2
+    },
+    {
+      "text": "In terms of hr, Bob takes care of that and again that will be with.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1511.8,
+      "end_time": 1517.73
+    },
+    {
+      "text": "You know, and sometimes I get involved in HR and yes, we've got an HR lady but her involvement in print is very minimal because Bob runs a really good ship in that side of things and he takes care of all of that and he bounced.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1517.89,
+      "end_time": 1530.45
+    },
+    {
+      "text": "Oh, you know, somebody needs a pay rise.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1530.45,
+      "end_time": 1532.89
+    },
+    {
+      "text": "Can we have a discussion, a review?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1532.89,
+      "end_time": 1534.21
+    },
+    {
+      "text": "Yeah, and that bounce it off me and that's it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1534.53,
+      "end_time": 1536.49
+    },
+    {
+      "text": "And we do that and that's normal practice and it's normal business.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1536.49,
+      "end_time": 1539.65
+    },
+    {
+      "text": "But in terms of other essential elements from the support team, I don't think there is anything because I've had a good think about it in terms of what I need to extract, to give somebody an idea of what the print.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1539.89,
+      "end_time": 1553.05
+    },
+    {
+      "text": "If I was to pick up that print department and put it somewhere else, what would it look like?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1553.05,
+      "end_time": 1557.41
+    },
+    {
+      "text": "And to me that what I've pulled together is a reasonable stab at it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1557.49,
+      "end_time": 1562.29
+    },
+    {
+      "text": "What about it then?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1562.77,
+      "end_time": 1565.09
+    },
+    {
+      "text": "So the overall management of the it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1565.17,
+      "end_time": 1567.17
+    },
+    {
+      "text": "Yeah, I've got.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1567.63,
+      "end_time": 1568.35
+    },
+    {
+      "text": "There's a. I've got a charge in there.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1568.43,
+      "end_time": 1570.07
+    },
+    {
+      "text": "I think it's about 1200, 1300 quid a month.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1570.07,
+      "end_time": 1573.39
+    },
+    {
+      "text": "That's in there.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1573.95,
+      "end_time": 1574.83
+    },
+    {
+      "text": "So that cost is in those numbers.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1575.87,
+      "end_time": 1577.71
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1577.87,
+      "end_time": 1578.35
+    },
+    {
+      "text": "And so is that an outsourced service that.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1578.91,
+      "end_time": 1580.75
+    },
+    {
+      "text": "Not for things like.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1580.75,
+      "end_time": 1581.71
+    },
+    {
+      "text": "Yeah, it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1582.83,
+      "end_time": 1583.55
+    },
+    {
+      "text": "It is.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1583.71,
+      "end_time": 1584.27
+    },
+    {
+      "text": "But having said that, that's a conversation myself and Travis are having later on in the next Month or do to keep them in a touch because we don't really need them because everything seems to manage itself.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1584.43,
+      "end_time": 1597.18
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1597.66,
+      "end_time": 1598.06
+    },
+    {
+      "text": "But there might be issues going forward with emails and servers.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1598.06,
+      "end_time": 1601.9
+    },
+    {
+      "text": "Yeah, there is but, but with technology now everything seems to be in the cloud and that's where it needs to be because everything's quite seamless.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1603.26,
+      "end_time": 1610.139
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1610.78,
+      "end_time": 1611.18
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1611.5,
+      "end_time": 1611.86
+    },
+    {
+      "text": "So just staying on that topic then.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1611.86,
+      "end_time": 1613.42
+    },
+    {
+      "text": "Are there any.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1613.9,
+      "end_time": 1614.62
+    },
+    {
+      "text": "So in terms of consolidated reporting, any sort of finance systems or any other, you know, group systems like SAP or is there any of that kind of stuff?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1614.86,
+      "end_time": 1624.96
+    },
+    {
+      "text": "No, I mean I run QuickBooks QuickBooks advanced online to manage my businesses and obviously it's integrated that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1625.28,
+      "end_time": 1633.88
+    },
+    {
+      "text": "So obviously if you, if we were to port this over, you'd have to Then either get QuickBooks Online and then it just upload the, the, the some of these files.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1633.88,
+      "end_time": 1643.76
+    },
+    {
+      "text": "I don't know how we do that, but that's a good question.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1643.84,
+      "end_time": 1645.76
+    },
+    {
+      "text": "But that's something for down, later on down the line.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1646.4,
+      "end_time": 1648.8
+    },
+    {
+      "text": "But in terms of ss, saps and stuff like that, no, there's nothing else apart from our account software to be honest.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1648.8,
+      "end_time": 1657.16
+    },
+    {
+      "text": "We use Holiday management system called Bamboo.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1657.16,
+      "end_time": 1660.2
+    },
+    {
+      "text": "We use payroll through Rippling and these are just add ons really to be honest.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1660.6,
+      "end_time": 1668.44
+    },
+    {
+      "text": "But again, you know, to run payroll, I mean I used to run.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1668.44,
+      "end_time": 1672.2
+    },
+    {
+      "text": "We, we've migrated onto Rippling because the bigger company, the other two entities and three entities are on that platform so it just makes sense for us to manage that on one platform.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1672.28,
+      "end_time": 1682.51
+    },
+    {
+      "text": "But again, when before we got, we got bought out here last year, I used to run it on, I used to run our payroll on Brightpay and that used to cost me about in total about 600 pound a year to run the payroll and it's a, a useful little software.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1682.99,
+      "end_time": 1699.39
+    },
+    {
+      "text": "And then holiday wise we use a system called Bamboo but that's across the business, all departments and that costs us overall I think that cost us about 300 and 300 pounds, 350 quid to manage that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1699.63,
+      "end_time": 1714.18
+    },
+    {
+      "text": "But again Brightpay will do that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1714.98,
+      "end_time": 1717.62
+    },
+    {
+      "text": "But we never sort of link the two together because we kept them separate.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1717.62,
+      "end_time": 1722.02
+    },
+    {
+      "text": "But you could, we could get out of those if we wanted to or.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1722.5,
+      "end_time": 1725.54
+    },
+    {
+      "text": "Yeah, yeah, yeah for you guys you would start fresh.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1725.54,
+      "end_time": 1730.47
+    },
+    {
+      "text": "There's nothing that you're committed to in that side of things because Bamboo we still use and we will still use until we kick that into touch and decide to change to something else.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1730.47,
+      "end_time": 1740.19
+    },
+    {
+      "text": "Obviously you'll have to get a new system in place.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1740.67,
+      "end_time": 1744.31
+    },
+    {
+      "text": "Whatever you guys are using now you can maybe just add on to that or you can use a payroll software such as Brightpay, which does have a holiday management system in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1744.31,
+      "end_time": 1754.67
+    },
+    {
+      "text": "So for 7, 800 quid.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1755.23,
+      "end_time": 1756.59
+    },
+    {
+      "text": "7, 800 quid, you've got something that sort of ticks the boxes for print.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1756.67,
+      "end_time": 1761.07
+    },
+    {
+      "text": "What about.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1761.63,
+      "end_time": 1762.19
+    },
+    {
+      "text": "I mean, I'm just conscious of time, so apologies.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1763.47,
+      "end_time": 1766.15
+    },
+    {
+      "text": "I'm kind of getting into a due diligence phase here, but just interested in estimating, you know, costing, you know, pricing that.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1766.15,
+      "end_time": 1777.79
+    },
+    {
+      "text": "Have you got a system for that or do you.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1777.79,
+      "end_time": 1779.35
+    },
+    {
+      "text": "Is it spreadsheets?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1779.35,
+      "end_time": 1780.35
+    },
+    {
+      "text": "Yeah, we use spreadsheets, Martin, to be perfectly honest with you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1780.73,
+      "end_time": 1784.01
+    },
+    {
+      "text": "But what we do do and what Bob does religiously, every sort of quarter, we will look and analyze our price list.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1784.01,
+      "end_time": 1792.65
+    },
+    {
+      "text": "So what we try and do is we'll have a base price, we'll have a category A category B and a category C. And basically A is top whack.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1792.81,
+      "end_time": 1801.01
+    },
+    {
+      "text": "If you're, if you're a, if you're one of our sticky clients who spends 2, 300,000 with us a year, you're, you're a category scene.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1801.01,
+      "end_time": 1806.73
+    },
+    {
+      "text": "You get the lower, the lower pricing.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1806.73,
+      "end_time": 1808.54
+    },
+    {
+      "text": "But what we do look at, because obviously over the, the recent years and months, material prices increase because of this, that and everything else, what's happening in the world, etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1809.42,
+      "end_time": 1819.94
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1819.94,
+      "end_time": 1820.3
+    },
+    {
+      "text": "So, so we, we, where possible we will absorb those, but where the margin and to ensure it doesn't eat too much into our margins, we'll increase our prices.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1820.78,
+      "end_time": 1832.7
+    },
+    {
+      "text": "So what we try and do annually is look at our price increases and we try and put price increases in place as of April.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1833.18,
+      "end_time": 1841.2
+    },
+    {
+      "text": "And again, a lot of our sticky clients, they've been with us a number of years and you know, if they, if we charge 35 pound a square feet, a square foot for 5 mil Foamex, it might go up to 35 pound and 50 pence.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1842.8,
+      "end_time": 1856.64
+    },
+    {
+      "text": "It's that, it's that incremental increases.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1857.2,
+      "end_time": 1859.48
+    },
+    {
+      "text": "But yes, we do carry out due diligence on our pricing because that's important at the end of the day because obviously we need to make sure A, we're at the right end of the pricing side of things and B, we don't price ourselves out of the market.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1859.48,
+      "end_time": 1875.25
+    },
+    {
+      "text": "That's the other thing because obviously there's, there's other companies out there that will do what we do, but we are the best at what we do.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1875.33,
+      "end_time": 1882.53
+    },
+    {
+      "text": "So I think Bob's been around for a while and David and Matthew on the sales side of that and they've been there for a while.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1883.17,
+      "end_time": 1889.81
+    },
+    {
+      "text": "Yes, they have.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1890.28,
+      "end_time": 1890.92
+    },
+    {
+      "text": "So, so Bob has been here the same as me 30 years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1890.92,
+      "end_time": 1895.88
+    },
+    {
+      "text": "So a good feel for the market prices and there's kind of question and.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1897.16,
+      "end_time": 1902.52
+    },
+    {
+      "text": "Also the sales guys, because the sales guys, they live it and they live and breathe it and so they live and they know the pricing, they know the field, what's out there, what's going on, scenario.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1902.52,
+      "end_time": 1913.36
+    },
+    {
+      "text": "So that they're quite good.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1913.36,
+      "end_time": 1914.68
+    },
+    {
+      "text": "And yes, D.C. david Cadwallander and Matt, they've been with a number of years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1914.68,
+      "end_time": 1919.53
+    },
+    {
+      "text": "I'm just looking up now, just pulling up their details.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1920.49,
+      "end_time": 1923.37
+    },
+    {
+      "text": "Matt has been with us 11 years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1924.09,
+      "end_time": 1926.41
+    },
+    {
+      "text": "They started well, October 2014 and David Cadwallander joined us in 2018 and obviously Jonathan, Jonathan joined us in June.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1926.65,
+      "end_time": 1935.45
+    },
+    {
+      "text": "So just coming back a little bit to the other line of question and again, sorry apologies if I'm getting a bit too detailed.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1936.33,
+      "end_time": 1942.89
+    },
+    {
+      "text": "Just I want to get a feel for the, you know, the operation and manufacturing side.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1942.89,
+      "end_time": 1947.19
+    },
+    {
+      "text": "We talked about costing and estimating, so I mean this sounds a bit left field, but in terms of like materials, work in progress and finished goods, what do they normally run out in total?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1947.19,
+      "end_time": 1956.83
+    },
+    {
+      "text": "That level of inventory.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1956.99,
+      "end_time": 1958.43
+    },
+    {
+      "text": "So inventory, yeah, interesting thing.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1959.07,
+      "end_time": 1962.23
+    },
+    {
+      "text": "And that's another good question, Martin, around stock levels because obviously where we used to be before we started, excuse my language, shitload of stock stored because we had the.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1962.23,
+      "end_time": 1973.43
+    },
+    {
+      "text": "The place to store it, but now we've condensed into a smaller and efficient unit.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1973.75,
+      "end_time": 1978.23
+    },
+    {
+      "text": "What we've got is the advantage we have is we, on average, our stock levels every month are about between 35 to 38, 000 pounds.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1978.47,
+      "end_time": 1987.75
+    },
+    {
+      "text": "Is that material?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1989.03,
+      "end_time": 1989.95
+    },
+    {
+      "text": "Is that all the material then or.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1989.95,
+      "end_time": 1991.47
+    },
+    {
+      "text": "Yeah, yeah, that substrate will print on 30 odd K. Yes, yeah, exactly, that's material.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1991.47,
+      "end_time": 1998.68
+    },
+    {
+      "text": "Inks, obviously we have to buy inks and keep stock of inks because if we don't want to run out and then our printer stops, so we've got to wait two days before we get anything coming through.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 1998.84,
+      "end_time": 2007.16
+    },
+    {
+      "text": "So we stop the inks, material, substrate, vinyl and stuff like that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2007.16,
+      "end_time": 2012.48
+    },
+    {
+      "text": "And if you add all that up, it averages the last three years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2012.48,
+      "end_time": 2015.28
+    },
+    {
+      "text": "And Bob's really, really good because at the end of the day, and Julian would probably agree, I don't want to tie too much money up in stock because it's money tied up in stock.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2015.28,
+      "end_time": 2023.05
+    },
+    {
+      "text": "So, you know, I'm just mindful of that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2023.92,
+      "end_time": 2025.48
+    },
+    {
+      "text": "So we've got that down to a reasonably good art.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2025.48,
+      "end_time": 2027.52
+    },
+    {
+      "text": "And also what helps us, Martin, is a lot of our key suppliers that we use and we have been using for a number of years, they will hold stock for us within their warehouses and we call off within 24 hours.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2028,
+      "end_time": 2040.88
+    },
+    {
+      "text": "So if a client, if you phoned up this afternoon and said, Look, I need 50 sheets of eight by fours or something on five mil Foamex.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2040.88,
+      "end_time": 2050.219
+    },
+    {
+      "text": "We'll phone up a supplier and say, look, we need this.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2050.219,
+      "end_time": 2052.979
+    },
+    {
+      "text": "They'll send it out tomorrow and, you know, today's what, Wednesday.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2053.059,
+      "end_time": 2056.419
+    },
+    {
+      "text": "You'll get it by Friday, job done.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2056.659,
+      "end_time": 2058.459
+    },
+    {
+      "text": "So it's good in that sense.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2058.459,
+      "end_time": 2059.859
+    },
+    {
+      "text": "That's not being held at your cost, that's being held at no cost.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2060.099,
+      "end_time": 2063.299
+    },
+    {
+      "text": "And you pay for it when you use it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2063.299,
+      "end_time": 2064.979
+    },
+    {
+      "text": "Absolutely, absolutely right.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2065.219,
+      "end_time": 2066.979
+    },
+    {
+      "text": "Very good.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2067.139,
+      "end_time": 2067.699
+    },
+    {
+      "text": "Yeah, but it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2068.179,
+      "end_time": 2069.739
+    },
+    {
+      "text": "But it's that relationship you strike up with the suppliers, because we've been with them a number of years and that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2069.739,
+      "end_time": 2075.04
+    },
+    {
+      "text": "And that's a key thing.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2075.04,
+      "end_time": 2076.04
+    },
+    {
+      "text": "And we've got.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2079.16,
+      "end_time": 2079.88
+    },
+    {
+      "text": "Sorry, Julian, we've got probably four or five key supplies that we use.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2079.88,
+      "end_time": 2083.4
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2087.56,
+      "end_time": 2088.12
+    },
+    {
+      "text": "And just.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2088.28,
+      "end_time": 2088.84
+    },
+    {
+      "text": "Just going back to Stockholm again in a minute.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2088.84,
+      "end_time": 2090.759
+    },
+    {
+      "text": "So someone shortly cloned their mind about 35 to 38k.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2090.759,
+      "end_time": 2094.52
+    },
+    {
+      "text": "Does that include work in progress or is that just pure.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2094.76,
+      "end_time": 2097.88
+    },
+    {
+      "text": "That's just pure material.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2098.04,
+      "end_time": 2099.48
+    },
+    {
+      "text": "Material.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2100.04,
+      "end_time": 2100.56
+    },
+    {
+      "text": "So any idea what your work in progress is at any point in time?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2100.56,
+      "end_time": 2103.48
+    },
+    {
+      "text": "And that's a difficult question because nine times out of 10, the work in progress will probably be a couple of days out for me.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2105.99,
+      "end_time": 2112.63
+    },
+    {
+      "text": "So cut off for us is obviously at the end of the month.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2112.63,
+      "end_time": 2114.99
+    },
+    {
+      "text": "So when I'm looking at the end of the month, we'll have jobs that we've got material in for.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2114.99,
+      "end_time": 2118.71
+    },
+    {
+      "text": "We've started production.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2118.95,
+      "end_time": 2120.19
+    },
+    {
+      "text": "We've started production, but two days later it's out the door.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2120.19,
+      "end_time": 2122.95
+    },
+    {
+      "text": "So that work in progress, that window is very, very, very small.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2123.27,
+      "end_time": 2128.55
+    },
+    {
+      "text": "It might be a day turnaround time.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2128.79,
+      "end_time": 2131.11
+    },
+    {
+      "text": "Then use it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2131.11,
+      "end_time": 2131.83
+    },
+    {
+      "text": "Yeah, well, exactly.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2133.45,
+      "end_time": 2134.57
+    },
+    {
+      "text": "Depending on the project and depending on what's needed, obviously we like as much lead time as possible and that's what we try and build in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2134.57,
+      "end_time": 2142.53
+    },
+    {
+      "text": "But a lot of our clients, you know, we try and help them out as best we can.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2142.53,
+      "end_time": 2146.09
+    },
+    {
+      "text": "So it depends on the project in terms of where we're at.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2146.33,
+      "end_time": 2149.53
+    },
+    {
+      "text": "But yeah, I mean, lead times and work in progress is kept to a minimum.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2149.53,
+      "end_time": 2153.29
+    },
+    {
+      "text": "I think the key thing for me is the cost side.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2153.77,
+      "end_time": 2156.81
+    },
+    {
+      "text": "So, you know, clients might bill us for something.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2156.81,
+      "end_time": 2158.65
+    },
+    {
+      "text": "We haven't invoiced it until the following month, in the first week of the following month.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2159.68,
+      "end_time": 2162.8
+    },
+    {
+      "text": "So I'll move that cost into.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2162.8,
+      "end_time": 2164.08
+    },
+    {
+      "text": "Into that month so it matches up.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2164.4,
+      "end_time": 2166.24
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2166.8,
+      "end_time": 2167.68
+    },
+    {
+      "text": "And just on the.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2167.76,
+      "end_time": 2168.72
+    },
+    {
+      "text": "Just on the sales side, I know I'm dotting around a bit here, but yeah, sure.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2168.8,
+      "end_time": 2172.48
+    },
+    {
+      "text": "On the sales side, generally, what are the terms that you offer your clients?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2173.04,
+      "end_time": 2177.76
+    },
+    {
+      "text": "So it's month end, 30 days, month end.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2178.48,
+      "end_time": 2180.88
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2181.36,
+      "end_time": 2181.8
+    },
+    {
+      "text": "And do you collect all that yourself?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2181.8,
+      "end_time": 2183.6
+    },
+    {
+      "text": "Do you use any.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2183.6,
+      "end_time": 2184.36
+    },
+    {
+      "text": "Have you got any finance facility against you?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2184.36,
+      "end_time": 2186.64
+    },
+    {
+      "text": "That is at the moment nothing.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2187.13,
+      "end_time": 2189.13
+    },
+    {
+      "text": "All done in house.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2189.45,
+      "end_time": 2190.57
+    },
+    {
+      "text": "I've got some clients who've got extended terms, they've got 60 days, month end.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2190.65,
+      "end_time": 2195.57
+    },
+    {
+      "text": "Yeah, etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2195.57,
+      "end_time": 2197.01
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2197.01,
+      "end_time": 2197.37
+    },
+    {
+      "text": "But yeah, we're, we're, we're pretty good at policing that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2197.37,
+      "end_time": 2200.49
+    },
+    {
+      "text": "You get the odd ones that sort of, you know, we'll try and stretch it a bit.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2200.57,
+      "end_time": 2204.49
+    },
+    {
+      "text": "That's when I, that's when I'll get involved a little bit.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2204.73,
+      "end_time": 2207.21
+    },
+    {
+      "text": "But nine times out of 10 and that's very rare.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2207.21,
+      "end_time": 2209.85
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2209.85,
+      "end_time": 2210.25
+    },
+    {
+      "text": "And any, any history in the last like three or five years of any significant bad debts.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2210.25,
+      "end_time": 2214.41
+    },
+    {
+      "text": "We had a great record in terms of zero bad debts for, well, I'd say for probably about 15 years in the print business.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2215.98,
+      "end_time": 2223.82
+    },
+    {
+      "text": "And we had one client literally two years ago where we lost 72 grand.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2224.06,
+      "end_time": 2229.26
+    },
+    {
+      "text": "Oh yeah, they were literally.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2229.82,
+      "end_time": 2232.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2232.3,
+      "end_time": 2232.58
+    },
+    {
+      "text": "I don't want to talk about, I don't want to even mention their names because it, because I'd love, I'd love, I'd love to take a couple of baseball bats around to their warehouse to be honest.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2232.58,
+      "end_time": 2240.62
+    },
+    {
+      "text": "We, yeah, we know what you're talking about there, mate.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2241.91,
+      "end_time": 2244.11
+    },
+    {
+      "text": "Sir.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2244.11,
+      "end_time": 2244.47
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2244.71,
+      "end_time": 2245.19
+    },
+    {
+      "text": "And your normal, so your normal data book would be from what you just said there probably in the region of 200 to 250k.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2246.87,
+      "end_time": 2255.91
+    },
+    {
+      "text": "Yeah, yeah there are thereabouts.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2256.87,
+      "end_time": 2259.71
+    },
+    {
+      "text": "Yeah, yeah there are thereabouts.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2259.71,
+      "end_time": 2261.99
+    },
+    {
+      "text": "And also what, what, what sort of affects it in a positive way I suppose is it depends on the project.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2265.91,
+      "end_time": 2271.75
+    },
+    {
+      "text": "So we've got a client that we do a lot of schools for and what I mean by that when I say schools for, we do, we do a lot of the graphics that go down the corridors, etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2271.75,
+      "end_time": 2282.59
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2282.59,
+      "end_time": 2282.95
+    },
+    {
+      "text": "And that only happens when the kids are off and the schools are closed.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2283.19,
+      "end_time": 2287.03
+    },
+    {
+      "text": "So we get enough.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2287.35,
+      "end_time": 2288.23
+    },
+    {
+      "text": "Yes, we get uplifts in, in the summer holidays and then hopefully we've got Christmas coming up, etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2288.39,
+      "end_time": 2293.63
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2293.63,
+      "end_time": 2294.03
+    },
+    {
+      "text": "So we get uplift in that and then that's when it peaks and troughs on the debtors side of things.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2294.03,
+      "end_time": 2298.9
+    },
+    {
+      "text": "Thanks for that.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2300.74,
+      "end_time": 2301.42
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2301.42,
+      "end_time": 2301.74
+    },
+    {
+      "text": "Just coming back to operational.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2301.74,
+      "end_time": 2303.06
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2303.62,
+      "end_time": 2304.06
+    },
+    {
+      "text": "So have you got an MRP system then?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2304.06,
+      "end_time": 2305.86
+    },
+    {
+      "text": "I mean you've got five days worth of material there which it seems pretty, it seems quite efficient that you know, in terms of the material stock that you've got, that financial level, you got about five days worth of a turnover which is pretty cool.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2305.94,
+      "end_time": 2320.78
+    },
+    {
+      "text": "But how are you controlling it?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2320.78,
+      "end_time": 2322.3
+    },
+    {
+      "text": "Is there a system, an MRP system or an.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2322.3,
+      "end_time": 2325.01
+    },
+    {
+      "text": "Er, no, because we haven't got an mrpc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2325.01,
+      "end_time": 2328.21
+    },
+    {
+      "text": "I, I suppose the way we control it, Bob, I mean we've Got shelving where we stock material.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2328.69,
+      "end_time": 2333.33
+    },
+    {
+      "text": "So we know.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2333.57,
+      "end_time": 2334.21
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2334.21,
+      "end_time": 2334.97
+    },
+    {
+      "text": "And then we'll plan it so once we know that Matt or D.C. or somebody will come in and say, look, we've got this job coming in, it's on, you know, it's on Corex, but.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2334.97,
+      "end_time": 2346.61
+    },
+    {
+      "text": "And we need a.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2346.61,
+      "end_time": 2347.33
+    },
+    {
+      "text": "A pallet of Coryx.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2347.57,
+      "end_time": 2348.65
+    },
+    {
+      "text": "So we'll buy 50 sheets of corrects to.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2348.65,
+      "end_time": 2350.76
+    },
+    {
+      "text": "To do that job.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2350.76,
+      "end_time": 2351.64
+    },
+    {
+      "text": "So that side of it, whilst we don't have a.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2352.12,
+      "end_time": 2355.68
+    },
+    {
+      "text": "A structural system, it's managed well internally.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2355.68,
+      "end_time": 2360.44
+    },
+    {
+      "text": "That's the only thing I probably would say on that subject.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2360.52,
+      "end_time": 2363
+    },
+    {
+      "text": "Okay, so.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2363.64,
+      "end_time": 2364.72
+    },
+    {
+      "text": "And most of what you do is build to order, is it?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2364.72,
+      "end_time": 2367.6
+    },
+    {
+      "text": "I guess, yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2367.6,
+      "end_time": 2369.44
+    },
+    {
+      "text": "So once you've got the finished goods off the line, you're going to ship it out and install it?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2369.44,
+      "end_time": 2373.08
+    },
+    {
+      "text": "Yeah, yeah, that's it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2373.16,
+      "end_time": 2374.04
+    },
+    {
+      "text": "It's literally produce it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2374.04,
+      "end_time": 2375.68
+    },
+    {
+      "text": "We get the artwork, send it through the system, get it into pre production.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2375.68,
+      "end_time": 2379.84
+    },
+    {
+      "text": "They then put it out to the relevant machine.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2379.92,
+      "end_time": 2381.8
+    },
+    {
+      "text": "It needs to go on, they'll print it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2381.8,
+      "end_time": 2383.36
+    },
+    {
+      "text": "It goes to the finishing department.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2383.52,
+      "end_time": 2384.88
+    },
+    {
+      "text": "If it needs cutting, it will go on to the zooms.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2384.96,
+      "end_time": 2386.96
+    },
+    {
+      "text": "They'll cut it, give it to Lewis, who's in the packing department, pack it up and then we have collections every day that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2387.12,
+      "end_time": 2394.88
+    },
+    {
+      "text": "Then it's literally done.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2394.88,
+      "end_time": 2396.04
+    },
+    {
+      "text": "So you can have a job if you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2396.04,
+      "end_time": 2397.8
+    },
+    {
+      "text": "If I placed an order now and I say, look, can I get it back Friday afternoon?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2397.8,
+      "end_time": 2402.32
+    },
+    {
+      "text": "Yeah, hopefully.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2402.32,
+      "end_time": 2403.13
+    },
+    {
+      "text": "Depending on obviously our production schedule.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2403.13,
+      "end_time": 2404.89
+    },
+    {
+      "text": "If we're busy, we might have.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2404.89,
+      "end_time": 2406.01
+    },
+    {
+      "text": "Say it's Monday.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2406.01,
+      "end_time": 2406.61
+    },
+    {
+      "text": "But yeah, it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2407.49,
+      "end_time": 2408.45
+    },
+    {
+      "text": "Turnaround time is relatively quick with a lot of the stuff that we do here.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2408.53,
+      "end_time": 2412.05
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2412.85,
+      "end_time": 2413.25
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2413.33,
+      "end_time": 2413.97
+    },
+    {
+      "text": "I have got a few more questions, but we can bring those in when we get into, you know, the due diligence.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2415.17,
+      "end_time": 2420.69
+    },
+    {
+      "text": "I'm keen to just understand a little bit, for example, the asset list and the age of the machines, you know, is there any.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2420.69,
+      "end_time": 2427.41
+    },
+    {
+      "text": "Yeah, just to understand a lot of details about the machines, where they're up to on the finance or the leased and, you know, are there any that need replacing or other.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2429.82,
+      "end_time": 2436.7
+    },
+    {
+      "text": "Have you got maintenance contracts that are.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2436.7,
+      "end_time": 2438.62
+    },
+    {
+      "text": "Yeah, yeah, so.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2438.94,
+      "end_time": 2441.1
+    },
+    {
+      "text": "Yeah, yeah, absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2441.18,
+      "end_time": 2442.3
+    },
+    {
+      "text": "So we got.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2442.3,
+      "end_time": 2442.86
+    },
+    {
+      "text": "I mean, the four main machines we've got is the Inca.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2442.94,
+      "end_time": 2445.9
+    },
+    {
+      "text": "Excuse me, two main machines.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2448.46,
+      "end_time": 2451.78
+    },
+    {
+      "text": "One is the Inca Inca Spider and the other is the VTECH that we have.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2451.78,
+      "end_time": 2457.17
+    },
+    {
+      "text": "And we've got two Zund cutters, three out.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2457.17,
+      "end_time": 2463.17
+    },
+    {
+      "text": "Those four machines are paid off on our hours.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2463.17,
+      "end_time": 2465.81
+    },
+    {
+      "text": "We have one which we're paying off, which is the Inca.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2465.81,
+      "end_time": 2469.33
+    },
+    {
+      "text": "And as of September, there is 51 grand that is outstanding and that's on finance, so it costs us three grand.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2469.89,
+      "end_time": 2477.05
+    },
+    {
+      "text": "A month to get that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2477.05,
+      "end_time": 2478.97
+    },
+    {
+      "text": "So we're, we're at the, hopefully the, the home straight and getting that cleared off over the next 14, 15, 16 months.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2478.97,
+      "end_time": 2485.87
+    },
+    {
+      "text": "So that's good news.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2486.51,
+      "end_time": 2487.39
+    },
+    {
+      "text": "So, yeah, that's the only thing that is on finance.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2487.47,
+      "end_time": 2489.79
+    },
+    {
+      "text": "Everything else we've got in here and that plant list that we've got, those are the big ticket items.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2490.11,
+      "end_time": 2495.67
+    },
+    {
+      "text": "We've got company van, which is.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2495.67,
+      "end_time": 2497.31
+    },
+    {
+      "text": "Which I'm just about to.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2497.55,
+      "end_time": 2498.79
+    },
+    {
+      "text": "To partex and try and get hold of a new one because it's on its like it's done 100.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2498.79,
+      "end_time": 2502.35
+    },
+    {
+      "text": "I beg pardon, it's done 220, 000 miles.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2502.51,
+      "end_time": 2504.91
+    },
+    {
+      "text": "So I need to get rid of that and then look at something else.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2505.71,
+      "end_time": 2507.87
+    },
+    {
+      "text": "I'm looking at that at the moment, but that will be something in the first quarter.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2507.87,
+      "end_time": 2510.99
+    },
+    {
+      "text": "So what is your oldest.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2513.12,
+      "end_time": 2514.84
+    },
+    {
+      "text": "What.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2514.84,
+      "end_time": 2515.16
+    },
+    {
+      "text": "What's your oldest machine then of that collection?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2515.16,
+      "end_time": 2518.56
+    },
+    {
+      "text": "The Inca and the Voodock and the Zone.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2518.8,
+      "end_time": 2521.12
+    },
+    {
+      "text": "Yeah, let me see.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2521.44,
+      "end_time": 2522.36
+    },
+    {
+      "text": "Let me get my plant list up.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2522.36,
+      "end_time": 2523.72
+    },
+    {
+      "text": "So, okay, so there's some cutters we bought, would you believe, back in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2523.72,
+      "end_time": 2531.36
+    },
+    {
+      "text": "When the Olympics.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2532.16,
+      "end_time": 2533.4
+    },
+    {
+      "text": "We had the Olympics in London in 2012.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2533.4,
+      "end_time": 2535.68
+    },
+    {
+      "text": "But then we have maintenance contracts with them and then looked after.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2536.08,
+      "end_time": 2540.12
+    },
+    {
+      "text": "I mean, TLC is a big thing here.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2540.12,
+      "end_time": 2543.56
+    },
+    {
+      "text": "And Bob manages all the machines.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2543.56,
+      "end_time": 2545.6
+    },
+    {
+      "text": "We clean them, service them internally as best we can, from what we know.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2545.6,
+      "end_time": 2550.24
+    },
+    {
+      "text": "And we have maintenance contracts with a lot of the, the manufacturers on these machines.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2550.24,
+      "end_time": 2555.48
+    },
+    {
+      "text": "So the Zund cutter.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2556.2,
+      "end_time": 2557.64
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2557.96,
+      "end_time": 2558.44
+    },
+    {
+      "text": "One we bought.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2558.44,
+      "end_time": 2559.4
+    },
+    {
+      "text": "I'm just looking at my list.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2559.56,
+      "end_time": 2560.92
+    },
+    {
+      "text": "We bought one in 2012, the other one was bought in 2019.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2561.08,
+      "end_time": 2564.12
+    },
+    {
+      "text": "The Vue tech was bought in 2019 and we bought the Inca Spider in 2022.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2565.14,
+      "end_time": 2572.3
+    },
+    {
+      "text": "That's the one that's on finance.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2572.3,
+      "end_time": 2573.86
+    },
+    {
+      "text": "So the, so that's uncutter.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2574.82,
+      "end_time": 2576.54
+    },
+    {
+      "text": "One of those is the oldest.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2576.54,
+      "end_time": 2577.86
+    },
+    {
+      "text": "And is there, is that going to be run out of the support?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2577.86,
+      "end_time": 2582.02
+    },
+    {
+      "text": "I mean, is there a kind of support arrangement in terms of the OEM or, you know, in terms of the maintenance?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2582.26,
+      "end_time": 2587.86
+    },
+    {
+      "text": "Yeah, we, we do have support for some, some machinery.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2588.26,
+      "end_time": 2591.7
+    },
+    {
+      "text": "We do for both the zoom cutters.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2591.94,
+      "end_time": 2594.02
+    },
+    {
+      "text": "We, we pay the manufacturer on a year on a monthly basis, so we have that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2594.26,
+      "end_time": 2598.5
+    },
+    {
+      "text": "But we're fair wear and tear.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2598.5,
+      "end_time": 2600.7
+    },
+    {
+      "text": "You can't legislate.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2600.7,
+      "end_time": 2601.46
+    },
+    {
+      "text": "That's just normal.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2601.46,
+      "end_time": 2602.34
+    },
+    {
+      "text": "Anything major that goes wrong, we get them out on a call out and they'll come and fix it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2602.5,
+      "end_time": 2606.58
+    },
+    {
+      "text": "And then we, we get a discount on the parts as part of the maintenance agreement, like an SLA thing, and we get a discount on the parts and then they come and fix it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2606.58,
+      "end_time": 2615.78
+    },
+    {
+      "text": "So obviously for, for me and for downtime, within print is a definite no no.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2615.78,
+      "end_time": 2622
+    },
+    {
+      "text": "So we try and minimize that as best we can.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2622,
+      "end_time": 2624.24
+    },
+    {
+      "text": "And the best way to minimize that is through prevention.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2624.4,
+      "end_time": 2627.04
+    },
+    {
+      "text": "So we do a lot of, you know, servicing internally, maintenance internally and just making sure everything's working nice, clean everything else.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2627.28,
+      "end_time": 2635.72
+    },
+    {
+      "text": "I mean, Simon was around when he popped around it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2635.72,
+      "end_time": 2638.24
+    },
+    {
+      "text": "Bob runs it very clinically.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2638.24,
+      "end_time": 2639.8
+    },
+    {
+      "text": "Downstairs is the word I'd use.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2639.8,
+      "end_time": 2641.84
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2642.24,
+      "end_time": 2642.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2643.24,
+      "end_time": 2643.44
+    },
+    {
+      "text": "That's similar to what Simon said.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2643.44,
+      "end_time": 2645.44
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2645.44,
+      "end_time": 2645.68
+    },
+    {
+      "text": "On any of these older machines, are they coming anything like near to the end of their useful life?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2645.68,
+      "end_time": 2651.16
+    },
+    {
+      "text": "I should.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2651.32,
+      "end_time": 2652.04
+    },
+    {
+      "text": "We've been budgeting about, you know, in our, in our, in our figures that having to replace some of these older ones or have they got a few years left in them yet?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2652.04,
+      "end_time": 2660.36
+    },
+    {
+      "text": "Well, I, I think both the zoom cutters.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2660.84,
+      "end_time": 2663.24
+    },
+    {
+      "text": "And again, there's probably more of a conversation for Bob, who's a bit more of an expert, I'd say the Z cutters that are the two oldest at the minute, I think they're still going.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2663.24,
+      "end_time": 2671.08
+    },
+    {
+      "text": "I think they're workhorses.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2671.08,
+      "end_time": 2672.48
+    },
+    {
+      "text": "And the other thing is, you know, we've not run them ragged in terms of, you know, it's not like, you know, we're running 24 hour shifts, etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2673.28,
+      "end_time": 2681.52
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2681.52,
+      "end_time": 2681.8
+    },
+    {
+      "text": "The machines are turning over, turning over and high usage.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2681.8,
+      "end_time": 2685.36
+    },
+    {
+      "text": "So I think the longevity has also helped us to, to maintain those machines.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2685.6,
+      "end_time": 2691.44
+    },
+    {
+      "text": "So in terms of your question, I think, you know, the zoom cutters.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2691.68,
+      "end_time": 2695.36
+    },
+    {
+      "text": "Yeah, I mean, it's one of those things, you know, it might pop in a year's time, it might not.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2695.36,
+      "end_time": 2700.73
+    },
+    {
+      "text": "It will carry on.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2700.73,
+      "end_time": 2701.61
+    },
+    {
+      "text": "But both of those, I think as we, as we carry on and we maintain them, I think they've done us all right.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2701.61,
+      "end_time": 2707.53
+    },
+    {
+      "text": "I mean, we're what, 12 years.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2707.53,
+      "end_time": 2709.13
+    },
+    {
+      "text": "We've had that one, the first one for 12 years and it's still going.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2709.45,
+      "end_time": 2712.25
+    },
+    {
+      "text": "What is a new one?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2712.81,
+      "end_time": 2713.85
+    },
+    {
+      "text": "How much is the new one of those things?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2714.33,
+      "end_time": 2716.09
+    },
+    {
+      "text": "The new one of those things will, I'd say circle about a hundred thousand.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2717.37,
+      "end_time": 2720.17
+    },
+    {
+      "text": "If you might not get some, you might get some change out of 100,000, to be honest.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2720.25,
+      "end_time": 2724.33
+    },
+    {
+      "text": "So, yeah, I'm really keen to, you know, follow up and do what Simon's done and just get down to site and meet Bob.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2725.98,
+      "end_time": 2733.74
+    },
+    {
+      "text": "And obviously we need some money's up very sensitively and yeah, at this moment.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2733.74,
+      "end_time": 2739.42
+    },
+    {
+      "text": "Yeah, absolutely.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2739.42,
+      "end_time": 2740.62
+    },
+    {
+      "text": "Respect.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2740.62,
+      "end_time": 2740.94
+    },
+    {
+      "text": "We have done that.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2741.5,
+      "end_time": 2742.86
+    },
+    {
+      "text": "We have done that, Martin.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2743.5,
+      "end_time": 2744.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2745.34,
+      "end_time": 2745.86
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2745.86,
+      "end_time": 2746.58
+    },
+    {
+      "text": "Yeah, that's fine.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2746.58,
+      "end_time": 2747.62
+    },
+    {
+      "text": "That's fine, Martin.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2747.62,
+      "end_time": 2749.1
+    },
+    {
+      "text": "Bobby's Bob is aware of what's going on.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2749.1,
+      "end_time": 2751.42
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2751.42,
+      "end_time": 2751.9
+    },
+    {
+      "text": "Yeah, yeah, yeah, yeah.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2752.22,
+      "end_time": 2754.5
+    },
+    {
+      "text": "And this is just a really ballpark figure.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2754.5,
+      "end_time": 2757.02
+    },
+    {
+      "text": "What's The.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2757.02,
+      "end_time": 2757.66
+    },
+    {
+      "text": "What's the overall network value of your.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2758.62,
+      "end_time": 2760.9
+    },
+    {
+      "text": "Well, plant machinery?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2760.9,
+      "end_time": 2762.1
+    },
+    {
+      "text": "And is there anything else that's of any significant value amongst computer kit or whatever?",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2762.1,
+      "end_time": 2767.98
+    },
+    {
+      "text": "Yeah, so I've added all of that in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2768.38,
+      "end_time": 2770.62
+    },
+    {
+      "text": "I think last thing I looked at network value, I'd say circle about 200 and 210,000.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2770.62,
+      "end_time": 2776.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2777.83,
+      "end_time": 2778.23
+    },
+    {
+      "text": "So, Martin, Julian, have you got any other questions?",
+      "speaker_name": "Simon Morris",
+      "start_time": 2783.75,
+      "end_time": 2787.51
+    },
+    {
+      "text": "Just keen to see a little bit more documentation at some stage in terms of asset lists and stuff.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2788.71,
+      "end_time": 2793.23
+    },
+    {
+      "text": "But I think all those questions can be answered with that.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2793.23,
+      "end_time": 2796.31
+    },
+    {
+      "text": "Yeah, perfect.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2797.11,
+      "end_time": 2798.39
+    },
+    {
+      "text": "Travis, do you want to.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2799.43,
+      "end_time": 2800.87
+    },
+    {
+      "text": "You've been unbelievably kind and listened to.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2800.87,
+      "end_time": 2804.27
+    },
+    {
+      "text": "Do you want to ask us any questions at this stage?",
+      "speaker_name": "Simon Morris",
+      "start_time": 2805.07,
+      "end_time": 2808.59
+    },
+    {
+      "text": "No, actually, I'm just here more as an advisory role for Yusuf and Howard from this side of the pond on it.",
+      "speaker_name": "Travis Sales",
+      "start_time": 2809.31,
+      "end_time": 2815.63
+    },
+    {
+      "text": "But no, I think we're good here.",
+      "speaker_name": "Travis Sales",
+      "start_time": 2815.79,
+      "end_time": 2817.79
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2818.35,
+      "end_time": 2818.75
+    },
+    {
+      "text": "So if we could get these sort of slight tweaks, updates, see some figures Yousef, that we talked about, we will then go through this process again.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2819.55,
+      "end_time": 2833.16
+    },
+    {
+      "text": "So we'll confirm the EBITDA figure.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2833.24,
+      "end_time": 2837.4
+    },
+    {
+      "text": "We'll take those four years, come up with an average, basically apply the multiple.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2838.12,
+      "end_time": 2846.2
+    },
+    {
+      "text": "And I appreciate having had a conversation with Andy.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2846.68,
+      "end_time": 2850.52
+    },
+    {
+      "text": "There is a desire to have.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2850.6,
+      "end_time": 2852.44
+    },
+    {
+      "text": "Quote.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2854.29,
+      "end_time": 2854.49
+    },
+    {
+      "text": "Unquote, a lot of the money up front and to get out as fast as possible.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2854.49,
+      "end_time": 2860.13
+    },
+    {
+      "text": "We're definitely up for that conversation.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2861.57,
+      "end_time": 2863.81
+    },
+    {
+      "text": "We like the look of the business and we'll definitely work towards that.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2864.93,
+      "end_time": 2869.41
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2869.73,
+      "end_time": 2870.29
+    },
+    {
+      "text": "In fact, while we've been talking, Andy has already dropped me a note to go, I want to have a conversation at 11:30 tomorrow.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2870.37,
+      "end_time": 2877.09
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Simon Morris",
+      "start_time": 2877.25,
+      "end_time": 2877.65
+    },
+    {
+      "text": "That'S what I'm telling you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2879.81,
+      "end_time": 2880.99
+    },
+    {
+      "text": "Okay, good.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2882.02,
+      "end_time": 2882.74
+    },
+    {
+      "text": "All right, so in.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2882.82,
+      "end_time": 2883.98
+    },
+    {
+      "text": "In terms of what you guys need, do you want me.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2883.98,
+      "end_time": 2889.74
+    },
+    {
+      "text": "Do you want to draft up a little shopping list, additional shopping list, and.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2889.74,
+      "end_time": 2893.18
+    },
+    {
+      "text": "And give me some.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2893.18,
+      "end_time": 2894.1
+    },
+    {
+      "text": "The pointers that you want?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2894.18,
+      "end_time": 2895.38
+    },
+    {
+      "text": "I've made a list of some of the stuff.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2895.38,
+      "end_time": 2896.9
+    },
+    {
+      "text": "Pipeline, background, risk profile, characteristic characteristics.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2897.059,
+      "end_time": 2900.82
+    },
+    {
+      "text": "What else was there?",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2902.98,
+      "end_time": 2904.02
+    },
+    {
+      "text": "There was a couple other things, I think.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2904.1,
+      "end_time": 2905.46
+    },
+    {
+      "text": "Quarterly phasing of the.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2905.62,
+      "end_time": 2907.14
+    },
+    {
+      "text": "Oh, yeah, that was it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2907.54,
+      "end_time": 2908.3
+    },
+    {
+      "text": "Quarterly.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2908.3,
+      "end_time": 2908.78
+    },
+    {
+      "text": "I couldn't admit my own writing.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2908.78,
+      "end_time": 2910.06
+    },
+    {
+      "text": "Quarterly phasing.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2910.06,
+      "end_time": 2910.82
+    },
+    {
+      "text": "That was the one.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2910.82,
+      "end_time": 2911.46
+    },
+    {
+      "text": "We definitely want that.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2912,
+      "end_time": 2913.12
+    },
+    {
+      "text": "That detailed asset list and, you know, the values associated with it and the purchase dates and so on.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2913.12,
+      "end_time": 2919.64
+    },
+    {
+      "text": "Any maintenance contracts will be very useful.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2919.64,
+      "end_time": 2921.68
+    },
+    {
+      "text": "Customer, all contract, you know, supply contracts, lease, the lease agreement or, you know, the normal stuff.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2923.36,
+      "end_time": 2929.28
+    },
+    {
+      "text": "Any.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2929.6,
+      "end_time": 2929.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2929.96,
+      "end_time": 2930.28
+    },
+    {
+      "text": "Client side and supplier side, those contracts, you know, just.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2930.28,
+      "end_time": 2934.64
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2934.88,
+      "end_time": 2935.36
+    },
+    {
+      "text": "Bit more visibility on admin costs, particularly the.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2936,
+      "end_time": 2938.91
+    },
+    {
+      "text": "The.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2938.91,
+      "end_time": 2939.27
+    },
+    {
+      "text": "The larger items within it and the ones that we went through that would be increasing and so on.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2939.27,
+      "end_time": 2944.19
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2946.43,
+      "end_time": 2947.23
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2947.23,
+      "end_time": 2947.79
+    },
+    {
+      "text": "And, yeah, the ALI employee liability information as well.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2948.03,
+      "end_time": 2952.59
+    },
+    {
+      "text": "So basically, start date, age, salary.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2953.31,
+      "end_time": 2956.59
+    },
+    {
+      "text": "Yeah, just.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2956.83,
+      "end_time": 2958.59
+    },
+    {
+      "text": "I mean, yeah, we.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2958.83,
+      "end_time": 2960.15
+    },
+    {
+      "text": "We just to reiterate, by the way.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2960.15,
+      "end_time": 2962.27
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2962.67,
+      "end_time": 2963.03
+    },
+    {
+      "text": "We're.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2963.03,
+      "end_time": 2963.43
+    },
+    {
+      "text": "We really like the business how it is and any, you know, change of ownership, we want to.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2963.43,
+      "end_time": 2968.83
+    },
+    {
+      "text": "Really want that to be the only real change and all the other changes from there being positive in terms of growing the business and giving more interesting career options for the team and, you know, the sales guys and so on.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2968.83,
+      "end_time": 2982.71
+    },
+    {
+      "text": "That is absolutely our intention.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2982.71,
+      "end_time": 2984.03
+    },
+    {
+      "text": "It seems like you guys have done an excellent job, so we don't want to change it, really.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2984.03,
+      "end_time": 2989.99
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2989.99,
+      "end_time": 2990.27
+    },
+    {
+      "text": "Just build on it and so.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 2990.27,
+      "end_time": 2991.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2991.83,
+      "end_time": 2992.31
+    },
+    {
+      "text": "No, that sounds terrific, Martin.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2992.45,
+      "end_time": 2993.89
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2994.13,
+      "end_time": 2994.69
+    },
+    {
+      "text": "And I think when Simon left, and again, I would probably want me to say this, but I think we got a good feeling when Simon left and some of the conversations we had with Simon when he was here around how you see this business once you pick it up and add it with the synergies and the overlaps and everything else that you've got and the stuff that you are trying to do, I think it could fit in very well with you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 2995.33,
+      "end_time": 3021.17
+    },
+    {
+      "text": "You're like our big print format brother, if you like.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3022.03,
+      "end_time": 3025.39
+    },
+    {
+      "text": "So it could fit really well, your.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3025.55,
+      "end_time": 3027.79
+    },
+    {
+      "text": "Your large print format with our smaller print format.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3027.79,
+      "end_time": 3031.31
+    },
+    {
+      "text": "A lot of synergies there.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3031.55,
+      "end_time": 3032.83
+    },
+    {
+      "text": "Yeah, absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3032.91,
+      "end_time": 3033.87
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3033.95,
+      "end_time": 3034.31
+    },
+    {
+      "text": "And that's that.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3034.31,
+      "end_time": 3034.99
+    },
+    {
+      "text": "That's what it's about.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3034.99,
+      "end_time": 3035.79
+    },
+    {
+      "text": "It's the synergies and how effective it can be within your organization.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3035.79,
+      "end_time": 3039.47
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3039.47,
+      "end_time": 3040.19
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3040.19,
+      "end_time": 3040.55
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3040.55,
+      "end_time": 3040.91
+    },
+    {
+      "text": "So, yeah, we're, we're, you know, very impressed with your.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3041.07,
+      "end_time": 3046.19
+    },
+    {
+      "text": "Your openness today.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3046.92,
+      "end_time": 3048.76
+    },
+    {
+      "text": "So thanks very much for being really open about the questions that we've asked.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3048.76,
+      "end_time": 3052.36
+    },
+    {
+      "text": "Really transparent in your answers.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3052.36,
+      "end_time": 3053.8
+    },
+    {
+      "text": "Ab.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3054.12,
+      "end_time": 3054.52
+    },
+    {
+      "text": "Pleasure.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3054.52,
+      "end_time": 3055.16
+    },
+    {
+      "text": "Simon has whacked lyrical about your amazing site down in Maidenhead, so maybe the next stage will be for Martin and me to come and come and have a look as well.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3055.4,
+      "end_time": 3064.8
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3064.8,
+      "end_time": 3065.32
+    },
+    {
+      "text": "I'll get the biscuits out.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3065.32,
+      "end_time": 3066.44
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3067.16,
+      "end_time": 3067.64
+    },
+    {
+      "text": "That's a sale there, Yousef.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3069,
+      "end_time": 3070.6
+    },
+    {
+      "text": "Yeah, yeah, just probably, hopefully this is a final one.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3070.76,
+      "end_time": 3074.63
+    },
+    {
+      "text": "And you, you know, you kindly did that analysis in terms of the customers and the stickiness, the longevity of those relationships.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3075.11,
+      "end_time": 3081.11
+    },
+    {
+      "text": "It'd be good to know who those customers are.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3081.51,
+      "end_time": 3084.31
+    },
+    {
+      "text": "And because it's also then useful to just understand the sectors.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3085.03,
+      "end_time": 3089.109
+    },
+    {
+      "text": "You mentioned schools.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3089.83,
+      "end_time": 3090.99
+    },
+    {
+      "text": "So, you know, we're looking at options around particular sectors, including schools at the minute.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3090.99,
+      "end_time": 3097.03
+    },
+    {
+      "text": "So that's why that is interesting in terms of those synergies as well, with what we've doing.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3097.03,
+      "end_time": 3101.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3102.4,
+      "end_time": 3102.92
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3102.92,
+      "end_time": 3103.6
+    },
+    {
+      "text": "Excellent.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3104.56,
+      "end_time": 3105.04
+    },
+    {
+      "text": "Thank.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3105.04,
+      "end_time": 3105.44
+    },
+    {
+      "text": "I know we've given you, like, a massive load of homework there, Yusuf, so that's Much appreciated.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3105.44,
+      "end_time": 3109.84
+    },
+    {
+      "text": "It's all right.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3110.08,
+      "end_time": 3110.76
+    },
+    {
+      "text": "No problem.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3110.76,
+      "end_time": 3111.2
+    },
+    {
+      "text": "I'm used to it.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3111.2,
+      "end_time": 3112
+    },
+    {
+      "text": "So maybe we're being the investigators as a result.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3113.52,
+      "end_time": 3115.92
+    },
+    {
+      "text": "Well, I was gonna.",
+      "speaker_name": "Simon Morris",
+      "start_time": 3116.72,
+      "end_time": 3117.76
+    },
+    {
+      "text": "I was gonna say Joseph.",
+      "speaker_name": "Simon Morris",
+      "start_time": 3117.76,
+      "end_time": 3119.12
+    },
+    {
+      "text": "I. I didn't get biscuits, did you?",
+      "speaker_name": "Simon Morris",
+      "start_time": 3119.12,
+      "end_time": 3121.68
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3122.4,
+      "end_time": 3122.8
+    },
+    {
+      "text": "Howard Slacking.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3123.44,
+      "end_time": 3124.6
+    },
+    {
+      "text": "Howard.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3124.6,
+      "end_time": 3125
+    },
+    {
+      "text": "Slacking.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3125,
+      "end_time": 3125.68
+    },
+    {
+      "text": "Had I organized the meeting, Simon, I would have definitely got some biscuits out for you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3127.38,
+      "end_time": 3131.62
+    },
+    {
+      "text": "Don't feel bad, Simon.",
+      "speaker_name": "Travis Sales",
+      "start_time": 3132.74,
+      "end_time": 3133.9
+    },
+    {
+      "text": "I bought the company and came over there.",
+      "speaker_name": "Travis Sales",
+      "start_time": 3133.9,
+      "end_time": 3135.3
+    },
+    {
+      "text": "They didn't give me any either.",
+      "speaker_name": "Travis Sales",
+      "start_time": 3135.3,
+      "end_time": 3136.58
+    },
+    {
+      "text": "I feel better now, Travis.",
+      "speaker_name": "Simon Morris",
+      "start_time": 3138.18,
+      "end_time": 3139.94
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3143.7,
+      "end_time": 3144.1
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3144.1,
+      "end_time": 3144.66
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Simon Morris",
+      "start_time": 3145.38,
+      "end_time": 3145.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3145.98,
+      "end_time": 3146.42
+    },
+    {
+      "text": "Excellent meeting, guys.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3146.42,
+      "end_time": 3147.54
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3147.54,
+      "end_time": 3148.26
+    },
+    {
+      "text": "Nice place.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3148.5,
+      "end_time": 3149.22
+    },
+    {
+      "text": "Is there anything else you want to ask?",
+      "speaker_name": "Simon Morris",
+      "start_time": 3149.62,
+      "end_time": 3151.38
+    },
+    {
+      "text": "Yes, if you okay.",
+      "speaker_name": "Simon Morris",
+      "start_time": 3151.38,
+      "end_time": 3152.9
+    },
+    {
+      "text": "No, I'm okay.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3153.28,
+      "end_time": 3154
+    },
+    {
+      "text": "I think we.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3154,
+      "end_time": 3154.4
+    },
+    {
+      "text": "We covered a lot when you were here, Simon, so I think it's just.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3154.4,
+      "end_time": 3157.68
+    },
+    {
+      "text": "Let me get this shopping list together over the.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3157.68,
+      "end_time": 3160.88
+    },
+    {
+      "text": "Over the coming days and then get that across to you asap.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3160.88,
+      "end_time": 3163.6
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Travis Sales",
+      "start_time": 3164.16,
+      "end_time": 3164.64
+    },
+    {
+      "text": "That's really kind.",
+      "speaker_name": "Simon Morris",
+      "start_time": 3164.64,
+      "end_time": 3165.44
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3165.92,
+      "end_time": 3166.48
+    },
+    {
+      "text": "Excellent.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3166.64,
+      "end_time": 3167.36
+    },
+    {
+      "text": "All right, great, guys.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3167.6,
+      "end_time": 3168.68
+    },
+    {
+      "text": "Again soon.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 3168.68,
+      "end_time": 3169.28
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3169.36,
+      "end_time": 3169.76
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3169.76,
+      "end_time": 3170.24
+    },
+    {
+      "text": "Have a good day.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3170.24,
+      "end_time": 3170.92
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3170.92,
+      "end_time": 3171.36
+    },
+    {
+      "text": "Have a great afternoon.",
+      "speaker_name": "Yousaf Ali",
+      "start_time": 3171.6,
+      "end_time": 3172.56
+    },
+    {
+      "text": "Cheer.",
+      "speaker_name": "Travis Sales",
+      "start_time": 3174.56,
+      "end_time": 3175.04
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "EBITDA",
+      "Print Industry",
+      "Sales Pipeline",
+      "Asset Management",
+      "Revenue Forecast",
+      "Cost Control"
+    ],
+    "action_items": "\n**Yousaf Ali**\nDraft and provide a detailed shopping list of required additional documentation including pipeline details, quarterly phasing, asset list with values and purchase dates, maintenance contracts, client and supplier agreements, admin costs breakdown, and ALI employee data (47:59)\nProvide quarterly revenue and cost phasing data for FY24, FY25, and FY26 including sales pipeline overlay to illustrate run rates and seasonality (15:36)\nSupply documentation on customers showing longevity, sector classification, and contractual status to aid synergy assessment (51:07)\nDeliver detailed asset list including machinery age, finance status, and maintenance contract info (48:32)\nProvide further admin cost detail including major contributors and growth drivers (49:06)\n\n**Martin Horsman**\nArrange site visit to the print facility alongside Simon Morris and relevant personnel for further due diligence (50:55)\n\n**Simon Morris**\nContinue engagement with ownership and prepare to revisit EBITDA evaluation once additional documentation and clarifications provided by Yousaf (46:30)\n\n**Travis Sales**\nProvide advisory support as needed from US side; no specific actions currently assigned (46:48)\n",
+    "outline": null,
+    "overview": "- **Revenue Growth:** Projected to rise from £2 million in FY25 to £2.4 million in FY26 with new sales hires.  \n- **EBITDA Target:** Set at £200,000 for FY26, reflecting recovery confidence from FY25 challenges.  \n- **Cost Fluctuations:** Seasonal dips from November to January affect income; overhead costs up 10% yearly due to rent and contributions.  \n- **Sales Pipeline:** 180 active projects focus on high-probability closings, ensuring minimum gross profit margins.  \n- **Operational Efficiency:** Inventory tightly controlled with just-in-time delivery; machinery mostly paid off, budget for future replacements.  \n- **Client Relationships:** Long-term clients contribute £250,000 to £275,000 annually, ensuring stability amidst niche market specialization.",
+    "short_summary": "The meeting addressed key financial projections, including a revenue growth forecast from £2 million in FY25 to £2.4 million in FY26, driven by sales team expansion and pipeline growth. Yousaf Ali highlighted the importance of a new sales hire in June, which complements existing sales personnel generating £600,000 each annually. The EBITDA target for FY26 is set at £200,000, reflecting a recovery from FY25 challenges. Seasonal fluctuations in revenue, particularly during November to January, and rising administrative costs due to rent and national insurance increases were discussed. The sales pipeline currently has 180 active projects, focusing on high-probability closings to ensure profitability. Operational efficiency is emphasized through tight inventory control and just-in-time delivery, while strong client relationships contribute to stable revenues in niche markets.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K7F3Q7T0SQPXKFPV5AWHWN4Q",
+  "audio_url": "https://cdn.fireflies.ai/01K7F3Q7T0SQPXKFPV5AWHWN4Q/audio.mp3?Expires=1773220842&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzdGM1E3VDBTUVBYS0ZQVjVBV0hXTjRRL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0Mn19fV19&Signature=vr205g1Ns1EepAMLcaad92ZI6fAq0-WKWmjO1q3FxweovGx1hqWeFfmlcU3r5IEzEQEPSU8rN2K7Zyeg9wqU4bdQ~m366GtzyWBlMX12fz9dn4xackIeUpdjoDpQyKmFJOCDthOlJIvHJlGIjfcmhGQDV7Az4X1pLcf71boWxcakASyttNm-ckPIJTlQaBNE2~OuPl99jISVFdUDQ2GSlGMFBjYYw-MoA0LvBSkoC1AAv~PU68VfbISamTpcIAlvopml81AXVCWa6EojhK-JgPV10WvFfXZjes5bEajo9ELAZF7X7DSprfmB06uoWnKaevh9264f6tx6GO8bZC94RA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K7F3Q7T0SQPXKFPV5AWHWN4Q/video.mp4?Expires=1773220842&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzdGM1E3VDBTUVBYS0ZQVjVBV0hXTjRRL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0Mn19fV19&Signature=nQ9CZZ9fSNAsB7KIkLKjK1WzrW-6G5-gBoroiXHY9-ih1cwtrXeOeydyIqMXyWajq1KWRnZEXpaZxGKpgJbUgenpZW~URzAfESZomUwmtRp-35oAk8NeigXDknbWr1TSVW9ceqMhPk~xuV2CpGkzQ~Sn~CVRMXLyu~kULRm3v~At18F4MzRviJbC-xwqzrcJc3v0wvwQNj4JTdaiLf0WWch6nqaYpoQbDnBk-g7Cod8oDt9DKj~Y9bEFaei-tcyDAtwpfsn6-GfNx0xCPwC~uHC~McsdGjHrGFkDH5LJl1NBvprRYeMdKndQuXRrI-R3nfm~nAbRJ~5S2r-6AXE8lA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

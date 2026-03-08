@@ -1,0 +1,1960 @@
+{
+  "id": "01KAH1RFSZ2XE95CPCGQ8KVYB7",
+  "title": "jamie Mills and Andy Day",
+  "date": 1764261000000,
+  "dateString": "2025-11-27T16:30:00.000Z",
+  "duration": 19.90999984741211,
+  "participants": [
+    "andrew.day@capitala.co,jamie@breathepay.co.uk,andy.day@capitala.co",
+    "jamie@breathepay.co.uk",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jamie@breathepay.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "I'm good.",
+      "speaker_name": "Andy Day",
+      "start_time": 0.32,
+      "end_time": 0.8
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Jamie",
+      "start_time": 2.08,
+      "end_time": 3.84
+    },
+    {
+      "text": "Yeah, good to meet and yeah, hopefully just a quick intro call just to.",
+      "speaker_name": "Jamie",
+      "start_time": 7.36,
+      "end_time": 13.84
+    },
+    {
+      "text": "To understand a bit more about what your.",
+      "speaker_name": "Jamie",
+      "start_time": 13.84,
+      "end_time": 17.04
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 17.36,
+      "end_time": 17.76
+    },
+    {
+      "text": "Your payment profile, how you're.",
+      "speaker_name": "Jamie",
+      "start_time": 17.76,
+      "end_time": 19.16
+    },
+    {
+      "text": "How you're doing at the moment.",
+      "speaker_name": "Jamie",
+      "start_time": 19.16,
+      "end_time": 20.16
+    },
+    {
+      "text": "See if we can help.",
+      "speaker_name": "Jamie",
+      "start_time": 20.16,
+      "end_time": 20.96
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jamie",
+      "start_time": 22.88,
+      "end_time": 23.28
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 23.52,
+      "end_time": 23.88
+    },
+    {
+      "text": "Is that okay with you?",
+      "speaker_name": "Jamie",
+      "start_time": 23.88,
+      "end_time": 25.28
+    },
+    {
+      "text": "Yeah, yeah, sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 25.85,
+      "end_time": 26.57
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 27.77,
+      "end_time": 28.13
+    },
+    {
+      "text": "I'm keen to find out more.",
+      "speaker_name": "Andy Day",
+      "start_time": 28.13,
+      "end_time": 29.41
+    },
+    {
+      "text": "More about Breathe and obviously how the stuff that you've got, the tech works, what it plugs into.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.41,
+      "end_time": 38.17
+    },
+    {
+      "text": "Because we're using stripe.",
+      "speaker_name": "Andy Day",
+      "start_time": 38.17,
+      "end_time": 39.93
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 40.89,
+      "end_time": 41.37
+    },
+    {
+      "text": "Car payments and invoice payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 41.69,
+      "end_time": 43.53
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 44.49,
+      "end_time": 45.05
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 45.29,
+      "end_time": 45.73
+    },
+    {
+      "text": "So I'd like to see what the alternative.",
+      "speaker_name": "Andy Day",
+      "start_time": 45.73,
+      "end_time": 47.13
+    },
+    {
+      "text": "No problem.",
+      "speaker_name": "Jamie",
+      "start_time": 48.33,
+      "end_time": 48.81
+    },
+    {
+      "text": "Do you mind if I ask a few questions to understand a bit more about how you do that and I can see whether what we, what we can provide is a fit.",
+      "speaker_name": "Jamie",
+      "start_time": 48.81,
+      "end_time": 54.88
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 57.6,
+      "end_time": 58.16
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Jamie",
+      "start_time": 58.16,
+      "end_time": 58.48
+    },
+    {
+      "text": "So how do you actually take the payments?",
+      "speaker_name": "Jamie",
+      "start_time": 58.48,
+      "end_time": 61.44
+    },
+    {
+      "text": "So is it.",
+      "speaker_name": "Jamie",
+      "start_time": 61.44,
+      "end_time": 62
+    },
+    {
+      "text": "Is it large?",
+      "speaker_name": "Jamie",
+      "start_time": 62,
+      "end_time": 62.52
+    },
+    {
+      "text": "So I'm assuming it's not done for your website.",
+      "speaker_name": "Jamie",
+      "start_time": 62.52,
+      "end_time": 64
+    },
+    {
+      "text": "It's all done through invoicing mainly.",
+      "speaker_name": "Jamie",
+      "start_time": 64,
+      "end_time": 66.32
+    },
+    {
+      "text": "So we have.",
+      "speaker_name": "Andy Day",
+      "start_time": 67.68,
+      "end_time": 68.4
+    },
+    {
+      "text": "Yeah, I mean, we do invoicing, but we also do take car payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 68.72,
+      "end_time": 72.16
+    },
+    {
+      "text": "It's not through like a payment gateway on our website or anything like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 72.16,
+      "end_time": 76.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 77.53,
+      "end_time": 77.89
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 77.89,
+      "end_time": 78.41
+    },
+    {
+      "text": "We are starting.",
+      "speaker_name": "Andy Day",
+      "start_time": 78.57,
+      "end_time": 79.45
+    },
+    {
+      "text": "There is a couple of things that we do that with, but they're relatively smaller payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 80.33,
+      "end_time": 84.65
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 85.61,
+      "end_time": 86.17
+    },
+    {
+      "text": "But yeah, I mean, mostly it's invoices and if not, we send payment links for different types of payments once we've done a sales call.",
+      "speaker_name": "Andy Day",
+      "start_time": 86.49,
+      "end_time": 93.29
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 94.65,
+      "end_time": 95.21
+    },
+    {
+      "text": "And what sort of do you wish?",
+      "speaker_name": "Jamie",
+      "start_time": 95.21,
+      "end_time": 96.65
+    },
+    {
+      "text": "Which accountancy software do you send it through the stripe system or do you send it through an accountancy software system?",
+      "speaker_name": "Jamie",
+      "start_time": 96.65,
+      "end_time": 100.57
+    },
+    {
+      "text": "So if we send an invoice, it goes through Xerox and.",
+      "speaker_name": "Andy Day",
+      "start_time": 101.53,
+      "end_time": 104.31
+    },
+    {
+      "text": "Yeah, I mean, we send the payment through using the stripe links as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 104.55,
+      "end_time": 108.23
+    },
+    {
+      "text": "Okay, fine.",
+      "speaker_name": "Jamie",
+      "start_time": 109.27,
+      "end_time": 110.07
+    },
+    {
+      "text": "So both.",
+      "speaker_name": "Jamie",
+      "start_time": 110.07,
+      "end_time": 110.55
+    },
+    {
+      "text": "So yeah, and you're fairly easy on which one you use it.",
+      "speaker_name": "Jamie",
+      "start_time": 110.55,
+      "end_time": 113.75
+    },
+    {
+      "text": "So because we've got a stripe solution and we.",
+      "speaker_name": "Jamie",
+      "start_time": 113.75,
+      "end_time": 115.87
+    },
+    {
+      "text": "Sorry, a Xero solution and then we've got a simple payment link solution where you can just add payment links to anything you want to.",
+      "speaker_name": "Jamie",
+      "start_time": 115.87,
+      "end_time": 122.23
+    },
+    {
+      "text": "So yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 123.27,
+      "end_time": 124.87
+    },
+    {
+      "text": "So if so we sometimes break payments down into smaller payments and then we send the.",
+      "speaker_name": "Andy Day",
+      "start_time": 126.63,
+      "end_time": 133.38
+    },
+    {
+      "text": "The stripe links for the payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 133.38,
+      "end_time": 135.5
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 135.98,
+      "end_time": 136.46
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Andy Day",
+      "start_time": 136.78,
+      "end_time": 137.34
+    },
+    {
+      "text": "Yeah, other people just prefer invoice.",
+      "speaker_name": "Andy Day",
+      "start_time": 137.98,
+      "end_time": 140.18
+    },
+    {
+      "text": "It depends.",
+      "speaker_name": "Andy Day",
+      "start_time": 140.18,
+      "end_time": 140.94
+    },
+    {
+      "text": "There's no really fixed route, but it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 141.26,
+      "end_time": 143.1
+    },
+    {
+      "text": "It's a bit random I would say, at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 143.26,
+      "end_time": 145.26
+    },
+    {
+      "text": "Historically, invoices, I mean, that would be the preference because we.",
+      "speaker_name": "Andy Day",
+      "start_time": 146.38,
+      "end_time": 150.78
+    },
+    {
+      "text": "It's all B2B really.",
+      "speaker_name": "Andy Day",
+      "start_time": 151.02,
+      "end_time": 152.58
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 152.58,
+      "end_time": 152.94
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 154.14,
+      "end_time": 154.58
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 154.58,
+      "end_time": 154.94
+    },
+    {
+      "text": "And that was gonna be my next question, actually.",
+      "speaker_name": "Jamie",
+      "start_time": 154.94,
+      "end_time": 156.42
+    },
+    {
+      "text": "So what was the car profile like?",
+      "speaker_name": "Jamie",
+      "start_time": 156.42,
+      "end_time": 158.02
+    },
+    {
+      "text": "Is it mainly consumer cards or business cards, do you think?",
+      "speaker_name": "Jamie",
+      "start_time": 158.02,
+      "end_time": 160.86
+    },
+    {
+      "text": "No, it's all business.",
+      "speaker_name": "Andy Day",
+      "start_time": 161.32,
+      "end_time": 162.04
+    },
+    {
+      "text": "It's all business.",
+      "speaker_name": "Andy Day",
+      "start_time": 162.28,
+      "end_time": 163.08
+    },
+    {
+      "text": "We do.",
+      "speaker_name": "Andy Day",
+      "start_time": 163.08,
+      "end_time": 163.6
+    },
+    {
+      "text": "It's all business cards.",
+      "speaker_name": "Jamie",
+      "start_time": 163.6,
+      "end_time": 164.76
+    },
+    {
+      "text": "There's a few things that we do with smaller payments, but it's all B2B stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 165,
+      "end_time": 169.56
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 170.92,
+      "end_time": 171.36
+    },
+    {
+      "text": "And it's all UK cards mainly.",
+      "speaker_name": "Jamie",
+      "start_time": 171.36,
+      "end_time": 173.24
+    },
+    {
+      "text": "Or do you do overseas?",
+      "speaker_name": "Jamie",
+      "start_time": 173.24,
+      "end_time": 174.52
+    },
+    {
+      "text": "No, it's probably.",
+      "speaker_name": "Andy Day",
+      "start_time": 174.92,
+      "end_time": 175.96
+    },
+    {
+      "text": "That's a good question actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 178.6,
+      "end_time": 179.8
+    },
+    {
+      "text": "I mean more of most of our business is from the us.",
+      "speaker_name": "Andy Day",
+      "start_time": 179.96,
+      "end_time": 182.52
+    },
+    {
+      "text": "We've been going for seven years, I think or five years and we've only just register for VT because the majority of our clients are US based.",
+      "speaker_name": "Andy Day",
+      "start_time": 182.84,
+      "end_time": 190.86
+    },
+    {
+      "text": "Okay, all right, fine.",
+      "speaker_name": "Jamie",
+      "start_time": 191.9,
+      "end_time": 193.14
+    },
+    {
+      "text": "So you accept, so you accept payments in dollars and you.",
+      "speaker_name": "Jamie",
+      "start_time": 193.14,
+      "end_time": 195.9
+    },
+    {
+      "text": "Then you settle into UK sterling, I'm assuming then?",
+      "speaker_name": "Jamie",
+      "start_time": 196.62,
+      "end_time": 199.1
+    },
+    {
+      "text": "Yes, yeah, we do.",
+      "speaker_name": "Andy Day",
+      "start_time": 201.02,
+      "end_time": 202.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 202.38,
+      "end_time": 202.86
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Jamie",
+      "start_time": 202.94,
+      "end_time": 203.3
+    },
+    {
+      "text": "Okay, fine.",
+      "speaker_name": "Jamie",
+      "start_time": 203.3,
+      "end_time": 203.9
+    },
+    {
+      "text": "Account as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 204.3,
+      "end_time": 204.98
+    },
+    {
+      "text": "And sometimes they transfer to our US Air Wallets account.",
+      "speaker_name": "Andy Day",
+      "start_time": 204.98,
+      "end_time": 208.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 209.42,
+      "end_time": 209.9
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 209.9,
+      "end_time": 210.46
+    },
+    {
+      "text": "The reason I ask is because the Major MasterCard put different levies on different card types and we're much more competitive with certain card types with versus Stripe than other card types.",
+      "speaker_name": "Jamie",
+      "start_time": 210.54,
+      "end_time": 221.46
+    },
+    {
+      "text": "So it helps me to understand whether we can actually save his money.",
+      "speaker_name": "Jamie",
+      "start_time": 221.46,
+      "end_time": 223.74
+    },
+    {
+      "text": "And I think that we can.",
+      "speaker_name": "Jamie",
+      "start_time": 223.74,
+      "end_time": 225.22
+    },
+    {
+      "text": "But the devil's in the detail because I think Stripe typically charge a fixed rate of.",
+      "speaker_name": "Jamie",
+      "start_time": 225.22,
+      "end_time": 229.86
+    },
+    {
+      "text": "I think it's about two and a half.",
+      "speaker_name": "Jamie",
+      "start_time": 229.86,
+      "end_time": 231.1
+    },
+    {
+      "text": "No, it's about two point something percent for US dollar cards.",
+      "speaker_name": "Jamie",
+      "start_time": 231.42,
+      "end_time": 236.62
+    },
+    {
+      "text": "But then they think they also charge another 2% for currency conversion as well.",
+      "speaker_name": "Jamie",
+      "start_time": 236.62,
+      "end_time": 240.7
+    },
+    {
+      "text": "So yeah, if we get to the next stage, it'd be good to maybe get some examples from your statement to show what value of items you've put through and what they've charged you and then we can tell you exactly what they're charging you because they don't usually give you a breakdown.",
+      "speaker_name": "Jamie",
+      "start_time": 241.18,
+      "end_time": 255.15
+    },
+    {
+      "text": "Most people give you a breakdown.",
+      "speaker_name": "Jamie",
+      "start_time": 255.15,
+      "end_time": 256.15
+    },
+    {
+      "text": "This is your rate, this is your how much you paid by stripe.",
+      "speaker_name": "Jamie",
+      "start_time": 256.15,
+      "end_time": 258.31
+    },
+    {
+      "text": "Just say this was how much you charged and this is how much we're charging you.",
+      "speaker_name": "Jamie",
+      "start_time": 258.31,
+      "end_time": 262.11
+    },
+    {
+      "text": "So you've actually got to reverse engineer it and work out.",
+      "speaker_name": "Jamie",
+      "start_time": 262.51,
+      "end_time": 265.23
+    },
+    {
+      "text": "So but we do that all the time, so we can help to do that.",
+      "speaker_name": "Jamie",
+      "start_time": 265.31,
+      "end_time": 268.83
+    },
+    {
+      "text": "So yeah, I mean ultimately we offer a very similar service to Stripe.",
+      "speaker_name": "Jamie",
+      "start_time": 269.87,
+      "end_time": 273.99
+    },
+    {
+      "text": "It's just we're a lot cheaper usually.",
+      "speaker_name": "Jamie",
+      "start_time": 273.99,
+      "end_time": 275.27
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jamie",
+      "start_time": 275.27,
+      "end_time": 275.5
+    },
+    {
+      "text": "So I mean Stripe, some people use Stripe for advanced features like their Stripe Connect features when they've got a really advanced sort of payout sort of solution and in which case we generally we can't compete with that sort of technology.",
+      "speaker_name": "Jamie",
+      "start_time": 275.65,
+      "end_time": 287.89
+    },
+    {
+      "text": "But when it's just a simple technology around creating payment links and taking payments for those things, it's pretty straightforward.",
+      "speaker_name": "Jamie",
+      "start_time": 287.89,
+      "end_time": 294.21
+    },
+    {
+      "text": "We've got, we provide our gateway usually for it.",
+      "speaker_name": "Jamie",
+      "start_time": 294.93,
+      "end_time": 299.77
+    },
+    {
+      "text": "If our gate, if it's a certain profile we might use a different gateway but most of the time we use our gateway and then we pick the right acquiring bank gives you the best deal on the rates.",
+      "speaker_name": "Jamie",
+      "start_time": 299.77,
+      "end_time": 309.76
+    },
+    {
+      "text": "So if it's predominantly US cards then we will choose one acquiring bank we know are quite cheap for US card rates.",
+      "speaker_name": "Jamie",
+      "start_time": 309.92,
+      "end_time": 317.12
+    },
+    {
+      "text": "If it's for mainly uk we choose a different bank and the banks we use, they just move the money around from A to B.",
+      "speaker_name": "Jamie",
+      "start_time": 317.12,
+      "end_time": 322.8
+    },
+    {
+      "text": "Ultimately we provide the service and the support that goes with it.",
+      "speaker_name": "Jamie",
+      "start_time": 322.8,
+      "end_time": 325.44
+    },
+    {
+      "text": "And unlike Stripe where we're a physical business.",
+      "speaker_name": "Jamie",
+      "start_time": 326.88,
+      "end_time": 329.44
+    },
+    {
+      "text": "So if you have a problem and you want to call us up, just phone us.",
+      "speaker_name": "Jamie",
+      "start_time": 329.52,
+      "end_time": 332.4
+    },
+    {
+      "text": "You don't need to email or put a ticket in, you just give us a call, we sort stuff out straight away and we're pretty hands on with that sort of stuff.",
+      "speaker_name": "Jamie",
+      "start_time": 333.34,
+      "end_time": 339.82
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 340.54,
+      "end_time": 340.94
+    },
+    {
+      "text": "And how long breathing going for about seven years.",
+      "speaker_name": "Jamie",
+      "start_time": 341.34,
+      "end_time": 346.7
+    },
+    {
+      "text": "So yeah, we're sort of growing steadily, not to the degree that Stripe are unfortunately, but you know, and we're obviously they're a massive billion dollar sort of multi billion sort of business.",
+      "speaker_name": "Jamie",
+      "start_time": 347.74,
+      "end_time": 360.46
+    },
+    {
+      "text": "We're a much smaller business.",
+      "speaker_name": "Jamie",
+      "start_time": 360.62,
+      "end_time": 361.82
+    },
+    {
+      "text": "But I guess the security you get is the fact that we use the bigger banks who are the ones that actually move your money around.",
+      "speaker_name": "Jamie",
+      "start_time": 362.71,
+      "end_time": 368.11
+    },
+    {
+      "text": "What we provide is the gateway services and the technology that provides the payment links and links into the banks.",
+      "speaker_name": "Jamie",
+      "start_time": 368.11,
+      "end_time": 375.99
+    },
+    {
+      "text": "So we never touch your money.",
+      "speaker_name": "Jamie",
+      "start_time": 376.07,
+      "end_time": 377.31
+    },
+    {
+      "text": "All we do is our gateway approves transactions, it goes through to the bank, the bank comes back to our gateway and says yes, that's approved or no it's not approved, it's declined because it's a stolen card, whatever, which I think is less likely in your instances.",
+      "speaker_name": "Jamie",
+      "start_time": 377.31,
+      "end_time": 389.83
+    },
+    {
+      "text": "And then it's approved and the bank takes the money from the cardholder and deposits it into your account.",
+      "speaker_name": "Jamie",
+      "start_time": 391.02,
+      "end_time": 396.38
+    },
+    {
+      "text": "So and we only use the top six banks in the world so you're pretty assured of security and sort of the fact that they're pretty stable.",
+      "speaker_name": "Jamie",
+      "start_time": 397.42,
+      "end_time": 406.06
+    },
+    {
+      "text": "Okay, so in terms of like the tech that you do have, do you have like a. I mean how does it work?",
+      "speaker_name": "Andy Day",
+      "start_time": 408.54,
+      "end_time": 415.06
+    },
+    {
+      "text": "So obviously with Stripes, just self service, you log in, you see the transactions, you can build the payment links.",
+      "speaker_name": "Andy Day",
+      "start_time": 415.06,
+      "end_time": 421.04
+    },
+    {
+      "text": "Yeah, it's the same thing.",
+      "speaker_name": "Jamie",
+      "start_time": 421.52,
+      "end_time": 422.8
+    },
+    {
+      "text": "So you've got access, will give you access and login credentials to a portal.",
+      "speaker_name": "Jamie",
+      "start_time": 422.88,
+      "end_time": 426.04
+    },
+    {
+      "text": "You go log into the portal, just put the amount in of what you want to, how much do you want to pay?",
+      "speaker_name": "Jamie",
+      "start_time": 426.04,
+      "end_time": 432
+    },
+    {
+      "text": "If you want to have the system send them out the, the link to them directly, you can put their email details in and that sort of stuff.",
+      "speaker_name": "Jamie",
+      "start_time": 432,
+      "end_time": 438.56
+    },
+    {
+      "text": "If you don't, you can just copy the link out the system and paste it into whatever you want to.",
+      "speaker_name": "Jamie",
+      "start_time": 438.56,
+      "end_time": 442.08
+    },
+    {
+      "text": "You can paste it into an email, you can paste it onto a PDF document, you can paste, paste it into wherever.",
+      "speaker_name": "Jamie",
+      "start_time": 442.08,
+      "end_time": 446.28
+    },
+    {
+      "text": "If you want to do it through the payment through the Xero functionality, we would set it up with link into Xero so that when you create the invoices in Xero you just choose pay add payment link and it.",
+      "speaker_name": "Jamie",
+      "start_time": 446.92,
+      "end_time": 460.2
+    },
+    {
+      "text": "And by default would have set it up so that it's pointed to our gateway instead of Stripe's gateway.",
+      "speaker_name": "Jamie",
+      "start_time": 460.44,
+      "end_time": 465.72
+    },
+    {
+      "text": "I think their in house gateway costs, I think they charge when you do it through Xero over 2% or so just for standard cards.",
+      "speaker_name": "Jamie",
+      "start_time": 465.8,
+      "end_time": 471.64
+    },
+    {
+      "text": "Whereas we're sort of half the price on standard cards.",
+      "speaker_name": "Jamie",
+      "start_time": 472.04,
+      "end_time": 474.28
+    },
+    {
+      "text": "For business cards it's slightly different for dollar cards.",
+      "speaker_name": "Jamie",
+      "start_time": 474.92,
+      "end_time": 477.48
+    },
+    {
+      "text": "I need to double check exactly what the zero rate is for that.",
+      "speaker_name": "Jamie",
+      "start_time": 477.72,
+      "end_time": 480.24
+    },
+    {
+      "text": "But it's quite high I think.",
+      "speaker_name": "Jamie",
+      "start_time": 480.24,
+      "end_time": 481.4
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 484.28,
+      "end_time": 485.16
+    },
+    {
+      "text": "Yeah, because we have, we have quite.",
+      "speaker_name": "Andy Day",
+      "start_time": 485.32,
+      "end_time": 486.92
+    },
+    {
+      "text": "Well, everything's relative, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 487.08,
+      "end_time": 489
+    },
+    {
+      "text": "But we have sort of payments of $10,000 quite often, sometimes $30,000 just on cards.",
+      "speaker_name": "Andy Day",
+      "start_time": 489,
+      "end_time": 496.68
+    },
+    {
+      "text": "So one of the big risks for us is refunds.",
+      "speaker_name": "Andy Day",
+      "start_time": 496.92,
+      "end_time": 499.88
+    },
+    {
+      "text": "So how do you guys handle all of that?",
+      "speaker_name": "Andy Day",
+      "start_time": 499.88,
+      "end_time": 502.76
+    },
+    {
+      "text": "So refunds you can again initiate through the system.",
+      "speaker_name": "Jamie",
+      "start_time": 504.44,
+      "end_time": 507.4
+    },
+    {
+      "text": "So in the same way you do with Stripe.",
+      "speaker_name": "Jamie",
+      "start_time": 507.56,
+      "end_time": 509.76
+    },
+    {
+      "text": "So if someone, if you want a part refund or fully refund something, you just go into the system, go into the transaction and click on refund.",
+      "speaker_name": "Jamie",
+      "start_time": 509.76,
+      "end_time": 516.36
+    },
+    {
+      "text": "If it's the same day then you would, it becomes a cancellation because it's the, the gateway sends off and batches to the bank at midnight.",
+      "speaker_name": "Jamie",
+      "start_time": 516.68,
+      "end_time": 527.479
+    },
+    {
+      "text": "So if you do it on the same day before it's batched and it's just a cancellation of it.",
+      "speaker_name": "Jamie",
+      "start_time": 527.479,
+      "end_time": 530.919
+    },
+    {
+      "text": "If it's a, if it's done after midnight and it's into the next day, then it's a cancellation that goes through the acquiring bank and it takes three to five days to do the cancellation part and the money gets returned.",
+      "speaker_name": "Jamie",
+      "start_time": 530.999,
+      "end_time": 541.959
+    },
+    {
+      "text": "Everything else is pretty similar to Stripe.",
+      "speaker_name": "Jamie",
+      "start_time": 543.319,
+      "end_time": 545.119
+    },
+    {
+      "text": "And the only difference between stripe, I mean all stripe are doing Stripe are payment facilitator.",
+      "speaker_name": "Jamie",
+      "start_time": 545.119,
+      "end_time": 548.839
+    },
+    {
+      "text": "So they plug into an acquiring bank in the background and they just do the risk underwriting themselves so they don't move the money around themselves.",
+      "speaker_name": "Jamie",
+      "start_time": 549.239,
+      "end_time": 556.85
+    },
+    {
+      "text": "They use an acquiring bank as well, but it's all just hidden behind closed doors and smoke and mirrors.",
+      "speaker_name": "Jamie",
+      "start_time": 556.85,
+      "end_time": 562.09
+    },
+    {
+      "text": "So whereas we're, you know, we, we, we purposefully have a separate gateway to the acquiring bank so we can match up the right solution to each particular business.",
+      "speaker_name": "Jamie",
+      "start_time": 562.09,
+      "end_time": 572.81
+    },
+    {
+      "text": "Stripes everything in one essentially.",
+      "speaker_name": "Jamie",
+      "start_time": 573.53,
+      "end_time": 575.29
+    },
+    {
+      "text": "And how do you handle disputes?",
+      "speaker_name": "Andy Day",
+      "start_time": 576.17,
+      "end_time": 578.29
+    },
+    {
+      "text": "So if somebody tries to, you know, dispute a payment and Claim, Claim it back.",
+      "speaker_name": "Andy Day",
+      "start_time": 578.29,
+      "end_time": 585.05
+    },
+    {
+      "text": "Because we've had a few of these issues this year.",
+      "speaker_name": "Andy Day",
+      "start_time": 585.61,
+      "end_time": 589.53
+    },
+    {
+      "text": "We started a different type of client very briefly and they started, you know, just refunding stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 590.57,
+      "end_time": 598.89
+    },
+    {
+      "text": "Not refunding but like disputing payments to.",
+      "speaker_name": "Andy Day",
+      "start_time": 598.89,
+      "end_time": 602.17
+    },
+    {
+      "text": "So what.",
+      "speaker_name": "Andy Day",
+      "start_time": 602.25,
+      "end_time": 602.81
+    },
+    {
+      "text": "What we saw was like people paying with American Express or, or even just normal credit cards but for quite large amounts.",
+      "speaker_name": "Andy Day",
+      "start_time": 603.05,
+      "end_time": 609.37
+    },
+    {
+      "text": "And then we would start the work for them and by, you know, we'd be in month two.",
+      "speaker_name": "Andy Day",
+      "start_time": 610.05,
+      "end_time": 614.25
+    },
+    {
+      "text": "And because their expectations were, you know, that they wanted everything done in month one.",
+      "speaker_name": "Andy Day",
+      "start_time": 614.25,
+      "end_time": 619.49
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 620.21,
+      "end_time": 620.69
+    },
+    {
+      "text": "They would sometimes then initiate like a claim against the payment.",
+      "speaker_name": "Andy Day",
+      "start_time": 621.01,
+      "end_time": 625.73
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 626.37,
+      "end_time": 626.73
+    },
+    {
+      "text": "Which was frustrating.",
+      "speaker_name": "Andy Day",
+      "start_time": 626.73,
+      "end_time": 627.97
+    },
+    {
+      "text": "Particularly around July time we had, we had some big payments that were being disputed time.",
+      "speaker_name": "Andy Day",
+      "start_time": 628.05,
+      "end_time": 635.33
+    },
+    {
+      "text": "Yeah, yeah, they're a nightmare in every.",
+      "speaker_name": "Jamie",
+      "start_time": 636.29,
+      "end_time": 640.29
+    },
+    {
+      "text": "I mean you always get this sort of thing.",
+      "speaker_name": "Jamie",
+      "start_time": 640.29,
+      "end_time": 641.65
+    },
+    {
+      "text": "We're helping a customer to settle one of those disputes at the moment.",
+      "speaker_name": "Jamie",
+      "start_time": 641.65,
+      "end_time": 644.85
+    },
+    {
+      "text": "It's the same process though across everyone.",
+      "speaker_name": "Jamie",
+      "start_time": 644.85,
+      "end_time": 646.93
+    },
+    {
+      "text": "The cardholders bank initiates the dispute and basically runs the charge back.",
+      "speaker_name": "Jamie",
+      "start_time": 647.57,
+      "end_time": 651.49
+    },
+    {
+      "text": "They communicate to the acquiring bank.",
+      "speaker_name": "Jamie",
+      "start_time": 651.649,
+      "end_time": 653.41
+    },
+    {
+      "text": "The acquiring bank then communicates to you.",
+      "speaker_name": "Jamie",
+      "start_time": 653.57,
+      "end_time": 656.13
+    },
+    {
+      "text": "We get involved to hold your hand at that point to help you to fight that claim.",
+      "speaker_name": "Jamie",
+      "start_time": 656.69,
+      "end_time": 660.77
+    },
+    {
+      "text": "It's best to use payment links rather than virtual terminals because with virtual terminals where you take payments over the phone, that's classed as a non secure transaction.",
+      "speaker_name": "Jamie",
+      "start_time": 661.09,
+      "end_time": 671.95
+    },
+    {
+      "text": "Whereas where the payment link has gone through 3D secure and therefore it's classed as a secure transaction.",
+      "speaker_name": "Jamie",
+      "start_time": 672.27,
+      "end_time": 678.91
+    },
+    {
+      "text": "In most instances you will win the chargeback case if it's a secure transaction that's gone through 3D Secure.",
+      "speaker_name": "Jamie",
+      "start_time": 679.55,
+      "end_time": 685.55
+    },
+    {
+      "text": "But ultimately it's an arbitration process between the two banks.",
+      "speaker_name": "Jamie",
+      "start_time": 686.03,
+      "end_time": 689.63
+    },
+    {
+      "text": "You have 28 days to put forward your case of why you think it's an invalid chargeback and ultimately the banks will just talk and discuss between themselves and send the documentation to each other.",
+      "speaker_name": "Jamie",
+      "start_time": 690.65,
+      "end_time": 701.53
+    },
+    {
+      "text": "We help you to do that essentially and get involved where you need us.",
+      "speaker_name": "Jamie",
+      "start_time": 702.01,
+      "end_time": 705.37
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 706.17,
+      "end_time": 707.21
+    },
+    {
+      "text": "I think that's pretty much the same with Stripe, isn't it?",
+      "speaker_name": "Jamie",
+      "start_time": 707.69,
+      "end_time": 710.01
+    },
+    {
+      "text": "Well, with Stripe it was just kind of.",
+      "speaker_name": "Andy Day",
+      "start_time": 710.41,
+      "end_time": 712.09
+    },
+    {
+      "text": "It was a fairly painless automated system.",
+      "speaker_name": "Andy Day",
+      "start_time": 712.09,
+      "end_time": 715.85
+    },
+    {
+      "text": "It just walks you through submitting your own evidence.",
+      "speaker_name": "Andy Day",
+      "start_time": 715.85,
+      "end_time": 719.39
+    },
+    {
+      "text": "We, we lost one, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 720.99,
+      "end_time": 722.83
+    },
+    {
+      "text": "And one.",
+      "speaker_name": "Andy Day",
+      "start_time": 722.99,
+      "end_time": 723.63
+    },
+    {
+      "text": "About two.",
+      "speaker_name": "Andy Day",
+      "start_time": 723.79,
+      "end_time": 724.55
+    },
+    {
+      "text": "Two or three others.",
+      "speaker_name": "Andy Day",
+      "start_time": 724.55,
+      "end_time": 725.27
+    },
+    {
+      "text": "I can't remember when it was, but it was.",
+      "speaker_name": "Andy Day",
+      "start_time": 725.27,
+      "end_time": 726.91
+    },
+    {
+      "text": "I think the others were direct with my own bank, funnily enough.",
+      "speaker_name": "Andy Day",
+      "start_time": 728.83,
+      "end_time": 732.43
+    },
+    {
+      "text": "Yeah, there was a bit of a nightmare, the chargebacks.",
+      "speaker_name": "Jamie",
+      "start_time": 733.63,
+      "end_time": 737.07
+    },
+    {
+      "text": "I mean it comes down to.",
+      "speaker_name": "Jamie",
+      "start_time": 737.07,
+      "end_time": 738.83
+    },
+    {
+      "text": "Yeah, it comes down to the evidence that's provided on these things and the terms that are in the contract.",
+      "speaker_name": "Jamie",
+      "start_time": 738.83,
+      "end_time": 742.75
+    },
+    {
+      "text": "So as long as you've got a contract that's under schedule of work that accompanies those sorts of things, then it comes down to the strength of your legal documentation in these instances.",
+      "speaker_name": "Jamie",
+      "start_time": 742.91,
+      "end_time": 752.92
+    },
+    {
+      "text": "Because if you can provide something that says, actually the schedule of work says X, Y and Z, and what they're saying is against that schedule of work, and we're perfectly within our time frames for what we delivered, then you should be fine.",
+      "speaker_name": "Jamie",
+      "start_time": 753,
+      "end_time": 764.88
+    },
+    {
+      "text": "It's the same with any legal documentation.",
+      "speaker_name": "Jamie",
+      "start_time": 764.88,
+      "end_time": 766.8
+    },
+    {
+      "text": "I think with these processes.",
+      "speaker_name": "Jamie",
+      "start_time": 766.8,
+      "end_time": 768.04
+    },
+    {
+      "text": "That's all it is.",
+      "speaker_name": "Jamie",
+      "start_time": 768.04,
+      "end_time": 768.68
+    },
+    {
+      "text": "It's just a.",
+      "speaker_name": "Jamie",
+      "start_time": 768.68,
+      "end_time": 769.3
+    },
+    {
+      "text": "A legal process.",
+      "speaker_name": "Jamie",
+      "start_time": 769.61,
+      "end_time": 770.33
+    },
+    {
+      "text": "Yeah, well, our document was pretty good on the one that we lost, actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 771.29,
+      "end_time": 774.97
+    },
+    {
+      "text": "It was because we did.",
+      "speaker_name": "Andy Day",
+      "start_time": 774.97,
+      "end_time": 776.45
+    },
+    {
+      "text": "We took a $10,000 deposit, but that's what they.",
+      "speaker_name": "Andy Day",
+      "start_time": 776.45,
+      "end_time": 778.81
+    },
+    {
+      "text": "They claimed back on within a few days of paying it.",
+      "speaker_name": "Andy Day",
+      "start_time": 778.81,
+      "end_time": 782.25
+    },
+    {
+      "text": "But anyway.",
+      "speaker_name": "Andy Day",
+      "start_time": 784.41,
+      "end_time": 785.21
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 785.77,
+      "end_time": 786.49
+    },
+    {
+      "text": "So it's pretty much stripe, but just local.",
+      "speaker_name": "Andy Day",
+      "start_time": 786.49,
+      "end_time": 789.13
+    },
+    {
+      "text": "Yeah, yeah, it's.",
+      "speaker_name": "Jamie",
+      "start_time": 790.33,
+      "end_time": 791.45
+    },
+    {
+      "text": "I mean, the only difference is it's a separate acquiring bank and separate gateway rather than everything being managed sort of internally by one business.",
+      "speaker_name": "Jamie",
+      "start_time": 791.53,
+      "end_time": 798.89
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Jamie",
+      "start_time": 799.21,
+      "end_time": 799.57
+    },
+    {
+      "text": "And it's usually a lot other than that.",
+      "speaker_name": "Jamie",
+      "start_time": 799.57,
+      "end_time": 802.31
+    },
+    {
+      "text": "The tech's pretty similar for your sort of business.",
+      "speaker_name": "Jamie",
+      "start_time": 802.31,
+      "end_time": 805.31
+    },
+    {
+      "text": "You know, if you're talking about a sort of a website with a 20 million turnover that's got sort of like thousands and thousands of transactions coming through a day, it's a slightly different picture, but yours is fewer, bigger transactions.",
+      "speaker_name": "Jamie",
+      "start_time": 805.31,
+      "end_time": 815.63
+    },
+    {
+      "text": "What's the overall value you might use the facility for on an annual basis?",
+      "speaker_name": "Jamie",
+      "start_time": 816.27,
+      "end_time": 819.71
+    },
+    {
+      "text": "How much might you put through it?",
+      "speaker_name": "Jamie",
+      "start_time": 819.95,
+      "end_time": 821.39
+    },
+    {
+      "text": "I'd say probably about.",
+      "speaker_name": "Andy Day",
+      "start_time": 824.67,
+      "end_time": 826.19
+    },
+    {
+      "text": "I would guess we're probably doing about 4 or £500,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 827.16,
+      "end_time": 831.8
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 832.6,
+      "end_time": 833.04
+    },
+    {
+      "text": "And then in chunks of around 20 or 30,000 at a time.",
+      "speaker_name": "Jamie",
+      "start_time": 833.04,
+      "end_time": 835.8
+    },
+    {
+      "text": "Not always.",
+      "speaker_name": "Andy Day",
+      "start_time": 837.16,
+      "end_time": 837.68
+    },
+    {
+      "text": "I mean, it can be smaller payments, but the smallest usual payments are around five grand.",
+      "speaker_name": "Andy Day",
+      "start_time": 837.68,
+      "end_time": 844.2
+    },
+    {
+      "text": "And then it depends which payment plan we put the client on.",
+      "speaker_name": "Andy Day",
+      "start_time": 844.36,
+      "end_time": 848.44
+    },
+    {
+      "text": "But essentially they're all paying somewhere between 10 and $30,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 848.6,
+      "end_time": 852.92
+    },
+    {
+      "text": "So sometimes break down the big payments into smaller payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 852.92,
+      "end_time": 859.28
+    },
+    {
+      "text": "So they pay 10 as a deposit and then four payments of five or something like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 859.28,
+      "end_time": 862.92
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 862.92,
+      "end_time": 863.28
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 863.44,
+      "end_time": 864.12
+    },
+    {
+      "text": "And you can set up recurring.",
+      "speaker_name": "Jamie",
+      "start_time": 864.12,
+      "end_time": 865.36
+    },
+    {
+      "text": "You can set that up as a scheduled or recurring payment if you like.",
+      "speaker_name": "Jamie",
+      "start_time": 866,
+      "end_time": 868.88
+    },
+    {
+      "text": "So you can set it up that says, okay, fine, we were going to take 30,000, but we're going to take an initial 10,000, then we're going to take another chunk of 10,000 in two weeks, another 10 chunk of 10,000 in another two weeks, and then it automates it.",
+      "speaker_name": "Jamie",
+      "start_time": 868.88,
+      "end_time": 879.44
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jamie",
+      "start_time": 879.44,
+      "end_time": 879.7
+    },
+    {
+      "text": "So you don't have to go in and manually do any of that stuff.",
+      "speaker_name": "Jamie",
+      "start_time": 879.77,
+      "end_time": 881.77
+    },
+    {
+      "text": "No, that's good.",
+      "speaker_name": "Andy Day",
+      "start_time": 881.85,
+      "end_time": 882.65
+    },
+    {
+      "text": "I don't think actually stripe do do that schedule payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 884.57,
+      "end_time": 887.37
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Jamie",
+      "start_time": 888.17,
+      "end_time": 888.93
+    },
+    {
+      "text": "Yeah, no, it's a fairly straightforward.",
+      "speaker_name": "Jamie",
+      "start_time": 888.93,
+      "end_time": 890.69
+    },
+    {
+      "text": "You just.",
+      "speaker_name": "Jamie",
+      "start_time": 890.69,
+      "end_time": 891.01
+    },
+    {
+      "text": "You flag the initial transactions initial recurring in the gateway and then you can create subsequent, it gives you the permissions to create subsequent transactions after that which you can either schedule or take manually.",
+      "speaker_name": "Jamie",
+      "start_time": 891.01,
+      "end_time": 903.05
+    },
+    {
+      "text": "Yeah, that might be an improvement actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 903.93,
+      "end_time": 905.37
+    },
+    {
+      "text": "Yeah, with Stripe they do subscriptions, but the amounts are the same so you can't like, you can't break into different size payments, which is the tricky part.",
+      "speaker_name": "Andy Day",
+      "start_time": 905.37,
+      "end_time": 915
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 915.64,
+      "end_time": 916.56
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 916.56,
+      "end_time": 917.16
+    },
+    {
+      "text": "Yeah, well if, I mean it sounds like we can definitely help.",
+      "speaker_name": "Jamie",
+      "start_time": 917.64,
+      "end_time": 923.72
+    },
+    {
+      "text": "I just need to identify the cost savings based on your card profile which, are you able, do you have a stripe statement you could send us or something or a chunk of transactions that just shows the amount that you paid and watch, Stripe charged you and then we can look at a like, like comparison because it, I imagine they'll either, if they're US Cards, they'll either be US Credit cards, U S debit cards or U S business debit or U S business credit.",
+      "speaker_name": "Jamie",
+      "start_time": 923.88,
+      "end_time": 953.189
+    },
+    {
+      "text": "And all of them have different rates.",
+      "speaker_name": "Jamie",
+      "start_time": 953.189,
+      "end_time": 954.63
+    },
+    {
+      "text": "So if we can find out sort of a rough profile of what your, your card mix is made up of, then we can get an accurate quote that says, okay, fine, stripe is this, this.",
+      "speaker_name": "Jamie",
+      "start_time": 954.63,
+      "end_time": 965.59
+    },
+    {
+      "text": "And therefore we can, we can save you x amount of money.",
+      "speaker_name": "Jamie",
+      "start_time": 965.59,
+      "end_time": 969.07
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 970.11,
+      "end_time": 970.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 970.67,
+      "end_time": 971.23
+    },
+    {
+      "text": "So I mean, look, that's, that's kind of normal payments for us.",
+      "speaker_name": "Andy Day",
+      "start_time": 971.39,
+      "end_time": 974.35
+    },
+    {
+      "text": "I just did a quick calculation on one of these and it was, it was 3.3% or something that they took.",
+      "speaker_name": "Andy Day",
+      "start_time": 976.51,
+      "end_time": 982.83
+    },
+    {
+      "text": "So if you're saying that's half, half of that, then it sounds like you probably going to save us money.",
+      "speaker_name": "Andy Day",
+      "start_time": 982.91,
+      "end_time": 990.83
+    },
+    {
+      "text": "Even if it's a couple of hundred quid on each transaction, particularly the bigger ones.",
+      "speaker_name": "Andy Day",
+      "start_time": 991.15,
+      "end_time": 995.64
+    },
+    {
+      "text": "Yeah, and that, and a bit, the bit we, the bit of missing information is what is, what card Type is that?",
+      "speaker_name": "Jamie",
+      "start_time": 996.2,
+      "end_time": 1002.08
+    },
+    {
+      "text": "3.3.",
+      "speaker_name": "Jamie",
+      "start_time": 1002.08,
+      "end_time": 1002.88
+    },
+    {
+      "text": "So does it say, does it say what the card type is on that one?",
+      "speaker_name": "Jamie",
+      "start_time": 1002.88,
+      "end_time": 1007.08
+    },
+    {
+      "text": "Yeah, if you're able to send us a snippet of a few of them, we can, we can put them into a spreadsheet, work out what card type it is.",
+      "speaker_name": "Jamie",
+      "start_time": 1011.32,
+      "end_time": 1019.24
+    },
+    {
+      "text": "So whether it's a business credit, business debit, consumer credit, consumer debit, etc.",
+      "speaker_name": "Jamie",
+      "start_time": 1019.24,
+      "end_time": 1025.5
+    },
+    {
+      "text": "We can work there.",
+      "speaker_name": "Jamie",
+      "start_time": 1026.06,
+      "end_time": 1027.5
+    },
+    {
+      "text": "It's never consumer, it shouldn't be even.",
+      "speaker_name": "Andy Day",
+      "start_time": 1027.66,
+      "end_time": 1030.54
+    },
+    {
+      "text": "They're all business payments.",
+      "speaker_name": "Andy Day",
+      "start_time": 1032.46,
+      "end_time": 1033.74
+    },
+    {
+      "text": "Yeah, yeah, okay.",
+      "speaker_name": "Jamie",
+      "start_time": 1033.74,
+      "end_time": 1035.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 1035.58,
+      "end_time": 1035.82
+    },
+    {
+      "text": "I mean US Dollar business is the most expensive car type you can get, unfortunately for you.",
+      "speaker_name": "Jamie",
+      "start_time": 1035.82,
+      "end_time": 1041.58
+    },
+    {
+      "text": "But yeah, there's still cost savings in there, GBP ones, there's greater cost saving in those ones.",
+      "speaker_name": "Jamie",
+      "start_time": 1043.02,
+      "end_time": 1049.82
+    },
+    {
+      "text": "So yeah, it looks like, looks like most of those are US Dollars, isn't it?",
+      "speaker_name": "Jamie",
+      "start_time": 1052.18,
+      "end_time": 1055.94
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 1058.98,
+      "end_time": 1059.46
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1059.54,
+      "end_time": 1059.86
+    },
+    {
+      "text": "Okay, and what would that be with you?",
+      "speaker_name": "Andy Day",
+      "start_time": 1059.86,
+      "end_time": 1062.3
+    },
+    {
+      "text": "Because Obviously, that's the, the transactions that we're doing most is with the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1062.3,
+      "end_time": 1066.02
+    },
+    {
+      "text": "The U.S. yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1066.02,
+      "end_time": 1068.26
+    },
+    {
+      "text": "So I need to, I just need to do some work on which one.",
+      "speaker_name": "Jamie",
+      "start_time": 1068.5,
+      "end_time": 1072.98
+    },
+    {
+      "text": "Which bank is going to be the best one for that?",
+      "speaker_name": "Jamie",
+      "start_time": 1072.98,
+      "end_time": 1074.9
+    },
+    {
+      "text": "Because we've got three different banks we use with three different deals on it.",
+      "speaker_name": "Jamie",
+      "start_time": 1075.7,
+      "end_time": 1080.02
+    },
+    {
+      "text": "We've got a flat one of them, it would be around 2.7%.",
+      "speaker_name": "Jamie",
+      "start_time": 1080.85,
+      "end_time": 1086.69
+    },
+    {
+      "text": "But because I say on the business credit cards, the international business credit cards, because they're quite expensive, I think one of the other ones we can get down to a lower level, but I just need to check the interchange rates on, on those particular card types and then I can get back to you.",
+      "speaker_name": "Jamie",
+      "start_time": 1086.85,
+      "end_time": 1102.29
+    },
+    {
+      "text": "It's quite complex.",
+      "speaker_name": "Jamie",
+      "start_time": 1103.01,
+      "end_time": 1104.01
+    },
+    {
+      "text": "Each one has Visa MasterCard.",
+      "speaker_name": "Jamie",
+      "start_time": 1104.01,
+      "end_time": 1106.05
+    },
+    {
+      "text": "Just cut a long story short, Visa MasterCard charge different interchange fees on each one, which is the base rate that gets charged.",
+      "speaker_name": "Jamie",
+      "start_time": 1106.05,
+      "end_time": 1111.79
+    },
+    {
+      "text": "And we just need to work out what that is for the different car types and then I can get an answer back to you.",
+      "speaker_name": "Jamie",
+      "start_time": 1111.79,
+      "end_time": 1116.67
+    },
+    {
+      "text": "But yeah, it's.",
+      "speaker_name": "Jamie",
+      "start_time": 1117.15,
+      "end_time": 1118.07
+    },
+    {
+      "text": "I think if you're being charged 3.3 on one of them.",
+      "speaker_name": "Jamie",
+      "start_time": 1118.07,
+      "end_time": 1121.79
+    },
+    {
+      "text": "Is it.",
+      "speaker_name": "Jamie",
+      "start_time": 1121.79,
+      "end_time": 1122.23
+    },
+    {
+      "text": "Is that 3.3 on all of those or is that, that just one of the ones that you looked at?",
+      "speaker_name": "Jamie",
+      "start_time": 1122.23,
+      "end_time": 1125.59
+    },
+    {
+      "text": "I just did.",
+      "speaker_name": "Andy Day",
+      "start_time": 1125.59,
+      "end_time": 1126.23
+    },
+    {
+      "text": "I just did the fees on one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1126.23,
+      "end_time": 1127.63
+    },
+    {
+      "text": "I can do another one here, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1127.63,
+      "end_time": 1130.11
+    },
+    {
+      "text": "I think it will vary.",
+      "speaker_name": "Jamie",
+      "start_time": 1130.11,
+      "end_time": 1131.47
+    },
+    {
+      "text": "Yeah, well, that one's 3.3 as well, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1141.56,
+      "end_time": 1143.56
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Jamie",
+      "start_time": 1144.12,
+      "end_time": 1144.96
+    },
+    {
+      "text": "All right, let me try.",
+      "speaker_name": "Andy Day",
+      "start_time": 1144.96,
+      "end_time": 1147.88
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jamie",
+      "start_time": 1147.88,
+      "end_time": 1148.44
+    },
+    {
+      "text": "Oh, I've done the MX1.",
+      "speaker_name": "Andy Day",
+      "start_time": 1150.36,
+      "end_time": 1151.76
+    },
+    {
+      "text": "So the MX1 was 3.3 and the Visa was 3.32.",
+      "speaker_name": "Andy Day",
+      "start_time": 1151.76,
+      "end_time": 1155.96
+    },
+    {
+      "text": "But they're both US businesses paying.",
+      "speaker_name": "Andy Day",
+      "start_time": 1155.96,
+      "end_time": 1158.28
+    },
+    {
+      "text": "Yeah, okay, fine, fine.",
+      "speaker_name": "Jamie",
+      "start_time": 1159.08,
+      "end_time": 1161.03
+    },
+    {
+      "text": "No problem.",
+      "speaker_name": "Jamie",
+      "start_time": 1161.03,
+      "end_time": 1161.43
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jamie",
+      "start_time": 1161.43,
+      "end_time": 1161.79
+    },
+    {
+      "text": "Okay, well, let me, let me go away and check the instruments, if that's okay.",
+      "speaker_name": "Jamie",
+      "start_time": 1161.79,
+      "end_time": 1164.47
+    },
+    {
+      "text": "I can get back to you in the next.",
+      "speaker_name": "Jamie",
+      "start_time": 1164.47,
+      "end_time": 1165.99
+    },
+    {
+      "text": "What day are we on?",
+      "speaker_name": "Jamie",
+      "start_time": 1166.39,
+      "end_time": 1167.23
+    },
+    {
+      "text": "Thursday, hopefully tomorrow might be Monday, though, and I can just come back with a rough idea of which banks were best and therefore what savings we can make on a rough basis versus 3.3 and maybe go from there.",
+      "speaker_name": "Jamie",
+      "start_time": 1167.23,
+      "end_time": 1180.71
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1181.03,
+      "end_time": 1181.79
+    },
+    {
+      "text": "All right, Brilliant.",
+      "speaker_name": "Jamie",
+      "start_time": 1181.79,
+      "end_time": 1182.63
+    },
+    {
+      "text": "Fantastic.",
+      "speaker_name": "Jamie",
+      "start_time": 1183.19,
+      "end_time": 1183.91
+    },
+    {
+      "text": "All right, that's great.",
+      "speaker_name": "Jamie",
+      "start_time": 1183.91,
+      "end_time": 1184.95
+    },
+    {
+      "text": "Thanks, Andrew.",
+      "speaker_name": "Jamie",
+      "start_time": 1185.03,
+      "end_time": 1185.83
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1185.99,
+      "end_time": 1186.75
+    },
+    {
+      "text": "Cheers, you too.",
+      "speaker_name": "Jamie",
+      "start_time": 1186.75,
+      "end_time": 1187.83
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Jamie",
+      "start_time": 1187.91,
+      "end_time": 1188.23
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Jamie",
+      "start_time": 1188.23,
+      "end_time": 1188.55
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Payment processing",
+      "Stripe",
+      "B2B payments",
+      "card disputes",
+      "interchange fees",
+      "payment links"
+    ],
+    "action_items": "\n**Jamie Mills**\nAnalyze Stripe statements with detailed breakdown of card types and fees to quantify potential cost savings for Andy’s business profile (approx. £400-500k annual volume) (16:10)\nReview interchange rates and acquiring bank options for US business credit cards to identify optimal bank and fee structure (17:48)\nProvide Andy Day with a cost-saving proposal and comparison between Stripe fees and Breathe’s rates, including best acquiring bank recommendations by next week (19:40)\n\n**Andy Day**\nSend example Stripe transaction statements including payment amounts and fees charged to Jamie for analysis (15:57)\n",
+    "outline": null,
+    "overview": "- **Payment Processing Savings:** Potentially cut transaction fees from 3.3% to around 1.5% by switching from Stripe to Breathe's gateway.  \n- **Transaction Volume Impact:** High-value transactions between $10,000 to $30,000 could enhance margins on an annual volume of £400,000-£500,000.  \n- **Dispute Management:** Breathe's dispute process supports clients like Stripe, emphasizing 3D secure payment links to lower chargeback risks.  \n- **User-Friendly Payment Portal:** Breathe offers more flexible payment links, integrating with Xero while providing customizable payment schedules, unlike Stripe's rigid model.  \n- **Customer Support Advantage:** Breathe promises direct phone support for clients, contrasting with Stripe’s automated ticketing system to ensure quick resolutions.  \n- **Next Steps:** Fee analysis and comparison of Stripe's charges to finalize the proposal by Monday for potential integration.",
+    "short_summary": "The discussion centered on evaluating Breathe's current payment processing system, particularly the potential benefits of switching from Stripe to a more cost-effective payment gateway. Jamie highlighted that Stripe's transaction fees of approximately 3.3% could be reduced by about half with Breathe's gateway, which leverages multiple acquiring banks to optimize costs based on card type and region. Andy's payment profile, primarily involving B2B transactions in US dollars, was examined along with the associated risks of chargebacks on large payments. Jamie outlined Breathe's dispute management process and emphasized the advantages of their user-friendly payment portal and personalized customer support. The meeting concluded with a commitment to analyze Stripe's fee data to validate anticipated savings and support the proposal for integration with Breathe's services.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01KAH1RFSZ2XE95CPCGQ8KVYB7",
+  "audio_url": "https://cdn.fireflies.ai/01KAH1RFSZ2XE95CPCGQ8KVYB7/audio.mp3?Expires=1773220840&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0FIMVJGU1oyWEU5NUNQQ0dROEtWWUI3L2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0MH19fV19&Signature=NDPNFhB8Q2ORBu8YrMGQfVrT1ikKobMzuMgXAnfvzecIFcKRs0AKrQd7mJnTngPvYVlY5eLDVUCQ-Jz5-1676G0uaAFQWTQiv0d7BwnmZDeHYzy0Px7PWQYCxbdo-s-s2FO1MzRd8mX5lcFhrxdOtfKx4vkLo2TIllEhWBe1m9AUTJMCO0JfNU1LGeGfXX9mxgeqM3Hv5jAVZewEOOSGrRkqG44OVYUM3GC5Tz3pZudA6go7gqOyYpSHGoJNOffXfENzs1a9p7c2dezrE-n~ye2jWpwwn3B30JFPIhqMfR4~~YTR-if1oUBO5Y0cYUGaXKO5PQ-w-Ij~mIuljXjH9w__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01KAH1RFSZ2XE95CPCGQ8KVYB7/video.mp4?Expires=1773220840&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0FIMVJGU1oyWEU5NUNQQ0dROEtWWUI3L3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0MH19fV19&Signature=k62vripscyXGNxJJkEd1W0Kmd2kq6MMd-8OIA3m0CtatEXlfdMgMI7wZORs-pYvnWlJz-RSchCN93dPrazWY2NMhUGy2Y1dKQaxMRc-ghPFKv6TpT71USxoWARbLo-4vwCp8RP0yeW27Hkn6vI9x3O0tm6tj0eqgcn-Y3PuF8dSyfaEKD9pzMUGKZ1YxqWi-~mo0DgxQYZnGyJKalY3dcvCdE9gCAMan2faz-gJMiuXazawPMqUBjJiwyhFaRZjgX14tU84MLalrNWZLYSTLDQoyP7pNjUGQ8hD13tKJuXbZaVR-InZ1B6aFXMPYByEgZikAJ2Nea-GsheoPC~UGbw__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

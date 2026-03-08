@@ -1,0 +1,1660 @@
+{
+  "id": "01K974YAH953H08B2KRD0H6CNQ",
+  "title": "Dan Marr and Ahmed Zia",
+  "date": 1762444800000,
+  "dateString": "2025-11-06T16:00:00.000Z",
+  "duration": 18.43000030517578,
+  "participants": [
+    "dan@callcenterguys.com,ahmed.zia@capitala.co,andrew.day@capitala.co",
+    "dan@callcenterguys.com",
+    "andrew.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "dan@callcenterguys.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Who is it that's joining you, Dan?",
+      "speaker_name": "Andrew Day",
+      "start_time": 11.68,
+      "end_time": 13.12
+    },
+    {
+      "text": "Is it somebody on your team?",
+      "speaker_name": "Andrew Day",
+      "start_time": 13.12,
+      "end_time": 14.24
+    },
+    {
+      "text": "Imran.",
+      "speaker_name": "Dan Marr",
+      "start_time": 16.4,
+      "end_time": 17.12
+    },
+    {
+      "text": "It seems to me like he's not on the invite.",
+      "speaker_name": "Dan Marr",
+      "start_time": 19.68,
+      "end_time": 21.68
+    },
+    {
+      "text": "No, it doesn't look like it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 22.72,
+      "end_time": 24
+    },
+    {
+      "text": "Yeah, I had, when I did it, I had selected other participants and I had selected him.",
+      "speaker_name": "Dan Marr",
+      "start_time": 24.56,
+      "end_time": 31.32
+    },
+    {
+      "text": "Ran.",
+      "speaker_name": "Dan Marr",
+      "start_time": 31.32,
+      "end_time": 31.64
+    },
+    {
+      "text": "Should it not have sent him an invite?",
+      "speaker_name": "Dan Marr",
+      "start_time": 31.64,
+      "end_time": 32.96
+    },
+    {
+      "text": "You would hope so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 34.48,
+      "end_time": 35.36
+    },
+    {
+      "text": "Yeah, but he.",
+      "speaker_name": "Andrew Day",
+      "start_time": 35.36,
+      "end_time": 36.24
+    },
+    {
+      "text": "One sec.",
+      "speaker_name": "Dan Marr",
+      "start_time": 37.28,
+      "end_time": 37.84
+    },
+    {
+      "text": "Okay, keep going.",
+      "speaker_name": "Andrew Day",
+      "start_time": 38.64,
+      "end_time": 39.68
+    },
+    {
+      "text": "It.",
+      "speaker_name": "Dan Marr",
+      "start_time": 51.69,
+      "end_time": 51.93
+    },
+    {
+      "text": "Yeah, no, it.",
+      "speaker_name": "Dan Marr",
+      "start_time": 87.7,
+      "end_time": 88.42
+    },
+    {
+      "text": "Yeah, the.",
+      "speaker_name": "Dan Marr",
+      "start_time": 89.14,
+      "end_time": 89.78
+    },
+    {
+      "text": "It's just some feedback.",
+      "speaker_name": "Dan Marr",
+      "start_time": 89.94,
+      "end_time": 90.98
+    },
+    {
+      "text": "The ad participants.",
+      "speaker_name": "Dan Marr",
+      "start_time": 90.98,
+      "end_time": 92.54
+    },
+    {
+      "text": "It did not add him in the, in the calendar.",
+      "speaker_name": "Dan Marr",
+      "start_time": 92.54,
+      "end_time": 95.7
+    },
+    {
+      "text": "That's okay.",
+      "speaker_name": "Dan Marr",
+      "start_time": 95.7,
+      "end_time": 96.22
+    },
+    {
+      "text": "He's joining now.",
+      "speaker_name": "Dan Marr",
+      "start_time": 96.22,
+      "end_time": 96.74
+    },
+    {
+      "text": "I just sent him a link.",
+      "speaker_name": "Dan Marr",
+      "start_time": 96.74,
+      "end_time": 97.62
+    },
+    {
+      "text": "Yeah, I've just let him in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 99.38,
+      "end_time": 100.98
+    },
+    {
+      "text": "Sorry about that, Dan.",
+      "speaker_name": "Andrew Day",
+      "start_time": 100.98,
+      "end_time": 101.94
+    },
+    {
+      "text": "It's all automated so I'll have to go back and have a look through.",
+      "speaker_name": "Andrew Day",
+      "start_time": 102.02,
+      "end_time": 105.62
+    },
+    {
+      "text": "Yeah, no problem.",
+      "speaker_name": "Dan Marr",
+      "start_time": 106.36,
+      "end_time": 107
+    },
+    {
+      "text": "But yeah, so when, when it says select other participants and it put in their email, I guess it didn't send it to Imran.",
+      "speaker_name": "Dan Marr",
+      "start_time": 107,
+      "end_time": 112.12
+    },
+    {
+      "text": "Whereabouts you guys based?",
+      "speaker_name": "Andrew Day",
+      "start_time": 116.6,
+      "end_time": 117.96
+    },
+    {
+      "text": "I'm in Toronto.",
+      "speaker_name": "Imran Butt",
+      "start_time": 119,
+      "end_time": 120.04
+    },
+    {
+      "text": "Dan's in New Brunswick in Fredericton, east coast of Canada.",
+      "speaker_name": "Imran Butt",
+      "start_time": 120.04,
+      "end_time": 125.4
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 130.36,
+      "end_time": 130.92
+    },
+    {
+      "text": "New Brunswick.",
+      "speaker_name": "Andrew Day",
+      "start_time": 131.97,
+      "end_time": 132.85
+    },
+    {
+      "text": "Not heard that one before.",
+      "speaker_name": "Andrew Day",
+      "start_time": 132.93,
+      "end_time": 134.01
+    },
+    {
+      "text": "I've heard the name but I'm not exactly sure where it is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 134.01,
+      "end_time": 136.61
+    },
+    {
+      "text": "Yeah, we're in the Maritime, so we're just on the east coast.",
+      "speaker_name": "Dan Marr",
+      "start_time": 137.09,
+      "end_time": 139.57
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Marr",
+      "start_time": 140.93,
+      "end_time": 141.29
+    },
+    {
+      "text": "So it's like three provinces that are kind of mushed into one.",
+      "speaker_name": "Dan Marr",
+      "start_time": 141.29,
+      "end_time": 143.89
+    },
+    {
+      "text": "Well, two provinces, but yeah.",
+      "speaker_name": "Dan Marr",
+      "start_time": 144.93,
+      "end_time": 146.77
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Imran Butt",
+      "start_time": 147.73,
+      "end_time": 148.17
+    },
+    {
+      "text": "How's the weather going for you guys in Canada?",
+      "speaker_name": "Andrew Day",
+      "start_time": 148.17,
+      "end_time": 150.21
+    },
+    {
+      "text": "I always feel like our weather is worse than Canada most times, but we're having mild weather at the moment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 150.29,
+      "end_time": 156.53
+    },
+    {
+      "text": "We're expecting snow this weekend in the Maritime.",
+      "speaker_name": "Dan Marr",
+      "start_time": 156.69,
+      "end_time": 159.17
+    },
+    {
+      "text": "No snow just yet.",
+      "speaker_name": "Imran Butt",
+      "start_time": 164.12,
+      "end_time": 165.24
+    },
+    {
+      "text": "No snow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 167,
+      "end_time": 167.84
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 167.84,
+      "end_time": 168.2
+    },
+    {
+      "text": "Good for you then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 168.6,
+      "end_time": 169.48
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Imran Butt",
+      "start_time": 169.64,
+      "end_time": 170.12
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Dan Marr",
+      "start_time": 170.12,
+      "end_time": 170.56
+    },
+    {
+      "text": "So well, thank you for your time guys and appreciate.",
+      "speaker_name": "Andrew Day",
+      "start_time": 170.56,
+      "end_time": 174.44
+    },
+    {
+      "text": "Yeah, I'll look into to the issues there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 174.92,
+      "end_time": 176.96
+    },
+    {
+      "text": "But I do appreciate, appreciate you being able to jump on the call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 176.96,
+      "end_time": 180.12
+    },
+    {
+      "text": "So the reason why I wanted to get this call in was really to sort of get to know you guys at the call center.",
+      "speaker_name": "Andrew Day",
+      "start_time": 180.28,
+      "end_time": 188.1
+    },
+    {
+      "text": "Call center guys is the full name I think, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 189.06,
+      "end_time": 191.38
+    },
+    {
+      "text": "And kind of really understand what you guys are doing at the moment in terms of acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 191.78,
+      "end_time": 199.86
+    },
+    {
+      "text": "So obviously we work on the buy and the sell side but with our sell side clients, if we don't know a buyer then we like to do sort of a quick call first to get to know you and what your, your current strategy is for acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 199.86,
+      "end_time": 215.19
+    },
+    {
+      "text": "And then obviously it's better for us seller, they come to the call informed and obviously, you know, they might have staff members that don't know the businesses for sale, etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 215.91,
+      "end_time": 224.55
+    },
+    {
+      "text": "So it's just kind of good to sort of, you know, understand both sides of what's going on as we go into setting up that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 225.03,
+      "end_time": 231.99
+    },
+    {
+      "text": "That first call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 232.07,
+      "end_time": 233.03
+    },
+    {
+      "text": "So obviously, I appreciate you guys possibly got some questions about the business as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 234.71,
+      "end_time": 239.35
+    },
+    {
+      "text": "So happy to do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 240.22,
+      "end_time": 241.02
+    },
+    {
+      "text": "Any answers I can get to you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 241.58,
+      "end_time": 243.1
+    },
+    {
+      "text": "But the best person for that is usually the owner of the business, which is the next call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 243.74,
+      "end_time": 250.5
+    },
+    {
+      "text": "But I'll answer what I can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 250.5,
+      "end_time": 251.66
+    },
+    {
+      "text": "But I'm hoping really to get to know you guys a little bit better and understand what it is that you're engaged in at the moment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 252.3,
+      "end_time": 259.74
+    },
+    {
+      "text": "Are you currently acquiring businesses as a strategy or we just put something in your inbox that's attracted your interest?",
+      "speaker_name": "Andrew Day",
+      "start_time": 259.9,
+      "end_time": 268.71
+    },
+    {
+      "text": "So, no, we are definitely.",
+      "speaker_name": "Imran Butt",
+      "start_time": 269.43,
+      "end_time": 272.23
+    },
+    {
+      "text": "It's a strategy for our growth plan.",
+      "speaker_name": "Imran Butt",
+      "start_time": 273.35,
+      "end_time": 276.23
+    },
+    {
+      "text": "Call Center Guys has gone through a bit of an evolution.",
+      "speaker_name": "Imran Butt",
+      "start_time": 278.31,
+      "end_time": 280.55
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Dan Marr",
+      "start_time": 280.55,
+      "end_time": 280.95
+    },
+    {
+      "text": "Call Center Guys, in its.",
+      "speaker_name": "Imran Butt",
+      "start_time": 282.79,
+      "end_time": 284.47
+    },
+    {
+      "text": "What's the right way to put this?",
+      "speaker_name": "Imran Butt",
+      "start_time": 284.95,
+      "end_time": 286.15
+    },
+    {
+      "text": "We went through a transaction about a month ago where we have sold our customers and so forth to another.",
+      "speaker_name": "Imran Butt",
+      "start_time": 286.15,
+      "end_time": 294.87
+    },
+    {
+      "text": "To an AI company in the customer experience space.",
+      "speaker_name": "Imran Butt",
+      "start_time": 295.27,
+      "end_time": 297.91
+    },
+    {
+      "text": "And so what we're looking to do now is independent of that, you know, and it's myself primarily, as the owner of the company, looking to get into businesses that have synergies but are not in direct conflict with our new owners.",
+      "speaker_name": "Imran Butt",
+      "start_time": 298.87,
+      "end_time": 316.31
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Imran Butt",
+      "start_time": 316.39,
+      "end_time": 316.79
+    },
+    {
+      "text": "Mm.",
+      "speaker_name": "Andrew Day",
+      "start_time": 317.44,
+      "end_time": 317.84
+    },
+    {
+      "text": "Or if they are in.",
+      "speaker_name": "Imran Butt",
+      "start_time": 319.76,
+      "end_time": 321.6
+    },
+    {
+      "text": "Within the wheelhouse of our larger strategy, which are contact centers, then we would look at it from a.",
+      "speaker_name": "Imran Butt",
+      "start_time": 321.84,
+      "end_time": 330.32
+    },
+    {
+      "text": "From the other lens, I guess you could say.",
+      "speaker_name": "Imran Butt",
+      "start_time": 330.8,
+      "end_time": 332.64
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Dan Marr",
+      "start_time": 332.64,
+      "end_time": 332.96
+    },
+    {
+      "text": "So in short, Call Center Guys has been, you know, essentially acquired by a company named Cynthia Cynthia AI and all of our customers, our team, our tech is all now with.",
+      "speaker_name": "Imran Butt",
+      "start_time": 333.52,
+      "end_time": 347.53
+    },
+    {
+      "text": "That is under them.",
+      "speaker_name": "Imran Butt",
+      "start_time": 347.53,
+      "end_time": 348.57
+    },
+    {
+      "text": "But the.",
+      "speaker_name": "Imran Butt",
+      "start_time": 349.69,
+      "end_time": 350.41
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Imran Butt",
+      "start_time": 350.41,
+      "end_time": 350.77
+    },
+    {
+      "text": "It wasn't an entity purchase.",
+      "speaker_name": "Imran Butt",
+      "start_time": 350.77,
+      "end_time": 352.29
+    },
+    {
+      "text": "So Call Center Guys, the organization still.",
+      "speaker_name": "Imran Butt",
+      "start_time": 352.29,
+      "end_time": 354.65
+    },
+    {
+      "text": "Still operates, in a sense, independently.",
+      "speaker_name": "Imran Butt",
+      "start_time": 354.97,
+      "end_time": 358.09
+    },
+    {
+      "text": "Independently in the sense that as long as we are not in conflict with our.",
+      "speaker_name": "Imran Butt",
+      "start_time": 359.13,
+      "end_time": 362.65
+    },
+    {
+      "text": "Where we all work now.",
+      "speaker_name": "Imran Butt",
+      "start_time": 364.49,
+      "end_time": 365.85
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Dan Marr",
+      "start_time": 365.85,
+      "end_time": 366.25
+    },
+    {
+      "text": "So are you guys still working in the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 367.53,
+      "end_time": 369.33
+    },
+    {
+      "text": "In the company with the assets that were acquired as well?",
+      "speaker_name": "Andrew Day",
+      "start_time": 369.33,
+      "end_time": 371.69
+    },
+    {
+      "text": "Yes, we all work for them.",
+      "speaker_name": "Imran Butt",
+      "start_time": 372.03,
+      "end_time": 373.15
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 373.31,
+      "end_time": 373.67
+    },
+    {
+      "text": "Okay, got you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 373.67,
+      "end_time": 374.59
+    },
+    {
+      "text": "So the assets were required.",
+      "speaker_name": "Andrew Day",
+      "start_time": 374.75,
+      "end_time": 376.03
+    },
+    {
+      "text": "Everything went over into the new company, but because it wasn't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 376.03,
+      "end_time": 379.39
+    },
+    {
+      "text": "Wasn't a share purchase, the cash flow into the Call Center Guys company.",
+      "speaker_name": "Andrew Day",
+      "start_time": 379.39,
+      "end_time": 385.03
+    },
+    {
+      "text": "And now you're able to operate independently as long as there's no conflict.",
+      "speaker_name": "Andrew Day",
+      "start_time": 385.03,
+      "end_time": 388.83
+    },
+    {
+      "text": "Correct.",
+      "speaker_name": "Imran Butt",
+      "start_time": 388.99,
+      "end_time": 389.55
+    },
+    {
+      "text": "And the idea is that again, so we're primarily in the BPO space, which is outsourced contact centers, and we're in heavy acquisition mode for those, again, under this.",
+      "speaker_name": "Imran Butt",
+      "start_time": 390.19,
+      "end_time": 404.56
+    },
+    {
+      "text": "Under the Cynthia label.",
+      "speaker_name": "Imran Butt",
+      "start_time": 404.56,
+      "end_time": 406.44
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Imran Butt",
+      "start_time": 407.32,
+      "end_time": 407.72
+    },
+    {
+      "text": "But under the Call Center Guy side, like.",
+      "speaker_name": "Imran Butt",
+      "start_time": 408.44,
+      "end_time": 410.32
+    },
+    {
+      "text": "Like we are, you know, if you had an.",
+      "speaker_name": "Imran Butt",
+      "start_time": 410.32,
+      "end_time": 412.32
+    },
+    {
+      "text": "If you had a contact center that was from, you know, prospectively for sale, we would look at IT under the Cynthia M. And a strategy we do.",
+      "speaker_name": "Imran Butt",
+      "start_time": 412.32,
+      "end_time": 420.92
+    },
+    {
+      "text": "We can talk about that later though.",
+      "speaker_name": "Andrew Day",
+      "start_time": 421,
+      "end_time": 422.6
+    },
+    {
+      "text": "Very good.",
+      "speaker_name": "Imran Butt",
+      "start_time": 423.26,
+      "end_time": 423.66
+    },
+    {
+      "text": "Only caveat is it has to be either a US based company or a Canadian based company or.",
+      "speaker_name": "Imran Butt",
+      "start_time": 424.54,
+      "end_time": 432.06
+    },
+    {
+      "text": "I mean usually these organizations will have multiple offices.",
+      "speaker_name": "Imran Butt",
+      "start_time": 432.62,
+      "end_time": 436.3
+    },
+    {
+      "text": "So even if it's.",
+      "speaker_name": "Imran Butt",
+      "start_time": 436.3,
+      "end_time": 437.26
+    },
+    {
+      "text": "If it's.",
+      "speaker_name": "Imran Butt",
+      "start_time": 437.34,
+      "end_time": 437.98
+    },
+    {
+      "text": "Depending on what type of entity it is.",
+      "speaker_name": "Imran Butt",
+      "start_time": 439.02,
+      "end_time": 440.86
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Imran Butt",
+      "start_time": 440.86,
+      "end_time": 441.18
+    },
+    {
+      "text": "UK might be in the wheelhouse, but I'd have to double check that it.",
+      "speaker_name": "Imran Butt",
+      "start_time": 441.42,
+      "end_time": 445.94
+    },
+    {
+      "text": "Is in the UK actually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 445.94,
+      "end_time": 447.02
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 447.1,
+      "end_time": 447.42
+    },
+    {
+      "text": "Yeah, you might have to check.",
+      "speaker_name": "Andrew Day",
+      "start_time": 447.42,
+      "end_time": 448.78
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Dan Marr",
+      "start_time": 449.28,
+      "end_time": 449.68
+    },
+    {
+      "text": "That'S definitely of interest.",
+      "speaker_name": "Imran Butt",
+      "start_time": 451.92,
+      "end_time": 452.92
+    },
+    {
+      "text": "So we can, we can talk more about that later.",
+      "speaker_name": "Imran Butt",
+      "start_time": 452.92,
+      "end_time": 454.68
+    },
+    {
+      "text": "But for now it's.",
+      "speaker_name": "Imran Butt",
+      "start_time": 454.68,
+      "end_time": 456.08
+    },
+    {
+      "text": "Yeah, like if there are.",
+      "speaker_name": "Imran Butt",
+      "start_time": 456.16,
+      "end_time": 457.28
+    },
+    {
+      "text": "The one that we.",
+      "speaker_name": "Imran Butt",
+      "start_time": 457.68,
+      "end_time": 458.48
+    },
+    {
+      "text": "The form we filled in, the NDA that we signed based.",
+      "speaker_name": "Imran Butt",
+      "start_time": 458.48,
+      "end_time": 460.92
+    },
+    {
+      "text": "I can't, I don't have the information in front of me.",
+      "speaker_name": "Imran Butt",
+      "start_time": 460.92,
+      "end_time": 462.76
+    },
+    {
+      "text": "But the numbers look pretty good, hence our interest.",
+      "speaker_name": "Imran Butt",
+      "start_time": 462.76,
+      "end_time": 466.88
+    },
+    {
+      "text": "Yeah, okay, brilliant.",
+      "speaker_name": "Andrew Day",
+      "start_time": 468,
+      "end_time": 469.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 469.16,
+      "end_time": 469.52
+    },
+    {
+      "text": "So basically this is a sort of paid search business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 469.52,
+      "end_time": 473.84
+    },
+    {
+      "text": "That.",
+      "speaker_name": "Dan Marr",
+      "start_time": 476.25,
+      "end_time": 476.41
+    },
+    {
+      "text": "That's the one that you signed for, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 476.41,
+      "end_time": 478.01
+    },
+    {
+      "text": "Query click.",
+      "speaker_name": "Andrew Day",
+      "start_time": 478.49,
+      "end_time": 479.45
+    },
+    {
+      "text": "Yeah, I believe so.",
+      "speaker_name": "Imran Butt",
+      "start_time": 480.25,
+      "end_time": 481.33
+    },
+    {
+      "text": "I just don't have it in front of me.",
+      "speaker_name": "Imran Butt",
+      "start_time": 481.33,
+      "end_time": 483.13
+    },
+    {
+      "text": "Dan, do you have.",
+      "speaker_name": "Imran Butt",
+      "start_time": 483.61,
+      "end_time": 484.41
+    },
+    {
+      "text": "I'm pulling it.",
+      "speaker_name": "Dan Marr",
+      "start_time": 486.65,
+      "end_time": 487.53
+    },
+    {
+      "text": "I just, I, I get emails from you all the time.",
+      "speaker_name": "Imran Butt",
+      "start_time": 490.49,
+      "end_time": 492.81
+    },
+    {
+      "text": "Right, Dan, like the.",
+      "speaker_name": "Imran Butt",
+      "start_time": 492.81,
+      "end_time": 494.41
+    },
+    {
+      "text": "Yeah, the general.",
+      "speaker_name": "Imran Butt",
+      "start_time": 494.41,
+      "end_time": 495.21
+    },
+    {
+      "text": "You get all of them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 496.49,
+      "end_time": 497.45
+    },
+    {
+      "text": "Do you get my rants as well?",
+      "speaker_name": "Andrew Day",
+      "start_time": 497.61,
+      "end_time": 499.05
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Imran Butt",
+      "start_time": 500.25,
+      "end_time": 500.49
+    },
+    {
+      "text": "I don't have the actual NDA, but it's SEO.",
+      "speaker_name": "Dan Marr",
+      "start_time": 504.57,
+      "end_time": 506.57
+    },
+    {
+      "text": "Let me share my screen because you, you can see it here.",
+      "speaker_name": "Andrew Day",
+      "start_time": 506.65,
+      "end_time": 509.13
+    },
+    {
+      "text": "I'll have to add you into the system.",
+      "speaker_name": "Andrew Day",
+      "start_time": 509.13,
+      "end_time": 510.65
+    },
+    {
+      "text": "So Ahmed normally does that but, but this is the, the financials that we've got on the, on the, on the Ahmed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 510.65,
+      "end_time": 521.13
+    },
+    {
+      "text": "Is that what you've seen, is it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 522.49,
+      "end_time": 525.05
+    },
+    {
+      "text": "Yeah, I think this is it.",
+      "speaker_name": "Imran Butt",
+      "start_time": 532.47,
+      "end_time": 533.75
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 535.35,
+      "end_time": 535.83
+    },
+    {
+      "text": "So it is a pretty robust business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 535.83,
+      "end_time": 539.75
+    },
+    {
+      "text": "However, the financials kind of give the story of a business that's in decline.",
+      "speaker_name": "Andrew Day",
+      "start_time": 540.95,
+      "end_time": 546.55
+    },
+    {
+      "text": "But what's kind of happened is that they have a separate tech business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 546.79,
+      "end_time": 551.03
+    },
+    {
+      "text": "Well, and they've moved some of the tech over, which is more about targeting and data, into a separate entity.",
+      "speaker_name": "Andrew Day",
+      "start_time": 551.94,
+      "end_time": 560.9
+    },
+    {
+      "text": "So the agency business is kind of run in parallel to a second business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 561.3,
+      "end_time": 567.3
+    },
+    {
+      "text": "But the founder is keen to stay in for as long as it takes really for a handover.",
+      "speaker_name": "Andrew Day",
+      "start_time": 567.379,
+      "end_time": 572.02
+    },
+    {
+      "text": "And the senior management team is still in place also.",
+      "speaker_name": "Andrew Day",
+      "start_time": 572.26,
+      "end_time": 576.66
+    },
+    {
+      "text": "So it is a great opportunity.",
+      "speaker_name": "Andrew Day",
+      "start_time": 576.82,
+      "end_time": 578.88
+    },
+    {
+      "text": "Based in Edinburgh actually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 578.88,
+      "end_time": 580.72
+    },
+    {
+      "text": "So they've got a senior layer there, SEO manager, performance manager and the paid lead as well that manages all of the day to day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 583.52,
+      "end_time": 595.12
+    },
+    {
+      "text": "And then Chris Libizic, who's the founder and CEO, he's probably involved on a daily basis, but not, not like a full time role really within the company.",
+      "speaker_name": "Andrew Day",
+      "start_time": 595.44,
+      "end_time": 610.28
+    },
+    {
+      "text": "Okay, and what is the actual like core business of the company.",
+      "speaker_name": "Imran Butt",
+      "start_time": 611.32,
+      "end_time": 614.76
+    },
+    {
+      "text": "So they do paid search.",
+      "speaker_name": "Andrew Day",
+      "start_time": 615.72,
+      "end_time": 617.88
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Imran Butt",
+      "start_time": 618.28,
+      "end_time": 618.8
+    },
+    {
+      "text": "That's the senior team.",
+      "speaker_name": "Andrew Day",
+      "start_time": 618.8,
+      "end_time": 619.72
+    },
+    {
+      "text": "So they're doing, you know, like SEO results.",
+      "speaker_name": "Andrew Day",
+      "start_time": 622.6,
+      "end_time": 627.32
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Imran Butt",
+      "start_time": 628.04,
+      "end_time": 628.44
+    },
+    {
+      "text": "So when, when people are searching Google or any other type of search engine, they get the paid results that appear at the top of the search listings.",
+      "speaker_name": "Andrew Day",
+      "start_time": 628.68,
+      "end_time": 638.16
+    },
+    {
+      "text": "Is that something that you guys are particularly interested in or is it more the opportunity around marketing agencies themselves?",
+      "speaker_name": "Andrew Day",
+      "start_time": 639.04,
+      "end_time": 646.48
+    },
+    {
+      "text": "So I would say a bit of both.",
+      "speaker_name": "Imran Butt",
+      "start_time": 649.44,
+      "end_time": 652.96
+    },
+    {
+      "text": "I personally am not keen on companies that do just what these guys do, like paid searches and organic searches, because I know it's a cyclical business.",
+      "speaker_name": "Imran Butt",
+      "start_time": 655.2,
+      "end_time": 665.66
+    },
+    {
+      "text": "Meaning.",
+      "speaker_name": "Dan Marr",
+      "start_time": 668.22,
+      "end_time": 668.7
+    },
+    {
+      "text": "That you may have the budget one day from your client, not the next.",
+      "speaker_name": "Imran Butt",
+      "start_time": 668.7,
+      "end_time": 673.1
+    },
+    {
+      "text": "And if things aren't going too well, usually those budgets begin to shrink.",
+      "speaker_name": "Imran Butt",
+      "start_time": 673.26,
+      "end_time": 678.86
+    },
+    {
+      "text": "Yeah, I'm not sure about cyclical, but certainly SEO was in decline, wasn't it, for a while.",
+      "speaker_name": "Andrew Day",
+      "start_time": 680.22,
+      "end_time": 687.06
+    },
+    {
+      "text": "And I think it's just come back to prominence because of AI.",
+      "speaker_name": "Andrew Day",
+      "start_time": 687.06,
+      "end_time": 690.81
+    },
+    {
+      "text": "And the AI results are actually being taken from SEO results as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 690.81,
+      "end_time": 696.61
+    },
+    {
+      "text": "So it's become more important again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 696.61,
+      "end_time": 700.89
+    },
+    {
+      "text": "So what is your core interest then Dan?",
+      "speaker_name": "Andrew Day",
+      "start_time": 702.73,
+      "end_time": 704.97
+    },
+    {
+      "text": "Is it just more across your experience around marketing itself?",
+      "speaker_name": "Andrew Day",
+      "start_time": 704.97,
+      "end_time": 710.01
+    },
+    {
+      "text": "Imran, one thing to note is that Google with, there's one piece missing here.",
+      "speaker_name": "Dan Marr",
+      "start_time": 710.81,
+      "end_time": 714.73
+    },
+    {
+      "text": "Google with the layer in of AI has actually changed their algorithms to update every two months.",
+      "speaker_name": "Dan Marr",
+      "start_time": 714.73,
+      "end_time": 719.61
+    },
+    {
+      "text": "Requires all companies to keep on top of their keyword searches and their SEO scores.",
+      "speaker_name": "Dan Marr",
+      "start_time": 720.57,
+      "end_time": 727.19
+    },
+    {
+      "text": "So that is, I am, I was in marketing for a long time.",
+      "speaker_name": "Dan Marr",
+      "start_time": 727.35,
+      "end_time": 730.71
+    },
+    {
+      "text": "All right, so that's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 732.63,
+      "end_time": 733.67
+    },
+    {
+      "text": "You've got a good understanding of how this works.",
+      "speaker_name": "Andrew Day",
+      "start_time": 733.91,
+      "end_time": 737.11
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Marr",
+      "start_time": 737.27,
+      "end_time": 737.63
+    },
+    {
+      "text": "So it may be almost a one trick company, but it's one that Google actively makes sure money is spent on.",
+      "speaker_name": "Dan Marr",
+      "start_time": 737.63,
+      "end_time": 745.19
+    },
+    {
+      "text": "Yeah, it's come back into prominence.",
+      "speaker_name": "Andrew Day",
+      "start_time": 747.04,
+      "end_time": 749.12
+    },
+    {
+      "text": "I think that's the story I've got as well is that AI is now is using Google rankings in particular to source responses when people ask for significant sort of explanations about stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 749.2,
+      "end_time": 765.48
+    },
+    {
+      "text": "They're still using SEO rankings as their source of information, which is great for us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 765.48,
+      "end_time": 772.64
+    },
+    {
+      "text": "Anytime they, they ask about M and A for marketing agencies in AI actually brings up our two websites quite a lot.",
+      "speaker_name": "Andrew Day",
+      "start_time": 772.64,
+      "end_time": 781.04
+    },
+    {
+      "text": "So it's good for us too.",
+      "speaker_name": "Andrew Day",
+      "start_time": 781.04,
+      "end_time": 782.48
+    },
+    {
+      "text": "Okay, so what is the strategy with your acquisitions then?",
+      "speaker_name": "Andrew Day",
+      "start_time": 784.08,
+      "end_time": 787.64
+    },
+    {
+      "text": "It sounds like it's still quite broad.",
+      "speaker_name": "Andrew Day",
+      "start_time": 787.64,
+      "end_time": 790.72
+    },
+    {
+      "text": "Are you doubling down onto marketing as a thesis or is it still around?",
+      "speaker_name": "Andrew Day",
+      "start_time": 791.04,
+      "end_time": 796.96
+    },
+    {
+      "text": "I guess define marketing.",
+      "speaker_name": "Imran Butt",
+      "start_time": 799.12,
+      "end_time": 800.48
+    },
+    {
+      "text": "You know, everybody has a different definition of it, so.",
+      "speaker_name": "Imran Butt",
+      "start_time": 800.97,
+      "end_time": 802.89
+    },
+    {
+      "text": "Well, you want me to define marketing?",
+      "speaker_name": "Andrew Day",
+      "start_time": 804.01,
+      "end_time": 805.69
+    },
+    {
+      "text": "Good question.",
+      "speaker_name": "Andrew Day",
+      "start_time": 807.05,
+      "end_time": 807.77
+    },
+    {
+      "text": "Yeah, I guess.",
+      "speaker_name": "Andrew Day",
+      "start_time": 809.69,
+      "end_time": 810.49
+    },
+    {
+      "text": "I mean it's very broad.",
+      "speaker_name": "Andrew Day",
+      "start_time": 810.49,
+      "end_time": 811.57
+    },
+    {
+      "text": "We obviously work right across marketing in all its shapes and forms including, you know, live communications, which is basically just immersive brand experiences.",
+      "speaker_name": "Andrew Day",
+      "start_time": 811.57,
+      "end_time": 820.57
+    },
+    {
+      "text": "So I Think the idea behind marketing is anything that results in a sale further down the line.",
+      "speaker_name": "Andrew Day",
+      "start_time": 820.65,
+      "end_time": 827.29
+    },
+    {
+      "text": "It's that initial top of the funnel.",
+      "speaker_name": "Andrew Day",
+      "start_time": 828.43,
+      "end_time": 830.23
+    },
+    {
+      "text": "Well, top to middle of the funnel before the sales people get involved.",
+      "speaker_name": "Andrew Day",
+      "start_time": 830.23,
+      "end_time": 834.99
+    },
+    {
+      "text": "I guess that ties nicely into your actual call centers when people are there to close the deals.",
+      "speaker_name": "Andrew Day",
+      "start_time": 837.15,
+      "end_time": 844.27
+    },
+    {
+      "text": "Yes, the answer yes to that.",
+      "speaker_name": "Imran Butt",
+      "start_time": 847.55,
+      "end_time": 848.99
+    },
+    {
+      "text": "And I think with Dan saying he seems to know more, you know, the SEO side of the business as well.",
+      "speaker_name": "Imran Butt",
+      "start_time": 848.99,
+      "end_time": 857.88
+    },
+    {
+      "text": "So, so, you know, I think from our, like, if you're asking me, like what are we looking for?",
+      "speaker_name": "Imran Butt",
+      "start_time": 857.88,
+      "end_time": 863
+    },
+    {
+      "text": "I think we're at this stage we're looking for a good business.",
+      "speaker_name": "Imran Butt",
+      "start_time": 863.08,
+      "end_time": 865.8
+    },
+    {
+      "text": "And then, you know, again, then really I can only tell by the numbers that I see and then going from there.",
+      "speaker_name": "Imran Butt",
+      "start_time": 868.12,
+      "end_time": 874.2
+    },
+    {
+      "text": "So yes, if it was something like this and then we down the road acquired a different company that can plug in, that plugs well into it from a marketing perspective and then sort of leads into our, our contact center platforms and so forth.",
+      "speaker_name": "Imran Butt",
+      "start_time": 876.6,
+      "end_time": 890.33
+    },
+    {
+      "text": "It kind of all starts like they're, they're separate but they're.",
+      "speaker_name": "Imran Butt",
+      "start_time": 891.37,
+      "end_time": 894.81
+    },
+    {
+      "text": "They're all synergetic.",
+      "speaker_name": "Imran Butt",
+      "start_time": 894.81,
+      "end_time": 895.93
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Imran Butt",
+      "start_time": 895.93,
+      "end_time": 896.25
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Imran Butt",
+      "start_time": 897.21,
+      "end_time": 897.69
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 898.81,
+      "end_time": 899.37
+    },
+    {
+      "text": "But so the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 899.69,
+      "end_time": 900.97
+    },
+    {
+      "text": "Obviously this one is in the UK and this is down to you guys, I guess, what you're looking for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 901.05,
+      "end_time": 906.77
+    },
+    {
+      "text": "And I think the UK is probably particularly in Scotland, cheaper place to hire people.",
+      "speaker_name": "Andrew Day",
+      "start_time": 906.77,
+      "end_time": 913.17
+    },
+    {
+      "text": "So it could be seen almost as offshoring to the UK over maybe North America.",
+      "speaker_name": "Andrew Day",
+      "start_time": 913.25,
+      "end_time": 919.25
+    },
+    {
+      "text": "But is your focus just uk?",
+      "speaker_name": "Andrew Day",
+      "start_time": 921.249,
+      "end_time": 924.69
+    },
+    {
+      "text": "I should imagine you're just looking for anything in the English language at the moment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 925.09,
+      "end_time": 928.85
+    },
+    {
+      "text": "Uk, us, Canada.",
+      "speaker_name": "Imran Butt",
+      "start_time": 931.41,
+      "end_time": 933.28
+    },
+    {
+      "text": "Those would be the ones we'd be comfortable with.",
+      "speaker_name": "Imran Butt",
+      "start_time": 933.6,
+      "end_time": 935.6
+    },
+    {
+      "text": "Okay, all right, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 936.56,
+      "end_time": 939.84
+    },
+    {
+      "text": "So I think that there's probably a discussion to have with Chris, but it kind of really swings on your level of interest and I guess if there was, if there was some more technical questions, Imran, to sort of see what the relevance of an SEO agency was nowadays, then Chris would certainly be the right person to speak.",
+      "speaker_name": "Andrew Day",
+      "start_time": 941.04,
+      "end_time": 963.23
+    },
+    {
+      "text": "To speak to about it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 963.47,
+      "end_time": 964.75
+    },
+    {
+      "text": "Do you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 965.31,
+      "end_time": 965.71
+    },
+    {
+      "text": "Would you be happy to move to a call with Chris from.",
+      "speaker_name": "Andrew Day",
+      "start_time": 965.71,
+      "end_time": 971.23
+    },
+    {
+      "text": "From my side?",
+      "speaker_name": "Imran Butt",
+      "start_time": 971.23,
+      "end_time": 972.15
+    },
+    {
+      "text": "It would be Dan who has to.",
+      "speaker_name": "Imran Butt",
+      "start_time": 972.15,
+      "end_time": 973.87
+    },
+    {
+      "text": "Who would lead it because yeah, I.",
+      "speaker_name": "Imran Butt",
+      "start_time": 974.11,
+      "end_time": 975.95
+    },
+    {
+      "text": "He has.",
+      "speaker_name": "Imran Butt",
+      "start_time": 976.75,
+      "end_time": 977.31
+    },
+    {
+      "text": "Daniel, you have way more knowledge than me on the, on this stuff.",
+      "speaker_name": "Imran Butt",
+      "start_time": 977.87,
+      "end_time": 981.23
+    },
+    {
+      "text": "Yeah, yeah, that's fine.",
+      "speaker_name": "Dan Marr",
+      "start_time": 981.55,
+      "end_time": 983.07
+    },
+    {
+      "text": "I can leave that.",
+      "speaker_name": "Dan Marr",
+      "start_time": 983.07,
+      "end_time": 983.71
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 984.68,
+      "end_time": 985.24
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 985.24,
+      "end_time": 985.52
+    },
+    {
+      "text": "Dan, are you available to tomorrow just in case I can get a call set up tomorrow?",
+      "speaker_name": "Andrew Day",
+      "start_time": 985.52,
+      "end_time": 989.08
+    },
+    {
+      "text": "Just checking my calendar.",
+      "speaker_name": "Dan Marr",
+      "start_time": 993,
+      "end_time": 994.2
+    },
+    {
+      "text": "One moment.",
+      "speaker_name": "Dan Marr",
+      "start_time": 994.2,
+      "end_time": 994.92
+    },
+    {
+      "text": "Most likely, yeah.",
+      "speaker_name": "Dan Marr",
+      "start_time": 994.92,
+      "end_time": 1002.92
+    },
+    {
+      "text": "What time are you thinking?",
+      "speaker_name": "Dan Marr",
+      "start_time": 1003.72,
+      "end_time": 1004.92
+    },
+    {
+      "text": "I'll have to check in with Chris's calendar first.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1005.8,
+      "end_time": 1008.28
+    },
+    {
+      "text": "Yeah, I just have a, a 1:00pm Eastern that I can't avoid.",
+      "speaker_name": "Dan Marr",
+      "start_time": 1009.4,
+      "end_time": 1013.71
+    },
+    {
+      "text": "Other than that I can move things around.",
+      "speaker_name": "Dan Marr",
+      "start_time": 1014.11,
+      "end_time": 1015.95
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1018.03,
+      "end_time": 1018.67
+    },
+    {
+      "text": "All right, leave that with me then, and I'll get something up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1020.91,
+      "end_time": 1024.11
+    },
+    {
+      "text": "But I mean, from our point of view, what we're looking for is good buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1024.11,
+      "end_time": 1027.83
+    },
+    {
+      "text": "And it sounds like if you've just got a pot of cash from an exit yourselves, then that's a good place to start, as good as any.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1027.83,
+      "end_time": 1036.59
+    },
+    {
+      "text": "So we'll definitely do that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1038.13,
+      "end_time": 1039.09
+    },
+    {
+      "text": "And then I think what might be productive as well after this call is maybe to get like a. I don't know if you've got like a thesis or.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1039.09,
+      "end_time": 1049.33
+    },
+    {
+      "text": "But even just like a quick list of the sort of companies that you're looking for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1049.97,
+      "end_time": 1052.93
+    },
+    {
+      "text": "Because we do have, obviously our listing site agencies, co.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1052.93,
+      "end_time": 1056.65
+    },
+    {
+      "text": "But we're coming across businesses all the time as well that don't get listed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1056.65,
+      "end_time": 1060.69
+    },
+    {
+      "text": "So it might be something we can do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1061.89,
+      "end_time": 1063.37
+    },
+    {
+      "text": "Just plug straight into what you guys are doing as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1063.44,
+      "end_time": 1066.32
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Imran Butt",
+      "start_time": 1070.32,
+      "end_time": 1070.96
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1073.28,
+      "end_time": 1073.76
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1073.76,
+      "end_time": 1074.16
+    },
+    {
+      "text": "All right, well, good stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1075.04,
+      "end_time": 1076.28
+    },
+    {
+      "text": "Well, I don't take up too much of your time then, but nice to meet you guys and yeah, I'll be in touch via email and get this meeting set up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1076.28,
+      "end_time": 1084.28
+    },
+    {
+      "text": "Let's get it kicked off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1084.28,
+      "end_time": 1085.36
+    },
+    {
+      "text": "Enjoy the rest of your day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1086.24,
+      "end_time": 1087.36
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1087.52,
+      "end_time": 1088.04
+    },
+    {
+      "text": "Thanks, Andrew.",
+      "speaker_name": "Imran Butt",
+      "start_time": 1088.04,
+      "end_time": 1088.76
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Imran Butt",
+      "start_time": 1088.76,
+      "end_time": 1089.2
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Call Center Guys",
+      "acquisitions",
+      "SEO agency",
+      "paid search",
+      "marketing strategy",
+      "BPO"
+    ],
+    "action_items": "\n**Andrew Day**\nInvestigate technical issue with calendar invite not including Imran and resolve for future calls (00:01)\nScreen share and present SEO agency financials and senior management structure during call (08:26)\nCoordinate and schedule follow-up call with Chris Libizic and Dan Marr to discuss SEO agency acquisition in more detail (16:24)\nRequest Call Center Guys to provide acquisition thesis or list of preferred company profiles for more targeted deal flow matching (17:50)\nFollow up via email post-meeting with confirmations and next steps (18:08)\n\n**Dan Marr**\nLead follow-up technical/marketing call with Chris Libizic regarding SEO agency opportunity (16:11)\nConfirm availability for follow-up call scheduling and share calendar constraints (16:33)\n\n**Imran Butt**\nProvide input on Call Center Guys’ acquisition strategy and company preferences to Andrew for sourcing alignment (00:00)\n",
+    "outline": null,
+    "overview": "- **Acquisition Focus:** Call Center Guys targets BPO and contact center firms in the US, Canada, and possibly the UK.\n\n- **Market Context:** Exploring a UK-based SEO agency with stable management amidst general market decline in SEO services.\n\n- **SEO Relevance:** Google’s algorithm updates every two months highlight the need for continuous SEO investment and relevance.\n\n- **Holistic Approach:** Interest in businesses that connect marketing to sales closure via call centers, not just single-focus agencies.\n\n- **Next Steps:** Follow-up call with agency founder to discuss deeper strategic questions and clarify acquisition targets.\n\n- **Operational Shift:** Post-sale, the focus is on independent acquisitions without conflict, ensuring growth through complementary businesses.",
+    "short_summary": "Call Center Guys is actively pursuing acquisitions to support its growth strategy, targeting BPO and contact center firms in the US, Canada, and the UK. Imran Butt highlighted a recent asset sale to Cynthia AI, while the company remains operationally independent. The team is exploring a potential acquisition of a UK-based SEO agency with a stable management team amid a declining market for SEO services. They recognize the ongoing need for SEO investments due to Google's bi-monthly algorithm updates. The discussions emphasized the importance of acquiring businesses that can integrate with their existing contact center operations, aiming to create a holistic marketing-to-sales funnel. Next steps include a follow-up call with the agency's founder to delve deeper into strategic questions and define their acquisition criteria clearly.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K974YAH953H08B2KRD0H6CNQ",
+  "audio_url": "https://cdn.fireflies.ai/01K974YAH953H08B2KRD0H6CNQ/audio.mp3?Expires=1773220840&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzk3NFlBSDk1M0gwOEIyS1JEMEg2Q05RL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0MH19fV19&Signature=Ym9~TzlpC-bv~Muhwfj0ycgoVjyxVSnZOZZJr0SCsTIxiuh2zNS689FyLO7umEfGBrGsewYLrTUSsvHJVkcjyj2ElV6SQ-wLg4bSLUjmN0xgCR611e8t6cwyi2yg3bDaNMz1rAClrKOFNfmNsCaAQpB8r8qILNdAUXhVoD6OkSRcVnl1B-uEWVPWTX2cA3~8rKn~i8O9VsT-pVIX2rxMFYur5XhB05sfs61i-6HyD9jiZoVKA1H~iyVCP9dx3HT1l4H5b~bBCzPN8oqMFPoco6Evk-8XmwUWh2Vza0~iuv4haE-rb~pZUO9GjjZKKnv3LU9UVWattNT3CStcEL3v1Q__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K974YAH953H08B2KRD0H6CNQ/video.mp4?Expires=1773220840&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzk3NFlBSDk1M0gwOEIyS1JEMEg2Q05RL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0MH19fV19&Signature=L617qPBYVEGxG-sH7R0UPRB-wvLBjxHLZszvPKygbx4tEEH1k1k-xjBx9iOL3K1WjGcyk885WJIoZwvwZd2RjpdXHRTDR6Dx2dxPeO7L~MWxp0sP9g08ymwN55WAae5LaenpmWV3K2tB8c5CrEoSP2jGQbj0fs4xWgbOb0-z1XjsJyJusawTXT4CJaoyj0hVVDU3v6CaG6~ff9f5l69MJmTo9OCg6OX0zN~A1SlxBfGl~Fl9GCWj2mVey2q8S9mQoYOU19MdJQAVbDIxtoA4jvoBkx4FtT8pDZVVD0b4D7GxwHQo26C-l4nvxX3pg-QiEeoXx7VQitdqw1yZq0M7Cg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

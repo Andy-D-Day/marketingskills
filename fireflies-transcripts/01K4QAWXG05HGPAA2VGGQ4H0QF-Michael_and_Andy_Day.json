@@ -1,0 +1,556 @@
+{
+  "id": "01K4QAWXG05HGPAA2VGGQ4H0QF",
+  "title": "Michael and Andy Day",
+  "date": 1757606400000,
+  "dateString": "2025-09-11T16:00:00.000Z",
+  "duration": 5.559999942779541,
+  "participants": [
+    "andrew.day@capitala.co,michael@51blocks.com,andy.day@capitala.co",
+    "michael@51blocks.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Michael Borgelt",
+      "email": "michael@51blocks.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hello.",
+      "speaker_name": "Michael",
+      "start_time": 0.96,
+      "end_time": 1.28
+    },
+    {
+      "text": "Hey.",
+      "speaker_name": "Andy Day",
+      "start_time": 4.88,
+      "end_time": 5.24
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 5.24,
+      "end_time": 5.76
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.76,
+      "end_time": 7.28
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Michael",
+      "start_time": 7.28,
+      "end_time": 7.92
+    },
+    {
+      "text": "There's Brittany as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 8.56,
+      "end_time": 9.76
+    },
+    {
+      "text": "Yeah, I'm good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 10.08,
+      "end_time": 11.04
+    },
+    {
+      "text": "Sorry about that.",
+      "speaker_name": "Andy Day",
+      "start_time": 11.04,
+      "end_time": 11.68
+    },
+    {
+      "text": "That's all right.",
+      "speaker_name": "Michael",
+      "start_time": 12,
+      "end_time": 12.72
+    },
+    {
+      "text": "These things honestly, few minutes late and then it doesn't seem to work properly.",
+      "speaker_name": "Andy Day",
+      "start_time": 14,
+      "end_time": 18.4
+    },
+    {
+      "text": "But you're both here now, which is great.",
+      "speaker_name": "Andy Day",
+      "start_time": 18.88,
+      "end_time": 20.56
+    },
+    {
+      "text": "So I don't have a meeting for another 20 minutes, so we can.",
+      "speaker_name": "Andy Day",
+      "start_time": 20.96,
+      "end_time": 24.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 25.85,
+      "end_time": 26.01
+    },
+    {
+      "text": "I mean, to be honest, there's one question that will.",
+      "speaker_name": "Michael",
+      "start_time": 26.01,
+      "end_time": 28.41
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.29,
+      "end_time": 29.89
+    },
+    {
+      "text": "Determine if we move forward or not.",
+      "speaker_name": "Michael",
+      "start_time": 29.89,
+      "end_time": 31.69
+    },
+    {
+      "text": "Does your system have the ability to qualify people when they request the NDA?",
+      "speaker_name": "Michael",
+      "start_time": 32.09,
+      "end_time": 38.41
+    },
+    {
+      "text": "Like, can we not give it to everybody and can you say no to people or.",
+      "speaker_name": "Michael",
+      "start_time": 39.53,
+      "end_time": 44.73
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 45.13,
+      "end_time": 45.61
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 46.25,
+      "end_time": 46.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 46.81,
+      "end_time": 47.17
+    },
+    {
+      "text": "So, well, I think we've got the right answer for you then.",
+      "speaker_name": "Andy Day",
+      "start_time": 47.17,
+      "end_time": 49.37
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.45,
+      "end_time": 49.85
+    },
+    {
+      "text": "So we do.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.25,
+      "end_time": 50.89
+    },
+    {
+      "text": "We do have a system where they are able to sign an NDA and then that goes into our database.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.89,
+      "end_time": 58.39
+    },
+    {
+      "text": "And then we.",
+      "speaker_name": "Andy Day",
+      "start_time": 58.39,
+      "end_time": 59.91
+    },
+    {
+      "text": "So we've.",
+      "speaker_name": "Andy Day",
+      "start_time": 60.79,
+      "end_time": 61.51
+    },
+    {
+      "text": "We sometimes will have screened them before, but sometimes not if they're in our database already.",
+      "speaker_name": "Andy Day",
+      "start_time": 62.07,
+      "end_time": 68.07
+    },
+    {
+      "text": "But what we do is every single one of those NDAs that come in, we then check with you first whether you want us to share the IM with them or not.",
+      "speaker_name": "Andy Day",
+      "start_time": 68.39,
+      "end_time": 76.03
+    },
+    {
+      "text": "And if you don't, they don't get it.",
+      "speaker_name": "Andy Day",
+      "start_time": 76.03,
+      "end_time": 77.59
+    },
+    {
+      "text": "So it stays completely anonymous.",
+      "speaker_name": "Andy Day",
+      "start_time": 77.75,
+      "end_time": 79.59
+    },
+    {
+      "text": "It's only if you approve those signed NDAs that we will share with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 79.67,
+      "end_time": 84.93
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Michael",
+      "start_time": 85.25,
+      "end_time": 85.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 86.21,
+      "end_time": 86.69
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 86.69,
+      "end_time": 87.17
+    },
+    {
+      "text": "Is that the right answer?",
+      "speaker_name": "Andy Day",
+      "start_time": 88.93,
+      "end_time": 90.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 90.21,
+      "end_time": 90.69
+    },
+    {
+      "text": "Well, I don't know.",
+      "speaker_name": "Michael",
+      "start_time": 90.85,
+      "end_time": 91.89
+    },
+    {
+      "text": "It's an answer.",
+      "speaker_name": "Michael",
+      "start_time": 93.25,
+      "end_time": 94.01
+    },
+    {
+      "text": "I don't know if it's the right one or not, but.",
+      "speaker_name": "Michael",
+      "start_time": 94.01,
+      "end_time": 97.01
+    },
+    {
+      "text": "So what are you hoping?",
+      "speaker_name": "Andy Day",
+      "start_time": 97.17,
+      "end_time": 98.93
+    },
+    {
+      "text": "How the system works.",
+      "speaker_name": "Andy Day",
+      "start_time": 99.09,
+      "end_time": 100.29
+    },
+    {
+      "text": "Yeah, that way.",
+      "speaker_name": "Michael",
+      "start_time": 100.37,
+      "end_time": 101.49
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 101.49,
+      "end_time": 101.89
+    },
+    {
+      "text": "We don't want every.",
+      "speaker_name": "Michael",
+      "start_time": 101.89,
+      "end_time": 103.09
+    },
+    {
+      "text": "We're a white label SEO digital marketing company, so I don't want clients finding out, if they reach out to see who we are or whatever, that they would find out that we're, you know, possibly selling the company.",
+      "speaker_name": "Michael",
+      "start_time": 103.09,
+      "end_time": 114.8
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 115.52,
+      "end_time": 116.4
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Michael",
+      "start_time": 116.64,
+      "end_time": 117.2
+    },
+    {
+      "text": "Hi, Brittany.",
+      "speaker_name": "Andy Day",
+      "start_time": 118.24,
+      "end_time": 119.2
+    },
+    {
+      "text": "How are you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 119.52,
+      "end_time": 120.24
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Brittany",
+      "start_time": 120.32,
+      "end_time": 120.8
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Michael",
+      "start_time": 120.88,
+      "end_time": 121.2
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Brittany",
+      "start_time": 121.2,
+      "end_time": 121.92
+    },
+    {
+      "text": "Yeah, nice to meet you, too.",
+      "speaker_name": "Andy Day",
+      "start_time": 122.32,
+      "end_time": 123.36
+    },
+    {
+      "text": "Sorry, I was three or four minutes late and when I came in, there was nobody, like waiting in the room, so I waited for you guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 123.36,
+      "end_time": 130.24
+    },
+    {
+      "text": "But we're all here now, so that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 131.68,
+      "end_time": 133.28
+    },
+    {
+      "text": "That's all good.",
+      "speaker_name": "Andy Day",
+      "start_time": 133.28,
+      "end_time": 134.08
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.12,
+      "end_time": 135.52
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.52,
+      "end_time": 135.88
+    },
+    {
+      "text": "Well, thank you for booking in a call.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.88,
+      "end_time": 137.76
+    },
+    {
+      "text": "I'll give you a little bit of background about us.",
+      "speaker_name": "Andy Day",
+      "start_time": 137.76,
+      "end_time": 141.02
+    },
+    {
+      "text": "So we are capital A and we're a M and A advisory for marketing services businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 141.02,
+      "end_time": 147.74
+    },
+    {
+      "text": "So we work both the buy and the sell side, work with clients who are looking to acquire businesses and they are often scaling agencies that are looking to scale outside of organic or they can be financial investors, like private equity or private investors.",
+      "speaker_name": "Andy Day",
+      "start_time": 147.9,
+      "end_time": 166.9
+    },
+    {
+      "text": "That are looking to get into the marketing space.",
+      "speaker_name": "Andy Day",
+      "start_time": 166.9,
+      "end_time": 169.1
+    },
+    {
+      "text": "So we work both sides and our sell side is obviously agencies co which is the marketplace for agency owners to buy and sell marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 170.31,
+      "end_time": 182.47
+    },
+    {
+      "text": "So the purpose of this call really is just to understand whereabouts you are.",
+      "speaker_name": "Andy Day",
+      "start_time": 183.43,
+      "end_time": 188.79
+    },
+    {
+      "text": "Obviously you filled out form.",
+      "speaker_name": "Andy Day",
+      "start_time": 188.79,
+      "end_time": 189.95
+    },
+    {
+      "text": "We've got those details but you know, what is your goals, why are you considering a sale and whether our six month process is a fit for you guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 189.95,
+      "end_time": 199.89
+    },
+    {
+      "text": "If that sounds good.",
+      "speaker_name": "Andy Day",
+      "start_time": 200.21,
+      "end_time": 201.33
+    },
+    {
+      "text": "Yeah, sounds good.",
+      "speaker_name": "Michael",
+      "start_time": 202.13,
+      "end_time": 203.65
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 207.25,
+      "end_time": 207.57
+    },
+    {
+      "text": "So I just.",
+      "speaker_name": "Michael",
+      "start_time": 207.57,
+      "end_time": 208.05
+    },
+    {
+      "text": "The information.",
+      "speaker_name": "Michael",
+      "start_time": 208.05,
+      "end_time": 208.77
+    },
+    {
+      "text": "I can see.",
+      "speaker_name": "Andy Day",
+      "start_time": 211.41,
+      "end_time": 212.13
+    },
+    {
+      "text": "I think he's breaking up for me.",
+      "speaker_name": "Brittany",
+      "start_time": 214.85,
+      "end_time": 216.61
+    },
+    {
+      "text": "Yeah, same here.",
+      "speaker_name": "Michael",
+      "start_time": 216.93,
+      "end_time": 217.81
+    },
+    {
+      "text": "It's frozen.",
+      "speaker_name": "Michael",
+      "start_time": 218.37,
+      "end_time": 219.33
+    },
+    {
+      "text": "Did we just scare him away?",
+      "speaker_name": "Brittany",
+      "start_time": 264.91,
+      "end_time": 266.11
+    },
+    {
+      "text": "Fireflies is still in here, so.",
+      "speaker_name": "Michael",
+      "start_time": 268.99,
+      "end_time": 271.47
+    },
+    {
+      "text": "Okay, well, I guess I'll give him a minute to rejoin by connection.",
+      "speaker_name": "Brittany",
+      "start_time": 272.24,
+      "end_time": 277.2
+    },
+    {
+      "text": "It.",
+      "speaker_name": "Michael",
+      "start_time": 297.61,
+      "end_time": 297.85
+    },
+    {
+      "text": "All right, well, I'm probably going to jump off here.",
+      "speaker_name": "Michael",
+      "start_time": 323.78,
+      "end_time": 327.3
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Andy Day",
+      "start_time": 327.94,
+      "end_time": 328.66
+    },
+    {
+      "text": "All right, bye.",
+      "speaker_name": "Brittany",
+      "start_time": 328.74,
+      "end_time": 329.54
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "NDA approval",
+      "M&A advisory",
+      "marketing services",
+      "confidential sale",
+      "information memorandum",
+      "digital marketing agency"
+    ],
+    "action_items": "\n**Andy Day**\nContinue screening NDAs and send signed NDAs requesting approval before sharing any IMs with interested parties (00:46)\nFollow up with Michael and Brittany due to call disruption and reschedule or complete the consultation on their goals and M&A process suitability (04:57)\n\n**Michael**\nReview and confirm if the described NDA approval process aligns with their confidentiality requirements and respond accordingly (01:28)\n",
+    "outline": null,
+    "overview": "- NDA qualification process will require signed NDAs for approval prior to sharing the Information Memorandum (IM), maintaining client confidentiality.\n- Michael emphasized the need to avoid revealing the potential company sale to existing clients, stressing the importance of selective NDA distribution.\n- Capital A, as an M&A advisory firm, focuses on marketing service businesses, addressing both buy and sell-side transactions in the sector.\n- The purpose of the consultation is to identify the client's goals, reasons for the sale, and assess the appropriateness of a six-month M&A process.\n- Technical difficulties disrupted communication during the meeting, affecting clarity and progression of discussions.\n- Michael clarified that their business operates as a white-label SEO digital marketing company, highlighting the need for confidentiality regarding the sale.\n- Brittany was introduced as a participant in the meeting, demonstrating teamwork and shared involvement in the matter. \n- The need for a follow-up meeting was established due to the call’s premature ending, indicating continued dialogue is necessary.\n- Andy confirmed all NDAs would undergo an approval process before any sharing of sensitive information, ensuring data control.\n- Miscommunication due to technical issues impeded the discussion, necessitating a review of the consultation agenda.",
+    "short_summary": "The meeting addressed the implementation of a qualification system for NDA signatories before sharing the Information Memorandum (IM), emphasizing the importance of client anonymity and company confidentiality. The process captures and tracks NDA signatories in a database, ensuring that every signed NDA requires client approval prior to sharing the IM, mitigating risks of sensitive data exposure. This approach aligns with the core business strategy of protecting client privacy during the M&A process, particularly for marketing services businesses. There is an emphasis on maintaining white label status to avoid market disruption and client attrition. The workflow involves ongoing coordination for NDA approvals, which may be manual or semi-automated, ensuring that only vetted entities access proprietary information, thus enhancing deal quality while ensuring compliance with confidentiality agreements.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K4QAWXG05HGPAA2VGGQ4H0QF",
+  "audio_url": "https://cdn.fireflies.ai/01K4QAWXG05HGPAA2VGGQ4H0QF/audio.mp3?Expires=1773220845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRRQVdYRzA1SEdQQUEyVkdHUTRIMFFGL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0NX19fV19&Signature=MsB2ZuD9tBV8ouev-xSDTQhK0LLinUAgS2wtTbnjq9w2JO4B1vyyh9oogIm60OHitvColAN0JA6WObdTnF2fKX8-FiO-avDkOv47WDbTzg7GPcl-LrOE2k-Z40yc7fx02f94iqUSDsSFlbd5ITJMOPgaB8jNYrKfXvZ47t7tPKezcP1T1m4XToG6B0rr18E71UdFgupWX-F3OmtdXxFTpmxWL9g2OUIkOlxgoO-dIHkupBOyfa0PhBlAeW2uO6gF9E1z8id7Z8iSo8fbjfcd8GZp3JHlN2i-0KXzGHgF9kR0PRxJWcidghUEh~XvZHuzscLsiWtrjY06NZvisBEPrw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K4QAWXG05HGPAA2VGGQ4H0QF/video.mp4?Expires=1773220845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRRQVdYRzA1SEdQQUEyVkdHUTRIMFFGL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0NX19fV19&Signature=WGyszTw4oA5mpPr7XZHLZ8ck73MYCe-wwchMe3ud~d2k9n0HQ0PmZt4RcaXGxpClyP~S3ewoDjt2E-fM30OXV6oOFL1TGsnA176HwbPDPhZY4zFypp3C0zmiL84zSasl6RxflBDCYshFlqJLDagt8EeYYU4ZXv6n-834pTpe28WC~C1tQqiLkmlXzztuvpjwnqGKNRzzJqFWvaS5a25WMBxkDwuIR~EK86gtjIqUFQ0ZxFKzly~VMF8~y75zoSjkVg~geVM~kh~59w5VE1lpuJcgjXr3lwZ75BcZ2LzVtSyhpQAK0QvdltMdmNIxJ38N15r5EXqiWt9LWxvSn1dorA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

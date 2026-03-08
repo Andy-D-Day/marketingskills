@@ -1,0 +1,3160 @@
+{
+  "id": "01KBJ26Y0QA9SD2WYTMABTDXAR",
+  "title": "M&A catch up",
+  "date": 1765368000000,
+  "dateString": "2025-12-10T12:00:00.000Z",
+  "duration": 28.959999084472656,
+  "participants": [
+    "andrew.day@capitala.co,ahmed.zia@capitala.co,andy.day@capitala.co",
+    "ahmed.zia@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sam.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 0.24,
+      "end_time": 25.54
+    },
+    {
+      "text": "Hi, Andy.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 234.09,
+      "end_time": 234.89
+    },
+    {
+      "text": "Hi, Ahmed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 236.81,
+      "end_time": 237.53
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 239.45,
+      "end_time": 240.33
+    },
+    {
+      "text": "How's your day going?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 241.05,
+      "end_time": 242.09
+    },
+    {
+      "text": "Yeah, all right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 245.29,
+      "end_time": 246.169
+    },
+    {
+      "text": "Sorry, one second.",
+      "speaker_name": "Andrew Day",
+      "start_time": 246.17,
+      "end_time": 247.13
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 248.01,
+      "end_time": 248.49
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 266.58,
+      "end_time": 266.74
+    },
+    {
+      "text": "How's my day?",
+      "speaker_name": "Andrew Day",
+      "start_time": 266.74,
+      "end_time": 267.38
+    },
+    {
+      "text": "Got busy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 267.78,
+      "end_time": 268.46
+    },
+    {
+      "text": "I've just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 268.46,
+      "end_time": 268.94
+    },
+    {
+      "text": "I mean I've not had a break for a split second.",
+      "speaker_name": "Andrew Day",
+      "start_time": 268.94,
+      "end_time": 271.1
+    },
+    {
+      "text": "I'm back to back.",
+      "speaker_name": "Andrew Day",
+      "start_time": 271.1,
+      "end_time": 272.02
+    },
+    {
+      "text": "Tracy, Andrew Goldberg just got a off call with another potential seller.",
+      "speaker_name": "Andrew Day",
+      "start_time": 272.18,
+      "end_time": 278.42
+    },
+    {
+      "text": "Oh, nice.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 279.22,
+      "end_time": 280.1
+    },
+    {
+      "text": "What was Andrew Goldberg calling for?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 281.39,
+      "end_time": 285.15
+    },
+    {
+      "text": "So Andrew Goldberg, very interesting call with him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 285.95,
+      "end_time": 288.91
+    },
+    {
+      "text": "He's definitely interested in the idea of doing something with us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 289.31,
+      "end_time": 293.95
+    },
+    {
+      "text": "They need deal flow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 293.95,
+      "end_time": 295.39
+    },
+    {
+      "text": "They do have three deals to close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 295.87,
+      "end_time": 298.11
+    },
+    {
+      "text": "But he said the problem they've got is that they are meeting lots of agency owners and they're all founder led businesses, really small.",
+      "speaker_name": "Andrew Day",
+      "start_time": 298.91,
+      "end_time": 306.43
+    },
+    {
+      "text": "They got, they do due diligence on them are finite.",
+      "speaker_name": "Andrew Day",
+      "start_time": 307.32,
+      "end_time": 310.48
+    },
+    {
+      "text": "They've got loads of problems.",
+      "speaker_name": "Andrew Day",
+      "start_time": 310.48,
+      "end_time": 311.64
+    },
+    {
+      "text": "And he said it's just been a big waste of time trying to acquire stuff, which is why they've started to look more at technology companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 311.96,
+      "end_time": 319.16
+    },
+    {
+      "text": "Which is why they were interested in Corvide because there was a bit of tech and they thought it might be better.",
+      "speaker_name": "Andrew Day",
+      "start_time": 320.76,
+      "end_time": 326.28
+    },
+    {
+      "text": "They did two or three deals already with vc, like investments in India I think just with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 327.72,
+      "end_time": 336.37
+    },
+    {
+      "text": "With some Martech companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 337.57,
+      "end_time": 339.01
+    },
+    {
+      "text": "So they like the space, but it's not really what they're doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 339.65,
+      "end_time": 343.33
+    },
+    {
+      "text": "They're trying to build out more around just a proper marketing stack.",
+      "speaker_name": "Andrew Day",
+      "start_time": 343.33,
+      "end_time": 348.61
+    },
+    {
+      "text": "They can IPO, right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 349.73,
+      "end_time": 351.25
+    },
+    {
+      "text": "And they've got somebody to IPO the business in 12 to 18 months, but they haven't got anything to IPO really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 351.25,
+      "end_time": 358.13
+    },
+    {
+      "text": "And so I spoke to them about potentially substance, which is forming an ebitda.",
+      "speaker_name": "Andrew Day",
+      "start_time": 358.85,
+      "end_time": 363.25
+    },
+    {
+      "text": "Spoke to them about.",
+      "speaker_name": "Andrew Day",
+      "start_time": 363.76,
+      "end_time": 364.56
+    },
+    {
+      "text": "Is the other guy that we've been talking to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 366.08,
+      "end_time": 368.08
+    },
+    {
+      "text": "Oh God, who am I thinking of?",
+      "speaker_name": "Andrew Day",
+      "start_time": 373.84,
+      "end_time": 376.4
+    },
+    {
+      "text": "Allied, Global Allied.",
+      "speaker_name": "Andrew Day",
+      "start_time": 380.4,
+      "end_time": 382.48
+    },
+    {
+      "text": "Yeah, they're massive.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 382.88,
+      "end_time": 384.32
+    },
+    {
+      "text": "6.5 million eaters there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 385.12,
+      "end_time": 386.8
+    },
+    {
+      "text": "We wanted them for Skyview first, I think.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 387.68,
+      "end_time": 389.96
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 389.96,
+      "end_time": 390.24
+    },
+    {
+      "text": "Maybe you don't want them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 390.52,
+      "end_time": 391.4
+    },
+    {
+      "text": "They're too diversified.",
+      "speaker_name": "Andrew Day",
+      "start_time": 391.64,
+      "end_time": 393
+    },
+    {
+      "text": "And Andrew does want a big acquisition or a couple of big acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 394.36,
+      "end_time": 399.96
+    },
+    {
+      "text": "So I said to him, look, the thing is, Andrew is you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 400.68,
+      "end_time": 403.76
+    },
+    {
+      "text": "We know the space and we can get you to IPO sooner because we can get you some big acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 403.76,
+      "end_time": 411
+    },
+    {
+      "text": "So you can either retain us or on these big ones because we would be representing Skyview and potentially I could take Allied.",
+      "speaker_name": "Andrew Day",
+      "start_time": 412.36,
+      "end_time": 422.28
+    },
+    {
+      "text": "If I can get a mandate from Allied, I can sell them to Andrew.",
+      "speaker_name": "Andrew Day",
+      "start_time": 423.48,
+      "end_time": 427.48
+    },
+    {
+      "text": "So he's up for it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 429.08,
+      "end_time": 430.12
+    },
+    {
+      "text": "But he's also up for taking his honors by side.",
+      "speaker_name": "Andrew Day",
+      "start_time": 430.12,
+      "end_time": 432.2
+    },
+    {
+      "text": "Really nice guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 432.92,
+      "end_time": 433.84
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 433.84,
+      "end_time": 434.2
+    },
+    {
+      "text": "Yeah, he's really.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 434.2,
+      "end_time": 436.12
+    },
+    {
+      "text": "He has a personality actually.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 436.12,
+      "end_time": 437.96
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 439,
+      "end_time": 439.4
+    },
+    {
+      "text": "Yeah, and he's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 440.68,
+      "end_time": 441.56
+    },
+    {
+      "text": "His background is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 441.56,
+      "end_time": 442.44
+    },
+    {
+      "text": "Is M A, M and A. Yeah, I think you mentioned PR side.",
+      "speaker_name": "Andrew Day",
+      "start_time": 442.44,
+      "end_time": 447.52
+    },
+    {
+      "text": "Yeah, he works for M and A companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 447.52,
+      "end_time": 449.68
+    },
+    {
+      "text": "He knows everybody, but he's just never done the M and A himself.",
+      "speaker_name": "Andrew Day",
+      "start_time": 449.68,
+      "end_time": 452.48
+    },
+    {
+      "text": "Yeah, yeah, good guy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 452.88,
+      "end_time": 455.92
+    },
+    {
+      "text": "So we might get a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 456.16,
+      "end_time": 458.2
+    },
+    {
+      "text": "We might get something with him, but I've got to do the work now because I've got a contact Allied.",
+      "speaker_name": "Andrew Day",
+      "start_time": 458.2,
+      "end_time": 465.92
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 471.53,
+      "end_time": 471.85
+    },
+    {
+      "text": "And also we've got to buy it for substance.",
+      "speaker_name": "Andrew Day",
+      "start_time": 472.65,
+      "end_time": 474.65
+    },
+    {
+      "text": "I mean, I really do think that if I, if I don't buy substance myself.",
+      "speaker_name": "Andrew Day",
+      "start_time": 474.65,
+      "end_time": 478.73
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 482.89,
+      "end_time": 483.25
+    },
+    {
+      "text": "And either way we, we got our red fees to Capital A.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 483.25,
+      "end_time": 486.41
+    },
+    {
+      "text": "So I mean, the whole idea.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 486.41,
+      "end_time": 489.13
+    },
+    {
+      "text": "Yeah, well, I think if I didn't down the substance route, I would, I would.",
+      "speaker_name": "Andrew Day",
+      "start_time": 490.33,
+      "end_time": 494.25
+    },
+    {
+      "text": "I've got Bulletproof anyway, so it's good for me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 494.25,
+      "end_time": 498.78
+    },
+    {
+      "text": "Oh, good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 498.78,
+      "end_time": 499.3
+    },
+    {
+      "text": "Good for a.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 499.3,
+      "end_time": 499.9
+    },
+    {
+      "text": "Good as a platform.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 499.9,
+      "end_time": 500.74
+    },
+    {
+      "text": "You wanted them as a platform complain, basically.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 500.74,
+      "end_time": 503.22
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 503.22,
+      "end_time": 503.62
+    },
+    {
+      "text": "For the roll up.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 503.78,
+      "end_time": 504.66
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 504.66,
+      "end_time": 505.02
+    },
+    {
+      "text": "Which, which is good, I think.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 505.02,
+      "end_time": 506.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 507.94,
+      "end_time": 508.42
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 510.26,
+      "end_time": 510.58
+    },
+    {
+      "text": "I mean, Bulletproof is really nice as well, but you know, you can kind of get.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 510.58,
+      "end_time": 514.82
+    },
+    {
+      "text": "Can I hit two birds with one stone kind of situation with this, so.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 515.3,
+      "end_time": 520.34
+    },
+    {
+      "text": "Yeah, well, we just need Andy's numbers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 520.74,
+      "end_time": 523.98
+    },
+    {
+      "text": "I mean.",
+      "speaker_name": "Andrew Day",
+      "start_time": 523.98,
+      "end_time": 524.54
+    },
+    {
+      "text": "Yeah, he's longing out now, isn't he?",
+      "speaker_name": "Andrew Day",
+      "start_time": 525.42,
+      "end_time": 527.42
+    },
+    {
+      "text": "Yeah, he.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 529.26,
+      "end_time": 529.9
+    },
+    {
+      "text": "He said that it's gonna take them some more time to consolidate the UK and the US numbers or something, which I don't know how.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 530.14,
+      "end_time": 539.98
+    },
+    {
+      "text": "Like, why is it taking that long?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 539.98,
+      "end_time": 541.9
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 543.98,
+      "end_time": 544.46
+    },
+    {
+      "text": "Bit bad, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 544.54,
+      "end_time": 545.5
+    },
+    {
+      "text": "It's because it's his dad.",
+      "speaker_name": "Andrew Day",
+      "start_time": 545.58,
+      "end_time": 546.86
+    },
+    {
+      "text": "His dad's obviously an old fellow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 546.86,
+      "end_time": 548.78
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 548.94,
+      "end_time": 549.42
+    },
+    {
+      "text": "Probably just using Excel.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 549.9,
+      "end_time": 551.42
+    },
+    {
+      "text": "She.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 551.42,
+      "end_time": 551.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 554.52,
+      "end_time": 554.84
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 557.08,
+      "end_time": 557.44
+    },
+    {
+      "text": "I mean, Excel is literally like, when I'm studying, we are literally using Python and it's, it's like.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 557.44,
+      "end_time": 565.24
+    },
+    {
+      "text": "Honestly, I was shocked, like what you can do on Excel, it's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 565.24,
+      "end_time": 569.08
+    },
+    {
+      "text": "You can just do on Python within seconds.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 569.08,
+      "end_time": 571.72
+    },
+    {
+      "text": "So, yeah, I think people are moving towards more programming languages and even with that, you just don't need to have knowledge.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 572.84,
+      "end_time": 579.4
+    },
+    {
+      "text": "You just type into ChatGPT for a prompt and.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 579.4,
+      "end_time": 583.18
+    },
+    {
+      "text": "Yeah, just kind of get to all the information you need.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 583.18,
+      "end_time": 586.06
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 586.86,
+      "end_time": 587.26
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 588.94,
+      "end_time": 589.5
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 591.5,
+      "end_time": 591.78
+    },
+    {
+      "text": "I'm going to send a reminder for those guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 591.78,
+      "end_time": 594.22
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 597.42,
+      "end_time": 598.06
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 598.06,
+      "end_time": 598.62
+    },
+    {
+      "text": "So where are we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 598.94,
+      "end_time": 600.42
+    },
+    {
+      "text": "I just spoke to Tracy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 600.42,
+      "end_time": 601.5
+    },
+    {
+      "text": "Tracy wants us to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 602.7,
+      "end_time": 604.38
+    },
+    {
+      "text": "Get a deal done with Andrew.",
+      "speaker_name": "Andrew Day",
+      "start_time": 606.94,
+      "end_time": 608.26
+    },
+    {
+      "text": "Basically we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 608.26,
+      "end_time": 608.94
+    },
+    {
+      "text": "We got something on the calendar tomorrow because it's not on my calendar.",
+      "speaker_name": "Andrew Day",
+      "start_time": 608.94,
+      "end_time": 611.98
+    },
+    {
+      "text": "Yeah, I was gonna ask you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 612.53,
+      "end_time": 613.89
+    },
+    {
+      "text": "I didn't get any.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 613.89,
+      "end_time": 614.77
+    },
+    {
+      "text": "Calendar invite.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 618.05,
+      "end_time": 619.21
+    },
+    {
+      "text": "I was like.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 619.21,
+      "end_time": 619.73
+    },
+    {
+      "text": "And ask you if you got any.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 619.73,
+      "end_time": 621.33
+    },
+    {
+      "text": "But I mean, we can just follow, follow him up and be like, where's the invite?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 621.57,
+      "end_time": 625.61
+    },
+    {
+      "text": "Because they said it's gonna come from their side.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 625.61,
+      "end_time": 627.93
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 627.93,
+      "end_time": 628.29
+    },
+    {
+      "text": "I don't know what time though, because I'm.",
+      "speaker_name": "Andrew Day",
+      "start_time": 629.65,
+      "end_time": 631.17
+    },
+    {
+      "text": "I'm out all day tomorrow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 631.17,
+      "end_time": 632.33
+    },
+    {
+      "text": "It's Sherborne Christmas Carol service.",
+      "speaker_name": "Andrew Day",
+      "start_time": 632.33,
+      "end_time": 635.01
+    },
+    {
+      "text": "Where's that email?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 638.86,
+      "end_time": 639.58
+    },
+    {
+      "text": "He said, 9 to 10am this Thursday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 644.7,
+      "end_time": 648.3
+    },
+    {
+      "text": "Does that work?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 649.02,
+      "end_time": 649.82
+    },
+    {
+      "text": "And you then said, yes, you can do that time.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 649.82,
+      "end_time": 651.94
+    },
+    {
+      "text": "And he said, okay, we'll send it in.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 651.94,
+      "end_time": 653.74
+    },
+    {
+      "text": "All right, let me put on my calendar anyway, so I know where it is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 654.22,
+      "end_time": 657.74
+    },
+    {
+      "text": "9:15.",
+      "speaker_name": "Andrew Day",
+      "start_time": 657.82,
+      "end_time": 658.54
+    },
+    {
+      "text": "And is Tracy going to be in the uk?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 663.27,
+      "end_time": 665.11
+    },
+    {
+      "text": "Like, did you ask her that question?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 665.35,
+      "end_time": 667.27
+    },
+    {
+      "text": "I think that was one of.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 667.51,
+      "end_time": 668.95
+    },
+    {
+      "text": "Yeah, she's going to be here on the 19th, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 669.51,
+      "end_time": 672.15
+    },
+    {
+      "text": "Oh, for Christmas?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 672.15,
+      "end_time": 673.51
+    },
+    {
+      "text": "I. I suppose, yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 673.51,
+      "end_time": 675.67
+    },
+    {
+      "text": "That's great.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 676.47,
+      "end_time": 677.19
+    },
+    {
+      "text": "Then she'll have to kind of.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 677.19,
+      "end_time": 679.91
+    },
+    {
+      "text": "Where is he based in?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 681.03,
+      "end_time": 682.39
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 682.39,
+      "end_time": 682.79
+    },
+    {
+      "text": "What's the name started with an N.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 683.11,
+      "end_time": 685.75
+    },
+    {
+      "text": "Mort.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 687.83,
+      "end_time": 689.15
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 692.9,
+      "end_time": 693.22
+    },
+    {
+      "text": "Norfolk.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 694.18,
+      "end_time": 694.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 694.82,
+      "end_time": 695.22
+    },
+    {
+      "text": "North.",
+      "speaker_name": "Andrew Day",
+      "start_time": 695.46,
+      "end_time": 695.86
+    },
+    {
+      "text": "No, okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 697.14,
+      "end_time": 698.5
+    },
+    {
+      "text": "Not Norfolk, is Norfolk.",
+      "speaker_name": "Andrew Day",
+      "start_time": 699.14,
+      "end_time": 701.06
+    },
+    {
+      "text": "Norfolk.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 701.54,
+      "end_time": 702.34
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 702.34,
+      "end_time": 702.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 702.7,
+      "end_time": 702.9
+    },
+    {
+      "text": "I need to kind of get these British pronunciations right.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 702.9,
+      "end_time": 706.02
+    },
+    {
+      "text": "Norfolk.",
+      "speaker_name": "Andrew Day",
+      "start_time": 707.62,
+      "end_time": 708.42
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 711.06,
+      "end_time": 711.54
+    },
+    {
+      "text": "Either he's gonna come there or wherever.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 712.42,
+      "end_time": 714.98
+    },
+    {
+      "text": "We set up a face to face meeting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 718.42,
+      "end_time": 720.34
+    },
+    {
+      "text": "Potentially.",
+      "speaker_name": "Andrew Day",
+      "start_time": 724.58,
+      "end_time": 725.38
+    },
+    {
+      "text": "She can come to you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 725.38,
+      "end_time": 728.26
+    },
+    {
+      "text": "She's in Hertfordshire.",
+      "speaker_name": "Andrew Day",
+      "start_time": 728.98,
+      "end_time": 731.539
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 732.42,
+      "end_time": 732.9
+    },
+    {
+      "text": "Her.",
+      "speaker_name": "Andrew Day",
+      "start_time": 734.74,
+      "end_time": 735.14
+    },
+    {
+      "text": "Okay, Hertfordshire.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 735.54,
+      "end_time": 737.38
+    },
+    {
+      "text": "That's like the other university.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 740.1,
+      "end_time": 741.54
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 749.73,
+      "end_time": 750.13
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 750.29,
+      "end_time": 750.73
+    },
+    {
+      "text": "So exciting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 750.73,
+      "end_time": 751.41
+    },
+    {
+      "text": "I think that Tracy could do a deal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 751.41,
+      "end_time": 754.13
+    },
+    {
+      "text": "She thinks James is young and she doesn't want to stick around.",
+      "speaker_name": "Andrew Day",
+      "start_time": 754.45,
+      "end_time": 757.41
+    },
+    {
+      "text": "Also, she's worried about the valuation because we've listed the business as 1 million and actually she's done 400,000 plus EBITDA, which would price her around 1.2.",
+      "speaker_name": "Andrew Day",
+      "start_time": 757.97,
+      "end_time": 771.25
+    },
+    {
+      "text": "So we need to get in front of James before they start lowballing her for a million million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 771.25,
+      "end_time": 776.09
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 776.17,
+      "end_time": 778.01
+    },
+    {
+      "text": "All right, so let's see how that plays out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 778.17,
+      "end_time": 780.57
+    },
+    {
+      "text": "Because you've got a meeting with them today, haven't you?",
+      "speaker_name": "Andrew Day",
+      "start_time": 780.57,
+      "end_time": 782.41
+    },
+    {
+      "text": "Yeah, later today at, I think.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 782.73,
+      "end_time": 785.61
+    },
+    {
+      "text": "Yeah, yeah, Later, I think 7pm, UK, if I'm not wrong.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 787.93,
+      "end_time": 792.73
+    },
+    {
+      "text": "So midnight for you, probably.",
+      "speaker_name": "Andrew Day",
+      "start_time": 792.97,
+      "end_time": 795.07
+    },
+    {
+      "text": "No, it's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 795.71,
+      "end_time": 796.55
+    },
+    {
+      "text": "It's all good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 796.55,
+      "end_time": 797.07
+    },
+    {
+      "text": "It's, I think 9:00pm, which is fine.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 797.07,
+      "end_time": 798.83
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 799.39,
+      "end_time": 799.79
+    },
+    {
+      "text": "Yeah, and also I have a meeting with.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 799.87,
+      "end_time": 802.27
+    },
+    {
+      "text": "With Index and Query click as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 802.27,
+      "end_time": 804.75
+    },
+    {
+      "text": "That's all.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 804.75,
+      "end_time": 805.31
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 805.31,
+      "end_time": 805.63
+    },
+    {
+      "text": "Oh, yeah, I saw that on the calendar.",
+      "speaker_name": "Andrew Day",
+      "start_time": 805.63,
+      "end_time": 807.31
+    },
+    {
+      "text": "Yeah, yeah, good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 807.31,
+      "end_time": 809.07
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 809.31,
+      "end_time": 809.67
+    },
+    {
+      "text": "I don't want to be part of that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 809.67,
+      "end_time": 810.83
+    },
+    {
+      "text": "Well, I'm.",
+      "speaker_name": "Andrew Day",
+      "start_time": 812.83,
+      "end_time": 813.79
+    },
+    {
+      "text": "I'm done with these idiots.",
+      "speaker_name": "Andrew Day",
+      "start_time": 813.79,
+      "end_time": 816.19
+    },
+    {
+      "text": "Yeah, me too.",
+      "speaker_name": "Andrew Day",
+      "start_time": 816.67,
+      "end_time": 817.47
+    },
+    {
+      "text": "But I just want to get a deal from Index.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 817.47,
+      "end_time": 820.82
+    },
+    {
+      "text": "Let's see if they can make an offer.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 820.82,
+      "end_time": 822.3
+    },
+    {
+      "text": "Yeah, let's see, let's see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 823.42,
+      "end_time": 824.78
+    },
+    {
+      "text": "No harm done.",
+      "speaker_name": "Andrew Day",
+      "start_time": 824.78,
+      "end_time": 825.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 826.46,
+      "end_time": 826.94
+    },
+    {
+      "text": "Okay, so you've got Query, click on the go, and then we've got quite a few meetings set up for Amir.",
+      "speaker_name": "Andrew Day",
+      "start_time": 827.42,
+      "end_time": 832.46
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 832.94,
+      "end_time": 833.42
+    },
+    {
+      "text": "Finish today, but I've got a couple, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 833.9,
+      "end_time": 838.38
+    },
+    {
+      "text": "Yeah, so, I mean, we got him one for Moburst and then Tyler on Friday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 840.54,
+      "end_time": 845.9
+    },
+    {
+      "text": "Then also Sam's entrusted to have a meeting, so I asked Amir if he could do, because he's in Dubai.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 846.54,
+      "end_time": 852.91
+    },
+    {
+      "text": "Currently.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 852.91,
+      "end_time": 853.27
+    },
+    {
+      "text": "And amir is in PST, like Pacific time zone.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 853.83,
+      "end_time": 857.31
+    },
+    {
+      "text": "So it's like a 12 hours difference.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 857.31,
+      "end_time": 858.83
+    },
+    {
+      "text": "That's the only main issue.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 858.83,
+      "end_time": 861.19
+    },
+    {
+      "text": "So Amir would have to wake up at like 7.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 861.19,
+      "end_time": 863.53
+    },
+    {
+      "text": "7am, 6pm, 6am his time to kind of get on a call with him.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 863.65,
+      "end_time": 867.83
+    },
+    {
+      "text": "Like that's the only issue we have.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 867.83,
+      "end_time": 869.43
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 869.91,
+      "end_time": 870.47
+    },
+    {
+      "text": "Yeah, that's, that's fine.",
+      "speaker_name": "Andrew Day",
+      "start_time": 871.43,
+      "end_time": 872.71
+    },
+    {
+      "text": "Just culturally, just to let you know, people do get up at those sorts of times in LA anyways.",
+      "speaker_name": "Andrew Day",
+      "start_time": 872.71,
+      "end_time": 878.88
+    },
+    {
+      "text": "In la.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 878.88,
+      "end_time": 879.44
+    },
+    {
+      "text": "Yeah, Amir told me.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 879.44,
+      "end_time": 880.92
+    },
+    {
+      "text": "I was like, where are you up?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 880.92,
+      "end_time": 882.52
+    },
+    {
+      "text": "And he's like, oh, we're up like 4:00am and yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 882.52,
+      "end_time": 885.92
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 888.24,
+      "end_time": 888.8
+    },
+    {
+      "text": "And then also Zach, you remember Zach from Cool Company.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 889.44,
+      "end_time": 892.88
+    },
+    {
+      "text": "So he, he'll sign NDA.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 892.96,
+      "end_time": 894.68
+    },
+    {
+      "text": "He's just like, can you send me the im?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 894.68,
+      "end_time": 896.12
+    },
+    {
+      "text": "And I'm like, signed NDA.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 896.12,
+      "end_time": 897.24
+    },
+    {
+      "text": "And he's like, oh, okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 897.24,
+      "end_time": 898.64
+    },
+    {
+      "text": "So yeah, just he.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 899.04,
+      "end_time": 900.4
+    },
+    {
+      "text": "He's gonna sign that today.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 900.4,
+      "end_time": 901.72
+    },
+    {
+      "text": "So we'll able to get a call set up with him.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 901.72,
+      "end_time": 904.16
+    },
+    {
+      "text": "So we got him like in total with substance before this year, which is good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 904.16,
+      "end_time": 910.3
+    },
+    {
+      "text": "I mean, my.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 910.38,
+      "end_time": 911.26
+    },
+    {
+      "text": "A few others might come in as well, but I mean even these are enough.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 911.26,
+      "end_time": 915.18
+    },
+    {
+      "text": "I'm fine with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 915.58,
+      "end_time": 916.42
+    },
+    {
+      "text": "I'm fine with four or five.",
+      "speaker_name": "Andrew Day",
+      "start_time": 916.42,
+      "end_time": 917.74
+    },
+    {
+      "text": "I think it shows that we are not bullshitting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 917.74,
+      "end_time": 921.1
+    },
+    {
+      "text": "We've got a deal flow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 921.82,
+      "end_time": 923.5
+    },
+    {
+      "text": "We're gonna get a deal done.",
+      "speaker_name": "Andrew Day",
+      "start_time": 923.74,
+      "end_time": 925.1
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 925.1,
+      "end_time": 925.42
+    },
+    {
+      "text": "I mean, I told you, like I told them, we told them here that it's a process that takes time.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 925.42,
+      "end_time": 929.98
+    },
+    {
+      "text": "It was just like, ah, it's been 40 days, 30 days.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 929.98,
+      "end_time": 933.1
+    },
+    {
+      "text": "I mean, if he, if he was a bit like calm from the start, I think we would might have these much sooner.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 933.26,
+      "end_time": 939.38
+    },
+    {
+      "text": "But he just kind of like pushed everything and that just ruined everything for us.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 939.38,
+      "end_time": 943.74
+    },
+    {
+      "text": "Like, especially with the listings first where he was like, can you put this that blah, blah, blah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 943.74,
+      "end_time": 948.58
+    },
+    {
+      "text": "And then we just started doing things our own way and now it's giving us results.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 948.58,
+      "end_time": 953.18
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 953.42,
+      "end_time": 953.82
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 954.22,
+      "end_time": 955.34
+    },
+    {
+      "text": "He eventually he gave up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 955.34,
+      "end_time": 956.86
+    },
+    {
+      "text": "Yeah, always just works eventually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 957.18,
+      "end_time": 961.02
+    },
+    {
+      "text": "Okay, so that's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 962.38,
+      "end_time": 963.36
+    },
+    {
+      "text": "That's good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 963.59,
+      "end_time": 964.15
+    },
+    {
+      "text": "Imaginary content.",
+      "speaker_name": "Andrew Day",
+      "start_time": 965.91,
+      "end_time": 966.83
+    },
+    {
+      "text": "Did you chase the Indians up?",
+      "speaker_name": "Andrew Day",
+      "start_time": 966.83,
+      "end_time": 968.15
+    },
+    {
+      "text": "Yeah, so he said that they're away and he's gonna come back to me at the end of this week with questions or an offer.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 968.63,
+      "end_time": 975.75
+    },
+    {
+      "text": "I hope it's an offer, not questions.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 976.31,
+      "end_time": 978.23
+    },
+    {
+      "text": "But yeah, that's what Ashish said, the cfo.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 978.87,
+      "end_time": 983.19
+    },
+    {
+      "text": "Okay, Lisa, I need to chase up at Generation Media.",
+      "speaker_name": "Andrew Day",
+      "start_time": 984.87,
+      "end_time": 988.27
+    },
+    {
+      "text": "Let me just chase her.",
+      "speaker_name": "Andrew Day",
+      "start_time": 988.27,
+      "end_time": 989.23
+    },
+    {
+      "text": "Yeah, I was gonna ask you if you got anything from Lisa because they said they're gonna give an offer.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 989.23,
+      "end_time": 994.19
+    },
+    {
+      "text": "And then it' days since we had last spoken to them.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 994.19,
+      "end_time": 997.49
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1028.46,
+      "end_time": 1028.94
+    },
+    {
+      "text": "They've had spreadsheet for two Days.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1030.14,
+      "end_time": 1032.54
+    },
+    {
+      "text": "And they, yeah, okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1032.54,
+      "end_time": 1036.14
+    },
+    {
+      "text": "And then we've got Nuva.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1036.14,
+      "end_time": 1039.02
+    },
+    {
+      "text": "That's Matt, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1039.02,
+      "end_time": 1040.1
+    },
+    {
+      "text": "Matt's a billion.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1040.1,
+      "end_time": 1040.94
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1041.18,
+      "end_time": 1042.46
+    },
+    {
+      "text": "I did the whole.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1042.62,
+      "end_time": 1043.58
+    },
+    {
+      "text": "I was gonna write a short reply and then I just put that into chat tb.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1043.66,
+      "end_time": 1047.42
+    },
+    {
+      "text": "It was like, can you just exaggerated it or something?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1047.42,
+      "end_time": 1050.09
+    },
+    {
+      "text": "And it gave me a long reply and I sent that over.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1050.09,
+      "end_time": 1052.25
+    },
+    {
+      "text": "So let's see what he replies to that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1052.25,
+      "end_time": 1054.93
+    },
+    {
+      "text": "But yeah, he's, he's just being unreasonable.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1055.17,
+      "end_time": 1057.25
+    },
+    {
+      "text": "I looked into Newer's financials and I'm like, yeah, this guy's nuts.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1057.25,
+      "end_time": 1061.41
+    },
+    {
+      "text": "Literally.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1061.49,
+      "end_time": 1062.05
+    },
+    {
+      "text": "He's doing okay, 800K which is the net profit.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1062.05,
+      "end_time": 1065.45
+    },
+    {
+      "text": "If we remove all those other maybe a few adjustments, it's going to still give him like 600, 650k.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1065.45,
+      "end_time": 1072.85
+    },
+    {
+      "text": "And he came, comes to me with a 400k with a 1x multiple like, ah, nah, never gonna happen.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1073.09,
+      "end_time": 1081.83
+    },
+    {
+      "text": "He, he makes a lot more money running the business than to be acquired by someone.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1083.43,
+      "end_time": 1088.39
+    },
+    {
+      "text": "But yeah, let's see what, what the counter is.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1088.39,
+      "end_time": 1091.87
+    },
+    {
+      "text": "But I mean if, if it doesn't work out, I mean we'll just go back to the market and like the start of next year and I'm sure we're gonna get more better Australian buyers.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1091.87,
+      "end_time": 1100.95
+    },
+    {
+      "text": "For new work at least.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1102.64,
+      "end_time": 1104
+    },
+    {
+      "text": "Like we haven't got results.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1104,
+      "end_time": 1106.96
+    },
+    {
+      "text": "But I think we.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1107.04,
+      "end_time": 1107.92
+    },
+    {
+      "text": "What, what's this two weeks gonna do is gonna come kind of calm our outreach a little bit, so we might get more results.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1108.24,
+      "end_time": 1116.4
+    },
+    {
+      "text": "Because I've asked my friend around, he, he works like he doesn't really do what we do, but he, he does outreach people a lot.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1117.999,
+      "end_time": 1126.08
+    },
+    {
+      "text": "Like a lot more than us because he outreaches individual people, whatever.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1126.08,
+      "end_time": 1130.28
+    },
+    {
+      "text": "He's recruiting, recruiting business, whatever that is.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1130.28,
+      "end_time": 1132.9
+    },
+    {
+      "text": "And he said that we gave our systems a week, a week or two break and then started out preaching people again.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1133.22,
+      "end_time": 1140.54
+    },
+    {
+      "text": "And it just, it now works.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1140.54,
+      "end_time": 1143.02
+    },
+    {
+      "text": "So I guess it sometimes needs a bit, bit of a rest.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1143.02,
+      "end_time": 1146.1
+    },
+    {
+      "text": "So with, I guess with these holidays we might just.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1147.14,
+      "end_time": 1149.94
+    },
+    {
+      "text": "You know, be able to do that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1151.54,
+      "end_time": 1153.54
+    },
+    {
+      "text": "And then from next year onwards, like January onwards, I think we, we might just start outreaching people again.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1153.54,
+      "end_time": 1159.58
+    },
+    {
+      "text": "Yeah, let's see what happens then, huh?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1161.34,
+      "end_time": 1163.86
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1163.86,
+      "end_time": 1164.3
+    },
+    {
+      "text": "Okay, so who's left?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1165.74,
+      "end_time": 1167.58
+    },
+    {
+      "text": "We have.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1167.74,
+      "end_time": 1168.42
+    },
+    {
+      "text": "You're doing Query Click Pro sales.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1168.42,
+      "end_time": 1170.3
+    },
+    {
+      "text": "We discussed om.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1170.3,
+      "end_time": 1171.74
+    },
+    {
+      "text": "I just chased Jeff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1171.9,
+      "end_time": 1172.94
+    },
+    {
+      "text": "We got the offer for om.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1172.94,
+      "end_time": 1174.3
+    },
+    {
+      "text": "Yeah, I saw that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1174.62,
+      "end_time": 1175.66
+    },
+    {
+      "text": "It's a great offer.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1175.82,
+      "end_time": 1176.7
+    },
+    {
+      "text": "It's like 5, 505, 550, which is.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1176.7,
+      "end_time": 1180.94
+    },
+    {
+      "text": "Closer to it, 80%.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1181.34,
+      "end_time": 1183.91
+    },
+    {
+      "text": "And then what happens?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1184.79,
+      "end_time": 1185.83
+    },
+    {
+      "text": "Jeff doesn't reply.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1185.99,
+      "end_time": 1187.11
+    },
+    {
+      "text": "Yeah, typical of death.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1189.51,
+      "end_time": 1190.79
+    },
+    {
+      "text": "All right, so that's, that's everybody, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1192.87,
+      "end_time": 1195.43
+    },
+    {
+      "text": "That's everyone.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1195.43,
+      "end_time": 1196.07
+    },
+    {
+      "text": "Pretty Much.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1197.91,
+      "end_time": 1198.55
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1201.35,
+      "end_time": 1201.83
+    },
+    {
+      "text": "Well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1201.91,
+      "end_time": 1202.31
+    },
+    {
+      "text": "Right, so I've got quite a bit of admin to get through to make sure that we set up all these meetings with super awesome.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1204.39,
+      "end_time": 1211.02
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1211.02,
+      "end_time": 1211.3
+    },
+    {
+      "text": "So did Snare.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1215.06,
+      "end_time": 1216.26
+    },
+    {
+      "text": "So are you gonna set up a meeting with.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1216.74,
+      "end_time": 1219.14
+    },
+    {
+      "text": "What's his name?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1219.78,
+      "end_time": 1220.74
+    },
+    {
+      "text": "I forgot the name.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1220.82,
+      "end_time": 1221.78
+    },
+    {
+      "text": "Yeah, the snare and the other guy.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1224.5,
+      "end_time": 1226.82
+    },
+    {
+      "text": "Yeah, something starting with a G. I don't know what.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1227.3,
+      "end_time": 1231.54
+    },
+    {
+      "text": "It's not him now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1231.86,
+      "end_time": 1232.7
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1232.7,
+      "end_time": 1233.06
+    },
+    {
+      "text": "That was Gillard.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1233.7,
+      "end_time": 1234.66
+    },
+    {
+      "text": "Gillard.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1234.9,
+      "end_time": 1235.62
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1235.7,
+      "end_time": 1236.1
+    },
+    {
+      "text": "Gillard is the coo, but he's also a founder.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1236.1,
+      "end_time": 1239.18
+    },
+    {
+      "text": "So everybody's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1239.26,
+      "end_time": 1240.1
+    },
+    {
+      "text": "Oh.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1240.1,
+      "end_time": 1240.46
+    },
+    {
+      "text": "Which is good enough I guess.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1240.46,
+      "end_time": 1241.74
+    },
+    {
+      "text": "Like, you know, founder and the CEO is I think more better.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1241.74,
+      "end_time": 1245.98
+    },
+    {
+      "text": "A better person to kind of contact with initial conversations.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1245.98,
+      "end_time": 1249.34
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1251.18,
+      "end_time": 1251.74
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1251.74,
+      "end_time": 1252.22
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1252.22,
+      "end_time": 1252.5
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1252.5,
+      "end_time": 1252.78
+    },
+    {
+      "text": "So I guess we're good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1253.98,
+      "end_time": 1255.46
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1255.46,
+      "end_time": 1255.82
+    },
+    {
+      "text": "I just hope we get it off like OMM PR are gonna close.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1256.06,
+      "end_time": 1259.98
+    },
+    {
+      "text": "Hopefully.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1261.58,
+      "end_time": 1262.22
+    },
+    {
+      "text": "I mean nothing's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1262.22,
+      "end_time": 1263.63
+    },
+    {
+      "text": "There's nothing else left in that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1264.03,
+      "end_time": 1266.59
+    },
+    {
+      "text": "Just need to sign the LOI and then just start with due diligence.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1266.83,
+      "end_time": 1270.67
+    },
+    {
+      "text": "And even with due diligence, I think it should not take more than a week for us.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1271.39,
+      "end_time": 1275.47
+    },
+    {
+      "text": "I mean if use of corporates, of course.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1275.47,
+      "end_time": 1277.55
+    },
+    {
+      "text": "Because he.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1279.23,
+      "end_time": 1279.87
+    },
+    {
+      "text": "He's like the slowest in the chain when it comes to getting us financials.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1279.87,
+      "end_time": 1283.95
+    },
+    {
+      "text": "And I understand his point.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1285.95,
+      "end_time": 1287.71
+    },
+    {
+      "text": "Like he has a whole other side of the business he needs to look after.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1287.71,
+      "end_time": 1292.54
+    },
+    {
+      "text": "But still, I mean this should be a priority for.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1292.54,
+      "end_time": 1295.78
+    },
+    {
+      "text": "For at least a while.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1295.78,
+      "end_time": 1296.9
+    },
+    {
+      "text": "Yeah, Exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1300.1,
+      "end_time": 1301.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1302.5,
+      "end_time": 1303.06
+    },
+    {
+      "text": "That's 11:00am ET.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1303.3,
+      "end_time": 1306.263
+    },
+    {
+      "text": "4:00pm 16, 8.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1306.528,
+      "end_time": 1310.38
+    },
+    {
+      "text": "This is 8:00am For.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1310.38,
+      "end_time": 1312.02
+    },
+    {
+      "text": "For Amir Tomorrow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1312.74,
+      "end_time": 1315.14
+    },
+    {
+      "text": "Tomorrow.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1317.08,
+      "end_time": 1317.64
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1318.04,
+      "end_time": 1318.44
+    },
+    {
+      "text": "He's having a cold Tyler on 8am as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1318.44,
+      "end_time": 1322.84
+    },
+    {
+      "text": "On.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1323.08,
+      "end_time": 1323.48
+    },
+    {
+      "text": "On the Friday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1323.56,
+      "end_time": 1324.68
+    },
+    {
+      "text": "On Friday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1324.84,
+      "end_time": 1325.44
+    },
+    {
+      "text": "That is.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1325.44,
+      "end_time": 1325.96
+    },
+    {
+      "text": "Who did.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1329,
+      "end_time": 1329.56
+    },
+    {
+      "text": "Who did say.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1330.2,
+      "end_time": 1331.64
+    },
+    {
+      "text": "No, it is his name.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1338.52,
+      "end_time": 1339.96
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1339.96,
+      "end_time": 1340.44
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1341.8,
+      "end_time": 1342.12
+    },
+    {
+      "text": "Over.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1347.88,
+      "end_time": 1348.28
+    },
+    {
+      "text": "I mean the.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1351.4,
+      "end_time": 1352.12
+    },
+    {
+      "text": "The effort it took us to get on.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1352.36,
+      "end_time": 1354.36
+    },
+    {
+      "text": "Get these peoples on call with Amir is just like, you know, because everyone comes to me and they're like, oh, this is not our priority.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1354.76,
+      "end_time": 1362.68
+    },
+    {
+      "text": "But I'm like, yeah, can you please just have a chat with him?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1362.68,
+      "end_time": 1364.96
+    },
+    {
+      "text": "We'll see.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1364.96,
+      "end_time": 1365.48
+    },
+    {
+      "text": "And there's like a lot of value to the business.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1365.56,
+      "end_time": 1367.6
+    },
+    {
+      "text": "So literally we had to kind of make convince people to get on a call with him.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1367.6,
+      "end_time": 1373
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1374.68,
+      "end_time": 1375.24
+    },
+    {
+      "text": "So yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1377,
+      "end_time": 1378.2
+    },
+    {
+      "text": "Hopefully they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1384.04,
+      "end_time": 1384.8
+    },
+    {
+      "text": "They get it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1384.8,
+      "end_time": 1385.48
+    },
+    {
+      "text": "Get it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1386.12,
+      "end_time": 1386.68
+    },
+    {
+      "text": "It's up to Amir now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1386.68,
+      "end_time": 1387.88
+    },
+    {
+      "text": "We've given him the platform.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1387.88,
+      "end_time": 1389.64
+    },
+    {
+      "text": "Now it's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1391.32,
+      "end_time": 1392
+    },
+    {
+      "text": "He has to pitch.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1392,
+      "end_time": 1393
+    },
+    {
+      "text": "Basically pitch his business.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1393,
+      "end_time": 1394.76
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1397.07,
+      "end_time": 1397.87
+    },
+    {
+      "text": "Core will get somewhere like with him.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1400.43,
+      "end_time": 1403.79
+    },
+    {
+      "text": "He just needs to come calm down a bit.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1403.87,
+      "end_time": 1406.51
+    },
+    {
+      "text": "We've got a new client as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1407.63,
+      "end_time": 1409.07
+    },
+    {
+      "text": "Let me show you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1409.07,
+      "end_time": 1409.83
+    },
+    {
+      "text": "Is.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1409.83,
+      "end_time": 1410.19
+    },
+    {
+      "text": "Oh, really?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1410.67,
+      "end_time": 1411.31
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1411.549,
+      "end_time": 1412.029
+    },
+    {
+      "text": "A sell side by side.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1412.35,
+      "end_time": 1413.63
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1415.87,
+      "end_time": 1416.43
+    },
+    {
+      "text": "This web design.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1421.8,
+      "end_time": 1422.76
+    },
+    {
+      "text": "Web design.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1424.44,
+      "end_time": 1425.08
+    },
+    {
+      "text": "Another launch.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1425.24,
+      "end_time": 1426.2
+    },
+    {
+      "text": "This guy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1429.4,
+      "end_time": 1430.12
+    },
+    {
+      "text": "It seems a bit more balanced Pixel deck circled.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1430.6,
+      "end_time": 1434.68
+    },
+    {
+      "text": "I'm just gonna get him signed this week, and then we'll have to onboard him over the next few days.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1437.16,
+      "end_time": 1444.68
+    },
+    {
+      "text": "And then if you can get a listing up next week and we get it out to the mailing list before Christmas would be Good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1445.24,
+      "end_time": 1452.06
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1452.46,
+      "end_time": 1453.18
+    },
+    {
+      "text": "100%.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1453.18,
+      "end_time": 1453.9
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1453.9,
+      "end_time": 1454.34
+    },
+    {
+      "text": "So they're based in the UK and yeah, I mean, they look amazing.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1454.34,
+      "end_time": 1458.14
+    },
+    {
+      "text": "Like, from their website, I feel the client and the work.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1458.14,
+      "end_time": 1461.02
+    },
+    {
+      "text": "A lot of people are interested in these companies, especially on our mailing list, so we should be able to get more people.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1462.3,
+      "end_time": 1469.18
+    },
+    {
+      "text": "I just hope Dario does not sign the NDA.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1469.42,
+      "end_time": 1471.62
+    },
+    {
+      "text": "I mean, I'm not sure if we have removed him from the process, but.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1471.62,
+      "end_time": 1476.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1476.78,
+      "end_time": 1477.26
+    },
+    {
+      "text": "Look, all right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1481.72,
+      "end_time": 1482.16
+    },
+    {
+      "text": "Don't they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1482.16,
+      "end_time": 1482.6
+    },
+    {
+      "text": "Based in London?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1484.76,
+      "end_time": 1486
+    },
+    {
+      "text": "I think it's just outside London.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1486,
+      "end_time": 1488.84
+    },
+    {
+      "text": "Where's, like, Glenn, Elizabeth and King Charles on the clients?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1489.08,
+      "end_time": 1494.28
+    },
+    {
+      "text": "Yeah, yeah, I got a lot of royal stuff, which is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1495.48,
+      "end_time": 1497.72
+    },
+    {
+      "text": "Royal stuff.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1497.72,
+      "end_time": 1498.52
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1498.52,
+      "end_time": 1498.92
+    },
+    {
+      "text": "Looks good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1499.72,
+      "end_time": 1500.4
+    },
+    {
+      "text": "Like.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1500.4,
+      "end_time": 1500.68
+    },
+    {
+      "text": "Looks really nice.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1500.68,
+      "end_time": 1501.56
+    },
+    {
+      "text": "Yeah, I think they'll be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1502.28,
+      "end_time": 1503.16
+    },
+    {
+      "text": "I think they'll do well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1503.16,
+      "end_time": 1504
+    },
+    {
+      "text": "I think we will get a lot of interest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1504,
+      "end_time": 1505.24
+    },
+    {
+      "text": "They're a B corp as well, so, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1505.24,
+      "end_time": 1507.4
+    },
+    {
+      "text": "They work with a lot of the government agencies.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1510.39,
+      "end_time": 1512.55
+    },
+    {
+      "text": "UK Export finance.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1513.03,
+      "end_time": 1514.71
+    },
+    {
+      "text": "Decent sized team.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1517.19,
+      "end_time": 1518.31
+    },
+    {
+      "text": "Yeah, it's good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1518.63,
+      "end_time": 1519.43
+    },
+    {
+      "text": "I mean, it looks really nice.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1519.43,
+      "end_time": 1520.87
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1522.39,
+      "end_time": 1522.79
+    },
+    {
+      "text": "See, this is like the type of business people would want to go to the UK for, not, like, very quick.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1522.79,
+      "end_time": 1527.75
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1528.87,
+      "end_time": 1529.63
+    },
+    {
+      "text": "And this, I think we can sell it as well because the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1529.63,
+      "end_time": 1532.59
+    },
+    {
+      "text": "The Windsor palace is where the royal family.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1532.59,
+      "end_time": 1536.17
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1536.89,
+      "end_time": 1537.45
+    },
+    {
+      "text": "And so these guys are in Windsor.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1537.85,
+      "end_time": 1540.01
+    },
+    {
+      "text": "Windsor is just a tiny, tiny town.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1540.01,
+      "end_time": 1542.09
+    },
+    {
+      "text": "So they're in the town where King Charles lives.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1542.17,
+      "end_time": 1545.13
+    },
+    {
+      "text": "Yeah, I mean.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1547.37,
+      "end_time": 1548.09
+    },
+    {
+      "text": "Yeah, we should mention that it's in Windsor.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1550.41,
+      "end_time": 1552.77
+    },
+    {
+      "text": "Terrible.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1552.77,
+      "end_time": 1553.45
+    },
+    {
+      "text": "So, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1553.61,
+      "end_time": 1555.93
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1555.93,
+      "end_time": 1556.49
+    },
+    {
+      "text": "100.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1556.73,
+      "end_time": 1557.21
+    },
+    {
+      "text": "What's their financials like?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1557.85,
+      "end_time": 1559.33
+    },
+    {
+      "text": "EBITDA.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1559.33,
+      "end_time": 1559.98
+    },
+    {
+      "text": "Good question.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1561.25,
+      "end_time": 1561.73
+    },
+    {
+      "text": "I can't remember.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1561.73,
+      "end_time": 1562.53
+    },
+    {
+      "text": "I mean, they're not massive, but they're big enough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1562.85,
+      "end_time": 1565.25
+    },
+    {
+      "text": "Let me just pull it up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1565.33,
+      "end_time": 1566.45
+    },
+    {
+      "text": "I mean, we could get a.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1567.17,
+      "end_time": 1569.49
+    },
+    {
+      "text": "Like, if they're.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1569.57,
+      "end_time": 1570.33
+    },
+    {
+      "text": "I mean, it depends.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1570.33,
+      "end_time": 1571.57
+    },
+    {
+      "text": "Like, I've seen companies like these go on for, like, a higher multiple.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1571.57,
+      "end_time": 1576.45
+    },
+    {
+      "text": "We could charge a premium.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1576.77,
+      "end_time": 1578.29
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1578.29,
+      "end_time": 1578.53
+    },
+    {
+      "text": "I mean, it's a royal business in Windsor, so I guess a tweak should just come in from there.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1578.53,
+      "end_time": 1584.69
+    },
+    {
+      "text": "Not sure Americans understand this.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1590.38,
+      "end_time": 1592.22
+    },
+    {
+      "text": "They do.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1593.42,
+      "end_time": 1593.98
+    },
+    {
+      "text": "1.5 million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1594.7,
+      "end_time": 1595.9
+    },
+    {
+      "text": "EBITDA 110,000.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1595.9,
+      "end_time": 1597.54
+    },
+    {
+      "text": "It's not massive, but let's say we get a 5x on that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1597.54,
+      "end_time": 1600.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1600.94,
+      "end_time": 1601.42
+    },
+    {
+      "text": "5X.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1603.26,
+      "end_time": 1603.94
+    },
+    {
+      "text": "We can maybe.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1603.94,
+      "end_time": 1605.02
+    },
+    {
+      "text": "The clients and everything.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1606.7,
+      "end_time": 1607.82
+    },
+    {
+      "text": "If.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1607.82,
+      "end_time": 1608.22
+    },
+    {
+      "text": "If the clients and everything works out, I think we can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1608.3,
+      "end_time": 1611.02
+    },
+    {
+      "text": "Oxford 5x.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1611.42,
+      "end_time": 1612.54
+    },
+    {
+      "text": "B Corp. Yep.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1615.42,
+      "end_time": 1618.06
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1618.06,
+      "end_time": 1618.46
+    },
+    {
+      "text": "So not loads of money for us, but it's paying clients, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1618.46,
+      "end_time": 1620.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1620.94,
+      "end_time": 1621.5
+    },
+    {
+      "text": "Yeah, all good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1621.5,
+      "end_time": 1622.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1622.58,
+      "end_time": 1623.02
+    },
+    {
+      "text": "I mean, we just kind of need to get our portfolio up.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1623.5,
+      "end_time": 1626.62
+    },
+    {
+      "text": "I think once we.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1626.62,
+      "end_time": 1627.9
+    },
+    {
+      "text": "Once you put, like, more trophies in there, I think we'll get better clients.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1627.9,
+      "end_time": 1631.5
+    },
+    {
+      "text": "I mean, that's how everyone goes up, right?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1631.5,
+      "end_time": 1633.42
+    },
+    {
+      "text": "So, yeah, everyone wants case studies, basically.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1634.06,
+      "end_time": 1637.5
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1637.5,
+      "end_time": 1637.94
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1637.94,
+      "end_time": 1638.38
+    },
+    {
+      "text": "I was reading somewhere, and all the M and A firms, like, do you think Go Merge is better than us?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1638.38,
+      "end_time": 1643.09
+    },
+    {
+      "text": "They just have things to showcase.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1643.41,
+      "end_time": 1646.45
+    },
+    {
+      "text": "I guess that's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1646.45,
+      "end_time": 1647.21
+    },
+    {
+      "text": "That's the whole thing, like, whatever, show sells kind of thing.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1647.21,
+      "end_time": 1650.65
+    },
+    {
+      "text": "So we just need to get more companies sold, and that's how we just get more and better clients.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1650.65,
+      "end_time": 1656.61
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1659.17,
+      "end_time": 1660.21
+    },
+    {
+      "text": "Just the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1660.21,
+      "end_time": 1660.77
+    },
+    {
+      "text": "The more listings, the better.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1660.77,
+      "end_time": 1661.97
+    },
+    {
+      "text": "The better chance.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1661.97,
+      "end_time": 1662.69
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1662.85,
+      "end_time": 1664.21
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1665.25,
+      "end_time": 1666.01
+    },
+    {
+      "text": "Let's leave it there, then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1666.01,
+      "end_time": 1666.93
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1667.01,
+      "end_time": 1667.41
+    },
+    {
+      "text": "What I've done for the next few days, I've left all the M and A meetings in for Mondays and Fridays just in case we need to catch up and then delete them or I've not confirmed them for the Wednesdays.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1669.05,
+      "end_time": 1683.93
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1684.33,
+      "end_time": 1684.77
+    },
+    {
+      "text": "Because I don't think we need to meet every single one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1684.77,
+      "end_time": 1688.57
+    },
+    {
+      "text": "Yeah, there is something going on then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1688.65,
+      "end_time": 1692.57
+    },
+    {
+      "text": "I've left it there just in case.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1692.57,
+      "end_time": 1693.85
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1694.33,
+      "end_time": 1694.89
+    },
+    {
+      "text": "And I also have, like, WhatsApp, so, I mean, if there's, like, anything I could just ask you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1694.97,
+      "end_time": 1699.84
+    },
+    {
+      "text": "You can just ask me or call me.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1699.84,
+      "end_time": 1701.64
+    },
+    {
+      "text": "Like, I'm available, so.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1701.64,
+      "end_time": 1704.12
+    },
+    {
+      "text": "Yeah, that's also an option.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1704.12,
+      "end_time": 1705.56
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1706.44,
+      "end_time": 1707.56
+    },
+    {
+      "text": "All right, I'll see you in a bit, then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1707.8,
+      "end_time": 1709.24
+    },
+    {
+      "text": "Let me know if you need me later on or if there's any exciting news from James.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1709.24,
+      "end_time": 1713.32
+    },
+    {
+      "text": "If he makes an offer, then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1713.32,
+      "end_time": 1714.52
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1715,
+      "end_time": 1715.48
+    },
+    {
+      "text": "Okay, perfect.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1715.48,
+      "end_time": 1716.32
+    },
+    {
+      "text": "Yeah, I'll let you know.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1716.32,
+      "end_time": 1717.72
+    },
+    {
+      "text": "All right, Andy, have a great day.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1718.2,
+      "end_time": 1720.04
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1720.76,
+      "end_time": 1721.32
+    },
+    {
+      "text": "Cheers, Bye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1721.48,
+      "end_time": 1722.44
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A",
+      "Deal Flow",
+      "Valuation",
+      "IPO",
+      "Client Onboarding",
+      "Outreach"
+    ],
+    "action_items": "\n**Andrew Day**\nChase up financial and deal information from Andy regarding UK and US numbers (08:40)\nFollow up with Lisa at Generation Media for offer and updates (16:30)\nChase Indian contacts for updates on offer/questions from Ashish, CFO (16:10)\nManage admin and scheduling for upcoming M&A meetings, including setting up meetings for super awesome (20:01)\nEnsure new UK web design client signs agreement and onboard them (23:30)\n\n**Ahmed Zia**\nAttend scheduled call with Tracy and James regarding deal and valuation at 9-10 AM Thursday, also follow up for calendar invite if missing (10:00)\nConduct meetings with Index and Query Click as planned (13:00)\nObtain NDA from Zach and arrange call with him (15:00)\nCoordinate meetings for Amir with clients despite time zone challenges (14:00)\nContinue outreach in Australian market starting January after holidays (18:50)\nPrepare listing for new UK web design client and organize distribution to mailing list pre-Christmas (23:40)\nProvide updates to Andrew Day about offers from James or others (28:26)\n",
+    "outline": null,
+    "overview": "- **Acquisition Strategy:** Focus on larger, tech-oriented deals to boost EBITDA and IPO readiness over smaller agency acquisitions.  \n- **Sales Pipeline Confidence:** Four to five solid prospects with signed NDAs show momentum; securing timely client onboarding remains crucial.  \n- **Financial Reporting Issues:** Delays in financial consolidation are harming deal negotiation; modernizing reporting tools is essential.  \n- **Operational Coordination:** Meetings are tightly scheduled to maintain momentum; communication via WhatsApp aids rapid updates and responses.  \n- **Market Positioning:** Emphasis on tech and marketing stack acquisitions aims to attract higher-caliber clients, enhancing firm’s market image.  \n- **Risk Management Plans:** Outreach pauses for holidays; follow-ups prioritized to ensure engagement continues into the next year.",
+    "short_summary": "The team discussed strategies to secure larger acquisitions to accelerate IPO readiness and enhance EBITDA, emphasizing a preference for tech-oriented marketing stack companies rather than small founder-led agencies. Andrew Day noted interest from Andrew Goldberg, who has faced challenges with small agency acquisitions and is pivoting towards tech deals, having already closed three VC investments. The team aims to leverage their market knowledge for quicker, larger acquisitions and is considering acquiring Substance to strengthen their platform. Despite ongoing negotiations with smaller prospects like Newa, which face valuation issues, the current sales pipeline includes several solid prospects with signed NDAs. However, delays in financial data consolidation are impacting negotiation timelines, prompting suggestions to modernize reporting processes. Coordination of meetings is crucial for maintaining deal momentum, while the firm positions itself to attract higher-caliber clients through a focus on quality acquisitions, aiming for a virtuous cycle of successful transactions.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01KBJ26Y0QA9SD2WYTMABTDXAR",
+  "audio_url": "https://cdn.fireflies.ai/01KBJ26Y0QA9SD2WYTMABTDXAR/audio.mp3?Expires=1773220831&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0JKMjZZMFFBOVNEMldZVE1BQlREWEFSL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgzMX19fV19&Signature=o43Tikoq1xf-7MkTV4NBgV2snwV7IatDG0zP7SBuqg-auNdfUQo6C5hSzTaG6Nsk0Qt30H6Pz8ah9qQRtPBt6DstRm3JXY7P9e0L5o9pczfncNW4b9Ubxj3TTQHBkeqb1g8z9MRo1xJNqlAw2-VaL3v-CppmzkwsvGVgdEQB8x2uDW-o57CI9TImFA196B4N3MV-GtN~9wulPPa2v2cZtEQwsx-Xu3eEVjjnRgEimhNIiZN-jM0uNyljDySGts6-8fuu0pXZk7ZmC2pa4L-h3bPtM2csBtHrYiZdtQqIRQ9OPZRxpOuT1KG-7r7w6cm2OKWfs495nF7Tvx5AojsCAQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01KBJ26Y0QA9SD2WYTMABTDXAR/video.mp4?Expires=1773220831&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0JKMjZZMFFBOVNEMldZVE1BQlREWEFSL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgzMX19fV19&Signature=P8Y37VEGq4Igiy8QsYcLqjtcgHh8sZWPoqYlMF4ePkSdizEWubRP7ZgbVzcabNO5aKj49y7GcrFPcfzZLYB9vuxazKLLZYXgYqgO5eL9TVoMjPs3-XZDVu1ml4MEp8awJNIrZRqI3aevqWk7KOXriOHXAKAo7ms2jFULbjUYMrbtFA6fDZy~6XuoLD7TYJRR4wK-HTLHDtqgay7YCOdkcM3wVzpPO~aFY0ag132xkSKGWxrryK8u80AQ8VdVYhsA2MI-yUqfEc2sTqSdTLzXDyARKnSVkkXp3i0twC74hk2Ma3PI7szeFGutq2k0REY~CisIecGjB0n-pdA4TrhLgA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

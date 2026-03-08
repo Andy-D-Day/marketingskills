@@ -1,0 +1,871 @@
+{
+  "id": "01JWRC795T24CSRYY7TDW83GQ2",
+  "title": "Meet – Capital A x QueryClick - Weekly Catch Up",
+  "date": 1748869500000,
+  "dateString": "2025-06-02T13:07:13.000Z",
+  "duration": 8,
+  "participants": [
+    "ahmed.zia@capitala.co,chris.liversidge@queryclick.com,andrew.day@capitala.co,fitzpatrick.brian1@gmail.com,richard.lewis@queryclick.com",
+    "ahmed.zia@capitala.co",
+    "chris.liversidge@queryclick.com",
+    "andrew.day@capitala.co",
+    "fitzpatrick.brian1@gmail.com",
+    "richard.lewis@queryclick.com"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris.liversidge@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "fitzpatrick.brian1@gmail.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard.lewis@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Oh.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 0.72,
+      "end_time": 1.04
+    },
+    {
+      "text": "Leon.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 7.36,
+      "end_time": 7.92
+    },
+    {
+      "text": "I can hear you.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 18.56,
+      "end_time": 19.44
+    },
+    {
+      "text": "I'm not sure why my video is not working.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 19.68,
+      "end_time": 21.68
+    },
+    {
+      "text": "You can carry on, Amit.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 34.73,
+      "end_time": 35.77
+    },
+    {
+      "text": "Yeah, so that's the update for this week.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 36.89,
+      "end_time": 41.29
+    },
+    {
+      "text": "Our truth is going on.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 41.93,
+      "end_time": 43.21
+    },
+    {
+      "text": "We're expecting more to come in.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 43.21,
+      "end_time": 44.81
+    },
+    {
+      "text": "Don't annoy.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 44.97,
+      "end_time": 45.77
+    },
+    {
+      "text": "But yeah, for the timing, we're setting up calls with these as we expect.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 46.65,
+      "end_time": 50.57
+    },
+    {
+      "text": "Okay, so we got three.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 52.26,
+      "end_time": 53.22
+    },
+    {
+      "text": "Three that we know of and then there's two more that you're going to send over.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 53.46,
+      "end_time": 56.34
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 57.38,
+      "end_time": 58.22
+    },
+    {
+      "text": "So three of them are have signed the NDA and they have the im.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 58.22,
+      "end_time": 61.78
+    },
+    {
+      "text": "Two of them we're explaining basically.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 61.94,
+      "end_time": 63.94
+    },
+    {
+      "text": "So they're interested as an interest on the teaser on, but we would screen them just to be more sure outside.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 64.02,
+      "end_time": 74.98
+    },
+    {
+      "text": "So we have like five in the play at the moment.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 75.06,
+      "end_time": 77.47
+    },
+    {
+      "text": "Any questions?",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 83.3,
+      "end_time": 84.02
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 84.82,
+      "end_time": 85.22
+    },
+    {
+      "text": "Is there a central spreadsheet somewhere, Ahmed, that this is all held, that we can just keep reverting back to?",
+      "speaker_name": "Richard Lewis",
+      "start_time": 85.78,
+      "end_time": 89.94
+    },
+    {
+      "text": "Okay, okay, yeah, we can, we can get it on.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 90.34,
+      "end_time": 93.14
+    },
+    {
+      "text": "Usually what we do is we send it over email.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 93.22,
+      "end_time": 95.94
+    },
+    {
+      "text": "But I mean, if you guys prefer.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 96.18,
+      "end_time": 98.14
+    },
+    {
+      "text": "A spreadsheet, I'm happy for you to send emails of updates.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 98.14,
+      "end_time": 101.14
+    },
+    {
+      "text": "But so we've got it centralized somewhere.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 101.14,
+      "end_time": 103.3
+    },
+    {
+      "text": "So we can keep coming back to.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 103.3,
+      "end_time": 104.54
+    },
+    {
+      "text": "The list and what are the next steps?",
+      "speaker_name": "Richard Lewis",
+      "start_time": 104.54,
+      "end_time": 106.18
+    },
+    {
+      "text": "Any notes would be really useful.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 106.54,
+      "end_time": 107.9
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 108.22,
+      "end_time": 108.74
+    },
+    {
+      "text": "Okay, so we, we usually usually do it like that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 108.74,
+      "end_time": 111.66
+    },
+    {
+      "text": "We start a new email chain and then we just pull up updates as we go down the process.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 111.66,
+      "end_time": 116.62
+    },
+    {
+      "text": "But I, I'll send it up right after this email.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 117.18,
+      "end_time": 120.06
+    },
+    {
+      "text": "I just wanted to update you guys and then send over.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 120.3,
+      "end_time": 124.22
+    },
+    {
+      "text": "Okay, so, so, so the what meetings in the diary.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 125.9,
+      "end_time": 132.66
+    },
+    {
+      "text": "I missed what you were saying before.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 132.66,
+      "end_time": 133.62
+    },
+    {
+      "text": "What meetings are actually scheduled.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 133.62,
+      "end_time": 135.18
+    },
+    {
+      "text": "So just for like query, click and the buyer, there's just one contact, communications that's open on 16.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 136.33,
+      "end_time": 145.05
+    },
+    {
+      "text": "So the other two signed India parties, they are reviewing the opportunity.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 145.77,
+      "end_time": 150.57
+    },
+    {
+      "text": "They're a big company, so they kind of have to have that process of sending it up the chain and getting it approved.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 151.289,
+      "end_time": 157.77
+    },
+    {
+      "text": "So we're waiting on them to fly back.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 158.01,
+      "end_time": 160.09
+    },
+    {
+      "text": "But at the moment we have one meeting set up.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 160.33,
+      "end_time": 162.49
+    },
+    {
+      "text": "I think that's for Thursday.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 164.03,
+      "end_time": 164.95
+    },
+    {
+      "text": "Is that right?",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 164.95,
+      "end_time": 165.63
+    },
+    {
+      "text": "Yeah, sorry, that's on Wednesday.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 167.47,
+      "end_time": 169.47
+    },
+    {
+      "text": "16Th.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 171.31,
+      "end_time": 172.03
+    },
+    {
+      "text": "16th June next week.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 172.19,
+      "end_time": 174.03
+    },
+    {
+      "text": "That's two weeks today.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 174.59,
+      "end_time": 175.55
+    },
+    {
+      "text": "But I have a meeting in for Wednesday with Quanta.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 176.27,
+      "end_time": 180.35
+    },
+    {
+      "text": "Yeah, yeah, that's the one.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 181.47,
+      "end_time": 183.23
+    },
+    {
+      "text": "But that's on the fourth.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 184.67,
+      "end_time": 185.87
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 187.07,
+      "end_time": 187.55
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 198.27,
+      "end_time": 198.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 198.91,
+      "end_time": 199.39
+    },
+    {
+      "text": "Yeah, my apologies.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 199.39,
+      "end_time": 200.43
+    },
+    {
+      "text": "So it's on the fourth, which is even better.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 200.43,
+      "end_time": 202.99
+    },
+    {
+      "text": "Richard, do you want to be on our call?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 205.23,
+      "end_time": 207.39
+    },
+    {
+      "text": "At the moment we have.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 207.47,
+      "end_time": 208.51
+    },
+    {
+      "text": "I'm away on the 16th, so we'll be able to meet a call.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 208.75,
+      "end_time": 210.91
+    },
+    {
+      "text": "Sorry, what Time.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 215.4,
+      "end_time": 216.12
+    },
+    {
+      "text": "I'm really struggling to hear you all.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 218.2,
+      "end_time": 219.48
+    },
+    {
+      "text": "I don't know why.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 219.48,
+      "end_time": 220.04
+    },
+    {
+      "text": "It's four o' clock.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 220.12,
+      "end_time": 221.16
+    },
+    {
+      "text": "I can't do Wednesday at all, unfortunately.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 222.68,
+      "end_time": 225
+    },
+    {
+      "text": "Brian, are you available?",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 231.24,
+      "end_time": 232.28
+    },
+    {
+      "text": "I'd actually prefer to reschedule.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 237.24,
+      "end_time": 239
+    },
+    {
+      "text": "I'd like to be on the call, but I just can't do Wednesday.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 239.57,
+      "end_time": 241.81
+    },
+    {
+      "text": "I didn't know anything about it.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 242.21,
+      "end_time": 243.65
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 244.13,
+      "end_time": 244.61
+    },
+    {
+      "text": "So these are.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 244.69,
+      "end_time": 245.57
+    },
+    {
+      "text": "Richard, these are like really high level first calls.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 245.57,
+      "end_time": 248.69
+    },
+    {
+      "text": "Even if like, let's just press that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 249.41,
+      "end_time": 251.65
+    },
+    {
+      "text": "Not.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 251.97,
+      "end_time": 252.33
+    },
+    {
+      "text": "And then once they're like follow up, put more people in.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 252.33,
+      "end_time": 257.33
+    },
+    {
+      "text": "But what we usually do is on these first call it's just like, hi, I'm.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 257.33,
+      "end_time": 262.01
+    },
+    {
+      "text": "I'm pretty quick.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 262.01,
+      "end_time": 262.93
+    },
+    {
+      "text": "And they'll be like, I'm contact.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 262.93,
+      "end_time": 264.29
+    },
+    {
+      "text": "So it's like those kind of calls and then they're like, oh, we'll follow up with questions and then.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 264.37,
+      "end_time": 269.97
+    },
+    {
+      "text": "Yeah, I've been through the process before.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 270.29,
+      "end_time": 271.85
+    },
+    {
+      "text": "I do understand that.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 271.85,
+      "end_time": 272.85
+    },
+    {
+      "text": "I just, I'd rather be on the first couple with Chris.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 272.85,
+      "end_time": 275.09
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 275.33,
+      "end_time": 275.73
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 275.73,
+      "end_time": 276.13
+    },
+    {
+      "text": "Okay, I can ask them.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 279.41,
+      "end_time": 280.93
+    },
+    {
+      "text": "Chris, can you, can you give me a.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 280.93,
+      "end_time": 284.05
+    },
+    {
+      "text": "If you could perhaps get two or three potential dates and Chris and I can look at what works for both of us.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 284.77,
+      "end_time": 288.85
+    },
+    {
+      "text": "Do you have any schedule just so they can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 293.09,
+      "end_time": 297.73
+    },
+    {
+      "text": "Sorry, I can't.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 299.41,
+      "end_time": 300.13
+    },
+    {
+      "text": "I still can't hear very well.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 300.13,
+      "end_time": 301.57
+    },
+    {
+      "text": "He's asking for a couple of slots, Richard.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 301.73,
+      "end_time": 303.89
+    },
+    {
+      "text": "A couple of slots.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 304.93,
+      "end_time": 305.89
+    },
+    {
+      "text": "9 o' clock Friday looks to suit.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 311.17,
+      "end_time": 312.73
+    },
+    {
+      "text": "Oh, hold on, let me just check.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 312.73,
+      "end_time": 313.85
+    },
+    {
+      "text": "Christmas time.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 313.85,
+      "end_time": 314.49
+    },
+    {
+      "text": "I'm looking at the wrong one.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 314.49,
+      "end_time": 315.41
+    },
+    {
+      "text": "We can both do that.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 324.22,
+      "end_time": 325.38
+    },
+    {
+      "text": "We can both move things around in much radio at nine o' clock.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 325.38,
+      "end_time": 327.9
+    },
+    {
+      "text": "Nine o' clock.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 328.54,
+      "end_time": 329.5
+    },
+    {
+      "text": "Are they.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 329.74,
+      "end_time": 330.3
+    },
+    {
+      "text": "Are they UK or US based?",
+      "speaker_name": "Richard Lewis",
+      "start_time": 330.3,
+      "end_time": 331.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 332.7,
+      "end_time": 333.18
+    },
+    {
+      "text": "Eastern time.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 333.979,
+      "end_time": 334.78
+    },
+    {
+      "text": "Sorry, New York Eastern time.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 335.26,
+      "end_time": 337.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 337.34,
+      "end_time": 337.66
+    },
+    {
+      "text": "Yes, Eastern time.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 337.66,
+      "end_time": 338.58
+    },
+    {
+      "text": "Right, that's not going to work then.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 338.58,
+      "end_time": 339.58
+    },
+    {
+      "text": "So four o' clock?",
+      "speaker_name": "Richard Lewis",
+      "start_time": 341.74,
+      "end_time": 342.7
+    },
+    {
+      "text": "Four, Four o' clock on Friday.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 342.78,
+      "end_time": 344.14
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 344.56,
+      "end_time": 344.8
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 350.16,
+      "end_time": 350.72
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 353.6,
+      "end_time": 354.08
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 355.12,
+      "end_time": 355.6
+    },
+    {
+      "text": "Yeah, yeah, I can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 355.6,
+      "end_time": 356.96
+    },
+    {
+      "text": "Okay, thank you.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 361.6,
+      "end_time": 363.52
+    },
+    {
+      "text": "Apologies for the sound damage.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 365.68,
+      "end_time": 367
+    },
+    {
+      "text": "I really can't hear very well.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 367,
+      "end_time": 368.08
+    },
+    {
+      "text": "I'm not sure if it's like my mic or.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 369.36,
+      "end_time": 371.92
+    },
+    {
+      "text": "No, I think it's something on this side.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 372.56,
+      "end_time": 374.24
+    },
+    {
+      "text": "No, I've also got the same problem but I think it was the Google Meet.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 374.88,
+      "end_time": 378.68
+    },
+    {
+      "text": "I don't know if that's causing a problem there.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 378.68,
+      "end_time": 380.8
+    },
+    {
+      "text": "Do you guys use teams?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 384.56,
+      "end_time": 386
+    },
+    {
+      "text": "I think because you seems.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 386,
+      "end_time": 387.52
+    },
+    {
+      "text": "Yeah, I think.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 387.6,
+      "end_time": 388.4
+    },
+    {
+      "text": "Yeah, we had, we had that issue with another point as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 388.72,
+      "end_time": 391.84
+    },
+    {
+      "text": "I think teams and Google go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 392.08,
+      "end_time": 394.2
+    },
+    {
+      "text": "Our own blog.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 394.2,
+      "end_time": 395.04
+    },
+    {
+      "text": "They don't talk nicely.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 397.34,
+      "end_time": 398.46
+    },
+    {
+      "text": "I can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 401.02,
+      "end_time": 401.5
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 404.06,
+      "end_time": 404.62
+    },
+    {
+      "text": "Do you need anything?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 404.86,
+      "end_time": 405.66
+    },
+    {
+      "text": "Thank you guys from.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 405.66,
+      "end_time": 409.14
+    },
+    {
+      "text": "I mean we're good from our side as we go down the process so see if we can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 409.14,
+      "end_time": 414.7
+    },
+    {
+      "text": "But at the moment we're getting okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 415.58,
+      "end_time": 418.7
+    },
+    {
+      "text": "Thanks, Amit.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 422.62,
+      "end_time": 423.42
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 424.14,
+      "end_time": 424.7
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "NDA",
+      "potential buyers",
+      "meeting scheduling",
+      "process tracking",
+      "Quanta",
+      "interested parties"
+    ],
+    "action_items": "\n**Ahmed Zia**\nAhmed to create and share a central spreadsheet to track all potential buyers and next steps (01:30)\nAhmed to try rescheduling the Quanta call from Wednesday at 4:00 PM to Friday at 4:00 PM to include Richard (03:40)\nAhmed to continue screening the two additional interested parties who have not yet signed NDAs (00:57)\nAhmed to follow up with the two companies who have signed NDAs but are still reviewing the opportunity (02:16)\n",
+    "outline": null,
+    "overview": "In the recent weekly catch-up meeting between Capital A and QueryClick, the team discussed several key action items to enhance deal progress. Ahmed will create a central tracking spreadsheet to monitor potential buyers and streamline communication. The team also agreed to attempt rescheduling the Quanta meeting to Friday at 4:00 PM to better accommodate Richard's availability. Additionally, Ahmed will continue screening two interested parties who have not yet signed non-disclosure agreements (NDAs) and follow up with two companies that have signed NDAs to check on their review status regarding the opportunity. These steps are designed to ensure efficient management of potential buyers and facilitate ongoing discussions.",
+    "short_summary": "In a recent weekly catch-up meeting, Capital A and QueryClick focused on improving deal progress through several key actions. Ahmed was tasked with creating a central tracking spreadsheet to monitor potential buyers, which would enhance communication and organization. The team also agreed to reschedule the Quanta meeting to Friday at 4:00 PM to accommodate Richard's availability, as he was unable to attend the originally scheduled call. Additionally, Ahmed will screen two interested parties who have not yet signed non-disclosure agreements (NDAs) and follow up with two companies that have signed NDAs to check on their review status of the opportunity. These steps are designed to ensure efficient buyer management and facilitate ongoing discussions, while addressing audio quality issues experienced during the meeting.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JWRC795T24CSRYY7TDW83GQ2",
+  "audio_url": "https://cdn.fireflies.ai/01JWRC795T24CSRYY7TDW83GQ2/audio.mp3?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSldSQzc5NVQyNENTUllZN1REVzgzR1EyL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=WCCOmss39bL8-5cVg4ijBfUtzTEMYqFMP1C7nNScecXdgwVQ-vxDhBigG4jQrZAEwVeljC42s9f-dUIDV33V-1Gv5PUb7akC5atgdbpe3~PSfQQc2UOGr5AzO7EcMHg7wntXv-LWQoder2pQ8RYQziAl9oihvfDSSMuxsQkQ3-C007~svQaJPR1WDN0Vs0zRnPNyJNMRRngwqXA-7wy488iLCq2wAImoUnl6zoTKu2AwpndWdaAjReVtZ1l-FhrBb1UAND1V5wZ3BnBYMIA3SrUC5INJQvKul1Jj2~S4uybtVQ8dkD8spXDHZzHW8Njlx-~TTOrHAcszMItJaz0fiw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

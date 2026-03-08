@@ -1,0 +1,2681 @@
+{
+  "id": "01JXN9H8CM88RTFGHW2XSG9DRG",
+  "title": "Queryclick x Quanta",
+  "date": 1750066200000,
+  "dateString": "2025-06-16T09:30:00.000Z",
+  "duration": 31.709999084472656,
+  "participants": [
+    "ahmed.zia@capitala.co,andrew.day@capitala.co,chris.liversidge@queryclick.com,suneet.karkala@rmb.co.in,arnab@quantacom.tech,andrew@quantacom.tech,richard.lewis@queryclick.com,agoldberg@makovsky.com,richard@rclconsulting.co.uk,lee-anne.lindsay@queryclick.com",
+    "andrew.day@capitala.co",
+    "chris.liversidge@queryclick.com",
+    "suneet.karkala@rmb.co.in",
+    "arnab@quantacom.tech",
+    "andrew@quantacom.tech",
+    "richard.lewis@queryclick.com",
+    "agoldberg@makovsky.com",
+    "richard@rclconsulting.co.uk",
+    "lee-anne.lindsay@queryclick.com"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris.liversidge@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "suneet.karkala@rmb.co.in",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "arnab@quantacom.tech",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew@quantacom.tech",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard.lewis@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "agoldberg@makovsky.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard@rclconsulting.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "lee-anne.lindsay@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Travel schedule has been unusually awful and it's generally bad because, you know, I.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 0.16,
+      "end_time": 5.8
+    },
+    {
+      "text": "Commute, I'm sort of back and forth between New York and Asia and so.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 5.8,
+      "end_time": 10.48
+    },
+    {
+      "text": "I do my best but the flights.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 12.96,
+      "end_time": 14.92
+    },
+    {
+      "text": "Don'T always, you know, it's just terrible.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 14.92,
+      "end_time": 17.84
+    },
+    {
+      "text": "Well, you know, I mean, airports are just bad anyway.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 17.84,
+      "end_time": 20.88
+    },
+    {
+      "text": "But it's nice meeting everyone.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 20.88,
+      "end_time": 22
+    },
+    {
+      "text": "Yeah, nice to meet everybody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 22.4,
+      "end_time": 23.84
+    },
+    {
+      "text": "So we're just waiting for Sunny to jump on as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 24.24,
+      "end_time": 26.56
+    },
+    {
+      "text": "He seems to be in the call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 26.56,
+      "end_time": 28.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 28.45,
+      "end_time": 28.77
+    },
+    {
+      "text": "Hi everyone.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 28.85,
+      "end_time": 29.33
+    },
+    {
+      "text": "Hi Sunit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 30.05,
+      "end_time": 30.85
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 32.05,
+      "end_time": 32.53
+    },
+    {
+      "text": "So I'm Andrew Goldberg, I'm the CEO.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 34.69,
+      "end_time": 36.65
+    },
+    {
+      "text": "Of Quanta, which is a India US roll up.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 36.65,
+      "end_time": 40.53
+    },
+    {
+      "text": "Most of our efforts have been in.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 41.73,
+      "end_time": 43.21
+    },
+    {
+      "text": "Asia so far and we're trying to expand beyond that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 43.21,
+      "end_time": 47.65
+    },
+    {
+      "text": "Sunit is with our deal team at.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 48.29,
+      "end_time": 51.25
+    },
+    {
+      "text": "First Rand bank, so they, you know, they advise us on the transactions.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 51.49,
+      "end_time": 57.41
+    },
+    {
+      "text": "Unfortunately, our cfo, well, fortunately for him, he's on holiday but he can't participate in this call.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 58.54,
+      "end_time": 64.54
+    },
+    {
+      "text": "So Arnab Chowdhury, he's the one who.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 64.54,
+      "end_time": 66.62
+    },
+    {
+      "text": "Sort of initially set this up and brought QueryClick to our attention.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 67.5,
+      "end_time": 72.46
+    },
+    {
+      "text": "But you know, he's been following it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 73.34,
+      "end_time": 75.78
+    },
+    {
+      "text": "So at a certain point, if this goes forward, he'll be involved, you know, in the conversation as well.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 75.78,
+      "end_time": 81.1
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 82.7,
+      "end_time": 83.1
+    },
+    {
+      "text": "You know, I don't know how.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 84.84,
+      "end_time": 86.04
+    },
+    {
+      "text": "You'D like to proceed, Ahmed, but you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 86.04,
+      "end_time": 89.88
+    },
+    {
+      "text": "Know, I can tell you a bit about us in more detail and what.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 89.88,
+      "end_time": 93.6
+    },
+    {
+      "text": "Our strategy is, where we're going and if that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 93.6,
+      "end_time": 96.2
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 96.68,
+      "end_time": 97.16
+    },
+    {
+      "text": "Andrew, should we just get a few intros just to let you know who everybody is in the call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 98.04,
+      "end_time": 101.6
+    },
+    {
+      "text": "So I'm Andy Day, I'm the CEO of Cataway.",
+      "speaker_name": "Andrew Day",
+      "start_time": 101.6,
+      "end_time": 104.16
+    },
+    {
+      "text": "So I'm working with Ahmed and just let everybody know the call's been recorded so we can keep track of any important details that come out of it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 104.16,
+      "end_time": 111
+    },
+    {
+      "text": "And both Ahmed and I are here just to keep track of those conversations and note down any follow ups as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 111.35,
+      "end_time": 117.27
+    },
+    {
+      "text": "Next steps at the end.",
+      "speaker_name": "Andrew Day",
+      "start_time": 117.27,
+      "end_time": 118.47
+    },
+    {
+      "text": "So I'll just introduce Chris and Brian.",
+      "speaker_name": "Andrew Day",
+      "start_time": 119.03,
+      "end_time": 121.23
+    },
+    {
+      "text": "Chris, would you like to introduce yourself?",
+      "speaker_name": "Andrew Day",
+      "start_time": 121.23,
+      "end_time": 123.03
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 123.51,
+      "end_time": 123.95
+    },
+    {
+      "text": "It's very nice to meet everyone.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 123.95,
+      "end_time": 124.95
+    },
+    {
+      "text": "I'm the CEO and founder at QueryClick.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 125.19,
+      "end_time": 127.75
+    },
+    {
+      "text": "So I've been in digital for 20 years, in the very, very early days of performance marketing, all the way to now.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 127.75,
+      "end_time": 134.31
+    },
+    {
+      "text": "And I'm joined as well on the call by Leanne, or LA as we refer to her.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 135.59,
+      "end_time": 141.11
+    },
+    {
+      "text": "Hi, I'm Brian.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 146.31,
+      "end_time": 147.19
+    },
+    {
+      "text": "I'm on the board of Gray Click and here to help grease the wheels there, Leanne.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 147.43,
+      "end_time": 153.43
+    },
+    {
+      "text": "A little grease is always helpful.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 154.55,
+      "end_time": 156.39
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 158.79,
+      "end_time": 159.51
+    },
+    {
+      "text": "Would you like to introduce yourself?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 170.08,
+      "end_time": 171.16
+    },
+    {
+      "text": "You're on mute, by the way, just in case you've been chatting Away to yourself.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 171.16,
+      "end_time": 174.96
+    },
+    {
+      "text": "Hi guys.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 178.96,
+      "end_time": 179.68
+    },
+    {
+      "text": "Sorry I was actually muted.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 179.92,
+      "end_time": 181.28
+    },
+    {
+      "text": "Nice to meet you all.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 182.8,
+      "end_time": 183.76
+    },
+    {
+      "text": "Myself joined query click About2Years Ago and yeah, so if you've got any financial questions, I'm happy to help.",
+      "speaker_name": "Lee-Anne Lindsay",
+      "start_time": 183.76,
+      "end_time": 192.08
+    },
+    {
+      "text": "There's always a lot of financial questions, but I don't know whether they'll come up in this call unless you have any.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 193.67,
+      "end_time": 198.15
+    },
+    {
+      "text": "Okay, well, anyway, so I'm Andrew Goldberg.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 199.11,
+      "end_time": 202.07
+    },
+    {
+      "text": "I've been in the business for probably.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 202.55,
+      "end_time": 204.75
+    },
+    {
+      "text": "100 years in one form or another.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 204.75,
+      "end_time": 206.79
+    },
+    {
+      "text": "PR, digital marketing.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 208.229,
+      "end_time": 209.99
+    },
+    {
+      "text": "I actually participated in a, I don't.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 210.79,
+      "end_time": 215.43
+    },
+    {
+      "text": "Know, I guess it would have been a third wave AI called Saffron which.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 215.43,
+      "end_time": 218.43
+    },
+    {
+      "text": "Was later sold to Intel.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 218.43,
+      "end_time": 221.7
+    },
+    {
+      "text": "Of course, everything that we did has now been taken over by a lot of events.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 223.3,
+      "end_time": 228.5
+    },
+    {
+      "text": "I ran the deal team at WPP.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 229.3,
+      "end_time": 231.78
+    },
+    {
+      "text": "For North America for about eight years.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 231.78,
+      "end_time": 233.94
+    },
+    {
+      "text": "Largely focusing not on digital stuff.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 235.06,
+      "end_time": 237.34
+    },
+    {
+      "text": "We were actually trying to build our portfolio of public affairs firms in the United States.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 237.34,
+      "end_time": 241.7
+    },
+    {
+      "text": "I also ran the global corporate and financial area for Bursin, which I was reluctantly forced to do by Martin Sorrell before he was turned out.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 242.42,
+      "end_time": 256.43
+    },
+    {
+      "text": "But so I, I learned a bit.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 257.31,
+      "end_time": 259.11
+    },
+    {
+      "text": "About public relations along the way.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 259.11,
+      "end_time": 261.03
+    },
+    {
+      "text": "So I've done a little bit of everything.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 261.03,
+      "end_time": 262.35
+    },
+    {
+      "text": "Quanta started off about a year ago.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 264.35,
+      "end_time": 267.79
+    },
+    {
+      "text": "A little bit less than about 11 months ago.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 268.19,
+      "end_time": 270.07
+    },
+    {
+      "text": "And it was kind of a, it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 270.07,
+      "end_time": 272.35
+    },
+    {
+      "text": "Emerged out of conversations that I had with colleagues in India.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 272.35,
+      "end_time": 276.11
+    },
+    {
+      "text": "I've been working in India and around.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 276.27,
+      "end_time": 278.75
+    },
+    {
+      "text": "India about 20, you know, 20 years now.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 278.75,
+      "end_time": 282.05
+    },
+    {
+      "text": "I was going to say 25 years, but I don't think it's been quite long.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 282.05,
+      "end_time": 284.41
+    },
+    {
+      "text": "20 years and, and largely with large.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 284.41,
+      "end_time": 288.49
+    },
+    {
+      "text": "Technology clients, technology outsourcing firms, primarily Infosys.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 289.13,
+      "end_time": 293.77
+    },
+    {
+      "text": "I was, I was involved in the spin out of tech Mahindra many years ago with Anand Mahindra.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 294.89,
+      "end_time": 301.45
+    },
+    {
+      "text": "So I, I knew that world a bit.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 302.33,
+      "end_time": 303.97
+    },
+    {
+      "text": "And so Quanta is really.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 303.97,
+      "end_time": 307.3
+    },
+    {
+      "text": "There are a couple of dimensions to it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 307.7,
+      "end_time": 309.38
+    },
+    {
+      "text": "First, it's backed, supported by several large.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 311.14,
+      "end_time": 314.82
+    },
+    {
+      "text": "India financial family offices that are associated with large India based financial institutions.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 314.82,
+      "end_time": 322.34
+    },
+    {
+      "text": "It's a roll up, but it's a roll up designed to buy and build.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 326.42,
+      "end_time": 330.9
+    },
+    {
+      "text": "As opposed to buy and spin out.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 330.98,
+      "end_time": 333.02
+    },
+    {
+      "text": "So it's not a traditional private equity style.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 333.02,
+      "end_time": 335.78
+    },
+    {
+      "text": "Rol we're looking at what we think are strong or strongish regional brands that we think we hope we can internationalize.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 336.1,
+      "end_time": 348.99
+    },
+    {
+      "text": "Or at least make stronger in their.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 348.99,
+      "end_time": 350.47
+    },
+    {
+      "text": "Regions but ideally to scale them out.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 350.47,
+      "end_time": 353.99
+    },
+    {
+      "text": "Of their regions internationally.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 353.99,
+      "end_time": 355.79
+    },
+    {
+      "text": "We do have a bit of a.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 357.47,
+      "end_time": 359.23
+    },
+    {
+      "text": "Kind of a pricing arbitrage play as.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 359.47,
+      "end_time": 362.35
+    },
+    {
+      "text": "Well in the sense that we believe that a considerable amount of technology or technology services can be moved to India.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 362.35,
+      "end_time": 372.79
+    },
+    {
+      "text": "To our GCC in Bangalore.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 373.99,
+      "end_time": 376.99
+    },
+    {
+      "text": "Where a lot of, you know, kind of back end things can be done.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 376.99,
+      "end_time": 379.91
+    },
+    {
+      "text": "Programming, you know, different types of first iteration creative work.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 379.91,
+      "end_time": 385.71
+    },
+    {
+      "text": "A lot of the tech stack we think could be, you know, brought over.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 385.71,
+      "end_time": 388.63
+    },
+    {
+      "text": "There, which would allow the founders, the.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 388.63,
+      "end_time": 392.63
+    },
+    {
+      "text": "Partners in the various regions to kind of focus on, you know, focus on.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 392.63,
+      "end_time": 397.11
+    },
+    {
+      "text": "Strategy, counseling their clients, building up the.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 397.11,
+      "end_time": 400.33
+    },
+    {
+      "text": "Front end of their technology wherever possible.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 400.33,
+      "end_time": 403.65
+    },
+    {
+      "text": "You know, sort of take them out.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 403.73,
+      "end_time": 404.89
+    },
+    {
+      "text": "Of the back office game, then move them much more strategically to the front.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 404.89,
+      "end_time": 408.69
+    },
+    {
+      "text": "Ideally we look for, we've been looking at founders who don't want to completely exit the business, but rather would like to sort of move to a different.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 410.85,
+      "end_time": 418.93
+    },
+    {
+      "text": "Dimension in their business that hasn't been.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 419.33,
+      "end_time": 423.25
+    },
+    {
+      "text": "I would say in the case of.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 423.65,
+      "end_time": 424.93
+    },
+    {
+      "text": "The acquisitions in Asia, that has been the case.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 425.7,
+      "end_time": 428.82
+    },
+    {
+      "text": "We've started in the US with a.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 429.38,
+      "end_time": 431.38
+    },
+    {
+      "text": "Couple of firms where the, which are more asset acquisitions, where we're sort of buying up quality brands, but not necessarily for their founders.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 431.38,
+      "end_time": 443.06
+    },
+    {
+      "text": "You know, we just want to have.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 443.22,
+      "end_time": 444.58
+    },
+    {
+      "text": "Market position, but that's kind of, kind.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 444.58,
+      "end_time": 447.82
+    },
+    {
+      "text": "Of where we are.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 447.82,
+      "end_time": 448.38
+    },
+    {
+      "text": "I would say we don't, you know, what we like about, first of all.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 448.38,
+      "end_time": 452.06
+    },
+    {
+      "text": "Several things about QueryClick.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 452.06,
+      "end_time": 453.3
+    },
+    {
+      "text": "One is we would like to be.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 453.3,
+      "end_time": 454.94
+    },
+    {
+      "text": "Aggressively in the performance marketing space.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 454.94,
+      "end_time": 457.1
+    },
+    {
+      "text": "We'd like to do it with smart tech, smart technology.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 457.66,
+      "end_time": 460.14
+    },
+    {
+      "text": "When this first came across, I was.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 461.82,
+      "end_time": 463.62
+    },
+    {
+      "text": "Going to say my desk, but I don't, I do have a desk, but not in front of it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 463.62,
+      "end_time": 467.98
+    },
+    {
+      "text": "But when it first first came across my, my phone, you know, I immediately.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 467.98,
+      "end_time": 473.66
+    },
+    {
+      "text": "You know, sort of went to the tech stack.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 475.5,
+      "end_time": 477.58
+    },
+    {
+      "text": "And also.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 477.75,
+      "end_time": 478.31
+    },
+    {
+      "text": "The fact that you have.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 480.15,
+      "end_time": 481.07
+    },
+    {
+      "text": "Your own platform, you have your own ip, which is sort of unusual in the business these days, we liked a lot.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 481.07,
+      "end_time": 489.51
+    },
+    {
+      "text": "So there was kind of interesting features associated with it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 489.59,
+      "end_time": 493.51
+    },
+    {
+      "text": "I understand that we're not Omnicom or.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 495.03,
+      "end_time": 498.43
+    },
+    {
+      "text": "WPP or whatever it is, so I mean, it's a bit different.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 498.43,
+      "end_time": 501.11
+    },
+    {
+      "text": "This has more of a startup feel.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 501.19,
+      "end_time": 503.19
+    },
+    {
+      "text": "I think the attraction that we've held.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 504.31,
+      "end_time": 506.95
+    },
+    {
+      "text": "For people that we're doing deals with.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 506.95,
+      "end_time": 508.91
+    },
+    {
+      "text": "Is that we aren't them.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 509.15,
+      "end_time": 510.63
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 510.63,
+      "end_time": 510.95
+    },
+    {
+      "text": "So it gives a, you know, it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 510.95,
+      "end_time": 512.51
+    },
+    {
+      "text": "Allows the founder to preserve more of.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 512.51,
+      "end_time": 514.47
+    },
+    {
+      "text": "Their identity and their culture, maybe extended.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 514.47,
+      "end_time": 518.23
+    },
+    {
+      "text": "A little bit more broadly without being kind of merged into a sort of a larger behemoth and then ultimately being sort of removed from the mix, which sometimes happens.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 518.23,
+      "end_time": 527.87
+    },
+    {
+      "text": "So I think there is that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 528.83,
+      "end_time": 530.23
+    },
+    {
+      "text": "But on the other hand, you know, I mean, people say, oh, and I, I hear this a lot.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 530.23,
+      "end_time": 534.64
+    },
+    {
+      "text": "Well, you know, it's, you know, we don't know much about India.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 534.64,
+      "end_time": 537.52
+    },
+    {
+      "text": "We've never worked in India.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 537.52,
+      "end_time": 538.8
+    },
+    {
+      "text": "It's some strange to us Are you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 538.88,
+      "end_time": 540.76
+    },
+    {
+      "text": "Going to give us, you know, are.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 540.76,
+      "end_time": 542.68
+    },
+    {
+      "text": "You going to give us Indian paper.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 542.68,
+      "end_time": 544.72
+    },
+    {
+      "text": "For example, you know, like, which is.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 544.72,
+      "end_time": 546.68
+    },
+    {
+      "text": "Not by the way a bad thing.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 546.68,
+      "end_time": 547.76
+    },
+    {
+      "text": "Our intention is to go public in.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 547.76,
+      "end_time": 550.48
+    },
+    {
+      "text": "India within the next 24 months.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 550.48,
+      "end_time": 552.52
+    },
+    {
+      "text": "But we're not asking anyone to take Quanta Equity unless they absolutely, you know, want that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 552.52,
+      "end_time": 559.81
+    },
+    {
+      "text": "I mean it is an incentive at a certain point I think in the game to have that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 559.81,
+      "end_time": 563.97
+    },
+    {
+      "text": "But all of our, you know, all.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 564.29,
+      "end_time": 565.69
+    },
+    {
+      "text": "Of our deals are cash deals.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 565.69,
+      "end_time": 567.01
+    },
+    {
+      "text": "They, they are largely three or earnouts.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 568.53,
+      "end_time": 573.45
+    },
+    {
+      "text": "But the employment contracts, the founders can be longer than the three year earnouts.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 573.45,
+      "end_time": 577.73
+    },
+    {
+      "text": "It sort of depends upon, you know, what we ultimately come up with as the regional strategy.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 577.73,
+      "end_time": 583.01
+    },
+    {
+      "text": "We don't have a lot of people in India.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 585.02,
+      "end_time": 587.58
+    },
+    {
+      "text": "I mean it's me, it's a couple of, it's my partner Suhas Kundapur who's a financial guy, who's not a marketing person.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 587.66,
+      "end_time": 596.54
+    },
+    {
+      "text": "Arnab, the cfo, small team and of course our deal partners at first ran.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 597.18,
+      "end_time": 602.78
+    },
+    {
+      "text": "Bank so you know, that's about it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 602.78,
+      "end_time": 607.18
+    },
+    {
+      "text": "We're young, we're scrappy and we'd like to do some interesting things.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 607.18,
+      "end_time": 610.22
+    },
+    {
+      "text": "I mean, I'm not young, but I mean the firm is young.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 611.18,
+      "end_time": 612.94
+    },
+    {
+      "text": "So we'd like to do something.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 612.94,
+      "end_time": 613.98
+    },
+    {
+      "text": "I'd like to do some interesting things.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 614.06,
+      "end_time": 615.5
+    },
+    {
+      "text": "I'm sure you're younger at heart then you certainly come across as younger at heart, Andrew.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 617.66,
+      "end_time": 622.38
+    },
+    {
+      "text": "Well, everybody I deal with is like.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 622.46,
+      "end_time": 624.1
+    },
+    {
+      "text": "25 years old, so you sort of have to be.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 624.1,
+      "end_time": 626.22
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 626.7,
+      "end_time": 627.26
+    },
+    {
+      "text": "Okay, fantastic.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 628.54,
+      "end_time": 629.66
+    },
+    {
+      "text": "Well, that's a good review.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 629.74,
+      "end_time": 630.94
+    },
+    {
+      "text": "What would be useful to hear from our side?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 631.42,
+      "end_time": 633.34
+    },
+    {
+      "text": "Well, I mean I'd like to hear a little bit about the company's journey.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 633.98,
+      "end_time": 638.22
+    },
+    {
+      "text": "I'd like to hear a little bit about the technology.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 638.22,
+      "end_time": 640.62
+    },
+    {
+      "text": "Anything you want to tell me about.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 643.98,
+      "end_time": 645.1
+    },
+    {
+      "text": "The clients is okay, but mainly what.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 645.1,
+      "end_time": 646.74
+    },
+    {
+      "text": "I'd like to hear is about you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 646.74,
+      "end_time": 648.06
+    },
+    {
+      "text": "And your partners and sort of what you'd like to personally do.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 648.06,
+      "end_time": 650.94
+    },
+    {
+      "text": "I think that's really important, you know, to know whether the chemistry is right.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 650.94,
+      "end_time": 654.58
+    },
+    {
+      "text": "And you know, a lot of the more detailed stuff we could get into after if you'd like.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 654.58,
+      "end_time": 659.1
+    },
+    {
+      "text": "Yeah, no, that sounds great.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 659.42,
+      "end_time": 661.18
+    },
+    {
+      "text": "So from my background, you know, I came into digital relatively early on in the kind of rollout of websites.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 661.66,
+      "end_time": 670.05
+    },
+    {
+      "text": "So I started out building websites freelance, got hired in, in my career, got hired into what became an incredibly fast growth independent business at the time, this was just after the turn of the millennium.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 671.64,
+      "end_time": 686.04
+    },
+    {
+      "text": "I was hired in as someone who could build websites.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 687.48,
+      "end_time": 689.96
+    },
+    {
+      "text": "Performance marketing was relatively new.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 691.16,
+      "end_time": 693.4
+    },
+    {
+      "text": "I think I was employee 28 in that business.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 694.04,
+      "end_time": 696.36
+    },
+    {
+      "text": "And two years later we were two and a half, 3,000 people.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 696.52,
+      "end_time": 699.64
+    },
+    {
+      "text": "And we were the largest independent search marketing age in the world.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 699.72,
+      "end_time": 702.74
+    },
+    {
+      "text": "I ended up heading up technical SEO.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 703.54,
+      "end_time": 706.18
+    },
+    {
+      "text": "I created some departments, content departments, inbound departments, things that weren't necessarily things at that time.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 707.7,
+      "end_time": 714.58
+    },
+    {
+      "text": "And we grew fast because we were number one in search engines in the UK for the words search engine optimization and SEO.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 715.94,
+      "end_time": 725.7
+    },
+    {
+      "text": "So I exited that business at the point where it was being acquired, went through multiple acquisitions, ultimately owned by publicists.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 725.7,
+      "end_time": 734.3
+    },
+    {
+      "text": "Now, because I was keen to combine what I felt was a kind of best in class technical product that I felt I developed at that stage with, you know, perhaps more investment in supporting the account development and management side of things, which had been kept relatively low as part of that journey.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 734.46,
+      "end_time": 756.28
+    },
+    {
+      "text": "So I founded Query clique in 2008 with the sort of simple philosophy of let's combine best in class technical, quality, advice, services, support, all wrapped up together.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 756.28,
+      "end_time": 772.76
+    },
+    {
+      "text": "I think of that as kind of a reason to exist with best in class customer service.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 772.76,
+      "end_time": 778.64
+    },
+    {
+      "text": "So not a complicated recipe, but something that required the depth of experience and skill that I'd acquired to that point.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 778.72,
+      "end_time": 788.65
+    },
+    {
+      "text": "With qc, I've always tried to have something unique on the technical side so that certainly from those very early days when we were engaging with our customers and really at that point we were already engaging more with enterprise customers than their needs or anything like that, you know, I felt that that was the right place to be.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 790.01,
+      "end_time": 810.28
+    },
+    {
+      "text": "Exist as a kind of premium, premium quality service and brand and base.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 810.76,
+      "end_time": 817.32
+    },
+    {
+      "text": "All of our strategy work around performance.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 817.32,
+      "end_time": 820.68
+    },
+    {
+      "text": "So try and be differentiated from say, the larger agency groups as a selection for those kind of enterprise customers by being really lean, being really smart and having the best handle on data and strategies that put performance right at the forefront.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 821.08,
+      "end_time": 840.6
+    },
+    {
+      "text": "And we were really upfront and clear about that in our proposition from day one.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 840.6,
+      "end_time": 845.28
+    },
+    {
+      "text": "It's kind of what our flywheel is today.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 845.52,
+      "end_time": 847.6
+    },
+    {
+      "text": "We have a specific internal way of thinking about our customers which is based on their performance.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 848.16,
+      "end_time": 855.12
+    },
+    {
+      "text": "We use that to inform our account development.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 855.28,
+      "end_time": 858.96
+    },
+    {
+      "text": "You know, we cannot get deeper with a business, with an organization if we are not able to talk to them in their own language about why this matters.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 860.09,
+      "end_time": 870.57
+    },
+    {
+      "text": "And that ultimately is about the revenue being generated, the profit margins being improved, the efficiency and throughput.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 870.57,
+      "end_time": 877.93
+    },
+    {
+      "text": "And, you know, we have always tried to do that with a, you know, a view of technology that is ideally unique when we talk to our customers.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 878.41,
+      "end_time": 887.57
+    },
+    {
+      "text": "So, you know, the unique technology that sits within qc, particularly things like halo reporting, which we do within qc, allow us to talk about data that no one else really is talking with customers about.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 887.73,
+      "end_time": 902.45
+    },
+    {
+      "text": "And fundamentally we always want to try and use performance to be the tip of our sphere.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 904.45,
+      "end_time": 911.65
+    },
+    {
+      "text": "And if we can provide data that no one else can, then as well as selling the value of our strategy, we're also making it incumbent on that customer to come to us because no one else can talk about it in that way.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 912.29,
+      "end_time": 926.33
+    },
+    {
+      "text": "So when you're looking at things like our halo reports.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 927.13,
+      "end_time": 929.69
+    },
+    {
+      "text": "Halo reports let us remove paid media cannibalization straightforwardly.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 930.97,
+      "end_time": 935.61
+    },
+    {
+      "text": "We were able to eliminate immediately one of our customers a million pounds of media spend, no loss in revenue whatsoever that can be reallocated in their strategy into new channels, into investment in more content.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 936.73,
+      "end_time": 950.38
+    },
+    {
+      "text": "And more recently we've also done a lot in this space around AI.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 951.26,
+      "end_time": 955.02
+    },
+    {
+      "text": "So we actually know there's a lot of data now around how you can get more visibility in AI overviews in search, we know what the volumes are.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 955.02,
+      "end_time": 967.86
+    },
+    {
+      "text": "We can help define unique content strategies that our customers really excited by.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 967.86,
+      "end_time": 973.2
+    },
+    {
+      "text": "So couple of different aspects there where we are still bringing different unique technology to the table.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 973.28,
+      "end_time": 979.04
+    },
+    {
+      "text": "And for me, Andrew, honestly I care about performance because fundamentally we don't exist without our customers.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 979.6,
+      "end_time": 986.56
+    },
+    {
+      "text": "And also it means that we're quite egalitarian as an organization in our internal teams and our people who are the reason why we succeed.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 988.16,
+      "end_time": 997.5
+    },
+    {
+      "text": "You know, there is a simple yardstick for if you're effective or not.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 998.14,
+      "end_time": 1002.34
+    },
+    {
+      "text": "And it is the way that you're able to evidence that you're driving performance and that is also what should be defining where you spend your time.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1002.34,
+      "end_time": 1010.78
+    },
+    {
+      "text": "So that's been the driver for my career to date and I certainly can see overlap between that philosophy and your positioning and how you are seeing more of a startup view than a wpp, a publicist into public and so on.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1011.02,
+      "end_time": 1031.28
+    },
+    {
+      "text": "And Dentsu being an alternative that can operate for those enterprise grade customers, give them value and performance.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1031.28,
+      "end_time": 1038.04
+    },
+    {
+      "text": "It's unarguable as a decision if you go with an organization that gives you real business results.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1038.2,
+      "end_time": 1044.36
+    },
+    {
+      "text": "So I can definitely see alignment there, that's for sure.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1044.36,
+      "end_time": 1047.88
+    },
+    {
+      "text": "I'm just curious, have you, have you ever tried to sort of package and.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1049.32,
+      "end_time": 1052.44
+    },
+    {
+      "text": "Sell intelligence, sell the analytics themselves as a product?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1052.92,
+      "end_time": 1056.52
+    },
+    {
+      "text": "I mean, I know performance is the.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1056.92,
+      "end_time": 1058.68
+    },
+    {
+      "text": "Head of the spear, but yeah, so.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1058.84,
+      "end_time": 1061.68
+    },
+    {
+      "text": "We, you know, I spun out part of the organization into the Korverda platform.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1061.68,
+      "end_time": 1066.68
+    },
+    {
+      "text": "That is that initiative.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1067.96,
+      "end_time": 1070.52
+    },
+    {
+      "text": "That's a separate project for me.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1070.52,
+      "end_time": 1072
+    },
+    {
+      "text": "You know, that's something that I'll continue to invest time into.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1072,
+      "end_time": 1077.57
+    },
+    {
+      "text": "That is a very particular, very hardcore data intelligence system.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1079.09,
+      "end_time": 1085.61
+    },
+    {
+      "text": "It is essentially a full analytics suite, you know, the replacement for Adobe for its customers in lots of places.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1085.61,
+      "end_time": 1094.37
+    },
+    {
+      "text": "It is uniquely using AI in A way that no one else is.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1095.01,
+      "end_time": 1098.21
+    },
+    {
+      "text": "It's a SaaS platform so it's different.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1099.33,
+      "end_time": 1101.57
+    },
+    {
+      "text": "It's something that we can use at QC but also other organizations can use it and it has its own strategy around that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1102.16,
+      "end_time": 1110.64
+    },
+    {
+      "text": "But yes, that's where I've invested that element of time.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1110.64,
+      "end_time": 1114.4
+    },
+    {
+      "text": "But things like Halo, Andrew.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1114.4,
+      "end_time": 1115.92
+    },
+    {
+      "text": "No I haven't.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1115.92,
+      "end_time": 1116.72
+    },
+    {
+      "text": "Halo is something that we've always kept to make sure that we can win in pitches and be the best and be unique when we're talking to customers about the ROI of working with with.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1116.72,
+      "end_time": 1129.83
+    },
+    {
+      "text": "Us because you know, I thought a.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1129.83,
+      "end_time": 1131.63
+    },
+    {
+      "text": "Bit about Corvadae over the weekend.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1131.63,
+      "end_time": 1133.39
+    },
+    {
+      "text": "We, we have.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1134.27,
+      "end_time": 1136.91
+    },
+    {
+      "text": "A couple firms that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1138.83,
+      "end_time": 1140.91
+    },
+    {
+      "text": "We'Re closing out soon in Asia which.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1140.91,
+      "end_time": 1145.39
+    },
+    {
+      "text": "Have an extensive footprint in major markets.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1145.87,
+      "end_time": 1148.79
+    },
+    {
+      "text": "Southeast Asia where you have just sort.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1148.79,
+      "end_time": 1150.83
+    },
+    {
+      "text": "Of massive growth for both consumer and.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1150.83,
+      "end_time": 1154.83
+    },
+    {
+      "text": "You know, B2B enterprise brands.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1155.44,
+      "end_time": 1157.76
+    },
+    {
+      "text": "You know, although you know, I mean.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1160.24,
+      "end_time": 1161.64
+    },
+    {
+      "text": "Everybody has their own sort of, you know what they think is their own secret sauce in terms of being able to do influencer marketing or whatever it happens to be.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1161.64,
+      "end_time": 1169.28
+    },
+    {
+      "text": "But you know having a, having a.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1169.84,
+      "end_time": 1174.88
+    },
+    {
+      "text": "Comprehensive data analytics platform that one could.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1174.96,
+      "end_time": 1178.52
+    },
+    {
+      "text": "Sort of extend globally I think would be absolutely fascinating.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1178.52,
+      "end_time": 1182.88
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 1183.54,
+      "end_time": 1183.86
+    },
+    {
+      "text": "To play around with.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1184.1,
+      "end_time": 1185.14
+    },
+    {
+      "text": "I really do.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1185.14,
+      "end_time": 1185.86
+    },
+    {
+      "text": "And yep, rather exciting actually.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1185.94,
+      "end_time": 1188.14
+    },
+    {
+      "text": "I mean it sort of popped out.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1188.14,
+      "end_time": 1189.86
+    },
+    {
+      "text": "When I was, when I was looking at, when I was looking at the information and went back to your website.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1189.86,
+      "end_time": 1196.34
+    },
+    {
+      "text": "And I also, I mean do you got, you grew recognized by Gartner, is that also.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1196.5,
+      "end_time": 1200.18
+    },
+    {
+      "text": "Yeah, the tech innovation leader.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1201.14,
+      "end_time": 1202.9
+    },
+    {
+      "text": "Yeah, that's right.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1202.98,
+      "end_time": 1204.34
+    },
+    {
+      "text": "We were, we were doing AI before it got sexy Andrew.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1205.06,
+      "end_time": 1208.1
+    },
+    {
+      "text": "And you know there is some, some core core IP in Corvadae which makes it genuinely unique globally as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1209.77,
+      "end_time": 1217.85
+    },
+    {
+      "text": "Pretty defensible technology but I agree, yeah it does jump out.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1218.89,
+      "end_time": 1222.41
+    },
+    {
+      "text": "It's a powerful, powerful platform.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1222.41,
+      "end_time": 1224.25
+    },
+    {
+      "text": "So personally I mean what would you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1225.53,
+      "end_time": 1227.53
+    },
+    {
+      "text": "I mean let's assume that we were.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1227.53,
+      "end_time": 1229.25
+    },
+    {
+      "text": "Able to do a deal and you know, and you and your you know, colleagues got a price that you liked and so forth.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1229.25,
+      "end_time": 1235.29
+    },
+    {
+      "text": "I mean is it to sort of.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1235.29,
+      "end_time": 1238.2
+    },
+    {
+      "text": "Double down on what you're currently doing?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1238.2,
+      "end_time": 1239.88
+    },
+    {
+      "text": "Is it to take corevide bigger?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1239.88,
+      "end_time": 1242.12
+    },
+    {
+      "text": "I mean what would you sort of aspirationally, where would you like to go with this?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1242.12,
+      "end_time": 1246.56
+    },
+    {
+      "text": "So there's a couple of angles.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1247.44,
+      "end_time": 1248.84
+    },
+    {
+      "text": "I mean you know we're in this sales process with the services side of the business.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1248.84,
+      "end_time": 1254.08
+    },
+    {
+      "text": "We are absolutely open to having discussions that can incorporate Corviday.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1254.16,
+      "end_time": 1258.08
+    },
+    {
+      "text": "The reason for the sale of the services side of business is to allow maximum exploitation of Corvadae.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1259.12,
+      "end_time": 1267.23
+    },
+    {
+      "text": "Corvada is a world class enterprise grade analytics platform.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1267.23,
+      "end_time": 1271.75
+    },
+    {
+      "text": "It uniquely is able to measure Very accurately what's happening as people move around on different devices and you can translate that into automated ROI for your customers, which makes it completely incontrovertible.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1271.99,
+      "end_time": 1286.39
+    },
+    {
+      "text": "As a proof point.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1286.71,
+      "end_time": 1288.31
+    },
+    {
+      "text": "The only reason that Corvid A isn't being used by everyone today is it is scrappy startup that people aren't aware of until they come across it.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1288.55,
+      "end_time": 1298.56
+    },
+    {
+      "text": "Then it genuinely changes their view about what's possible with marketing activity.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1298.56,
+      "end_time": 1305.48
+    },
+    {
+      "text": "So for me, I think Corbaday has huge upside.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1305.64,
+      "end_time": 1310.68
+    },
+    {
+      "text": "They're following this strategy of looking to take the services side of the business and accelerate the deployment of Corviday everywhere.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1311.88,
+      "end_time": 1321.73
+    },
+    {
+      "text": "Does Corviday operate on its own PL.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1322.93,
+      "end_time": 1325.01
+    },
+    {
+      "text": "Or is it in the financials for the services business?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1325.09,
+      "end_time": 1327.97
+    },
+    {
+      "text": "So it's separate from all that have been shared over?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1328.45,
+      "end_time": 1332.05
+    },
+    {
+      "text": "The figures you will engage with are just the services side of the organization.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1332.05,
+      "end_time": 1336.45
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1336.93,
+      "end_time": 1337.33
+    },
+    {
+      "text": "And so is the intention to sell.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1337.49,
+      "end_time": 1340.41
+    },
+    {
+      "text": "The services side of the organization, keep Corviday separate or would you consider bundling everything together?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1340.41,
+      "end_time": 1345.09
+    },
+    {
+      "text": "We'd certainly consider bundling everything together.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1345.82,
+      "end_time": 1347.82
+    },
+    {
+      "text": "That would have to be, you know, an additional conversation.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1347.9,
+      "end_time": 1350.94
+    },
+    {
+      "text": "As I say, there's all the financials for that site as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1350.94,
+      "end_time": 1353.82
+    },
+    {
+      "text": "Our original intention is to fund the scaling and growth of Corvidate with this services sale.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1354.3,
+      "end_time": 1361.82
+    },
+    {
+      "text": "So where would you go?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1362.94,
+      "end_time": 1364.06
+    },
+    {
+      "text": "So if you were to split it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1364.46,
+      "end_time": 1365.7
+    },
+    {
+      "text": "Where would you go post sale?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1365.7,
+      "end_time": 1366.98
+    },
+    {
+      "text": "Would you stay with the services side?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1366.98,
+      "end_time": 1368.26
+    },
+    {
+      "text": "Would you go Corvidate?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1368.26,
+      "end_time": 1369.22
+    },
+    {
+      "text": "Would you split your world?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1369.22,
+      "end_time": 1370.82
+    },
+    {
+      "text": "I mean, how does that, how would that work?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1370.82,
+      "end_time": 1372.52
+    },
+    {
+      "text": "I would split my world.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1372.76,
+      "end_time": 1373.96
+    },
+    {
+      "text": "I want to make sure.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1374.04,
+      "end_time": 1375
+    },
+    {
+      "text": "So this is, you know, QC is a brand that I have built from nothing, literally in my bootstrapping all the way up to today.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1375.24,
+      "end_time": 1385.48
+    },
+    {
+      "text": "I want to make in really good hands.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1385.96,
+      "end_time": 1387.839
+    },
+    {
+      "text": "It's performant.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1387.839,
+      "end_time": 1388.72
+    },
+    {
+      "text": "I think it has incredible people and I actually think it has some unique technology of its own if you like.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1388.72,
+      "end_time": 1396.04
+    },
+    {
+      "text": "It's not as advanced as Corvida, it's not a SaaS deployed platform, but it's.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1396.04,
+      "end_time": 1399.76
+    },
+    {
+      "text": "Incredible.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1399.76,
+      "end_time": 1400.28
+    },
+    {
+      "text": "And it embodies my approach to performance marketing.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1402.21,
+      "end_time": 1407.89
+    },
+    {
+      "text": "I genuinely think we can outperform anyone side by side in the marketplace today and I would love to be able to embed that in a startup ecosystem which has a coefficient back end with some arbitrage as you've described, Andrew.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1408.29,
+      "end_time": 1424.05
+    },
+    {
+      "text": "I would be very passionate about that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1424.37,
+      "end_time": 1426.01
+    },
+    {
+      "text": "I would intend to split my time.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1426.01,
+      "end_time": 1427.81
+    },
+    {
+      "text": "You've said you're looking for a three year earn out period.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1429.47,
+      "end_time": 1433.47
+    },
+    {
+      "text": "I was expecting to look at a 12 month or 24 month earnout period where I split my time as part of the sale process, but certainly I'm open minded.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1435.15,
+      "end_time": 1448.67
+    },
+    {
+      "text": "I want to make sure that the services side lands and is effective and can be everything it can be and is in good stewardship and that the team are well placed plus our customers, they really deserve it.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1449.15,
+      "end_time": 1462.85
+    },
+    {
+      "text": "We've got some great customers and yeah, I would have to split my time.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1462.85,
+      "end_time": 1468.25
+    },
+    {
+      "text": "We've got a very efficient setup across both sides of business.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1469.05,
+      "end_time": 1472.25
+    },
+    {
+      "text": "I've essentially been running two businesses for the, you know, particularly the last five years in particular as we've nurtured technology that has become corviday out of the QC business.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1472.25,
+      "end_time": 1484.8
+    },
+    {
+      "text": "So I'm well set for that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1485.84,
+      "end_time": 1487.04
+    },
+    {
+      "text": "I don't mind putting the hours in to make sure that there's success for everyone on the other side.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1487.12,
+      "end_time": 1492.48
+    },
+    {
+      "text": "Do you have a sort of a.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1493.12,
+      "end_time": 1494.44
+    },
+    {
+      "text": "Single successor to the services side of the business or is it a team or how do you, how do you view that?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1494.44,
+      "end_time": 1499.76
+    },
+    {
+      "text": "Yeah, so Jackie who's in the the org charts that have been shared around, she's our head of performance.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1500,
+      "end_time": 1504.88
+    },
+    {
+      "text": "She absolutely runs a tight ship.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1505.2,
+      "end_time": 1507.69
+    },
+    {
+      "text": "She knows what good looks like.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1508.25,
+      "end_time": 1509.77
+    },
+    {
+      "text": "I've been a technical leader in the organization really but the technical aspects of what I do are well distributed into that team.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1510.33,
+      "end_time": 1519.13
+    },
+    {
+      "text": "So it's standalone I think really I bring vision and leadership and outside of that it runs itself as an operation.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1519.69,
+      "end_time": 1530.09
+    },
+    {
+      "text": "You can tell by the, you know, looking at the last three years worth of accounts in there, we haven't been driving it forward as aggressively as we might have done is partly a function of me spending a lot of time incubating and launching a SaaS platform on the, on the side of that as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1531.13,
+      "end_time": 1549.46
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1550.66,
+      "end_time": 1551.46
+    },
+    {
+      "text": "Well so look, I'm, I'm, I'm pretty open for the next round.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1552.42,
+      "end_time": 1558.95
+    },
+    {
+      "text": "I mean obviously we're happy to look at, pardon me, queer click.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1558.95,
+      "end_time": 1563.95
+    },
+    {
+      "text": "You know, on a freestanding basis I can tell you that the corvidae thing is well as you can tell is quite interesting for me and also in part because you know, as I say, I mean we're sitting on top of.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1563.95,
+      "end_time": 1580.51
+    },
+    {
+      "text": "I think a fairly large commitment in Asia where this I think could scale in some very exciting ways which could be very interesting for you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1580.51,
+      "end_time": 1590.7
+    },
+    {
+      "text": "So you know, and, and if you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1591.42,
+      "end_time": 1594.7
+    },
+    {
+      "text": "Wanted to do that and you were willing to sort of share that information with us, you know, we'd like to talk about that as well.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1594.7,
+      "end_time": 1600.78
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1601.34,
+      "end_time": 1601.9
+    },
+    {
+      "text": "Yeah, we can definitely pick some of that up.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1602.3,
+      "end_time": 1604.62
+    },
+    {
+      "text": "Brian Andrew, is it a possibility for perhaps two stage approach?",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 1604.62,
+      "end_time": 1609.26
+    },
+    {
+      "text": "So the query click see to move that through because that's all ready to go and perhaps partner on the COVID day side see how that works.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 1609.58,
+      "end_time": 1617.11
+    },
+    {
+      "text": "Prior to something a bit more.",
+      "speaker_name": "Brian Fitzpatrick",
+      "start_time": 1617.43,
+      "end_time": 1619.35
+    },
+    {
+      "text": "Well, I don't know, anything is possible.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1621.59,
+      "end_time": 1623.11
+    },
+    {
+      "text": "I mean I'm happy to do sort of like a two speed thing.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1623.19,
+      "end_time": 1628.55
+    },
+    {
+      "text": "You mean in other words, sort of JV on the.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1628.55,
+      "end_time": 1630.79
+    },
+    {
+      "text": "Because I mean I'm not a.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1631.35,
+      "end_time": 1632.39
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1632.87,
+      "end_time": 1633.15
+    },
+    {
+      "text": "Think informal partnerships don't work out very well.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1633.15,
+      "end_time": 1636.07
+    },
+    {
+      "text": "I mean it's been my experience, you know, and it's.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1636.19,
+      "end_time": 1638.59
+    },
+    {
+      "text": "Everybody needs to have skin in the game.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1638.59,
+      "end_time": 1640.03
+    },
+    {
+      "text": "But sure, I mean we should talk about it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1640.03,
+      "end_time": 1642.83
+    },
+    {
+      "text": "I will tell you that my, my experience from, at least from a tech.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1642.83,
+      "end_time": 1648.43
+    },
+    {
+      "text": "Stack side is that generally we've been.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1648.43,
+      "end_time": 1650.23
+    },
+    {
+      "text": "Able to not, not within quanta but.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1650.23,
+      "end_time": 1654.51
+    },
+    {
+      "text": "Past experiences that we've generally been able.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1654.67,
+      "end_time": 1657.19
+    },
+    {
+      "text": "To cut the burn rate from, you know, SaaS development by as much as.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1657.19,
+      "end_time": 1664.85
+    },
+    {
+      "text": "60 to 70% by moving a lot.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1664.85,
+      "end_time": 1667.29
+    },
+    {
+      "text": "Of things to, to India.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1667.29,
+      "end_time": 1670.13
+    },
+    {
+      "text": "And that still is, I mean, I.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1670.85,
+      "end_time": 1672.57
+    },
+    {
+      "text": "Think that still is the case relative.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1672.57,
+      "end_time": 1675.01
+    },
+    {
+      "text": "To most major markets including, including Singapore.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1675.01,
+      "end_time": 1679.85
+    },
+    {
+      "text": "Maybe there's less of a price advantage with places like Vietnam, but the quality is actually substantially higher quality and delivery.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1679.85,
+      "end_time": 1687.57
+    },
+    {
+      "text": "So it does change the economics of what you're talking about doing, which is something that we could offer that sometimes you don't see normally standard VC propositions.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1687.73,
+      "end_time": 1701.35
+    },
+    {
+      "text": "That they throw a lot of money.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1701.35,
+      "end_time": 1702.55
+    },
+    {
+      "text": "At you until you're sort of overwhelmed.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1702.55,
+      "end_time": 1705.91
+    },
+    {
+      "text": "By marketing costs and then they look to do some other deal and scale out of that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1705.91,
+      "end_time": 1710.15
+    },
+    {
+      "text": "Whereas I think we could kind of.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1710.15,
+      "end_time": 1711.55
+    },
+    {
+      "text": "Possibly get you to where you want to go faster and remove that, you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1711.71,
+      "end_time": 1718.32
+    },
+    {
+      "text": "Know, the pain of, you know, that first stage round.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1718.32,
+      "end_time": 1721.8
+    },
+    {
+      "text": "It's just a thought anyway, but I mean, I know that you weren't prepared to talk about Corvid A on this.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1723.56,
+      "end_time": 1727.6
+    },
+    {
+      "text": "Call, even though I was, but I just wanted to just put that out there.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1727.6,
+      "end_time": 1731.08
+    },
+    {
+      "text": "I'm always happy to talk about COVID A and QC anytime, Andrew.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1731.56,
+      "end_time": 1735.16
+    },
+    {
+      "text": "Sure, sure, sure.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1735.48,
+      "end_time": 1736.24
+    },
+    {
+      "text": "But yeah, I mean, why not?",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1736.24,
+      "end_time": 1737.32
+    },
+    {
+      "text": "But I think, I think that we, you know, we need to start talking, you know, some numbers if you have.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1737.32,
+      "end_time": 1743.16
+    },
+    {
+      "text": "Them to share and would be willing.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1743.16,
+      "end_time": 1744.64
+    },
+    {
+      "text": "To share them with us.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1744.64,
+      "end_time": 1745.48
+    },
+    {
+      "text": "I think certainly we'd like to take a look.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1745.48,
+      "end_time": 1747.63
+    },
+    {
+      "text": "It might take us.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1748.27,
+      "end_time": 1749.31
+    },
+    {
+      "text": "So Arnab, our CFO, he's, he's gone for the next 10 days so it might take us to middle of next week to re engage, but we certainly.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1749.55,
+      "end_time": 1760.63
+    },
+    {
+      "text": "Want to do that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1760.63,
+      "end_time": 1761.39
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 1762.11,
+      "end_time": 1762.51
+    },
+    {
+      "text": "Well, we definitely want to re engage as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1762.99,
+      "end_time": 1764.87
+    },
+    {
+      "text": "I think we should share some details and keep an open mind.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1764.87,
+      "end_time": 1768.03
+    },
+    {
+      "text": "Yep, yeah, that'd be great.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1768.19,
+      "end_time": 1770.23
+    },
+    {
+      "text": "I'm going to be, actually I'm going.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1770.23,
+      "end_time": 1771.63
+    },
+    {
+      "text": "To be in the UK next month.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1771.63,
+      "end_time": 1772.91
+    },
+    {
+      "text": "If you guys are around and they're free.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1774.18,
+      "end_time": 1775.7
+    },
+    {
+      "text": "I mean, it's.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1775.7,
+      "end_time": 1776.26
+    },
+    {
+      "text": "Sometimes it's nice to see each other in person.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1776.26,
+      "end_time": 1778.18
+    },
+    {
+      "text": "Yeah, absolutely.",
+      "speaker_name": "Suneet Karkala",
+      "start_time": 1778.74,
+      "end_time": 1779.74
+    },
+    {
+      "text": "If you have a few dates, do share them.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1779.74,
+      "end_time": 1781.7
+    },
+    {
+      "text": "I will, I will.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1781.94,
+      "end_time": 1783.62
+    },
+    {
+      "text": "Fantastic.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1784.82,
+      "end_time": 1785.62
+    },
+    {
+      "text": "And then if there's, you know, if you have any questions in the interim.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1786.18,
+      "end_time": 1788.98
+    },
+    {
+      "text": "You know, please let me know.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1789.62,
+      "end_time": 1791.34
+    },
+    {
+      "text": "I mean I know that there's not a lot on the Quanta website if.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1791.34,
+      "end_time": 1794.94
+    },
+    {
+      "text": "You want, if you haven't looked already.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1794.94,
+      "end_time": 1796.18
+    },
+    {
+      "text": "Quantacom Tech, but I can send you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1796.5,
+      "end_time": 1801.07
+    },
+    {
+      "text": "If you don't have it already.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1801.47,
+      "end_time": 1802.59
+    },
+    {
+      "text": "I think, I think Andy, we sent.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1802.59,
+      "end_time": 1804.23
+    },
+    {
+      "text": "To you guys a while back an earlier iteration of.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1804.23,
+      "end_time": 1808.35
+    },
+    {
+      "text": "It's a section of our investor memo which has, you know, our investors and things like that.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1808.43,
+      "end_time": 1814.67
+    },
+    {
+      "text": "And if you don't, if you don't have a later version of it, we can send that along to you as well.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1814.67,
+      "end_time": 1819.31
+    },
+    {
+      "text": "I'll have a look for it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1819.95,
+      "end_time": 1820.91
+    },
+    {
+      "text": "Andrew.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1820.91,
+      "end_time": 1821.31
+    },
+    {
+      "text": "Yeah, if we, if we've got it, I'll forward it onto the guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1821.31,
+      "end_time": 1823.91
+    },
+    {
+      "text": "Yeah, it's no problem.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1823.91,
+      "end_time": 1824.63
+    },
+    {
+      "text": "I'll, I'll send it because we've made.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1824.63,
+      "end_time": 1826.53
+    },
+    {
+      "text": "A few changes anyway over the last 30 days.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1826.53,
+      "end_time": 1828.77
+    },
+    {
+      "text": "Yeah, I'd like to see that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1828.77,
+      "end_time": 1829.61
+    },
+    {
+      "text": "Thank you, Andrew.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1829.61,
+      "end_time": 1830.49
+    },
+    {
+      "text": "Summary as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1831.29,
+      "end_time": 1832.13
+    },
+    {
+      "text": "That was very helpful and understanding your, your ambitions and velocity and timings there, that's making it make a lot, a lot of sense.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1832.13,
+      "end_time": 1840.49
+    },
+    {
+      "text": "Excellent.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1841.85,
+      "end_time": 1842.37
+    },
+    {
+      "text": "Well, good.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1842.37,
+      "end_time": 1842.89
+    },
+    {
+      "text": "Well, it was great meeting everyone and I guess the next step is on our side in terms of coming back.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1842.89,
+      "end_time": 1850.09
+    },
+    {
+      "text": "To you with questions and due diligence information on the services business and, and.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1850.09,
+      "end_time": 1855.13
+    },
+    {
+      "text": "For you guys if you could, you.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1855.13,
+      "end_time": 1856.37
+    },
+    {
+      "text": "Want to send along an overview of Corevide, we'd love to have a look at it.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1856.37,
+      "end_time": 1860.09
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1860.41,
+      "end_time": 1860.81
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1861.21,
+      "end_time": 1862.01
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1862.81,
+      "end_time": 1863.29
+    },
+    {
+      "text": "All right, thank you everybody for attending and yeah, we'll be in touch via email, Andrew, with some follow up stuff and just make sure we get those questions over to the query click team.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1863.29,
+      "end_time": 1872.09
+    },
+    {
+      "text": "Much appreciated doing that one.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1872.65,
+      "end_time": 1875.69
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1877.93,
+      "end_time": 1878.41
+    },
+    {
+      "text": "Thanks Sunit.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1880.09,
+      "end_time": 1880.97
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1881.77,
+      "end_time": 1882.09
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Goldberg",
+      "start_time": 1887.69,
+      "end_time": 1888.33
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "acquisition",
+      "performance marketing",
+      "rollup",
+      "Corvidae platform",
+      "India expansion",
+      "analytics technology"
+    ],
+    "action_items": "\n**Andrew Goldberg**\nSend updated investor memo with recent changes from the last 30 days to QueryClick team (30:28)\nShare available dates for UK visit next month for in-person meeting (29:41)\nRe-engage with discussions after CFO returns from holiday (middle of next week) (29:22)\n\n**Andrew Day**\nForward investor memo to QueryClick team if already available (30:19)\nFollow up with questions and due diligence information on services business (31:02)\n\n**Christopher Liversidge**\nSend overview of Corvidae platform to Quanta team (31:00)\n",
+    "outline": null,
+    "overview": "- Quanta is a buy-and-build rollup company focused on expanding its brand reach beyond Asia, founded 11 months ago with backing from Indian financial family offices.\n- CFO Arnab Chowdhury initially introduced QueryClick to Quanta, highlighting strong transactional interest in the digital marketing space.\n- QueryClick, founded by Christopher Liversidge in 2008, emphasizes high-quality technical solutions and performance-driven strategies for enterprise clients.\n- Halo reporting technology removed £1 million media spend for a customer, showcasing QueryClick's effectiveness in eliminating paid media cannibalization.\n- Corvidae, a spin-off from QueryClick, serves as an AI-enhanced analytics platform and has been recognized by Gartner as a tech innovation leader.\n- Potential acquisition strategy includes a two-stage approach: first acquiring QueryClick services followed by Corvidae partnership or acquisition.\n- Scaling Corvidae in Southeast Asian markets is viable due to Quanta's established presence and could reduce SaaS development burn rates by 60-70%.\n- Christopher Liversidge could divide his time between the services business and Corvidae post-acquisition, ensuring leadership continuity.\n- Both companies are open to bundling services and Corvidae in a single transaction, enhancing strategic alignment.\n- Follow-up discussions delayed until CFO Arnab Chowdhury returns from holiday, with plans for in-person meetings and detailed financial exchanges.",
+    "short_summary": "Quanta, a buy-and-build rollup company founded 11 months ago with support from Indian financial family offices, is focused on expanding its brand beyond Asia. CFO Arnab Chowdhury introduced QueryClick, which offers high-quality technical solutions and has demonstrated effectiveness in digital marketing by eliminating unnecessary media spend through its Halo reporting technology. Additionally, Corvidae, a spinoff from QueryClick recognized as a tech innovation leader by Gartner, enhances analytics with AI capabilities. Quanta's potential acquisition strategy involves a two-stage approach, starting with QueryClick's services and possibly partnering with or acquiring Corvidae afterward. The scalability of Corvidae in Southeast Asia is promising, potentially reducing SaaS development costs significantly. Follow-up discussions are scheduled after Chowdhury's return from holiday.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JXN9H8CM88RTFGHW2XSG9DRG",
+  "audio_url": "https://cdn.fireflies.ai/01JXN9H8CM88RTFGHW2XSG9DRG/audio.mp3?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlhOOUg4Q004OFJURkdIVzJYU0c5RFJHL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=bI-ypnByre0VPc9FYspdicNovjobikXsfbwZjN7UYl1Xszk5yJzl3ubl7wN~Wk5aJ8-vOjS79wOY-FhQEsnTfdaORyYisWmZBotfb7y~TPWwrSk8mWmE-nlFtEiHrtr9Srk7YBkNCg3wZrOzWrI4diKDgFwjIr1vuIf1ormd9imIyp1winNKsV3yNzDljeuJmJpDAqc7vMxf3aHfGFMpqwp8xfaz80O7a-mqw5kCBPMfmS3P26RzHEOE~j07Cxb6eKUaN9MTno28kg3czeP2GkoOyRRtjUepHhVaZ-pHoEe~DiX1jy8VznAi47lKZiVNlkVvm3RIGOcKVgImT0-Rxw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JXN9H8CM88RTFGHW2XSG9DRG/video.mp4?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlhOOUg4Q004OFJURkdIVzJYU0c5RFJHL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=yiCexpfJ48BICq7WjAuJH1ysbNBxCXufJkBGNPOxbqOwiJxna7d-0-zE75V2LjkSUga~ja6zGYfsXQ-DdaAXWH3~du6ByQ1fy~bDhnq5BoKGTTpmwhLt6F-439nWDYaqJ-~8hBlzSRloLZc2VORSemMxoELDlm-NRn9CY3gIM8yVVO-PNsYhrj~yMDashuJWyoH0Btfi2xELeIp9pU14lf5Aggu~datbGU6EcBfXwGDp5lW7vGKbxADj8VbByrUqolVmFZjmz9wA2T7phO5zwz2NZWXgMx9BZw0XOOGMBYHQE8wo7~-yFXudUAivmSdWVIwcb-9Us4sa~hWAxlj5aQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

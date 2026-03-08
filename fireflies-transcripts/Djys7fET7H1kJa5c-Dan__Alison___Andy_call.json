@@ -1,0 +1,1906 @@
+{
+  "id": "Djys7fET7H1kJa5c",
+  "title": "Dan, Alison & Andy call",
+  "date": 1729247400000,
+  "dateString": "2024-10-18T10:30:00.000Z",
+  "duration": 18,
+  "participants": [
+    "andrew.day@capitala.co,alison@goodwnumbers.com,dan@found-studio.com",
+    "andy.day@capitala.co",
+    "alison@goodwnumbers.com"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Alison Springham",
+      "email": "alison@goodwnumbers.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Dan",
+      "email": "dan@found-studio.com",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi, Alex.",
+      "speaker_name": "Dan Moore",
+      "start_time": 5.68,
+      "end_time": 6.016
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Dan Moore",
+      "start_time": 6.016,
+      "end_time": 6.77
+    },
+    {
+      "text": "Good, how are you?",
+      "speaker_name": "Alison Springham",
+      "start_time": 7.35,
+      "end_time": 8.614
+    },
+    {
+      "text": "I'm right, thank you.",
+      "speaker_name": "Dan Moore",
+      "start_time": 8.782,
+      "end_time": 10.01
+    },
+    {
+      "text": "I haven't ignored your message.",
+      "speaker_name": "Alison Springham",
+      "start_time": 13.03,
+      "end_time": 14.43
+    },
+    {
+      "text": "I'm just trying to move some things around so I can join that 1230.",
+      "speaker_name": "Alison Springham",
+      "start_time": 14.47,
+      "end_time": 17.77
+    },
+    {
+      "text": "Oh, that's fine.",
+      "speaker_name": "Dan Moore",
+      "start_time": 18.19,
+      "end_time": 19.342
+    },
+    {
+      "text": "It's been one of those weeks, I think.",
+      "speaker_name": "Dan Moore",
+      "start_time": 19.526,
+      "end_time": 21.526
+    },
+    {
+      "text": "And are you there or only in AI?",
+      "speaker_name": "Dan Moore",
+      "start_time": 21.718,
+      "end_time": 24.17
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Alison Springham",
+      "start_time": 28.84,
+      "end_time": 29.62
+    },
+    {
+      "text": "There he comes.",
+      "speaker_name": "Dan Moore",
+      "start_time": 35.04,
+      "end_time": 35.856
+    },
+    {
+      "text": "I think that thing comes on first, doesn't it?",
+      "speaker_name": "Alison Springham",
+      "start_time": 35.928,
+      "end_time": 38.376
+    },
+    {
+      "text": "Yeah, it looks like it, yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 38.528,
+      "end_time": 40.02
+    },
+    {
+      "text": "Ah, there he is.",
+      "speaker_name": "Dan Moore",
+      "start_time": 41.56,
+      "end_time": 42.432
+    },
+    {
+      "text": "The real Andy day.",
+      "speaker_name": "Dan Moore",
+      "start_time": 42.456,
+      "end_time": 43.344
+    },
+    {
+      "text": "Not the AI version.",
+      "speaker_name": "Dan Moore",
+      "start_time": 43.392,
+      "end_time": 44.74
+    },
+    {
+      "text": "Nice to meet you, Andy.",
+      "speaker_name": "Dan Moore",
+      "start_time": 46.96,
+      "end_time": 47.832
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Dan Moore",
+      "start_time": 47.856,
+      "end_time": 48.552
+    },
+    {
+      "text": "Yeah, good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 48.696,
+      "end_time": 49.72
+    },
+    {
+      "text": "Nice to meet you too, Dan.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.76,
+      "end_time": 50.656
+    },
+    {
+      "text": "It's been a.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.688,
+      "end_time": 52.13
+    },
+    {
+      "text": "Well, it's been a while since you started the conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 52.16,
+      "end_time": 54.142
+    },
+    {
+      "text": "Not normally, um, one for keeping out of these conversations, but seems to be handling everything okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 54.206,
+      "end_time": 60.758
+    },
+    {
+      "text": "But nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 60.814,
+      "end_time": 61.726
+    },
+    {
+      "text": "Heard a lot about you.",
+      "speaker_name": "Andy Day",
+      "start_time": 61.798,
+      "end_time": 63.014
+    },
+    {
+      "text": "Yes, yes.",
+      "speaker_name": "Dan Moore",
+      "start_time": 63.182,
+      "end_time": 63.91
+    },
+    {
+      "text": "Thanks, mate.",
+      "speaker_name": "Dan Moore",
+      "start_time": 63.95,
+      "end_time": 64.454
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 64.502,
+      "end_time": 64.886
+    },
+    {
+      "text": "When was it?",
+      "speaker_name": "Alison Springham",
+      "start_time": 64.918,
+      "end_time": 65.366
+    },
+    {
+      "text": "Probably early summer, wasn't it?",
+      "speaker_name": "Dan Moore",
+      "start_time": 65.398,
+      "end_time": 66.742
+    },
+    {
+      "text": "You got in touch.",
+      "speaker_name": "Dan Moore",
+      "start_time": 66.846,
+      "end_time": 68.01
+    },
+    {
+      "text": "Yeah, it's been a while.",
+      "speaker_name": "Andy Day",
+      "start_time": 68.79,
+      "end_time": 70.078
+    },
+    {
+      "text": "Yeah, it's been a long summer.",
+      "speaker_name": "Andy Day",
+      "start_time": 70.214,
+      "end_time": 72.01
+    },
+    {
+      "text": "It's the last day of, uh, school term today, so I'm kind of like everything's.",
+      "speaker_name": "Andy Day",
+      "start_time": 73.03,
+      "end_time": 77.726
+    },
+    {
+      "text": "Oh, yeah, mine's.",
+      "speaker_name": "Dan Moore",
+      "start_time": 77.838,
+      "end_time": 78.734
+    },
+    {
+      "text": "Yeah, mine's next week.",
+      "speaker_name": "Dan Moore",
+      "start_time": 78.782,
+      "end_time": 79.99
+    },
+    {
+      "text": "Um, yeah, everything's ready to sort of pause for a bit, which is great.",
+      "speaker_name": "Andy Day",
+      "start_time": 80.07,
+      "end_time": 85.444
+    },
+    {
+      "text": "So we can have some late nights and late mornings for a change.",
+      "speaker_name": "Andy Day",
+      "start_time": 85.492,
+      "end_time": 89.24
+    },
+    {
+      "text": "It'll be fun.",
+      "speaker_name": "Andy Day",
+      "start_time": 90.02,
+      "end_time": 91.16
+    },
+    {
+      "text": "And nice to meet you too, Alison.",
+      "speaker_name": "Andy Day",
+      "start_time": 91.58,
+      "end_time": 93.572
+    },
+    {
+      "text": "Yes, yes, likewise.",
+      "speaker_name": "Alison Springham",
+      "start_time": 93.756,
+      "end_time": 95.244
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 95.372,
+      "end_time": 95.612
+    },
+    {
+      "text": "Heather speaks very highly of you.",
+      "speaker_name": "Andy Day",
+      "start_time": 95.636,
+      "end_time": 97.004
+    },
+    {
+      "text": "So she actually told me that I should meet you separately from Dan at some point.",
+      "speaker_name": "Andy Day",
+      "start_time": 97.052,
+      "end_time": 102.68
+    },
+    {
+      "text": "I'm not sure what to make of that, Andy, but I'll let it go.",
+      "speaker_name": "Dan Moore",
+      "start_time": 106.02,
+      "end_time": 109.644
+    },
+    {
+      "text": "I think just that there was more business to be done, potentially, and more discussions to have.",
+      "speaker_name": "Andy Day",
+      "start_time": 109.812,
+      "end_time": 114.08
+    },
+    {
+      "text": "But nothing like sneaking behind your back, then?",
+      "speaker_name": "Andy Day",
+      "start_time": 116.22,
+      "end_time": 119.08
+    },
+    {
+      "text": "No, it's fine.",
+      "speaker_name": "Dan Moore",
+      "start_time": 119.54,
+      "end_time": 120.38
+    },
+    {
+      "text": "I know Elliot and I have spoken about it, so.",
+      "speaker_name": "Dan Moore",
+      "start_time": 120.42,
+      "end_time": 123.812
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Dan Moore",
+      "start_time": 123.956,
+      "end_time": 124.468
+    },
+    {
+      "text": "Where do you want to go, Andy?",
+      "speaker_name": "Dan Moore",
+      "start_time": 124.564,
+      "end_time": 126.324
+    },
+    {
+      "text": "Well, I just kind of wanted to get a steer on what you guys are thinking, because obviously we work on the buy and the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 126.372,
+      "end_time": 133.3
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 133.38,
+      "end_time": 134.052
+    },
+    {
+      "text": "It's on the sell side as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 134.236,
+      "end_time": 136
+    },
+    {
+      "text": "We have worked with companies, so we're obviously very involved on the buy side of this deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 136.34,
+      "end_time": 148.44
+    },
+    {
+      "text": "But the fact that we represent sellers gives us a lot of insight into how these deals work and what the principles tend to be, et cetera.",
+      "speaker_name": "Andy Day",
+      "start_time": 148.82,
+      "end_time": 157.9
+    },
+    {
+      "text": "So, yeah, I just wanted to understand where you're at and also just to understand, you know, the multiple that you've come back with and whether that's your, you know, best and final, and if it is or if it's close to that, where you're getting the multiples from.",
+      "speaker_name": "Andy Day",
+      "start_time": 157.94,
+      "end_time": 175.074
+    },
+    {
+      "text": "Because I would like to talk you through our real world experience with agencies and just.",
+      "speaker_name": "Andy Day",
+      "start_time": 175.122,
+      "end_time": 181.41
+    },
+    {
+      "text": "Yeah, no, I mean there's a few things really.",
+      "speaker_name": "Alison Springham",
+      "start_time": 181.45,
+      "end_time": 185.266
+    },
+    {
+      "text": "I think firstly, Dan hasn't proactively gone out to the market.",
+      "speaker_name": "Alison Springham",
+      "start_time": 185.338,
+      "end_time": 191.12
+    },
+    {
+      "text": "You know, he's had, I don't know, probably two or three people approach him in the last 1218 months as happens with everyone.",
+      "speaker_name": "Alison Springham",
+      "start_time": 192.14,
+      "end_time": 200.556
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Alison Springham",
+      "start_time": 200.628,
+      "end_time": 201.24
+    },
+    {
+      "text": "And, you know, this one kind of, I think just from the proposition point of view was quite interesting.",
+      "speaker_name": "Alison Springham",
+      "start_time": 201.82,
+      "end_time": 207.64
+    },
+    {
+      "text": "That's why we've sort of taken a bit further to look at.",
+      "speaker_name": "Alison Springham",
+      "start_time": 208.22,
+      "end_time": 210.84
+    },
+    {
+      "text": "But I guess the difference between whether you practically want to go out versus getting approached themselves whilst the ultimate game is the same, it does put a different perspective, I think, on the value and why you're doing something and whether, I guess because of other offers that we've looked at, the multiple has been higher.",
+      "speaker_name": "Alison Springham",
+      "start_time": 211.46,
+      "end_time": 236.8
+    },
+    {
+      "text": "But the proposition of those ones weren't so interesting.",
+      "speaker_name": "Alison Springham",
+      "start_time": 237.1,
+      "end_time": 240.82
+    },
+    {
+      "text": "And Dan's like, well, I'd rather kind of carry on as I am kind of thing but it does give you, I guess, a figure in your head that you kind of think, well, if he was going to do something, it'd have to be something close to that.",
+      "speaker_name": "Alison Springham",
+      "start_time": 240.86,
+      "end_time": 254.816
+    },
+    {
+      "text": "And I think for anyone when they sell and you know, you'll appreciate this as much as anyone else when you do sell business, obviously you want to know there's another sort of know event down the road but it has to be significant enough on day one that if it does all go horribly wrong, you do feel that you actually de risked some money and didn't lose everything.",
+      "speaker_name": "Alison Springham",
+      "start_time": 254.968,
+      "end_time": 280.76
+    },
+    {
+      "text": "And I think that's where we're kind of stuck on this one a little bit because I think they're, you know, the guys are really nice from what we've, you know, we've only met them a few times.",
+      "speaker_name": "Alison Springham",
+      "start_time": 281.38,
+      "end_time": 290.844
+    },
+    {
+      "text": "Their proposition is great but they are still new to market so there is an element of risk with that.",
+      "speaker_name": "Alison Springham",
+      "start_time": 291.012,
+      "end_time": 297.516
+    },
+    {
+      "text": "They're not unknown.",
+      "speaker_name": "Alison Springham",
+      "start_time": 297.588,
+      "end_time": 298.652
+    },
+    {
+      "text": "The business isn't a known commodity, if you like, and if it all goes reasonably well then I think everyone will, you know, be really happy and make a lot of money from it.",
+      "speaker_name": "Alison Springham",
+      "start_time": 298.796,
+      "end_time": 309.716
+    },
+    {
+      "text": "But it's just that day one money, we feel, just wasn't.",
+      "speaker_name": "Alison Springham",
+      "start_time": 309.748,
+      "end_time": 315.732
+    },
+    {
+      "text": "What wasn't enough for Dan to feel like that was, you know, and with everything.",
+      "speaker_name": "Alison Springham",
+      "start_time": 315.836,
+      "end_time": 320.108
+    },
+    {
+      "text": "And it's like I get we worded.",
+      "speaker_name": "Alison Springham",
+      "start_time": 320.164,
+      "end_time": 322.66
+    },
+    {
+      "text": "I was trying to word that email back to them so it didn't annoy them and put their backs up because it's really difficult, isn't it?",
+      "speaker_name": "Alison Springham",
+      "start_time": 322.7,
+      "end_time": 329.112
+    },
+    {
+      "text": "And I clearly did manage to do that.",
+      "speaker_name": "Alison Springham",
+      "start_time": 329.176,
+      "end_time": 331.42
+    },
+    {
+      "text": "It's difficult because I think in any deal both parties need to feel that they've got a good deal, because otherwise it's never going to work on either side.",
+      "speaker_name": "Alison Springham",
+      "start_time": 332.6,
+      "end_time": 341.208
+    },
+    {
+      "text": "And whether that's them or whether that's us, it's like you both need to feel comfortable with it.",
+      "speaker_name": "Alison Springham",
+      "start_time": 341.264,
+      "end_time": 346
+    },
+    {
+      "text": "And I just don't think for Dan, we're just quite there at the moment.",
+      "speaker_name": "Alison Springham",
+      "start_time": 346.12,
+      "end_time": 349.936
+    },
+    {
+      "text": "I actually heard recently, which I quite like, that somebody said they're at both sides of the deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 350.128,
+      "end_time": 355.272
+    },
+    {
+      "text": "I have to feel like they both lost out on something for it to.",
+      "speaker_name": "Andy Day",
+      "start_time": 355.296,
+      "end_time": 358.14
+    },
+    {
+      "text": "Yeah, I've heard that with lawyers, Andy.",
+      "speaker_name": "Dan Moore",
+      "start_time": 358.88,
+      "end_time": 360.9
+    },
+    {
+      "text": "Yeah, we don't trust lawyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 361.52,
+      "end_time": 362.98
+    },
+    {
+      "text": "Ok, yeah, that's fair enough, and I appreciate some of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 364.6,
+      "end_time": 367.664
+    },
+    {
+      "text": "But I think there's a big difference between companies coming knocking on doors and companies actually being able to complete a transaction.",
+      "speaker_name": "Andy Day",
+      "start_time": 367.712,
+      "end_time": 374.344
+    },
+    {
+      "text": "And there is a vast difference.",
+      "speaker_name": "Andy Day",
+      "start_time": 374.392,
+      "end_time": 375.736
+    },
+    {
+      "text": "And obviously, one of our main jobs in life is knocking on doors on behalf of companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 375.768,
+      "end_time": 381.66
+    },
+    {
+      "text": "I don't know what our statistic is exactly, but I certainly know industry wide, it's like one in ten deals closed, and that's from an offer onwards or assigned.",
+      "speaker_name": "Andy Day",
+      "start_time": 382.18,
+      "end_time": 392.092
+    },
+    {
+      "text": "Loi, I think it might even be so, you know, the offer and the conversation is a lot different than somebody that's willing and actively closing deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 392.116,
+      "end_time": 403.916
+    },
+    {
+      "text": "Yeah, yeah, no, I appreciate that.",
+      "speaker_name": "Alison Springham",
+      "start_time": 403.988,
+      "end_time": 405.748
+    },
+    {
+      "text": "They never close.",
+      "speaker_name": "Andy Day",
+      "start_time": 405.884,
+      "end_time": 406.652
+    },
+    {
+      "text": "I mean, even on my experience, it's really frustrating.",
+      "speaker_name": "Andy Day",
+      "start_time": 406.716,
+      "end_time": 408.964
+    },
+    {
+      "text": "Part of working in M and A is no matter how far down the line we get, there's always potential for it to not close.",
+      "speaker_name": "Andy Day",
+      "start_time": 409.012,
+      "end_time": 415.966
+    },
+    {
+      "text": "And that's really quite big.",
+      "speaker_name": "Alison Springham",
+      "start_time": 416.118,
+      "end_time": 417.686
+    },
+    {
+      "text": "Be very relaxed about everything.",
+      "speaker_name": "Andy Day",
+      "start_time": 417.878,
+      "end_time": 419.502
+    },
+    {
+      "text": "I've been really lucky.",
+      "speaker_name": "Alison Springham",
+      "start_time": 419.606,
+      "end_time": 420.502
+    },
+    {
+      "text": "I don't think I've ever worked on a deal where it hasn't actually completed.",
+      "speaker_name": "Alison Springham",
+      "start_time": 420.526,
+      "end_time": 424.09
+    },
+    {
+      "text": "No, I don't think I have, actually.",
+      "speaker_name": "Alison Springham",
+      "start_time": 425.67,
+      "end_time": 426.942
+    },
+    {
+      "text": "But I think it got to like loi stage anyway.",
+      "speaker_name": "Alison Springham",
+      "start_time": 427.006,
+      "end_time": 430.526
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 430.678,
+      "end_time": 431.062
+    },
+    {
+      "text": "You possibly might get called in at the stage where they need you.",
+      "speaker_name": "Andy Day",
+      "start_time": 431.126,
+      "end_time": 434.614
+    },
+    {
+      "text": "It might be passed.",
+      "speaker_name": "Andy Day",
+      "start_time": 434.622,
+      "end_time": 435.662
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Alison Springham",
+      "start_time": 435.806,
+      "end_time": 436.486
+    },
+    {
+      "text": "No, absolutely.",
+      "speaker_name": "Alison Springham",
+      "start_time": 436.518,
+      "end_time": 437.062
+    },
+    {
+      "text": "No, but I do appreciate that.",
+      "speaker_name": "Alison Springham",
+      "start_time": 437.086,
+      "end_time": 438.93
+    },
+    {
+      "text": "So, anyway, my point being that, of course there are bigger offers, just to give you an example, just in this process.",
+      "speaker_name": "Andy Day",
+      "start_time": 439.67,
+      "end_time": 446.01
+    },
+    {
+      "text": "So we approached company at the start of the year.",
+      "speaker_name": "Andy Day",
+      "start_time": 446.09,
+      "end_time": 447.866
+    },
+    {
+      "text": "I know them quite well.",
+      "speaker_name": "Andy Day",
+      "start_time": 447.898,
+      "end_time": 448.986
+    },
+    {
+      "text": "They've actually been on the market sort of privately for probably two years.",
+      "speaker_name": "Andy Day",
+      "start_time": 449.098,
+      "end_time": 454.83
+    },
+    {
+      "text": "I met them at Babington, just a chance meeting.",
+      "speaker_name": "Andy Day",
+      "start_time": 455.49,
+      "end_time": 457.858
+    },
+    {
+      "text": "Found out he ran an agency and we started talking.",
+      "speaker_name": "Andy Day",
+      "start_time": 457.954,
+      "end_time": 460.35
+    },
+    {
+      "text": "We made them an offer, Jeff and Travis made them an offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 461.93,
+      "end_time": 464.578
+    },
+    {
+      "text": "And they said, you know what?",
+      "speaker_name": "Andy Day",
+      "start_time": 464.754,
+      "end_time": 466.738
+    },
+    {
+      "text": "We've got a better offer on the table at the moment for a private equity firm.",
+      "speaker_name": "Andy Day",
+      "start_time": 466.754,
+      "end_time": 469.79
+    },
+    {
+      "text": "So Jeff and Travis are pretty standard with their way forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 470.16,
+      "end_time": 474.104
+    },
+    {
+      "text": "They said, if it's a better offer than we can offer, then go for it.",
+      "speaker_name": "Andy Day",
+      "start_time": 474.152,
+      "end_time": 477.8
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Alison Springham",
+      "start_time": 477.92,
+      "end_time": 478.336
+    },
+    {
+      "text": "Six months later, they get back in touch.",
+      "speaker_name": "Andy Day",
+      "start_time": 478.408,
+      "end_time": 480.984
+    },
+    {
+      "text": "Hey, Andy, how's things going?",
+      "speaker_name": "Andy Day",
+      "start_time": 481.032,
+      "end_time": 483.048
+    },
+    {
+      "text": "We're still waiting on this deal to close.",
+      "speaker_name": "Andy Day",
+      "start_time": 483.184,
+      "end_time": 484.776
+    },
+    {
+      "text": "I mean, it's still on the table, but they're just messing around.",
+      "speaker_name": "Andy Day",
+      "start_time": 484.848,
+      "end_time": 488.7
+    },
+    {
+      "text": "And this isn't a freak event.",
+      "speaker_name": "Andy Day",
+      "start_time": 490,
+      "end_time": 492.608
+    },
+    {
+      "text": "It's not an outlier.",
+      "speaker_name": "Andy Day",
+      "start_time": 492.664,
+      "end_time": 493.392
+    },
+    {
+      "text": "It's something I hear all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 493.456,
+      "end_time": 495.08
+    },
+    {
+      "text": "Companies that we spoke to a year ago, two years ago, were about to close the deal, and it doesn't close.",
+      "speaker_name": "Andy Day",
+      "start_time": 495.2,
+      "end_time": 499.98
+    },
+    {
+      "text": "You know, there is a big difference.",
+      "speaker_name": "Andy Day",
+      "start_time": 500.64,
+      "end_time": 502.272
+    },
+    {
+      "text": "And I think these guys are serious closers.",
+      "speaker_name": "Andy Day",
+      "start_time": 502.416,
+      "end_time": 504.8
+    },
+    {
+      "text": "You say they don't have a track record in marketing I think you were referring to.",
+      "speaker_name": "Andy Day",
+      "start_time": 504.88,
+      "end_time": 508.84
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "Andy Day",
+      "start_time": 508.88,
+      "end_time": 509.248
+    },
+    {
+      "text": "But they have a great track record.",
+      "speaker_name": "Andy Day",
+      "start_time": 509.344,
+      "end_time": 510.92
+    },
+    {
+      "text": "Yeah, I know they do.",
+      "speaker_name": "Alison Springham",
+      "start_time": 511,
+      "end_time": 511.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Alison Springham",
+      "start_time": 512,
+      "end_time": 512.392
+    },
+    {
+      "text": "I'm talking about this.",
+      "speaker_name": "Alison Springham",
+      "start_time": 512.496,
+      "end_time": 513.536
+    },
+    {
+      "text": "I'm very serious players from a financial point of view.",
+      "speaker_name": "Andy Day",
+      "start_time": 513.608,
+      "end_time": 516.992
+    },
+    {
+      "text": "They've done this over and over and over and over again.",
+      "speaker_name": "Andy Day",
+      "start_time": 517.016,
+      "end_time": 519.048
+    },
+    {
+      "text": "So they're really experienced m and a guys, and there is no pressure on them to do this from a personal point of view.",
+      "speaker_name": "Andy Day",
+      "start_time": 519.104,
+      "end_time": 525.864
+    },
+    {
+      "text": "They've retired, basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 525.912,
+      "end_time": 527.176
+    },
+    {
+      "text": "They've made tons of money previously and they've retired.",
+      "speaker_name": "Andy Day",
+      "start_time": 527.208,
+      "end_time": 530.888
+    },
+    {
+      "text": "Travis plays a lot of golf, and Jeff, he has a great house in Miami that he's built.",
+      "speaker_name": "Andy Day",
+      "start_time": 530.984,
+      "end_time": 536.48
+    },
+    {
+      "text": "I mean, these guys are not financially required to do these deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 536.52,
+      "end_time": 541.86
+    },
+    {
+      "text": "They are doing it out of a passion.",
+      "speaker_name": "Andy Day",
+      "start_time": 542.2,
+      "end_time": 543.94
+    },
+    {
+      "text": "And also because they've seen a huge gap in the market for what they've previously done before.",
+      "speaker_name": "Andy Day",
+      "start_time": 544.24,
+      "end_time": 548.832
+    },
+    {
+      "text": "And this new area in spatial they're really passionate about, and they can see that they can transform their own worlds again and also some other people that they can bring along with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 548.976,
+      "end_time": 560.492
+    },
+    {
+      "text": "And I think this is the big point with this deal because the exit that theyre planning is like 2030 times multiple, and there arent those types of opportunities.",
+      "speaker_name": "Andy Day",
+      "start_time": 560.516,
+      "end_time": 567.684
+    },
+    {
+      "text": "So if a private equity company did come and knock today, close the deal in three months, the standard exit is like theyll roll up four, five, six companies, and in three years theyre going to sell it at nine x or maybe a ten x.",
+      "speaker_name": "Andy Day",
+      "start_time": 567.732,
+      "end_time": 581.424
+    },
+    {
+      "text": "And so that margin is great.",
+      "speaker_name": "Andy Day",
+      "start_time": 581.532,
+      "end_time": 584.12
+    },
+    {
+      "text": "And I've actually encouraged people to go and work with private equity companies, but they just sell for agency multiples, big agent, bigger agency multiples down the line.",
+      "speaker_name": "Andy Day",
+      "start_time": 584.2,
+      "end_time": 592.976
+    },
+    {
+      "text": "And it's great.",
+      "speaker_name": "Andy Day",
+      "start_time": 593.128,
+      "end_time": 594.52
+    },
+    {
+      "text": "It's really good.",
+      "speaker_name": "Andy Day",
+      "start_time": 594.6,
+      "end_time": 595.216
+    },
+    {
+      "text": "But it's not what these guys are talking about.",
+      "speaker_name": "Andy Day",
+      "start_time": 595.248,
+      "end_time": 596.552
+    },
+    {
+      "text": "They're talking about a software exit to one of the big enterprise.",
+      "speaker_name": "Andy Day",
+      "start_time": 596.576,
+      "end_time": 600.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Alison Springham",
+      "start_time": 600.92,
+      "end_time": 601.456
+    },
+    {
+      "text": "And that makes a big difference.",
+      "speaker_name": "Alison Springham",
+      "start_time": 601.568,
+      "end_time": 602.688
+    },
+    {
+      "text": "Really well.",
+      "speaker_name": "Andy Day",
+      "start_time": 602.784,
+      "end_time": 603.66
+    },
+    {
+      "text": "So in terms of like the second bite of the cherry, it really, really is there.",
+      "speaker_name": "Andy Day",
+      "start_time": 604,
+      "end_time": 607.64
+    },
+    {
+      "text": "And it's, I mean, we don't see these deals ever.",
+      "speaker_name": "Andy Day",
+      "start_time": 607.68,
+      "end_time": 610.776
+    },
+    {
+      "text": "These types of, you know, we're going to build it and we're going to exit 25 x.",
+      "speaker_name": "Andy Day",
+      "start_time": 610.848,
+      "end_time": 614.608
+    },
+    {
+      "text": "It's always private equity talking the same numbers, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 614.664,
+      "end_time": 617.54
+    },
+    {
+      "text": "And then the other thing I wanted to do, if I can just share my screen, is just, or even just share the link.",
+      "speaker_name": "Andy Day",
+      "start_time": 617.92,
+      "end_time": 622.824
+    },
+    {
+      "text": "Actually, if you do a search online, I found this.",
+      "speaker_name": "Andy Day",
+      "start_time": 622.872,
+      "end_time": 628.06
+    },
+    {
+      "text": "Well, there's a load of websites.",
+      "speaker_name": "Andy Day",
+      "start_time": 629.64,
+      "end_time": 630.792
+    },
+    {
+      "text": "I mean, you can search.",
+      "speaker_name": "Andy Day",
+      "start_time": 630.816,
+      "end_time": 631.456
+    },
+    {
+      "text": "I'm sure you've done your own research.",
+      "speaker_name": "Andy Day",
+      "start_time": 631.488,
+      "end_time": 633.46
+    },
+    {
+      "text": "But this one in particular, it's actually, they've got cool first page sage, which quite interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 634.08,
+      "end_time": 638.208
+    },
+    {
+      "text": "They usually come up at the top of, like, how much a marketing agency is worth or what the marketing agency multiples at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 638.224,
+      "end_time": 644.96
+    },
+    {
+      "text": "And they are, this is a pretty accurate, I mean, it's the most accurate found.",
+      "speaker_name": "Andy Day",
+      "start_time": 645,
+      "end_time": 650.136
+    },
+    {
+      "text": "So they've got a table about, you know, one or two.",
+      "speaker_name": "Andy Day",
+      "start_time": 650.208,
+      "end_time": 654.952
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 654.976,
+      "end_time": 655.16
+    },
+    {
+      "text": "Okay, fair enough.",
+      "speaker_name": "Dan Moore",
+      "start_time": 655.2,
+      "end_time": 656.34
+    },
+    {
+      "text": "Down.",
+      "speaker_name": "Andy Day",
+      "start_time": 657.56,
+      "end_time": 658.28
+    },
+    {
+      "text": "And so you got, you guys are in the first EBITDA range, and you're obviously the bottom end of that range.",
+      "speaker_name": "Andy Day",
+      "start_time": 658.44,
+      "end_time": 664.772
+    },
+    {
+      "text": "So these multiples around five are pretty standard.",
+      "speaker_name": "Andy Day",
+      "start_time": 664.876,
+      "end_time": 668.028
+    },
+    {
+      "text": "And what we see is we talk to all the holding companies, and we're selling to holding companies as well, and marketing agencies, they're buying them at five x.",
+      "speaker_name": "Andy Day",
+      "start_time": 668.124,
+      "end_time": 677.004
+    },
+    {
+      "text": "That's the exit that you can get.",
+      "speaker_name": "Andy Day",
+      "start_time": 677.052,
+      "end_time": 679.3
+    },
+    {
+      "text": "I know that they do offer more, Dan.",
+      "speaker_name": "Andy Day",
+      "start_time": 679.38,
+      "end_time": 681.308
+    },
+    {
+      "text": "I'm sure if people are knocking on the door, they're going to say, we'll give you a seven x.",
+      "speaker_name": "Andy Day",
+      "start_time": 681.364,
+      "end_time": 685.532
+    },
+    {
+      "text": "But what happens is a load of due diligence stuff, usually.",
+      "speaker_name": "Andy Day",
+      "start_time": 685.636,
+      "end_time": 688.404
+    },
+    {
+      "text": "And then those numbers change.",
+      "speaker_name": "Andy Day",
+      "start_time": 688.452,
+      "end_time": 690.356
+    },
+    {
+      "text": "The difference with these guys, and they have come up from the five that you guys have calculated the difference is, and I guess I'll bring them to maybe a six that they're calculating on your projections, which nobody ever does.",
+      "speaker_name": "Andy Day",
+      "start_time": 690.428,
+      "end_time": 704.724
+    },
+    {
+      "text": "It's always, and when I first started in M and N, because it's changed recently in that marketing agencies are quite high growth now because they brought a lot of software techniques to the way that businesses are built.",
+      "speaker_name": "Andy Day",
+      "start_time": 704.812,
+      "end_time": 717.068
+    },
+    {
+      "text": "But previously they were valuing on the last three years average, and they would give you a four, five, six x multiple on the last three years average EBITDA.",
+      "speaker_name": "Andy Day",
+      "start_time": 717.204,
+      "end_time": 729.92
+    },
+    {
+      "text": "And that's how they were valued.",
+      "speaker_name": "Andy Day",
+      "start_time": 730.54,
+      "end_time": 732.572
+    },
+    {
+      "text": "So these guys are actually, I mean, they've got a great deal on the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 732.596,
+      "end_time": 737.72
+    },
+    {
+      "text": "The original offer was a five x on future, uh, EBITDa that you haven't actually hit yet.",
+      "speaker_name": "Andy Day",
+      "start_time": 738.38,
+      "end_time": 743.67
+    },
+    {
+      "text": "So, you know, anyway, that, those are my points.",
+      "speaker_name": "Andy Day",
+      "start_time": 743.71,
+      "end_time": 746.41
+    },
+    {
+      "text": "Um, I just wanted to make sure that you were aware of all of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 746.83,
+      "end_time": 750.414
+    },
+    {
+      "text": "And obviously, at the end of the day, if you're not happy, then don't blame you.",
+      "speaker_name": "Andy Day",
+      "start_time": 750.462,
+      "end_time": 753.718
+    },
+    {
+      "text": "Dan.",
+      "speaker_name": "Andy Day",
+      "start_time": 753.734,
+      "end_time": 754.33
+    },
+    {
+      "text": "Oh, no, look, Andy, that, that's, that's super useful.",
+      "speaker_name": "Dan Moore",
+      "start_time": 754.83,
+      "end_time": 758.51
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Dan Moore",
+      "start_time": 758.55,
+      "end_time": 758.974
+    },
+    {
+      "text": "It's good to get it from, you know, from your side.",
+      "speaker_name": "Dan Moore",
+      "start_time": 759.022,
+      "end_time": 761.69
+    },
+    {
+      "text": "And, yes, it's nice and succinct.",
+      "speaker_name": "Dan Moore",
+      "start_time": 762.59,
+      "end_time": 766.238
+    },
+    {
+      "text": "Do you know what's hovercraft got over the line yet?",
+      "speaker_name": "Dan Moore",
+      "start_time": 766.294,
+      "end_time": 770.13
+    },
+    {
+      "text": "It's due to close today.",
+      "speaker_name": "Andy Day",
+      "start_time": 771.04,
+      "end_time": 772.288
+    },
+    {
+      "text": "I don't know whether it will go over the line because we are five.",
+      "speaker_name": "Andy Day",
+      "start_time": 772.384,
+      "end_time": 776.112
+    },
+    {
+      "text": "Well, 6 miles ahead, 7 hours ahead.",
+      "speaker_name": "Andy Day",
+      "start_time": 776.256,
+      "end_time": 779.1
+    },
+    {
+      "text": "It seems pretty good.",
+      "speaker_name": "Andy Day",
+      "start_time": 781.32,
+      "end_time": 782.432
+    },
+    {
+      "text": "I mean, it's been a pretty hefty conversation as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 782.496,
+      "end_time": 787.22
+    },
+    {
+      "text": "All the due diligence is done.",
+      "speaker_name": "Andy Day",
+      "start_time": 787.68,
+      "end_time": 789.136
+    },
+    {
+      "text": "We're on the final stages through.",
+      "speaker_name": "Andy Day",
+      "start_time": 789.208,
+      "end_time": 791.34
+    },
+    {
+      "text": "I mean, the legals are all done.",
+      "speaker_name": "Andy Day",
+      "start_time": 791.88,
+      "end_time": 793.46
+    },
+    {
+      "text": "It's just a matter of everybody being happy and getting the signatures dried on the contracts.",
+      "speaker_name": "Andy Day",
+      "start_time": 794.16,
+      "end_time": 800.992
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 801.096,
+      "end_time": 801.376
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Dan Moore",
+      "start_time": 801.408,
+      "end_time": 802.1
+    },
+    {
+      "text": "The OMm one has there done.",
+      "speaker_name": "Andy Day",
+      "start_time": 804.64,
+      "end_time": 806.52
+    },
+    {
+      "text": "Did you speak to.",
+      "speaker_name": "Andy Day",
+      "start_time": 806.56,
+      "end_time": 807.2
+    },
+    {
+      "text": "Do you know Omm, or do you know much about those guys?",
+      "speaker_name": "Andy Day",
+      "start_time": 807.24,
+      "end_time": 809.608
+    },
+    {
+      "text": "I know of them.",
+      "speaker_name": "Dan Moore",
+      "start_time": 809.664,
+      "end_time": 810.456
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 810.488,
+      "end_time": 810.696
+    },
+    {
+      "text": "Jeff mentioned that, I think, when we spoke.",
+      "speaker_name": "Dan Moore",
+      "start_time": 810.728,
+      "end_time": 814.136
+    },
+    {
+      "text": "Maybe probably a month ago.",
+      "speaker_name": "Dan Moore",
+      "start_time": 814.168,
+      "end_time": 815.784
+    },
+    {
+      "text": "When was that month?",
+      "speaker_name": "Dan Moore",
+      "start_time": 815.912,
+      "end_time": 816.64
+    },
+    {
+      "text": "Six weeks ago.",
+      "speaker_name": "Dan Moore",
+      "start_time": 816.68,
+      "end_time": 817.24
+    },
+    {
+      "text": "You did that one, I think, didn't you?",
+      "speaker_name": "Dan Moore",
+      "start_time": 817.28,
+      "end_time": 818.272
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Dan Moore",
+      "start_time": 818.296,
+      "end_time": 818.86
+    },
+    {
+      "text": "And then on the last call, he sort of said, look, hovercraft isn't done yet, but he told us about them.",
+      "speaker_name": "Dan Moore",
+      "start_time": 819.16,
+      "end_time": 823.736
+    },
+    {
+      "text": "And actually, I'd add, I think I'd had someone from theirs looking at my LinkedIn, so I.",
+      "speaker_name": "Dan Moore",
+      "start_time": 823.768,
+      "end_time": 828.208
+    },
+    {
+      "text": "They were on my radar.",
+      "speaker_name": "Dan Moore",
+      "start_time": 828.304,
+      "end_time": 829.24
+    },
+    {
+      "text": "Anyway.",
+      "speaker_name": "Dan Moore",
+      "start_time": 829.28,
+      "end_time": 829.944
+    },
+    {
+      "text": "Um.",
+      "speaker_name": "Dan Moore",
+      "start_time": 830.112,
+      "end_time": 830.704
+    },
+    {
+      "text": "So, yeah, it's, um.",
+      "speaker_name": "Dan Moore",
+      "start_time": 830.792,
+      "end_time": 832.912
+    },
+    {
+      "text": "No, they look really interesting.",
+      "speaker_name": "Dan Moore",
+      "start_time": 832.976,
+      "end_time": 834.328
+    },
+    {
+      "text": "Um.",
+      "speaker_name": "Dan Moore",
+      "start_time": 834.384,
+      "end_time": 835.06
+    },
+    {
+      "text": "It might be useful for you to maybe speak to a couple of those guys, Dan, as well.",
+      "speaker_name": "Alison Springham",
+      "start_time": 836.16,
+      "end_time": 840.78
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 841.52,
+      "end_time": 842.184
+    },
+    {
+      "text": "Yeah, absolutely.",
+      "speaker_name": "Dan Moore",
+      "start_time": 842.312,
+      "end_time": 843.112
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 843.136,
+      "end_time": 843.72
+    },
+    {
+      "text": "They don't have any objection to that?",
+      "speaker_name": "Alison Springham",
+      "start_time": 843.88,
+      "end_time": 845.808
+    },
+    {
+      "text": "I think the Omm one, obviously, until the other one signs, I would say.",
+      "speaker_name": "Andy Day",
+      "start_time": 845.984,
+      "end_time": 849.168
+    },
+    {
+      "text": "Yeah, no, of course.",
+      "speaker_name": "Alison Springham",
+      "start_time": 849.224,
+      "end_time": 850.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Alison Springham",
+      "start_time": 850.2,
+      "end_time": 850.44
+    },
+    {
+      "text": "But about them being thrown into the sort of pitch on behalf of those guys, because, I mean, it's ongoing until it's signed.",
+      "speaker_name": "Andy Day",
+      "start_time": 850.48,
+      "end_time": 859.392
+    },
+    {
+      "text": "It's not signed.",
+      "speaker_name": "Andy Day",
+      "start_time": 859.416,
+      "end_time": 860.5
+    },
+    {
+      "text": "They're London based, aren't they?",
+      "speaker_name": "Dan Moore",
+      "start_time": 862.48,
+      "end_time": 863.768
+    },
+    {
+      "text": "Omm?",
+      "speaker_name": "Dan Moore",
+      "start_time": 863.824,
+      "end_time": 864.54
+    },
+    {
+      "text": "Yes, they are.",
+      "speaker_name": "Andy Day",
+      "start_time": 865.08,
+      "end_time": 865.976
+    },
+    {
+      "text": "They are.",
+      "speaker_name": "Andy Day",
+      "start_time": 866.048,
+      "end_time": 866.736
+    },
+    {
+      "text": "And we've got tons in the pipeline as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 866.888,
+      "end_time": 868.568
+    },
+    {
+      "text": "And there is a really impressive company that is also based in the UK, funnily enough, that we're in sort of long, longer talks with two.",
+      "speaker_name": "Andy Day",
+      "start_time": 868.584,
+      "end_time": 878.81
+    },
+    {
+      "text": "So there is a lot of interest in this, in the deals that we're offering.",
+      "speaker_name": "Andy Day",
+      "start_time": 879.35,
+      "end_time": 885.65
+    },
+    {
+      "text": "I mean, it's pretty likely these guys will close another two or three deals in the next six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 886.11,
+      "end_time": 893.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 895.91,
+      "end_time": 896.358
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Dan Moore",
+      "start_time": 896.414,
+      "end_time": 897.17
+    },
+    {
+      "text": "So I'm a listener and a writer on these kind of conversations.",
+      "speaker_name": "Dan Moore",
+      "start_time": 899.75,
+      "end_time": 903.318
+    },
+    {
+      "text": "I am too, Dan.",
+      "speaker_name": "Andy Day",
+      "start_time": 903.414,
+      "end_time": 904.222
+    },
+    {
+      "text": "But, you know, this fireflies thing, it's been a game changer AI.",
+      "speaker_name": "Andy Day",
+      "start_time": 904.246,
+      "end_time": 907.434
+    },
+    {
+      "text": "It summarizes the whole conversation, so I'm not saying anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 907.482,
+      "end_time": 910.07
+    },
+    {
+      "text": "No more questions, your honor.",
+      "speaker_name": "Dan Moore",
+      "start_time": 912.97,
+      "end_time": 914.55
+    },
+    {
+      "text": "No, that, Andy, that was super useful.",
+      "speaker_name": "Dan Moore",
+      "start_time": 915.33,
+      "end_time": 916.97
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Dan Moore",
+      "start_time": 917.01,
+      "end_time": 917.75
+    },
+    {
+      "text": "I just.",
+      "speaker_name": "Dan Moore",
+      "start_time": 918.29,
+      "end_time": 918.77
+    },
+    {
+      "text": "I need to do some more thinking, but that's.",
+      "speaker_name": "Dan Moore",
+      "start_time": 918.81,
+      "end_time": 922.242
+    },
+    {
+      "text": "Yeah, that's what I found heartening.",
+      "speaker_name": "Andy Day",
+      "start_time": 922.306,
+      "end_time": 923.922
+    },
+    {
+      "text": "Dan, was from.",
+      "speaker_name": "Andy Day",
+      "start_time": 923.946,
+      "end_time": 924.65
+    },
+    {
+      "text": "From the note that came back.",
+      "speaker_name": "Andy Day",
+      "start_time": 924.69,
+      "end_time": 926.234
+    },
+    {
+      "text": "I guess it was you, Alison, that wrote it was that you do find this deal interesting, and I, you know, like I say, not a lot of deals do eventually close, and there are a lot of tire kickers in.",
+      "speaker_name": "Andy Day",
+      "start_time": 926.322,
+      "end_time": 939.144
+    },
+    {
+      "text": "In the industry.",
+      "speaker_name": "Andy Day",
+      "start_time": 939.232,
+      "end_time": 940.22
+    },
+    {
+      "text": "I mean, we worked with one of them based in Los Angeles for 18 months, and they didn't close a single deal during that time.",
+      "speaker_name": "Andy Day",
+      "start_time": 940.68,
+      "end_time": 948.784
+    },
+    {
+      "text": "They must have into 450 agencies, and they loved them all, and they just.",
+      "speaker_name": "Andy Day",
+      "start_time": 948.912,
+      "end_time": 954.744
+    },
+    {
+      "text": "They never made any offers.",
+      "speaker_name": "Andy Day",
+      "start_time": 954.792,
+      "end_time": 956.22
+    },
+    {
+      "text": "So we.",
+      "speaker_name": "Andy Day",
+      "start_time": 957.16,
+      "end_time": 957.84
+    },
+    {
+      "text": "We opted to stop working with them because it was getting bad for us.",
+      "speaker_name": "Andy Day",
+      "start_time": 957.88,
+      "end_time": 960.448
+    },
+    {
+      "text": "Bad rep.",
+      "speaker_name": "Andy Day",
+      "start_time": 960.504,
+      "end_time": 961.34
+    },
+    {
+      "text": "But, yeah, there are a lot of tie kickers, and there are a lot of offers that are made that don't close.",
+      "speaker_name": "Andy Day",
+      "start_time": 962.18,
+      "end_time": 967.012
+    },
+    {
+      "text": "So these guys are the real deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 967.076,
+      "end_time": 969.48
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Alison Springham",
+      "start_time": 970.14,
+      "end_time": 971.116
+    },
+    {
+      "text": "So, yeah, if you like them, it would at least be worth trying to get the Loi, I think, and getting an offer and 3.5 million.",
+      "speaker_name": "Andy Day",
+      "start_time": 971.268,
+      "end_time": 980.02
+    },
+    {
+      "text": "I don't know, it was a life changing event to get that amount of money and take that value off the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 980.06,
+      "end_time": 986.708
+    },
+    {
+      "text": "So, yeah, I would.",
+      "speaker_name": "Andy Day",
+      "start_time": 986.764,
+      "end_time": 988.814
+    },
+    {
+      "text": "I would be cautious of walking away from a really good, solid offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 988.862,
+      "end_time": 994.57
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 995.55,
+      "end_time": 995.878
+    },
+    {
+      "text": "Because they don't.",
+      "speaker_name": "Andy Day",
+      "start_time": 995.894,
+      "end_time": 996.478
+    },
+    {
+      "text": "They don't close very often.",
+      "speaker_name": "Andy Day",
+      "start_time": 996.534,
+      "end_time": 998.29
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1000.31,
+      "end_time": 1000.71
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1000.75,
+      "end_time": 1001.49
+    },
+    {
+      "text": "You want me to turn my fireflies off so you can give me the real.",
+      "speaker_name": "Andy Day",
+      "start_time": 1002.99,
+      "end_time": 1006.17
+    },
+    {
+      "text": "No, no.",
+      "speaker_name": "Andy Day",
+      "start_time": 1006.79,
+      "end_time": 1007.27
+    },
+    {
+      "text": "I mean, I'm a.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1007.31,
+      "end_time": 1008.85
+    },
+    {
+      "text": "My wife hates it.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1010.47,
+      "end_time": 1011.502
+    },
+    {
+      "text": "I kind of, you know, I take quite a long time to make decisions sometimes.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1011.526,
+      "end_time": 1015.118
+    },
+    {
+      "text": "Rubinae.",
+      "speaker_name": "Andy Day",
+      "start_time": 1015.294,
+      "end_time": 1015.926
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1015.958,
+      "end_time": 1016.48
+    },
+    {
+      "text": "Yeah, I think it's like, I think.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1016.59,
+      "end_time": 1018.124
+    },
+    {
+      "text": "But this has been really useful to get your perspective on it and.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1018.252,
+      "end_time": 1022.64
+    },
+    {
+      "text": "Yeah, think about it in a slightly different way.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1023.34,
+      "end_time": 1025.412
+    },
+    {
+      "text": "So, yeah, leave it with me.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1025.476,
+      "end_time": 1028.252
+    },
+    {
+      "text": "Leave it with us.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1028.276,
+      "end_time": 1029.28
+    },
+    {
+      "text": "You know, send my regards to Geoff and Travis and Heather, and, you know, we'll come back to you early next week, maybe some questions.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1030.1,
+      "end_time": 1038.196
+    },
+    {
+      "text": "I mean, I think, you know, probably be good to speak to the guys at Omm, but know, obviously you've got.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1038.228,
+      "end_time": 1044.44
+    },
+    {
+      "text": "Got hovercraft in your hair at the moment, so.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1044.82,
+      "end_time": 1047.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1049.06,
+      "end_time": 1049.84
+    },
+    {
+      "text": "Elliot Nelson from your side.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1050.3,
+      "end_time": 1052.2
+    },
+    {
+      "text": "Yeah, no, I think that's all good.",
+      "speaker_name": "Alison Springham",
+      "start_time": 1053.26,
+      "end_time": 1056.28
+    },
+    {
+      "text": "All right, well, I'll leave you to it, then, Dan.",
+      "speaker_name": "Andy Day",
+      "start_time": 1057.98,
+      "end_time": 1060.316
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1060.468,
+      "end_time": 1060.82
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1060.86,
+      "end_time": 1061.876
+    },
+    {
+      "text": "Well, best of luck today, and we'll catch up next week.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1062.068,
+      "end_time": 1065.12
+    },
+    {
+      "text": "Yeah, definitely posted.",
+      "speaker_name": "Andy Day",
+      "start_time": 1065.46,
+      "end_time": 1067.708
+    },
+    {
+      "text": "All right, good stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 1067.764,
+      "end_time": 1068.476
+    },
+    {
+      "text": "Nice to meet you both.",
+      "speaker_name": "Andy Day",
+      "start_time": 1068.508,
+      "end_time": 1069.498
+    },
+    {
+      "text": "Yeah, you too.",
+      "speaker_name": "Alison Springham",
+      "start_time": 1069.644,
+      "end_time": 1070.662
+    },
+    {
+      "text": "Great weekend.",
+      "speaker_name": "Andy Day",
+      "start_time": 1070.806,
+      "end_time": 1071.758
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1071.894,
+      "end_time": 1072.55
+    },
+    {
+      "text": "Ali, do you want to stay?",
+      "speaker_name": "Dan Moore",
+      "start_time": 1072.59,
+      "end_time": 1073.622
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Alison Springham",
+      "start_time": 1073.766,
+      "end_time": 1074.806
+    },
+    {
+      "text": "Here's Andy.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1074.998,
+      "end_time": 1075.582
+    },
+    {
+      "text": "Tada.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1075.606,
+      "end_time": 1076.33
+    },
+    {
+      "text": "I'll find.",
+      "speaker_name": "Dan Moore",
+      "start_time": 1080.83,
+      "end_time": 1081.47
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A",
+      "valuation multiples",
+      "EBITDA",
+      "deal closure",
+      "agency acquisition",
+      "exit strategy"
+    ],
+    "action_items": "\n**Dan Moore**\nConsider speaking with OMM representatives to gain insights on their deal experience with Jeff and Travis (14:02)\nThink more about the offer and come back with questions early next week (16:57)\n\n**Andy Day**\nSend regards to Geoff, Travis, and Heather (17:15)\n",
+    "outline": null,
+    "overview": "In the recent Business Development and M&A discussion meeting among Dan, Alison, and Andy, participants introduced themselves and explored Dan's perspective on a current offer, which, while interesting, was deemed lower than prior propositions. Andy provided insights into market dynamics, noting the challenge of closing deals with only 10% of offers converting, and highlighted the financial stability of potential buyers, Jeff and Travis, along with expectations for a higher exit multiple in the range of 20-30x. The group analyzed valuation standards within the marketing agency sector, emphasizing the uncommon practice of basing current offers on future EBITDA projections. Further advice included Dan consulting with companies previously engaged with Jeff and Travis, underscoring the importance of caution regarding solid offers in a volatile market. Dan was encouraged to reflect on the offer and bring up any questions in a follow-up meeting scheduled for early the following week. Action items were assigned to both Dan and Andy to facilitate further communication and strategy refinement.",
+    "short_summary": "In a recent meeting, Dan, Alison, and Andy discussed a current business offer that Dan found interesting yet lower than previous proposals. Andy highlighted the difficult market conditions, noting that only 10% of offers convert, while also discussing the financial stability of potential buyers, Jeff and Travis. The group examined valuation standards within the marketing agency sector, particularly the uncommon practice of basing offers on future EBITDA projections. Dan was advised to consult with companies previously engaged with Jeff and Travis to ensure caution in a volatile market. The meeting concluded with encouragement for Dan to reflect on the offer and address any questions in the upcoming follow-up meeting, while action items were assigned to both Dan and Andy to enhance communication and refine strategies.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/Djys7fET7H1kJa5c",
+  "audio_url": "https://cdn.fireflies.ai/Djys7fET7H1kJa5c/audio.mp3?Expires=1773225125&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL0RqeXM3ZkVUN0gxa0phNWMvYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MTI1fX19XX0_&Signature=g23b3Ycr5a7xEF2ACWtS2WKDFuTSiF02OHF5wd6vht59Jj3AeOs7JQ~nJ1VtHddCysMB5Xkq9DCWGTmxgEbQm-4Ud1ypmt-OJ9zsg4ITmB~x4q0nAgyflzOdKG695y43d5pJBB-NJTub6uqynsoLoadT-HbbbBGD1lLorvaBPE8bbnGf5C71ZXw-yMgTbfi5JFksD4NwxmfuTzQn6-Y1Umk7W5bcZCGBuc2djMKxZPHFG7giIBbRWSq~0TuFVzAaT5moGfhw23jvbmyKGowwao88Orrf4Kveelvy~4mYdJiNXOJ3FZ0enNL6nLlsGeSG6kePuULO5b1vWspMapL7SQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/Djys7fET7H1kJa5c/video.mp4?Expires=1773225125&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL0RqeXM3ZkVUN0gxa0phNWMvdmlkZW8ubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MTI1fX19XX0_&Signature=ANvIn6hvMsj6ZMeiKNAQwpOMGuMnLmFD72I2SZb-UXdVjN7JLmfG5O-JKhfydhhA4r4MLK-I~l4kcuH4oKHXjWKVbJE2RlclOjVXkWMFUHTeZ~hW7WEkpHr104dc-z5Jq2lvqlhwRBCyllL5hvYPn3-wyFg1hgNTQlVZy3ddD5MnlVEkOrKYTydLelLJ-QzKx~~7tvShemkAYIbtR9q6vjFztk42ma3yEggR~K8QuQ-ukwGtpr8N23peixjU2an13yIw1kqR7xqB9h~WcS~2dfnsSEqxmDd5k21CXdZ183kLg0eU-UaUb21MY7yD7eQaYUck0CudrO~vNcVwSJwXZA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

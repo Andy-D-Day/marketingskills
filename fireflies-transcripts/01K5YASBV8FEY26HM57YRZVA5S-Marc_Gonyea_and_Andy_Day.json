@@ -1,0 +1,2135 @@
+{
+  "id": "01K5YASBV8FEY26HM57YRZVA5S",
+  "title": "Marc Gonyea and Andy Day",
+  "date": 1758812400000,
+  "dateString": "2025-09-25T15:00:00.000Z",
+  "duration": 19.3799991607666,
+  "participants": [
+    "marc@bluetuskpartners.com,andrew.day@capitala.co,chris@bluetuskpartners.com,andy.day@capitala.co",
+    "marc@bluetuskpartners.com",
+    "chris@bluetuskpartners.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "marc@bluetuskpartners.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris@bluetuskpartners.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hey Chris, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 0.08,
+      "end_time": 1.2
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1.68,
+      "end_time": 3.52
+    },
+    {
+      "text": "Andrew.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 4.56,
+      "end_time": 5
+    },
+    {
+      "text": "I'm great, how are you?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 5,
+      "end_time": 5.92
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 6.32,
+      "end_time": 7.44
+    },
+    {
+      "text": "I'm good.",
+      "speaker_name": "Andy Day",
+      "start_time": 7.44,
+      "end_time": 8.08
+    },
+    {
+      "text": "We got Mark on the call today.",
+      "speaker_name": "Andy Day",
+      "start_time": 9.04,
+      "end_time": 10.32
+    },
+    {
+      "text": "Is it just you?",
+      "speaker_name": "Andy Day",
+      "start_time": 10.32,
+      "end_time": 11.12
+    },
+    {
+      "text": "Just me.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 11.36,
+      "end_time": 11.92
+    },
+    {
+      "text": "Mark is on an airplane headed for North Carolina.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 11.92,
+      "end_time": 15.04
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 16.16,
+      "end_time": 16.64
+    },
+    {
+      "text": "Yeah, my bad, sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 16.64,
+      "end_time": 17.68
+    },
+    {
+      "text": "So we both.",
+      "speaker_name": "Andy Day",
+      "start_time": 17.68,
+      "end_time": 18.56
+    },
+    {
+      "text": "You pushed back and I reorganized completely.",
+      "speaker_name": "Andy Day",
+      "start_time": 18.8,
+      "end_time": 20.88
+    },
+    {
+      "text": "Different time.",
+      "speaker_name": "Andy Day",
+      "start_time": 20.88,
+      "end_time": 21.6
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 22,
+      "end_time": 22.72
+    },
+    {
+      "text": "Well, good to see you.",
+      "speaker_name": "Andy Day",
+      "start_time": 24.24,
+      "end_time": 25
+    },
+    {
+      "text": "Whereabouts are you based?",
+      "speaker_name": "Andy Day",
+      "start_time": 25,
+      "end_time": 26.32
+    },
+    {
+      "text": "Just outside of D.C. what about you?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 27.14,
+      "end_time": 28.66
+    },
+    {
+      "text": "Just outside of London, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.86,
+      "end_time": 31.46
+    },
+    {
+      "text": "Oh great.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 31.46,
+      "end_time": 32.02
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 32.98,
+      "end_time": 34.82
+    },
+    {
+      "text": "Well it's interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 34.82,
+      "end_time": 35.54
+    },
+    {
+      "text": "You, you spoke to, was it Justin from Motion?",
+      "speaker_name": "Andy Day",
+      "start_time": 35.54,
+      "end_time": 40.98
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 41.3,
+      "end_time": 41.78
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 43.3,
+      "end_time": 44.1
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 44.1,
+      "end_time": 44.98
+    },
+    {
+      "text": "Justin, Justin, Mark and I, we used to all work together.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 46.1,
+      "end_time": 48.82
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.94,
+      "end_time": 50.54
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.54,
+      "end_time": 50.98
+    },
+    {
+      "text": "Yeah, we, we've worked with them a couple of times so yeah, it's good, good to know that it's coming through a warm referral so it'd be good to find out a little bit more about what it is that you're doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.98,
+      "end_time": 62.59
+    },
+    {
+      "text": "I had a good look around your site and I can see looks like you're investing in some startups and buy and build projects which looks great.",
+      "speaker_name": "Andy Day",
+      "start_time": 62.59,
+      "end_time": 73.35
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 73.75,
+      "end_time": 74.23
+    },
+    {
+      "text": "So yeah, be nice to hear a little bit about what it is that you're doing and then I can talk you through how we can possibly help.",
+      "speaker_name": "Andy Day",
+      "start_time": 74.71,
+      "end_time": 82.33
+    },
+    {
+      "text": "So I'll just tell you a little bit about us.",
+      "speaker_name": "Andy Day",
+      "start_time": 82.41,
+      "end_time": 84.33
+    },
+    {
+      "text": "We are capitala A, we're an M and A advisory, we work on both the buying the sell side working exclusively in marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 84.33,
+      "end_time": 93.05
+    },
+    {
+      "text": "So all of our clients are either buying or selling marketing services of some kind.",
+      "speaker_name": "Andy Day",
+      "start_time": 93.53,
+      "end_time": 97.45
+    },
+    {
+      "text": "And we have a sell side platform Agencies Co, which is a marketplace for buyers and sellers of marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 99.37,
+      "end_time": 107.69
+    },
+    {
+      "text": "And we work on the buy side as well, working with you know, high growth agencies and also investors and private equity as well, helping them to find off market deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 108.25,
+      "end_time": 119.12
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 119.52,
+      "end_time": 119.92
+    },
+    {
+      "text": "And so yeah, be.",
+      "speaker_name": "Andy Day",
+      "start_time": 121.2,
+      "end_time": 122.32
+    },
+    {
+      "text": "Be good to hear a little bit about you Chris.",
+      "speaker_name": "Andy Day",
+      "start_time": 122.32,
+      "end_time": 126.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 126.8,
+      "end_time": 127.28
+    },
+    {
+      "text": "So back in 2002 Mark and I, we started a business out of a basement and we ended up growing that to 700 people.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 127.36,
+      "end_time": 135.76
+    },
+    {
+      "text": "And what we did was we provide out outsourced SDRs for tech companies.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 135.76,
+      "end_time": 140.43
+    },
+    {
+      "text": "And then back in 2002 we ended up selling a majority stake of the business to a private equity firm.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 141.95,
+      "end_time": 147.15
+    },
+    {
+      "text": "We stayed on with the company after the sale.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 148.03,
+      "end_time": 150.11
+    },
+    {
+      "text": "About a year later we bought an international competitor out of Fleet, if you know where that is.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 150.59,
+      "end_time": 155.149
+    },
+    {
+      "text": "Out of where?",
+      "speaker_name": "Andy Day",
+      "start_time": 155.87,
+      "end_time": 156.47
+    },
+    {
+      "text": "Sorry, Fleet.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 156.47,
+      "end_time": 157.63
+    },
+    {
+      "text": "Fleet in the uk.",
+      "speaker_name": "Andy Day",
+      "start_time": 158.43,
+      "end_time": 159.63
+    },
+    {
+      "text": "In the uk yeah, yeah, yeah, of course, yeah, yeah.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 159.95,
+      "end_time": 163.07
+    },
+    {
+      "text": "So we acquired a company out of Fleet and then we stayed on for a little bit longer with the integration and then we left about a year ago.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 163.23,
+      "end_time": 170.59
+    },
+    {
+      "text": "The day to day operations now we're looking to acquire a company kind of in an adjacent space.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 170.59,
+      "end_time": 178.11
+    },
+    {
+      "text": "We were in the business to business go to market space and so we're interested in either kind of a professional services company or possibly a tech enabled company, maybe something around HubSpot, maybe something around Clay, or really just anything in the, in the go to market space.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 178.99,
+      "end_time": 205.52
+    },
+    {
+      "text": "And then in terms of size, we're looking at, we're looking at anywhere between on the low end, 500k to 5 million in adjusted EBITDA.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 206.72,
+      "end_time": 216.72
+    },
+    {
+      "text": "Is that pounds?",
+      "speaker_name": "Andy Day",
+      "start_time": 219.69,
+      "end_time": 220.65
+    },
+    {
+      "text": "Are you looking in the UK?",
+      "speaker_name": "Andy Day",
+      "start_time": 220.89,
+      "end_time": 221.81
+    },
+    {
+      "text": "Sorry?",
+      "speaker_name": "Andy Day",
+      "start_time": 221.81,
+      "end_time": 222.21
+    },
+    {
+      "text": "Or you're looking US dollars?",
+      "speaker_name": "Andy Day",
+      "start_time": 222.21,
+      "end_time": 224.41
+    },
+    {
+      "text": "Yeah, US.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 224.65,
+      "end_time": 225.61
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 227.29,
+      "end_time": 227.85
+    },
+    {
+      "text": "Most of your listings in the UK or.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 227.93,
+      "end_time": 229.61
+    },
+    {
+      "text": "No, we work mostly in the US actually we do have stuff in the UK.",
+      "speaker_name": "Andy Day",
+      "start_time": 230.01,
+      "end_time": 234.65
+    },
+    {
+      "text": "So what was the company that you, that you actually acquired in Fleet that you're looking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 235.21,
+      "end_time": 239.85
+    },
+    {
+      "text": "bluetuskpartners.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 240.57,
+      "end_time": 241.53
+    },
+    {
+      "text": "bluetuskpartners.",
+      "speaker_name": "Andy Day",
+      "start_time": 242.01,
+      "end_time": 242.97
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 245.57,
+      "end_time": 245.89
+    },
+    {
+      "text": "And then yeah, I mean we've done HubSpot searches before, quite extensively actually for another client we've done a couple of transactions with.",
+      "speaker_name": "Andy Day",
+      "start_time": 245.89,
+      "end_time": 253.57
+    },
+    {
+      "text": "So what is it around those particular services that you're looking to do?",
+      "speaker_name": "Andy Day",
+      "start_time": 253.97,
+      "end_time": 258.33
+    },
+    {
+      "text": "Is it around data enrichment or are you looking for companies that work exclusively with HubSpot and Clay?",
+      "speaker_name": "Andy Day",
+      "start_time": 258.33,
+      "end_time": 266.77
+    },
+    {
+      "text": "It doesn't necessarily matter to us.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 268.69,
+      "end_time": 270.25
+    },
+    {
+      "text": "We're just looking for kind of a strong business that's in that area.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 270.25,
+      "end_time": 272.93
+    },
+    {
+      "text": "We want to be able to kind of leverage kind of our professional expertise and network to really help grow that business.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 273.01,
+      "end_time": 280.98
+    },
+    {
+      "text": "And we're open to even a minority investment of growth capitala where we can help them.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 282.34,
+      "end_time": 286.82
+    },
+    {
+      "text": "But I guess our preference would be to acquire a majority stake and we're open to people with founders who want to stay with the business.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 286.82,
+      "end_time": 295.66
+    },
+    {
+      "text": "We're open to that or we're also open to taking over the business.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 295.66,
+      "end_time": 298.74
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 302.75,
+      "end_time": 303.15
+    },
+    {
+      "text": "We're pretty flexible once we find the right business.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 304.19,
+      "end_time": 306.99
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 309.07,
+      "end_time": 309.59
+    },
+    {
+      "text": "So preferably in the U.S. have you got any preference to states or sort of coasts in the US or does none of that matter?",
+      "speaker_name": "Andy Day",
+      "start_time": 309.59,
+      "end_time": 317.47
+    },
+    {
+      "text": "I mean our preference would be the east coast and in D.C. would be ideal, but we don't want to rule out anything in the US Anything.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 318.67,
+      "end_time": 327.79
+    },
+    {
+      "text": "But I mean if you'll really get my attention, if it's something in the D.C. metro area and then if it's not there, then east coast would be the preference.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 328.92,
+      "end_time": 337.16
+    },
+    {
+      "text": "If not that, it would be central and if not that mountain and if not that west.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 337.16,
+      "end_time": 340.92
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 341.64,
+      "end_time": 342.28
+    },
+    {
+      "text": "As east is east most.",
+      "speaker_name": "Andy Day",
+      "start_time": 343.08,
+      "end_time": 344.68
+    },
+    {
+      "text": "But you just want to make your life easy basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 344.68,
+      "end_time": 346.88
+    },
+    {
+      "text": "So preferably on the as easy as possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 346.88,
+      "end_time": 348.88
+    },
+    {
+      "text": "But if there's a great business in Seattle, we're certainly going to consider it.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 348.88,
+      "end_time": 352.92
+    },
+    {
+      "text": "So at Memory Blue we had offices in all Four time zones in the US So we're familiar with kind of working with operators across the entire country.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 353.97,
+      "end_time": 363.73
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 365.57,
+      "end_time": 366.45
+    },
+    {
+      "text": "So what is BlueTower?",
+      "speaker_name": "Andy Day",
+      "start_time": 366.77,
+      "end_time": 368.21
+    },
+    {
+      "text": "Is it an investment vehicle for yourself and Mark?",
+      "speaker_name": "Andy Day",
+      "start_time": 369.09,
+      "end_time": 372.21
+    },
+    {
+      "text": "Yeah, it's essentially just a holding company that we want to make our acquisitions through.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 372.61,
+      "end_time": 376.53
+    },
+    {
+      "text": "Okay, so that's the holding company for the group.",
+      "speaker_name": "Andy Day",
+      "start_time": 377.97,
+      "end_time": 381.11
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 381.19,
+      "end_time": 381.75
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 382.79,
+      "end_time": 383.75
+    },
+    {
+      "text": "And what's the size of the company that you've acquired already?",
+      "speaker_name": "Andy Day",
+      "start_time": 384.07,
+      "end_time": 386.71
+    },
+    {
+      "text": "We haven't made any acquisitions yet.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 387.99,
+      "end_time": 389.75
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 390.07,
+      "end_time": 390.87
+    },
+    {
+      "text": "So the bluetuskpartners is completely separate.",
+      "speaker_name": "Andy Day",
+      "start_time": 390.87,
+      "end_time": 393.91
+    },
+    {
+      "text": "bluetuskpartners was part of Memory Blue.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 394.07,
+      "end_time": 395.91
+    },
+    {
+      "text": "Memory Blue made the acquisition.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 396.15,
+      "end_time": 398.07
+    },
+    {
+      "text": "Got you.",
+      "speaker_name": "Andy Day",
+      "start_time": 399.03,
+      "end_time": 399.59
+    },
+    {
+      "text": "Okay, so this is a fresh.",
+      "speaker_name": "Andy Day",
+      "start_time": 399.59,
+      "end_time": 400.87
+    },
+    {
+      "text": "That's right.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 403.75,
+      "end_time": 404.39
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 405.76,
+      "end_time": 406.56
+    },
+    {
+      "text": "All right, and what's your timeline for this?",
+      "speaker_name": "Andy Day",
+      "start_time": 407.12,
+      "end_time": 409.04
+    },
+    {
+      "text": "When are you looking to get this done?",
+      "speaker_name": "Andy Day",
+      "start_time": 409.04,
+      "end_time": 410.8
+    },
+    {
+      "text": "As soon as possible.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 411.2,
+      "end_time": 412.16
+    },
+    {
+      "text": "I'm familiar with the eta can take months, quarters, potentially a year.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 413.44,
+      "end_time": 419.28
+    },
+    {
+      "text": "We understand that, but we're.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 419.6,
+      "end_time": 422.28
+    },
+    {
+      "text": "We want to.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 422.28,
+      "end_time": 422.64
+    },
+    {
+      "text": "We want to really kick start the search and spend our days looking for a strong business to acquire.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 422.64,
+      "end_time": 429.28
+    },
+    {
+      "text": "Okay, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 430.08,
+      "end_time": 431.2
+    },
+    {
+      "text": "So, I mean, quite a few of our clients are like you in that they will start fairly broad and then narrow down as we go.",
+      "speaker_name": "Andy Day",
+      "start_time": 433.46,
+      "end_time": 442.66
+    },
+    {
+      "text": "So is that kind of what you're looking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 442.66,
+      "end_time": 444.1
+    },
+    {
+      "text": "You want to taste all the sweets in the sweet shop?",
+      "speaker_name": "Andy Day",
+      "start_time": 444.26,
+      "end_time": 446.98
+    },
+    {
+      "text": "That's right.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 447.14,
+      "end_time": 447.78
+    },
+    {
+      "text": "See what's out there and then kind of narrow it as we go.",
+      "speaker_name": "Andy Day",
+      "start_time": 448.34,
+      "end_time": 451.14
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 451.54,
+      "end_time": 451.94
+    },
+    {
+      "text": "Yeah, but I mean, we're not looking at roofing companies or anything like that?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 451.94,
+      "end_time": 454.98
+    },
+    {
+      "text": "No, no, no, of course not.",
+      "speaker_name": "Andy Day",
+      "start_time": 455.3,
+      "end_time": 456.66
+    },
+    {
+      "text": "I think we're somewhat niched in terms of what we're looking for and in.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 457.22,
+      "end_time": 461.85
+    },
+    {
+      "text": "Terms of like, deal sort of, sort of strategy around that.",
+      "speaker_name": "Andy Day",
+      "start_time": 461.85,
+      "end_time": 469.45
+    },
+    {
+      "text": "Do you have like a sort of set approach to deals, multiples, earnouts, those types of things?",
+      "speaker_name": "Andy Day",
+      "start_time": 469.53,
+      "end_time": 477.049
+    },
+    {
+      "text": "Not.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 477.29,
+      "end_time": 477.69
+    },
+    {
+      "text": "Well, that's gonna be dependent upon the seller.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 478.09,
+      "end_time": 479.93
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 481.29,
+      "end_time": 481.93
+    },
+    {
+      "text": "So, you know, we're going to want to make sure that the seller is interested in kind of the ongoing success kind of if they.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 482.09,
+      "end_time": 488.25
+    },
+    {
+      "text": "If they're choosing to leave the business.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 488.25,
+      "end_time": 489.61
+    },
+    {
+      "text": "We need to make sure that the seller is motivated for the company to succeed past their involvement.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 490.16,
+      "end_time": 495.76
+    },
+    {
+      "text": "So for sure, whether that be through an earn out or through a seller note or what have you, we're open to that, but we don't really have a playbook at all.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 495.76,
+      "end_time": 505.2
+    },
+    {
+      "text": "It's going to be mostly dependent upon the seller.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 505.52,
+      "end_time": 507.68
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.32,
+      "end_time": 508.88
+    },
+    {
+      "text": "So pretty flexible.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.88,
+      "end_time": 510.32
+    },
+    {
+      "text": "Very flexible.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 510.72,
+      "end_time": 511.52
+    },
+    {
+      "text": "And I'm sure you're really experienced in this, but usually it's the buyer that kind of drives the deal structure and puts the offer on the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 513.04,
+      "end_time": 521.389
+    },
+    {
+      "text": "The sellers tend to not really know anything about selling their companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 521.389,
+      "end_time": 525.309
+    },
+    {
+      "text": "When we sold our business, we had no idea what we were Doing.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 527.709,
+      "end_time": 530.029
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 530.349,
+      "end_time": 530.829
+    },
+    {
+      "text": "But now super experienced, so ready to get into it.",
+      "speaker_name": "Andy Day",
+      "start_time": 531.549,
+      "end_time": 534.829
+    },
+    {
+      "text": "Okay, so how do you like to play this?",
+      "speaker_name": "Andy Day",
+      "start_time": 535.149,
+      "end_time": 537.709
+    },
+    {
+      "text": "Are you kind of like a volume guy?",
+      "speaker_name": "Andy Day",
+      "start_time": 537.869,
+      "end_time": 540.029
+    },
+    {
+      "text": "So we have some clients that want us to be really sniper on our approach and just kind of pick stuff off, off that looks perfect fit.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.029,
+      "end_time": 547.8
+    },
+    {
+      "text": "Other buyers like to look at a lot of different things.",
+      "speaker_name": "Andy Day",
+      "start_time": 547.88,
+      "end_time": 550.68
+    },
+    {
+      "text": "So I would say let's.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 550.68,
+      "end_time": 552.12
+    },
+    {
+      "text": "Let's cast a wide net to start, and then.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 552.12,
+      "end_time": 553.96
+    },
+    {
+      "text": "And then let's calibrate as we start offering you feedback.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 553.96,
+      "end_time": 556.68
+    },
+    {
+      "text": "And we've got.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 557.96,
+      "end_time": 558.84
+    },
+    {
+      "text": "We've got a third individual who's involved with us who he's got a lot of familiarity with M and A work, and he worked for Dana.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 560.44,
+      "end_time": 569.6
+    },
+    {
+      "text": "Are you familiar with Danaher?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 569.6,
+      "end_time": 570.76
+    },
+    {
+      "text": "I don't think so, no.",
+      "speaker_name": "Andy Day",
+      "start_time": 572.61,
+      "end_time": 573.69
+    },
+    {
+      "text": "They're.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 573.69,
+      "end_time": 574.01
+    },
+    {
+      "text": "They're a big.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 574.01,
+      "end_time": 574.45
+    },
+    {
+      "text": "They're a big holding company in the US and this is.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 574.45,
+      "end_time": 576.61
+    },
+    {
+      "text": "All he did was.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 576.61,
+      "end_time": 577.37
+    },
+    {
+      "text": "Was M and A analysis, due diligence, implementation.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 577.37,
+      "end_time": 581.77
+    },
+    {
+      "text": "That was kind of his wheelhouse.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 581.77,
+      "end_time": 583.57
+    },
+    {
+      "text": "So he's.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 583.57,
+      "end_time": 583.97
+    },
+    {
+      "text": "He's on the team and he's gonna be helping us.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 583.97,
+      "end_time": 585.65
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 586.05,
+      "end_time": 586.93
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 586.93,
+      "end_time": 587.45
+    },
+    {
+      "text": "So you, you kind of need us for all of the upfront stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 587.45,
+      "end_time": 590.09
+    },
+    {
+      "text": "Once we've got you a deal, we've, we've.",
+      "speaker_name": "Andy Day",
+      "start_time": 590.09,
+      "end_time": 591.73
+    },
+    {
+      "text": "We've got it in and it's in motion, then he will pick things up.",
+      "speaker_name": "Andy Day",
+      "start_time": 591.73,
+      "end_time": 595.33
+    },
+    {
+      "text": "Yeah, like, you know, he's.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 595.49,
+      "end_time": 597.01
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 597.01,
+      "end_time": 597.41
+    },
+    {
+      "text": "When I was talking to him yesterday, he's like, yeah, send me the sim.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 597.41,
+      "end_time": 599.49
+    },
+    {
+      "text": "Send me the sim.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 599.49,
+      "end_time": 600.29
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 601.68,
+      "end_time": 602.32
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 602.64,
+      "end_time": 603.12
+    },
+    {
+      "text": "And so is it.",
+      "speaker_name": "Andy Day",
+      "start_time": 603.2,
+      "end_time": 604.08
+    },
+    {
+      "text": "Is it all three of you kind of leading the charge, or is there somebody that we're going to work with?",
+      "speaker_name": "Andy Day",
+      "start_time": 604.24,
+      "end_time": 608.28
+    },
+    {
+      "text": "One.",
+      "speaker_name": "Andy Day",
+      "start_time": 608.28,
+      "end_time": 608.52
+    },
+    {
+      "text": "One on one.",
+      "speaker_name": "Andy Day",
+      "start_time": 608.52,
+      "end_time": 609.12
+    },
+    {
+      "text": "That's it.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 609.44,
+      "end_time": 610
+    },
+    {
+      "text": "So we may need, as part of our deal team, need some.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 610.88,
+      "end_time": 613.72
+    },
+    {
+      "text": "Need to bring in some people, like lawyers and, you know, some due diligence folks.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 613.72,
+      "end_time": 618.96
+    },
+    {
+      "text": "But that's all post loi.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 619.44,
+      "end_time": 622.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 622.8,
+      "end_time": 623.32
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 623.32,
+      "end_time": 624.08
+    },
+    {
+      "text": "Yeah, we generally, we do assist with due diligence, you know, requesting information, managing the process.",
+      "speaker_name": "Andy Day",
+      "start_time": 626,
+      "end_time": 633.79
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 636.75,
+      "end_time": 637.71
+    },
+    {
+      "text": "So post loi, you help with the DD work?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 638.35,
+      "end_time": 640.75
+    },
+    {
+      "text": "Yeah, we can help you grind through it.",
+      "speaker_name": "Andy Day",
+      "start_time": 641.39,
+      "end_time": 643.23
+    },
+    {
+      "text": "I mean, obviously with you sort of leading it and making the decisions, but we will manage all the requests and the data room and that sort of thing, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 644.03,
+      "end_time": 651.27
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 651.27,
+      "end_time": 652.19
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 654.11,
+      "end_time": 654.83
+    },
+    {
+      "text": "Look, it sounds like you guys are ready to get going.",
+      "speaker_name": "Andy Day",
+      "start_time": 654.83,
+      "end_time": 657.23
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 658.29,
+      "end_time": 658.85
+    },
+    {
+      "text": "Tell me, how does your firm work?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 659.09,
+      "end_time": 661.49
+    },
+    {
+      "text": "How do you make money?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 661.49,
+      "end_time": 662.49
+    },
+    {
+      "text": "Tell me a little bit about that.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 662.49,
+      "end_time": 663.73
+    },
+    {
+      "text": "Yeah, so like I say, we work both the buy and the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 664.61,
+      "end_time": 667.97
+    },
+    {
+      "text": "On the buy side, we work on a retained basis.",
+      "speaker_name": "Andy Day",
+      "start_time": 668.29,
+      "end_time": 670.89
+    },
+    {
+      "text": "So our monthly retainers are $5,000, and we also take a one and a half percent win fee when we get a deal closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 670.89,
+      "end_time": 678.69
+    },
+    {
+      "text": "So one and a half percent of enterprise value.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 679.17,
+      "end_time": 681.41
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 682.53,
+      "end_time": 682.93
+    },
+    {
+      "text": "And we just, we take those payments as the payments are made.",
+      "speaker_name": "Andy Day",
+      "start_time": 682.93,
+      "end_time": 685.97
+    },
+    {
+      "text": "So obviously there could be an offer on the table for a value, but if they don't hit targets, then we don't, we don't get paid for the, the, the size of the offer at the start.",
+      "speaker_name": "Andy Day",
+      "start_time": 686.37,
+      "end_time": 696.03
+    },
+    {
+      "text": "I see.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 696.43,
+      "end_time": 696.99
+    },
+    {
+      "text": "So yeah, the enterprise value is, is obviously split then up into whatever the, the payments are and that's how we take our, our win fee.",
+      "speaker_name": "Andy Day",
+      "start_time": 699.55,
+      "end_time": 710.07
+    },
+    {
+      "text": "The same way that the seller gets paid out.",
+      "speaker_name": "Andy Day",
+      "start_time": 710.07,
+      "end_time": 713.47
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 713.71,
+      "end_time": 714.27
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 715.48,
+      "end_time": 715.68
+    },
+    {
+      "text": "So the way that we work, it takes us a couple of weeks really to get set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 715.68,
+      "end_time": 719.96
+    },
+    {
+      "text": "So we'll do obviously research in the market and see what's out there.",
+      "speaker_name": "Andy Day",
+      "start_time": 720.12,
+      "end_time": 725.8
+    },
+    {
+      "text": "We start to build a list of targets and then we're tooling everything up and getting everything set up in the software and the outbound campaigns.",
+      "speaker_name": "Andy Day",
+      "start_time": 725.96,
+      "end_time": 737.72
+    },
+    {
+      "text": "And then by about week three, we start to get responses.",
+      "speaker_name": "Andy Day",
+      "start_time": 737.96,
+      "end_time": 740.84
+    },
+    {
+      "text": "And so from about week four onwards, we book in a weekly call with you and then from there we're really booking things into your, into your calendars and making sure that we're on track.",
+      "speaker_name": "Andy Day",
+      "start_time": 741.24,
+      "end_time": 754.15
+    },
+    {
+      "text": "Obviously, like you say, you can feedback and we can change tack over time, but, but yeah, we're just up and running by about week, Week four.",
+      "speaker_name": "Andy Day",
+      "start_time": 754.15,
+      "end_time": 763.39
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 763.87,
+      "end_time": 764.43
+    },
+    {
+      "text": "And then how long does it typically take?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 765.07,
+      "end_time": 768.03
+    },
+    {
+      "text": "I know that there's outliers.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 768.51,
+      "end_time": 770.43
+    },
+    {
+      "text": "Some are very quick, some take years.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 771.25,
+      "end_time": 773.25
+    },
+    {
+      "text": "Yeah, I mean, look, I mean as soon as we're up and running, we can pretty much sort of give you, give you leads straight away.",
+      "speaker_name": "Andy Day",
+      "start_time": 773.97,
+      "end_time": 782.05
+    },
+    {
+      "text": "So that's probably not really the issue.",
+      "speaker_name": "Andy Day",
+      "start_time": 782.13,
+      "end_time": 783.77
+    },
+    {
+      "text": "But obviously it takes time to get a deal done.",
+      "speaker_name": "Andy Day",
+      "start_time": 783.77,
+      "end_time": 787.97
+    },
+    {
+      "text": "I would say probably our quickest partners make acquisitions every six months, something like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 787.97,
+      "end_time": 795.17
+    },
+    {
+      "text": "And the actual process for us to find those deals is weeks to, I mean, it's a couple of weeks and then they're basically filling up your inbox and then to hit gold.",
+      "speaker_name": "Andy Day",
+      "start_time": 795.81,
+      "end_time": 808.69
+    },
+    {
+      "text": "I mean it can, it can be immediate depending on how you know how quick you guys are.",
+      "speaker_name": "Andy Day",
+      "start_time": 808.69,
+      "end_time": 816.41
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 816.89,
+      "end_time": 817.45
+    },
+    {
+      "text": "It's pretty much instantaneous.",
+      "speaker_name": "Andy Day",
+      "start_time": 817.93,
+      "end_time": 819.45
+    },
+    {
+      "text": "Once we're out in the market, it could be immediate, but obviously then it takes about two months to get a deal closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 819.45,
+      "end_time": 824.81
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 824.81,
+      "end_time": 825.13
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 825.4,
+      "end_time": 825.64
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 826.04,
+      "end_time": 826.48
+    },
+    {
+      "text": "Yeah, I would say it's about, it's probably a six month process.",
+      "speaker_name": "Andy Day",
+      "start_time": 826.48,
+      "end_time": 829.08
+    },
+    {
+      "text": "We do work with some clients for three months and we just basically fill them up with deals and then they just go off and do their own thing and come back a couple of months later.",
+      "speaker_name": "Andy Day",
+      "start_time": 829.16,
+      "end_time": 836.44
+    },
+    {
+      "text": "I see, I see, Gotcha.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 836.92,
+      "end_time": 838.92
+    },
+    {
+      "text": "Okay, so, so it's, it works Five grand per month and then any deal that you introduce to us, if it closes, you get 1.5%.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 839,
+      "end_time": 846.04
+    },
+    {
+      "text": "Yeah, I see.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 846.6,
+      "end_time": 847.96
+    },
+    {
+      "text": "Okay, gotcha.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 847.96,
+      "end_time": 849.56
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 849.64,
+      "end_time": 850.28
+    },
+    {
+      "text": "Is this how you worked with Justin in motion?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 853.17,
+      "end_time": 854.93
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 855.81,
+      "end_time": 856.25
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 856.25,
+      "end_time": 856.69
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 856.93,
+      "end_time": 857.57
+    },
+    {
+      "text": "Actually when we worked with them, it was quite a few years ago, so I'm not 100 sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 858.29,
+      "end_time": 862.21
+    },
+    {
+      "text": "The first deal we did with them was about three or four years ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 862.37,
+      "end_time": 864.85
+    },
+    {
+      "text": "But it's how we've, we've been working for the last three or four years pretty much, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 864.85,
+      "end_time": 869.01
+    },
+    {
+      "text": "I see.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 869.09,
+      "end_time": 869.73
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 869.81,
+      "end_time": 870.53
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 870.77,
+      "end_time": 871.37
+    },
+    {
+      "text": "Very good.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 871.37,
+      "end_time": 871.97
+    },
+    {
+      "text": "Okay, well, I don't have any questions per se at this point.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 872.21,
+      "end_time": 876.85
+    },
+    {
+      "text": "Let me, let me talk it over with with Mark and he's on.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 877.33,
+      "end_time": 880.17
+    },
+    {
+      "text": "He's gonna be out today and tomorrow, but early next week.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 880.17,
+      "end_time": 882.76
+    },
+    {
+      "text": "I'll bring him up to speed and then we can go from there.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 882.84,
+      "end_time": 885.72
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 885.96,
+      "end_time": 886.4
+    },
+    {
+      "text": "Let me put everything in an email to you, Chris, and then you've got it to hand when you speak to him.",
+      "speaker_name": "Andy Day",
+      "start_time": 886.4,
+      "end_time": 890.92
+    },
+    {
+      "text": "That'd be great.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 891.08,
+      "end_time": 891.8
+    },
+    {
+      "text": "Should we call you Andrew or Andy?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 892.2,
+      "end_time": 894.12
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Andy Day",
+      "start_time": 895.4,
+      "end_time": 895.96
+    },
+    {
+      "text": "Andy's fine.",
+      "speaker_name": "Andy Day",
+      "start_time": 895.96,
+      "end_time": 896.64
+    },
+    {
+      "text": "Yeah, Andrew's just to keep the.",
+      "speaker_name": "Andy Day",
+      "start_time": 896.64,
+      "end_time": 897.959
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 897.959,
+      "end_time": 898.359
+    },
+    {
+      "text": "To keep all of the bots at bay, basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 898.359,
+      "end_time": 900.72
+    },
+    {
+      "text": "I can always spot a bot if they're calling me Andrew.",
+      "speaker_name": "Andy Day",
+      "start_time": 900.72,
+      "end_time": 903.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 904.12,
+      "end_time": 904.44
+    },
+    {
+      "text": "I mean this is a volume play with us pretty much, particularly the first month or two.",
+      "speaker_name": "Andy Day",
+      "start_time": 904.44,
+      "end_time": 908.68
+    },
+    {
+      "text": "We can really sort of scale up your outbound and get people in the door, get them to the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 908.68,
+      "end_time": 913.44
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 913.76,
+      "end_time": 914.16
+    },
+    {
+      "text": "In, in terms of our search criteria, are we too, are we too broad, too narrow?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 914.56,
+      "end_time": 920.16
+    },
+    {
+      "text": "I mean, do you think we're going to get a fair amount of looks?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 920.16,
+      "end_time": 922.72
+    },
+    {
+      "text": "No, I think it's, I think it's good.",
+      "speaker_name": "Andy Day",
+      "start_time": 925.68,
+      "end_time": 927.32
+    },
+    {
+      "text": "Obviously you're saying that it's broader scope at the start, but you know, there's tons of companies working with HubSpot and Clay.",
+      "speaker_name": "Andy Day",
+      "start_time": 927.32,
+      "end_time": 933.72
+    },
+    {
+      "text": "I mean we can dig into what it is exactly want around that and professional services, but, but there's plenty out there.",
+      "speaker_name": "Andy Day",
+      "start_time": 933.72,
+      "end_time": 941.41
+    },
+    {
+      "text": "I mean we, like I said we, we've done some HubSpot searches before.",
+      "speaker_name": "Andy Day",
+      "start_time": 941.41,
+      "end_time": 944.41
+    },
+    {
+      "text": "It was actually in Germany.",
+      "speaker_name": "Andy Day",
+      "start_time": 944.41,
+      "end_time": 945.69
+    },
+    {
+      "text": "Okay, well, it's in Europe.",
+      "speaker_name": "Andy Day",
+      "start_time": 946.01,
+      "end_time": 947.65
+    },
+    {
+      "text": "We did one in Germany and one in somewhere else.",
+      "speaker_name": "Andy Day",
+      "start_time": 947.65,
+      "end_time": 950.57
+    },
+    {
+      "text": "Okay, what about, what about the size there?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 950.89,
+      "end_time": 953.69
+    },
+    {
+      "text": "That, that 500 to 5 million?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 953.69,
+      "end_time": 955.61
+    },
+    {
+      "text": "I mean that's basically everything, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 956.01,
+      "end_time": 957.93
+    },
+    {
+      "text": "We're looking at something now that's, that's kind of too small, but yeah, look.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 959.93,
+      "end_time": 965.17
+    },
+    {
+      "text": "I would say if it's a healthy company, then 500k is right at the bottom end, isn't it really?",
+      "speaker_name": "Andy Day",
+      "start_time": 965.17,
+      "end_time": 970.69
+    },
+    {
+      "text": "And up to 5 million this is, and I'm sure you're totally aware is kind of where everybody plays.",
+      "speaker_name": "Andy Day",
+      "start_time": 971.57,
+      "end_time": 979.81
+    },
+    {
+      "text": "So you've got all of the big players, private equity firms looking for bolt ons or even platform businesses at the low end of the market.",
+      "speaker_name": "Andy Day",
+      "start_time": 979.81,
+      "end_time": 989.73
+    },
+    {
+      "text": "And plus you've got everybody else, private investors and growing companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 989.81,
+      "end_time": 995.09
+    },
+    {
+      "text": "Every, everybody kind of shops in that window.",
+      "speaker_name": "Andy Day",
+      "start_time": 995.17,
+      "end_time": 998.01
+    },
+    {
+      "text": "There is a, is, there's thousands of businesses that are there.",
+      "speaker_name": "Andy Day",
+      "start_time": 998.01,
+      "end_time": 1001.81
+    },
+    {
+      "text": "Once you get over the 5 million, market gets particularly difficult, doesn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1001.89,
+      "end_time": 1004.85
+    },
+    {
+      "text": "So yeah, you're, you're much more in the private equity world.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1004.85,
+      "end_time": 1008.77
+    },
+    {
+      "text": "How, how, how far down do you see PE coming into that range?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1008.93,
+      "end_time": 1013.25
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1014.05,
+      "end_time": 1014.53
+    },
+    {
+      "text": "So in the UK, private equity do start around 1 million EBITDA.",
+      "speaker_name": "Andy Day",
+      "start_time": 1014.53,
+      "end_time": 1019.41
+    },
+    {
+      "text": "So 1 million pounds.",
+      "speaker_name": "Andy Day",
+      "start_time": 1019.41,
+      "end_time": 1020.33
+    },
+    {
+      "text": "It's about 1.5, $1.4 million US.",
+      "speaker_name": "Andy Day",
+      "start_time": 1020.33,
+      "end_time": 1024.69
+    },
+    {
+      "text": "US yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1025.41,
+      "end_time": 1026.09
+    },
+    {
+      "text": "I mean the smaller companies, we'll look at that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1026.09,
+      "end_time": 1029.01
+    },
+    {
+      "text": "And then, and particularly for bolt ons, of course.",
+      "speaker_name": "Andy Day",
+      "start_time": 1030.13,
+      "end_time": 1033.01
+    },
+    {
+      "text": "And then in the US is $2 million is like that is the lowest I've heard anybody quote.",
+      "speaker_name": "Andy Day",
+      "start_time": 1034.21,
+      "end_time": 1039.49
+    },
+    {
+      "text": "But yeah, their preference for a platform is something a little bit more substantial.",
+      "speaker_name": "Andy Day",
+      "start_time": 1039.49,
+      "end_time": 1043.97
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1044.21,
+      "end_time": 1044.61
+    },
+    {
+      "text": "I think around the sort of 4 or 5 million is probably where they really want to be.",
+      "speaker_name": "Andy Day",
+      "start_time": 1044.61,
+      "end_time": 1049.81
+    },
+    {
+      "text": "Gotcha.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1049.97,
+      "end_time": 1050.57
+    },
+    {
+      "text": "Okay, Very good, very good.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1050.57,
+      "end_time": 1052.85
+    },
+    {
+      "text": "Andy, this has been incredibly helpful.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1052.85,
+      "end_time": 1054.53
+    },
+    {
+      "text": "Please send that note, include Mark.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1054.85,
+      "end_time": 1056.45
+    },
+    {
+      "text": "He and I will talk about it early next week and we'll be back in touch.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1056.45,
+      "end_time": 1059.89
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1060.37,
+      "end_time": 1060.85
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1060.85,
+      "end_time": 1061.21
+    },
+    {
+      "text": "I'd love to work with you guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 1061.21,
+      "end_time": 1062.37
+    },
+    {
+      "text": "Yeah, it sounds like.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1062.69,
+      "end_time": 1063.49
+    },
+    {
+      "text": "How long have you been doing this?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1064.21,
+      "end_time": 1065.33
+    },
+    {
+      "text": "So I sold my business in 2016.",
+      "speaker_name": "Andy Day",
+      "start_time": 1067.09,
+      "end_time": 1069.89
+    },
+    {
+      "text": "So about, I had about a year off.",
+      "speaker_name": "Andy Day",
+      "start_time": 1070.37,
+      "end_time": 1073.57
+    },
+    {
+      "text": "So eight years I would say.",
+      "speaker_name": "Andy Day",
+      "start_time": 1073.81,
+      "end_time": 1075.73
+    },
+    {
+      "text": "What was your business that you sold?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1075.81,
+      "end_time": 1077.41
+    },
+    {
+      "text": "It was a digital publishing platform and marketing business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1077.98,
+      "end_time": 1082.54
+    },
+    {
+      "text": "So publishing and marketing media.",
+      "speaker_name": "Andy Day",
+      "start_time": 1082.54,
+      "end_time": 1084.3
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1084.38,
+      "end_time": 1084.78
+    },
+    {
+      "text": "And then how did you get into this line of work?",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1084.78,
+      "end_time": 1086.7
+    },
+    {
+      "text": "I got bored and a friend of mine was looking to buy businesses and he wanted to buy companies in the media marketing space.",
+      "speaker_name": "Andy Day",
+      "start_time": 1088.46,
+      "end_time": 1096.02
+    },
+    {
+      "text": "And he was like, look, can you come in and work with me and our chairman to find these companies?",
+      "speaker_name": "Andy Day",
+      "start_time": 1096.02,
+      "end_time": 1100.86
+    },
+    {
+      "text": "So yeah, I just started working with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1101.82,
+      "end_time": 1104.14
+    },
+    {
+      "text": "Were a small, they're listed on the UK stock market and as I got going, people were asking me to help them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1104.53,
+      "end_time": 1112.81
+    },
+    {
+      "text": "You know, the more people you speak to, the more want to sell or they want to buy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1112.81,
+      "end_time": 1117.09
+    },
+    {
+      "text": "And yeah, it just started opening doors.",
+      "speaker_name": "Andy Day",
+      "start_time": 1117.09,
+      "end_time": 1118.81
+    },
+    {
+      "text": "So I thought, you know what, this looks like something I can do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1118.81,
+      "end_time": 1121.41
+    },
+    {
+      "text": "Sounds like you're having fun doing it.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1121.97,
+      "end_time": 1123.57
+    },
+    {
+      "text": "Yeah, it's great.",
+      "speaker_name": "Andy Day",
+      "start_time": 1123.65,
+      "end_time": 1124.49
+    },
+    {
+      "text": "I love it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1124.49,
+      "end_time": 1125.01
+    },
+    {
+      "text": "I love working with founders both sides of the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 1125.01,
+      "end_time": 1127.73
+    },
+    {
+      "text": "Really.",
+      "speaker_name": "Andy Day",
+      "start_time": 1127.73,
+      "end_time": 1128.05
+    },
+    {
+      "text": "A lot of the founders we work with on the sell side are like hugely creative, which resonates with me.",
+      "speaker_name": "Andy Day",
+      "start_time": 1128.29,
+      "end_time": 1133.84
+    },
+    {
+      "text": "And on the buy side.",
+      "speaker_name": "Andy Day",
+      "start_time": 1133.92,
+      "end_time": 1134.88
+    },
+    {
+      "text": "Yeah, I love it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1134.88,
+      "end_time": 1135.56
+    },
+    {
+      "text": "I love the pace of it, particularly founders like yourself.",
+      "speaker_name": "Andy Day",
+      "start_time": 1135.56,
+      "end_time": 1138.88
+    },
+    {
+      "text": "That have been through the process and just want to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1138.88,
+      "end_time": 1140.88
+    },
+    {
+      "text": "You.",
+      "speaker_name": "Andy Day",
+      "start_time": 1140.88,
+      "end_time": 1141.12
+    },
+    {
+      "text": "You want to sort of help other people, really, and open doors, don't you?",
+      "speaker_name": "Andy Day",
+      "start_time": 1141.12,
+      "end_time": 1144.68
+    },
+    {
+      "text": "It's all part of the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1144.68,
+      "end_time": 1145.36
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1146.239,
+      "end_time": 1146.96
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1147.04,
+      "end_time": 1147.68
+    },
+    {
+      "text": "Well, great.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1147.68,
+      "end_time": 1148.24
+    },
+    {
+      "text": "And this has been phenomenal.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1148.32,
+      "end_time": 1149.68
+    },
+    {
+      "text": "I, I look forward to seeing your note and we'll continue the conversation next week.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1149.68,
+      "end_time": 1153.2
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1153.44,
+      "end_time": 1153.92
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1153.92,
+      "end_time": 1154.4
+    },
+    {
+      "text": "Have a great day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1154.4,
+      "end_time": 1155.2
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Chris Corcoran",
+      "start_time": 1155.68,
+      "end_time": 1156.48
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1156.48,
+      "end_time": 1157.04
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andy Day",
+      "start_time": 1157.04,
+      "end_time": 1157.31
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A advisory",
+      "acquisitions",
+      "marketing agencies",
+      "go-to-market services",
+      "private equity",
+      "HubSpot"
+    ],
+    "action_items": "\n**Andy Day**\nSend summary email to Chris Corcoran including meeting details and next steps for discussion with Mark (14:45)\n\n**Chris Corcoran**\nReview meeting summary email with Mark and discuss acquisition strategy early next week (19:06)\n",
+    "outline": null,
+    "overview": "- Collaboration potential identified between Chris Corcoran, Justin, and Mark based on past working relationships, enhancing trust for future engagements.\n- Capitala specializes in M&A advisory for marketing agencies with services covering buy side, sell side, and marketplace platforms.\n- The founders have a strong background, growing a company founded in 2002 to 700 employees and successfully executing a major equity sale.\n- Acquisition targets are focused on adjacent B2B go-to-market services, seeking firms with $500k-$5 million adjusted EBITDA in the U.S.\n- Geographic focus is primarily on the U.S. East Coast and D.C. area, though they are open to opportunities nationwide, including Seattle.\n- BlueTower is the holding company established for acquisitions, although no deals have been made yet.\n- Urgency noted for initiating search immediately, understanding that M&A processes may take months to complete.\n- Sourcing strategy will start broad with a plan to refine targets over time, showing flexibility in stake acquisition and control levels.\n- Deal structures are adaptable based on seller motivations, with a willingness to incorporate earnouts and seller notes.\n- Monthly fee of $5,000 plus 1.5% success fee based on closed deals aligns payment with deal disbursement, emphasizing a performance-based approach.",
+    "short_summary": "The conversation revolved around a strategic plan to acquire a majority stake in a US go-to-market company, targeting those with adjusted EBITDA between $500,000 and $5 million. Chris Corcoran and Mark emphasized flexibility in deal structure and founder involvement, with a preference for companies in professional services or tech-enabled sectors, particularly around platforms like HubSpot or Clay. Geographically, they aim for the East Coast, especially the D.C. metro area, but remain open to nationwide opportunities. The acquisition process will be facilitated by BlueTower, their holding company, and managed through Capitala, which will assist in sourcing and vetting potential deals. The team aims to leverage their previous experience in scaling businesses to replicate growth and ensure long-term success.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K5YASBV8FEY26HM57YRZVA5S",
+  "audio_url": "https://cdn.fireflies.ai/01K5YASBV8FEY26HM57YRZVA5S/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzVZQVNCVjhGRVkyNkhNNTdZUlpWQTVTL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=TSRQKdyvwZBvjVNIfVOMF-lOs3e5tHURd0rbDa3yRx~4nSqBrZW0nCrDq-JzGWFhttZkhK5-KphxAgILBHhG3GaBG2t8pCUS4pe2U4zWqAsagrKdL1ybHUc7CgZ1pC8~GCDtUnnPpW0ytOZsNE0CLJgnHGGK~VH1nDSaSQMbKmFyr1UrveTp5KPWxPMiBYXBG-wL7n5QmUNKtMtXkNn5tTsfb71IJwd~asgvlT30GfS9zG0T40I4GvMI5johVVnNp~lsiIF-MBJeHqKoWQIS8NPq8Xap-R8auATRH9g8z-AB6khkl~qaliEsKE783obRA5Yy3h3wIyLJAjj9bFSobQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K5YASBV8FEY26HM57YRZVA5S/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzVZQVNCVjhGRVkyNkhNNTdZUlpWQTVTL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=ilC-GCPbAu1n1~ZqsVZgXmbbNWaUSj6OUuxhtBsnym1xasFodbSgWQoea6dZgw5Gu6jInmXSk3yIjldaDfQmSWDzGPoKuYgT2EfZSNTBN9lTdVmbB-n9BWxgWulfnU0trnZtd54-3ULjQpN4R3eluMWATvGYQzog1ew7xPSjJLtcfbQCs~FwV1AJdYreNM8E6Dbf~~XDyVG014yNEgbA1M2UjJb7BD6nwKQzTcrWaCkvLeT53tMjl~snqfdCyqbyqda9qiih-2pkTODYhQiRC0kK7oRQr6deYqv-TeMIn6exjWSmZ-aJBJszpy9JZz-31wk8kAVeSPHm0JWrDd~wLg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

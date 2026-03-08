@@ -1,0 +1,1792 @@
+{
+  "id": "01JVSETH12BJ4M3JZ9CV2KCN1D",
+  "title": "Field | Capital A",
+  "date": 1748008800000,
+  "dateString": "2025-05-23T14:00:00.000Z",
+  "duration": 22.030000686645508,
+  "participants": [
+    "andrew.day@capitala.co,marcus@field.io,andy.day@capitala.co",
+    "marcus@field.io",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Marcus Wendt",
+      "email": "marcus@field.io",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "I'm good.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 0.08,
+      "end_time": 0.64
+    },
+    {
+      "text": "There we are.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1.6,
+      "end_time": 2.32
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 2.64,
+      "end_time": 4.32
+    },
+    {
+      "text": "Yeah, good.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.92,
+      "end_time": 6.48
+    },
+    {
+      "text": "See?",
+      "speaker_name": "Andy Day",
+      "start_time": 6.48,
+      "end_time": 6.72
+    },
+    {
+      "text": "Whereabouts are you?",
+      "speaker_name": "Andy Day",
+      "start_time": 6.72,
+      "end_time": 7.56
+    },
+    {
+      "text": "You can.",
+      "speaker_name": "Andy Day",
+      "start_time": 7.56,
+      "end_time": 8.2
+    },
+    {
+      "text": "Somewhere sunny.",
+      "speaker_name": "Andy Day",
+      "start_time": 8.2,
+      "end_time": 9.12
+    },
+    {
+      "text": "I am in the south of England.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 9.28,
+      "end_time": 12.08
+    },
+    {
+      "text": "The south of England.",
+      "speaker_name": "Andy Day",
+      "start_time": 13.04,
+      "end_time": 14.16
+    },
+    {
+      "text": "South of England, Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 14.4,
+      "end_time": 15.68
+    },
+    {
+      "text": "Doing a day trip between London to Rye.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 16.56,
+      "end_time": 20.8
+    },
+    {
+      "text": "To where, sorry?",
+      "speaker_name": "Andy Day",
+      "start_time": 21.44,
+      "end_time": 22.32
+    },
+    {
+      "text": "To Rye.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 22.32,
+      "end_time": 23.2
+    },
+    {
+      "text": "Yeah, it's like a beach town.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 24.48,
+      "end_time": 27.23
+    },
+    {
+      "text": "Little beach town, very pretty.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 27.55,
+      "end_time": 29.47
+    },
+    {
+      "text": "On the south coast.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.63,
+      "end_time": 30.75
+    },
+    {
+      "text": "Yeah, like southeast.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 31.23,
+      "end_time": 33.55
+    },
+    {
+      "text": "Near.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 33.55,
+      "end_time": 33.83
+    },
+    {
+      "text": "Near Hastings.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 33.83,
+      "end_time": 34.83
+    },
+    {
+      "text": "Oh, right, Yeah, I know where you.",
+      "speaker_name": "Andy Day",
+      "start_time": 35.39,
+      "end_time": 36.99
+    },
+    {
+      "text": "Where you are.",
+      "speaker_name": "Andy Day",
+      "start_time": 36.99,
+      "end_time": 37.55
+    },
+    {
+      "text": "Yeah, yeah, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 37.55,
+      "end_time": 38.39
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 38.39,
+      "end_time": 38.79
+    },
+    {
+      "text": "Where.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 38.79,
+      "end_time": 39.11
+    },
+    {
+      "text": "Where are you?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 39.11,
+      "end_time": 39.79
+    },
+    {
+      "text": "Sorry for the ridiculous glasses.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 40.59,
+      "end_time": 42.67
+    },
+    {
+      "text": "They're back in fashion.",
+      "speaker_name": "Andy Day",
+      "start_time": 44.35,
+      "end_time": 45.47
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 46.35,
+      "end_time": 46.83
+    },
+    {
+      "text": "I'm in Somerset and Amanda's in Austin, Texas.",
+      "speaker_name": "Andy Day",
+      "start_time": 48.43,
+      "end_time": 51.39
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 54.36,
+      "end_time": 54.56
+    },
+    {
+      "text": "So good to see you.",
+      "speaker_name": "Andy Day",
+      "start_time": 54.56,
+      "end_time": 55.32
+    },
+    {
+      "text": "Thank you for your.",
+      "speaker_name": "Andy Day",
+      "start_time": 55.32,
+      "end_time": 56
+    },
+    {
+      "text": "Your time today.",
+      "speaker_name": "Andy Day",
+      "start_time": 56,
+      "end_time": 56.68
+    },
+    {
+      "text": "I appreciate you're obviously busy and we've got a nice long weekend ahead of us, so I'll try and be as quick as possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 56.68,
+      "end_time": 63.96
+    },
+    {
+      "text": "I'll tell you a little bit about us first.",
+      "speaker_name": "Andy Day",
+      "start_time": 65.4,
+      "end_time": 67.72
+    },
+    {
+      "text": "We're.",
+      "speaker_name": "Andy Day",
+      "start_time": 69.56,
+      "end_time": 70.04
+    },
+    {
+      "text": "We're Capital A.",
+      "speaker_name": "Andy Day",
+      "start_time": 70.04,
+      "end_time": 71.28
+    },
+    {
+      "text": "We're an M and A advisory and we work just in marketing services.",
+      "speaker_name": "Andy Day",
+      "start_time": 71.28,
+      "end_time": 74.76
+    },
+    {
+      "text": "So all of our clients are either buy or sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 74.92,
+      "end_time": 77.4
+    },
+    {
+      "text": "We operate the platform agencies co, which is a marketplace for agency owners to buy and sell.",
+      "speaker_name": "Andy Day",
+      "start_time": 78.33,
+      "end_time": 83.93
+    },
+    {
+      "text": "But in this instance, we're working for a private investment group helping them to acquire targets.",
+      "speaker_name": "Andy Day",
+      "start_time": 84.97,
+      "end_time": 91.65
+    },
+    {
+      "text": "We actually already completed two acquisitions.",
+      "speaker_name": "Andy Day",
+      "start_time": 91.65,
+      "end_time": 94.17
+    },
+    {
+      "text": "Last year we acquired an agency in the US called Hovercraft Studio, an agency in the uk, excuse me, called omm.",
+      "speaker_name": "Andy Day",
+      "start_time": 94.17,
+      "end_time": 104.01
+    },
+    {
+      "text": "So they're looking for more businesses to acquire and build into the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 106.04,
+      "end_time": 111.96
+    },
+    {
+      "text": "The guys that we work for are actually very experienced from a financial point of view.",
+      "speaker_name": "Andy Day",
+      "start_time": 112.84,
+      "end_time": 117.48
+    },
+    {
+      "text": "They've actually been part of multiple exits themselves and did some exits in the cloud computing space.",
+      "speaker_name": "Andy Day",
+      "start_time": 117.64,
+      "end_time": 127.08
+    },
+    {
+      "text": "And now they're very interested in spatial computing and immersive experiences.",
+      "speaker_name": "Andy Day",
+      "start_time": 127.56,
+      "end_time": 131.96
+    },
+    {
+      "text": "So that's us.",
+      "speaker_name": "Andy Day",
+      "start_time": 133.38,
+      "end_time": 134.26
+    },
+    {
+      "text": "Markus, the nature of these calls really is just to find out about you and your business and where you are at at the moment and where you would consider being part of an equity.",
+      "speaker_name": "Andy Day",
+      "start_time": 134.42,
+      "end_time": 147.46
+    },
+    {
+      "text": "But really the magic happens on the next call with our clients where they'll give you sort of big strategy pitch and you can see if you're a fit for both sides, whether you're a fit and whether there's chemistry, et cetera.",
+      "speaker_name": "Andy Day",
+      "start_time": 147.86,
+      "end_time": 159.86
+    },
+    {
+      "text": "Yeah, interesting.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 160.24,
+      "end_time": 162.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 163.04,
+      "end_time": 163.48
+    },
+    {
+      "text": "So I would appreciate just a sort of quick overview of field and what it is that you guys do.",
+      "speaker_name": "Andy Day",
+      "start_time": 163.48,
+      "end_time": 168.96
+    },
+    {
+      "text": "What do we do?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 171.68,
+      "end_time": 172.56
+    },
+    {
+      "text": "We're just in the process of a little strategic update.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 178.88,
+      "end_time": 184.4
+    },
+    {
+      "text": "It's called Creative Intelligence for a Living World.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 184.96,
+      "end_time": 187.76
+    },
+    {
+      "text": "So we are.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 189.45,
+      "end_time": 190.57
+    },
+    {
+      "text": "What are we?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 193.29,
+      "end_time": 194.01
+    },
+    {
+      "text": "I'd say we're one of the best design studios in the world.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 198.89,
+      "end_time": 201.21
+    },
+    {
+      "text": "Basically the.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 201.61,
+      "end_time": 203.53
+    },
+    {
+      "text": "We work with the.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 203.929,
+      "end_time": 204.85
+    },
+    {
+      "text": "Some of the best brands and we've done some very ambitious projects and we have the backing and build very deep partnerships with some of them.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 204.85,
+      "end_time": 217.86
+    },
+    {
+      "text": "So basically we're working in the experiential design narrative environments space creatively but also technologically where we've developed basically operating systems for spatial environments.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 217.94,
+      "end_time": 245.03
+    },
+    {
+      "text": "One of them runs basically entire fleet of Nike flagship stores.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 247.35,
+      "end_time": 253.43
+    },
+    {
+      "text": "94 installations worldwide.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 254.55,
+      "end_time": 257.95
+    },
+    {
+      "text": "Like the entire, everything you see on screens top to bottom runs through our system.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 257.95,
+      "end_time": 263.11
+    },
+    {
+      "text": "And we just this year branched out into the luxury sector.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 264.71,
+      "end_time": 271.37
+    },
+    {
+      "text": "We have one of the biggest luxury brands backing us building a very cool, ambitious spatial computing operating system with a similar intent later down the line to operate their stores.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 272.33,
+      "end_time": 292.37
+    },
+    {
+      "text": "And essentially we're kind of at this intersection of brand new technology, emerging technology and space.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 292.37,
+      "end_time": 299.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 300.36,
+      "end_time": 300.84
+    },
+    {
+      "text": "Okay, that's really interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 303.08,
+      "end_time": 305.64
+    },
+    {
+      "text": "So our clients through, through Hovercraft Studio, they are the agency of record for Nike in the experiential space.",
+      "speaker_name": "Andy Day",
+      "start_time": 305.64,
+      "end_time": 315
+    },
+    {
+      "text": "So do you, do you work directly with, with brands or do you work in partnership with other agencies?",
+      "speaker_name": "Andy Day",
+      "start_time": 315.08,
+      "end_time": 320.96
+    },
+    {
+      "text": "How does your relationship brand work?",
+      "speaker_name": "Andy Day",
+      "start_time": 320.96,
+      "end_time": 322.72
+    },
+    {
+      "text": "Basically just brands.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 323.52,
+      "end_time": 324.8
+    },
+    {
+      "text": "You work with brands?",
+      "speaker_name": "Andy Day",
+      "start_time": 328.16,
+      "end_time": 329.28
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 329.28,
+      "end_time": 329.64
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 329.64,
+      "end_time": 330.72
+    },
+    {
+      "text": "And in terms of like your, your team and where you're based?",
+      "speaker_name": "Andy Day",
+      "start_time": 332.08,
+      "end_time": 336.72
+    },
+    {
+      "text": "So are you based in London?",
+      "speaker_name": "Andy Day",
+      "start_time": 337.04,
+      "end_time": 339.12
+    },
+    {
+      "text": "So I'm.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 340.72,
+      "end_time": 341.44
+    },
+    {
+      "text": "Yeah, we started in London and we grew like we've doubled in size last year and we've, we're now like 43 something.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 341.6,
+      "end_time": 351.14
+    },
+    {
+      "text": "We have two offices, London and Berlin and then there's a network of people all over Europe working as it's one unit basically.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 352.98,
+      "end_time": 363.86
+    },
+    {
+      "text": "But yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 364.9,
+      "end_time": 366.5
+    },
+    {
+      "text": "Is everybody working remotely or do you have actual physical office space?",
+      "speaker_name": "Andy Day",
+      "start_time": 368.82,
+      "end_time": 373.14
+    },
+    {
+      "text": "No, we have two physical offices.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 373.14,
+      "end_time": 376.06
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 376.3,
+      "end_time": 376.7
+    },
+    {
+      "text": "But we are highly, let's say remote friendly.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 377.9,
+      "end_time": 381.18
+    },
+    {
+      "text": "Yeah, it's up to, up to the team.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 382.94,
+      "end_time": 386.7
+    },
+    {
+      "text": "But we encourage it to meet once in a while.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 386.78,
+      "end_time": 389.02
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 389.9,
+      "end_time": 390.3
+    },
+    {
+      "text": "And in terms of like a typical engagement with a client, are you doing a lot of these immersive retail spaces like you're doing for Nike or is, is there other sort of work that you are doing as well?",
+      "speaker_name": "Andy Day",
+      "start_time": 390.779,
+      "end_time": 403.18
+    },
+    {
+      "text": "Yeah, so for example, for the, in the past seven or eight years we formed a really strong bond with IBM and we're essentially their preferred experiential partner doing all kinds of like installations, activations, traveling shows, things like that where in the process of branching out into the Middle east and we have the completed projects there and we have some quite cool new engagements as well.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 405.03,
+      "end_time": 443.28
+    },
+    {
+      "text": "Straight out of Abu Dhabi.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 444.88,
+      "end_time": 446.48
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 449.92,
+      "end_time": 450.4
+    },
+    {
+      "text": "For IBM.",
+      "speaker_name": "Andy Day",
+      "start_time": 450.4,
+      "end_time": 451.28
+    },
+    {
+      "text": "And so in terms of what those projects sort of COVID obviously you're doing these immersive spaces.",
+      "speaker_name": "Andy Day",
+      "start_time": 452.24,
+      "end_time": 462.01
+    },
+    {
+      "text": "Is there, is there any other types of work that you do alongside that?",
+      "speaker_name": "Andy Day",
+      "start_time": 462.01,
+      "end_time": 465.49
+    },
+    {
+      "text": "So are you responsible for the, for the actual strategy and the build or do you just focus on the strategy part of it and somebody else does the build?",
+      "speaker_name": "Andy Day",
+      "start_time": 465.49,
+      "end_time": 474.57
+    },
+    {
+      "text": "How does that work?",
+      "speaker_name": "Andy Day",
+      "start_time": 474.57,
+      "end_time": 475.41
+    },
+    {
+      "text": "No, so we, I'd say, I'd say the team is pretty diverse and also highly regarded for their design jobs.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 475.65,
+      "end_time": 485.53
+    },
+    {
+      "text": "We've also rebranded Instagram, we created the Meta logo, we worked on the entire Meta brand system from logo to design systems to performance marketing to AI tools.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 486.89,
+      "end_time": 501.05
+    },
+    {
+      "text": "So the, the key thing to understand about Field is we, we don't outsource.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 501.53,
+      "end_time": 508.17
+    },
+    {
+      "text": "Everything you see is conceived by us, made by us, designed by us, developed by us.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 508.25,
+      "end_time": 517.05
+    },
+    {
+      "text": "So we have a team that's basically from creative strategy design to AI specialists, cloud software infrastructure and back end people all working in hand building these systems.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 517.85,
+      "end_time": 535.21
+    },
+    {
+      "text": "It's a very integrated process.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 535.73,
+      "end_time": 537.01
+    },
+    {
+      "text": "Yeah, you've got some great clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 538.05,
+      "end_time": 539.65
+    },
+    {
+      "text": "And so for Meta they obviously came up with their logo, Mark.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.29,
+      "end_time": 544.09
+    },
+    {
+      "text": "But you did all the work for the animation, did you?",
+      "speaker_name": "Andy Day",
+      "start_time": 544.09,
+      "end_time": 547.57
+    },
+    {
+      "text": "And putting together they had like a scribble and someone had to bring it to life and had to launch it within a month or so.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 547.57,
+      "end_time": 557.77
+    },
+    {
+      "text": "So we worked on all of the launch material and we essentially did the entire experiential brand design part for Meta.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 557.77,
+      "end_time": 568
+    },
+    {
+      "text": "Like how does the logo work in a headset?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 568.4,
+      "end_time": 572.36
+    },
+    {
+      "text": "How does it turn into an office fixture?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 572.36,
+      "end_time": 576.2
+    },
+    {
+      "text": "How does it turn into an immersive installation?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 576.2,
+      "end_time": 578.32
+    },
+    {
+      "text": "What's the visual language around that?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 579.28,
+      "end_time": 581.12
+    },
+    {
+      "text": "What's the implication for their retail spaces etc?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 582.8,
+      "end_time": 587.44
+    },
+    {
+      "text": "Etc?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 587.44,
+      "end_time": 587.8
+    },
+    {
+      "text": "So it's.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 587.8,
+      "end_time": 588.4
+    },
+    {
+      "text": "So we tend to, I mean that's what we're working towards now is we build great partnerships and we often brands tend to trust us for the kind of technical ability but also the strategic input we bring.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 588.64,
+      "end_time": 607.92
+    },
+    {
+      "text": "So it's become, yeah, so we don't tend to have, it's not a ton of clients, it's like a small selection.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 608.96,
+      "end_time": 618.41
+    },
+    {
+      "text": "We do the occasional, let's say a little bit more outlier projects, which I enjoy, gives a bit of variety, but we just are also really sort of on nurturing accounts and building great relationships.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 621.45,
+      "end_time": 638.81
+    },
+    {
+      "text": "So for example, I've just come back from a week in Boston or the biggest conference for IBM Sync and then we had a, they invited us to speak at New York Design, so we were there.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 640.39,
+      "end_time": 655.75
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 659.11,
+      "end_time": 659.99
+    },
+    {
+      "text": "And where do those relationships sort of sit, Mark?",
+      "speaker_name": "Andy Day",
+      "start_time": 660.23,
+      "end_time": 663.59
+    },
+    {
+      "text": "Is that with you?",
+      "speaker_name": "Andy Day",
+      "start_time": 663.75,
+      "end_time": 664.55
+    },
+    {
+      "text": "Do you do the, the business development part of, you know, your process of finding onboarding clients or, or do you have a team that deals with that?",
+      "speaker_name": "Andy Day",
+      "start_time": 664.55,
+      "end_time": 673.51
+    },
+    {
+      "text": "We're lucky that the clients tend to find us and I do have a pretty good leadership team, I would say.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 678.15,
+      "end_time": 688.55
+    },
+    {
+      "text": "So the, what is it, two, three Years ago, I took over the company.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 689.19,
+      "end_time": 695.73
+    },
+    {
+      "text": "I used to have a business partner.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 698.77,
+      "end_time": 700.77
+    },
+    {
+      "text": "Now it's just me, basically.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 701.33,
+      "end_time": 703.09
+    },
+    {
+      "text": "I got a pretty good managing director and creative team.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 704.37,
+      "end_time": 709.01
+    },
+    {
+      "text": "So it's.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 710.37,
+      "end_time": 711.01
+    },
+    {
+      "text": "We're, like, organized as five or six teams internally that each run their own project highly independently.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 711.25,
+      "end_time": 718.61
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 720.99,
+      "end_time": 721.27
+    },
+    {
+      "text": "So they are more looking after new partnerships and kind of new crazy ideas.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 721.27,
+      "end_time": 728.51
+    },
+    {
+      "text": "And the team is pretty good at nurturing the accounts.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 731.31,
+      "end_time": 734.99
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 735.39,
+      "end_time": 735.87
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 736.35,
+      "end_time": 737.15
+    },
+    {
+      "text": "And so did you.",
+      "speaker_name": "Andy Day",
+      "start_time": 737.15,
+      "end_time": 737.83
+    },
+    {
+      "text": "You bought your partner out, did you or did you bring in investors?",
+      "speaker_name": "Andy Day",
+      "start_time": 737.83,
+      "end_time": 741.15
+    },
+    {
+      "text": "Yeah, you bought them out.",
+      "speaker_name": "Andy Day",
+      "start_time": 741.15,
+      "end_time": 742.03
+    },
+    {
+      "text": "And so do you own the company 100% yourself, Marcus?",
+      "speaker_name": "Andy Day",
+      "start_time": 742.03,
+      "end_time": 744.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 745.22,
+      "end_time": 745.62
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 746.5,
+      "end_time": 746.9
+    },
+    {
+      "text": "Okay, fantastic.",
+      "speaker_name": "Andy Day",
+      "start_time": 746.9,
+      "end_time": 748.02
+    },
+    {
+      "text": "And in terms of like, just, like ballpark numbers, but what sort of revenue and EBITDA are you currently doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 749.06,
+      "end_time": 757.7
+    },
+    {
+      "text": "I think last.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 763.38,
+      "end_time": 764.34
+    },
+    {
+      "text": "Last year must have been 4.8 pounds, million pounds turnover.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 765.06,
+      "end_time": 772.44
+    },
+    {
+      "text": "This year.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 774.52,
+      "end_time": 775.08
+    },
+    {
+      "text": "We're at 4 already.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 775.08,
+      "end_time": 776.68
+    },
+    {
+      "text": "So we basically.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 777.08,
+      "end_time": 779.48
+    },
+    {
+      "text": "We had a pretty good growth rate after I took over.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 780.52,
+      "end_time": 785.48
+    },
+    {
+      "text": "I think we had like 320% growth last year, and we're looking to double that this year.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 786.439,
+      "end_time": 792.76
+    },
+    {
+      "text": "Right, so you think you're on Track for about 12 million this year?",
+      "speaker_name": "Andy Day",
+      "start_time": 793.64,
+      "end_time": 797.49
+    },
+    {
+      "text": "Went for about 8 or 9.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 798.05,
+      "end_time": 800.29
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 801.25,
+      "end_time": 801.81
+    },
+    {
+      "text": "And then in terms of, like, your.",
+      "speaker_name": "Andy Day",
+      "start_time": 802.21,
+      "end_time": 804.21
+    },
+    {
+      "text": "Your profit margin, your EBITDA or your EBITDA margin, do you know that?",
+      "speaker_name": "Andy Day",
+      "start_time": 804.53,
+      "end_time": 808.53
+    },
+    {
+      "text": "Sort of.",
+      "speaker_name": "Andy Day",
+      "start_time": 808.53,
+      "end_time": 809.01
+    },
+    {
+      "text": "I don't know it off the top of my head, but it's within.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 809.57,
+      "end_time": 812.05
+    },
+    {
+      "text": "I've looked it up not long ago.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 812.37,
+      "end_time": 814.69
+    },
+    {
+      "text": "It's within industry standards.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 814.69,
+      "end_time": 816.21
+    },
+    {
+      "text": "Okay, well, the industry.",
+      "speaker_name": "Andy Day",
+      "start_time": 817.65,
+      "end_time": 818.77
+    },
+    {
+      "text": "It varies across the.",
+      "speaker_name": "Andy Day",
+      "start_time": 819.01,
+      "end_time": 821.33
+    },
+    {
+      "text": "The industry, but what would you say?",
+      "speaker_name": "Andy Day",
+      "start_time": 821.33,
+      "end_time": 824.05
+    },
+    {
+      "text": "Some.",
+      "speaker_name": "Andy Day",
+      "start_time": 824.05,
+      "end_time": 824.33
+    },
+    {
+      "text": "Somewhere between 20 and 30%, do you mean?",
+      "speaker_name": "Andy Day",
+      "start_time": 824.33,
+      "end_time": 826.9
+    },
+    {
+      "text": "Yeah, I say it's around that.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 831.06,
+      "end_time": 833.06
+    },
+    {
+      "text": "Around that.",
+      "speaker_name": "Andy Day",
+      "start_time": 833.46,
+      "end_time": 834.06
+    },
+    {
+      "text": "Okay, so you're profitable.",
+      "speaker_name": "Andy Day",
+      "start_time": 834.06,
+      "end_time": 835.34
+    },
+    {
+      "text": "I mean, it's quite important to.",
+      "speaker_name": "Andy Day",
+      "start_time": 835.34,
+      "end_time": 837.38
+    },
+    {
+      "text": "To know whether you are or not, because obviously.",
+      "speaker_name": "Andy Day",
+      "start_time": 837.38,
+      "end_time": 839.14
+    },
+    {
+      "text": "No, no, we are.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 840.02,
+      "end_time": 840.98
+    },
+    {
+      "text": "We are profitable.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 840.98,
+      "end_time": 841.94
+    },
+    {
+      "text": "I don't.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 843.7,
+      "end_time": 844.3
+    },
+    {
+      "text": "Just don't look at that.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 844.3,
+      "end_time": 846.02
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 848.26,
+      "end_time": 848.82
+    },
+    {
+      "text": "Yeah, because obviously we.",
+      "speaker_name": "Andy Day",
+      "start_time": 849.54,
+      "end_time": 851.18
+    },
+    {
+      "text": "We would like to put an offer in for the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 851.18,
+      "end_time": 855.03
+    },
+    {
+      "text": "And obviously that calculation is based on how profitable the business is and in terms of, like, your own goals, Marcus.",
+      "speaker_name": "Andy Day",
+      "start_time": 855.59,
+      "end_time": 861.63
+    },
+    {
+      "text": "I mean, obviously you're entertaining us on this, on this call, but are you.",
+      "speaker_name": "Andy Day",
+      "start_time": 861.63,
+      "end_time": 866.95
+    },
+    {
+      "text": "Are you looking to exit or do you have, like, any aspirations of what you're building towards?",
+      "speaker_name": "Andy Day",
+      "start_time": 867.75,
+      "end_time": 872.15
+    },
+    {
+      "text": "Yeah, I guess, to be very honest with you, we get these offers once.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 877.51,
+      "end_time": 886.24
+    },
+    {
+      "text": "Once in a while.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 886.4,
+      "end_time": 887.28
+    },
+    {
+      "text": "Had a few this year.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 888.32,
+      "end_time": 889.44
+    },
+    {
+      "text": "I'm in an age where I would consider it, but it would have to be a good offer.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 892.96,
+      "end_time": 897.199
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 898.08,
+      "end_time": 898.56
+    },
+    {
+      "text": "Because.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 898.56,
+      "end_time": 898.96
+    },
+    {
+      "text": "Yeah, just purely based on facts, I think we can demonstrate a strong growth trajectory, and I'm very much enjoying what we're doing.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 899.84,
+      "end_time": 910.73
+    },
+    {
+      "text": "Yeah, it's.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 911.21,
+      "end_time": 912.81
+    },
+    {
+      "text": "It's A good amount of fun.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 912.89,
+      "end_time": 914.65
+    },
+    {
+      "text": "So the offer would have to be pretty.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 914.65,
+      "end_time": 918.29
+    },
+    {
+      "text": "Pretty good, but I'm happy to consider it.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 918.29,
+      "end_time": 920.49
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 920.65,
+      "end_time": 921.13
+    },
+    {
+      "text": "And did you have, I mean, did you actually have offers on the table from those companies that have been interested or.",
+      "speaker_name": "Andy Day",
+      "start_time": 921.13,
+      "end_time": 927.61
+    },
+    {
+      "text": "And you've turned them down because they.",
+      "speaker_name": "Andy Day",
+      "start_time": 928.01,
+      "end_time": 929.73
+    },
+    {
+      "text": "They weren't good enough or what was that process like?",
+      "speaker_name": "Andy Day",
+      "start_time": 929.73,
+      "end_time": 932.81
+    },
+    {
+      "text": "Yeah, we had, let's say, pretty advanced or pretty serious conversations.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 935.15,
+      "end_time": 941.07
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 941.47,
+      "end_time": 942.11
+    },
+    {
+      "text": "With two groups here in the UK or one is like Canadian uk.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 942.11,
+      "end_time": 951.47
+    },
+    {
+      "text": "They were good ideas, but at that time I had just taken over the business from my partner and basically I didn't feel that the price we would be getting would be worth what I think it is in a few years.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 953.71,
+      "end_time": 967.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 967.85,
+      "end_time": 968.33
+    },
+    {
+      "text": "So that's quite logical.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 968.81,
+      "end_time": 970.73
+    },
+    {
+      "text": "So my clients are pretty creative with their offers.",
+      "speaker_name": "Andy Day",
+      "start_time": 972.25,
+      "end_time": 975.65
+    },
+    {
+      "text": "They actually move extremely quickly.",
+      "speaker_name": "Andy Day",
+      "start_time": 975.65,
+      "end_time": 977.45
+    },
+    {
+      "text": "So once they've had a conversation, we've requested financials, if you're interested, they can move within sort of a week or two maximum and start the process of an acquisition.",
+      "speaker_name": "Andy Day",
+      "start_time": 977.45,
+      "end_time": 990.09
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 992.29,
+      "end_time": 992.53
+    },
+    {
+      "text": "Okay, so you've, you've looked at some offers before and you've had these types of conversations.",
+      "speaker_name": "Andy Day",
+      "start_time": 992.53,
+      "end_time": 996.45
+    },
+    {
+      "text": "Do you have like a ballpark number in your head that you're looking to hit or a multiple that you feel is a fair multiple?",
+      "speaker_name": "Andy Day",
+      "start_time": 996.53,
+      "end_time": 1004.37
+    },
+    {
+      "text": "I'd say the, the, it depends on also the conditions attached.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1009.33,
+      "end_time": 1013.29
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1013.29,
+      "end_time": 1013.57
+    },
+    {
+      "text": "I'm sure there's, there will be some.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1014.29,
+      "end_time": 1016.21
+    },
+    {
+      "text": "It would have to be beyond 12 million.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1021.53,
+      "end_time": 1024.65
+    },
+    {
+      "text": "12 million.",
+      "speaker_name": "Andy Day",
+      "start_time": 1025.69,
+      "end_time": 1026.41
+    },
+    {
+      "text": "That's a pretty unprofessional way of establishing it.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1029.05,
+      "end_time": 1033.529
+    },
+    {
+      "text": "But I just wouldn't entertain anything else and.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1033.529,
+      "end_time": 1037.05
+    },
+    {
+      "text": "Because I basically think in a few years we're at that point anyways and, But I think parts of the business are in, you know, a very good shape.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1038.09,
+      "end_time": 1050.34
+    },
+    {
+      "text": "And there would be any, any brand would be happy to add that to their portfolio.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1050.34,
+      "end_time": 1055.3
+    },
+    {
+      "text": "And also the technology part is.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1057.86,
+      "end_time": 1062.26
+    },
+    {
+      "text": "I know that's very valuable.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1062.9,
+      "end_time": 1064.5
+    },
+    {
+      "text": "So that would be a separate conversation.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1064.58,
+      "end_time": 1066.5
+    },
+    {
+      "text": "So I think that would be 12 for the.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1066.58,
+      "end_time": 1068.5
+    },
+    {
+      "text": "The creative part.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1069.16,
+      "end_time": 1069.88
+    },
+    {
+      "text": "The creative studio.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1069.88,
+      "end_time": 1070.92
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1071.4,
+      "end_time": 1071.88
+    },
+    {
+      "text": "And we are currently in the process of creating our first product for which we have the backing of that luxury company.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1072.2,
+      "end_time": 1087.32
+    },
+    {
+      "text": "So we might be doing a joint venture with them.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1090.12,
+      "end_time": 1092.2
+    },
+    {
+      "text": "And if, if that happens, I either want that to be.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1093.24,
+      "end_time": 1097.49
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1098.69,
+      "end_time": 1099.17
+    },
+    {
+      "text": "Up for discussion.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1099.65,
+      "end_time": 1100.61
+    },
+    {
+      "text": "Is that part of the package or is it separate?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1100.61,
+      "end_time": 1102.85
+    },
+    {
+      "text": "But I'd be very happy to just carry on with that.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1103.25,
+      "end_time": 1105.89
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1106.29,
+      "end_time": 1106.69
+    },
+    {
+      "text": "And are you looking to, to stay attached to the creative company long term, or is that something you want to step back from and focus on the product side of things?",
+      "speaker_name": "Andy Day",
+      "start_time": 1107.01,
+      "end_time": 1115.57
+    },
+    {
+      "text": "I'm open again, it comes probably, if it comes to a sale.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1119.57,
+      "end_time": 1127.29
+    },
+    {
+      "text": "Realistically, I would want to look to exit.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1129.05,
+      "end_time": 1133.21
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1133.21,
+      "end_time": 1135.69
+    },
+    {
+      "text": "And so, so your team, I guess, is it structured given that you've got an md, et cetera?",
+      "speaker_name": "Andy Day",
+      "start_time": 1136.01,
+      "end_time": 1141.41
+    },
+    {
+      "text": "It's structured for success without your every, your day to day involvement in the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1141.41,
+      "end_time": 1148.25
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1148.85,
+      "end_time": 1149.17
+    },
+    {
+      "text": "So the team can operate completely independently.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1149.25,
+      "end_time": 1153.01
+    },
+    {
+      "text": "Yeah, we have MDs.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1153.33,
+      "end_time": 1155.49
+    },
+    {
+      "text": "Like basically in the last year and a half or so, I've.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1155.65,
+      "end_time": 1160.77
+    },
+    {
+      "text": "We've added around five people to do what I used to do.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1161.97,
+      "end_time": 1165.49
+    },
+    {
+      "text": "And do you have creative directors there as well?",
+      "speaker_name": "Andy Day",
+      "start_time": 1166.61,
+      "end_time": 1169.25
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1169.49,
+      "end_time": 1170.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1170.37,
+      "end_time": 1170.81
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1170.81,
+      "end_time": 1171.57
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1171.57,
+      "end_time": 1171.97
+    },
+    {
+      "text": "Well, I think that that could potentially be part of the conversation and they would be, I think they'd be quite flexible with that, depending on what you were looking to do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1172.13,
+      "end_time": 1183.44
+    },
+    {
+      "text": "But I think, you know, very generally speaking they would prefer that founders stayed in the business at least for a certain amount of time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1184.24,
+      "end_time": 1190.8
+    },
+    {
+      "text": "For a handover.",
+      "speaker_name": "Andy Day",
+      "start_time": 1190.8,
+      "end_time": 1192.24
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1192.48,
+      "end_time": 1193.36
+    },
+    {
+      "text": "No, no, I would, that's what I would expect.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1193.44,
+      "end_time": 1196.32
+    },
+    {
+      "text": "But you know, sometimes there's ridiculously long times attached to it.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1196.4,
+      "end_time": 1200.32
+    },
+    {
+      "text": "Yeah, but yeah, I mean, the only, the only reason why you might want to consider a longer period of time is that these guys are actually building something that's the, that is, you know, quite significant and they have quite big goals from a financial point of view.",
+      "speaker_name": "Andy Day",
+      "start_time": 1201.1,
+      "end_time": 1219.66
+    },
+    {
+      "text": "What are this going to look like at the end of it in the, you know, sort of three or four years time?",
+      "speaker_name": "Andy Day",
+      "start_time": 1219.66,
+      "end_time": 1223.26
+    },
+    {
+      "text": "So it could be that you might want stay in the business, but if you have your own aspirations, then potentially.",
+      "speaker_name": "Andy Day",
+      "start_time": 1224.62,
+      "end_time": 1231.3
+    },
+    {
+      "text": "Yeah, you could step away as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1231.3,
+      "end_time": 1232.58
+    },
+    {
+      "text": "Yeah, maybe they can tell me about it.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1232.9,
+      "end_time": 1235.94
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andy Day",
+      "start_time": 1236.1,
+      "end_time": 1236.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1236.82,
+      "end_time": 1237.06
+    },
+    {
+      "text": "I mean, if it's something that's inspirational to you and you want to stay in, certainly the work that they're doing is on par with what you guys are doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1237.06,
+      "end_time": 1246.26
+    },
+    {
+      "text": "But I know they are very interested in the retail space as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1246.26,
+      "end_time": 1250.1
+    },
+    {
+      "text": "So look, next steps would be just to get a call, set up between you and our client and then obviously they can give you the sort of pitch about what it is that they're trying to build.",
+      "speaker_name": "Andy Day",
+      "start_time": 1251.14,
+      "end_time": 1259.46
+    },
+    {
+      "text": "And if you feel there's good chemistry and it's something that you want to be part of, then we can start to move things forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 1260.26,
+      "end_time": 1266.02
+    },
+    {
+      "text": "Usually they have a second meeting with their creative team.",
+      "speaker_name": "Andy Day",
+      "start_time": 1266.42,
+      "end_time": 1269.7
+    },
+    {
+      "text": "They talk about creative ideas and how that all works.",
+      "speaker_name": "Andy Day",
+      "start_time": 1270.66,
+      "end_time": 1274.74
+    },
+    {
+      "text": "And then if there is a sort of synergy and there's a good fit around that type, you know, the creative approach, then we can make an offer quite quickly, like I said.",
+      "speaker_name": "Andy Day",
+      "start_time": 1274.98,
+      "end_time": 1284.66
+    },
+    {
+      "text": "So, um, so yeah, so thank you for your time today.",
+      "speaker_name": "Andy Day",
+      "start_time": 1284.66,
+      "end_time": 1288.87
+    },
+    {
+      "text": "I appreciate you are out and about.",
+      "speaker_name": "Andy Day",
+      "start_time": 1288.87,
+      "end_time": 1291.31
+    },
+    {
+      "text": "It looks like you're cycling or something.",
+      "speaker_name": "Andy Day",
+      "start_time": 1292.27,
+      "end_time": 1293.87
+    },
+    {
+      "text": "So oh, yeah, yeah, yeah.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1293.95,
+      "end_time": 1295.39
+    },
+    {
+      "text": "Look, I've got a new bike.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1295.47,
+      "end_time": 1296.99
+    },
+    {
+      "text": "Oh.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1297.07,
+      "end_time": 1297.63
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "Andy Day",
+      "start_time": 1299.87,
+      "end_time": 1300.35
+    },
+    {
+      "text": "Very nice.",
+      "speaker_name": "Andy Day",
+      "start_time": 1301.31,
+      "end_time": 1302.03
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1302.75,
+      "end_time": 1303.19
+    },
+    {
+      "text": "Well, enjoy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1303.19,
+      "end_time": 1303.75
+    },
+    {
+      "text": "Enjoy your long weekend.",
+      "speaker_name": "Andy Day",
+      "start_time": 1303.75,
+      "end_time": 1304.87
+    },
+    {
+      "text": "But we'll be in touch.",
+      "speaker_name": "Andy Day",
+      "start_time": 1304.87,
+      "end_time": 1305.87
+    },
+    {
+      "text": "Okay?",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1306.75,
+      "end_time": 1307.19
+    },
+    {
+      "text": "Yeah, sounds cool.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1307.19,
+      "end_time": 1308.03
+    },
+    {
+      "text": "Thanks for calling and speak soon.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1308.35,
+      "end_time": 1310.75
+    },
+    {
+      "text": "Yeah, Appreciate your time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1310.91,
+      "end_time": 1312.19
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1312.19,
+      "end_time": 1312.67
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1313.07,
+      "end_time": 1313.55
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Marcus Wendt",
+      "start_time": 1313.87,
+      "end_time": 1314.39
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1314.39,
+      "end_time": 1314.83
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Acquisition",
+      "Experiential Design",
+      "Spatial Computing",
+      "Creative Studio",
+      "Brand Partnerships",
+      "Immersive Environments"
+    ],
+    "action_items": "\n**Andy Day**\nArrange a call between Marcus and Capital A's client to discuss potential acquisition (20:36)\nSet up a second meeting with the creative team if the initial call goes well (21:07)\nFollow up after the long weekend (21:46)\n",
+    "outline": null,
+    "overview": "The Exploratory M&A Discussion meeting between Marcus Wendt of Field and Andy Day of Capital A focused on potential acquisition opportunities. Andy introduced Capital A as a dedicated M&A advisory firm in the marketing services sector, working alongside a private investment group experienced in cloud computing, with a keen interest in spatial computing and immersive experiences. Marcus presented Field as a leading design studio known for its experiential design and partnerships, particularly with IBM and its significant projects like the Meta brand system. The conversation highlighted Field's impressive growth, with a recent revenue of £4.8 million and projections of £8-9 million, as well as its profitable structure with margins between 20-30%. Marcus expressed openness to acquisition offers exceeding £12 million, emphasizing the company's capable leadership that could sustain operations independently during a potential transition period. The meeting concluded with action items to facilitate a call between Marcus and Capital A's client to discuss acquisition possibilities further.",
+    "short_summary": "Marcus Wendt from Field and Andy Day from Capital A met to discuss potential acquisition opportunities. Capital A, an M&A advisory firm specializing in marketing services, collaborates with a private investment group focused on cloud computing, showing interest in spatial computing and immersive experiences. Marcus highlighted Field's strengths as a leading design studio, known for its collaborations, particularly with IBM on significant projects like the Meta brand system. Field's recent revenue reached £4.8 million, with projections of £8-9 million, and it maintains a profitable structure with margins of 20-30%. Marcus indicated that Field would consider acquisition offers over £12 million and noted the company's capable leadership, which could manage operations independently during a transition. The meeting concluded with plans for further discussions between Marcus and Capital A's client regarding acquisition possibilities.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JVSETH12BJ4M3JZ9CV2KCN1D",
+  "audio_url": "https://cdn.fireflies.ai/01JVSETH12BJ4M3JZ9CV2KCN1D/audio.mp3?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlZTRVRIMTJCSjRNM0paOUNWMktDTjFEL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=PKx79wjxs2kTlKHjFcf3TE-f54Ay6WhDMqMOPbxJr7xy-l87MonRWrDOR8Hs8jxAxCOT4KNN8d5RzhJTSdcZgGYMa8MoMXrDWZP1PEuSVdYt9wi0deB0U~zi4zttDLUzyn0kv1AQ0A8jwbJjdEt5Wb43xXMmYI0S9DXWCbdVamQOwORQYNZDEkJ-kRa6akDlMnwlgRtok59tYw5Xzxe7PwkjXEwVqHGWdkoQctQQqf40UlqjCYvjKDTxg9QzboIsbNAIh3ktogwena5aZ2WJPG2kBJivOOB~yyI6TJsPKxlr7MsaMPBAnG5mguUeZ0PY3vTqPHalwdpaq7eDiLadcA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JVSETH12BJ4M3JZ9CV2KCN1D/video.mp4?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlZTRVRIMTJCSjRNM0paOUNWMktDTjFEL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=Yy9pRzAFg6rHayxvz3hRLYTIum9PwVBARuY8LqUWiQPigCpwKMDA1OctUrD1ZhLnZUfv364sUJ0mJGa336dNutBkEB~rgbshVkokenMypeg~POx9ZCYTfIGsa1Y~YQFFdCl2t-pORLaYKKp1xc43MOzy0wZxJVn4lFBn1GTYT13rgGANq~U2QxwQPqolvje--KHKum7~6fE~jO3DXbyaIktEK7jlj-IRDVE8LEbUnfWar5b4RSfBtY04EJxqcQoxpLlooREIPSvu73rjsIO7CH-QWp7Mq8hnjmhPWjMbbXxnTYKTedhJlErOUBnTaaj37v9bv5mkRD1o4yzla8bgAg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

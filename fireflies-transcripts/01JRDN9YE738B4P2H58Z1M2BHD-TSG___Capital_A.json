@@ -1,0 +1,3691 @@
+{
+  "id": "01JRDN9YE738B4P2H58Z1M2BHD",
+  "title": "TSG | Capital A",
+  "date": 1744279200000,
+  "dateString": "2025-04-10T10:00:00.000Z",
+  "duration": 41.65999984741211,
+  "participants": [
+    "andrew.day@capitala.co,stuart.tiedeman@rmi.co,ahmed.zia@capitala.co,jon@rmi.co,chris@multiply.team,matt.simpson@rmi.co",
+    "stuart.tiedeman@rmi.co",
+    "ahmed.zia@capitala.co",
+    "jon@rmi.co",
+    "chris@multiply.team",
+    "matt.simpson@rmi.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "stuart.tiedeman@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jon@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris@multiply.team",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "matt.simpson@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Andy Day",
+      "start_time": 0.32,
+      "end_time": 2.14
+    },
+    {
+      "text": "Hello, Andy.",
+      "speaker_name": "stuart",
+      "start_time": 221.36,
+      "end_time": 222.62
+    },
+    {
+      "text": "Hi, Stuart.",
+      "speaker_name": "Andy Day",
+      "start_time": 223.52,
+      "end_time": 224.216
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 224.248,
+      "end_time": 225.112
+    },
+    {
+      "text": "Very good, thank you.",
+      "speaker_name": "stuart",
+      "start_time": 225.296,
+      "end_time": 227.22
+    },
+    {
+      "text": "Who is Joseph?",
+      "speaker_name": "Andy Day",
+      "start_time": 227.6,
+      "end_time": 228.824
+    },
+    {
+      "text": "Is that a new guy?",
+      "speaker_name": "Andy Day",
+      "start_time": 228.952,
+      "end_time": 230.3
+    },
+    {
+      "text": "That's John.",
+      "speaker_name": "stuart",
+      "start_time": 233.14,
+      "end_time": 234.092
+    },
+    {
+      "text": "It looks like Joseph's probably giving him his phone.",
+      "speaker_name": "stuart",
+      "start_time": 234.196,
+      "end_time": 236.476
+    },
+    {
+      "text": "John, you're on mute at the moment.",
+      "speaker_name": "stuart",
+      "start_time": 236.508,
+      "end_time": 238.108
+    },
+    {
+      "text": "Hi, Chris.",
+      "speaker_name": "stuart",
+      "start_time": 238.204,
+      "end_time": 239.052
+    },
+    {
+      "text": "Hey.",
+      "speaker_name": "Andy Day",
+      "start_time": 239.196,
+      "end_time": 239.66
+    },
+    {
+      "text": "Are you right?",
+      "speaker_name": "Chris Conway",
+      "start_time": 239.74,
+      "end_time": 240.68
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 242.18,
+      "end_time": 242.604
+    },
+    {
+      "text": "How you doing, Chris?",
+      "speaker_name": "Andy Day",
+      "start_time": 242.652,
+      "end_time": 243.404
+    },
+    {
+      "text": "How you doing, John?",
+      "speaker_name": "Andy Day",
+      "start_time": 243.452,
+      "end_time": 244.332
+    },
+    {
+      "text": "I am doing well.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 244.436,
+      "end_time": 245.388
+    },
+    {
+      "text": "I'm on my phone.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 245.444,
+      "end_time": 246.156
+    },
+    {
+      "text": "I don't understand why Joseph is Joseph come up or something, though.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 246.188,
+      "end_time": 249.26
+    },
+    {
+      "text": "He does say Joseph.",
+      "speaker_name": "Andy Day",
+      "start_time": 249.38,
+      "end_time": 250.524
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 250.572,
+      "end_time": 251.276
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 251.468,
+      "end_time": 252.076
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 252.148,
+      "end_time": 253.08
+    },
+    {
+      "text": "Well, so good call the other day, Stuart.",
+      "speaker_name": "Andy Day",
+      "start_time": 253.54,
+      "end_time": 258.246
+    },
+    {
+      "text": "I think it went very, very well.",
+      "speaker_name": "Andy Day",
+      "start_time": 258.278,
+      "end_time": 260.37
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "stuart",
+      "start_time": 260.67,
+      "end_time": 261.222
+    },
+    {
+      "text": "Who else we got there?",
+      "speaker_name": "Andy Day",
+      "start_time": 261.326,
+      "end_time": 262.182
+    },
+    {
+      "text": "Matt.",
+      "speaker_name": "Andy Day",
+      "start_time": 262.206,
+      "end_time": 262.55
+    },
+    {
+      "text": "Hi, Matt.",
+      "speaker_name": "Andy Day",
+      "start_time": 262.63,
+      "end_time": 263.094
+    },
+    {
+      "text": "Morning.",
+      "speaker_name": "Andy Day",
+      "start_time": 263.142,
+      "end_time": 263.398
+    },
+    {
+      "text": "Morning.",
+      "speaker_name": "matt",
+      "start_time": 263.454,
+      "end_time": 263.718
+    },
+    {
+      "text": "Morning.",
+      "speaker_name": "matt",
+      "start_time": 263.774,
+      "end_time": 264.278
+    },
+    {
+      "text": "Morning.",
+      "speaker_name": "Andy Day",
+      "start_time": 264.414,
+      "end_time": 265.09
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 268.59,
+      "end_time": 269.142
+    },
+    {
+      "text": "So feedback from Erica is that they want to progress the deal, so they're definitely moving forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 269.206,
+      "end_time": 278.05
+    },
+    {
+      "text": "That's good news.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 278.51,
+      "end_time": 279.398
+    },
+    {
+      "text": "That's good news.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 279.454,
+      "end_time": 279.99
+    },
+    {
+      "text": "Well done.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 280.03,
+      "end_time": 280.582
+    },
+    {
+      "text": "Yeah, it is good news.",
+      "speaker_name": "Andy Day",
+      "start_time": 280.686,
+      "end_time": 283.024
+    },
+    {
+      "text": "I think the only thing is the valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 283.112,
+      "end_time": 287.408
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 287.584,
+      "end_time": 287.968
+    },
+    {
+      "text": "But I've just said to them, look, you need to make us an offer and we can go from there.",
+      "speaker_name": "Andy Day",
+      "start_time": 288.024,
+      "end_time": 291.58
+    },
+    {
+      "text": "We've obviously positioned it at the top end and I think it's probably the right.",
+      "speaker_name": "Andy Day",
+      "start_time": 292.2,
+      "end_time": 299.44
+    },
+    {
+      "text": "Right thing to do, particularly with.",
+      "speaker_name": "Andy Day",
+      "start_time": 299.56,
+      "end_time": 301.296
+    },
+    {
+      "text": "With David in San Francisco and see if we could get a software multiple.",
+      "speaker_name": "Andy Day",
+      "start_time": 301.368,
+      "end_time": 305.504
+    },
+    {
+      "text": "But the business is what.",
+      "speaker_name": "Andy Day",
+      "start_time": 305.552,
+      "end_time": 306.64
+    },
+    {
+      "text": "What it is, and, you know, offers will be whatever the offers will be.",
+      "speaker_name": "Andy Day",
+      "start_time": 306.68,
+      "end_time": 311.084
+    },
+    {
+      "text": "So she pitched me.",
+      "speaker_name": "Andy Day",
+      "start_time": 311.172,
+      "end_time": 312.956
+    },
+    {
+      "text": "She didn't pitch me.",
+      "speaker_name": "Andy Day",
+      "start_time": 313.108,
+      "end_time": 314.012
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 314.036,
+      "end_time": 314.524
+    },
+    {
+      "text": "She quoted 12 to 14 on a call with me and Jack a few weeks ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 314.652,
+      "end_time": 318.68
+    },
+    {
+      "text": "And when I asked her about whether that would be the ballpark, she.",
+      "speaker_name": "Andy Day",
+      "start_time": 319.3,
+      "end_time": 323.564
+    },
+    {
+      "text": "She pretended she couldn't remember that.",
+      "speaker_name": "Andy Day",
+      "start_time": 323.652,
+      "end_time": 326.092
+    },
+    {
+      "text": "She said 14.",
+      "speaker_name": "Andy Day",
+      "start_time": 326.116,
+      "end_time": 327.388
+    },
+    {
+      "text": "But it won't be down to Erica anyway.",
+      "speaker_name": "Andy Day",
+      "start_time": 327.524,
+      "end_time": 329.036
+    },
+    {
+      "text": "It'll be down to the.",
+      "speaker_name": "Andy Day",
+      "start_time": 329.068,
+      "end_time": 330.52
+    },
+    {
+      "text": "The investment committee, whoever is on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 331.54,
+      "end_time": 334.92
+    },
+    {
+      "text": "Yeah, but she said, you know, single digits or low double digits, it would be somewhere around there.",
+      "speaker_name": "Andy Day",
+      "start_time": 335.38,
+      "end_time": 342.012
+    },
+    {
+      "text": "So, Andy, can you remind me, you've.",
+      "speaker_name": "stuart",
+      "start_time": 342.116,
+      "end_time": 346
+    },
+    {
+      "text": "You have or you haven't done a deal with Zip in your legacy so far?",
+      "speaker_name": "stuart",
+      "start_time": 346.42,
+      "end_time": 351.404
+    },
+    {
+      "text": "We haven't done a deal with Ziff now.",
+      "speaker_name": "Andy Day",
+      "start_time": 351.572,
+      "end_time": 353.068
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "stuart",
+      "start_time": 353.124,
+      "end_time": 353.772
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "stuart",
+      "start_time": 353.916,
+      "end_time": 354.252
+    },
+    {
+      "text": "So you've no real way of understanding their operating methodology or timescales or anything.",
+      "speaker_name": "stuart",
+      "start_time": 354.276,
+      "end_time": 360.396
+    },
+    {
+      "text": "That's absolutely fine.",
+      "speaker_name": "stuart",
+      "start_time": 360.428,
+      "end_time": 361.196
+    },
+    {
+      "text": "None of us work.",
+      "speaker_name": "stuart",
+      "start_time": 361.228,
+      "end_time": 362.124
+    },
+    {
+      "text": "I asked her about that timescales.",
+      "speaker_name": "Andy Day",
+      "start_time": 362.212,
+      "end_time": 363.644
+    },
+    {
+      "text": "I said, look, we need an offer, you know, I said, this is an advanced conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 363.692,
+      "end_time": 368.02
+    },
+    {
+      "text": "And she agreed that they could make an offer relatively soon.",
+      "speaker_name": "Andy Day",
+      "start_time": 369.72,
+      "end_time": 372.96
+    },
+    {
+      "text": "They're only held up because Maureen is.",
+      "speaker_name": "Andy Day",
+      "start_time": 373.08,
+      "end_time": 375.84
+    },
+    {
+      "text": "It is away in Thailand and she's kind of driving part of this, so they're not going to do anything until she's back.",
+      "speaker_name": "Andy Day",
+      "start_time": 375.88,
+      "end_time": 385.376
+    },
+    {
+      "text": "But that's only another week, next week, and then so the week after that they'll be able to discuss and start Moving forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 385.448,
+      "end_time": 393.64
+    },
+    {
+      "text": "But I think a lot of the work that's going to be done now to get to the valuation, their valuation, they have to build a P L and what it looks like within Ziff Davis, that'll be done based on the stuff we're about to send them.",
+      "speaker_name": "Andy Day",
+      "start_time": 394.02,
+      "end_time": 406.78
+    },
+    {
+      "text": "So they, they asked a bunch of questions and these are the answers, aren't they?",
+      "speaker_name": "Andy Day",
+      "start_time": 406.82,
+      "end_time": 410.108
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 410.164,
+      "end_time": 410.76
+    },
+    {
+      "text": "Yeah, indeed, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 411.46,
+      "end_time": 413.372
+    },
+    {
+      "text": "So hopefully they'll work that out.",
+      "speaker_name": "Andy Day",
+      "start_time": 413.436,
+      "end_time": 414.572
+    },
+    {
+      "text": "And when Maureen comes back, it's just a case of this.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.596,
+      "end_time": 416.924
+    },
+    {
+      "text": "These are the numbers that we've come up with.",
+      "speaker_name": "Andy Day",
+      "start_time": 417.012,
+      "end_time": 418.76
+    },
+    {
+      "text": "They go to pitch it to the investment committee and basically the committee either supports it or shoots it down and that's the usual process.",
+      "speaker_name": "Andy Day",
+      "start_time": 419.14,
+      "end_time": 428.204
+    },
+    {
+      "text": "And so, yeah, we've sold into large businesses like this before.",
+      "speaker_name": "Andy Day",
+      "start_time": 428.372,
+      "end_time": 431.596
+    },
+    {
+      "text": "Stagwell was particularly similar, fairly long drawn out approach like this.",
+      "speaker_name": "Andy Day",
+      "start_time": 431.668,
+      "end_time": 439.868
+    },
+    {
+      "text": "I think we sold, I think we sold that business about month nine from the start of the process to the end.",
+      "speaker_name": "Andy Day",
+      "start_time": 439.924,
+      "end_time": 445.964
+    },
+    {
+      "text": "So we're on track with a similar thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 446.052,
+      "end_time": 448.78
+    },
+    {
+      "text": "Stagwell's been interested in this since October, November time.",
+      "speaker_name": "Andy Day",
+      "start_time": 448.82,
+      "end_time": 453.036
+    },
+    {
+      "text": "So it's looking, it's looking similar.",
+      "speaker_name": "Andy Day",
+      "start_time": 453.108,
+      "end_time": 456.38
+    },
+    {
+      "text": "So in terms of the timeline.",
+      "speaker_name": "Andy Day",
+      "start_time": 456.5,
+      "end_time": 457.596
+    },
+    {
+      "text": "Yes, I asked about that, Stuart, and she said we will, we will make an offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 457.628,
+      "end_time": 461.628
+    },
+    {
+      "text": "Once more's back, it goes to the committee.",
+      "speaker_name": "Andy Day",
+      "start_time": 461.684,
+      "end_time": 463.516
+    },
+    {
+      "text": "We just need to build this bit of data out.",
+      "speaker_name": "Andy Day",
+      "start_time": 463.588,
+      "end_time": 466.268
+    },
+    {
+      "text": "So.",
+      "speaker_name": "matt",
+      "start_time": 466.324,
+      "end_time": 466.828
+    },
+    {
+      "text": "Okay, thank you, Andy.",
+      "speaker_name": "stuart",
+      "start_time": 466.964,
+      "end_time": 467.948
+    },
+    {
+      "text": "Just so I'm clear in my own head, because I understand everything you've just said, what I can't do is necessarily articulate what, what timeline you think we're collectively working on.",
+      "speaker_name": "stuart",
+      "start_time": 467.964,
+      "end_time": 476.15
+    },
+    {
+      "text": "I know you can't commit to it, but just so we're now obviously, let's say we're at start of April.",
+      "speaker_name": "stuart",
+      "start_time": 476.19,
+      "end_time": 480.566
+    },
+    {
+      "text": "It's got April, May, June, July, August.",
+      "speaker_name": "stuart",
+      "start_time": 480.718,
+      "end_time": 483.238
+    },
+    {
+      "text": "Could you just sort of at a high chunky level, sort of say April, May.",
+      "speaker_name": "stuart",
+      "start_time": 483.414,
+      "end_time": 486.87
+    },
+    {
+      "text": "What's going to happen in each of those months if all goes according to plan?",
+      "speaker_name": "stuart",
+      "start_time": 486.99,
+      "end_time": 490.21
+    },
+    {
+      "text": "Okay, so we are two weeks away from them meeting and that is the earliest that they can meet.",
+      "speaker_name": "Andy Day",
+      "start_time": 492.83,
+      "end_time": 498.21
+    },
+    {
+      "text": "So that takes us to the end of April pretty much.",
+      "speaker_name": "Andy Day",
+      "start_time": 499.07,
+      "end_time": 501.97
+    },
+    {
+      "text": "If they do come back that quickly with a ballpark offer, I mean that, that's what I've asked for.",
+      "speaker_name": "Andy Day",
+      "start_time": 502.73,
+      "end_time": 509.362
+    },
+    {
+      "text": "I've said, look, if you come to us, sort of what we call a site, a sidebar conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 509.386,
+      "end_time": 518.706
+    },
+    {
+      "text": "If you come to us, to me and give us the, the kind of ballpark figure that you're thinking of taking to the committee and then we can approve it before you go in, rather than getting something approved by the committee and coming back with an offer that we say no, that's way too Low, because that, that will delay things.",
+      "speaker_name": "Andy Day",
+      "start_time": 518.898,
+      "end_time": 535.572
+    },
+    {
+      "text": "So that's the plan.",
+      "speaker_name": "Andy Day",
+      "start_time": 535.756,
+      "end_time": 536.708
+    },
+    {
+      "text": "Eric has agreed to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 536.764,
+      "end_time": 539.492
+    },
+    {
+      "text": "So let's say they meet start of May and it's approved and we like the offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 539.596,
+      "end_time": 547.236
+    },
+    {
+      "text": "We're happy to, to live with it.",
+      "speaker_name": "Andy Day",
+      "start_time": 547.308,
+      "end_time": 549.04
+    },
+    {
+      "text": "Obviously, in the meantime, we're still talking to Omnicom and they give us an loi.",
+      "speaker_name": "Andy Day",
+      "start_time": 549.5,
+      "end_time": 556.558
+    },
+    {
+      "text": "The LOI then will likely be negotiated.",
+      "speaker_name": "Andy Day",
+      "start_time": 556.654,
+      "end_time": 561.326
+    },
+    {
+      "text": "I hate doing this because the LOI is not legally binded, but it is an indication of what the offer is going to look like.",
+      "speaker_name": "Andy Day",
+      "start_time": 561.358,
+      "end_time": 565.93
+    },
+    {
+      "text": "So the LOI we will probably negotiate backwards and forwards.",
+      "speaker_name": "Andy Day",
+      "start_time": 566.95,
+      "end_time": 569.886
+    },
+    {
+      "text": "That will take us probably three, three more weeks.",
+      "speaker_name": "Andy Day",
+      "start_time": 569.918,
+      "end_time": 573.47
+    },
+    {
+      "text": "Four more weeks.",
+      "speaker_name": "Andy Day",
+      "start_time": 573.59,
+      "end_time": 574.65
+    },
+    {
+      "text": "It is a pain to drag that out because it is not, it's not a real contract.",
+      "speaker_name": "Andy Day",
+      "start_time": 575.27,
+      "end_time": 580.09
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 580.4,
+      "end_time": 581.144
+    },
+    {
+      "text": "So from that I'm hearing that we might get a sidebar ballpark offer.",
+      "speaker_name": "stuart",
+      "start_time": 581.272,
+      "end_time": 585.432
+    },
+    {
+      "text": "If we're fortunate this month, maybe we might get a formal offer and an LOI that will have some degree of interpretation and negotiation throughout May.",
+      "speaker_name": "stuart",
+      "start_time": 585.536,
+      "end_time": 595.96
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 596.08,
+      "end_time": 596.84
+    },
+    {
+      "text": "So that takes us to start June.",
+      "speaker_name": "stuart",
+      "start_time": 597,
+      "end_time": 599.752
+    },
+    {
+      "text": "So once we sign the loi, and it may be because these guys are professionals and if we can be professional, our side.",
+      "speaker_name": "Andy Day",
+      "start_time": 599.936,
+      "end_time": 608.842
+    },
+    {
+      "text": "So the problems usually arise, Stuart, when we're not clear and when the other side isn't clear.",
+      "speaker_name": "Andy Day",
+      "start_time": 609.026,
+      "end_time": 615.642
+    },
+    {
+      "text": "So for instance, we quite often can get where our, our client will say, oh, I don't like that and that.",
+      "speaker_name": "Andy Day",
+      "start_time": 615.746,
+      "end_time": 623.59
+    },
+    {
+      "text": "And we go back, negotiate the new LOI and it comes back.",
+      "speaker_name": "Andy Day",
+      "start_time": 624.05,
+      "end_time": 627.69
+    },
+    {
+      "text": "And then the client says, well, I don't like that, that and that either.",
+      "speaker_name": "Andy Day",
+      "start_time": 627.73,
+      "end_time": 630.522
+    },
+    {
+      "text": "And we're like, we need to put it all in the list the first time.",
+      "speaker_name": "Andy Day",
+      "start_time": 630.586,
+      "end_time": 633.43
+    },
+    {
+      "text": "So that's the key thing is just get.",
+      "speaker_name": "Andy Day",
+      "start_time": 635.22,
+      "end_time": 637.372
+    },
+    {
+      "text": "I don't know who HP is.",
+      "speaker_name": "Andy Day",
+      "start_time": 637.476,
+      "end_time": 638.876
+    },
+    {
+      "text": "Hopefully that's one of ours.",
+      "speaker_name": "Andy Day",
+      "start_time": 638.948,
+      "end_time": 640.4
+    },
+    {
+      "text": "Hopefully we get everything listed.",
+      "speaker_name": "Andy Day",
+      "start_time": 641.22,
+      "end_time": 643.12
+    },
+    {
+      "text": "No idea.",
+      "speaker_name": "Andy Day",
+      "start_time": 657.46,
+      "end_time": 657.916
+    },
+    {
+      "text": "That's a bit weird.",
+      "speaker_name": "matt",
+      "start_time": 657.948,
+      "end_time": 658.96
+    },
+    {
+      "text": "Okay, mate.",
+      "speaker_name": "Andy Day",
+      "start_time": 659.47,
+      "end_time": 660.23
+    },
+    {
+      "text": "Oh, it's happening.",
+      "speaker_name": "stuart",
+      "start_time": 660.31,
+      "end_time": 661.062
+    },
+    {
+      "text": "No, Ahmed.",
+      "speaker_name": "Andy Day",
+      "start_time": 661.126,
+      "end_time": 661.574
+    },
+    {
+      "text": "Youth by mate.",
+      "speaker_name": "Andy Day",
+      "start_time": 661.622,
+      "end_time": 664.97
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Andy Day",
+      "start_time": 665.63,
+      "end_time": 666.534
+    },
+    {
+      "text": "One of Zeff Davis's people.",
+      "speaker_name": "Andy Day",
+      "start_time": 666.662,
+      "end_time": 668.374
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 668.462,
+      "end_time": 669.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 671.31,
+      "end_time": 671.686
+    },
+    {
+      "text": "So that, so that usually holds things up, Stuart.",
+      "speaker_name": "Andy Day",
+      "start_time": 671.718,
+      "end_time": 673.686
+    },
+    {
+      "text": "So that's the key really, is just to be really, really clear what is the red lines in the original offer and get them out on the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 673.718,
+      "end_time": 680.294
+    },
+    {
+      "text": "And then once we get the, the signed loi, we're into due diligence.",
+      "speaker_name": "Andy Day",
+      "start_time": 680.422,
+      "end_time": 683.77
+    },
+    {
+      "text": "Usually that is on the.",
+      "speaker_name": "Andy Day",
+      "start_time": 684.35,
+      "end_time": 687.242
+    },
+    {
+      "text": "Otherwise a 90 day process.",
+      "speaker_name": "Andy Day",
+      "start_time": 687.266,
+      "end_time": 689.27
+    },
+    {
+      "text": "And to be fair, with these larger organizations, it is more likely to be 90 days.",
+      "speaker_name": "Andy Day",
+      "start_time": 689.65,
+      "end_time": 694.922
+    },
+    {
+      "text": "However, in reality, if we can quickly respond to everything, it usually doesn't take much more than 30 days.",
+      "speaker_name": "Andy Day",
+      "start_time": 695.026,
+      "end_time": 701.11
+    },
+    {
+      "text": "So really it's about who they have on the other side and how quickly their team is at processing the information that we give them.",
+      "speaker_name": "Andy Day",
+      "start_time": 701.65,
+      "end_time": 708.042
+    },
+    {
+      "text": "Bearing in mind they've been through the data room and they've got up to date stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 708.146,
+      "end_time": 711.306
+    },
+    {
+      "text": "At the moment, the only real piece of information they don't have is Iceland, I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 711.338,
+      "end_time": 715.58
+    },
+    {
+      "text": "Okay, so sidebar offer, end of April, formal offer, LOI negotiated.",
+      "speaker_name": "stuart",
+      "start_time": 716.12,
+      "end_time": 721.152
+    },
+    {
+      "text": "May get to a signed LOI that's been negotiated to get into due diligence at some point in June.",
+      "speaker_name": "stuart",
+      "start_time": 721.216,
+      "end_time": 728.78
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 729.32,
+      "end_time": 729.696
+    },
+    {
+      "text": "It could take anywhere between 30 to 90 days.",
+      "speaker_name": "stuart",
+      "start_time": 729.728,
+      "end_time": 731.84
+    },
+    {
+      "text": "We're right into the thickest summer.",
+      "speaker_name": "stuart",
+      "start_time": 731.88,
+      "end_time": 733.088
+    },
+    {
+      "text": "So it's July, August, September, people might start to go away.",
+      "speaker_name": "stuart",
+      "start_time": 733.104,
+      "end_time": 736.48
+    },
+    {
+      "text": "It might slow things down, obviously.",
+      "speaker_name": "stuart",
+      "start_time": 736.52,
+      "end_time": 738.32
+    },
+    {
+      "text": "Terrific.",
+      "speaker_name": "Andy Day",
+      "start_time": 738.48,
+      "end_time": 739.19
+    },
+    {
+      "text": "It's horrific.",
+      "speaker_name": "Andy Day",
+      "start_time": 739.32,
+      "end_time": 740.346
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 740.458,
+      "end_time": 740.698
+    },
+    {
+      "text": "I'll be honest, if it drags into August, we, we, we're in trouble for August.",
+      "speaker_name": "Andy Day",
+      "start_time": 740.714,
+      "end_time": 745.146
+    },
+    {
+      "text": "That's why I'm saying at the moment got a sidebar offer in April, a formal offer in May with an LOI if it gets through committee and we're all happy you're saying that it might take some time to negotiate the loi, which would be in June and start the due diligence process.",
+      "speaker_name": "stuart",
+      "start_time": 745.258,
+      "end_time": 761.658
+    },
+    {
+      "text": "We're going to try and do that in 30 days, which would take us to the end of July.",
+      "speaker_name": "stuart",
+      "start_time": 761.714,
+      "end_time": 765.114
+    },
+    {
+      "text": "Then we're in trouble because it's August.",
+      "speaker_name": "stuart",
+      "start_time": 765.282,
+      "end_time": 766.89
+    },
+    {
+      "text": "I don't see how we can avoid being in trouble because August is slap bang no matter what timeline we apply.",
+      "speaker_name": "stuart",
+      "start_time": 766.97,
+      "end_time": 771.498
+    },
+    {
+      "text": "It seems to be right in the.",
+      "speaker_name": "stuart",
+      "start_time": 771.674,
+      "end_time": 775.242
+    },
+    {
+      "text": "So, so, so, so to make sure we stay on track.",
+      "speaker_name": "Andy Day",
+      "start_time": 775.346,
+      "end_time": 778.362
+    },
+    {
+      "text": "So we're going to get an offer at the end of April and whatever that offer is, we need to list out all of the, the difficulties and get them to, to respond very quickly with another loi.",
+      "speaker_name": "Andy Day",
+      "start_time": 778.466,
+      "end_time": 788.906
+    },
+    {
+      "text": "If we get that loi at the start of May and agree it and sign it, we can get into due diligence in May.",
+      "speaker_name": "Andy Day",
+      "start_time": 789.018,
+      "end_time": 794.774
+    },
+    {
+      "text": "If we negotiate all the way through May, then it will, it will drag on.",
+      "speaker_name": "Andy Day",
+      "start_time": 794.862,
+      "end_time": 799.926
+    },
+    {
+      "text": "But, but the, the, I mean the reality is it can take three or four weeks to get the LOI done, especially with a big organization.",
+      "speaker_name": "Andy Day",
+      "start_time": 800.078,
+      "end_time": 806.038
+    },
+    {
+      "text": "I understand if that takes us into June and we are signed by the, the end of May, which I would hope that we could be.",
+      "speaker_name": "Andy Day",
+      "start_time": 806.214,
+      "end_time": 813.43
+    },
+    {
+      "text": "I mean it shouldn't really drag on beyond that.",
+      "speaker_name": "Andy Day",
+      "start_time": 813.47,
+      "end_time": 816.006
+    },
+    {
+      "text": "Then that gives us studio.",
+      "speaker_name": "Andy Day",
+      "start_time": 816.078,
+      "end_time": 822.992
+    },
+    {
+      "text": "We are lucky in that Maureen is in the uk, so that does hopefully mean that she won't.",
+      "speaker_name": "Andy Day",
+      "start_time": 823.136,
+      "end_time": 828.944
+    },
+    {
+      "text": "I mean obviously everybody still does go away in July and August, but hopefully she's had a summer holiday in Thailand already by the time we get into that because it's the Americans that the worst.",
+      "speaker_name": "Andy Day",
+      "start_time": 828.992,
+      "end_time": 840.848
+    },
+    {
+      "text": "So I would say, you know, it's, it's probably Steve that is going to go missing for like four weeks.",
+      "speaker_name": "Andy Day",
+      "start_time": 840.944,
+      "end_time": 846.644
+    },
+    {
+      "text": "Of August, and that's what will make it tricky.",
+      "speaker_name": "Andy Day",
+      "start_time": 846.812,
+      "end_time": 849.012
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 849.076,
+      "end_time": 849.412
+    },
+    {
+      "text": "So what I've noticed.",
+      "speaker_name": "Andy Day",
+      "start_time": 849.476,
+      "end_time": 850.516
+    },
+    {
+      "text": "Andy, sorry to talk over you, but obviously from.",
+      "speaker_name": "stuart",
+      "start_time": 850.548,
+      "end_time": 852.74
+    },
+    {
+      "text": "From the Zif Davis PR machine, if we look at that, what's on their site, they announced on a quarterly basis what acquisitions they've done.",
+      "speaker_name": "stuart",
+      "start_time": 852.78,
+      "end_time": 861.38
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 861.5,
+      "end_time": 861.796
+    },
+    {
+      "text": "And it looks like their share price.",
+      "speaker_name": "stuart",
+      "start_time": 861.828,
+      "end_time": 863.508
+    },
+    {
+      "text": "I wouldn't say it's tanked, but it's.",
+      "speaker_name": "stuart",
+      "start_time": 863.564,
+      "end_time": 865.236
+    },
+    {
+      "text": "It's been on a downward trajectory for some considerable time.",
+      "speaker_name": "stuart",
+      "start_time": 865.268,
+      "end_time": 868.436
+    },
+    {
+      "text": "Hence, I suppose their desire has.",
+      "speaker_name": "stuart",
+      "start_time": 868.588,
+      "end_time": 871.156
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 871.228,
+      "end_time": 871.632
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 871.716,
+      "end_time": 872.38
+    },
+    {
+      "text": "So on that basis, we're either.",
+      "speaker_name": "stuart",
+      "start_time": 872.88,
+      "end_time": 875.352
+    },
+    {
+      "text": "That we're either going to be announced as an acquisition, if it happens in, you know, one acquisition in H2, or will be one of their acquisitions in, sorry, Q3 as opposed to Q2.",
+      "speaker_name": "stuart",
+      "start_time": 875.416,
+      "end_time": 887.752
+    },
+    {
+      "text": "So it doesn't feel like we're likely to get over the line in Q2.",
+      "speaker_name": "stuart",
+      "start_time": 887.856,
+      "end_time": 891.768
+    },
+    {
+      "text": "There's an outside chance we might.",
+      "speaker_name": "stuart",
+      "start_time": 891.824,
+      "end_time": 893.78
+    },
+    {
+      "text": "There's a good chance in Q2 as long as we can get this LOI signed early.",
+      "speaker_name": "Andy Day",
+      "start_time": 896.8,
+      "end_time": 900.5
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "stuart",
+      "start_time": 900.64,
+      "end_time": 901.18
+    },
+    {
+      "text": "So it drags into September.",
+      "speaker_name": "Andy Day",
+      "start_time": 901.26,
+      "end_time": 903.36
+    },
+    {
+      "text": "If it drags through August, it will drag because people will flake and they'll disappear.",
+      "speaker_name": "Andy Day",
+      "start_time": 903.94,
+      "end_time": 907.244
+    },
+    {
+      "text": "But usually what happens in September is the first couple of weeks, everybody accelerates, they're all refreshed, they come back in, loads of deals get done.",
+      "speaker_name": "Andy Day",
+      "start_time": 907.292,
+      "end_time": 915.724
+    },
+    {
+      "text": "So the first couple of weeks, we should just be all signed off.",
+      "speaker_name": "Andy Day",
+      "start_time": 915.892,
+      "end_time": 918.716
+    },
+    {
+      "text": "So if the timing does drag, it will be depressing.",
+      "speaker_name": "Andy Day",
+      "start_time": 918.788,
+      "end_time": 922.092
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 922.236,
+      "end_time": 922.988
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "stuart",
+      "start_time": 923.164,
+      "end_time": 923.66
+    },
+    {
+      "text": "So regardless of whether it's Zif or Omnicom or somebody else or whoever, are there things that we could start to address that would allow us to at least be ready on our side for an expeditious due diligence phase?",
+      "speaker_name": "stuart",
+      "start_time": 923.7,
+      "end_time": 938.04
+    },
+    {
+      "text": "So rather than wait for what we need, what we.",
+      "speaker_name": "stuart",
+      "start_time": 938.94,
+      "end_time": 941.748
+    },
+    {
+      "text": "What should we be.",
+      "speaker_name": "stuart",
+      "start_time": 941.804,
+      "end_time": 942.724
+    },
+    {
+      "text": "Bang, bang, bang, bang, bang.",
+      "speaker_name": "stuart",
+      "start_time": 942.812,
+      "end_time": 944.068
+    },
+    {
+      "text": "Preparing to go.",
+      "speaker_name": "stuart",
+      "start_time": 944.164,
+      "end_time": 945.332
+    },
+    {
+      "text": "Here it is, Maureen.",
+      "speaker_name": "stuart",
+      "start_time": 945.356,
+      "end_time": 946.196
+    },
+    {
+      "text": "Here it is.",
+      "speaker_name": "stuart",
+      "start_time": 946.228,
+      "end_time": 946.66
+    },
+    {
+      "text": "Here it is.",
+      "speaker_name": "stuart",
+      "start_time": 946.7,
+      "end_time": 947.092
+    },
+    {
+      "text": "Here it is.",
+      "speaker_name": "stuart",
+      "start_time": 947.116,
+      "end_time": 947.732
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 947.836,
+      "end_time": 948.164
+    },
+    {
+      "text": "So that's the data room.",
+      "speaker_name": "Andy Day",
+      "start_time": 948.212,
+      "end_time": 949.188
+    },
+    {
+      "text": "We need to get everything else in there that they're going to ask for.",
+      "speaker_name": "Andy Day",
+      "start_time": 949.244,
+      "end_time": 952.4
+    },
+    {
+      "text": "I haven't sort of completely got up to date with where we are with the data room.",
+      "speaker_name": "Andy Day",
+      "start_time": 953.5,
+      "end_time": 958.26
+    },
+    {
+      "text": "I had a quick look at it, but it's not all gone in.",
+      "speaker_name": "Andy Day",
+      "start_time": 958.3,
+      "end_time": 960.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 961.1,
+      "end_time": 961.732
+    },
+    {
+      "text": "My view on the data remandy is that it's not.",
+      "speaker_name": "stuart",
+      "start_time": 961.876,
+      "end_time": 964.32
+    },
+    {
+      "text": "It's not something I'm particularly proud of, to be honest.",
+      "speaker_name": "stuart",
+      "start_time": 964.7,
+      "end_time": 966.756
+    },
+    {
+      "text": "I don't think it's particularly up to date.",
+      "speaker_name": "stuart",
+      "start_time": 966.788,
+      "end_time": 969.38
+    },
+    {
+      "text": "Details, full of stuff that is going to be needed if I was buying a business.",
+      "speaker_name": "stuart",
+      "start_time": 969.46,
+      "end_time": 974.356
+    },
+    {
+      "text": "I think you probably need to guide us now.",
+      "speaker_name": "stuart",
+      "start_time": 974.428,
+      "end_time": 977.092
+    },
+    {
+      "text": "You know, we sent a lot of stuff over to Jack and David historically, but it doesn't seem to have made its way into the room.",
+      "speaker_name": "stuart",
+      "start_time": 977.196,
+      "end_time": 986.744
+    },
+    {
+      "text": "That may well be for conscious strategic reasons and that's absolutely fine.",
+      "speaker_name": "stuart",
+      "start_time": 986.912,
+      "end_time": 990.296
+    },
+    {
+      "text": "But I think now if we are accelerating towards making sure that everything that they might want to see is available as a business, we need to have it available anyway.",
+      "speaker_name": "stuart",
+      "start_time": 990.328,
+      "end_time": 997.704
+    },
+    {
+      "text": "So there's no surprises.",
+      "speaker_name": "stuart",
+      "start_time": 997.752,
+      "end_time": 998.776
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 998.888,
+      "end_time": 999.416
+    },
+    {
+      "text": "And the more time I can work with my people on this side to try and get that pulled together, the better.",
+      "speaker_name": "stuart",
+      "start_time": 999.448,
+      "end_time": 1003.62
+    },
+    {
+      "text": "So maybe you've got indicative things that you feel would be.",
+      "speaker_name": "stuart",
+      "start_time": 1004.16,
+      "end_time": 1007.368
+    },
+    {
+      "text": "Yeah, we can start listing that, that out for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1007.504,
+      "end_time": 1010.44
+    },
+    {
+      "text": "So I'll get Ahmed to start creating a check sheet for you to start working through.",
+      "speaker_name": "Andy Day",
+      "start_time": 1010.48,
+      "end_time": 1017.49
+    },
+    {
+      "text": "Things that we won't have in there will probably be like contracts, stuff like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1018.35,
+      "end_time": 1023.67
+    },
+    {
+      "text": "So they want to look at like your rent agreement, contracts with all your start like contracts with all your staff, contracts with all of your clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 1023.71,
+      "end_time": 1030.65
+    },
+    {
+      "text": "So those are the usual things.",
+      "speaker_name": "Andy Day",
+      "start_time": 1032.11,
+      "end_time": 1034.53
+    },
+    {
+      "text": "Another thing would be like a list of like any kind of legal stuff that could be going on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1034.83,
+      "end_time": 1043.68
+    },
+    {
+      "text": "It could be minor, it could be major.",
+      "speaker_name": "Andy Day",
+      "start_time": 1043.72,
+      "end_time": 1045.74
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 1048.28,
+      "end_time": 1048.704
+    },
+    {
+      "text": "So provisions really a risk, A risk file as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1048.752,
+      "end_time": 1053.776
+    },
+    {
+      "text": "So it's usually just a spreadsheet.",
+      "speaker_name": "Andy Day",
+      "start_time": 1053.848,
+      "end_time": 1055.856
+    },
+    {
+      "text": "Sometimes it's just a blank spreadsheet.",
+      "speaker_name": "Andy Day",
+      "start_time": 1055.888,
+      "end_time": 1057.424
+    },
+    {
+      "text": "So there's no risks.",
+      "speaker_name": "Andy Day",
+      "start_time": 1057.472,
+      "end_time": 1058.9
+    },
+    {
+      "text": "But it's stuff like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1060.76,
+      "end_time": 1062.016
+    },
+    {
+      "text": "It's stuff like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1062.088,
+      "end_time": 1063.186
+    },
+    {
+      "text": "The contracts is the tough one because you got to like, you got to find them all basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 1063.328,
+      "end_time": 1066.926
+    },
+    {
+      "text": "And if there's not one in place, you know, if you hired Matt in the pub, then no, we, we, we.",
+      "speaker_name": "Andy Day",
+      "start_time": 1066.958,
+      "end_time": 1073.918
+    },
+    {
+      "text": "We'Ve already started that yesterday.",
+      "speaker_name": "matt",
+      "start_time": 1073.974,
+      "end_time": 1075.598
+    },
+    {
+      "text": "So that's why we want to get absolutely ahead of the game.",
+      "speaker_name": "matt",
+      "start_time": 1075.694,
+      "end_time": 1079.55
+    },
+    {
+      "text": "Ah.",
+      "speaker_name": "matt",
+      "start_time": 1079.59,
+      "end_time": 1079.886
+    },
+    {
+      "text": "With your list.",
+      "speaker_name": "matt",
+      "start_time": 1079.958,
+      "end_time": 1080.894
+    },
+    {
+      "text": "So Stu and I were doing that yesterday, so we got most of them already, Andy, all B ready to rumble.",
+      "speaker_name": "matt",
+      "start_time": 1081.062,
+      "end_time": 1086.558
+    },
+    {
+      "text": "I'll tell you what we'll do, Ahmed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1086.734,
+      "end_time": 1088.174
+    },
+    {
+      "text": "Let's go through the, go through the requests that we were sent with Stagwell because I think that would be pretty similar because they're both listed companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1088.222,
+      "end_time": 1099.97
+    },
+    {
+      "text": "But yeah, I mean we probably are most of the way there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1102.27,
+      "end_time": 1106.39
+    },
+    {
+      "text": "Stuart.",
+      "speaker_name": "Andy Day",
+      "start_time": 1106.43,
+      "end_time": 1106.726
+    },
+    {
+      "text": "I think in terms of the financial stuff, that's what they're mostly conscious of in terms of making an offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1106.758,
+      "end_time": 1112.198
+    },
+    {
+      "text": "And then the other stuff during due diligence is usually that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1112.334,
+      "end_time": 1115.382
+    },
+    {
+      "text": "And also there's a list of questions that we can't really, you know, know what they're going to ask.",
+      "speaker_name": "Andy Day",
+      "start_time": 1115.486,
+      "end_time": 1121.218
+    },
+    {
+      "text": "But it'll be just a big long list of questions.",
+      "speaker_name": "Andy Day",
+      "start_time": 1121.274,
+      "end_time": 1123.826
+    },
+    {
+      "text": "We're like, yes, no, don't know answers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1123.858,
+      "end_time": 1126.658
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 1126.834,
+      "end_time": 1127.41
+    },
+    {
+      "text": "Usually they send a spreadsheet with like drop down menus and you just have to go down it, answering it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1127.53,
+      "end_time": 1131.762
+    },
+    {
+      "text": "Okay, so Chris is obviously on the call.",
+      "speaker_name": "stuart",
+      "start_time": 1131.866,
+      "end_time": 1134.834
+    },
+    {
+      "text": "He's driving the financial modeling element.",
+      "speaker_name": "stuart",
+      "start_time": 1135.002,
+      "end_time": 1137.954
+    },
+    {
+      "text": "And I know you've only had it relatively for a matter of hours, Andy, so I doubt you've had a chance to really absorb it.",
+      "speaker_name": "stuart",
+      "start_time": 1138.002,
+      "end_time": 1143.154
+    },
+    {
+      "text": "But if you have had a chance to look at it at all and you have any feedback at this stage that would be useful.",
+      "speaker_name": "stuart",
+      "start_time": 1143.162,
+      "end_time": 1148.334
+    },
+    {
+      "text": "We've changed.",
+      "speaker_name": "stuart",
+      "start_time": 1148.462,
+      "end_time": 1149.71
+    },
+    {
+      "text": "Well, not we've changed, we've just adjusted it to reflect what our business is doing.",
+      "speaker_name": "stuart",
+      "start_time": 1149.87,
+      "end_time": 1153.726
+    },
+    {
+      "text": "And it's subtly different to what Maureen and company have looked at historically because that was probably generated over seven or eight months ago now.",
+      "speaker_name": "stuart",
+      "start_time": 1153.878,
+      "end_time": 1160.73
+    },
+    {
+      "text": "So we, it's, it's just evolving as we as a business are evolving.",
+      "speaker_name": "stuart",
+      "start_time": 1161.19,
+      "end_time": 1166.446
+    },
+    {
+      "text": "So I don't want there to be any prizes and maybe your guidance would be try to minimize changing the layout or the structure or the approach or.",
+      "speaker_name": "stuart",
+      "start_time": 1166.558,
+      "end_time": 1177.35
+    },
+    {
+      "text": "No, you're absolutely right.",
+      "speaker_name": "stuart",
+      "start_time": 1177.39,
+      "end_time": 1178.486
+    },
+    {
+      "text": "You've got to say it as it is because otherwise that will come out in due diligence.",
+      "speaker_name": "stuart",
+      "start_time": 1178.558,
+      "end_time": 1181.686
+    },
+    {
+      "text": "Well, I've had a look over it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1181.798,
+      "end_time": 1183.75
+    },
+    {
+      "text": "Obviously I'm not really going to recognize or notice the numbers in the same way as you would because it's your own business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1183.79,
+      "end_time": 1189.686
+    },
+    {
+      "text": "But in terms of the formatting, it looks absolutely fine at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 1189.758,
+      "end_time": 1196.262
+    },
+    {
+      "text": "I mean, my one concern again is really mostly around Iceland.",
+      "speaker_name": "Andy Day",
+      "start_time": 1196.406,
+      "end_time": 1202.02
+    },
+    {
+      "text": "And also the, the, the narrative that we've, we've got here in the assumptions section is about having a dip in, in 26.",
+      "speaker_name": "Andy Day",
+      "start_time": 1202.44,
+      "end_time": 1211.824
+    },
+    {
+      "text": "So I think that is going to obviously play against us and I just wonder at this stage whether it's, it's a good idea to forecast dips.",
+      "speaker_name": "Andy Day",
+      "start_time": 1211.912,
+      "end_time": 1225.94
+    },
+    {
+      "text": "Obviously we do need to be realistic, but, but also how, how much more optimistic can we be?",
+      "speaker_name": "Andy Day",
+      "start_time": 1226.28,
+      "end_time": 1232.752
+    },
+    {
+      "text": "I don't, I don't, I don't think we've put a dip on it.",
+      "speaker_name": "matt",
+      "start_time": 1232.936,
+      "end_time": 1236.38
+    },
+    {
+      "text": "You've done it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1236.76,
+      "end_time": 1237.664
+    },
+    {
+      "text": "In the narrative it says revenues expect to take a dip in 2026 as a result of the loss of Iceland revenue.",
+      "speaker_name": "Andy Day",
+      "start_time": 1237.672,
+      "end_time": 1243.568
+    },
+    {
+      "text": "So gross revenues, maybe.",
+      "speaker_name": "matt",
+      "start_time": 1243.744,
+      "end_time": 1245.552
+    },
+    {
+      "text": "Okay, that's interesting.",
+      "speaker_name": "matt",
+      "start_time": 1245.696,
+      "end_time": 1247.46
+    },
+    {
+      "text": "Okay, I think we can reframe that because it is.",
+      "speaker_name": "stuart",
+      "start_time": 1248.04,
+      "end_time": 1251.248
+    },
+    {
+      "text": "Yeah, gross turnover is the same pattern as before.",
+      "speaker_name": "stuart",
+      "start_time": 1251.304,
+      "end_time": 1254.528
+    },
+    {
+      "text": "Turnover might decrease, but profitability is maintained.",
+      "speaker_name": "stuart",
+      "start_time": 1254.584,
+      "end_time": 1257.576
+    },
+    {
+      "text": "In fact, it's built upon.",
+      "speaker_name": "stuart",
+      "start_time": 1257.608,
+      "end_time": 1258.92
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "stuart",
+      "start_time": 1259.08,
+      "end_time": 1260.616
+    },
+    {
+      "text": "So that's good that Andy's picked that up.",
+      "speaker_name": "matt",
+      "start_time": 1260.648,
+      "end_time": 1261.832
+    },
+    {
+      "text": "St.",
+      "speaker_name": "matt",
+      "start_time": 1261.856,
+      "end_time": 1262.088
+    },
+    {
+      "text": "We just need to retickle that.",
+      "speaker_name": "matt",
+      "start_time": 1262.144,
+      "end_time": 1263.752
+    },
+    {
+      "text": "It's not cheating, it's that we're going to make a lot more EBITDAR next year than we did this year.",
+      "speaker_name": "matt",
+      "start_time": 1263.856,
+      "end_time": 1268.616
+    },
+    {
+      "text": "Quite quickly.",
+      "speaker_name": "matt",
+      "start_time": 1268.768,
+      "end_time": 1269.64
+    },
+    {
+      "text": "We just load.",
+      "speaker_name": "matt",
+      "start_time": 1269.72,
+      "end_time": 1270.264
+    },
+    {
+      "text": "Lost 20 people and we've got a load of contracts at high margin.",
+      "speaker_name": "matt",
+      "start_time": 1270.312,
+      "end_time": 1273.656
+    },
+    {
+      "text": "So we need to rewrite that, Andy.",
+      "speaker_name": "matt",
+      "start_time": 1273.688,
+      "end_time": 1274.936
+    },
+    {
+      "text": "Because if you think so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1274.968,
+      "end_time": 1275.912
+    },
+    {
+      "text": "Yeah, we just.",
+      "speaker_name": "Andy Day",
+      "start_time": 1275.936,
+      "end_time": 1276.9
+    },
+    {
+      "text": "Straight away we need to as optimistic as possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 1278.24,
+      "end_time": 1280.44
+    },
+    {
+      "text": "Yeah, because I mean, that's going to set the scene, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1280.48,
+      "end_time": 1282.024
+    },
+    {
+      "text": "Before they go into the financials, they're going to read all of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1282.032,
+      "end_time": 1284.34
+    },
+    {
+      "text": "We're saying, you know, it's going to take a dip.",
+      "speaker_name": "Andy Day",
+      "start_time": 1284.85,
+      "end_time": 1287.69
+    },
+    {
+      "text": "I mean, even if it, if it does.",
+      "speaker_name": "Andy Day",
+      "start_time": 1287.77,
+      "end_time": 1289.306
+    },
+    {
+      "text": "But I think we just need to be optimistic.",
+      "speaker_name": "Andy Day",
+      "start_time": 1289.378,
+      "end_time": 1291.226
+    },
+    {
+      "text": "We're going to fill the gap and we're just going to keep going.",
+      "speaker_name": "Andy Day",
+      "start_time": 1291.258,
+      "end_time": 1294.282
+    },
+    {
+      "text": "If we talk too much about the dip, then we're going to get a dip.",
+      "speaker_name": "Andy Day",
+      "start_time": 1294.466,
+      "end_time": 1297.818
+    },
+    {
+      "text": "If everybody says we're going to get a dip, we're gonna, we're more likely to get a deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1297.834,
+      "end_time": 1301.738
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1301.874,
+      "end_time": 1302.55
+    },
+    {
+      "text": "Yeah, yeah, we always, we've always had this problem with the gross and the net and that's been our problem because.",
+      "speaker_name": "matt",
+      "start_time": 1302.93,
+      "end_time": 1309.9
+    },
+    {
+      "text": "That comment, that comment's specific to RMI as well.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1310.09,
+      "end_time": 1313.192
+    },
+    {
+      "text": "So it's, it is because it's sectioned out.",
+      "speaker_name": "Andy Day",
+      "start_time": 1313.376,
+      "end_time": 1316.28
+    },
+    {
+      "text": "But, but yeah, so I, I kind.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1316.32,
+      "end_time": 1319.192
+    },
+    {
+      "text": "Of, I think I mentioned.",
+      "speaker_name": "Andy Day",
+      "start_time": 1319.216,
+      "end_time": 1320.376
+    },
+    {
+      "text": "Yeah, we can, we can kind of get.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1320.408,
+      "end_time": 1321.592
+    },
+    {
+      "text": "It says base as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1321.616,
+      "end_time": 1322.52
+    },
+    {
+      "text": "The loss of Iceland.",
+      "speaker_name": "Andy Day",
+      "start_time": 1322.56,
+      "end_time": 1323.88
+    },
+    {
+      "text": "Sorry, Chris.",
+      "speaker_name": "Andy Day",
+      "start_time": 1324.04,
+      "end_time": 1324.936
+    },
+    {
+      "text": "Yeah, we can change around and get rid of it because it's specific to a company that's really not.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1325.048,
+      "end_time": 1330.024
+    },
+    {
+      "text": "We had this discussion when we did the model.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1330.192,
+      "end_time": 1331.816
+    },
+    {
+      "text": "Is there actually any point in doing it as three companies?",
+      "speaker_name": "Chris Conway",
+      "start_time": 1331.848,
+      "end_time": 1333.992
+    },
+    {
+      "text": "Because they, they kind of broadly inter trade with each other so closely they may as well be one.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1334.096,
+      "end_time": 1338.66
+    },
+    {
+      "text": "And so I've done, I've sectioned out the, the, the commentaries per company, more to just explain when they go into there, they will see a dip in year two on that particular company.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1338.96,
+      "end_time": 1349.42
+    },
+    {
+      "text": "But that you could, you could quite easily throw everything up in the air and land it in different companies.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1349.96,
+      "end_time": 1354.128
+    },
+    {
+      "text": "Again, it wouldn't show a dip.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1354.184,
+      "end_time": 1355.296
+    },
+    {
+      "text": "It's just the fact that Iceland is kind of an unavoidable truth here.",
+      "speaker_name": "Chris Conway",
+      "start_time": 1355.328,
+      "end_time": 1358.4
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1358.44,
+      "end_time": 1359.02
+    },
+    {
+      "text": "Yeah, it is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1361,
+      "end_time": 1361.808
+    },
+    {
+      "text": "It's mentioned in Base as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1361.864,
+      "end_time": 1363.04
+    },
+    {
+      "text": "Just, just so you know, it says the first comment in base is the loss of Iceland does hit base.",
+      "speaker_name": "Andy Day",
+      "start_time": 1363.08,
+      "end_time": 1367.376
+    },
+    {
+      "text": "I mean, it does sound quite negative.",
+      "speaker_name": "Andy Day",
+      "start_time": 1367.408,
+      "end_time": 1369.248
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1369.424,
+      "end_time": 1369.92
+    },
+    {
+      "text": "I'm just saying if we can just reframe that, we obviously need to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1370,
+      "end_time": 1373.268
+    },
+    {
+      "text": "About Iceland.",
+      "speaker_name": "Andy Day",
+      "start_time": 1373.384,
+      "end_time": 1374.48
+    },
+    {
+      "text": "But my hope, and when I discussed this last time I met Stewart was that, you know, we, we need to be confident that we can replace it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1375.14,
+      "end_time": 1381.58
+    },
+    {
+      "text": "Matt always has done.",
+      "speaker_name": "Andy Day",
+      "start_time": 1381.62,
+      "end_time": 1382.92
+    },
+    {
+      "text": "And as a business, it, it has always been of a similar level and if they've lost clients, they've replaced them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1383.38,
+      "end_time": 1389.612
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1389.716,
+      "end_time": 1390.076
+    },
+    {
+      "text": "Yeah, yeah, I think, I think the plan is by the time we get into the deep diligence, we'd replaced it.",
+      "speaker_name": "matt",
+      "start_time": 1390.148,
+      "end_time": 1395.148
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1395.284,
+      "end_time": 1395.884
+    },
+    {
+      "text": "And we got.",
+      "speaker_name": "matt",
+      "start_time": 1396.012,
+      "end_time": 1397.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 1398.18,
+      "end_time": 1398.508
+    },
+    {
+      "text": "And if you look at the Excel sheet, when you get to it Andy, I don't expect you done it.",
+      "speaker_name": "matt",
+      "start_time": 1398.524,
+      "end_time": 1402.138
+    },
+    {
+      "text": "It's quite big.",
+      "speaker_name": "matt",
+      "start_time": 1402.194,
+      "end_time": 1403.178
+    },
+    {
+      "text": "There's, there's lots of contracts out for signature and there's other negotiations ruled close.",
+      "speaker_name": "matt",
+      "start_time": 1403.314,
+      "end_time": 1408.794
+    },
+    {
+      "text": "So when we come around the full circle we beat that and many more.",
+      "speaker_name": "matt",
+      "start_time": 1408.962,
+      "end_time": 1414.218
+    },
+    {
+      "text": "But with and the whole narrative there is obviously there's maybe 10 contracts making up the Iceland rather than just one beer moth that can screw you in any time they fancy.",
+      "speaker_name": "matt",
+      "start_time": 1414.274,
+      "end_time": 1424.346
+    },
+    {
+      "text": "Which is better going forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 1424.458,
+      "end_time": 1426.08
+    },
+    {
+      "text": "Well it has to.",
+      "speaker_name": "matt",
+      "start_time": 1426.25,
+      "end_time": 1427.076
+    },
+    {
+      "text": "You sell businesses.",
+      "speaker_name": "matt",
+      "start_time": 1427.148,
+      "end_time": 1428.196
+    },
+    {
+      "text": "I'd want to buy one with 50 contracts, not two even me.",
+      "speaker_name": "matt",
+      "start_time": 1428.308,
+      "end_time": 1431.94
+    },
+    {
+      "text": "So yeah, maybe just work on that.",
+      "speaker_name": "matt",
+      "start_time": 1432.06,
+      "end_time": 1433.972
+    },
+    {
+      "text": "We'll just work on that narrative a little bit then.",
+      "speaker_name": "matt",
+      "start_time": 1433.996,
+      "end_time": 1436.08
+    },
+    {
+      "text": "Yeah, yeah cool.",
+      "speaker_name": "matt",
+      "start_time": 1436.94,
+      "end_time": 1439.508
+    },
+    {
+      "text": "I mean it's not a massive risk to be.",
+      "speaker_name": "Andy Day",
+      "start_time": 1439.604,
+      "end_time": 1441.7
+    },
+    {
+      "text": "To be honest with you with a company like Ziff Davis because they would have comparable contracts that possibly much bigger.",
+      "speaker_name": "Andy Day",
+      "start_time": 1441.74,
+      "end_time": 1449.764
+    },
+    {
+      "text": "So for them it wouldn't be a huge risk if we were getting bought by a similar size company then.",
+      "speaker_name": "Andy Day",
+      "start_time": 1449.812,
+      "end_time": 1454.66
+    },
+    {
+      "text": "Yeah, one big client like that is a massive risk.",
+      "speaker_name": "Andy Day",
+      "start_time": 1454.7,
+      "end_time": 1457.35
+    },
+    {
+      "text": "Yeah and it can the valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1458.21,
+      "end_time": 1461.034
+    },
+    {
+      "text": "But I think in terms of the contract pipeline that you've done Matt, I think it looks really good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1461.162,
+      "end_time": 1465.53
+    },
+    {
+      "text": "It looks really strong.",
+      "speaker_name": "Andy Day",
+      "start_time": 1465.57,
+      "end_time": 1466.618
+    },
+    {
+      "text": "You've already got a lot of business businesses that you're contracted.",
+      "speaker_name": "Andy Day",
+      "start_time": 1466.754,
+      "end_time": 1472.43
+    },
+    {
+      "text": "Yeah, we got, we got like 30 or contracted stuff big, small, medium.",
+      "speaker_name": "matt",
+      "start_time": 1473.81,
+      "end_time": 1478.43
+    },
+    {
+      "text": "All I'm doing now is just trying to get as many landed until we're in front of them at the last minute when they look us in the eye and go yeah great, we're done.",
+      "speaker_name": "matt",
+      "start_time": 1479.57,
+      "end_time": 1488.242
+    },
+    {
+      "text": "So that's my job.",
+      "speaker_name": "matt",
+      "start_time": 1488.346,
+      "end_time": 1489.55
+    },
+    {
+      "text": "And again we probably got I think we added five new, new new leads into the pipeline today actually.",
+      "speaker_name": "matt",
+      "start_time": 1490.01,
+      "end_time": 1496.45
+    },
+    {
+      "text": "So we've got enough.",
+      "speaker_name": "matt",
+      "start_time": 1496.57,
+      "end_time": 1497.906
+    },
+    {
+      "text": "We've got probably too much now to fulfill.",
+      "speaker_name": "matt",
+      "start_time": 1497.978,
+      "end_time": 1500.066
+    },
+    {
+      "text": "So we've got a nail them now.",
+      "speaker_name": "matt",
+      "start_time": 1500.098,
+      "end_time": 1501.202
+    },
+    {
+      "text": "We've got.",
+      "speaker_name": "matt",
+      "start_time": 1501.226,
+      "end_time": 1501.57
+    },
+    {
+      "text": "We've got to maximize what we've got.",
+      "speaker_name": "matt",
+      "start_time": 1501.61,
+      "end_time": 1503.506
+    },
+    {
+      "text": "Yeah and that's the task well off.",
+      "speaker_name": "matt",
+      "start_time": 1503.658,
+      "end_time": 1505.73
+    },
+    {
+      "text": "Won't they say so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1505.77,
+      "end_time": 1506.77
+    },
+    {
+      "text": "Yeah, yeah yeah, yeah.",
+      "speaker_name": "matt",
+      "start_time": 1506.81,
+      "end_time": 1508.018
+    },
+    {
+      "text": "That we need is, is very optimistic like we've got two.",
+      "speaker_name": "Andy Day",
+      "start_time": 1508.194,
+      "end_time": 1510.61
+    },
+    {
+      "text": "We've got too much business coming in.",
+      "speaker_name": "Andy Day",
+      "start_time": 1510.65,
+      "end_time": 1512.054
+    },
+    {
+      "text": "Well do you know what we actually have?",
+      "speaker_name": "matt",
+      "start_time": 1512.122,
+      "end_time": 1513.55
+    },
+    {
+      "text": "We've got about five people to do 110 contracts.",
+      "speaker_name": "matt",
+      "start_time": 1513.59,
+      "end_time": 1516.75
+    },
+    {
+      "text": "You quite quickly them up because you can't look after 20 clients each.",
+      "speaker_name": "matt",
+      "start_time": 1516.83,
+      "end_time": 1521.566
+    },
+    {
+      "text": "It's too much.",
+      "speaker_name": "matt",
+      "start_time": 1521.638,
+      "end_time": 1522.366
+    },
+    {
+      "text": "So that's good.",
+      "speaker_name": "matt",
+      "start_time": 1522.438,
+      "end_time": 1523.07
+    },
+    {
+      "text": "That's the narrative but in a slightly better frame.",
+      "speaker_name": "matt",
+      "start_time": 1523.11,
+      "end_time": 1525.73
+    },
+    {
+      "text": "The ones that you've got for North USA is that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1526.39,
+      "end_time": 1529.758
+    },
+    {
+      "text": "That is inside the usa.",
+      "speaker_name": "Andy Day",
+      "start_time": 1529.814,
+      "end_time": 1531.214
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1531.262,
+      "end_time": 1531.822
+    },
+    {
+      "text": "Because one says North USA and one says usa.",
+      "speaker_name": "Andy Day",
+      "start_time": 1531.966,
+      "end_time": 1534.126
+    },
+    {
+      "text": "I don't know what the difference I've got.",
+      "speaker_name": "Andy Day",
+      "start_time": 1534.158,
+      "end_time": 1536.238
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "matt",
+      "start_time": 1536.374,
+      "end_time": 1537.006
+    },
+    {
+      "text": "Let me just Check that.",
+      "speaker_name": "matt",
+      "start_time": 1537.078,
+      "end_time": 1537.742
+    },
+    {
+      "text": "That might be just a typo then.",
+      "speaker_name": "matt",
+      "start_time": 1537.766,
+      "end_time": 1539.086
+    },
+    {
+      "text": "So we've got, we've got South America, North America.",
+      "speaker_name": "matt",
+      "start_time": 1539.158,
+      "end_time": 1542.602
+    },
+    {
+      "text": "That's probably where there's been a up.",
+      "speaker_name": "matt",
+      "start_time": 1542.666,
+      "end_time": 1544.058
+    },
+    {
+      "text": "What's that, what line's that on?",
+      "speaker_name": "matt",
+      "start_time": 1544.114,
+      "end_time": 1545.402
+    },
+    {
+      "text": "Sorry, line 43.",
+      "speaker_name": "Andy Day",
+      "start_time": 1545.426,
+      "end_time": 1547.978
+    },
+    {
+      "text": "Okay, let me just, let me just relook at it.",
+      "speaker_name": "matt",
+      "start_time": 1548.114,
+      "end_time": 1550.762
+    },
+    {
+      "text": "I was doing it yesterday actually, so I'll give it another once over and I'll.",
+      "speaker_name": "matt",
+      "start_time": 1550.786,
+      "end_time": 1554.986
+    },
+    {
+      "text": "We'll send it straight back.",
+      "speaker_name": "matt",
+      "start_time": 1555.098,
+      "end_time": 1556.33
+    },
+    {
+      "text": "Yeah, because I really think the exciting opportunity is the USA for you guys with Zif, you know, because it's a big open playing field.",
+      "speaker_name": "Andy Day",
+      "start_time": 1556.45,
+      "end_time": 1564.39
+    },
+    {
+      "text": "I think I was Stuart about this before but you know, it's dominated by two or three retailers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1565.33,
+      "end_time": 1570.752
+    },
+    {
+      "text": "In fact the top two is Amazon and Walmart and then there's a big middle section and they've got all these relationships already.",
+      "speaker_name": "Andy Day",
+      "start_time": 1570.816,
+      "end_time": 1579.152
+    },
+    {
+      "text": "Oh, that's incredible.",
+      "speaker_name": "matt",
+      "start_time": 1579.256,
+      "end_time": 1580.288
+    },
+    {
+      "text": "I mean it just mop up.",
+      "speaker_name": "matt",
+      "start_time": 1580.384,
+      "end_time": 1581.696
+    },
+    {
+      "text": "I mean they'll know that as well.",
+      "speaker_name": "matt",
+      "start_time": 1581.768,
+      "end_time": 1582.992
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "stuart",
+      "start_time": 1583.016,
+      "end_time": 1583.152
+    },
+    {
+      "text": "You look at their share price and what they do and they want to be like they need to do a little segue and they've got all them and we got what we got.",
+      "speaker_name": "matt",
+      "start_time": 1583.176,
+      "end_time": 1590.224
+    },
+    {
+      "text": "It's perfect.",
+      "speaker_name": "matt",
+      "start_time": 1590.312,
+      "end_time": 1591.008
+    },
+    {
+      "text": "Well, I think you've, you've tracked the US market already.",
+      "speaker_name": "Andy Day",
+      "start_time": 1591.104,
+      "end_time": 1594.048
+    },
+    {
+      "text": "I think that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1594.104,
+      "end_time": 1594.72
+    },
+    {
+      "text": "Or about to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1594.8,
+      "end_time": 1595.696
+    },
+    {
+      "text": "I think that's a really strong conversation to go into this.",
+      "speaker_name": "Andy Day",
+      "start_time": 1595.768,
+      "end_time": 1598.82
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "matt",
+      "start_time": 1599,
+      "end_time": 1600.028
+    },
+    {
+      "text": "And again we've got a new.",
+      "speaker_name": "matt",
+      "start_time": 1600.044,
+      "end_time": 1601.228
+    },
+    {
+      "text": "Another guy on the pitch for new business in CPGs as well.",
+      "speaker_name": "matt",
+      "start_time": 1601.284,
+      "end_time": 1604.316
+    },
+    {
+      "text": "So we're getting into all the retailers, we're getting into cpg.",
+      "speaker_name": "matt",
+      "start_time": 1604.388,
+      "end_time": 1608.22
+    },
+    {
+      "text": "So we're starting in our own little way with our own little budget.",
+      "speaker_name": "matt",
+      "start_time": 1608.3,
+      "end_time": 1611.52
+    },
+    {
+      "text": "But yeah, so when we get into.",
+      "speaker_name": "matt",
+      "start_time": 1612.02,
+      "end_time": 1614.172
+    },
+    {
+      "text": "So it's one of the risks then, Matt, is that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1614.356,
+      "end_time": 1617.068
+    },
+    {
+      "text": "That once you sign all of these because you're going to smash it and sign them all up, that we don't have enough staff on the delivery side of things and that is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1617.124,
+      "end_time": 1626.28
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "matt",
+      "start_time": 1626.68,
+      "end_time": 1627.808
+    },
+    {
+      "text": "Well they'll say, oh, you've got a lot of contracts once if they all come off, Matt.",
+      "speaker_name": "matt",
+      "start_time": 1627.824,
+      "end_time": 1630.656
+    },
+    {
+      "text": "And we just say, yeah, we'll scale accordingly, Maureen.",
+      "speaker_name": "matt",
+      "start_time": 1630.688,
+      "end_time": 1633.78
+    },
+    {
+      "text": "So it's a scalable model through that.",
+      "speaker_name": "matt",
+      "start_time": 1635,
+      "end_time": 1637.136
+    },
+    {
+      "text": "So if we end up winning five contracts in the States worth a million quid, we would just.",
+      "speaker_name": "matt",
+      "start_time": 1637.208,
+      "end_time": 1642.608
+    },
+    {
+      "text": "Yeah, that is going to be the risk.",
+      "speaker_name": "matt",
+      "start_time": 1642.744,
+      "end_time": 1644
+    },
+    {
+      "text": "It's going to be the.",
+      "speaker_name": "matt",
+      "start_time": 1644.04,
+      "end_time": 1644.656
+    },
+    {
+      "text": "But if you're with a zip Davis.",
+      "speaker_name": "matt",
+      "start_time": 1644.728,
+      "end_time": 1646.192
+    },
+    {
+      "text": "And then is that would help to scale as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1646.256,
+      "end_time": 1649.6
+    },
+    {
+      "text": "Is that going to be another issue that you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1649.64,
+      "end_time": 1652.548
+    },
+    {
+      "text": "Because you're not getting paid up front but you've got to take the staff on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1652.664,
+      "end_time": 1655.964
+    },
+    {
+      "text": "Well, yeah, it's always the risk.",
+      "speaker_name": "matt",
+      "start_time": 1656.132,
+      "end_time": 1658.332
+    },
+    {
+      "text": "But equally with tech and data contracts you hope to get paid monthly as you go along.",
+      "speaker_name": "matt",
+      "start_time": 1658.436,
+      "end_time": 1664.84
+    },
+    {
+      "text": "So if we, if we become more ballsy and more successful, we might ask for quarterly upfront.",
+      "speaker_name": "matt",
+      "start_time": 1665.46,
+      "end_time": 1671.052
+    },
+    {
+      "text": "It's just, it's just about positioning, Andy, really, because.",
+      "speaker_name": "matt",
+      "start_time": 1671.116,
+      "end_time": 1674.492
+    },
+    {
+      "text": "But there will be a cash flow issue always.",
+      "speaker_name": "stuart",
+      "start_time": 1674.676,
+      "end_time": 1677
+    },
+    {
+      "text": "The reality is, yeah, we, we require cash to scale ahead of revenue collection.",
+      "speaker_name": "stuart",
+      "start_time": 1677.54,
+      "end_time": 1681.692
+    },
+    {
+      "text": "It's just a fact.",
+      "speaker_name": "stuart",
+      "start_time": 1681.756,
+      "end_time": 1682.428
+    },
+    {
+      "text": "And we're at the threshold of not being able to do that any faster or any more than we currently are because of limitations that we've got.",
+      "speaker_name": "stuart",
+      "start_time": 1682.484,
+      "end_time": 1690.2
+    },
+    {
+      "text": "We're hoping to build up a little bit of a war chest over the next four to six weeks to allow us to, to take advantage of the stuff that's about to drop.",
+      "speaker_name": "stuart",
+      "start_time": 1690.82,
+      "end_time": 1699.6
+    },
+    {
+      "text": "So yes, is, is the answer to the question.",
+      "speaker_name": "stuart",
+      "start_time": 1700.98,
+      "end_time": 1702.62
+    },
+    {
+      "text": "Andy, I just want to revert back to one of the points you made a couple of seconds ago, which was about, you know, we've effectively already cracked North America and this is now about scaling.",
+      "speaker_name": "stuart",
+      "start_time": 1702.66,
+      "end_time": 1709.92
+    },
+    {
+      "text": "I'm not sure that's actually a kind of accurate way of presenting it.",
+      "speaker_name": "stuart",
+      "start_time": 1710.45,
+      "end_time": 1716.138
+    },
+    {
+      "text": "We're working with WH Smith North America usa and we have successfully got people into those environments and we happen to know that their way of working is identical to that that we're familiar with in Europe.",
+      "speaker_name": "stuart",
+      "start_time": 1716.274,
+      "end_time": 1733.43
+    },
+    {
+      "text": "We don't represent any retailers in North America yet.",
+      "speaker_name": "stuart",
+      "start_time": 1733.81,
+      "end_time": 1737.588
+    },
+    {
+      "text": "I've met many of them over the years and certainly to your point, Andy, the, the sort of second tier of regional players who collectively are probably larger than Sainsbury's, but they just happen to work in sort of like Mid America or whatever.",
+      "speaker_name": "stuart",
+      "start_time": 1737.754,
+      "end_time": 1749.296
+    },
+    {
+      "text": "They are enormous and they have a requirement to have our tech, undoubtedly that we don't have a working example in North America yet to hang our hat on.",
+      "speaker_name": "stuart",
+      "start_time": 1749.408,
+      "end_time": 1759.712
+    },
+    {
+      "text": "No, but you, you're getting there, I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 1759.896,
+      "end_time": 1762.096
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1762.168,
+      "end_time": 1762.464
+    },
+    {
+      "text": "My point was really about the, the narrative can be around that you are cracking, you are cracking North America.",
+      "speaker_name": "Andy Day",
+      "start_time": 1762.512,
+      "end_time": 1769.086
+    },
+    {
+      "text": "You know, you've got a couple of contracts that are there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1769.118,
+      "end_time": 1772.81
+    },
+    {
+      "text": "Guys, I've been quiet.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1773.83,
+      "end_time": 1774.638
+    },
+    {
+      "text": "I've got a question for everyone.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1774.654,
+      "end_time": 1776.09
+    },
+    {
+      "text": "Maybe it's more for you, Andy, Ziff Davis.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1776.47,
+      "end_time": 1779.294
+    },
+    {
+      "text": "Are they more interested with us as a company that supplies retailers with people and a tech business sits behind it, or are they more interested in us as being a tech business with cpgs, where do you think they sit?",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1779.422,
+      "end_time": 1795.448
+    },
+    {
+      "text": "Because that will then take the positioning of Iceland.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1795.504,
+      "end_time": 1797.704
+    },
+    {
+      "text": "If you lose Iceland and you can replace it.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1797.752,
+      "end_time": 1800.184
+    },
+    {
+      "text": "But we.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1800.352,
+      "end_time": 1800.92
+    },
+    {
+      "text": "To your point about cash flow, if you're replacing Iceland and you want to replace 20 other retailers in the States, that's front ended.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1800.96,
+      "end_time": 1807.176
+    },
+    {
+      "text": "That's a lot of people.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1807.208,
+      "end_time": 1808.104
+    },
+    {
+      "text": "That's a service business.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1808.192,
+      "end_time": 1809.54
+    },
+    {
+      "text": "And that's what Matt and RMI do.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1810.08,
+      "end_time": 1812.2
+    },
+    {
+      "text": "So where do you think their heads are at at this moment when they look at us as a company, where do they want us to play?",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1812.32,
+      "end_time": 1819.41
+    },
+    {
+      "text": "So, so the, the two options was a company that supplies people to retail businesses and the other was a tech business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1820.27,
+      "end_time": 1826.886
+    },
+    {
+      "text": "Yep, yep.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 1826.958,
+      "end_time": 1828.33
+    },
+    {
+      "text": "I would say they're looking at this as a tech enabled business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1828.99,
+      "end_time": 1832.85
+    },
+    {
+      "text": "That's what I think that, I think that's how we presented ourselves as well more than anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 1833.31,
+      "end_time": 1839.69
+    },
+    {
+      "text": "And I think the is the shop for media.",
+      "speaker_name": "Andy Day",
+      "start_time": 1841.23,
+      "end_time": 1848.7
+    },
+    {
+      "text": "Yeah, I think what John's alluding to is what we've, what we've done as a DNA for 20 years is have a system that allows us to sell media to cpgs and put it in retailers.",
+      "speaker_name": "matt",
+      "start_time": 1858.44,
+      "end_time": 1871.606
+    },
+    {
+      "text": "That's I would suggest now a legacy of the business.",
+      "speaker_name": "matt",
+      "start_time": 1871.768,
+      "end_time": 1875.11
+    },
+    {
+      "text": "Iceland is a good example where we had 20 people on a daily basis selling media and using our system.",
+      "speaker_name": "matt",
+      "start_time": 1875.89,
+      "end_time": 1884.07
+    },
+    {
+      "text": "Now that is our, what I believe is more of a legacy.",
+      "speaker_name": "matt",
+      "start_time": 1884.53,
+      "end_time": 1887.754
+    },
+    {
+      "text": "What we are now in my opinion only and I think it would, Stuart would agree.",
+      "speaker_name": "matt",
+      "start_time": 1887.882,
+      "end_time": 1892.442
+    },
+    {
+      "text": "When we are doing an Endeavor deal, they are buying our technology to allow them to sell media to their CPGs via our platform.",
+      "speaker_name": "matt",
+      "start_time": 1892.626,
+      "end_time": 1902.6
+    },
+    {
+      "text": "Now when you've got Iceland you end up with, to John's point, you've got 20 or 30 people in one retailer.",
+      "speaker_name": "matt",
+      "start_time": 1902.94,
+      "end_time": 1909.284
+    },
+    {
+      "text": "You've got 30 retailers, you'd have like a lot, a thousand people.",
+      "speaker_name": "matt",
+      "start_time": 1909.412,
+      "end_time": 1913.668
+    },
+    {
+      "text": "It has been impossible.",
+      "speaker_name": "matt",
+      "start_time": 1913.724,
+      "end_time": 1915.24
+    },
+    {
+      "text": "Where we are now is with Endeavor.",
+      "speaker_name": "matt",
+      "start_time": 1915.98,
+      "end_time": 1918.164
+    },
+    {
+      "text": "When we land that in the next four to six weeks, Stuart and I are right doing that now we'll have no people but we'll be charging them a million US Aussie dollars for three years to do it.",
+      "speaker_name": "matt",
+      "start_time": 1918.292,
+      "end_time": 1929.332
+    },
+    {
+      "text": "So I think John's question was does zip see it as a service a bit with all these thousands of people or more of a technology business?",
+      "speaker_name": "matt",
+      "start_time": 1929.516,
+      "end_time": 1937.732
+    },
+    {
+      "text": "So my view is we are a technology business that can fulfill retailers and CPGs but with limited amount of people agrees to it.",
+      "speaker_name": "matt",
+      "start_time": 1937.836,
+      "end_time": 1949.68
+    },
+    {
+      "text": "I do.",
+      "speaker_name": "stuart",
+      "start_time": 1950.55,
+      "end_time": 1951.294
+    },
+    {
+      "text": "Where we need to probably augment our team to meet that model is with our support and training resource.",
+      "speaker_name": "stuart",
+      "start_time": 1951.382,
+      "end_time": 1959.23
+    },
+    {
+      "text": "So rather than having embedded service provision type personnel, we would have a very well established support desk and concierge service that would not be implanted and that that can scale according to each market.",
+      "speaker_name": "stuart",
+      "start_time": 1959.31,
+      "end_time": 1978.904
+    },
+    {
+      "text": "So we might need to have one in Australia, Europe, North America so that it's operational during business hours.",
+      "speaker_name": "stuart",
+      "start_time": 1978.992,
+      "end_time": 1984.792
+    },
+    {
+      "text": "So I think the, the tech support piece is particularly important.",
+      "speaker_name": "stuart",
+      "start_time": 1984.896,
+      "end_time": 1989.256
+    },
+    {
+      "text": "It's very fledgling within the group because we've never had to have that at scale and we've only really ever supported UK clients in UK hours.",
+      "speaker_name": "stuart",
+      "start_time": 1989.408,
+      "end_time": 2000.26
+    },
+    {
+      "text": "So that's where I think we'd need to think about what the resourcing modeling part of that looks like, because we'd have to train our trainers, ensure that we've got adequate documentation videos.",
+      "speaker_name": "stuart",
+      "start_time": 2000.64,
+      "end_time": 2014.53
+    },
+    {
+      "text": "So that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2017.03,
+      "end_time": 2017.55
+    },
+    {
+      "text": "That'S, that's what we're thinking about anyway.",
+      "speaker_name": "stuart",
+      "start_time": 2017.59,
+      "end_time": 2020.654
+    },
+    {
+      "text": "But if.",
+      "speaker_name": "stuart",
+      "start_time": 2020.782,
+      "end_time": 2021.614
+    },
+    {
+      "text": "If they lit the blue touch paper and got us into 10 retailers in North America, that would have to be expedited pretty quickly, which I.",
+      "speaker_name": "stuart",
+      "start_time": 2021.702,
+      "end_time": 2029.07
+    },
+    {
+      "text": "Which I think we're more than capable of achieving, by the way.",
+      "speaker_name": "stuart",
+      "start_time": 2029.11,
+      "end_time": 2031.37
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2031.93,
+      "end_time": 2032.498
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 2032.594,
+      "end_time": 2032.994
+    },
+    {
+      "text": "Well, I think they're looking at the business as a whole.",
+      "speaker_name": "Andy Day",
+      "start_time": 2033.082,
+      "end_time": 2036.066
+    },
+    {
+      "text": "I doubt that they're thinking, well, we don't want what you built for Iceland 100%.",
+      "speaker_name": "Andy Day",
+      "start_time": 2036.178,
+      "end_time": 2040.978
+    },
+    {
+      "text": "But I think the conversations have been heavy around the tech side of things, so I think that's where they're leaning.",
+      "speaker_name": "Andy Day",
+      "start_time": 2041.034,
+      "end_time": 2047.51
+    },
+    {
+      "text": "But they do have the retail me, not business.",
+      "speaker_name": "Andy Day",
+      "start_time": 2047.93,
+      "end_time": 2049.89
+    },
+    {
+      "text": "And we've had.",
+      "speaker_name": "Andy Day",
+      "start_time": 2049.93,
+      "end_time": 2050.898
+    },
+    {
+      "text": "Is it Jack that's on the calls.",
+      "speaker_name": "Andy Day",
+      "start_time": 2051.034,
+      "end_time": 2054.39
+    },
+    {
+      "text": "So obviously, I think that's where they're fitted.",
+      "speaker_name": "Andy Day",
+      "start_time": 2055.69,
+      "end_time": 2057.688
+    },
+    {
+      "text": "They're fitting these two businesses together.",
+      "speaker_name": "Andy Day",
+      "start_time": 2057.754,
+      "end_time": 2059.42
+    },
+    {
+      "text": "And RetailMinot has the relationship with supermarkets and brands already, so it would bolt some.",
+      "speaker_name": "Andy Day",
+      "start_time": 2059.46,
+      "end_time": 2066.348
+    },
+    {
+      "text": "Somewhere into the.",
+      "speaker_name": "Andy Day",
+      "start_time": 2066.404,
+      "end_time": 2067.516
+    },
+    {
+      "text": "Into.",
+      "speaker_name": "Andy Day",
+      "start_time": 2067.668,
+      "end_time": 2068.172
+    },
+    {
+      "text": "Into there.",
+      "speaker_name": "Andy Day",
+      "start_time": 2068.276,
+      "end_time": 2069.16
+    },
+    {
+      "text": "So it's obviously part of a media play and they're selling huge amounts of adverts.",
+      "speaker_name": "Andy Day",
+      "start_time": 2070.1,
+      "end_time": 2074.492
+    },
+    {
+      "text": "So it could be that they want to expand that side of the business as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 2074.556,
+      "end_time": 2078.972
+    },
+    {
+      "text": "John, you know, I'm not 100% sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 2078.996,
+      "end_time": 2081.02
+    },
+    {
+      "text": "I mean, they haven't been super descriptive of where they see the businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 2081.06,
+      "end_time": 2086.37
+    },
+    {
+      "text": "No, I agree.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 2086.95,
+      "end_time": 2087.63
+    },
+    {
+      "text": "I just think it's important that we have an open mind, that's all, and try to find.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 2087.67,
+      "end_time": 2092.414
+    },
+    {
+      "text": "Ask some questions to them, obviously, as you will do anyway.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 2092.582,
+      "end_time": 2095.614
+    },
+    {
+      "text": "But Matt says legacy.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 2095.742,
+      "end_time": 2097.326
+    },
+    {
+      "text": "I agree it is legacy, but if the customer wants to buy us on that premise that we can deliver, then we, we may have to deliver that to get the pricing, the value that we want, that's all.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 2097.358,
+      "end_time": 2107.182
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2107.366,
+      "end_time": 2109.23
+    },
+    {
+      "text": "But I think, well, at this stage, we can't really write anything off and they don't know about Iceland yet, do they, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 2109.31,
+      "end_time": 2116.98
+    },
+    {
+      "text": "But we are.",
+      "speaker_name": "Andy Day",
+      "start_time": 2119.44,
+      "end_time": 2120.488
+    },
+    {
+      "text": "We're definitely focused on tech and they seem to be asking most of the questions around tech.",
+      "speaker_name": "Andy Day",
+      "start_time": 2120.624,
+      "end_time": 2124.584
+    },
+    {
+      "text": "That's my feelings.",
+      "speaker_name": "Andy Day",
+      "start_time": 2124.632,
+      "end_time": 2125.272
+    },
+    {
+      "text": "It's been mostly about base and what that is and what it looks like and where it's going.",
+      "speaker_name": "Andy Day",
+      "start_time": 2125.336,
+      "end_time": 2129.192
+    },
+    {
+      "text": "All of that has been the focus.",
+      "speaker_name": "Andy Day",
+      "start_time": 2129.296,
+      "end_time": 2130.9
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "stuart",
+      "start_time": 2133.2,
+      "end_time": 2134.18
+    },
+    {
+      "text": "All right, so I think we've got quite a lot of actions to be taken.",
+      "speaker_name": "stuart",
+      "start_time": 2134.72,
+      "end_time": 2138.968
+    },
+    {
+      "text": "We're going to rework on the narrative of the revised financial modeling.",
+      "speaker_name": "stuart",
+      "start_time": 2139.024,
+      "end_time": 2142.99
+    },
+    {
+      "text": "We might look at building out a little bit of our resources for the support and training element.",
+      "speaker_name": "stuart",
+      "start_time": 2143.12,
+      "end_time": 2149.75
+    },
+    {
+      "text": "We'll start to assemble elements that we think are going to be relevant for the data room so that we can drag and drop those across.",
+      "speaker_name": "stuart",
+      "start_time": 2150.73,
+      "end_time": 2156.658
+    },
+    {
+      "text": "You're going to send us a list of the actual equivalent things that Stagwell would have asked for.",
+      "speaker_name": "stuart",
+      "start_time": 2156.794,
+      "end_time": 2162.754
+    },
+    {
+      "text": "So that's again, as a NASDAQ public company that's going to be like, for like similar so that we get on the front foot.",
+      "speaker_name": "stuart",
+      "start_time": 2162.842,
+      "end_time": 2171.412
+    },
+    {
+      "text": "And I think we're all collectively agreed that we're going to try and do this as quickly as we possibly can.",
+      "speaker_name": "stuart",
+      "start_time": 2171.516,
+      "end_time": 2176.084
+    },
+    {
+      "text": "Conscious, Andy, that probably a lot of your sort of flair goes up to the market that there's potential to build a bit of deal heat.",
+      "speaker_name": "stuart",
+      "start_time": 2176.252,
+      "end_time": 2187.444
+    },
+    {
+      "text": "So I know we've already got Omnicom potentially who might be open to a discussion, but do you see any other flares that might go up with other parties that could come in, swoop in the last minute and trump Ziff Davis at their own game?",
+      "speaker_name": "stuart",
+      "start_time": 2187.572,
+      "end_time": 2203.7
+    },
+    {
+      "text": "Well, we are, we're still working on, on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2203.82,
+      "end_time": 2206.532
+    },
+    {
+      "text": "Ahmed and his team will be putting together as many leads as we can and we're constantly sending, sending emails out and trying to find the right person and on teams.",
+      "speaker_name": "Andy Day",
+      "start_time": 2206.636,
+      "end_time": 2216.964
+    },
+    {
+      "text": "So we are progressing with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2217.012,
+      "end_time": 2218.548
+    },
+    {
+      "text": "Do you know what, Stuart?",
+      "speaker_name": "Andy Day",
+      "start_time": 2218.684,
+      "end_time": 2219.604
+    },
+    {
+      "text": "So many times we've, we've been in the position where, where we are like this with a front running buyer and somebody's just come in at the last minute and that's been the deal and we just haven't even seen them come in.",
+      "speaker_name": "Andy Day",
+      "start_time": 2219.652,
+      "end_time": 2231.34
+    },
+    {
+      "text": "They just came in and went, this is great, there's the offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 2231.38,
+      "end_time": 2234.12
+    },
+    {
+      "text": "So yeah, I mean our, our position is to create deal heat.",
+      "speaker_name": "Andy Day",
+      "start_time": 2234.82,
+      "end_time": 2237.68
+    },
+    {
+      "text": "We've spoken to Omnicom about a ton of stuff before.",
+      "speaker_name": "Andy Day",
+      "start_time": 2238.1,
+      "end_time": 2240.6
+    },
+    {
+      "text": "They are probably one of the worst that I've heard about in terms of the timelines.",
+      "speaker_name": "Andy Day",
+      "start_time": 2241.54,
+      "end_time": 2246.364
+    },
+    {
+      "text": "I think they have like, they have different tiers of their investment committees.",
+      "speaker_name": "Andy Day",
+      "start_time": 2246.492,
+      "end_time": 2252.392
+    },
+    {
+      "text": "So you could have like a investment committee in the UK that approves it and then we have to wait until November when it goes to New York and they, they agree on the, the international committee and we have to wait.",
+      "speaker_name": "Andy Day",
+      "start_time": 2252.456,
+      "end_time": 2266.616
+    },
+    {
+      "text": "So yeah, whether that will create the deal heat that we need in time, I, I don't know.",
+      "speaker_name": "Andy Day",
+      "start_time": 2266.728,
+      "end_time": 2273.592
+    },
+    {
+      "text": "But obviously we just want to push everything forward and see whether we, we can create that environment.",
+      "speaker_name": "Andy Day",
+      "start_time": 2273.616,
+      "end_time": 2277.722
+    },
+    {
+      "text": "But again, no real way of knowing, but we are working on everything at the same time.",
+      "speaker_name": "Andy Day",
+      "start_time": 2277.906,
+      "end_time": 2284.522
+    },
+    {
+      "text": "Amazing.",
+      "speaker_name": "stuart",
+      "start_time": 2284.706,
+      "end_time": 2285.466
+    },
+    {
+      "text": "Can I ask Chris, have you got any observations or comments or queries, Chris, that's going to help us or to help you really?",
+      "speaker_name": "stuart",
+      "start_time": 2285.578,
+      "end_time": 2293.11
+    },
+    {
+      "text": "Well, I guess my role at the minute is mostly this modeling piece.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2295.17,
+      "end_time": 2298.874
+    },
+    {
+      "text": "So if you're Happy with the format.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2298.922,
+      "end_time": 2300.554
+    },
+    {
+      "text": "Two things I wasn't sure of with it at the moment, it's just a P L.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2300.602,
+      "end_time": 2304.814
+    },
+    {
+      "text": "How important is fully integrated balance sheet and cash flow?",
+      "speaker_name": "Chris Conway",
+      "start_time": 2304.902,
+      "end_time": 2309.23
+    },
+    {
+      "text": "Do you need me to build that out?",
+      "speaker_name": "Chris Conway",
+      "start_time": 2309.39,
+      "end_time": 2311.05
+    },
+    {
+      "text": "And then secondly, some of the assumptions in there are kind of either either revenue links or percentages or that kind of thing.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2311.35,
+      "end_time": 2320.19
+    },
+    {
+      "text": "They're not substantively kind of calculated.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2320.31,
+      "end_time": 2323.678
+    },
+    {
+      "text": "We don't have, for example, a team sheets that then feeds through into the model.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2323.774,
+      "end_time": 2329.006
+    },
+    {
+      "text": "It's, you know, some, some individuals, but then also just percentages of things.",
+      "speaker_name": "Chris Conway",
+      "start_time": 2329.118,
+      "end_time": 2333.838
+    },
+    {
+      "text": "Is that likely to become important when we get closer to diligence?",
+      "speaker_name": "Chris Conway",
+      "start_time": 2333.974,
+      "end_time": 2338.43
+    },
+    {
+      "text": "And therefore am I as well to start building that stuff out now?",
+      "speaker_name": "Chris Conway",
+      "start_time": 2338.51,
+      "end_time": 2341.77
+    },
+    {
+      "text": "I would wait until Maureen comes back and see what she says to me, this looks really good.",
+      "speaker_name": "Andy Day",
+      "start_time": 2343.11,
+      "end_time": 2349.93
+    },
+    {
+      "text": "I mean, there's nothing wrong with it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2351.51,
+      "end_time": 2352.542
+    },
+    {
+      "text": "It's clear.",
+      "speaker_name": "Andy Day",
+      "start_time": 2352.566,
+      "end_time": 2352.958
+    },
+    {
+      "text": "You can see how the business is progressing over time.",
+      "speaker_name": "Andy Day",
+      "start_time": 2353.014,
+      "end_time": 2356.468
+    },
+    {
+      "text": "You can see that they're three different businesses and then you've got everything at the bottom.",
+      "speaker_name": "Andy Day",
+      "start_time": 2356.524,
+      "end_time": 2360.28
+    },
+    {
+      "text": "I mean, there's not really much else.",
+      "speaker_name": "Andy Day",
+      "start_time": 2362.14,
+      "end_time": 2364.116
+    },
+    {
+      "text": "I could say it looks great, Chris, and you've done a good job.",
+      "speaker_name": "Andy Day",
+      "start_time": 2364.148,
+      "end_time": 2366.56
+    },
+    {
+      "text": "I think if Maureen comes back and says, can you look at this particular thing?",
+      "speaker_name": "Andy Day",
+      "start_time": 2366.94,
+      "end_time": 2371.7
+    },
+    {
+      "text": "We need more detail on it, then, then, then that's the, the time to do it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2371.74,
+      "end_time": 2376.532
+    },
+    {
+      "text": "I wouldn't start giving yourself a load of work.",
+      "speaker_name": "Andy Day",
+      "start_time": 2376.556,
+      "end_time": 2378.692
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Josef Southcombe",
+      "start_time": 2378.876,
+      "end_time": 2379.72
+    },
+    {
+      "text": "I'm sure they'll create enough when the time is right.",
+      "speaker_name": "Andy Day",
+      "start_time": 2380.3,
+      "end_time": 2383.04
+    },
+    {
+      "text": "But yeah, it looks, it looks good and it's clear.",
+      "speaker_name": "Andy Day",
+      "start_time": 2383.08,
+      "end_time": 2385.744
+    },
+    {
+      "text": "So that's all they need at this stage.",
+      "speaker_name": "Andy Day",
+      "start_time": 2385.832,
+      "end_time": 2387.78
+    },
+    {
+      "text": "They're going to start building their own P and L.",
+      "speaker_name": "Andy Day",
+      "start_time": 2389.96,
+      "end_time": 2392.24
+    },
+    {
+      "text": "So they're going to use this and then add it into where they are and what their assumptions are that they.",
+      "speaker_name": "Andy Day",
+      "start_time": 2392.28,
+      "end_time": 2396.32
+    },
+    {
+      "text": "Because obviously this isn't, you know, a business on its own.",
+      "speaker_name": "Andy Day",
+      "start_time": 2396.36,
+      "end_time": 2400.432
+    },
+    {
+      "text": "It will be in a much larger business.",
+      "speaker_name": "Andy Day",
+      "start_time": 2400.456,
+      "end_time": 2401.968
+    },
+    {
+      "text": "And like I say, I think my feeling is that they're going to use retail me not to drive either business into TSG or vice versa.",
+      "speaker_name": "Andy Day",
+      "start_time": 2402.024,
+      "end_time": 2410.746
+    },
+    {
+      "text": "And so they're going to make some assumptions, put it into their P L.",
+      "speaker_name": "Andy Day",
+      "start_time": 2410.858,
+      "end_time": 2413.722
+    },
+    {
+      "text": "So if they're missing a bit of data, that's when they'll come back and ask.",
+      "speaker_name": "Andy Day",
+      "start_time": 2413.826,
+      "end_time": 2416.95
+    },
+    {
+      "text": "All right, so no more questions or comments from me, Andy.",
+      "speaker_name": "stuart",
+      "start_time": 2419.01,
+      "end_time": 2421.978
+    },
+    {
+      "text": "That's very clear.",
+      "speaker_name": "stuart",
+      "start_time": 2421.994,
+      "end_time": 2422.586
+    },
+    {
+      "text": "Thank you, Matt.",
+      "speaker_name": "stuart",
+      "start_time": 2422.658,
+      "end_time": 2424.266
+    },
+    {
+      "text": "No, thank you for your time, everybody.",
+      "speaker_name": "matt",
+      "start_time": 2424.458,
+      "end_time": 2426.666
+    },
+    {
+      "text": "Chris, Andy, appreciate it.",
+      "speaker_name": "matt",
+      "start_time": 2426.698,
+      "end_time": 2428.042
+    },
+    {
+      "text": "Ahmed, John, thank you.",
+      "speaker_name": "matt",
+      "start_time": 2428.066,
+      "end_time": 2430.39
+    },
+    {
+      "text": "Yeah, so I'll return this now to Erica and just make that change to Excel sheet.",
+      "speaker_name": "Andy Day",
+      "start_time": 2430.77,
+      "end_time": 2439.626
+    },
+    {
+      "text": "Andy, before you swing out anything.",
+      "speaker_name": "matt",
+      "start_time": 2439.658,
+      "end_time": 2441.466
+    },
+    {
+      "text": "Sorry, before, let me reword that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2441.578,
+      "end_time": 2446.298
+    },
+    {
+      "text": "Next steps would be to send this over to Erica and then she's going to ingest it with her team and see what's missing, what else they might need.",
+      "speaker_name": "Andy Day",
+      "start_time": 2446.354,
+      "end_time": 2454.25
+    },
+    {
+      "text": "But it's a full response to their original list of questions that we had.",
+      "speaker_name": "Andy Day",
+      "start_time": 2454.29,
+      "end_time": 2458.63
+    },
+    {
+      "text": "They haven't added anything else yet.",
+      "speaker_name": "Andy Day",
+      "start_time": 2459.25,
+      "end_time": 2461.35
+    },
+    {
+      "text": "Yeah, I mean, if they request anything else or more detail, we can respond them.",
+      "speaker_name": "Andy Day",
+      "start_time": 2463.37,
+      "end_time": 2466.77
+    },
+    {
+      "text": "And then when Maureen's back, week after next, we.",
+      "speaker_name": "Andy Day",
+      "start_time": 2466.89,
+      "end_time": 2470.066
+    },
+    {
+      "text": "I would expect things to start accelerating then.",
+      "speaker_name": "Andy Day",
+      "start_time": 2470.138,
+      "end_time": 2472.91
+    },
+    {
+      "text": "And then we've got a session on Friday, which is just our standard weekly one, so we can regroup then.",
+      "speaker_name": "stuart",
+      "start_time": 2474.65,
+      "end_time": 2480.37
+    },
+    {
+      "text": "Andrea?",
+      "speaker_name": "stuart",
+      "start_time": 2480.41,
+      "end_time": 2481.25
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 2481.41,
+      "end_time": 2482.31
+    },
+    {
+      "text": "Super.",
+      "speaker_name": "stuart",
+      "start_time": 2483.05,
+      "end_time": 2483.842
+    },
+    {
+      "text": "All right, well, have a lovely day, everybody.",
+      "speaker_name": "stuart",
+      "start_time": 2484.026,
+      "end_time": 2485.954
+    },
+    {
+      "text": "Thank you, guys.",
+      "speaker_name": "stuart",
+      "start_time": 2486.002,
+      "end_time": 2486.962
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "matt",
+      "start_time": 2487.026,
+      "end_time": 2487.506
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "Andy Day",
+      "start_time": 2487.578,
+      "end_time": 2487.97
+    },
+    {
+      "text": "What about everyone?",
+      "speaker_name": "Andy Day",
+      "start_time": 2488.01,
+      "end_time": 2489.426
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andy Day",
+      "start_time": 2489.498,
+      "end_time": 2489.826
+    },
+    {
+      "text": "Thanks for your time.",
+      "speaker_name": "Andy Day",
+      "start_time": 2489.858,
+      "end_time": 2490.33
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "acquisition",
+      "valuation",
+      "due diligence",
+      "Ziff Davis",
+      "financial modeling",
+      "tech-enabled business"
+    ],
+    "action_items": "\n**Andy Day**\nSend financial model to Erica at Ziff Davis after Matt makes revisions (40:40)\nHave Ahmed create a data room checklist similar to the Stagwell requests (17:28)\nContinue working with Ahmed to pursue additional potential buyers to create deal heat (38:05)\n\n**Matt Simpson**\nRevise financial model to remove negative narrative about 'revenue dip' in 2026 (21:15)\nReview and correct any discrepancies in the North USA/USA naming in the model (25:56)\nContinue signing additional contracts to demonstrate pipeline strength (25:06)\n\n**Stuart Tiedeman**\nWork with team to assemble data room elements based on Andy's upcoming checklist (36:33)\nConsider building out resources for the support and training element to support a scalable tech model (36:33)\n\n**Chris Conway**\nWait for Maureen's feedback before expanding the financial model to include balance sheet and cash flow (39:39)\n",
+    "outline": null,
+    "overview": "The Business Development and Acquisition Discussion meeting focused on the progress of the acquisition deal with Ziff Davis, highlighting the valuation uncertainties and a timeline for the deal's developments. Andy provided updates on Ziff Davis's interest in moving forward but noted concerns regarding the valuation range, which has shifted from an initial estimate of 12-14 to a more conservative range. The team outlined a structured timeline leading up to the expected sidebar offer by the end of April, a formal offer in May, and a due diligence phase beginning in June, while also emphasizing the need for clear communication and timely preparations. A review of the financial model acknowledged challenges stemming from the loss of an Iceland client but agreed on the importance of presenting an optimistic narrative regarding U.S. market growth and the conversion of pipeline opportunities. Action items were assigned to team members to refine the financial model, prepare necessary documentation, and continue outreach to potential buyers, with the next check-in scheduled for the following Friday.",
+    "short_summary": "During the Business Development and Acquisition Discussion meeting, participants reviewed the ongoing acquisition deal with Ziff Davis, addressing valuation uncertainties that have shifted from an initial estimate of 12-14 to a more conservative range. Andy highlighted Ziff Davis's continued interest in the acquisition but acknowledged the concerns regarding the valuation range. The team outlined a structured timeline, anticipating a sidebar offer by the end of April, a formal offer in May, and the commencement of a due diligence phase in June. Communication was emphasized as crucial to ensuring timely preparations, especially in light of the financial model review which acknowledged challenges from losing an Iceland client. Nevertheless, the team agreed on maintaining an optimistic narrative about U.S. market growth and converting pipeline opportunities. Action items were assigned for refining the financial model and preparing documentation, with the next check-in scheduled for the following Friday.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JRDN9YE738B4P2H58Z1M2BHD",
+  "audio_url": "https://cdn.fireflies.ai/01JRDN9YE738B4P2H58Z1M2BHD/audio.mp3?Expires=1773220867&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlJETjlZRTczOEI0UDJINThaMU0yQkhEL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2N319fV19&Signature=XZaBPrEDDLsVpEFSDEl3VADLB-jlxD7Cv8FHC45~ACvMpSTEZRcB4vTcchm-iezJH5CCf4g35GYp90pcLIncNIkN11~jYrSYUJlxsshu8RSxSrf7AxYacamuO9Be6RLNCNxF7UBw7KV0L5pyzF1r9-0W4R15q0EY8sHU2dwG9lSC9U9nsvZe9IaFk6eQpGmz8K6hPvaKZ1Nrm822SB61j7sZiJni-vR1iwExV~FPw4dA5lhhTHJCXefz9KSznEexdPuZ26BAGaIGotM2BamosTeWhhvng~Y6L8I0778p7RmL7udXj~aM9xx3zLyNP7pHlQ04ePKllQy2ujUuk7lZcg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JRDN9YE738B4P2H58Z1M2BHD/video.mp4?Expires=1773220867&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlJETjlZRTczOEI0UDJINThaMU0yQkhEL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2N319fV19&Signature=xNdjg43MBNnYdDa9nT2YB9zIV9YAS~Lj-UpA9kH4NFsrgFKxUwZTUQ-~BCmuiXM3Js2WItQV0WbC1YHhYQUncZJpW2fPV5tR-G1HrQG52j0RiFopUE-7v-OypN7ZwC-MVEFnPpNmUmAQNA57fubIYtf-gFcHMmQyjvAq16gfrob8AiojdZGx8z9LyQL29KfeyUuuzRF7Y2Ocii6JvWPyKJjgmLIpNnT4EyrhjYsXEb8Q0Oe2MuzX9TgRQJi~QLM2ZCVvNYVfDMNHJDBUPIPIUxR2r6e8hgegJjG5A8fzl5sF8Gnru9~ILPEFDqyI1PZHm~uB7RZXMwJ2ovBlLk~bnQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

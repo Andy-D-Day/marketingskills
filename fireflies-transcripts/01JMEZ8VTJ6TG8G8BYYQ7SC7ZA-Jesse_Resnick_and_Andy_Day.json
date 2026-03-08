@@ -1,0 +1,1714 @@
+{
+  "id": "01JMEZ8VTJ6TG8G8BYYQ7SC7ZA",
+  "title": "Jesse Resnick and Andy Day",
+  "date": 1740501000000,
+  "dateString": "2025-02-25T16:30:00.000Z",
+  "duration": 21.389999389648438,
+  "participants": [
+    "andrew.day@capitala.co,jesse@eidigital.com,andy.day@capitala.co",
+    "jesse@eidigital.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jesse@eidigital.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 3.36,
+      "end_time": 3.968
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 4.104,
+      "end_time": 6.22
+    },
+    {
+      "text": "Hey, Jesse, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 7.44,
+      "end_time": 8.98
+    },
+    {
+      "text": "Good, man, how are you?",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 9.28,
+      "end_time": 10.792
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 10.976,
+      "end_time": 12.34
+    },
+    {
+      "text": "I've.",
+      "speaker_name": "Andy Day",
+      "start_time": 13.92,
+      "end_time": 14.78
+    },
+    {
+      "text": "I've lost you.",
+      "speaker_name": "Andy Day",
+      "start_time": 16.88,
+      "end_time": 17.816
+    },
+    {
+      "text": "You popped into the room and then the zoom window closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 17.888,
+      "end_time": 21.336
+    },
+    {
+      "text": "Don't know why.",
+      "speaker_name": "Andy Day",
+      "start_time": 21.368,
+      "end_time": 21.96
+    },
+    {
+      "text": "Ah, there we go.",
+      "speaker_name": "Andy Day",
+      "start_time": 22,
+      "end_time": 23.192
+    },
+    {
+      "text": "All right, Good stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 23.376,
+      "end_time": 24.296
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Andy Day",
+      "start_time": 24.328,
+      "end_time": 24.936
+    },
+    {
+      "text": "Stayed in.",
+      "speaker_name": "Andy Day",
+      "start_time": 25.008,
+      "end_time": 26.176
+    },
+    {
+      "text": "I'm doing well.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 26.368,
+      "end_time": 27.2
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 27.24,
+      "end_time": 28.06
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.4,
+      "end_time": 29.968
+    },
+    {
+      "text": "Whereabouts you based?",
+      "speaker_name": "Andy Day",
+      "start_time": 30.064,
+      "end_time": 31.34
+    },
+    {
+      "text": "I'm based.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 32.52,
+      "end_time": 33.264
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 33.352,
+      "end_time": 33.6
+    },
+    {
+      "text": "I live in Brooklyn.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 33.64,
+      "end_time": 34.848
+    },
+    {
+      "text": "I'm in Manhattan at the moment, so.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 34.944,
+      "end_time": 38.384
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 38.472,
+      "end_time": 39.14
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 40.76,
+      "end_time": 41.264
+    },
+    {
+      "text": "We're based in London and New York and Los Angeles, but I'm in Somerset at the moment, which in the west of England, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 41.352,
+      "end_time": 53.19
+    },
+    {
+      "text": "Yeah, lovely.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 53.57,
+      "end_time": 54.57
+    },
+    {
+      "text": "My, My wife's from Wales.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 54.65,
+      "end_time": 56.282
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 56.426,
+      "end_time": 56.778
+    },
+    {
+      "text": "How is she?",
+      "speaker_name": "Andy Day",
+      "start_time": 56.834,
+      "end_time": 57.45
+    },
+    {
+      "text": "Well, same, same size.",
+      "speaker_name": "Andy Day",
+      "start_time": 57.49,
+      "end_time": 58.554
+    },
+    {
+      "text": "So she's just a bit further up the country.",
+      "speaker_name": "Andy Day",
+      "start_time": 58.602,
+      "end_time": 60.922
+    },
+    {
+      "text": "Not too far.",
+      "speaker_name": "Andy Day",
+      "start_time": 61.106,
+      "end_time": 61.898
+    },
+    {
+      "text": "Just down.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 61.954,
+      "end_time": 62.554
+    },
+    {
+      "text": "Down the M4.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 62.642,
+      "end_time": 64.474
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Andy Day",
+      "start_time": 64.642,
+      "end_time": 65.146
+    },
+    {
+      "text": "Whereabouts in Wales is she from?",
+      "speaker_name": "Andy Day",
+      "start_time": 65.178,
+      "end_time": 67.402
+    },
+    {
+      "text": "Just, Just over the seven bridge, so.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 67.586,
+      "end_time": 70.298
+    },
+    {
+      "text": "Oh, really?",
+      "speaker_name": "Andy Day",
+      "start_time": 70.354,
+      "end_time": 70.778
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 70.834,
+      "end_time": 71.098
+    },
+    {
+      "text": "Yeah, not too far.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 71.114,
+      "end_time": 73.914
+    },
+    {
+      "text": "Yes, Past Bath.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 74.082,
+      "end_time": 76.01
+    },
+    {
+      "text": "Keep going, you'll get there.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 76.09,
+      "end_time": 78.356
+    },
+    {
+      "text": "Two hours from.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 78.428,
+      "end_time": 79.444
+    },
+    {
+      "text": "Oh, my God.",
+      "speaker_name": "Andy Day",
+      "start_time": 79.612,
+      "end_time": 80.148
+    },
+    {
+      "text": "An American that knows where he is on the UK map.",
+      "speaker_name": "Andy Day",
+      "start_time": 80.164,
+      "end_time": 82.772
+    },
+    {
+      "text": "Fantastic.",
+      "speaker_name": "Andy Day",
+      "start_time": 82.836,
+      "end_time": 83.72
+    },
+    {
+      "text": "Yeah, a little bit, you know, spend a good amount of time in the uk.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 84.3,
+      "end_time": 88.676
+    },
+    {
+      "text": "We're the same county as Bath and it's about an hour away, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 88.828,
+      "end_time": 92.82
+    },
+    {
+      "text": "Yeah, yeah, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 92.86,
+      "end_time": 94.5
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 94.58,
+      "end_time": 95.252
+    },
+    {
+      "text": "Well, nice to meet you and thank you for your time today.",
+      "speaker_name": "Andy Day",
+      "start_time": 95.396,
+      "end_time": 98.24
+    },
+    {
+      "text": "Appreciate it's fairly speculative given the approach that we've made, but it's always good to understand other agencies, even if you're not ready to sell right now.",
+      "speaker_name": "Andy Day",
+      "start_time": 98.94,
+      "end_time": 110.53
+    },
+    {
+      "text": "But a little bit about us.",
+      "speaker_name": "Andy Day",
+      "start_time": 111.15,
+      "end_time": 112.358
+    },
+    {
+      "text": "We're a capital A group.",
+      "speaker_name": "Andy Day",
+      "start_time": 112.414,
+      "end_time": 115.094
+    },
+    {
+      "text": "We are an M and a advisory for marketing services businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 115.182,
+      "end_time": 119.19
+    },
+    {
+      "text": "So all of our clients either buy or sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 119.27,
+      "end_time": 123.01
+    },
+    {
+      "text": "It always involves an agency of some sort, although we do work with private equity and private investors as well on the buy side.",
+      "speaker_name": "Andy Day",
+      "start_time": 123.39,
+      "end_time": 130.93
+    },
+    {
+      "text": "And we have a platform, Agencies Co, which is our platform for agency owners to buy and sell businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 131.23,
+      "end_time": 138.09
+    },
+    {
+      "text": "So great to meet you today.",
+      "speaker_name": "Andy Day",
+      "start_time": 138.17,
+      "end_time": 140.346
+    },
+    {
+      "text": "Be really good to hear a little bit about EI Digital and where you're at.",
+      "speaker_name": "Andy Day",
+      "start_time": 140.418,
+      "end_time": 145.962
+    },
+    {
+      "text": "I know you've kind of already said you're not really looking to sell, but you've had some offers in the past and you seem pretty up to speed in terms of the valuation of your own company.",
+      "speaker_name": "Andy Day",
+      "start_time": 145.986,
+      "end_time": 156.378
+    },
+    {
+      "text": "It'd be good to know a little bit more and see if we've got any either buyers or sellers that can.",
+      "speaker_name": "Andy Day",
+      "start_time": 156.434,
+      "end_time": 161.746
+    },
+    {
+      "text": "Can help you or whether we can actually find you some buyers yourself by listing on agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 161.818,
+      "end_time": 167.57
+    },
+    {
+      "text": "Go.",
+      "speaker_name": "Andy Day",
+      "start_time": 167.65,
+      "end_time": 168.322
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 168.506,
+      "end_time": 169.186
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 169.338,
+      "end_time": 169.666
+    },
+    {
+      "text": "I mean, I don't think we're.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 169.698,
+      "end_time": 171.43
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 171.93,
+      "end_time": 172.674
+    },
+    {
+      "text": "We're interested in, you know, I guess that the flavor of a deal we'd be interested in would Be one that has you know, some sort of really good strategic fit.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 172.842,
+      "end_time": 187.086
+    },
+    {
+      "text": "So you know it would be either a group who we would fit in really well with and be part of a roll up with, you know, kind of two bites at the Apple type scenario.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 187.278,
+      "end_time": 201.81
+    },
+    {
+      "text": "Good match of culture, good match of what we do plugs in well, you know a creative sort of deal or something where there's a.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 203.35,
+      "end_time": 214.302
+    },
+    {
+      "text": "Not an agency deal but like a, you know, a company for example we do a lot in spirits, you could spirits holding company or something like that where it could be very, you know again a good strategic alignment there.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 214.486,
+      "end_time": 232.446
+    },
+    {
+      "text": "So something like that.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 232.518,
+      "end_time": 233.93
+    },
+    {
+      "text": "You know we're I think our differentiator if you were, would be that we're boutique but very integrated agencies.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 235.11,
+      "end_time": 247.776
+    },
+    {
+      "text": "So we are both understand the brand and the performance side and kind of build strategic plans that are what we call full funnel.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 247.888,
+      "end_time": 258
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 258.08,
+      "end_time": 258.368
+    },
+    {
+      "text": "So we can think about great consumer experience and high touch kind of brand side but also operate CRM, email conversion media, things that are a little bit more measurable, optimizable from an analytical sense.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 258.424,
+      "end_time": 278.74
+    },
+    {
+      "text": "Work with a lot of spirits brands.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 279.88,
+      "end_time": 282.48
+    },
+    {
+      "text": "Latin Bev Alk we're rebranding, launching a private jet company that'll launch in April.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 282.56,
+      "end_time": 289.58
+    },
+    {
+      "text": "We have worked a lot in medical aesthetics and you know, med spa related industries.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 291.16,
+      "end_time": 302.018
+    },
+    {
+      "text": "Not too much actual proper pharma but you know, things that are technically pharma or regulated.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 302.114,
+      "end_time": 309.11
+    },
+    {
+      "text": "And then we've also worked in a lot of ad tech and other technical sort of industries service wise we've got you know, strategy and creative kind of at the heart of what we do and then delivery against digital marketing which includes, you know, paid media and CRM data, social content creation and technology with a dev team.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 310.25,
+      "end_time": 344.84
+    },
+    {
+      "text": "We build, manage mostly web platforms and related, you know, marketing platforms.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 344.88,
+      "end_time": 350.75
+    },
+    {
+      "text": "So that's us in a quick nutshell and again from any M and A.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 351.17,
+      "end_time": 356.282
+    },
+    {
+      "text": "We're not interested right now.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 356.306,
+      "end_time": 357.85
+    },
+    {
+      "text": "I don't think in you know, putting ourselves officially on the market necessarily but you know I'm, I'm always interested to see what's out there and, and like I said, we're interested in you know, accretive opportunities let's say.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 357.89,
+      "end_time": 375.138
+    },
+    {
+      "text": "So if there was a, something that was a really good fit could make a ton of sense, we could get a decent valuation and an opportunity to roll over equity into something bigger that could be interesting.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 375.314,
+      "end_time": 390.37
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 390.45,
+      "end_time": 390.642
+    },
+    {
+      "text": "We, we would explore that kind of deal.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 390.666,
+      "end_time": 393.15
+    },
+    {
+      "text": "Okay, so whereabouts are you sort of in size of, in terms of your size today?",
+      "speaker_name": "Andy Day",
+      "start_time": 395.21,
+      "end_time": 399.954
+    },
+    {
+      "text": "How many team members do you have?",
+      "speaker_name": "Andy Day",
+      "start_time": 400.042,
+      "end_time": 401.87
+    },
+    {
+      "text": "About 30 people full time freelancers supplementing that.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 402.71,
+      "end_time": 409.134
+    },
+    {
+      "text": "So Working team might be 35 to 40 at any time and then distributed mostly in the US we're starting to explore more Latin America team members as well, which I'm excited about actually.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 409.222,
+      "end_time": 424.158
+    },
+    {
+      "text": "And then, you know, revenue wise, we'll hopefully do about 7 million this year.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 424.294,
+      "end_time": 433.95
+    },
+    {
+      "text": "And we aim to run, you know, roughly a 20% margin, give or take.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 434.49,
+      "end_time": 440.034
+    },
+    {
+      "text": "Against that we recently hired a head of operations, head of project management.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 440.202,
+      "end_time": 447.698
+    },
+    {
+      "text": "So we've made a lot of investment in kind of our infrastructure as a group, trying to get myself and my partner much more out of the day to day operational side and engage more.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 447.834,
+      "end_time": 462.734
+    },
+    {
+      "text": "So I have more opportunity to have meetings like this and do more biz, dev, et cetera.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 462.822,
+      "end_time": 468.77
+    },
+    {
+      "text": "Okay, do you know what your number was roughly for the last year as well, prior to the 7 million revenue?",
+      "speaker_name": "Andy Day",
+      "start_time": 470.31,
+      "end_time": 476.85
+    },
+    {
+      "text": "We did, we did a gross 6.5 about last year.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 478.47,
+      "end_time": 483.104
+    },
+    {
+      "text": "Okay, so the business is growing, that's how.",
+      "speaker_name": "Andy Day",
+      "start_time": 483.272,
+      "end_time": 487.5
+    },
+    {
+      "text": "Okay, so 23, 24, 6.5.",
+      "speaker_name": "Andy Day",
+      "start_time": 490.68,
+      "end_time": 493.28
+    },
+    {
+      "text": "And this year, are you, sorry, are you saying that the Last sort of training 12 months was 7 million or is that what you're projecting for this year?",
+      "speaker_name": "Andy Day",
+      "start_time": 493.32,
+      "end_time": 501.5
+    },
+    {
+      "text": "That's what we're, we're targeting for this year.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 501.88,
+      "end_time": 504.208
+    },
+    {
+      "text": "I mean that would definitely require us to win projects and clients we don't have right now, but would expect that we will pick up business for actively pitching, have things in the pipeline, etc.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 504.264,
+      "end_time": 519.756
+    },
+    {
+      "text": "We probably have a, you know, booked about six or so.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 519.948,
+      "end_time": 523.32
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 527.22,
+      "end_time": 528.16
+    },
+    {
+      "text": "What do you guys look for?",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 530.42,
+      "end_time": 531.612
+    },
+    {
+      "text": "I mean, what do you know, understanding.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 531.636,
+      "end_time": 534.896
+    },
+    {
+      "text": "It's sort of exploratory, but you know.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 534.928,
+      "end_time": 536.992
+    },
+    {
+      "text": "Yeah, that's, that's kind of our high level.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 537.016,
+      "end_time": 539.26
+    },
+    {
+      "text": "Yeah, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.44,
+      "end_time": 541.66
+    },
+    {
+      "text": "So we work on the buy and the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 541.96,
+      "end_time": 543.648
+    },
+    {
+      "text": "When we work on the buy side, what are we looking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 543.704,
+      "end_time": 545.76
+    },
+    {
+      "text": "It really depends on what the client, the client's brief is.",
+      "speaker_name": "Andy Day",
+      "start_time": 545.8,
+      "end_time": 549.408
+    },
+    {
+      "text": "So they will give us a set of criteria and we're going out to look for exactly that in terms of sort of general rules of thumb around marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 549.464,
+      "end_time": 559.7
+    },
+    {
+      "text": "You know, we're usually looking for a company where there's a good layer of management team and usually a margin around 20% as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 560.85,
+      "end_time": 571.338
+    },
+    {
+      "text": "So I think in terms of everything that you're doing there, that's pretty much on the money.",
+      "speaker_name": "Andy Day",
+      "start_time": 571.394,
+      "end_time": 576.138
+    },
+    {
+      "text": "That's kind of what a lot of good buyers are looking for.",
+      "speaker_name": "Andy Day",
+      "start_time": 576.194,
+      "end_time": 579.482
+    },
+    {
+      "text": "And you'll get better multiples because of those things being in place.",
+      "speaker_name": "Andy Day",
+      "start_time": 579.506,
+      "end_time": 584.042
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 584.146,
+      "end_time": 584.698
+    },
+    {
+      "text": "So that's definitely where it's at.",
+      "speaker_name": "Andy Day",
+      "start_time": 584.834,
+      "end_time": 587.54
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 588.4,
+      "end_time": 589.112
+    },
+    {
+      "text": "In terms of the market, it's very buoyant.",
+      "speaker_name": "Andy Day",
+      "start_time": 589.256,
+      "end_time": 592.3
+    },
+    {
+      "text": "There's a lot of activity and we like, I say we won't both buy on the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 592.72,
+      "end_time": 596.536
+    },
+    {
+      "text": "So we've got probably two deals that are going to close this week and on the buy side we just closed a couple, both in the UK and the US For a UK comp.",
+      "speaker_name": "Andy Day",
+      "start_time": 596.608,
+      "end_time": 608.696
+    },
+    {
+      "text": "A US company.",
+      "speaker_name": "Andy Day",
+      "start_time": 608.768,
+      "end_time": 609.56
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 609.6,
+      "end_time": 609.864
+    },
+    {
+      "text": "So bought one in the uk, one in the US So we've seen a ton of activity.",
+      "speaker_name": "Andy Day",
+      "start_time": 609.912,
+      "end_time": 614.7
+    },
+    {
+      "text": "So yeah, I mean it depends what you're looking for really.",
+      "speaker_name": "Andy Day",
+      "start_time": 616.89,
+      "end_time": 620.03
+    },
+    {
+      "text": "I just wonder.",
+      "speaker_name": "Andy Day",
+      "start_time": 620.89,
+      "end_time": 622.034
+    },
+    {
+      "text": "Jesse, it's difficult to give you an answer like we have this deal here for you unless we've approached you directly for a client, then we wouldn't have anything that was definitely a fit.",
+      "speaker_name": "Andy Day",
+      "start_time": 622.162,
+      "end_time": 635.986
+    },
+    {
+      "text": "But certainly we can keep you in mind for something.",
+      "speaker_name": "Andy Day",
+      "start_time": 636.018,
+      "end_time": 638.546
+    },
+    {
+      "text": "But what I suggest possibly if, if you are interested in sort of a risk free approach would perhaps to.",
+      "speaker_name": "Andy Day",
+      "start_time": 638.698,
+      "end_time": 648.458
+    },
+    {
+      "text": "To list on our platform agencies code and I know you said you don't really want to be out there but the things.",
+      "speaker_name": "Andy Day",
+      "start_time": 648.514,
+      "end_time": 654.938
+    },
+    {
+      "text": "The entire process is anonymous and it's completely free to list as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 654.994,
+      "end_time": 659.75
+    },
+    {
+      "text": "So the idea really is you put the listing up, it has a teaser that explains the kind of business that you do.",
+      "speaker_name": "Andy Day",
+      "start_time": 660.13,
+      "end_time": 665.85
+    },
+    {
+      "text": "You try not to put anything there.",
+      "speaker_name": "Andy Day",
+      "start_time": 665.89,
+      "end_time": 667.082
+    },
+    {
+      "text": "Obviously it will give away who it is.",
+      "speaker_name": "Andy Day",
+      "start_time": 667.106,
+      "end_time": 669.91
+    },
+    {
+      "text": "So yeah, I mean that's the, the key thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 670.03,
+      "end_time": 673.974
+    },
+    {
+      "text": "So you could say, you know, east coast based agency that focuses on spirits, brands or whatever and then we can put you out to our network.",
+      "speaker_name": "Andy Day",
+      "start_time": 674.062,
+      "end_time": 683.078
+    },
+    {
+      "text": "We have 20,000 people subscribed to that and if you get a bite then you know there's interest out there and you can maybe invest more time and money into dealing with interest.",
+      "speaker_name": "Andy Day",
+      "start_time": 683.134,
+      "end_time": 695.09
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 695.86,
+      "end_time": 696.268
+    },
+    {
+      "text": "When you say time and money, does that mean to take the next step we would have to engage with you or what does that look like further?",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 696.324,
+      "end_time": 704.6
+    },
+    {
+      "text": "Yeah, so no, you would be engaged with us already.",
+      "speaker_name": "Andy Day",
+      "start_time": 705.06,
+      "end_time": 708.12
+    },
+    {
+      "text": "So once you list on the platform we'd have a engagement letter in place.",
+      "speaker_name": "Andy Day",
+      "start_time": 708.5,
+      "end_time": 712.252
+    },
+    {
+      "text": "It's more about how much effort you want to put in to responding to that interest.",
+      "speaker_name": "Andy Day",
+      "start_time": 712.436,
+      "end_time": 718.04
+    },
+    {
+      "text": "So we charge $5,000 to put together all the marketing, have a pitch deck, do the valuation, etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 718.42,
+      "end_time": 723.836
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 723.868,
+      "end_time": 724.364
+    },
+    {
+      "text": "You can either do it yourself or you can ask us to do it.",
+      "speaker_name": "Andy Day",
+      "start_time": 724.492,
+      "end_time": 727.24
+    },
+    {
+      "text": "Those are the two flavors really.",
+      "speaker_name": "Andy Day",
+      "start_time": 727.68,
+      "end_time": 729.54
+    },
+    {
+      "text": "But obviously we're working on your behalf.",
+      "speaker_name": "Andy Day",
+      "start_time": 731.44,
+      "end_time": 733.224
+    },
+    {
+      "text": "As soon as we get that interest in.",
+      "speaker_name": "Andy Day",
+      "start_time": 733.272,
+      "end_time": 734.728
+    },
+    {
+      "text": "And so our M and A team will be on all the calls, making sure we get a deal done, negotiated, et cetera, et cetera.",
+      "speaker_name": "Andy Day",
+      "start_time": 734.784,
+      "end_time": 740.568
+    },
+    {
+      "text": "Until we close, we take 5% of the consideration as a win fee and that's how we work for probably about 50% of our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 740.584,
+      "end_time": 751.128
+    },
+    {
+      "text": "We also.",
+      "speaker_name": "Andy Day",
+      "start_time": 751.304,
+      "end_time": 752.12
+    },
+    {
+      "text": "It really does depend.",
+      "speaker_name": "Andy Day",
+      "start_time": 752.24,
+      "end_time": 753.224
+    },
+    {
+      "text": "I mean you're saying it's not urgent so it wouldn't apply to you.",
+      "speaker_name": "Andy Day",
+      "start_time": 753.272,
+      "end_time": 756.072
+    },
+    {
+      "text": "But some clients come to us and they say, you know, I want to sell, I want to it out.",
+      "speaker_name": "Andy Day",
+      "start_time": 756.096,
+      "end_time": 759.84
+    },
+    {
+      "text": "And so that option costs.",
+      "speaker_name": "Andy Day",
+      "start_time": 760.22,
+      "end_time": 763.028
+    },
+    {
+      "text": "Is that me or you?",
+      "speaker_name": "Andy Day",
+      "start_time": 763.124,
+      "end_time": 764.32
+    },
+    {
+      "text": "Me.",
+      "speaker_name": "Andy Day",
+      "start_time": 765.42,
+      "end_time": 766.16
+    },
+    {
+      "text": "So that option costs 24,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 766.46,
+      "end_time": 768.88
+    },
+    {
+      "text": "Sorry 30,000 actually in dollars.",
+      "speaker_name": "Andy Day",
+      "start_time": 770.46,
+      "end_time": 772.276
+    },
+    {
+      "text": "Thinking in pounds.",
+      "speaker_name": "Andy Day",
+      "start_time": 772.308,
+      "end_time": 773.48
+    },
+    {
+      "text": "$30,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 774.06,
+      "end_time": 775.32
+    },
+    {
+      "text": "And basically then we, we put together a whole plan and a strategy and we go out to market and we get that deal closed within six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 777.18,
+      "end_time": 783.716
+    },
+    {
+      "text": "So if you're not bothered about when that transaction happens, I suggest listing for free.",
+      "speaker_name": "Andy Day",
+      "start_time": 783.788,
+      "end_time": 789.166
+    },
+    {
+      "text": "It's risk free.",
+      "speaker_name": "Andy Day",
+      "start_time": 789.238,
+      "end_time": 790.33
+    },
+    {
+      "text": "If you want us to do a bit of work to get you ready, then it's $5,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 790.79,
+      "end_time": 795.15
+    },
+    {
+      "text": "It's not huge outlay and we'll get together all the marketing materials for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 795.23,
+      "end_time": 800.158
+    },
+    {
+      "text": "If you want to do it yourself then that's the options basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 800.214,
+      "end_time": 805.102
+    },
+    {
+      "text": "And you can test the market.",
+      "speaker_name": "Andy Day",
+      "start_time": 805.166,
+      "end_time": 806.49
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 807.43,
+      "end_time": 807.934
+    },
+    {
+      "text": "I mean I would say why don't you send me an email with just like the net.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 808.022,
+      "end_time": 812.178
+    },
+    {
+      "text": "Net process and cost, things like that and I'll have a think about it.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 812.234,
+      "end_time": 819.746
+    },
+    {
+      "text": "You know, if it's truly you know, anonymous risk free retest, you know, might be interested in, in doing that.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 819.818,
+      "end_time": 827.01
+    },
+    {
+      "text": "You know again what, what I'd be interested in is if there was the right culturally aligned, you know again, you know, for example, do you have been.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 827.13,
+      "end_time": 838.78
+    },
+    {
+      "text": "You're in the uk do you know together group, you know those guys?",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 838.82,
+      "end_time": 843.692
+    },
+    {
+      "text": "Yeah, they're based roll up.",
+      "speaker_name": "Andy Day",
+      "start_time": 843.836,
+      "end_time": 846.172
+    },
+    {
+      "text": "Have they approached you?",
+      "speaker_name": "Andy Day",
+      "start_time": 846.196,
+      "end_time": 847.48
+    },
+    {
+      "text": "Yeah, I spoke to them.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 847.86,
+      "end_time": 849.64
+    },
+    {
+      "text": "We were actually one of the.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 850.42,
+      "end_time": 852.36
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 852.98,
+      "end_time": 853.34
+    },
+    {
+      "text": "When they did their first deal with Purple pr.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 853.38,
+      "end_time": 855.66
+    },
+    {
+      "text": "I spoke to the guys there and they had a really interesting model.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 855.78,
+      "end_time": 860.3
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 860.38,
+      "end_time": 860.716
+    },
+    {
+      "text": "That it basically, you know, give you 30% down, 30% over two years and then 30% in equity and or 33% and you know, I thought that was kind of interesting.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 860.788,
+      "end_time": 880.782
+    },
+    {
+      "text": "They're basically rolling it all together.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 880.846,
+      "end_time": 882.686
+    },
+    {
+      "text": "We didn't do that deal but I liked how it was, you know the sort of general structure and I think we'd be again the type of thing we'd look.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 882.838,
+      "end_time": 891.84
+    },
+    {
+      "text": "We'd want to be able to take fair amount off the table but have reasonable upside in a vision towards a second deal.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 891.88,
+      "end_time": 903.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 903.96,
+      "end_time": 904.384
+    },
+    {
+      "text": "So in terms of the anonymity of it.",
+      "speaker_name": "Andy Day",
+      "start_time": 904.432,
+      "end_time": 909.456
+    },
+    {
+      "text": "So basically we put a listing up.",
+      "speaker_name": "Andy Day",
+      "start_time": 909.528,
+      "end_time": 911.248
+    },
+    {
+      "text": "All we send out to get the interesting is what we call a teaser.",
+      "speaker_name": "Andy Day",
+      "start_time": 911.304,
+      "end_time": 914.016
+    },
+    {
+      "text": "So that doesn't include any details of the company.",
+      "speaker_name": "Andy Day",
+      "start_time": 914.128,
+      "end_time": 918.06
+    },
+    {
+      "text": "Once somebody's responded to that, they sign an NDA and then we field those NDAs to you.",
+      "speaker_name": "Andy Day",
+      "start_time": 919,
+      "end_time": 923.28
+    },
+    {
+      "text": "So before we release any details in the next stage we make sure that you're okay with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 923.32,
+      "end_time": 929.152
+    },
+    {
+      "text": "If it's, you know, a rival or somebody that you've dealt with before that you wouldn't want to give details to, obviously you just refuse.",
+      "speaker_name": "Andy Day",
+      "start_time": 929.176,
+      "end_time": 935.54
+    },
+    {
+      "text": "And then if it's somebody you don't mind, we release what's called an im.",
+      "speaker_name": "Andy Day",
+      "start_time": 936.2,
+      "end_time": 939.856
+    },
+    {
+      "text": "And this is the piece that is going to cost time or money for somebody, but once they've got that im, then that's the full details on the deal and what the opportunity is.",
+      "speaker_name": "Andy Day",
+      "start_time": 939.928,
+      "end_time": 950.75
+    },
+    {
+      "text": "And so that's the only point when it becomes an anonymous.",
+      "speaker_name": "Andy Day",
+      "start_time": 951.85,
+      "end_time": 955.298
+    },
+    {
+      "text": "So there's no real way of anybody knowing for sure it's you.",
+      "speaker_name": "Andy Day",
+      "start_time": 955.474,
+      "end_time": 959.442
+    },
+    {
+      "text": "Obviously if you're saying it's a, you know, a drinks agency or whatever, people might think there's only a few good ones that I can think of and they might guess you.",
+      "speaker_name": "Andy Day",
+      "start_time": 959.466,
+      "end_time": 968.43
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 969.93,
+      "end_time": 970.674
+    },
+    {
+      "text": "In terms of the deal structure.",
+      "speaker_name": "Andy Day",
+      "start_time": 970.762,
+      "end_time": 973.058
+    },
+    {
+      "text": "So it's very, very normal to have a deal structure.",
+      "speaker_name": "Andy Day",
+      "start_time": 973.154,
+      "end_time": 976.978
+    },
+    {
+      "text": "Little like together, I would say they're pretty low on the cash offer but a bit higher on the equity.",
+      "speaker_name": "Andy Day",
+      "start_time": 977.074,
+      "end_time": 982.738
+    },
+    {
+      "text": "So usually what we get is something akin to 40% of the cash or 40% of the value upfront then in earnouts over a three year period and like a 20% equity rollover which, which is the kind of standard is around 20, I would say 30 is a bit much, but they're obviously doing that because they're low on capital or whatever their original reason was for doing that.",
+      "speaker_name": "Andy Day",
+      "start_time": 982.834,
+      "end_time": 1008.866
+    },
+    {
+      "text": "Right, yeah, I'm sure it's changed over time.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1008.938,
+      "end_time": 1011.23
+    },
+    {
+      "text": "I think it's still pretty similar the last time I talked to them, but they've been fairly successful and they're going after high end agencies as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1011.77,
+      "end_time": 1019.07
+    },
+    {
+      "text": "But most deals out there are kind of that 40, 40, 20 structure.",
+      "speaker_name": "Andy Day",
+      "start_time": 1021.29,
+      "end_time": 1025.81
+    },
+    {
+      "text": "The other half are just complete buyouts, but they would still structure 50% cash up front and 50% earn out something along those lines.",
+      "speaker_name": "Andy Day",
+      "start_time": 1025.89,
+      "end_time": 1034.906
+    },
+    {
+      "text": "That's the pretty particular types of deals that you're going to see.",
+      "speaker_name": "Andy Day",
+      "start_time": 1035.018,
+      "end_time": 1038.298
+    },
+    {
+      "text": "Yeah, that you're looking at.",
+      "speaker_name": "Andy Day",
+      "start_time": 1038.434,
+      "end_time": 1041.05
+    },
+    {
+      "text": "That's kind of.",
+      "speaker_name": "Andy Day",
+      "start_time": 1041.17,
+      "end_time": 1042.17
+    },
+    {
+      "text": "And what are you seeing in terms of multiple of EBITDA?",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1042.29,
+      "end_time": 1045.47
+    },
+    {
+      "text": "Yeah, well, the same as we discussed on LinkedIn.",
+      "speaker_name": "Andy Day",
+      "start_time": 1046.69,
+      "end_time": 1049.082
+    },
+    {
+      "text": "So four to six, kind of the standard for agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1049.146,
+      "end_time": 1052.122
+    },
+    {
+      "text": "I would say most buyers are kind of looking in that window and most deals sort of end up somewhere in the middle of that, the upper end of that 5.5 or 6x and then beyond that when you get like certain variables that are going to push that up a little bit.",
+      "speaker_name": "Andy Day",
+      "start_time": 1052.186,
+      "end_time": 1069.91
+    },
+    {
+      "text": "So it could be things like you've got amazing clients, it could be that you've got long contracts, it could be just in a sexy space.",
+      "speaker_name": "Andy Day",
+      "start_time": 1069.95,
+      "end_time": 1078.246
+    },
+    {
+      "text": "So, you know, for spirits, for instance, there could be a really good strategic buyer that just wants to be buying your type of agency so that they may, they may push those multiples up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1078.318,
+      "end_time": 1090.572
+    },
+    {
+      "text": "So you might get.",
+      "speaker_name": "Andy Day",
+      "start_time": 1090.596,
+      "end_time": 1091.452
+    },
+    {
+      "text": "So although there's kind of an industry average that ends up around there, you will get one or two points above that depending on the agency and also the quality of the work that you're doing, etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 1091.556,
+      "end_time": 1101.676
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 1101.708,
+      "end_time": 1102.06
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1102.14,
+      "end_time": 1102.812
+    },
+    {
+      "text": "And also, like I mentioned before, you know, if you've got a, A management team in place, you know, if you, if you've got great margins, you know, there's all sorts of things that would push it up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1102.996,
+      "end_time": 1113.07
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1113.69,
+      "end_time": 1114.514
+    },
+    {
+      "text": "Take a look at the books to sort of give you what we would say.",
+      "speaker_name": "Andy Day",
+      "start_time": 1114.602,
+      "end_time": 1117.778
+    },
+    {
+      "text": "You know, we're confident in pitching you at this price.",
+      "speaker_name": "Andy Day",
+      "start_time": 1117.834,
+      "end_time": 1120.994
+    },
+    {
+      "text": "That's part of the valuation process that we do and that's part of that 5k.",
+      "speaker_name": "Andy Day",
+      "start_time": 1121.082,
+      "end_time": 1126.386
+    },
+    {
+      "text": "So to get you ready for market, to get you valued, to go through your books, you know, to really be able to dig down and tell you what your EBITDA probably is, because we can make some adjustments, give you evaluation, then create that marketing materials in response to those initial bits of interest that we get.",
+      "speaker_name": "Andy Day",
+      "start_time": 1126.458,
+      "end_time": 1143.484
+    },
+    {
+      "text": "So, yeah, I mean, an email sent over and see how you do with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1143.572,
+      "end_time": 1148.156
+    },
+    {
+      "text": "I can follow you in a couple of weeks to see where you're at.",
+      "speaker_name": "Andy Day",
+      "start_time": 1148.228,
+      "end_time": 1151.88
+    },
+    {
+      "text": "Yeah, sounds good.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1152.34,
+      "end_time": 1153.26
+    },
+    {
+      "text": "And either way, let's just, you know, we can stay in touch and see as things evolve, obviously as our, you know, EBITDA hopefully grows over time, then it.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1153.3,
+      "end_time": 1166.142
+    },
+    {
+      "text": "Deals become more interesting.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1166.236,
+      "end_time": 1167.882
+    },
+    {
+      "text": "Well, 20% is pretty good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1168.026,
+      "end_time": 1169.802
+    },
+    {
+      "text": "I would say it doesn't really need to grow.",
+      "speaker_name": "Andy Day",
+      "start_time": 1169.826,
+      "end_time": 1171.274
+    },
+    {
+      "text": "A lot of buyers who, you know, the smart buyers are actually looking for that 20% because what it does.",
+      "speaker_name": "Andy Day",
+      "start_time": 1171.362,
+      "end_time": 1176.906
+    },
+    {
+      "text": "10.",
+      "speaker_name": "Andy Day",
+      "start_time": 1176.978,
+      "end_time": 1177.402
+    },
+    {
+      "text": "No, sorry, not, not the percentage, but the total.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1177.506,
+      "end_time": 1180.362
+    },
+    {
+      "text": "Right, right.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1180.466,
+      "end_time": 1182.986
+    },
+    {
+      "text": "Just, you know, like if it's 20% of 10 million, it's.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1183.058,
+      "end_time": 1188.65
+    },
+    {
+      "text": "Of course, if you do 400 million, then 20 is awesome.",
+      "speaker_name": "Andy Day",
+      "start_time": 1188.81,
+      "end_time": 1192.43
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1192.82,
+      "end_time": 1193.58
+    },
+    {
+      "text": "You know.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1193.66,
+      "end_time": 1194.012
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1194.036,
+      "end_time": 1194.188
+    },
+    {
+      "text": "Okay, well, 20 is a good margin.",
+      "speaker_name": "Andy Day",
+      "start_time": 1194.204,
+      "end_time": 1195.644
+    },
+    {
+      "text": "So of course, yeah, if you, if you're doing 10 million next year, that's even better.",
+      "speaker_name": "Andy Day",
+      "start_time": 1195.692,
+      "end_time": 1199.48
+    },
+    {
+      "text": "But what I would say, Jess, if I'm talking to you, that it's quite important to you that you get that cultural aspect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1200.58,
+      "end_time": 1205.372
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1205.436,
+      "end_time": 1205.948
+    },
+    {
+      "text": "And really I think this is where the opportunity is with something like agencies or any other M and a advisory you choose to go with that can put a process together for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1206.084,
+      "end_time": 1215.26
+    },
+    {
+      "text": "Because what happens is people knock on your door and they're in charge of the driving seat, you know, they're probably speaking to or at least in contact 100 agencies, at least.",
+      "speaker_name": "Andy Day",
+      "start_time": 1215.38,
+      "end_time": 1227.21
+    },
+    {
+      "text": "They may be speaking seriously to two or three at any given moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 1227.25,
+      "end_time": 1231.402
+    },
+    {
+      "text": "So they're really in the driving seat when it comes to getting a good deal for them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1231.546,
+      "end_time": 1235.146
+    },
+    {
+      "text": "But for you to get a good deal, the only way I can guarantee that you're going to get a good match and get good chemistry and good culture fit for your people is for you to be in the driver's seat, for you to have three or four serious contenders at the table, and for you to pick the one that is the best fit.",
+      "speaker_name": "Andy Day",
+      "start_time": 1235.298,
+      "end_time": 1251.418
+    },
+    {
+      "text": "And the only way you can do that is to go to market and be for sale.",
+      "speaker_name": "Andy Day",
+      "start_time": 1251.434,
+      "end_time": 1256.614
+    },
+    {
+      "text": "But it can all be completely anonymous.",
+      "speaker_name": "Andy Day",
+      "start_time": 1256.742,
+      "end_time": 1258.438
+    },
+    {
+      "text": "There's no sign outside the door.",
+      "speaker_name": "Andy Day",
+      "start_time": 1258.454,
+      "end_time": 1259.734
+    },
+    {
+      "text": "Nobody knows.",
+      "speaker_name": "Andy Day",
+      "start_time": 1259.782,
+      "end_time": 1260.73
+    },
+    {
+      "text": "Your people shouldn't know either.",
+      "speaker_name": "Andy Day",
+      "start_time": 1261.39,
+      "end_time": 1262.726
+    },
+    {
+      "text": "I mean, it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1262.758,
+      "end_time": 1263.382
+    },
+    {
+      "text": "It's important.",
+      "speaker_name": "Andy Day",
+      "start_time": 1263.446,
+      "end_time": 1264.278
+    },
+    {
+      "text": "Not even to let them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1264.414,
+      "end_time": 1265.814
+    },
+    {
+      "text": "Agreed.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1265.982,
+      "end_time": 1266.774
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1266.902,
+      "end_time": 1267.61
+    },
+    {
+      "text": "Anyway, perfect.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1268.43,
+      "end_time": 1269.43
+    },
+    {
+      "text": "Well, thanks.",
+      "speaker_name": "Andy Day",
+      "start_time": 1269.51,
+      "end_time": 1270.406
+    },
+    {
+      "text": "Great to meet you, man.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1270.598,
+      "end_time": 1271.59
+    },
+    {
+      "text": "Yeah, thanks so much.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1271.63,
+      "end_time": 1272.502
+    },
+    {
+      "text": "Let's stay in touch.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1272.526,
+      "end_time": 1273.622
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1273.766,
+      "end_time": 1274.134
+    },
+    {
+      "text": "Good to speak to you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1274.182,
+      "end_time": 1274.87
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1274.91,
+      "end_time": 1275.142
+    },
+    {
+      "text": "Have a great day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1275.166,
+      "end_time": 1275.862
+    },
+    {
+      "text": "Have you too.",
+      "speaker_name": "Jesse Resnick (Ei)",
+      "start_time": 1275.966,
+      "end_time": 1276.71
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andy Day",
+      "start_time": 1276.75,
+      "end_time": 1276.918
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A",
+      "digital agency",
+      "EBITDA multiples",
+      "deal structure",
+      "agency valuation",
+      "market trends"
+    ],
+    "action_items": "\n**Jesse Resnick**\nConsider listing EI Digital on Agencies Co platform (13:27)\n\n**Andy Day**\nSend email with process details and costs for listing on Agencies Co (13:27)\nFollow up with Jesse in a couple of weeks to check on decision (19:12)\n",
+    "outline": null,
+    "overview": "The Exploratory Business Discussion meeting between Jesse Resnick and Andy Day focused on the potential alignment between their companies, with Resnick representing EI Digital, a boutique integrated agency, and Day from Capital A Group, an M&A advisory firm. The meeting began with an overview of EI Digital's work with spirits brands, medical aesthetics, and ad tech, emphasizing their strategy and service offerings. It highlighted their financials, noting a goal of $7 million in revenue with a 20% profit margin for the year. The discussions evolved into an analysis of the current M&A landscape, characterized by active market conditions and typical deal structures for agencies, along with the importance of anonymity during the listing process. Action items included Resnick's consideration of listing EI Digital on the Agencies Co platform and Day's commitment to provide further details and follow up on the decision in the coming weeks.",
+    "short_summary": "Jesse Resnick from EI Digital and Andy Day from Capital A Group met to discuss potential collaboration between their companies. EI Digital, a boutique agency, specializes in brand and performance strategies for sectors like spirits, medical aesthetics, and ad tech, targeting $7 million in revenue with a 20% profit margin for the year. The conversation also delved into the current M&A landscape, revealing a buoyant market with typical deal structures involving 40% upfront payments, 40% earnouts, and 20% equity rollovers. EBITDA multiples for agencies range from 4 to 6, highlighting the active nature of the market. Action items included Resnick considering listing EI Digital on the Agencies Co platform, while Day committed to follow up with further details in the coming weeks.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JMEZ8VTJ6TG8G8BYYQ7SC7ZA",
+  "audio_url": "https://cdn.fireflies.ai/01JMEZ8VTJ6TG8G8BYYQ7SC7ZA/audio.mp3?Expires=1773220871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSk1FWjhWVEo2VEc4RzhCWVlRN1NDN1pBL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg3MX19fV19&Signature=ffwbWLSIsTsPQ822Lu3rAjEUVV78yfwGKUI8mNfNaa062ZbOWLRgAA0uHv~J2bckO9DQH~Ir6X8wy1SGrf7W7yhm3l8iyUDTbNbMsE3viS5SLOGKL7znpNyJet8xRdF3zE~fayRTefAWxFvv4ulUfQ~vnFyJTcp3xx2tCighw9wmYp5rLT3HiQRc3z4WghfFAb10-JrlV5iXAM6xQwXkZWa75XNTccVTNZTDypuzQU0yZRipG0mw6jyXJU3StFsLzXP4IYoD0zvCMM1fAcmttjJkZMXKJP~d082kP0sWCaKhyB2xDXqmjykztuuOBvgICGDt5iaEjiQ3xmqSJ3CfpA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

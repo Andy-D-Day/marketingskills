@@ -1,0 +1,3160 @@
+{
+  "id": "01JRZEP0BWMV0Y3EMQ7BW9XJM4",
+  "title": "Joe / Andy",
+  "date": 1744815600000,
+  "dateString": "2025-04-16T15:00:00.000Z",
+  "duration": 37.68000030517578,
+  "participants": [
+    "andrew.day@capitala.co,joe@noise.com,andy.day@capitala.co",
+    "joe@noise.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "joe@noise.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Andy Day",
+      "start_time": 0.72,
+      "end_time": 2.62
+    },
+    {
+      "text": "Hey, Andy, how you doing?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 24.64,
+      "end_time": 27.576
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 27.648,
+      "end_time": 28.552
+    },
+    {
+      "text": "Yeah, I'm good.",
+      "speaker_name": "Andy Day",
+      "start_time": 28.736,
+      "end_time": 29.624
+    },
+    {
+      "text": "Really good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.712,
+      "end_time": 30.936
+    },
+    {
+      "text": "How about you?",
+      "speaker_name": "Andy Day",
+      "start_time": 31.088,
+      "end_time": 32.02
+    },
+    {
+      "text": "Your background looks beautiful, by the way.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 35.2,
+      "end_time": 36.984
+    },
+    {
+      "text": "It looks fake, doesn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 37.072,
+      "end_time": 38.488
+    },
+    {
+      "text": "Like puts this little outline around me.",
+      "speaker_name": "Andy Day",
+      "start_time": 38.624,
+      "end_time": 40.872
+    },
+    {
+      "text": "Like it's not.",
+      "speaker_name": "Andy Day",
+      "start_time": 40.896,
+      "end_time": 41.4
+    },
+    {
+      "text": "I'm not really there.",
+      "speaker_name": "Andy Day",
+      "start_time": 41.44,
+      "end_time": 42.152
+    },
+    {
+      "text": "I don't know why it does this.",
+      "speaker_name": "Andy Day",
+      "start_time": 42.176,
+      "end_time": 43.432
+    },
+    {
+      "text": "Where are you?",
+      "speaker_name": "Andy Day",
+      "start_time": 43.616,
+      "end_time": 44.66
+    },
+    {
+      "text": "We're in the countryside.",
+      "speaker_name": "Andy Day",
+      "start_time": 45.92,
+      "end_time": 47.32
+    },
+    {
+      "text": "So we're on top of a hill.",
+      "speaker_name": "Andy Day",
+      "start_time": 47.4,
+      "end_time": 48.728
+    },
+    {
+      "text": "Our house.",
+      "speaker_name": "Andy Day",
+      "start_time": 48.824,
+      "end_time": 49.384
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.472,
+      "end_time": 49.88
+    },
+    {
+      "text": "Top of a hill.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.96,
+      "end_time": 50.792
+    },
+    {
+      "text": "I look overlooking Somerset, which is.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.856,
+      "end_time": 53.22
+    },
+    {
+      "text": "Which is in the southwest of England.",
+      "speaker_name": "Andy Day",
+      "start_time": 55.24,
+      "end_time": 56.928
+    },
+    {
+      "text": "So it's very beautiful.",
+      "speaker_name": "Andy Day",
+      "start_time": 57.024,
+      "end_time": 57.92
+    },
+    {
+      "text": "Lots of apple trees and cows.",
+      "speaker_name": "Andy Day",
+      "start_time": 58,
+      "end_time": 59.632
+    },
+    {
+      "text": "So it's a bit like upstate New York sort of area.",
+      "speaker_name": "Andy Day",
+      "start_time": 59.776,
+      "end_time": 63.26
+    },
+    {
+      "text": "I love it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 63.56,
+      "end_time": 64.144
+    },
+    {
+      "text": "It looks beautiful.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 64.152,
+      "end_time": 65.22
+    },
+    {
+      "text": "Yeah, it's cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 66.2,
+      "end_time": 67.024
+    },
+    {
+      "text": "How's things been with you?",
+      "speaker_name": "Andy Day",
+      "start_time": 67.072,
+      "end_time": 68.096
+    },
+    {
+      "text": "Been busy.",
+      "speaker_name": "Andy Day",
+      "start_time": 68.168,
+      "end_time": 69.06
+    },
+    {
+      "text": "Been busy.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 69.4,
+      "end_time": 70.56
+    },
+    {
+      "text": "Things have been good.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 70.72,
+      "end_time": 71.888
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 72.024,
+      "end_time": 72.752
+    },
+    {
+      "text": "I think last time we chatted I was.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 72.936,
+      "end_time": 74.928
+    },
+    {
+      "text": "There's a lot of crazy things happening.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 75.064,
+      "end_time": 77.46
+    },
+    {
+      "text": "So a couple, a few family things I have to deal with and pull me away a bit.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 78.36,
+      "end_time": 83.572
+    },
+    {
+      "text": "But back in it excited, have some updates.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 83.596,
+      "end_time": 86.964
+    },
+    {
+      "text": "I thought about you.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 87.012,
+      "end_time": 88.052
+    },
+    {
+      "text": "I chatted with Ian, think went really well.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 88.156,
+      "end_time": 90.64
+    },
+    {
+      "text": "You know, no action items there yet.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 91.42,
+      "end_time": 93.3
+    },
+    {
+      "text": "You know, I.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 93.42,
+      "end_time": 93.972
+    },
+    {
+      "text": "I think where I'm at and I think I mentioned this last time just to kind of get right into it is, you know, we kind of have these two opportunities.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 93.996,
+      "end_time": 101.732
+    },
+    {
+      "text": "I know we talked about this.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 101.796,
+      "end_time": 102.82
+    },
+    {
+      "text": "There's a one where we raise as a Holdco and I know for then we even go through the deck and I can kind of go through it very quickly today or another one where I don't do a Holdco model and I bring in like call it three specific partners for the three specific routes.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 102.86,
+      "end_time": 118.44
+    },
+    {
+      "text": "I see pros and cons to both.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 119.58,
+      "end_time": 122.48
+    },
+    {
+      "text": "I do think the one obvious pro to not doing a Hold co is I'd be able to move pretty quickly.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 124.62,
+      "end_time": 129.988
+    },
+    {
+      "text": "And that's kind of why I also thought about you is I actually had a pretty good conversation with, you know, I wouldn't call him fully a business partner, but I worked with Ryan Serhan as you know, for almost a decade and built, you know, co founded the company with him and all these crazy things and you know, made him a lot of money and he's obviously on top of the world right now, especially in real estate and so working through finalizing something, something there confidentially and what that would look like is mainly agency and software specifically geared towards real estate agents or the real estate community and you know, launching nre, which is noise real estate.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 130.084,
+      "end_time": 170.88
+    },
+    {
+      "text": "So similar to like, you know, lots of other agencies launch like Ogilvy Mexico and whatever.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 171.54,
+      "end_time": 176.636
+    },
+    {
+      "text": "As you know, we have noise Latin 2.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 176.748,
+      "end_time": 178.172
+    },
+    {
+      "text": "We're MBE certified, we're bilingual, 100 minority owned.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 178.196,
+      "end_time": 181.36
+    },
+    {
+      "text": "We started with personal branding and real estate and obviously we've grown to being like this pretty vertical agnostic, you know, full service ad agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 181.7,
+      "end_time": 190.09
+    },
+    {
+      "text": "What throws a curveball into all this is my passion and our passion for not only, you know, building other people's brands, but creating our own.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 191.23,
+      "end_time": 198.37
+    },
+    {
+      "text": "And so that's what, you know, about a year and a half ago I was like, you know what, it's time to raise.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 198.67,
+      "end_time": 205.45
+    },
+    {
+      "text": "And really, you know, I think using the word raise is probably the wrong word.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 206.03,
+      "end_time": 209.846
+    },
+    {
+      "text": "It's more so like time to bring in strategic partners and a little bit of capital to really get these things up and running.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 209.878,
+      "end_time": 215.536
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 215.648,
+      "end_time": 216.42
+    },
+    {
+      "text": "Separate from the ventures.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 217.16,
+      "end_time": 218.224
+    },
+    {
+      "text": "The agency too.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 218.272,
+      "end_time": 219.184
+    },
+    {
+      "text": "So that's a, that's update.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 219.272,
+      "end_time": 221.184
+    },
+    {
+      "text": "I can go more into that conversation I had.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 221.232,
+      "end_time": 223.488
+    },
+    {
+      "text": "I can also take you through the deck.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 223.544,
+      "end_time": 225.3
+    },
+    {
+      "text": "Yeah, let's do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 226.76,
+      "end_time": 227.648
+    },
+    {
+      "text": "Let's, let's.",
+      "speaker_name": "Andy Day",
+      "start_time": 227.704,
+      "end_time": 228.704
+    },
+    {
+      "text": "Well first of all, what's the conversation that you had?",
+      "speaker_name": "Andy Day",
+      "start_time": 228.752,
+      "end_time": 231.04
+    },
+    {
+      "text": "So you, you're looking to build a real estate business under the Noise brand.",
+      "speaker_name": "Andy Day",
+      "start_time": 231.08,
+      "end_time": 236.14
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 236.77,
+      "end_time": 237.338
+    },
+    {
+      "text": "So let me just pull this up real quick because this will give you some.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 237.434,
+      "end_time": 246.73
+    },
+    {
+      "text": "Oh, do you mind giving me sharing capes?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 246.77,
+      "end_time": 249.31
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 249.65,
+      "end_time": 250.63
+    },
+    {
+      "text": "All right, so I know we didn't go through this last time, but this is.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 268.379,
+      "end_time": 273.379
+    },
+    {
+      "text": "Can you see this deck?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 273.419,
+      "end_time": 274.435
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 274.547,
+      "end_time": 275.395
+    },
+    {
+      "text": "So this is what I started.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 275.587,
+      "end_time": 276.659
+    },
+    {
+      "text": "As you can see February 2024.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 276.699,
+      "end_time": 278.355
+    },
+    {
+      "text": "It obviously took a while to get to this looking like it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 278.427,
+      "end_time": 281.827
+    },
+    {
+      "text": "It does now.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 281.883,
+      "end_time": 282.739
+    },
+    {
+      "text": "It's it, you know, we've iterated a bit more and we've changed this up a little bit and you know, minor things but pretty much story tells, you know, how we got started and all the things.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 282.859,
+      "end_time": 294.168
+    },
+    {
+      "text": "And the reason why I'm bringing this up now is because I want to just go very quickly to this.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 294.224,
+      "end_time": 303.94
+    },
+    {
+      "text": "So this is technically what if we, if we raise as a holdco.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 304.96,
+      "end_time": 311.096
+    },
+    {
+      "text": "But also like what people know of us, like this is technically what the model looks like.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 311.288,
+      "end_time": 315.702
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 315.816,
+      "end_time": 316.522
+    },
+    {
+      "text": "You know most people just see Noise as an agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 316.706,
+      "end_time": 319.594
+    },
+    {
+      "text": "They know we create our own brands.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 319.642,
+      "end_time": 321.066
+    },
+    {
+      "text": "They know the linkage to Ryan.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 321.098,
+      "end_time": 322.442
+    },
+    {
+      "text": "They know that I co founded the company Orion.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 322.506,
+      "end_time": 324.426
+    },
+    {
+      "text": "They know we started thing called Boost.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 324.458,
+      "end_time": 326.19
+    },
+    {
+      "text": "They kind of know of Noise Latin which is officially publicly launching this Mother's Day.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 327.41,
+      "end_time": 331.402
+    },
+    {
+      "text": "I can tell you more about that too.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 331.426,
+      "end_time": 332.906
+    },
+    {
+      "text": "And this is the real estate division that I mentioned in order, you know, we've made investments too in order to get these off the ground.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 333.058,
+      "end_time": 342.162
+    },
+    {
+      "text": "Know was going to bring in partners for each one and then we, you know, I had mentioned that hey, maybe it's best to you know, raise as a hold company.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 342.306,
+      "end_time": 352.754
+    },
+    {
+      "text": "But long story short, conversations with Ryan would be similar to lots of agencies that bring in a partner.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 352.842,
+      "end_time": 358.642
+    },
+    {
+      "text": "It'd be Ryan for the real estate side of the agency, but also the flagship.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 358.706,
+      "end_time": 363.762
+    },
+    {
+      "text": "So technically all the agencies.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 363.906,
+      "end_time": 366.31
+    },
+    {
+      "text": "I could leave him out of the Latin side because you know, to be honest, doesn't really make much sense.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 368.18,
+      "end_time": 373.004
+    },
+    {
+      "text": "But he's big enough where he's super likable and has millions of followers and he's going on the third season of Netflix now so and have you know, there's also like that feel good story, you know, if his former head of marketing, CMO etc, you know, he's investing in him and trying to build the next, you know, Mojo supermarket.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 373.052,
+      "end_time": 387.708
+    },
+    {
+      "text": "The next ogle will be vaynermedia.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 387.724,
+      "end_time": 389.036
+    },
+    {
+      "text": "Anyway, so the quick route is bring in someone like Orion, bring in some cash and launch the software I mentioned, which is an agency tool and real estate software and then have a partner also in the agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 389.068,
+      "end_time": 405.344
+    },
+    {
+      "text": "And then all of this stuff you're seeing here.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 405.472,
+      "end_time": 407.68
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 407.8,
+      "end_time": 408.46
+    },
+    {
+      "text": "I would, I wouldn't say put it on pause but really the two that we're talking about are these two Latin brands really don't better like in terms of like the brand and the iPad that's probably not in the one or two year purview because again Money two we'd make faster money if you will with the agency and the software and the other brands and you know, technically it'll always be there by doing this the brand grows.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 409.08,
+      "end_time": 434.304
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 434.432,
+      "end_time": 434.72
+    },
+    {
+      "text": "There's opportunities right now with you know, I having having really good conversations.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 434.76,
+      "end_time": 439.424
+    },
+    {
+      "text": "I think I mentioned with Forbes.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 439.472,
+      "end_time": 441.14
+    },
+    {
+      "text": "We're really close to them and they.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 442.36,
+      "end_time": 446.786
+    },
+    {
+      "text": "We've been talking about doing some sort of JV for content production on a couple new series on people making noise.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 446.938,
+      "end_time": 453.234
+    },
+    {
+      "text": "So there's a lot of stuff on the table.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 453.362,
+      "end_time": 455.202
+    },
+    {
+      "text": "But as you know, the only way we make money and not a lot of it so far is by selling, you know, our agency and our time through various project fees and retainers.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 455.346,
+      "end_time": 466.87
+    },
+    {
+      "text": "So that's, that's the major update.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 467.69,
+      "end_time": 469.346
+    },
+    {
+      "text": "Obviously this deck is way longer.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 469.378,
+      "end_time": 471.074
+    },
+    {
+      "text": "It goes into the agency and what it's comprised of, you, you know, of this stuff.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 471.202,
+      "end_time": 478.094
+    },
+    {
+      "text": "So I'll just like skim.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 478.142,
+      "end_time": 479.15
+    },
+    {
+      "text": "This is the real estate division I mentioned we'd be launching this real estate agent, sas.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 479.23,
+      "end_time": 483.118
+    },
+    {
+      "text": "We have the architecture and design division and then this is the venture studio.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 483.294,
+      "end_time": 487.854
+    },
+    {
+      "text": "The two big ones are Rio and better like which we built and they're all done and they, I think they look incredible and people are really interested in them.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 487.982,
+      "end_time": 496.09
+    },
+    {
+      "text": "This one to Be honest.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 496.71,
+      "end_time": 497.614
+    },
+    {
+      "text": "And we've talked about.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 497.662,
+      "end_time": 498.35
+    },
+    {
+      "text": "This is actually the only one we talked about last time.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 498.39,
+      "end_time": 500.49
+    },
+    {
+      "text": "It's more of a social capital play.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 502.3,
+      "end_time": 504.068
+    },
+    {
+      "text": "We're investors in major food group which is huge for us.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 504.124,
+      "end_time": 506.372
+    },
+    {
+      "text": "We also are part owners in a club here.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 506.396,
+      "end_time": 508.212
+    },
+    {
+      "text": "Minor but really great for social capital.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 508.316,
+      "end_time": 510.068
+    },
+    {
+      "text": "And yes we make some money off it but this would be truly ours.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 510.124,
+      "end_time": 514.36
+    },
+    {
+      "text": "There's people really interested in just getting this started but it's really not fully necessary in the first year or two either.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 515.1,
+      "end_time": 521.716
+    },
+    {
+      "text": "It's really just these two plus the agencies and the software.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 521.748,
+      "end_time": 524.788
+    },
+    {
+      "text": "These are investments, brand stuff we talked about.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 524.964,
+      "end_time": 529.33
+    },
+    {
+      "text": "Again I'm flying right now.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 529.37,
+      "end_time": 531.07
+    },
+    {
+      "text": "So there's a, there is.",
+      "speaker_name": "Andy Day",
+      "start_time": 533.05,
+      "end_time": 534.642
+    },
+    {
+      "text": "I mean there's a lot of noise in there.",
+      "speaker_name": "Andy Day",
+      "start_time": 534.666,
+      "end_time": 536.51
+    },
+    {
+      "text": "So what are you looking to do?",
+      "speaker_name": "Andy Day",
+      "start_time": 538.65,
+      "end_time": 540.05
+    },
+    {
+      "text": "Your, your main thing right now that you're focused on is raising investment from investors to put into the sort of agency group.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.09,
+      "end_time": 549.31
+    },
+    {
+      "text": "So it's either that or bring or bring in three partners.",
+      "speaker_name": "Andy Day",
+      "start_time": 550.25,
+      "end_time": 553.304
+    },
+    {
+      "text": "Well these are the two options that you're looking at and the, the partners would come in as the alternative to what you've just showed me.",
+      "speaker_name": "Andy Day",
+      "start_time": 553.402,
+      "end_time": 559.852
+    },
+    {
+      "text": "They would come in to help you build and run a full stack agency basically which would be quicker because you don't have to raise the money so.",
+      "speaker_name": "Andy Day",
+      "start_time": 559.956,
+      "end_time": 569.148
+    },
+    {
+      "text": "Right, exactly.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 569.204,
+      "end_time": 571.28
+    },
+    {
+      "text": "I also summarize it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 571.86,
+      "end_time": 573.212
+    },
+    {
+      "text": "I know there's a lot of noise in there like you said and that's kind of why I was like you know what, let me be just move quicker and just start getting things done, know start getting wins on the board but big thing is that we want to do.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 573.236,
+      "end_time": 584.834
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 584.922,
+      "end_time": 585.234
+    },
+    {
+      "text": "There's really just five steps.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 585.282,
+      "end_time": 586.514
+    },
+    {
+      "text": "First thing is poaching agency veteran to help scale the agency, bring in larger clients and create award winning work.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 586.562,
+      "end_time": 593.09
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 593.21,
+      "end_time": 593.634
+    },
+    {
+      "text": "So versus me bringing in all the work right now.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 593.722,
+      "end_time": 597.074
+    },
+    {
+      "text": "I don't like to say this but I wouldn't say it's fatter dependent but most of the leads come through like my brand and you know it's not great.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 597.242,
+      "end_time": 604.178
+    },
+    {
+      "text": "We are pitching some really big gigs right now and have some big clients but that's the first thing.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 604.314,
+      "end_time": 610.61
+    },
+    {
+      "text": "Launch our two ventures plus the software you mentioned actually get an office and that's pretty much it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 610.91,
+      "end_time": 618.93
+    },
+    {
+      "text": "And then we have this which I think is pretty, pretty good.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 620.11,
+      "end_time": 623.462
+    },
+    {
+      "text": "It's basically noise on a slide.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 623.486,
+      "end_time": 625.13
+    },
+    {
+      "text": "So creative company we help build and create brands.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 625.79,
+      "end_time": 628.854
+    },
+    {
+      "text": "In short create noise.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 628.902,
+      "end_time": 630.838
+    },
+    {
+      "text": "The history after successfully building Ryan's real estate media brand empire, you know, building a strong community, we're ready to scale our creative business and create new ip.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 631.014,
+      "end_time": 641.27
+    },
+    {
+      "text": "We have our comps here.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 641.85,
+      "end_time": 643.394
+    },
+    {
+      "text": "There's really just three Parts of it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 643.562,
+      "end_time": 645.042
+    },
+    {
+      "text": "There's the agency, venture, and brand mainly starting on the left here and launching a couple things here.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 645.066,
+      "end_time": 651.138
+    },
+    {
+      "text": "And so the two routes is either raise, you know, a significant amount of money.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 651.274,
+      "end_time": 656.178
+    },
+    {
+      "text": "I mean, not in the grand scheme of things, it's not, but, you know, somewhere between call it 6 and 10 million bucks to do all of this, or raise 2 million max, and.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 656.234,
+      "end_time": 667.038
+    },
+    {
+      "text": "And probably a million and a half, you know, between a million and a million and a half from a couple people, Ryan being the lead, launching the couple things I mentioned, and, you know, dealing with the rest later.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 667.094,
+      "end_time": 680.81
+    },
+    {
+      "text": "So that's where we're at.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 681.11,
+      "end_time": 684.17
+    },
+    {
+      "text": "And so I thought of you, you know, because our previous conversation, and I obviously, I religiously read your newsletter, and I think it's really interesting.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 684.55,
+      "end_time": 691.912
+    },
+    {
+      "text": "I think you really know what you're talking about, and I.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 691.976,
+      "end_time": 693.912
+    },
+    {
+      "text": "I think you have great energy.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 693.936,
+      "end_time": 695.176
+    },
+    {
+      "text": "So I was like, you know what?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 695.248,
+      "end_time": 695.992
+    },
+    {
+      "text": "Maybe there's some stuff that I'm not seeing.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 696.016,
+      "end_time": 698.94
+    },
+    {
+      "text": "Do I eventually one day want to roll this up and sell it for a premium?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 700.08,
+      "end_time": 705.9
+    },
+    {
+      "text": "Probably.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 706.56,
+      "end_time": 707.42
+    },
+    {
+      "text": "And I think if we do some damage the next two to four years, I think we could be one of the most exciting agencies in terms of growth and brand, for sure.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 707.84,
+      "end_time": 715.958
+    },
+    {
+      "text": "And I think absolutely can own, absolutely own the real estate and hospitality space, considering our partnership with Ryan and a couple other, you know, work we've done and continue to do.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 716.094,
+      "end_time": 726.086
+    },
+    {
+      "text": "And then at Latin Space, it's still really ripe.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 726.238,
+      "end_time": 728.406
+    },
+    {
+      "text": "And if we can crack one of these ventures where, you know, it creates that padding, I mean, what are you.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 728.518,
+      "end_time": 737.382
+    },
+    {
+      "text": "Looking to build, Joe?",
+      "speaker_name": "Andy Day",
+      "start_time": 737.406,
+      "end_time": 738.374
+    },
+    {
+      "text": "Are you looking to build an empire that's just going to stand forever with Emperor Joe at the top of it?",
+      "speaker_name": "Andy Day",
+      "start_time": 738.422,
+      "end_time": 744.238
+    },
+    {
+      "text": "Or are you looking to build a business over the next three to five years, sell it for a ton of money, and then move on to the next venture, whatever that looks like.",
+      "speaker_name": "Andy Day",
+      "start_time": 744.374,
+      "end_time": 753.15
+    },
+    {
+      "text": "What.",
+      "speaker_name": "Andy Day",
+      "start_time": 753.19,
+      "end_time": 753.39
+    },
+    {
+      "text": "What is the.",
+      "speaker_name": "Andy Day",
+      "start_time": 753.43,
+      "end_time": 754.158
+    },
+    {
+      "text": "What's in your mind as, like, the best outcome?",
+      "speaker_name": "Andy Day",
+      "start_time": 754.214,
+      "end_time": 757.166
+    },
+    {
+      "text": "Because there is, like, a lot of stuff in there.",
+      "speaker_name": "Andy Day",
+      "start_time": 757.278,
+      "end_time": 759.85
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 760.79,
+      "end_time": 761.406
+    },
+    {
+      "text": "No, and.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 761.438,
+      "end_time": 761.742
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 761.766,
+      "end_time": 761.902
+    },
+    {
+      "text": "And this is mostly like the two London read.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 761.926,
+      "end_time": 765.918
+    },
+    {
+      "text": "This is like my Disney map, right?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 765.974,
+      "end_time": 768.35
+    },
+    {
+      "text": "This is like when Walt, like a hundred years before he built Disney, basically, or call it 50, you know, and it was fully realized and he was, you know, older, and he's like, wow, like, this thing I drew 50 years ago actually has basically happened and more.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 768.39,
+      "end_time": 779.868
+    },
+    {
+      "text": "That's what this is for me.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 780.004,
+      "end_time": 781.18
+    },
+    {
+      "text": "Like, I'm not.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 781.22,
+      "end_time": 782.012
+    },
+    {
+      "text": "This isn't like, I'm crazy, but I'm not that crazy, right?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 782.116,
+      "end_time": 785.42
+    },
+    {
+      "text": "I know this would take like 10 to 20 years to fully realize and become like you said, you know, an empire, maybe 10.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 785.46,
+      "end_time": 790.86
+    },
+    {
+      "text": "I think you do it in 10, you know, eight to 10.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 790.9,
+      "end_time": 793.148
+    },
+    {
+      "text": "But I'm open, right?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 793.284,
+      "end_time": 796.332
+    },
+    {
+      "text": "And I don't say that because I don't know what I want.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 796.516,
+      "end_time": 798.636
+    },
+    {
+      "text": "It's more.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 798.708,
+      "end_time": 799.228
+    },
+    {
+      "text": "So would I be willing to absolutely sell my baby?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 799.284,
+      "end_time": 803.478
+    },
+    {
+      "text": "And what I see is as possibly being, you know, for a ton of money, like you said, within three to five years.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 803.494,
+      "end_time": 809.25
+    },
+    {
+      "text": "It depends what that offer could look like.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 810.27,
+      "end_time": 812.71
+    },
+    {
+      "text": "If someone said, I'll give you 2 million bucks for Noise today, I'd say, no, thanks.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 812.83,
+      "end_time": 815.894
+    },
+    {
+      "text": "And that's a good amount of money.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 816.022,
+      "end_time": 817.57
+    },
+    {
+      "text": "That's just in the confidence.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 818.91,
+      "end_time": 819.894
+    },
+    {
+      "text": "If I know what I could build over the next, call it three to five years.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 819.942,
+      "end_time": 822.39
+    },
+    {
+      "text": "Like you said, I think Noise can be an empire.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 822.43,
+      "end_time": 826.17
+    },
+    {
+      "text": "I would always love to be a part of it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 826.97,
+      "end_time": 829.39
+    },
+    {
+      "text": "I would be dumb if I didn't say I wouldn't be open to the three to five year or the six to ten year outcome, but I would always.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 829.85,
+      "end_time": 838.43
+    },
+    {
+      "text": "Which I think is good for the purchaser and multiple purchasers.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 838.81,
+      "end_time": 841.874
+    },
+    {
+      "text": "I would always love to be involved.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 841.922,
+      "end_time": 843.35
+    },
+    {
+      "text": "Doesn't mean I need to own, you know, a ton of it, but definitely a little bit to be excited and incentivized to still be a part of something that I helped, you know, I dedicated my life, you know, 10 to 15 years building.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 843.77,
+      "end_time": 853.994
+    },
+    {
+      "text": "So, you know, to over.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 854.082,
+      "end_time": 857.578
+    },
+    {
+      "text": "To really simplify this, you know, Noise is comprised of agencies.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 857.634,
+      "end_time": 861.946
+    },
+    {
+      "text": "It clearly has a competitive advantage in real estate in Latin.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 862.058,
+      "end_time": 865.23
+    },
+    {
+      "text": "And we have these two Latin brands and these very clear niche software plays that I think could absolutely print money very quickly with the right amount of money and partner.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 866.85,
+      "end_time": 876.826
+    },
+    {
+      "text": "So that's not a lot, but when you throw an open pizzeria and there's like a brand and then there's this, that's the vision.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 877.018,
+      "end_time": 882.644
+    },
+    {
+      "text": "Like, I can just go, I can take this 30 page that can make it 10 and go, we're an agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 882.692,
+      "end_time": 887.364
+    },
+    {
+      "text": "We've made money with nothing.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 887.412,
+      "end_time": 889.444
+    },
+    {
+      "text": "We've bootstrapped it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 889.492,
+      "end_time": 890.692
+    },
+    {
+      "text": "We're going to raise a little bit to grow that.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 890.796,
+      "end_time": 892.74
+    },
+    {
+      "text": "And it's other agencies under it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 892.78,
+      "end_time": 894.868
+    },
+    {
+      "text": "There's two very specific spaces that we know we can absolutely crush Latin and real estate.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 894.924,
+      "end_time": 899.844
+    },
+    {
+      "text": "That being said, we basically run an agnostic, vertical agnostic agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 899.972,
+      "end_time": 903.796
+    },
+    {
+      "text": "And sure, I can tell you, like, where we make most of our money, service wise and vertical wise.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 903.828,
+      "end_time": 907.274
+    },
+    {
+      "text": "But again, agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 907.372,
+      "end_time": 908.766
+    },
+    {
+      "text": "And there's two very clear ways that can make us massive multiples between software and brand.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 908.878,
+      "end_time": 915.998
+    },
+    {
+      "text": "And that's it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 916.054,
+      "end_time": 916.59
+    },
+    {
+      "text": "That's what we do.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 916.63,
+      "end_time": 917.454
+    },
+    {
+      "text": "We help build clients, brands and we build our own.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 917.542,
+      "end_time": 919.95
+    },
+    {
+      "text": "All right, let's just get into it.",
+      "speaker_name": "Andy Day",
+      "start_time": 920.07,
+      "end_time": 921.902
+    },
+    {
+      "text": "So where, where you're at now.",
+      "speaker_name": "Andy Day",
+      "start_time": 921.926,
+      "end_time": 923.31
+    },
+    {
+      "text": "So of all of that stuff that's on that one sheet that says this is noise, where are you right now?",
+      "speaker_name": "Andy Day",
+      "start_time": 923.43,
+      "end_time": 929.502
+    },
+    {
+      "text": "You've got noise and it's an agency and it's you.",
+      "speaker_name": "Andy Day",
+      "start_time": 929.526,
+      "end_time": 932.43
+    },
+    {
+      "text": "And how big is your team?",
+      "speaker_name": "Andy Day",
+      "start_time": 932.47,
+      "end_time": 934.09
+    },
+    {
+      "text": "We're about 10.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 934.9,
+      "end_time": 936.2
+    },
+    {
+      "text": "And are they full time or contractors?",
+      "speaker_name": "Andy Day",
+      "start_time": 936.5,
+      "end_time": 938.88
+    },
+    {
+      "text": "Two to three full time and then seven part time and contractor.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 940.42,
+      "end_time": 946.4
+    },
+    {
+      "text": "But I've done the thing like most agencies do.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 947.54,
+      "end_time": 951.08
+    },
+    {
+      "text": "I have part time and contractors that basically full, like feel like full time and part time.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 951.54,
+      "end_time": 958.428
+    },
+    {
+      "text": "So all of our contractors are basically part time waiting on a full time offer and our part times are, you know, making actually a decent salary.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 958.484,
+      "end_time": 966.844
+    },
+    {
+      "text": "They're just not W2.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 966.892,
+      "end_time": 968.188
+    },
+    {
+      "text": "What's, what's your revenue at the moment?",
+      "speaker_name": "Andy Day",
+      "start_time": 968.324,
+      "end_time": 970.156
+    },
+    {
+      "text": "Do you know what, what it is, roughly?",
+      "speaker_name": "Andy Day",
+      "start_time": 970.188,
+      "end_time": 971.9
+    },
+    {
+      "text": "Ballpark?",
+      "speaker_name": "Andy Day",
+      "start_time": 971.98,
+      "end_time": 972.972
+    },
+    {
+      "text": "Yeah, it's pretty small.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 973.116,
+      "end_time": 974.204
+    },
+    {
+      "text": "It's, you know, we've consistently done anywhere between, you know, a million and one.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 974.292,
+      "end_time": 979.596
+    },
+    {
+      "text": "We had a 17 year.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 979.668,
+      "end_time": 981.32
+    },
+    {
+      "text": "I think this year if we really, really push, we can beat the 2 million mark.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 983.06,
+      "end_time": 987.64
+    },
+    {
+      "text": "I think if we do what I was kind of just saying or explaining to you, I, I think we can easily double that very quickly, year over year.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 988.03,
+      "end_time": 997.89
+    },
+    {
+      "text": "And what's your profit margin on that?",
+      "speaker_name": "Andy Day",
+      "start_time": 998.59,
+      "end_time": 1001.01
+    },
+    {
+      "text": "I'd have to give you, I'd have to look through to give you the exact number.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1002.19,
+      "end_time": 1005.654
+    },
+    {
+      "text": "But I think from project to project we always get to, you know, call it on the low end, probably 35% on some as high as like 60%.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1005.742,
+      "end_time": 1017.072
+    },
+    {
+      "text": "So if you took the average probably somewhere between, you know, around 50.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1017.256,
+      "end_time": 1020.048
+    },
+    {
+      "text": "And that's just because I'm really aggressive and I try to find ways to maybe not the smartest sometimes, you know, get on things, you know, really negotiate with every contractor.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1020.104,
+      "end_time": 1031.744
+    },
+    {
+      "text": "Really like those things aren't obviously I understand that scalable.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1031.792,
+      "end_time": 1035.552
+    },
+    {
+      "text": "So I think if you wanted to hear the safe answer, yeah, we're probably at 50 once we start scaling.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1035.696,
+      "end_time": 1041.678
+    },
+    {
+      "text": "And when you do $1 million in a year, you take home about 500k of that every year.",
+      "speaker_name": "Andy Day",
+      "start_time": 1041.774,
+      "end_time": 1048.702
+    },
+    {
+      "text": "You're taking them about 500k around there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1048.726,
+      "end_time": 1051.102
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1051.126,
+      "end_time": 1051.73
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1052.23,
+      "end_time": 1053.17
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1057.91,
+      "end_time": 1058.622
+    },
+    {
+      "text": "So right now your agency is worth about 10 million.",
+      "speaker_name": "Andy Day",
+      "start_time": 1058.726,
+      "end_time": 1061.95
+    },
+    {
+      "text": "So there isn't an exit today for you, which you've said your option is to bring Ryan in and he's going to be an investor with a couple of other people who will put some cash into the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1061.99,
+      "end_time": 1071.678
+    },
+    {
+      "text": "Do you roughly how much they would put in and what equity they're asking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 1071.734,
+      "end_time": 1075.91
+    },
+    {
+      "text": "Yeah, I mean it's still very initial conversations, I mean, where I'd like to be.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1077.17,
+      "end_time": 1081.75
+    },
+    {
+      "text": "Here's what I'd be willing to do.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1082.21,
+      "end_time": 1084.07
+    },
+    {
+      "text": "I would be willing to give up to 20% away for at least a million bucks.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1084.69,
+      "end_time": 1091.95
+    },
+    {
+      "text": "Where I would like to be if I'm giving up 20%, I'd like to be at 2 million.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1093.89,
+      "end_time": 1099.018
+    },
+    {
+      "text": "But I do know, you know, valuing the company at 10 million bucks.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1099.074,
+      "end_time": 1102.282
+    },
+    {
+      "text": "AK1 for 10 million or sorry, sorry, 1 million for 10%.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1102.346,
+      "end_time": 1105.478
+    },
+    {
+      "text": "I do know it's insanely aggressive, especially with the revenue we have and being in a service based business.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1105.534,
+      "end_time": 1110.678
+    },
+    {
+      "text": "I think if I waited like a year and got, you know, one of these software products off the ground and you know, we strike gold and we start making easily at the minimum 25,000amonth and it's just a sleeper company within the agency.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1110.814,
+      "end_time": 1124.374
+    },
+    {
+      "text": "Yeah, I think I could easily get that because we would just say, yeah, we can do this over and over again.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1124.422,
+      "end_time": 1130.4
+    },
+    {
+      "text": "And then we're just.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1130.44,
+      "end_time": 1131.42
+    },
+    {
+      "text": "What's stopping you from doing the deal with Ryan?",
+      "speaker_name": "Andy Day",
+      "start_time": 1132.2,
+      "end_time": 1136.432
+    },
+    {
+      "text": "Why have you not pulled the trigger on that?",
+      "speaker_name": "Andy Day",
+      "start_time": 1136.576,
+      "end_time": 1138.592
+    },
+    {
+      "text": "Is there, is there a reason why that's not happened?",
+      "speaker_name": "Andy Day",
+      "start_time": 1138.616,
+      "end_time": 1141.536
+    },
+    {
+      "text": "Are you, is it you that you've got reservations and Ryan saying, come on, Joe, I would put some money in, we can build this real estate division and we can work together.",
+      "speaker_name": "Andy Day",
+      "start_time": 1141.568,
+      "end_time": 1152.352
+    },
+    {
+      "text": "Is it him pushing for it and you're kind of just don't want to be in his shadow all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1152.536,
+      "end_time": 1157.138
+    },
+    {
+      "text": "I'm looking to do my own thing or what's the problem?",
+      "speaker_name": "Andy Day",
+      "start_time": 1157.194,
+      "end_time": 1160.35
+    },
+    {
+      "text": "No, it's, it's a, it's a really great question.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1160.97,
+      "end_time": 1163.266
+    },
+    {
+      "text": "There's no problem.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1163.338,
+      "end_time": 1164.034
+    },
+    {
+      "text": "I think it's just we're both busy, he's obviously busier and we haven't really had an insanely, you know, we had this conversation probably a bit too early.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1164.122,
+      "end_time": 1173.074
+    },
+    {
+      "text": "So we had this conversation in like 2018 when I was two years into working with him.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1173.162,
+      "end_time": 1178.27
+    },
+    {
+      "text": "And then it kind of died down around Covid when he launched the company and I helped him launch it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1179.05,
+      "end_time": 1183.79
+    },
+    {
+      "text": "And then we resurface, resurfaced the conversation last month.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1184.63,
+      "end_time": 1190.814
+    },
+    {
+      "text": "And there's no reservations really.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1190.982,
+      "end_time": 1194.686
+    },
+    {
+      "text": "I mean his only reservation is time, right?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1194.758,
+      "end_time": 1197.71
+    },
+    {
+      "text": "He's like, oh, how much time I need to put into this?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1197.75,
+      "end_time": 1199.742
+    },
+    {
+      "text": "I don't really need his time, I just need his promotion.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1199.846,
+      "end_time": 1202.126
+    },
+    {
+      "text": "Because I think with his promotion we would be very, very.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1202.158,
+      "end_time": 1204.97
+    },
+    {
+      "text": "As he talks about how much he wants in equity because obviously he's gonna, once he puts his name to it, it's going to be more about the Sirhant brand, obviously, depending on the amount of equity.",
+      "speaker_name": "Andy Day",
+      "start_time": 1206.95,
+      "end_time": 1217.35
+    },
+    {
+      "text": "But, you know, is that a bad thing necessarily?",
+      "speaker_name": "Andy Day",
+      "start_time": 1217.93,
+      "end_time": 1221.602
+    },
+    {
+      "text": "Could be good to get you started, maybe the company is going to be worth 5, 10 times more at the end, because instead of having to build for three or four years on your own, he, you know, gave you a bit of a launch pad.",
+      "speaker_name": "Andy Day",
+      "start_time": 1221.666,
+      "end_time": 1234.63
+    },
+    {
+      "text": "Yeah, no, I.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1235.53,
+      "end_time": 1236.75
+    },
+    {
+      "text": "And again, right, like, life changes.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1237.05,
+      "end_time": 1239.394
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1239.442,
+      "end_time": 1239.65
+    },
+    {
+      "text": "There's also, like, you know, and I think you talk about this too separate from the business.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1239.69,
+      "end_time": 1243.038
+    },
+    {
+      "text": "There's, like, the founder, there's like, life.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1243.094,
+      "end_time": 1244.926
+    },
+    {
+      "text": "There's all these things, and that could obviously change within two to six years dramatically good, middle, bad, etc.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1244.998,
+      "end_time": 1249.614
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1249.662,
+      "end_time": 1250.25
+    },
+    {
+      "text": "So too early to tell.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1251.35,
+      "end_time": 1253.678
+    },
+    {
+      "text": "Very open, very flexible, still very aggressive.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1253.814,
+      "end_time": 1256.462
+    },
+    {
+      "text": "And I'm continue building this and just continue pounding the pavement.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1256.526,
+      "end_time": 1259.65
+    },
+    {
+      "text": "I hear what you're saying.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1261.27,
+      "end_time": 1262.862
+    },
+    {
+      "text": "And that was my fear early on when I had so much traction so fast, where I was like, you know what?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1262.886,
+      "end_time": 1267.772
+    },
+    {
+      "text": "I don't want to make this the Ryan show.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1267.796,
+      "end_time": 1269.64
+    },
+    {
+      "text": "He.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1269.94,
+      "end_time": 1270.444
+    },
+    {
+      "text": "A lot of people love him, but a lot of people don't.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1270.532,
+      "end_time": 1272.892
+    },
+    {
+      "text": "And a lot of our business comes from real estate.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1273.036,
+      "end_time": 1275.164
+    },
+    {
+      "text": "And at the end of the day, anyone who isn't part of Sirhan's team or a developer that hires him, which is where we make our money, is a competitor because they're hiring a Corcoran or a Douglas Element or whatever, and then they hire their own other agencies.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1275.212,
+      "end_time": 1287.372
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1287.436,
+      "end_time": 1287.9
+    },
+    {
+      "text": "But that being said, after doing business for a few years and considering Ryan's growth, I mean, you have to take some bets.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1288.02,
+      "end_time": 1297.774
+    },
+    {
+      "text": "And I feel like the pros would outweigh the cons in partnering with someone like Ryan.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1297.902,
+      "end_time": 1302.734
+    },
+    {
+      "text": "Sure, I'd probably lose a lot of business, but I probably gain way more business than I have today.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1302.782,
+      "end_time": 1307.198
+    },
+    {
+      "text": "And then the second thing I can say, too, is there's probably a couple ways of doing it where he comes in as a partner, we get this influx of cash, and he's silently promoting the company, and then we see how that goes for a few months, and then we.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1307.254,
+      "end_time": 1325.3
+    },
+    {
+      "text": "We do the official launch.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1325.34,
+      "end_time": 1326.88
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1328.7,
+      "end_time": 1329.44
+    },
+    {
+      "text": "And then your.",
+      "speaker_name": "Andy Day",
+      "start_time": 1329.74,
+      "end_time": 1330.628
+    },
+    {
+      "text": "Your sort of phase two.",
+      "speaker_name": "Andy Day",
+      "start_time": 1330.684,
+      "end_time": 1332.228
+    },
+    {
+      "text": "So the VC stuff where you're investing in food brands and you're opening your own pizza shop, does any of those things happen?",
+      "speaker_name": "Andy Day",
+      "start_time": 1332.364,
+      "end_time": 1338.676
+    },
+    {
+      "text": "Have you got any track record around those things besides other people's brands?",
+      "speaker_name": "Andy Day",
+      "start_time": 1338.748,
+      "end_time": 1343.48
+    },
+    {
+      "text": "No, the only thing we launched was a test that went incredibly well called Boost 2020 or 2020 2021.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1344.3,
+      "end_time": 1351.64
+    },
+    {
+      "text": "But no, those two brands that I showed you, you know, the most promising one for sure is the food one, because it's Latin and it's basically reinventing Goya and there's just nothing like it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1353.54,
+      "end_time": 1366.28
+    },
+    {
+      "text": "And I think it's the best brand we've ever built anyone I show basically just wants to throw money at us.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1366.58,
+      "end_time": 1371.788
+    },
+    {
+      "text": "But that's the one that I'm very precious over because I've been building it for literally three years.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1371.844,
+      "end_time": 1378.08
+    },
+    {
+      "text": "And you know, the insights are all there.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1378.7,
+      "end_time": 1380.708
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1380.764,
+      "end_time": 1381.316
+    },
+    {
+      "text": "You know, Latin people make up.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1381.468,
+      "end_time": 1384.148
+    },
+    {
+      "text": "They're the largest minority group in the United States of America by far.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1384.204,
+      "end_time": 1388.196
+    },
+    {
+      "text": "No one knows that, that people think it's either black or Asian or something else.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1388.268,
+      "end_time": 1391.492
+    },
+    {
+      "text": "2.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1391.636,
+      "end_time": 1392.276
+    },
+    {
+      "text": "Spanish is the second most spoken language.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1392.428,
+      "end_time": 1394.228
+    },
+    {
+      "text": "In the country's growing group.",
+      "speaker_name": "Andy Day",
+      "start_time": 1394.244,
+      "end_time": 1398.32
+    },
+    {
+      "text": "Yeah, it's by every, every kind of purchasing power.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1398.78,
+      "end_time": 1401.76
+    },
+    {
+      "text": "Gen Z.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1402.69,
+      "end_time": 1403.434
+    },
+    {
+      "text": "A quarter of Gen Z is Latin in the US and the number one growing genre in music is Latin globally.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1403.522,
+      "end_time": 1411.55
+    },
+    {
+      "text": "And there is just not that much action in the space and a lot of people actually shop the most when it comes to food.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1411.89,
+      "end_time": 1419.114
+    },
+    {
+      "text": "So we're gonna be, we're trying to basically be the Poppy meets Goya in, in the Latin food space.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1419.202,
+      "end_time": 1427.67
+    },
+    {
+      "text": "So what strikes me about you Joe, is you're obviously extremely talented and extremely intelligent and extremely creative and there's too many ideas here.",
+      "speaker_name": "Andy Day",
+      "start_time": 1429.46,
+      "end_time": 1440.236
+    },
+    {
+      "text": "There's too, there's too many.",
+      "speaker_name": "Andy Day",
+      "start_time": 1440.308,
+      "end_time": 1441.58
+    },
+    {
+      "text": "And you need to just, you need to decide.",
+      "speaker_name": "Andy Day",
+      "start_time": 1441.62,
+      "end_time": 1443.804
+    },
+    {
+      "text": "The agency, maybe you've just run its course.",
+      "speaker_name": "Andy Day",
+      "start_time": 1443.932,
+      "end_time": 1446.556
+    },
+    {
+      "text": "Agency life is, is tough and I think it's quite boring for a lot of people.",
+      "speaker_name": "Andy Day",
+      "start_time": 1446.708,
+      "end_time": 1451.388
+    },
+    {
+      "text": "You know, you're serving clients, you don't own anything, you're just making everybody else rich while you take a very small retainer or, or even somet.",
+      "speaker_name": "Andy Day",
+      "start_time": 1451.444,
+      "end_time": 1459.616
+    },
+    {
+      "text": "Sometimes the project fees, you know, they're next to nothing and easily spent on the people that are doing the work with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1459.668,
+      "end_time": 1465.94
+    },
+    {
+      "text": "So it's tough and you're looking at all these other options and you, you probably, I don't know whether you've got ADHD or something, but you, you know, you, you are the type of person that needs lots of different things to keep you entertained, otherwise you just get bored with businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 1466.88,
+      "end_time": 1482.7
+    },
+    {
+      "text": "But the agency is obviously the driver right now and there's an opportunity to do something with Ryan and scale the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1483.6,
+      "end_time": 1490.846
+    },
+    {
+      "text": "Would it kill you to just get rid of everything that's on the middle to right hand side of that slide and just focus for the next three years on Noise as the best agency in the world.",
+      "speaker_name": "Andy Day",
+      "start_time": 1490.998,
+      "end_time": 1502.75
+    },
+    {
+      "text": "I think the pizza shop and all the other stuff that you're talking about is actually really doable as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1502.79,
+      "end_time": 1507.182
+    },
+    {
+      "text": "There's another agency in the UK which is probably about 10 years old, maybe a bit older, based in Shoreditch in London which is like a hip area of town and they've got a pizza shop and they do their own food content.",
+      "speaker_name": "Andy Day",
+      "start_time": 1507.206,
+      "end_time": 1522.712
+    },
+    {
+      "text": "They've got their own channel that's massive on YouTube as well, called Jungle Creations.",
+      "speaker_name": "Andy Day",
+      "start_time": 1522.816,
+      "end_time": 1526.984
+    },
+    {
+      "text": "I don't know if I mentioned last time, but Jungle Creations, look them up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1527.032,
+      "end_time": 1529.912
+    },
+    {
+      "text": "They got bought by private equity and the founder left on the first day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1530.016,
+      "end_time": 1533.352
+    },
+    {
+      "text": "He took his money and he left his two co CEOs, which weren't owners of the business, to run it for the last three or four years while he's building some app.",
+      "speaker_name": "Andy Day",
+      "start_time": 1533.456,
+      "end_time": 1544.06
+    },
+    {
+      "text": "But he cashed out, took a load of money.",
+      "speaker_name": "Andy Day",
+      "start_time": 1545.64,
+      "end_time": 1548.192
+    },
+    {
+      "text": "Now, you said you don't want to do that, so it seems to me your best option is to focus on the agency business and maybe even take Ryan's money.",
+      "speaker_name": "Andy Day",
+      "start_time": 1548.376,
+      "end_time": 1558.928
+    },
+    {
+      "text": "Because like you say, there's more pros than cons.",
+      "speaker_name": "Andy Day",
+      "start_time": 1558.984,
+      "end_time": 1561.5
+    },
+    {
+      "text": "You've already done the assessment there's more pros than cons.",
+      "speaker_name": "Andy Day",
+      "start_time": 1561.8,
+      "end_time": 1564.752
+    },
+    {
+      "text": "So that's it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1564.856,
+      "end_time": 1565.84
+    },
+    {
+      "text": "I think Obama said something like, if he's 70, 60% of the way there, he just makes the decision as a yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1565.88,
+      "end_time": 1574.054
+    },
+    {
+      "text": "He doesn't care about the other 40%.",
+      "speaker_name": "Andy Day",
+      "start_time": 1574.102,
+      "end_time": 1576.774
+    },
+    {
+      "text": "He's enough yes to be a yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1576.862,
+      "end_time": 1579.046
+    },
+    {
+      "text": "And then he doesn't have to spend time like mulling over over and over again the same decision.",
+      "speaker_name": "Andy Day",
+      "start_time": 1579.158,
+      "end_time": 1584.742
+    },
+    {
+      "text": "It's a yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1584.926,
+      "end_time": 1585.878
+    },
+    {
+      "text": "It's a yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1585.974,
+      "end_time": 1587.03
+    },
+    {
+      "text": "Take his money, work with him, build the agency, extract huge amounts of value out the real estate thing, which isn't your passion, but you've got noise, the brand, also noise, Latin, which is your more passionate work, and you're getting it funded by a cash cow.",
+      "speaker_name": "Andy Day",
+      "start_time": 1587.19,
+      "end_time": 1601.65
+    },
+    {
+      "text": "So you always have like as part of the business, you'll have something that's the star, which is like the thing that you really love doing, but you have a cash cow that drives it and that's, you know, something that can generate money in the business more easily, but you've got this sort of glamorous edge.",
+      "speaker_name": "Andy Day",
+      "start_time": 1601.73,
+      "end_time": 1618.034
+    },
+    {
+      "text": "I would say the real estate is pretty good there with Ryan as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1618.082,
+      "end_time": 1621.026
+    },
+    {
+      "text": "And then the other things that are in the middle to far column, those are things to work towards once you're in a better position.",
+      "speaker_name": "Andy Day",
+      "start_time": 1621.178,
+      "end_time": 1627.528
+    },
+    {
+      "text": "Not to say that what you're doing isn't really great.",
+      "speaker_name": "Andy Day",
+      "start_time": 1627.664,
+      "end_time": 1629.928
+    },
+    {
+      "text": "I mean, you're taking home half a million dollars a year.",
+      "speaker_name": "Andy Day",
+      "start_time": 1629.984,
+      "end_time": 1632.52
+    },
+    {
+      "text": "That's fantastic.",
+      "speaker_name": "Andy Day",
+      "start_time": 1632.56,
+      "end_time": 1633.912
+    },
+    {
+      "text": "Puts you in the top half a percent of the world population.",
+      "speaker_name": "Andy Day",
+      "start_time": 1633.976,
+      "end_time": 1637.26
+    },
+    {
+      "text": "But it's not what.",
+      "speaker_name": "Andy Day",
+      "start_time": 1638.48,
+      "end_time": 1639.784
+    },
+    {
+      "text": "It's not getting to where you need to be and you need to build something more solid.",
+      "speaker_name": "Andy Day",
+      "start_time": 1639.872,
+      "end_time": 1644.28
+    },
+    {
+      "text": "So it strikes me that you maybe need to hire people that you can train, but just put them in charge, like put somebody in charge of the agency because it's not your passion, and then go and build the next project with somebody there doing it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1644.36,
+      "end_time": 1659.53
+    },
+    {
+      "text": "But your first step, phase one is take Ryan's money.",
+      "speaker_name": "Andy Day",
+      "start_time": 1659.57,
+      "end_time": 1663.818
+    },
+    {
+      "text": "Build the agency around the real estate business that you know is just going to scale like you said, just pick aside to be on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1663.954,
+      "end_time": 1673.05
+    },
+    {
+      "text": "You're not going to get Douglas Elliman anymore.",
+      "speaker_name": "Andy Day",
+      "start_time": 1673.09,
+      "end_time": 1675.274
+    },
+    {
+      "text": "But how much business are you getting from their universe anyway?",
+      "speaker_name": "Andy Day",
+      "start_time": 1675.322,
+      "end_time": 1680.19
+    },
+    {
+      "text": "You can just take the universe that you're in, take as extract as much value from it as possible, open up the Latin branch if you haven't done it already and keep chugging away on all the brand stuff that you're passionate about and use the cash to build the agency, build the other products that you're going to get IP in.",
+      "speaker_name": "Andy Day",
+      "start_time": 1680.27,
+      "end_time": 1698.302
+    },
+    {
+      "text": "I actually wrote something like 2018, 2019 exactly about the type of business that you're building, which I call a 360 degree agency where you own your own media, you own your own products and you own your own services and you build your own ecosystem that people just want to be in anyway and they pay you to, you know, to copy what you're doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1698.486,
+      "end_time": 1720.478
+    },
+    {
+      "text": "They, you know, you're already kind of doing that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1720.534,
+      "end_time": 1722.83
+    },
+    {
+      "text": "I think you should just stick with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1722.87,
+      "end_time": 1725.69
+    },
+    {
+      "text": "And Ryan just seems like the easiest route.",
+      "speaker_name": "Andy Day",
+      "start_time": 1726.15,
+      "end_time": 1728.958
+    },
+    {
+      "text": "You know, going out and raising money for an agency is impossible.",
+      "speaker_name": "Andy Day",
+      "start_time": 1728.974,
+      "end_time": 1731.214
+    },
+    {
+      "text": "I've seen so many people come to me and say can you help me?",
+      "speaker_name": "Andy Day",
+      "start_time": 1731.262,
+      "end_time": 1733.534
+    },
+    {
+      "text": "And it's just like no.",
+      "speaker_name": "Andy Day",
+      "start_time": 1733.542,
+      "end_time": 1734.478
+    },
+    {
+      "text": "Because nobody invests in marketing agencies really.",
+      "speaker_name": "Andy Day",
+      "start_time": 1734.534,
+      "end_time": 1737.958
+    },
+    {
+      "text": "So the fact that you've already got Ryan there because he can see a way that's going to work for his business immediately, I think just take that money and invest it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1738.014,
+      "end_time": 1745.51
+    },
+    {
+      "text": "I mean it just seems like a no brainer from where I'm sat.",
+      "speaker_name": "Andy Day",
+      "start_time": 1745.55,
+      "end_time": 1747.974
+    },
+    {
+      "text": "And I know obviously I'm sat outside of the forest looking in and you're in the middle of it and you just, you just, you know, it's looking, it's too many options basically you've got too many options and you just need to narrow them down and just pick one and just move.",
+      "speaker_name": "Andy Day",
+      "start_time": 1748.022,
+      "end_time": 1764.05
+    },
+    {
+      "text": "First of all, I really appreciate all that and that was insanely helpful.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1766.06,
+      "end_time": 1769.604
+    },
+    {
+      "text": "And I actually didn't know that Obama said that.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1769.652,
+      "end_time": 1771.844
+    },
+    {
+      "text": "And as someone who, and you're right, I do have ADHD actually.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1772.012,
+      "end_time": 1774.852
+    },
+    {
+      "text": "Literally my family's got it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1774.956,
+      "end_time": 1777.252
+    },
+    {
+      "text": "So I get it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1777.276,
+      "end_time": 1778.516
+    },
+    {
+      "text": "So fully diagnosed in all the things versus just people who say oh I have it but you know, I didn't know about that quote.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1778.668,
+      "end_time": 1787.604
+    },
+    {
+      "text": "Like you know the, when it's 60 to 70, like don't spend time ruminating, just make a decision and go right could.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1787.652,
+      "end_time": 1794.11
+    },
+    {
+      "text": "And also there's the idea you can Always fix it later.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1794.15,
+      "end_time": 1796.478
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1796.534,
+      "end_time": 1796.846
+    },
+    {
+      "text": "But I feel like the time loss of playing game theory about that 30% is in your head.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1796.918,
+      "end_time": 1804.33
+    },
+    {
+      "text": "Possible things that can go wrong for people like me.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1804.63,
+      "end_time": 1807.07
+    },
+    {
+      "text": "It's you know, analysis paralysis really kills you.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1807.11,
+      "end_time": 1810.062
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1810.086,
+      "end_time": 1810.318
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1810.374,
+      "end_time": 1810.83
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andy Day",
+      "start_time": 1810.95,
+      "end_time": 1811.566
+    },
+    {
+      "text": "I agree.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1811.598,
+      "end_time": 1812.382
+    },
+    {
+      "text": "I think like I said when I was going through this, that's like the Disney version of this ecosystem.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1812.566,
+      "end_time": 1818.69
+    },
+    {
+      "text": "I be so totally happy and okay, I'd say okay for the next couple years to kill that last leg.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1819.43,
+      "end_time": 1825.838
+    },
+    {
+      "text": "Which leaves the two.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1825.894,
+      "end_time": 1827.13
+    },
+    {
+      "text": "And I think, you know, if we bring in, bring in someone like Orion and I would want to diversify a little bit and I feel pretty confident to bring it in like another call it a billionaire or strategic as part of that because it's good for Ryan, it's good for the billionaire, whatever.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1827.91,
+      "end_time": 1842.302
+    },
+    {
+      "text": "Strategic.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1842.366,
+      "end_time": 1843.038
+    },
+    {
+      "text": "But also it's good for noise obviously.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1843.134,
+      "end_time": 1844.606
+    },
+    {
+      "text": "And that's what I care about.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1844.638,
+      "end_time": 1845.85
+    },
+    {
+      "text": "I think, you know, if we can consistently for a couple years double the business, like can we get from 2 to 4 and then 4 to 6, then 6 got, you know, to 10 and then 1 of those, I, I feel pretty confident that one of the software plays, especially one that's fully related to Ryan, you know, that that grows in tandem.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1847.27,
+      "end_time": 1866.608
+    },
+    {
+      "text": "Then we built something really incredible, right?",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1866.704,
+      "end_time": 1868.912
+    },
+    {
+      "text": "Like you like that system that you mentioned, that ecosystem and then all the other stuff, the pizzeria and the brand and all that other.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1868.936,
+      "end_time": 1875.26
+    },
+    {
+      "text": "Honestly, I can put that on hold.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1875.57,
+      "end_time": 1877.018
+    },
+    {
+      "text": "The only one that I know that I could secretly build, like the only one thing is that food brand that we've been for, you know, quarterly milestones.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1877.074,
+      "end_time": 1886.106
+    },
+    {
+      "text": "It's not a day to day, it's not even a week.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1886.218,
+      "end_time": 1888.202
+    },
+    {
+      "text": "A week, A week over week.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1888.226,
+      "end_time": 1889.562
+    },
+    {
+      "text": "Do you know what?",
+      "speaker_name": "Andy Day",
+      "start_time": 1889.666,
+      "end_time": 1890.122
+    },
+    {
+      "text": "Just on that, Joe?",
+      "speaker_name": "Andy Day",
+      "start_time": 1890.146,
+      "end_time": 1890.826
+    },
+    {
+      "text": "Just build it in tandem, but build it in public.",
+      "speaker_name": "Andy Day",
+      "start_time": 1890.858,
+      "end_time": 1893.626
+    },
+    {
+      "text": "But show people that this is part of your agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 1893.698,
+      "end_time": 1896.234
+    },
+    {
+      "text": "This is what you do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1896.282,
+      "end_time": 1897.242
+    },
+    {
+      "text": "You do it for everybody else, you do it for yourself.",
+      "speaker_name": "Andy Day",
+      "start_time": 1897.346,
+      "end_time": 1899.45
+    },
+    {
+      "text": "When you are just an expert in this area.",
+      "speaker_name": "Andy Day",
+      "start_time": 1899.53,
+      "end_time": 1902.462
+    },
+    {
+      "text": "You don't need to build it secretly.",
+      "speaker_name": "Andy Day",
+      "start_time": 1902.566,
+      "end_time": 1904.046
+    },
+    {
+      "text": "It wouldn't serve any purpose really.",
+      "speaker_name": "Andy Day",
+      "start_time": 1904.078,
+      "end_time": 1906.73
+    },
+    {
+      "text": "But it serves two purposes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1907.11,
+      "end_time": 1909.406
+    },
+    {
+      "text": "One is that you're showing other people that you know what you're talking about.",
+      "speaker_name": "Andy Day",
+      "start_time": 1909.518,
+      "end_time": 1912.702
+    },
+    {
+      "text": "You're not just doing it for other people who are paying you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1912.726,
+      "end_time": 1915.15
+    },
+    {
+      "text": "Like you know, they don't know.",
+      "speaker_name": "Andy Day",
+      "start_time": 1915.19,
+      "end_time": 1916.382
+    },
+    {
+      "text": "But you paying you like a monthly retainer or pittance, you're actually capable of building world class brands for yourself because that's what you do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1916.406,
+      "end_time": 1923.79
+    },
+    {
+      "text": "That's, that's who you are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1923.83,
+      "end_time": 1925.454
+    },
+    {
+      "text": "So build it in public and use all the channels that you can.",
+      "speaker_name": "Andy Day",
+      "start_time": 1925.622,
+      "end_time": 1928.558
+    },
+    {
+      "text": "Make sure everybody knows that this is you, this is the real Joe.",
+      "speaker_name": "Andy Day",
+      "start_time": 1928.614,
+      "end_time": 1931.796
+    },
+    {
+      "text": "There isn't like different versions of you where you're hiding one for one client and one for another.",
+      "speaker_name": "Andy Day",
+      "start_time": 1931.828,
+      "end_time": 1936.32
+    },
+    {
+      "text": "Just do the whole thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1937.18,
+      "end_time": 1938.228
+    },
+    {
+      "text": "I mean, I think it's brilliant and I think you're, you are a radiator.",
+      "speaker_name": "Andy Day",
+      "start_time": 1938.284,
+      "end_time": 1942.164
+    },
+    {
+      "text": "You know, there's two types of people in the world, radiators and drains.",
+      "speaker_name": "Andy Day",
+      "start_time": 1942.212,
+      "end_time": 1946.292
+    },
+    {
+      "text": "And you're a radiator.",
+      "speaker_name": "Andy Day",
+      "start_time": 1946.356,
+      "end_time": 1947.732
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1947.796,
+      "end_time": 1948.068
+    },
+    {
+      "text": "So you just need to just be yourself, get out there, tell everybody what you're doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1948.124,
+      "end_time": 1951.54
+    },
+    {
+      "text": "And people will buy into the journey.",
+      "speaker_name": "Andy Day",
+      "start_time": 1951.58,
+      "end_time": 1953.076
+    },
+    {
+      "text": "They'll want their own brands to go with you because they know how good you are doing what you do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1953.108,
+      "end_time": 1958.18
+    },
+    {
+      "text": "Well, I feel so good after this conversation.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1958.96,
+      "end_time": 1961.464
+    },
+    {
+      "text": "I appreciate you taking the time and you know, I know this is your space, so this goes without saying.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1961.512,
+      "end_time": 1969.7
+    },
+    {
+      "text": "I think I should have some progress over the next few weeks, conversation wise at Ryan.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1970.88,
+      "end_time": 1976.46
+    },
+    {
+      "text": "You know, if you're interested, I'd love to talk about advisory, you know, or anything around, around that.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1978.16,
+      "end_time": 1985.542
+    },
+    {
+      "text": "If, again, like, if you're, if you're interested.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1985.566,
+      "end_time": 1987.61
+    },
+    {
+      "text": "I'm not, I'm not against that.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1988.91,
+      "end_time": 1990.982
+    },
+    {
+      "text": "Call it three to five year outcome.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1991.006,
+      "end_time": 1992.406
+    },
+    {
+      "text": "But I do know if we just follow the plan that should be there.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1992.438,
+      "end_time": 1996.55
+    },
+    {
+      "text": "If I don't and it just blows up, then yeah, that's not there.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1996.59,
+      "end_time": 1999.03
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1999.07,
+      "end_time": 1999.27
+    },
+    {
+      "text": "But I don't, I don't think that'll happen.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 1999.31,
+      "end_time": 2002.93
+    },
+    {
+      "text": "So I think you're, you're going to be enormous.",
+      "speaker_name": "Andy Day",
+      "start_time": 2003.87,
+      "end_time": 2007.334
+    },
+    {
+      "text": "You're kind of holding yourself back at the moment with too many ideas.",
+      "speaker_name": "Andy Day",
+      "start_time": 2007.382,
+      "end_time": 2010.33
+    },
+    {
+      "text": "I think I can see that you, you've kind of, you've done that sort of walk through the valley of death thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 2011.1,
+      "end_time": 2017.268
+    },
+    {
+      "text": "And basically there is a moment where you think this, it's boring.",
+      "speaker_name": "Andy Day",
+      "start_time": 2017.324,
+      "end_time": 2022.212
+    },
+    {
+      "text": "But that's the bit where you're, you're curving up like this and the next bit isn't doubling every, it just goes up straight up.",
+      "speaker_name": "Andy Day",
+      "start_time": 2022.276,
+      "end_time": 2030.26
+    },
+    {
+      "text": "Yeah, you're in this bit where it's kind of first bit.",
+      "speaker_name": "Andy Day",
+      "start_time": 2030.3,
+      "end_time": 2034.48
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2035.1,
+      "end_time": 2035.954
+    },
+    {
+      "text": "That's exactly right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2036.092,
+      "end_time": 2037.41
+    },
+    {
+      "text": "Well, I guess from here, what's the best.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2039.31,
+      "end_time": 2043.65
+    },
+    {
+      "text": "Like I said, I'll keep you updated, like, and in terms of goals, like I said, raise a little bit to scale the agency and launch that one software play.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2043.95,
+      "end_time": 2056.61
+    },
+    {
+      "text": "I would be really happy with them.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2057.63,
+      "end_time": 2060.134
+    },
+    {
+      "text": "Call it a million bucks, I'd be ecstatic.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2060.302,
+      "end_time": 2062.572
+    },
+    {
+      "text": "Close to, you know, If I hit 1 5, 2.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2062.636,
+      "end_time": 2065.48
+    },
+    {
+      "text": "But I think realistically, someone like Ryan and just knowing him, he's probably going to throw in like a crazy offer, like, I'll give you a half a million for 30%.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2065.78,
+      "end_time": 2073.228
+    },
+    {
+      "text": "And it's like, okay, well that makes no sense to me to be Completely honest.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2073.284,
+      "end_time": 2076.412
+    },
+    {
+      "text": "Yeah, well, well a good thing to do is talk to as many of those other high net worth, so you may know personally and just say, look, Ryan's coming in on this.",
+      "speaker_name": "Andy Day",
+      "start_time": 2076.556,
+      "end_time": 2086.14
+    },
+    {
+      "text": "There's, that's, it's going to happen.",
+      "speaker_name": "Andy Day",
+      "start_time": 2086.18,
+      "end_time": 2088.28
+    },
+    {
+      "text": "But I want to, I want to diversify and not just be in with Ryan, but it's, it's guaranteed return on your investment.",
+      "speaker_name": "Andy Day",
+      "start_time": 2088.639,
+      "end_time": 2095.687
+    },
+    {
+      "text": "So if Ryan's in, are you in?",
+      "speaker_name": "Andy Day",
+      "start_time": 2095.823,
+      "end_time": 2098.423
+    },
+    {
+      "text": "So if Ryan comes with, I want, you know, 30 for 500k.",
+      "speaker_name": "Andy Day",
+      "start_time": 2098.591,
+      "end_time": 2103.031
+    },
+    {
+      "text": "You can say, let me think about it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2103.215,
+      "end_time": 2104.711
+    },
+    {
+      "text": "That's great, thank you for the offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 2104.735,
+      "end_time": 2106.023
+    },
+    {
+      "text": "Go back to the other guy and just say ryan's in for 500k, do you want to put 500k in?",
+      "speaker_name": "Andy Day",
+      "start_time": 2106.111,
+      "end_time": 2111.271
+    },
+    {
+      "text": "And then you can go back to Ryan and say, well I can give you 15%, I've got another guy in 515% or whatever your, your offer is.",
+      "speaker_name": "Andy Day",
+      "start_time": 2111.455,
+      "end_time": 2118.712
+    },
+    {
+      "text": "But that, that's the way you need to play it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2118.736,
+      "end_time": 2120.82
+    },
+    {
+      "text": "That's a really good idea.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2121.28,
+      "end_time": 2122.392
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2122.456,
+      "end_time": 2123.256
+    },
+    {
+      "text": "In terms of us working together.",
+      "speaker_name": "Andy Day",
+      "start_time": 2123.448,
+      "end_time": 2124.904
+    },
+    {
+      "text": "Happy to Joe.",
+      "speaker_name": "Andy Day",
+      "start_time": 2124.992,
+      "end_time": 2125.816
+    },
+    {
+      "text": "But obviously I do M and A.",
+      "speaker_name": "Andy Day",
+      "start_time": 2125.848,
+      "end_time": 2127.86
+    },
+    {
+      "text": "So I guess where, where we could work best together is.",
+      "speaker_name": "Andy Day",
+      "start_time": 2129.12,
+      "end_time": 2131.992
+    },
+    {
+      "text": "Let's stay in touch.",
+      "speaker_name": "Andy Day",
+      "start_time": 2132.016,
+      "end_time": 2132.856
+    },
+    {
+      "text": "I'm happy to give you bits of advice and you know when you've got an update, but I think maybe going forward the best, the fastest way for you to move is once you've got this to a point where you've got the investors, you've got the real estate thing, you start to make the software play.",
+      "speaker_name": "Andy Day",
+      "start_time": 2132.888,
+      "end_time": 2147.822
+    },
+    {
+      "text": "Let's go out and acquire some other businesses so it doesn't take you forever to build it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2147.926,
+      "end_time": 2151.694
+    },
+    {
+      "text": "Building organic is boring as hell and you're in this bit.",
+      "speaker_name": "Andy Day",
+      "start_time": 2151.782,
+      "end_time": 2155.71
+    },
+    {
+      "text": "But Ian, for instance, who I put you in touch with, he ran Iris for a long fucking time before they really grew.",
+      "speaker_name": "Andy Day",
+      "start_time": 2155.75,
+      "end_time": 2163.662
+    },
+    {
+      "text": "And what happened was he had just acquired one little agency when he realized how he could do that, instead of waiting around to add another 2 million revenue, he could just buy an agency, which took him like four weeks.",
+      "speaker_name": "Andy Day",
+      "start_time": 2163.806,
+      "end_time": 2176.078
+    },
+    {
+      "text": "Then he just went around buying.",
+      "speaker_name": "Andy Day",
+      "start_time": 2176.214,
+      "end_time": 2177.758
+    },
+    {
+      "text": "He went by buying and buying and buying and then he got bought by Samsung, which is where he's at now.",
+      "speaker_name": "Andy Day",
+      "start_time": 2177.854,
+      "end_time": 2183.598
+    },
+    {
+      "text": "But he's doing like 200 million in revenue as part of a global, you know, $7 trillion business or whatever.",
+      "speaker_name": "Andy Day",
+      "start_time": 2183.734,
+      "end_time": 2190.974
+    },
+    {
+      "text": "Samsung.",
+      "speaker_name": "Andy Day",
+      "start_time": 2191.022,
+      "end_time": 2191.89
+    },
+    {
+      "text": "Yeah, no, that's smart.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2192.87,
+      "end_time": 2194.094
+    },
+    {
+      "text": "I agree.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2194.222,
+      "end_time": 2194.766
+    },
+    {
+      "text": "Buy, buy to grow.",
+      "speaker_name": "Andy Day",
+      "start_time": 2194.838,
+      "end_time": 2196.014
+    },
+    {
+      "text": "And that's where I can, I can help you at the point when you're ready.",
+      "speaker_name": "Andy Day",
+      "start_time": 2196.102,
+      "end_time": 2198.862
+    },
+    {
+      "text": "And in fact I think if you go back to Ryan and say this is the plan, then he would get excited about that's a big long term play.",
+      "speaker_name": "Andy Day",
+      "start_time": 2198.926,
+      "end_time": 2205.24
+    },
+    {
+      "text": "That's something we can play out over the next five years that he can see his money really grow and he's going to get return on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2205.28,
+      "end_time": 2211.208
+    },
+    {
+      "text": "And fun.",
+      "speaker_name": "Andy Day",
+      "start_time": 2211.264,
+      "end_time": 2211.976
+    },
+    {
+      "text": "It's fun going out and talking to other businesses to acquire them.",
+      "speaker_name": "Andy Day",
+      "start_time": 2212.048,
+      "end_time": 2215.416
+    },
+    {
+      "text": "So I'm sure Ryan's acquiring real estate businesses across the US as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 2215.488,
+      "end_time": 2219.912
+    },
+    {
+      "text": "So you've probably got loads of experience he can invest into that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2219.936,
+      "end_time": 2223.176
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2223.328,
+      "end_time": 2224.04
+    },
+    {
+      "text": "That's exactly right.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2224.12,
+      "end_time": 2225.38
+    },
+    {
+      "text": "Okay, well, that sounds great.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2225.92,
+      "end_time": 2228.91
+    },
+    {
+      "text": "Let's keep in touch.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2231.53,
+      "end_time": 2232.674
+    },
+    {
+      "text": "Yeah, definitely.",
+      "speaker_name": "Andy Day",
+      "start_time": 2232.802,
+      "end_time": 2233.746
+    },
+    {
+      "text": "And I'll let you know how it all goes.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2233.858,
+      "end_time": 2235.57
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 2235.73,
+      "end_time": 2236.594
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 2236.642,
+      "end_time": 2236.834
+    },
+    {
+      "text": "I'm seven minutes late for my team meeting, but it's fine.",
+      "speaker_name": "Andy Day",
+      "start_time": 2236.842,
+      "end_time": 2238.738
+    },
+    {
+      "text": "It's my team.",
+      "speaker_name": "Andy Day",
+      "start_time": 2238.754,
+      "end_time": 2239.63
+    },
+    {
+      "text": "Enjoy the rest of your day.",
+      "speaker_name": "Andy Day",
+      "start_time": 2240.25,
+      "end_time": 2241.618
+    },
+    {
+      "text": "I really look forward to talk to you again, Joe.",
+      "speaker_name": "Andy Day",
+      "start_time": 2241.674,
+      "end_time": 2243.906
+    },
+    {
+      "text": "I think you've got something really special.",
+      "speaker_name": "Andy Day",
+      "start_time": 2243.938,
+      "end_time": 2245.634
+    },
+    {
+      "text": "Definitely.",
+      "speaker_name": "Andy Day",
+      "start_time": 2245.802,
+      "end_time": 2246.274
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2246.322,
+      "end_time": 2246.962
+    },
+    {
+      "text": "Likewise.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2247.026,
+      "end_time": 2247.474
+    },
+    {
+      "text": "I appreciate it.",
+      "speaker_name": "Joseph Laresca",
+      "start_time": 2247.522,
+      "end_time": 2248.45
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 2248.57,
+      "end_time": 2249.122
+    },
+    {
+      "text": "All right, speak soon.",
+      "speaker_name": "Andy Day",
+      "start_time": 2249.186,
+      "end_time": 2249.85
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Agency",
+      "Investment",
+      "Real Estate",
+      "Latin Market",
+      "Brand Development",
+      "Strategic Partnership"
+    ],
+    "action_items": "\n**Joseph Laresca**\nContinue conversations with Ryan about potential investment (33:23)\nConsider approaching other high-net-worth individuals as additional investors to diversify beyond Ryan (34:36)\nFocus on raising funding to scale the agency and launch the software product (33:55)\nKeep Andy updated on progress with investor discussions (33:23)\n\n**Andy Day**\nConsider advisory role with Joseph's company as it grows (33:00)\nHelp with acquisition strategy once Joseph's company reaches appropriate scale (36:32)\n",
+    "outline": null,
+    "overview": "In the Business Strategy Consultation meeting between Joseph and Andy, Joseph presented key updates on his company, Noise, highlighting two strategic opportunities: either raising capital as a Holdco or partnering with individuals for various business divisions. He outlined the current business status, indicating that Noise has a small team and generates annual revenues of $1-2 million with solid profit margins. During the discussion, Andy identified Joseph's challenge of having too many ideas, advising him to concentrate on scaling the agency and leveraging a potential investment from Ryan Serhan to enhance the real estate division. They also discussed Joseph's passion project, a Latin food brand in development. An action plan was established, urging Joseph to continue discussions with potential investors, keep Andy informed, and focus on launching specific products, while Andy expressed interest in providing advisory support and assisting with future acquisition strategies.",
+    "short_summary": "During a Business Strategy Consultation, Joseph presented updates on his company, Noise, outlining two strategic opportunities: raising capital as a Holdco or partnering with individuals for various business divisions. He highlighted the agency's current status, mentioning a team of about 10 members and annual revenues of $1-2 million with healthy profit margins. Andy advised Joseph to concentrate on scaling the agency and leveraging a potential investment from Ryan Serhan to boost the real estate division. They also touched on Joseph's passion project, a Latin food brand in development. An action plan was devised, with Joseph set to pursue discussions with potential investors and keep Andy in the loop, while Andy expressed interest in providing advisory support and future acquisition strategies.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JRZEP0BWMV0Y3EMQ7BW9XJM4",
+  "audio_url": "https://cdn.fireflies.ai/01JRZEP0BWMV0Y3EMQ7BW9XJM4/audio.mp3?Expires=1773220862&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlJaRVAwQldNVjBZM0VNUTdCVzlYSk00L2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2Mn19fV19&Signature=yzVPl2k40jwKe2bqW41lPJuRCWnnyH3NyUHr89d5VcgoK~oHuN5edYQ62TqnccRX5wNn2SANLPl9GeFeqPN6Po45AislHaUbbGokEMtBuvv3DmCW-QM3Q8XkG9qIZd5wGbmrctkuSY9hn8Kw9ifeP~8B1lLlge9RZhOpXOgiFLs7QRsDSDO4q5PCRX44NtiACJOFnFWDCK14NAjPNK~f7nUu6pbnR~wmi-7la2Omg8zzjdMdz-W3tnov8zFrK4Xa2rh0YgtGOTgmVpqGl1v-BnOTEe6O0D2KzqmZpBWRecR0bXtfneEEwUSwrTmdg-o0hqY3893xjje2Q9fohetNdA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JRZEP0BWMV0Y3EMQ7BW9XJM4/video.mp4?Expires=1773220862&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlJaRVAwQldNVjBZM0VNUTdCVzlYSk00L3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2Mn19fV19&Signature=UVQ2VdFnD0CFycuud0I4GAkvBWA2GkolRSIyggrw6XqD7CX22cxhCPucIlT0xKrtwPvz39YX9D503zMfcZK5aZzYb4zByhPVnLK7pJBkA7eIHTJV3EItbppuef29E~HWERpDZ4EZl2dzR2xz7mh45r9d2dWAg2yPjsKUaSpZLJaljQ2DHqVRBLtAMYNCj7UH2efcfV4rQVRGhiDfHnOS3xaxO~BvVXx6nGNYrFoUamgzIigamLElE5XFpxAqjE5sfZSLluqmXaZ~p4JuoB6sr55sau-3TYW8DHLDTEbQrvIXrcIC8ad3Hf~SzPzkrb2yScoa7mpryswSUevhZgHvkw__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

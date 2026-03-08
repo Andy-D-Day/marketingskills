@@ -1,0 +1,4854 @@
+{
+  "id": "01K10SRDC8JHQKFMKA9GN4RSH2",
+  "title": "TSG Weekly Update",
+  "date": 1754051400000,
+  "dateString": "2025-08-01T12:30:00.000Z",
+  "duration": 46.310001373291016,
+  "participants": [
+    "andrew.day@capitala.co,stuart.tiedeman@rmi.co,matt.simpson@rmi.co,jon@rmi.co,andy.day@capitala.co",
+    "stuart.tiedeman@rmi.co",
+    "matt.simpson@rmi.co",
+    "jon@rmi.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "stuart.tiedeman@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "matt.simpson@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jon@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Okay.",
+      "speaker_name": "jon southcombe",
+      "start_time": 6.64,
+      "end_time": 7.2
+    },
+    {
+      "text": "All right, guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 7.84,
+      "end_time": 8.56
+    },
+    {
+      "text": "Hey.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 8.56,
+      "end_time": 8.96
+    },
+    {
+      "text": "All right, Matt.",
+      "speaker_name": "Andrew Day",
+      "start_time": 11.84,
+      "end_time": 12.52
+    },
+    {
+      "text": "Good to see you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 12.52,
+      "end_time": 13.04
+    },
+    {
+      "text": "You've been away.",
+      "speaker_name": "Andrew Day",
+      "start_time": 13.04,
+      "end_time": 13.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 14.8,
+      "end_time": 15.28
+    },
+    {
+      "text": "Ignore me.",
+      "speaker_name": "jon southcombe",
+      "start_time": 19.52,
+      "end_time": 20.24
+    },
+    {
+      "text": "Carry on, guys.",
+      "speaker_name": "jon southcombe",
+      "start_time": 20.24,
+      "end_time": 21.12
+    },
+    {
+      "text": "Apologies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 21.12,
+      "end_time": 21.68
+    },
+    {
+      "text": "Hi, John.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 21.68,
+      "end_time": 22.32
+    },
+    {
+      "text": "You're right.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 22.8,
+      "end_time": 23.44
+    },
+    {
+      "text": "Right, let me pull up the stuff that I'm.",
+      "speaker_name": "Andrew Day",
+      "start_time": 24.72,
+      "end_time": 26.96
+    },
+    {
+      "text": "Yeah, I think Stuart.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 26.96,
+      "end_time": 27.84
+    },
+    {
+      "text": "I think Stuart is on routes.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 27.84,
+      "end_time": 29.2
+    },
+    {
+      "text": "Let me just chase him.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 29.47,
+      "end_time": 30.35
+    },
+    {
+      "text": "He's up against it a little bit.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 34.43,
+      "end_time": 35.95
+    },
+    {
+      "text": "Launching a product down in Australia.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 36.19,
+      "end_time": 37.79
+    },
+    {
+      "text": "It's been quite fun overnight.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 37.95,
+      "end_time": 39.47
+    },
+    {
+      "text": "Oh, is he brilliant?",
+      "speaker_name": "Andrew Day",
+      "start_time": 39.79,
+      "end_time": 41.07
+    },
+    {
+      "text": "Yeah, it's brilliant.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 41.79,
+      "end_time": 42.75
+    },
+    {
+      "text": "It's just bloody been a week of it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 42.99,
+      "end_time": 44.99
+    },
+    {
+      "text": "It's just hard when it's such a long way away.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 45.15,
+      "end_time": 47.27
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 47.27,
+      "end_time": 47.63
+    },
+    {
+      "text": "I. I really hate dealing with Australia, if I'm honest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 48.35,
+      "end_time": 51.23
+    },
+    {
+      "text": "Well, yeah, yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 51.95,
+      "end_time": 55.4
+    },
+    {
+      "text": "Launching a tech stack in Australia was.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 55.48,
+      "end_time": 57.48
+    },
+    {
+      "text": "Has been.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 57.48,
+      "end_time": 58
+    },
+    {
+      "text": "It's been the challenge, to be honest.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 58,
+      "end_time": 59.56
+    },
+    {
+      "text": "But we got there, good stuff, and.",
+      "speaker_name": "Andrew Day",
+      "start_time": 60.2,
+      "end_time": 62.52
+    },
+    {
+      "text": "Then we're not a heart attack and no one died.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 62.52,
+      "end_time": 64.28
+    },
+    {
+      "text": "Has he actually been out in Australia?",
+      "speaker_name": "Andrew Day",
+      "start_time": 65.72,
+      "end_time": 67.32
+    },
+    {
+      "text": "Have you got people.",
+      "speaker_name": "Andrew Day",
+      "start_time": 67.32,
+      "end_time": 68.04
+    },
+    {
+      "text": "We're doing it here, remotely doing it from here.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 68.28,
+      "end_time": 70.12
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 70.44,
+      "end_time": 70.92
+    },
+    {
+      "text": "So it's good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 71.48,
+      "end_time": 72.2
+    },
+    {
+      "text": "It's a good.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 72.2,
+      "end_time": 72.72
+    },
+    {
+      "text": "It's a good.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 72.72,
+      "end_time": 73.24
+    },
+    {
+      "text": "It's a good thing for the future.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 73.24,
+      "end_time": 74.36
+    },
+    {
+      "text": "Knows what.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 74.68,
+      "end_time": 75.2
+    },
+    {
+      "text": "We can do it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 75.2,
+      "end_time": 75.68
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 75.68,
+      "end_time": 76.04
+    },
+    {
+      "text": "Good case study.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 76.76,
+      "end_time": 77.64
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Andrew Day",
+      "start_time": 78.36,
+      "end_time": 79.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 80.45,
+      "end_time": 80.77
+    },
+    {
+      "text": "Okay, so let me see what we've got for you this week.",
+      "speaker_name": "Andrew Day",
+      "start_time": 81.57,
+      "end_time": 89.33
+    },
+    {
+      "text": "We have.",
+      "speaker_name": "Andrew Day",
+      "start_time": 89.33,
+      "end_time": 89.97
+    },
+    {
+      "text": "We've got a new lead which is good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 90.61,
+      "end_time": 92.53
+    },
+    {
+      "text": "So we'll have a look at those guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 94.29,
+      "end_time": 95.89
+    },
+    {
+      "text": "How are you doing, Jonathan?",
+      "speaker_name": "Andrew Day",
+      "start_time": 103.65,
+      "end_time": 104.93
+    },
+    {
+      "text": "Good, yeah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 104.93,
+      "end_time": 107.1
+    },
+    {
+      "text": "Thanks for responding to my email, if you can.",
+      "speaker_name": "jon southcombe",
+      "start_time": 107.34,
+      "end_time": 109.66
+    },
+    {
+      "text": "Stuart, are you okay?",
+      "speaker_name": "jon southcombe",
+      "start_time": 110.78,
+      "end_time": 112.14
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 112.7,
+      "end_time": 113.1
+    },
+    {
+      "text": "He's saying, are we in?",
+      "speaker_name": "jon southcombe",
+      "start_time": 113.1,
+      "end_time": 114.3
+    },
+    {
+      "text": "Stuart's asking a question.",
+      "speaker_name": "jon southcombe",
+      "start_time": 114.3,
+      "end_time": 115.58
+    },
+    {
+      "text": "Is he.",
+      "speaker_name": "Andrew Day",
+      "start_time": 115.9,
+      "end_time": 116.5
+    },
+    {
+      "text": "Is he outside the door?",
+      "speaker_name": "Andrew Day",
+      "start_time": 116.5,
+      "end_time": 118.46
+    },
+    {
+      "text": "Where are we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 120.06,
+      "end_time": 120.78
+    },
+    {
+      "text": "Yeah, I can't see him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 125.26,
+      "end_time": 126.38
+    },
+    {
+      "text": "Ready when he is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 134.55,
+      "end_time": 135.43
+    },
+    {
+      "text": "Our team's in.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 147.91,
+      "end_time": 148.87
+    },
+    {
+      "text": "Where is he?",
+      "speaker_name": "jon southcombe",
+      "start_time": 174,
+      "end_time": 174.44
+    },
+    {
+      "text": "What's he doing?",
+      "speaker_name": "jon southcombe",
+      "start_time": 174.44,
+      "end_time": 175.04
+    },
+    {
+      "text": "Yeah, he's not.",
+      "speaker_name": "Andrew Day",
+      "start_time": 180.72,
+      "end_time": 181.6
+    },
+    {
+      "text": "He's not in the green room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 181.6,
+      "end_time": 182.8
+    },
+    {
+      "text": "Oh, no, John's gone.",
+      "speaker_name": "Andrew Day",
+      "start_time": 186.26,
+      "end_time": 187.38
+    },
+    {
+      "text": "Just me and you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 187.7,
+      "end_time": 188.5
+    },
+    {
+      "text": "Just the important.",
+      "speaker_name": "Andrew Day",
+      "start_time": 188.5,
+      "end_time": 189.14
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 189.22,
+      "end_time": 189.82
+    },
+    {
+      "text": "Yeah, the important.",
+      "speaker_name": "jon southcombe",
+      "start_time": 189.82,
+      "end_time": 190.5
+    },
+    {
+      "text": "People, mate.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 190.5,
+      "end_time": 191.1
+    },
+    {
+      "text": "People.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 191.1,
+      "end_time": 191.38
+    },
+    {
+      "text": "Do something.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 191.38,
+      "end_time": 191.94
+    },
+    {
+      "text": "How's the sales stuff going?",
+      "speaker_name": "Andrew Day",
+      "start_time": 191.94,
+      "end_time": 194.02
+    },
+    {
+      "text": "It's all right, mate.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 194.5,
+      "end_time": 195.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 195.34,
+      "end_time": 195.58
+    },
+    {
+      "text": "We've got another club.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 195.58,
+      "end_time": 196.5
+    },
+    {
+      "text": "We've done like six little con.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 196.9,
+      "end_time": 198.34
+    },
+    {
+      "text": "Five little contracts and a decent one this week, last two weeks.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 198.58,
+      "end_time": 202.1
+    },
+    {
+      "text": "So pipeline's ginormous.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 202.34,
+      "end_time": 205.22
+    },
+    {
+      "text": "We just gotta max it out the next sort of six to 10 weeks.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 205.86,
+      "end_time": 210.72
+    },
+    {
+      "text": "Where is it building?",
+      "speaker_name": "Andrew Day",
+      "start_time": 211.52,
+      "end_time": 212.4
+    },
+    {
+      "text": "Is it European or American?",
+      "speaker_name": "Andrew Day",
+      "start_time": 212.4,
+      "end_time": 214
+    },
+    {
+      "text": "Everything, really, but North America, we've got South America.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 214.32,
+      "end_time": 217.36
+    },
+    {
+      "text": "Really has got quite a lot going for it in terms of like a volta and stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 217.36,
+      "end_time": 220.84
+    },
+    {
+      "text": "It's big, big stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 220.84,
+      "end_time": 222.08
+    },
+    {
+      "text": "We've got a few bits in the uk, like type societies.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 223.12,
+      "end_time": 225.68
+    },
+    {
+      "text": "So, yeah, it's getting there, Andy, to be honest.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 225.68,
+      "end_time": 228
+    },
+    {
+      "text": "I think by the time somebody comes all the way back round in like September, October, time The business has changed so much to more SaaS tech.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 230,
+      "end_time": 239.08
+    },
+    {
+      "text": "It should be pretty, pretty attractive to be honest, rather than all this commission based.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 239.16,
+      "end_time": 243.4
+    },
+    {
+      "text": "So, yeah, I mean it's getting there.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 244.92,
+      "end_time": 247.12
+    },
+    {
+      "text": "The EBITDA should be about what we think and then we can start building because we don't need many more people, mate, to.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 247.12,
+      "end_time": 253
+    },
+    {
+      "text": "Once this stacks up, we just get paid.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 253,
+      "end_time": 255.12
+    },
+    {
+      "text": "Yeah, I mean that's a big difference to you win something, you've only got to recruit 20 people.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 255.12,
+      "end_time": 262.2
+    },
+    {
+      "text": "Cash flow gets murdered.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 262.2,
+      "end_time": 263.56
+    },
+    {
+      "text": "Commissions aren't quite what they made you to believe and then you're chasing your tail.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 264.29,
+      "end_time": 268.89
+    },
+    {
+      "text": "So yeah, it's good.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 268.89,
+      "end_time": 269.73
+    },
+    {
+      "text": "We've done the same thing, Matt, with our business over the last six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 271.09,
+      "end_time": 274.93
+    },
+    {
+      "text": "So we built our business called Deal Engines, which is more like a SaaS business model.",
+      "speaker_name": "Andrew Day",
+      "start_time": 275.49,
+      "end_time": 279.49
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 279.89,
+      "end_time": 280.45
+    },
+    {
+      "text": "So most of our business now goes through there and then the stuff where we need to work for commission, where we get percentage is kind of the gravy on top.",
+      "speaker_name": "Andrew Day",
+      "start_time": 280.85,
+      "end_time": 290.29
+    },
+    {
+      "text": "So we're not relying winning deals.",
+      "speaker_name": "Andrew Day",
+      "start_time": 290.29,
+      "end_time": 294.12
+    },
+    {
+      "text": "So yeah, yeah, I'm treating, I'm treating commission as like, as gravy and.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 295.8,
+      "end_time": 299.76
+    },
+    {
+      "text": "But we don't need it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 299.76,
+      "end_time": 300.56
+    },
+    {
+      "text": "If we get it, great.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 300.56,
+      "end_time": 301.48
+    },
+    {
+      "text": "But it's just moving, moving that dynamic with people like John, it's hard and that's between you and I, but it, yeah, it's tough.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 302.76,
+      "end_time": 312.24
+    },
+    {
+      "text": "But we're getting there, mate.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 312.24,
+      "end_time": 313.48
+    },
+    {
+      "text": "We're getting there.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 313.48,
+      "end_time": 314.04
+    },
+    {
+      "text": "So he's very understanding, he's very supportive.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 314.04,
+      "end_time": 317.16
+    },
+    {
+      "text": "It's just, he's.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 317.16,
+      "end_time": 319.32
+    },
+    {
+      "text": "Everyone's in a bit of a rush to be honest and it's not that easy to land a half a million pounds SAS business that's global for five years, worth two and a half million quid.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 319.52,
+      "end_time": 328.04
+    },
+    {
+      "text": "It takes a little bit of time, doesn't happen in a weekend.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 328.04,
+      "end_time": 331.28
+    },
+    {
+      "text": "So yeah, we believe in it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 332.48,
+      "end_time": 334.56
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 334.72,
+      "end_time": 335.12
+    },
+    {
+      "text": "Yeah, I think it's quite good.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 337.04,
+      "end_time": 339.04
+    },
+    {
+      "text": "I'm not quite sure what's now going on with this lot.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 339.12,
+      "end_time": 341.36
+    },
+    {
+      "text": "I mean, just tried to come back in, but you were talking about.",
+      "speaker_name": "Andrew Day",
+      "start_time": 341.36,
+      "end_time": 343.92
+    },
+    {
+      "text": "So I just left him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 343.92,
+      "end_time": 344.8
+    },
+    {
+      "text": "Oh, well done, mate.",
+      "speaker_name": "Andrew Day",
+      "start_time": 344.8,
+      "end_time": 345.6
+    },
+    {
+      "text": "Let him back in now he's gone.",
+      "speaker_name": "Andrew Day",
+      "start_time": 345.6,
+      "end_time": 347.12
+    },
+    {
+      "text": "That's what.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 349.92,
+      "end_time": 350.44
+    },
+    {
+      "text": "No, no, no, I mean that' sat in front of him.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 350.44,
+      "end_time": 352.1
+    },
+    {
+      "text": "I've known him for 12 years to say what I want, but.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 352.1,
+      "end_time": 354.54
+    },
+    {
+      "text": "But yeah, yeah, he's, he's got different motivations and everybody else, I can see you and Stuart are really ambitious now to keep this building and like scale it to the moon.",
+      "speaker_name": "Andrew Day",
+      "start_time": 355.1,
+      "end_time": 364.74
+    },
+    {
+      "text": "So different dynamic going on for you guys, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 364.74,
+      "end_time": 369.34
+    },
+    {
+      "text": "It's slightly different, yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 369.58,
+      "end_time": 371.42
+    },
+    {
+      "text": "Different motivations, different, different views.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 372.14,
+      "end_time": 374.54
+    },
+    {
+      "text": "Yeah, we've been close, right?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 376.54,
+      "end_time": 377.86
+    },
+    {
+      "text": "We've been close Maybe to getting something like Zif and Banyan, but no cigar yet.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 377.86,
+      "end_time": 383.94
+    },
+    {
+      "text": "But do you know, I'm kind of in two minds.",
+      "speaker_name": "Andrew Day",
+      "start_time": 384.58,
+      "end_time": 387.7
+    },
+    {
+      "text": "I mean, obviously it's been a lot of work for me and my team to get.",
+      "speaker_name": "Andrew Day",
+      "start_time": 387.7,
+      "end_time": 390.22
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 390.22,
+      "end_time": 390.9
+    },
+    {
+      "text": "Table.",
+      "speaker_name": "Andrew Day",
+      "start_time": 391.14,
+      "end_time": 391.62
+    },
+    {
+      "text": "But also I think we were presenting them with a different business than you've got now and certainly what's going to shape up over the next six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 392.26,
+      "end_time": 398.98
+    },
+    {
+      "text": "So we almost would have sold them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 399.06,
+      "end_time": 401.06
+    },
+    {
+      "text": "One second there, Andy.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 404.18,
+      "end_time": 405.3
+    },
+    {
+      "text": "One second, Andy.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 405.3,
+      "end_time": 406.1
+    },
+    {
+      "text": "Have I got to talk for that?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 406.1,
+      "end_time": 407.22
+    },
+    {
+      "text": "Wow, that's a big, big question.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 410.25,
+      "end_time": 411.53
+    },
+    {
+      "text": "Yeah, one sec.",
+      "speaker_name": "Andrew Day",
+      "start_time": 411.85,
+      "end_time": 414.45
+    },
+    {
+      "text": "Well, I'm just going to put myself on mute.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 414.45,
+      "end_time": 415.97
+    },
+    {
+      "text": "One sec.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 415.97,
+      "end_time": 416.41
+    },
+    {
+      "text": "Hi, John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 419.77,
+      "end_time": 420.49
+    },
+    {
+      "text": "Yeah, so Stuart found me on the mobile.",
+      "speaker_name": "Andrew Day",
+      "start_time": 421.37,
+      "end_time": 423.93
+    },
+    {
+      "text": "So I took the call thinking that you're back in on the computer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 423.93,
+      "end_time": 427.29
+    },
+    {
+      "text": "Oh, yeah, just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 427.45,
+      "end_time": 428.45
+    },
+    {
+      "text": "Just come back in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 428.45,
+      "end_time": 429.25
+    },
+    {
+      "text": "I should see you in the green room and let you in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 429.25,
+      "end_time": 430.81
+    },
+    {
+      "text": "I did see you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 430.81,
+      "end_time": 431.41
+    },
+    {
+      "text": "Just as I was about to press it, you disappeared.",
+      "speaker_name": "Andrew Day",
+      "start_time": 431.41,
+      "end_time": 433.93
+    },
+    {
+      "text": "Am I there again?",
+      "speaker_name": "Andrew Day",
+      "start_time": 434.5,
+      "end_time": 435.3
+    },
+    {
+      "text": "Can you see me now?",
+      "speaker_name": "Andrew Day",
+      "start_time": 435.3,
+      "end_time": 436.14
+    },
+    {
+      "text": "I'm waiting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 436.14,
+      "end_time": 436.82
+    },
+    {
+      "text": "Nope.",
+      "speaker_name": "Andrew Day",
+      "start_time": 437.38,
+      "end_time": 437.94
+    },
+    {
+      "text": "If you can refresh, maybe wherever you're waiting, I'll leave and ask to join.",
+      "speaker_name": "Andrew Day",
+      "start_time": 438.5,
+      "end_time": 444.66
+    },
+    {
+      "text": "The meeting because then Stuart can listen to my phone when we're speaking.",
+      "speaker_name": "Andrew Day",
+      "start_time": 444.66,
+      "end_time": 447.62
+    },
+    {
+      "text": "But I'm joining now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 448.74,
+      "end_time": 450.06
+    },
+    {
+      "text": "You hear me there?",
+      "speaker_name": "Andrew Day",
+      "start_time": 450.06,
+      "end_time": 450.98
+    },
+    {
+      "text": "Since I'm waiting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 454.34,
+      "end_time": 455.38
+    },
+    {
+      "text": "Let me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 458.98,
+      "end_time": 459.62
+    },
+    {
+      "text": "I can't see John now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 471.45,
+      "end_time": 472.65
+    },
+    {
+      "text": "You've got the right link.",
+      "speaker_name": "Andrew Day",
+      "start_time": 472.89,
+      "end_time": 474.45
+    },
+    {
+      "text": "Is it the same one with the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 474.45,
+      "end_time": 477.21
+    },
+    {
+      "text": "One that's in my calendar today?",
+      "speaker_name": "Andrew Day",
+      "start_time": 477.21,
+      "end_time": 478.65
+    },
+    {
+      "text": "The one that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 479.77,
+      "end_time": 480.57
+    },
+    {
+      "text": "Yeah, it's the right one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 483.37,
+      "end_time": 484.45
+    },
+    {
+      "text": "Fine, let's have a look.",
+      "speaker_name": "Andrew Day",
+      "start_time": 484.45,
+      "end_time": 486.09
+    },
+    {
+      "text": "Let's have a look.",
+      "speaker_name": "Andrew Day",
+      "start_time": 486.09,
+      "end_time": 486.81
+    },
+    {
+      "text": "Funny enough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 498.77,
+      "end_time": 499.25
+    },
+    {
+      "text": "Why is there not one on Friday 1st August in my calendar?",
+      "speaker_name": "Andrew Day",
+      "start_time": 500.29,
+      "end_time": 504.13
+    },
+    {
+      "text": "In my computer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 504.13,
+      "end_time": 505.17
+    },
+    {
+      "text": "Good pressure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 507.97,
+      "end_time": 508.77
+    },
+    {
+      "text": "I'm just having a look here.",
+      "speaker_name": "Andrew Day",
+      "start_time": 508.77,
+      "end_time": 510.13
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 511.01,
+      "end_time": 511.57
+    },
+    {
+      "text": "It's a TSG weekly update.",
+      "speaker_name": "Andrew Day",
+      "start_time": 511.57,
+      "end_time": 513.33
+    },
+    {
+      "text": "Shall I send you the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 514.64,
+      "end_time": 515.8
+    },
+    {
+      "text": "No, it's okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 515.8,
+      "end_time": 516.48
+    },
+    {
+      "text": "I'm doing it again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 516.48,
+      "end_time": 516.96
+    },
+    {
+      "text": "Here we go.",
+      "speaker_name": "Andrew Day",
+      "start_time": 516.96,
+      "end_time": 517.44
+    },
+    {
+      "text": "Let's try this one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 517.44,
+      "end_time": 518.4
+    },
+    {
+      "text": "This appointment is a series.",
+      "speaker_name": "Andrew Day",
+      "start_time": 518.96,
+      "end_time": 520.24
+    },
+    {
+      "text": "Okay, I'm just boring.",
+      "speaker_name": "Andrew Day",
+      "start_time": 520.24,
+      "end_time": 521.92
+    },
+    {
+      "text": "This is so boring.",
+      "speaker_name": "Andrew Day",
+      "start_time": 521.92,
+      "end_time": 522.72
+    },
+    {
+      "text": "You should me saying fuck off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 523.12,
+      "end_time": 526.68
+    },
+    {
+      "text": "What's going on here?",
+      "speaker_name": "Andrew Day",
+      "start_time": 526.68,
+      "end_time": 527.68
+    },
+    {
+      "text": "Let me open it up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 528,
+      "end_time": 529.2
+    },
+    {
+      "text": "Can you see me now?",
+      "speaker_name": "Andrew Day",
+      "start_time": 533.6,
+      "end_time": 534.64
+    },
+    {
+      "text": "Not yet.",
+      "speaker_name": "Andrew Day",
+      "start_time": 536,
+      "end_time": 536.64
+    },
+    {
+      "text": "Have you seen how.",
+      "speaker_name": "Andrew Day",
+      "start_time": 538.16,
+      "end_time": 539.2
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 541.14,
+      "end_time": 541.86
+    },
+    {
+      "text": "I'm gonna call Stuart on my phone, guys.",
+      "speaker_name": "jon southcombe",
+      "start_time": 542.98,
+      "end_time": 545.06
+    },
+    {
+      "text": "Okay?",
+      "speaker_name": "jon southcombe",
+      "start_time": 545.54,
+      "end_time": 546.1
+    },
+    {
+      "text": "Can you guys hear me?",
+      "speaker_name": "jon southcombe",
+      "start_time": 552.58,
+      "end_time": 553.7
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "jon southcombe",
+      "start_time": 555.86,
+      "end_time": 556.66
+    },
+    {
+      "text": "Yay.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 556.739,
+      "end_time": 557.22
+    },
+    {
+      "text": "There you are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 557.22,
+      "end_time": 557.86
+    },
+    {
+      "text": "So I'm gonna call Stuart so he can listen on my phone.",
+      "speaker_name": "jon southcombe",
+      "start_time": 559.06,
+      "end_time": 562.7
+    },
+    {
+      "text": "That was the whole idea.",
+      "speaker_name": "jon southcombe",
+      "start_time": 562.7,
+      "end_time": 563.7
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 564.1,
+      "end_time": 564.74
+    },
+    {
+      "text": "Took us a long time to get there, so apologies for that phone call.",
+      "speaker_name": "jon southcombe",
+      "start_time": 565.62,
+      "end_time": 570.18
+    },
+    {
+      "text": "Put you on speaker.",
+      "speaker_name": "jon southcombe",
+      "start_time": 570.58,
+      "end_time": 571.86
+    },
+    {
+      "text": "Answer the phone, please.",
+      "speaker_name": "jon southcombe",
+      "start_time": 573.06,
+      "end_time": 574.58
+    },
+    {
+      "text": "Stuart.",
+      "speaker_name": "jon southcombe",
+      "start_time": 583.54,
+      "end_time": 584.1
+    },
+    {
+      "text": "I'm phony.",
+      "speaker_name": "jon southcombe",
+      "start_time": 586.82,
+      "end_time": 587.42
+    },
+    {
+      "text": "Stuart's court.",
+      "speaker_name": "jon southcombe",
+      "start_time": 587.42,
+      "end_time": 588.06
+    },
+    {
+      "text": "Yes, I said wait.",
+      "speaker_name": "jon southcombe",
+      "start_time": 588.06,
+      "end_time": 589.1
+    },
+    {
+      "text": "I'll call you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 589.1,
+      "end_time": 589.86
+    },
+    {
+      "text": "How come he can't get him?",
+      "speaker_name": "Andrew Day",
+      "start_time": 590.18,
+      "end_time": 591.34
+    },
+    {
+      "text": "Is he out and About.",
+      "speaker_name": "Andrew Day",
+      "start_time": 591.34,
+      "end_time": 592.42
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "jon southcombe",
+      "start_time": 593.14,
+      "end_time": 593.86
+    },
+    {
+      "text": "Hell.",
+      "speaker_name": "jon southcombe",
+      "start_time": 596.65,
+      "end_time": 596.97
+    },
+    {
+      "text": "All right, forget that.",
+      "speaker_name": "jon southcombe",
+      "start_time": 597.77,
+      "end_time": 600.41
+    },
+    {
+      "text": "Let's go.",
+      "speaker_name": "jon southcombe",
+      "start_time": 600.65,
+      "end_time": 601.21
+    },
+    {
+      "text": "Let's carry on.",
+      "speaker_name": "jon southcombe",
+      "start_time": 601.21,
+      "end_time": 601.77
+    },
+    {
+      "text": "Let's get going.",
+      "speaker_name": "jon southcombe",
+      "start_time": 601.77,
+      "end_time": 602.41
+    },
+    {
+      "text": "Okay, well, I need to speak to Stuart because I. I need some dates for him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 603.13,
+      "end_time": 607.29
+    },
+    {
+      "text": "So Ahmed has emailed him and I think Stuart is one person that really struggles to get emails from Ahmed for whatever reason.",
+      "speaker_name": "Andrew Day",
+      "start_time": 607.29,
+      "end_time": 614.09
+    },
+    {
+      "text": "But we need some availability for Stuart for next week.",
+      "speaker_name": "Andrew Day",
+      "start_time": 615.05,
+      "end_time": 618.05
+    },
+    {
+      "text": "I don't know if you could relay that, Matt, and if he's available.",
+      "speaker_name": "Andrew Day",
+      "start_time": 618.05,
+      "end_time": 622.37
+    },
+    {
+      "text": "I think you're on mute still, Matt.",
+      "speaker_name": "Andrew Day",
+      "start_time": 624.37,
+      "end_time": 627.77
+    },
+    {
+      "text": "You're on mute.",
+      "speaker_name": "jon southcombe",
+      "start_time": 627.77,
+      "end_time": 628.45
+    },
+    {
+      "text": "I think he's talking.",
+      "speaker_name": "Andrew Day",
+      "start_time": 629.17,
+      "end_time": 629.93
+    },
+    {
+      "text": "He was talking to somebody else about his National Insurance number when he switched me off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 629.93,
+      "end_time": 632.93
+    },
+    {
+      "text": "Anyway, I'll relay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 634.37,
+      "end_time": 636.209
+    },
+    {
+      "text": "I'll relay to Stuart that he needs to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 636.209,
+      "end_time": 638.69
+    },
+    {
+      "text": "He needs to give us availability.",
+      "speaker_name": "Andrew Day",
+      "start_time": 638.93,
+      "end_time": 640.53
+    },
+    {
+      "text": "So we've got another company called Locally.",
+      "speaker_name": "Andrew Day",
+      "start_time": 642.29,
+      "end_time": 645.01
+    },
+    {
+      "text": "Did you get the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 646.22,
+      "end_time": 647.02
+    },
+    {
+      "text": "The memo on that?",
+      "speaker_name": "Andrew Day",
+      "start_time": 648.38,
+      "end_time": 649.5
+    },
+    {
+      "text": "Yeah, I did.",
+      "speaker_name": "jon southcombe",
+      "start_time": 650.38,
+      "end_time": 651.34
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 651.34,
+      "end_time": 651.9
+    },
+    {
+      "text": "I did.",
+      "speaker_name": "jon southcombe",
+      "start_time": 651.98,
+      "end_time": 652.46
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 652.46,
+      "end_time": 653.02
+    },
+    {
+      "text": "Yeah, is Matt, are you listening to this?",
+      "speaker_name": "jon southcombe",
+      "start_time": 653.42,
+      "end_time": 655.7
+    },
+    {
+      "text": "Yep, I'm back now.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 655.7,
+      "end_time": 656.9
+    },
+    {
+      "text": "Sorry, guys, I got two calls at once.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 656.9,
+      "end_time": 658.86
+    },
+    {
+      "text": "I had to pick it up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 658.86,
+      "end_time": 659.9
+    },
+    {
+      "text": "Yeah, go on.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 659.9,
+      "end_time": 660.58
+    },
+    {
+      "text": "Sorry I missed that last minute.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 660.58,
+      "end_time": 662.74
+    },
+    {
+      "text": "Say that again.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 662.74,
+      "end_time": 663.34
+    },
+    {
+      "text": "Andy, mate.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 663.34,
+      "end_time": 664.14
+    },
+    {
+      "text": "Oh, don't worry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 664.22,
+      "end_time": 665.02
+    },
+    {
+      "text": "I'm going to email Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 665.02,
+      "end_time": 666.26
+    },
+    {
+      "text": "But basically Ahmed has emailed him a few times.",
+      "speaker_name": "Andrew Day",
+      "start_time": 666.26,
+      "end_time": 668.34
+    },
+    {
+      "text": "I don't think Stuart gets Ahmed's emails for whatever reason or he doesn't get them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 668.34,
+      "end_time": 672.86
+    },
+    {
+      "text": "They seem to have a problem, don't they?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 672.86,
+      "end_time": 674.02
+    },
+    {
+      "text": "They've had a problem multiple times.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 674.02,
+      "end_time": 675.26
+    },
+    {
+      "text": "Haven't they.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 675.26,
+      "end_time": 675.82
+    },
+    {
+      "text": "Believe that Ahmed has emailed him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 677.8,
+      "end_time": 679.28
+    },
+    {
+      "text": "So I'll send it on to him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 679.28,
+      "end_time": 682.2
+    },
+    {
+      "text": "Could you do me a favor, Andy?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 682.28,
+      "end_time": 683.48
+    },
+    {
+      "text": "Can you ask Ahmed to put me on as well?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 683.48,
+      "end_time": 685.16
+    },
+    {
+      "text": "Yeah, I will always be the backup plan.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 685.32,
+      "end_time": 690.52
+    },
+    {
+      "text": "Okay, no worries.",
+      "speaker_name": "Andrew Day",
+      "start_time": 691.48,
+      "end_time": 693.88
+    },
+    {
+      "text": "So that was number one on the agenda.",
+      "speaker_name": "jon southcombe",
+      "start_time": 697.32,
+      "end_time": 699.12
+    },
+    {
+      "text": "Number two on the agenda is so.",
+      "speaker_name": "jon southcombe",
+      "start_time": 699.12,
+      "end_time": 701.52
+    },
+    {
+      "text": "Well, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 701.52,
+      "end_time": 702.04
+    },
+    {
+      "text": "So Locally are interested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 702.04,
+      "end_time": 703.2
+    },
+    {
+      "text": "We need to do it to give us his availability for now, next week, which is good, but they're really keen to meet.",
+      "speaker_name": "Andrew Day",
+      "start_time": 703.2,
+      "end_time": 708.05
+    },
+    {
+      "text": "The other thing is, which I emailed about was that we're just going to pause outbound this month.",
+      "speaker_name": "Andrew Day",
+      "start_time": 709.01,
+      "end_time": 713.89
+    },
+    {
+      "text": "We've done a lot of outbound during July, but it's just getting to the point where it's all out of office responders.",
+      "speaker_name": "Andrew Day",
+      "start_time": 714.53,
+      "end_time": 721.169
+    },
+    {
+      "text": "So rather than waste those leads, we're just going to sit on them until September and everybody's back at their desks.",
+      "speaker_name": "Andrew Day",
+      "start_time": 721.17,
+      "end_time": 726.45
+    },
+    {
+      "text": "We've certainly done a lot of research.",
+      "speaker_name": "Andrew Day",
+      "start_time": 727.49,
+      "end_time": 729.33
+    },
+    {
+      "text": "We're probably going more in a sort of software.",
+      "speaker_name": "Andrew Day",
+      "start_time": 730.05,
+      "end_time": 732.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 732.13,
+      "end_time": 732.57
+    },
+    {
+      "text": "Direction and retail.",
+      "speaker_name": "Andrew Day",
+      "start_time": 732.8,
+      "end_time": 736.48
+    },
+    {
+      "text": "Retail stuff just to see what we can get.",
+      "speaker_name": "Andrew Day",
+      "start_time": 736.64,
+      "end_time": 738.72
+    },
+    {
+      "text": "But yeah, capitala is part of that, which is looking good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 739.84,
+      "end_time": 743.2
+    },
+    {
+      "text": "The other thing, John, was you asked about that list of companies, so Ahmed sent you the list, didn't they?",
+      "speaker_name": "Andrew Day",
+      "start_time": 743.2,
+      "end_time": 751.04
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 751.6,
+      "end_time": 752.04
+    },
+    {
+      "text": "So very simple.",
+      "speaker_name": "jon southcombe",
+      "start_time": 752.04,
+      "end_time": 753.92
+    },
+    {
+      "text": "If, as I said on my email, if we're going to go back to the market and say we have, we failed for a year and we failed, but we don't know why we failed, so we're going to go again or do we go back and say, hey, we failed, we've listened, we understand what your challenges were.",
+      "speaker_name": "jon southcombe",
+      "start_time": 755.44,
+      "end_time": 771.37
+    },
+    {
+      "text": "And those challenges were either we were too much revenue from retail or too much mixed revenue or our tech was broken, it didn't work, or, or we don't.",
+      "speaker_name": "jon southcombe",
+      "start_time": 772.01,
+      "end_time": 782.61
+    },
+    {
+      "text": "We have to have some meaningful debate here because I'm a year in and I don't know why people are walking away.",
+      "speaker_name": "jon southcombe",
+      "start_time": 782.61,
+      "end_time": 789.16
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 789.72,
+      "end_time": 791.48
+    },
+    {
+      "text": "To be honest with you, I don't, I don't think we've got a consistent answer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 791.8,
+      "end_time": 795.68
+    },
+    {
+      "text": "I mean, there are some clients that we have that are a pain in the ass for one reason or another and we're not getting deals closed because of that reason.",
+      "speaker_name": "Andrew Day",
+      "start_time": 795.68,
+      "end_time": 802.56
+    },
+    {
+      "text": "They're just not listening.",
+      "speaker_name": "Andrew Day",
+      "start_time": 802.56,
+      "end_time": 803.48
+    },
+    {
+      "text": "But you guys are not that client.",
+      "speaker_name": "Andrew Day",
+      "start_time": 803.48,
+      "end_time": 805
+    },
+    {
+      "text": "I think what's happened, and I was just kind of talking to Matt a bit about it a little bit, is that the business has shifted during the process from one type of thing to a newer thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 806.44,
+      "end_time": 817.49
+    },
+    {
+      "text": "When we initially went out to market, we weren't a SaaS business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 818.05,
+      "end_time": 822.45
+    },
+    {
+      "text": "So anybody that took a look was like, it's not really, it's not really what we're doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 823.33,
+      "end_time": 828.01
+    },
+    {
+      "text": "You know, if they were a software business and if they were an agency type, as they were interested, well, they have been interested and they are taking a look, but we just haven't managed to close any of those agencies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 828.01,
+      "end_time": 841.14
+    },
+    {
+      "text": "And my feeling is that agencies just don't have an appetite to pay high multiples for small businesses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 841.14,
+      "end_time": 849.54
+    },
+    {
+      "text": "So for software businesses doing a couple of million, they don't have the Appetite to pay 10 plus multiples for those types of business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 849.86,
+      "end_time": 859.18
+    },
+    {
+      "text": "So they're used to buying businesses for 5x and they can scale quite successfully like that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 859.18,
+      "end_time": 864.7
+    },
+    {
+      "text": "So I think the software route is the way to go.",
+      "speaker_name": "Andrew Day",
+      "start_time": 864.7,
+      "end_time": 867.9
+    },
+    {
+      "text": "Or businesses that are used to acquiring softwares, software companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 869.26,
+      "end_time": 872.86
+    },
+    {
+      "text": "And as you continue to grow in that direction, that's the business that we can confidently, confidently put in front of the buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 873.5,
+      "end_time": 881.82
+    },
+    {
+      "text": "I will go through this list, John, and see if we can give you anything more solid than that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 883.5,
+      "end_time": 889.58
+    },
+    {
+      "text": "But certainly we don't get a lot of honesty.",
+      "speaker_name": "Andrew Day",
+      "start_time": 890.34,
+      "end_time": 894.34
+    },
+    {
+      "text": "If it's a no.",
+      "speaker_name": "Andrew Day",
+      "start_time": 894.34,
+      "end_time": 895.22
+    },
+    {
+      "text": "People just say, yeah, we're going to pass or we're focused on something else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 895.78,
+      "end_time": 899.7
+    },
+    {
+      "text": "They don't sort of dig in and give us a big reason why they haven't passed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 899.7,
+      "end_time": 905.699
+    },
+    {
+      "text": "The only ones that give us the bigger reasons are the ones that we've really spoken to, Like Zip, for instance, where they've kind of tried to give us a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 905.699,
+      "end_time": 917.76
+    },
+    {
+      "text": "A bigger explanation.",
+      "speaker_name": "Andrew Day",
+      "start_time": 918.56,
+      "end_time": 920.16
+    },
+    {
+      "text": "But have they given us an explanation on that one?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 920.88,
+      "end_time": 923.08
+    },
+    {
+      "text": "Andy, though, did they ever come back to you?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 923.08,
+      "end_time": 924.96
+    },
+    {
+      "text": "Well, not really, but at least they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 925.04,
+      "end_time": 926.48
+    },
+    {
+      "text": "Yeah, they did come back to us, but they haven't really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 926.56,
+      "end_time": 928.28
+    },
+    {
+      "text": "I didn't just say enough off, but do one.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 928.28,
+      "end_time": 930.24
+    },
+    {
+      "text": "Yeah, but what was it?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 930.24,
+      "end_time": 931.36
+    },
+    {
+      "text": "What was their reason in the end?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 931.36,
+      "end_time": 932.72
+    },
+    {
+      "text": "Was it just timing?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 932.72,
+      "end_time": 933.84
+    },
+    {
+      "text": "They were focused on something else, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 934.8,
+      "end_time": 936.64
+    },
+    {
+      "text": "Let me just see what they were, Erica.",
+      "speaker_name": "Andrew Day",
+      "start_time": 936.64,
+      "end_time": 938.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 938.56,
+      "end_time": 938.72
+    },
+    {
+      "text": "No, no, no.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 938.72,
+      "end_time": 939.24
+    },
+    {
+      "text": "I mean, that's not really.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 939.24,
+      "end_time": 940.2
+    },
+    {
+      "text": "Yeah, I mean, they kept coming back like a boomerang, but you never know.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 940.2,
+      "end_time": 943.64
+    },
+    {
+      "text": "On the next.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 944.68,
+      "end_time": 945.4
+    },
+    {
+      "text": "I'll read it out to you, Matt.",
+      "speaker_name": "Andrew Day",
+      "start_time": 946.36,
+      "end_time": 947.64
+    },
+    {
+      "text": "And this is very typical.",
+      "speaker_name": "Andrew Day",
+      "start_time": 947.8,
+      "end_time": 949.08
+    },
+    {
+      "text": "And this is something we spent like six months with, but this is very typical.",
+      "speaker_name": "Andrew Day",
+      "start_time": 949.24,
+      "end_time": 952.52
+    },
+    {
+      "text": "Hi, Andy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 953.4,
+      "end_time": 954.08
+    },
+    {
+      "text": "My apologies for the continued delay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 954.08,
+      "end_time": 955.8
+    },
+    {
+      "text": "We've ultimately decided to pass at this time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 955.8,
+      "end_time": 958.04
+    },
+    {
+      "text": "Our leadership has been tied up with other M and A opportunities and internal initiatives, along with some vacations.",
+      "speaker_name": "Andrew Day",
+      "start_time": 958.04,
+      "end_time": 964.12
+    },
+    {
+      "text": "And we don't want to cause any further holdup on your end.",
+      "speaker_name": "Andrew Day",
+      "start_time": 965.48,
+      "end_time": 968.12
+    },
+    {
+      "text": "Thank you again for your time and for sharing the information with us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 968.2,
+      "end_time": 971.16
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 972.07,
+      "end_time": 972.31
+    },
+    {
+      "text": "Yeah, yeah, that's a nice way of saying off.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 972.71,
+      "end_time": 976.07
+    },
+    {
+      "text": "Well, there's like three different reasons in there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 977.43,
+      "end_time": 979.35
+    },
+    {
+      "text": "Yeah, three different reasons.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 979.43,
+      "end_time": 981.07
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 981.07,
+      "end_time": 981.39
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 981.39,
+      "end_time": 981.75
+    },
+    {
+      "text": "But, you know, I think it's just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 982.79,
+      "end_time": 984.35
+    },
+    {
+      "text": "It is just going to be timing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 984.35,
+      "end_time": 985.59
+    },
+    {
+      "text": "At the end of the day, it may be that we go back to this.",
+      "speaker_name": "Andrew Day",
+      "start_time": 985.59,
+      "end_time": 987.43
+    },
+    {
+      "text": "If Davis in three months and they have just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 987.43,
+      "end_time": 989.35
+    },
+    {
+      "text": "They finished whatever they were doing with an acquisition and they're ready to go on the next one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 989.43,
+      "end_time": 994.23
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 994.63,
+      "end_time": 995.11
+    },
+    {
+      "text": "But again, if we're saying, you know, we've got a deadline, we need an offer, then they're saying, okay, we're not going to hold it up any longer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 995.19,
+      "end_time": 1000.53
+    },
+    {
+      "text": "That's decent of it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1001.41,
+      "end_time": 1002.45
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1002.45,
+      "end_time": 1002.77
+    },
+    {
+      "text": "To be fair.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1002.93,
+      "end_time": 1003.57
+    },
+    {
+      "text": "Well, they had held it up for like two months, but yeah, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1003.57,
+      "end_time": 1008.29
+    },
+    {
+      "text": "So it's tricky.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1008.29,
+      "end_time": 1009.09
+    },
+    {
+      "text": "I mean, and I can go down this list, you know, for Banyan and, you know, Hagarth, Stagwell, they've all come up with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1009.09,
+      "end_time": 1016.05
+    },
+    {
+      "text": "I mean, let's pull up some of these and I can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1016.05,
+      "end_time": 1018.05
+    },
+    {
+      "text": "I can read what their last reason was for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1018.29,
+      "end_time": 1022.85
+    },
+    {
+      "text": "For not doing something for memory.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1022.85,
+      "end_time": 1025.81
+    },
+    {
+      "text": "Only from memory.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1025.81,
+      "end_time": 1026.65
+    },
+    {
+      "text": "I don't think we've got any other objection than something which you would tell a fat girl that, you know, you don't want to date her anymore.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1026.65,
+      "end_time": 1033.77
+    },
+    {
+      "text": "There is.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1033.93,
+      "end_time": 1034.57
+    },
+    {
+      "text": "There's nothing there that says your.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1034.65,
+      "end_time": 1037.37
+    },
+    {
+      "text": "Your software is prehistoric.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1037.61,
+      "end_time": 1039.69
+    },
+    {
+      "text": "The Only one I can remember was the mixed revenue was an issue and I remember that our turnover wasn't high enough.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1040.41,
+      "end_time": 1048.33
+    },
+    {
+      "text": "But yeah, I think size is gonna, size is, is consistently showing up John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1049.37,
+      "end_time": 1054.2
+    },
+    {
+      "text": "So we do get that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1054.2,
+      "end_time": 1055.08
+    },
+    {
+      "text": "So if somebody initially gets the IM they'll.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1055.08,
+      "end_time": 1059.84
+    },
+    {
+      "text": "And then we're chasing up for, for you know, for a meeting consistently they say yeah, we're going to pass.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1059.84,
+      "end_time": 1066.48
+    },
+    {
+      "text": "It's not quite big enough for us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1066.48,
+      "end_time": 1067.84
+    },
+    {
+      "text": "So that, that has been something that we've definitely seen over time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1067.84,
+      "end_time": 1072.04
+    },
+    {
+      "text": "So you know, I think it's tricky because we need buyers that have got deeper pockets but maybe we're just under where, where it needs to be for them to pull the trigger.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1073.24,
+      "end_time": 1085.15
+    },
+    {
+      "text": "Not everybody but, but some of them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1085.31,
+      "end_time": 1087.15
+    },
+    {
+      "text": "Let me see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1089.15,
+      "end_time": 1089.79
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1092.19,
+      "end_time": 1092.51
+    },
+    {
+      "text": "And John, while Andy pulls it up, I think you're right by the, the that where the income comes from and it's one beer moth client, not lots of little ones was a thing that we had with.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1092.51,
+      "end_time": 1103.55
+    },
+    {
+      "text": "So we've done, we done that.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1103.63,
+      "end_time": 1105.56
+    },
+    {
+      "text": "We need to sell more data and tech which we're doing less service orientated stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1107.96,
+      "end_time": 1113.56
+    },
+    {
+      "text": "So I think we're doing all the right stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1113.56,
+      "end_time": 1115.16
+    },
+    {
+      "text": "We're trying to get bigger.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1116.28,
+      "end_time": 1117.28
+    },
+    {
+      "text": "Obviously it just stands to reason.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1117.28,
+      "end_time": 1119.32
+    },
+    {
+      "text": "The only reason I'm doing this line of questioning is because if you go back and again it's your lane and Andy, these companies, I would imagine I've been told by other people that if you've gone to the market and you haven't been successful then it's always a tough one to go back again.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1123.56,
+      "end_time": 1139.51
+    },
+    {
+      "text": "Well the way that we work really isn't with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1141.91,
+      "end_time": 1144.55
+    },
+    {
+      "text": "I mean the market is massive, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1144.95,
+      "end_time": 1146.95
+    },
+    {
+      "text": "It's not like there's probably a million options out there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1146.95,
+      "end_time": 1150.27
+    },
+    {
+      "text": "We're not hitting a million options on day one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1150.27,
+      "end_time": 1152.47
+    },
+    {
+      "text": "So I wouldn't say the market is now closed to an acquisition.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1152.87,
+      "end_time": 1157.03
+    },
+    {
+      "text": "I would certainly say Ziff Haygarth, some of those are going to look at it slightly different if we come back six months later and say we're still on the market.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1158.08,
+      "end_time": 1169.6
+    },
+    {
+      "text": "Not all of them because they understand these processes take a while.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1169.76,
+      "end_time": 1173.84
+    },
+    {
+      "text": "But I think how it normally plays out John is like the Coolco approach where they were like look, if nobody buys we're just going to lowball.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1174.32,
+      "end_time": 1182.32
+    },
+    {
+      "text": "So if somebody is giving you sort of a story then that is the, the dark side of going to the market and nothing happening is you get all the clowns coming in and low balling and obviously we don't want to sell.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1182.96,
+      "end_time": 1197.91
+    },
+    {
+      "text": "It's not a fire sale.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1197.99,
+      "end_time": 1199.35
+    },
+    {
+      "text": "But we are still in the process of finding other interesting Leads and putting the opportunity in front of them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1201.27,
+      "end_time": 1206.59
+    },
+    {
+      "text": "I wouldn't say that it's over.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1206.59,
+      "end_time": 1207.99
+    },
+    {
+      "text": "What's the bigger pitch for you, John?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1209.03,
+      "end_time": 1210.55
+    },
+    {
+      "text": "Because for me, I would say if we are going to continue going in the direction that Matt is selling the business towards, why don't we wait for six months and then hit the market in six months with a bigger track record of the SaaS business?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1210.55,
+      "end_time": 1229.04
+    },
+    {
+      "text": "And so we've got a full story, whereas we've kind of gone with two conflicting stories to the market 12 months ago.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1229.68,
+      "end_time": 1237.04
+    },
+    {
+      "text": "And now we're pushing towards the SaaS business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1237.44,
+      "end_time": 1239.84
+    },
+    {
+      "text": "But then we have the responses like we had with that company where they said, you know, you just, you don't have a track record that's long enough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1240.24,
+      "end_time": 1248.41
+    },
+    {
+      "text": "That shows us what you're like at retaining clients over a long period of time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1248.41,
+      "end_time": 1252.97
+    },
+    {
+      "text": "We just don't have that track record yet.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1252.97,
+      "end_time": 1254.73
+    },
+    {
+      "text": "I felt that when I remember that one coming to the surface.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1256.41,
+      "end_time": 1259.01
+    },
+    {
+      "text": "I mean, again, depending on what lens you're looking through, Base has one major customer, which is Sainsbury's, and had them for 13 years.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1259.01,
+      "end_time": 1266.65
+    },
+    {
+      "text": "And I think also from the deck that Matt and Stuart did, which was trying to answer some of the questions about a month ago, I think it will look very positive, actually, from the lens that they put forward, how many customers we've kept and what period of time we've kept.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1268.65,
+      "end_time": 1283.75
+    },
+    {
+      "text": "And I think you picked up that it was circular.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1283.75,
+      "end_time": 1286.43
+    },
+    {
+      "text": "Whatever.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1286.43,
+      "end_time": 1286.91
+    },
+    {
+      "text": "We lose clients, retail clients, every three years or something, four years.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1287.39,
+      "end_time": 1291.23
+    },
+    {
+      "text": "And that's what's happened with our retailer.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1291.71,
+      "end_time": 1293.43
+    },
+    {
+      "text": "But I don't think that's the case for tech in Base technologies, because we had Heineken for a long time about Sainsbury's for a long time.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1293.43,
+      "end_time": 1301.32
+    },
+    {
+      "text": "And I think the argument would be that we don't have many clients, but the ones that we do have we've kept for many, many years.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1301.64,
+      "end_time": 1308.44
+    },
+    {
+      "text": "So the problem we had in that situation was they had a sort of marker in the sand and we were below it and it wasn't very much and it was like 7% off or something stupid, wasn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1309.56,
+      "end_time": 1319.56
+    },
+    {
+      "text": "But this is how investment committees work in these larger organizations.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1320.44,
+      "end_time": 1325.56
+    },
+    {
+      "text": "And we're trying to sell into a larger organization.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1325.56,
+      "end_time": 1328.62
+    },
+    {
+      "text": "And what they do is they have very specific criteria and they're doing the same as us on the other side.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1329.74,
+      "end_time": 1335.66
+    },
+    {
+      "text": "They're going out to hundreds of opportunities every month, and if it doesn't match with the criteria, they just move on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1335.82,
+      "end_time": 1341.9
+    },
+    {
+      "text": "It's that strict, the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1341.9,
+      "end_time": 1343.34
+    },
+    {
+      "text": "So we're just missing some of the, you know, some of the markers that they've got that we need to be over, unfortunately.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1343.66,
+      "end_time": 1355.09
+    },
+    {
+      "text": "So I mean the alternative is that we go for the cool co type companies who are a bit more, you know, like pirates on the high sea and they're just, I mean they're more prepared maybe to not be so stringent on what it is that they need from an investment for them to pull the trigger.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1355.33,
+      "end_time": 1377.09
+    },
+    {
+      "text": "But their offers are not going to be as good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1377.49,
+      "end_time": 1379.81
+    },
+    {
+      "text": "That's the issue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1380.13,
+      "end_time": 1380.85
+    },
+    {
+      "text": "I agree.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1381.98,
+      "end_time": 1382.3
+    },
+    {
+      "text": "But if you say to me there is a three line width, five points that we need to be over indexing on, I can get my head around that and I can think about, okay, should we delay for six months because we have to get to this certain criteria.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1382.3,
+      "end_time": 1397.459
+    },
+    {
+      "text": "If you then say to me, well, it's very difficult to know what the criteria because each customer has a different criteria.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1397.459,
+      "end_time": 1403.1
+    },
+    {
+      "text": "We don't know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1403.66,
+      "end_time": 1404.26
+    },
+    {
+      "text": "It's the honest answer, John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1404.26,
+      "end_time": 1406.62
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1406.86,
+      "end_time": 1407.34
+    },
+    {
+      "text": "We don't know where everybody's, you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1410.25,
+      "end_time": 1415.05
+    },
+    {
+      "text": "Know.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1415.05,
+      "end_time": 1415.37
+    },
+    {
+      "text": "Pippin points are for them to say this is an okay deal for us to get into and we just don't know what they are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1418.25,
+      "end_time": 1422.97
+    },
+    {
+      "text": "But I want to get you guys a deal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1426.01,
+      "end_time": 1428.05
+    },
+    {
+      "text": "I mean I'm happy to carry on going.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1428.05,
+      "end_time": 1430.57
+    },
+    {
+      "text": "The problem that we may have is that we are, we are then exposing the opportunity to a company that says, okay, these guys aren't ready.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1430.81,
+      "end_time": 1441.34
+    },
+    {
+      "text": "I mean there's not a massive problem.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1441.34,
+      "end_time": 1442.66
+    },
+    {
+      "text": "We can just go back in six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1442.66,
+      "end_time": 1444.1
+    },
+    {
+      "text": "But do I want to waste everybody's energy for six months?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1444.1,
+      "end_time": 1447.54
+    },
+    {
+      "text": "If that's consistently going to be the answer or if it's going to be the answer enough times that there isn't a big enough track record for the SaaS business for us to get into it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1448.26,
+      "end_time": 1460.42
+    },
+    {
+      "text": "But if we, okay, if we move towards the SaaS business, and we are, and there must be data in this world that we, that we can say for a company similar size, similar turnover, similar profitability, similar, similar, similar.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1460.64,
+      "end_time": 1475.6
+    },
+    {
+      "text": "The ones that have been successful, we could look at that.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1476.08,
+      "end_time": 1479.76
+    },
+    {
+      "text": "Those companies have been successful because what I'm trying to do is get a benchmark here because there has to be some key indicators that we need to follow here.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1479.76,
+      "end_time": 1488.48
+    },
+    {
+      "text": "Because you earlier said that we, you know, we're a bit too low on our revenue model.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1490.46,
+      "end_time": 1494.3
+    },
+    {
+      "text": "Yeah, for some, yeah, for sure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1494.38,
+      "end_time": 1496.5
+    },
+    {
+      "text": "That's, that's been consistently something that the larger companies have said that it's the, the opportunity is not big enough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1496.5,
+      "end_time": 1503.98
+    },
+    {
+      "text": "But if you then look at our profitability.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1504.86,
+      "end_time": 1506.62
+    },
+    {
+      "text": "So we would tick a box on our profitability, our margin, because our margins got higher.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1507.58,
+      "end_time": 1511.5
+    },
+    {
+      "text": "Yeah, your margins are good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1511.9,
+      "end_time": 1513.42
+    },
+    {
+      "text": "The size of your business is actually pretty good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1513.58,
+      "end_time": 1515.66
+    },
+    {
+      "text": "I mean, for a marketing agency, we would have a lot of buyers at this size.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1515.97,
+      "end_time": 1520.93
+    },
+    {
+      "text": "So it's not really the size of the business, but it's because we're pursuing larger buyers, because the multiple that we're expecting because it has a software element is higher.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1522.77,
+      "end_time": 1532.53
+    },
+    {
+      "text": "So we have to go after those larger businesses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1534.53,
+      "end_time": 1536.61
+    },
+    {
+      "text": "And then they have investment committees that we don't know what their criteria is until we get there, until we've gone in front of the committee.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1536.61,
+      "end_time": 1545.23
+    },
+    {
+      "text": "Quite often, I mean, we don't get told what.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1546.19,
+      "end_time": 1548.27
+    },
+    {
+      "text": "What it is exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1548.27,
+      "end_time": 1549.95
+    },
+    {
+      "text": "But.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1550.83,
+      "end_time": 1551.15
+    },
+    {
+      "text": "But look, do you know what, John?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1551.15,
+      "end_time": 1552.59
+    },
+    {
+      "text": "I'm happy to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1552.67,
+      "end_time": 1553.63
+    },
+    {
+      "text": "To.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1553.63,
+      "end_time": 1554.03
+    },
+    {
+      "text": "To take a look.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1554.11,
+      "end_time": 1554.91
+    },
+    {
+      "text": "Why don't we get our.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1554.91,
+      "end_time": 1556.51
+    },
+    {
+      "text": "Our team to have a look, do some research and see if we can see some software.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1557.39,
+      "end_time": 1562.19
+    },
+    {
+      "text": "Retail software businesses, and see if we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1562.27,
+      "end_time": 1565.23
+    },
+    {
+      "text": "If there is any visible data that we can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1565.23,
+      "end_time": 1567.87
+    },
+    {
+      "text": "We can take a look at.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1568.11,
+      "end_time": 1570.36
+    },
+    {
+      "text": "Because I think that's what you're asking, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1571.48,
+      "end_time": 1573.32
+    },
+    {
+      "text": "What is the criteria for those that have sold?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1573.4,
+      "end_time": 1575.96
+    },
+    {
+      "text": "So I don't think there is an exact answer, but I'm happy for us to see if we can find it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1575.96,
+      "end_time": 1582.12
+    },
+    {
+      "text": "And in the meantime, obviously, we don't want to go and rinse through our contacts during the summer while everybody's out of office, but in the meantime, we'll continue to market the opportunity and see what comes in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1582.2,
+      "end_time": 1593.24
+    },
+    {
+      "text": "I'm personally happy to hit the market again in September, but if there is a reason to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1594.68,
+      "end_time": 1601.71
+    },
+    {
+      "text": "To stall the sales that we can see in the data, then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1601.71,
+      "end_time": 1604.15
+    },
+    {
+      "text": "Then we can discuss that as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1604.55,
+      "end_time": 1606.63
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1607.03,
+      "end_time": 1607.43
+    },
+    {
+      "text": "We're having a board meeting.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1607.43,
+      "end_time": 1608.31
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1608.39,
+      "end_time": 1609.07
+    },
+    {
+      "text": "Yeah, I can hear you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1609.07,
+      "end_time": 1609.83
+    },
+    {
+      "text": "Yeah, hi.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1609.83,
+      "end_time": 1611.03
+    },
+    {
+      "text": "I don't know if the others can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1611.03,
+      "end_time": 1612.03
+    },
+    {
+      "text": "But can you hear Stuart?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1612.03,
+      "end_time": 1613.19
+    },
+    {
+      "text": "That's all very good.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1613.19,
+      "end_time": 1614.07
+    },
+    {
+      "text": "I was just.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1614.47,
+      "end_time": 1615.11
+    },
+    {
+      "text": "You may have covered it before I was able to join, but Basic pulled out.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1615.27,
+      "end_time": 1620.55
+    },
+    {
+      "text": "Did they give a reason why, or is it just a.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1620.55,
+      "end_time": 1622.47
+    },
+    {
+      "text": "An unknown reason why they didn't want to talk?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1623.27,
+      "end_time": 1624.95
+    },
+    {
+      "text": "Is it postponed or is it just totally off the table?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1625.11,
+      "end_time": 1627.99
+    },
+    {
+      "text": "No, they didn't give a reason.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1629.43,
+      "end_time": 1632.31
+    },
+    {
+      "text": "But again, I'm happy to read it out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1633.51,
+      "end_time": 1636.51
+    },
+    {
+      "text": "What the last.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1636.51,
+      "end_time": 1637.11
+    },
+    {
+      "text": "No, they just said no, so we need to move it.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1638.87,
+      "end_time": 1642.27
+    },
+    {
+      "text": "Can we come back next month?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1642.27,
+      "end_time": 1643.91
+    },
+    {
+      "text": "Or they just took it away and said, no, we've changed their mind.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1643.91,
+      "end_time": 1646.63
+    },
+    {
+      "text": "So this is what they've said.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1648.15,
+      "end_time": 1649.55
+    },
+    {
+      "text": "And again, it does sort of relate.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1649.55,
+      "end_time": 1651.59
+    },
+    {
+      "text": "So it says, I want to send you a note to let you know that basis won't be advanced in the discussions with tsg.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1652.55,
+      "end_time": 1656.95
+    },
+    {
+      "text": "Further, this decision is being made specifically due to timing and driven by the need for our team to stay focused on current strategic efforts.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1656.95,
+      "end_time": 1665.07
+    },
+    {
+      "text": "Again, I mean the same more or less.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1665.07,
+      "end_time": 1667.75
+    },
+    {
+      "text": "To Ziff Davis, thank you for bringing to our attention your efforts in supporting the evaluation.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1667.75,
+      "end_time": 1671.91
+    },
+    {
+      "text": "We wish you the best in the process and we'll hope for a smooth process and successful outcome for all involved parties.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1671.91,
+      "end_time": 1678.63
+    },
+    {
+      "text": "So again, I mean it doesn't say that they're going to come back.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1678.63,
+      "end_time": 1681.71
+    },
+    {
+      "text": "It's okay.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1685.63,
+      "end_time": 1686.43
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1686.51,
+      "end_time": 1687.07
+    },
+    {
+      "text": "One of the questions, Andy, is, is you said earlier if this was a marketing company of similar size and as marketing and its revenue came from marketing, what would be, what would be our multiples?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1687.71,
+      "end_time": 1701.23
+    },
+    {
+      "text": "4, 6, 7?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1701.63,
+      "end_time": 1702.83
+    },
+    {
+      "text": "So yeah, multiples, I mean, again, difficult to say exactly, but the range of multiples for 1 million plus EBITDA business is around the 5x in the average.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1704.28,
+      "end_time": 1717.48
+    },
+    {
+      "text": "So we would expect to get better than the average.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1718.84,
+      "end_time": 1722.04
+    },
+    {
+      "text": "Somewhere between sort of 5 and 7, I would say is going to be the range for a marketing business about this size.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1723.64,
+      "end_time": 1729.32
+    },
+    {
+      "text": "Got you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1731.21,
+      "end_time": 1731.69
+    },
+    {
+      "text": "And again, maybe you've had more, I don't know if you had more experience in selling marketing, but do you have the.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1732.57,
+      "end_time": 1737.45
+    },
+    {
+      "text": "Would you, would you look at our business and say that we are over indexing on the key indicators as a marketing business?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1737.53,
+      "end_time": 1745.69
+    },
+    {
+      "text": "If you were looking at, if you forget that we, we have license income but let's say we were getting creative income, we were getting media, you know, buying income, the normal marketing, whatever that would be.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1747.93,
+      "end_time": 1759.97
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1760.13,
+      "end_time": 1760.69
+    },
+    {
+      "text": "Would you say we'll be quite solid as a, as a business, as a marketing business if you're going to the market at the moment with us?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1760.69,
+      "end_time": 1769.45
+    },
+    {
+      "text": "That's what I'm trying to get to.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1769.45,
+      "end_time": 1770.33
+    },
+    {
+      "text": "Because your knowledge of selling businesses in marketing, maybe you would say, yeah, there's no mixed revenue there.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1770.33,
+      "end_time": 1776.53
+    },
+    {
+      "text": "The size of the turnover is acceptable for the size, blah, blah, blah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1776.85,
+      "end_time": 1780.37
+    },
+    {
+      "text": "So we get a tick, tick, cross, tick, cross, tick, tick.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1780.86,
+      "end_time": 1783.58
+    },
+    {
+      "text": "And we like, okay, this is good.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1783.66,
+      "end_time": 1785.34
+    },
+    {
+      "text": "We go into technology.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1785.34,
+      "end_time": 1786.38
+    },
+    {
+      "text": "So we go over the last year as a tech and a marketing or whatever we are retail business and there's been a lot of undisclosed crosses because our customer or the buyers have not told us.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1787.02,
+      "end_time": 1800.14
+    },
+    {
+      "text": "Well, there is always undisclosed crosses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1800.22,
+      "end_time": 1804.14
+    },
+    {
+      "text": "You know, nobody sort of spends the time for a debrief and spend an hour with us explaining exactly why we just don't get that kind of information.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1804.14,
+      "end_time": 1814.28
+    },
+    {
+      "text": "Unfortunately, sometimes if we've got a really good relationship with the other person because we've done a deal with them or we've just spent a lot of time on calls and they might give us a little bit more, but it's rarely that insightful that we could say, you Know what?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1814.36,
+      "end_time": 1827.68
+    },
+    {
+      "text": "We need to change strategy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1827.68,
+      "end_time": 1829.16
+    },
+    {
+      "text": "We just don't get it as a, as a collective debrief from everybody that says no.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1830.84,
+      "end_time": 1835.48
+    },
+    {
+      "text": "You know, it usually is quite a sort of dismissive.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1835.76,
+      "end_time": 1838.08
+    },
+    {
+      "text": "We're going to pass on it this time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1838.24,
+      "end_time": 1839.64
+    },
+    {
+      "text": "That's, that's nine times out of ten what, what the message is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1839.64,
+      "end_time": 1842.88
+    },
+    {
+      "text": "Occasionally you get a small sliver of something else where they'll say it's a bit too small for us or it's not the right time or we're working on a couple of deals at the moment and we don't feel we can handle this as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1843.36,
+      "end_time": 1855.28
+    },
+    {
+      "text": "Occasionally you get those kind of reasons, but it's not consistent from everybody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1855.36,
+      "end_time": 1861.04
+    },
+    {
+      "text": "So it's, I mean we, all we can do is just take a guess at what's happening.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1861.04,
+      "end_time": 1865.44
+    },
+    {
+      "text": "But like I say, you're not a trouble client where it's really obvious where we're kind of consistently getting something from everybody and it's obvious we're not getting that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1865.44,
+      "end_time": 1876.52
+    },
+    {
+      "text": "But all I can see, John, is that the business has moved over the 12 month period that we've been doing this from kind of a split between agency and consultancy work and SaaS and now it's becoming much more of a SaaS business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1876.52,
+      "end_time": 1890.24
+    },
+    {
+      "text": "My last question, and if you went into the market and put us, I'm just making this as an example, as an extreme, at a five multiple, do you think those companies would come back?",
+      "speaker_name": "jon southcombe",
+      "start_time": 1891.6,
+      "end_time": 1902.61
+    },
+    {
+      "text": "Yeah, possibly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1903.41,
+      "end_time": 1904.61
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 1904.61,
+      "end_time": 1904.89
+    },
+    {
+      "text": "You get people knocking the doors down at a low multiple.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1904.89,
+      "end_time": 1907.57
+    },
+    {
+      "text": "Yeah, we're currently sort of around 10 to 12, aren't we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1907.57,
+      "end_time": 1910.69
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1910.69,
+      "end_time": 1911.01
+    },
+    {
+      "text": "Okay, yeah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1912.53,
+      "end_time": 1914.29
+    },
+    {
+      "text": "But also, you know, look, Stuart's done a good job refreshing the im.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1914.53,
+      "end_time": 1917.97
+    },
+    {
+      "text": "Everything is ready to go in September when people are sat back at their desk looking to, to get deals done.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1918.13,
+      "end_time": 1923.12
+    },
+    {
+      "text": "So I would say why don't we wait until, you know, maybe the end of October, mid October, if still nothing, there's no new traction, then maybe we can take a view on what to do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1924.24,
+      "end_time": 1938.24
+    },
+    {
+      "text": "Whether we change completely or whether we pause for six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1938.24,
+      "end_time": 1943.28
+    },
+    {
+      "text": "Why don't we, Matt, me and Stu have a meeting, a board meeting next Thursday.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1943.52,
+      "end_time": 1948
+    },
+    {
+      "text": "So why don't we discuss it in more detail and then let you know what we, we think, what we should do.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1948,
+      "end_time": 1952.86
+    },
+    {
+      "text": "Because there is merit to stop it, obviously, as you've said, but I think we should discuss it for at least an hour.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1953.18,
+      "end_time": 1960.94
+    },
+    {
+      "text": "The pros and cons of doing that.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1961.02,
+      "end_time": 1962.62
+    },
+    {
+      "text": "Yeah, I think my, my preference, for what it's worth, would be to, to hit the ground running in September and see what goes on because we have updated everything it's a different IM that we're going out to market with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1962.62,
+      "end_time": 1972.66
+    },
+    {
+      "text": "The listing is different.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1972.66,
+      "end_time": 1974.3
+    },
+    {
+      "text": "You know, it's a different market and certainly the research that my team have done is building a list much more around retail software companies, particularly in the us which is where we're getting a lot of out of office.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1974.38,
+      "end_time": 1987.36
+    },
+    {
+      "text": "You would say if there's two choices, we agree we don't do anything in August for obvious reasons.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1989.04,
+      "end_time": 1994.64
+    },
+    {
+      "text": "Choice one is to carry, keep going in September.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1995.12,
+      "end_time": 1998.4
+    },
+    {
+      "text": "Or say choice 2 is to put the brakes on per say 6 months ago back in January.",
+      "speaker_name": "jon southcombe",
+      "start_time": 1998.4,
+      "end_time": 2003.44
+    },
+    {
+      "text": "Yeah, I would say that would be the other choice is to wait until we've got a full year of mostly SaaS business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2005.43,
+      "end_time": 2012.71
+    },
+    {
+      "text": "The business that Matt is currently building, you know, the, the licenses that you're selling, all of that sort of stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2013.11,
+      "end_time": 2019.35
+    },
+    {
+      "text": "That is the business that needs a track record that we can go back to market with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2019.35,
+      "end_time": 2024.07
+    },
+    {
+      "text": "Okay, Matt, any thoughts?",
+      "speaker_name": "jon southcombe",
+      "start_time": 2025.43,
+      "end_time": 2028.71
+    },
+    {
+      "text": "No, I agree.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2029.68,
+      "end_time": 2030.24
+    },
+    {
+      "text": "We're not a marketing agency anymore.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2030.24,
+      "end_time": 2032.32
+    },
+    {
+      "text": "We've moved off for that not through choice, but through the way it is we are.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2033.68,
+      "end_time": 2039.44
+    },
+    {
+      "text": "Our whole strategy is to sell platforms, deals to multiple, multiple people.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2039.6,
+      "end_time": 2045.519
+    },
+    {
+      "text": "We're selling that all around the globe at the moment.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2046.4,
+      "end_time": 2048.88
+    },
+    {
+      "text": "I think where we thought we were going to have a hotspot is someone's going to see our potential and no one else seen our pipeline and gone, oh, fuck me.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2049.76,
+      "end_time": 2058.17
+    },
+    {
+      "text": "We should get in early before they go ballistic.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2058.25,
+      "end_time": 2061.13
+    },
+    {
+      "text": "There's absolutely zero point doing in August and we just kick again in September.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2062.49,
+      "end_time": 2068.25
+    },
+    {
+      "text": "John.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2068.25,
+      "end_time": 2068.49
+    },
+    {
+      "text": "For a month.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2068.49,
+      "end_time": 2069.01
+    },
+    {
+      "text": "And if it's a bit like now, we as we're building a business and it's not just me, it's Stuart and I working, doing nothing.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2069.01,
+      "end_time": 2077.49
+    },
+    {
+      "text": "But we can pull in like an Avalta in America and some other big ones.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2077.49,
+      "end_time": 2082.73
+    },
+    {
+      "text": "Get the co op back for sas.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2083.25,
+      "end_time": 2085.01
+    },
+    {
+      "text": "Be quite attractive then.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2085.33,
+      "end_time": 2086.61
+    },
+    {
+      "text": "So I think there's another.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2086.61,
+      "end_time": 2087.45
+    },
+    {
+      "text": "I think there's a little sprint in September, as you said already.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2087.45,
+      "end_time": 2090.13
+    },
+    {
+      "text": "See where we end and then you pause it for three or four months and then I think you could probably go, go wrap round again to Banyan and all that lot.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2091.09,
+      "end_time": 2098.01
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2098.01,
+      "end_time": 2098.53
+    },
+    {
+      "text": "Because it'd be just a bit more.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2098.53,
+      "end_time": 2100.29
+    },
+    {
+      "text": "All the ones.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2101.01,
+      "end_time": 2101.57
+    },
+    {
+      "text": "That's the timing that it is, that as long as nobody's embarrassed to go back and say we're still on the market.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2101.57,
+      "end_time": 2107.81
+    },
+    {
+      "text": "Well, who's gonna be?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2108.13,
+      "end_time": 2109.05
+    },
+    {
+      "text": "I don't think we're not.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2109.05,
+      "end_time": 2110.13
+    },
+    {
+      "text": "We're not, you know.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2110.13,
+      "end_time": 2110.93
+    },
+    {
+      "text": "Well, we're still on the market, aren't we?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2111.08,
+      "end_time": 2112.52
+    },
+    {
+      "text": "It's just a factual thing.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2112.52,
+      "end_time": 2113.52
+    },
+    {
+      "text": "I mean they might think that we're a dog with fleas, but if they See it?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2113.52,
+      "end_time": 2118.2
+    },
+    {
+      "text": "I don't think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2118.44,
+      "end_time": 2119.04
+    },
+    {
+      "text": "I don't think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2119.04,
+      "end_time": 2119.64
+    },
+    {
+      "text": "Yeah, so, so look, I think it's, there's different motivations why people want to sell it, but I think we're all on the same page, John.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2119.64,
+      "end_time": 2127.08
+    },
+    {
+      "text": "That's my feedback.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2127.8,
+      "end_time": 2128.92
+    },
+    {
+      "text": "We're building a tech data business and we have been for the last couple of years and, and we continue to do that and we're doing all right at it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2129,
+      "end_time": 2138.44
+    },
+    {
+      "text": "And when.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2139.34,
+      "end_time": 2139.9
+    },
+    {
+      "text": "It's ironic, isn't it, you get a Havas and we were too big and too aggressive against these other people.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2140.22,
+      "end_time": 2144.5
+    },
+    {
+      "text": "Too small and not aggressive enough.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2144.5,
+      "end_time": 2146.06
+    },
+    {
+      "text": "You just.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2146.22,
+      "end_time": 2146.78
+    },
+    {
+      "text": "There is no answer to the buyer.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2146.78,
+      "end_time": 2150.46
+    },
+    {
+      "text": "I mean, again have us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2152.78,
+      "end_time": 2154.54
+    },
+    {
+      "text": "I mean they've got their, their own stuff going on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2155.02,
+      "end_time": 2157.42
+    },
+    {
+      "text": "I don't think they will pay larger multiples.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2157.9,
+      "end_time": 2160.94
+    },
+    {
+      "text": "And that's the point, isn't it?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2161.1,
+      "end_time": 2162.26
+    },
+    {
+      "text": "That's the point.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2162.26,
+      "end_time": 2162.82
+    },
+    {
+      "text": "You've got it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2162.82,
+      "end_time": 2163.22
+    },
+    {
+      "text": "You've got to get your, you've got to get your ebitda up to 3 or 4 million and get 4 or 5.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2163.22,
+      "end_time": 2168.61
+    },
+    {
+      "text": "We're just not that point.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2169.57,
+      "end_time": 2170.61
+    },
+    {
+      "text": "We're a little bit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2173.25,
+      "end_time": 2174.05
+    },
+    {
+      "text": "But we're just kind of.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2174.05,
+      "end_time": 2175.01
+    },
+    {
+      "text": "We're not in no man's land.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2175.01,
+      "end_time": 2176.41
+    },
+    {
+      "text": "If we were a marketing agency, I guarantee we'd have a lot of interest, but it would be 6, 7x.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2176.41,
+      "end_time": 2182.21
+    },
+    {
+      "text": "Because we're not a marketing agency, are we?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2184.21,
+      "end_time": 2186.17
+    },
+    {
+      "text": "We're just not that.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2186.17,
+      "end_time": 2186.97
+    },
+    {
+      "text": "Because we're a software business, we have to go to market between 10 and 12.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2186.97,
+      "end_time": 2190.45
+    },
+    {
+      "text": "Feeling is it has to be something like that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2191.52,
+      "end_time": 2193.28
+    },
+    {
+      "text": "It'd be silly not to at least go to market up there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2193.28,
+      "end_time": 2196.4
+    },
+    {
+      "text": "But the buyers are different and so yeah, potentially we could be on the smaller side.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2198.24,
+      "end_time": 2202.84
+    },
+    {
+      "text": "I mean, certainly private equity.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2202.84,
+      "end_time": 2204.08
+    },
+    {
+      "text": "I mean everything changes exactly where you guys are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2204.32,
+      "end_time": 2207.44
+    },
+    {
+      "text": "Once you get to 2 million EBITDA and beyond, the market is really solid for private equity.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2207.76,
+      "end_time": 2213.44
+    },
+    {
+      "text": "There still are private equity buyers that will buy at this end of the market, but they're the smaller companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2213.52,
+      "end_time": 2217.68
+    },
+    {
+      "text": "So everything kind of changes around where you are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2219.3,
+      "end_time": 2222.18
+    },
+    {
+      "text": "So that, so that's a.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2222.98,
+      "end_time": 2224.1
+    },
+    {
+      "text": "That.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2224.1,
+      "end_time": 2224.38
+    },
+    {
+      "text": "So once we trip over 2 million EBITDA, that brings a load of other PE guys who are interested, Is that what you're saying?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2224.38,
+      "end_time": 2231.3
+    },
+    {
+      "text": "It starts where you are at the moment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2231.46,
+      "end_time": 2233.42
+    },
+    {
+      "text": "I mean it starts above 1 million EBITDA.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2233.42,
+      "end_time": 2235.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2235.46,
+      "end_time": 2235.86
+    },
+    {
+      "text": "All of the smaller.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2235.86,
+      "end_time": 2237.46
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2238.66,
+      "end_time": 2240.22
+    },
+    {
+      "text": "So John.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2240.22,
+      "end_time": 2240.66
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2240.82,
+      "end_time": 2241.14
+    },
+    {
+      "text": "And then we've got some good time together next week.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2241.14,
+      "end_time": 2242.86
+    },
+    {
+      "text": "I think we're doing all the right stuff from a.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2242.86,
+      "end_time": 2244.74
+    },
+    {
+      "text": "Building it up in the way we want to build it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2244.93,
+      "end_time": 2247.33
+    },
+    {
+      "text": "More solid, better foundations, more money, better margin, more reliable business, longer term contracts.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2247.41,
+      "end_time": 2254.05
+    },
+    {
+      "text": "We just haven't found the right fat bird to kiss yet.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2254.29,
+      "end_time": 2257.81
+    },
+    {
+      "text": "We'll find her.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2257.97,
+      "end_time": 2258.93
+    },
+    {
+      "text": "She'll be there somewhere.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2259.25,
+      "end_time": 2260.37
+    },
+    {
+      "text": "We'll keep looking.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2262.13,
+      "end_time": 2263.01
+    },
+    {
+      "text": "We're keep looking, mate.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2263.01,
+      "end_time": 2264.53
+    },
+    {
+      "text": "And I know, and then we have slightly different motivate, but we can talk about that on Thursday with Stewie and just get into it a bit.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2264.77,
+      "end_time": 2271.09
+    },
+    {
+      "text": "But August in America, they're all on Ollie, aren't they?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2271.89,
+      "end_time": 2274.29
+    },
+    {
+      "text": "Yeah, it's tough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2274.37,
+      "end_time": 2275.21
+    },
+    {
+      "text": "It's tough.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2275.21,
+      "end_time": 2275.81
+    },
+    {
+      "text": "It's pointless, absolutely pointless.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2275.89,
+      "end_time": 2277.33
+    },
+    {
+      "text": "You're just wasting that time.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2277.33,
+      "end_time": 2278.29
+    },
+    {
+      "text": "We've got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2278.61,
+      "end_time": 2279.17
+    },
+    {
+      "text": "We've got a few that said, you know, I'm back on the 4th, I'm back on the 12th, I'm away for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2279.17,
+      "end_time": 2283.21
+    },
+    {
+      "text": "A couple more weeks.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2283.21,
+      "end_time": 2283.97
+    },
+    {
+      "text": "It's all those sorts of messages.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2284.53,
+      "end_time": 2285.85
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2285.85,
+      "end_time": 2286.13
+    },
+    {
+      "text": "Yeah, all right.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2286.13,
+      "end_time": 2287.17
+    },
+    {
+      "text": "And I think.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2287.41,
+      "end_time": 2288.01
+    },
+    {
+      "text": "I think for us, John, it's difficult mentally because we thought we were quite close to getting an offer twice.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2288.01,
+      "end_time": 2292.37
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2292.69,
+      "end_time": 2293.17
+    },
+    {
+      "text": "You said, oh, we're nearly there, we're nearly there.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2293.49,
+      "end_time": 2295.25
+    },
+    {
+      "text": "And then, oh, no, we're not.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2295.57,
+      "end_time": 2296.85
+    },
+    {
+      "text": "Oh, so.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2296.85,
+      "end_time": 2298.44
+    },
+    {
+      "text": "But it will come, it will come.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2298.44,
+      "end_time": 2300.6
+    },
+    {
+      "text": "And what we've got now, I mean, what Stuart's launching down in Australia, when you see it, Stuart, Jesus, mate.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2301.08,
+      "end_time": 2307.36
+    },
+    {
+      "text": "Honestly, we just need Andy to be able to articulate that what we are better.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2307.36,
+      "end_time": 2312.6
+    },
+    {
+      "text": "So that's something you could possibly think about is your method is tried and tested and you're successful at it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2313.16,
+      "end_time": 2320.36
+    },
+    {
+      "text": "Is there a way of us showing a little bit more earlier doors so people get frothy rather than we don't you think about that.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2322.68,
+      "end_time": 2330.89
+    },
+    {
+      "text": "I don't want the answer now.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2330.89,
+      "end_time": 2331.73
+    },
+    {
+      "text": "It's just that because some of the stuff we got is like right on the edge.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2331.73,
+      "end_time": 2336.37
+    },
+    {
+      "text": "It's bleeding edge stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2336.37,
+      "end_time": 2337.57
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2340.21,
+      "end_time": 2340.53
+    },
+    {
+      "text": "I mean, and it's the software companies that are more likely to take a punt on bleeding edge stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2340.53,
+      "end_time": 2346.17
+    },
+    {
+      "text": "It's not.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2346.17,
+      "end_time": 2346.85
+    },
+    {
+      "text": "It's not the marketing companies that are looking to get into this space.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2346.85,
+      "end_time": 2350.05
+    },
+    {
+      "text": "It's like Hagarth.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2351.33,
+      "end_time": 2352.37
+    },
+    {
+      "text": "They were all over it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2352.37,
+      "end_time": 2353.17
+    },
+    {
+      "text": "They Hagarth when we did the meeting and you were there.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2353.5,
+      "end_time": 2357.1
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2357.1,
+      "end_time": 2357.42
+    },
+    {
+      "text": "If they saw it now, what we got and they had a quicker process that they'd buy it, but yeah, they really liked it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2357.9,
+      "end_time": 2364.54
+    },
+    {
+      "text": "We're not even going to look at it for six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2365.58,
+      "end_time": 2367.66
+    },
+    {
+      "text": "We certainly won't get a deal done before then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2367.66,
+      "end_time": 2369.579
+    },
+    {
+      "text": "So that's where it is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2369.74,
+      "end_time": 2372.14
+    },
+    {
+      "text": "I mean we could continue to date them over the six month period.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2372.14,
+      "end_time": 2375.5
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2377.18,
+      "end_time": 2377.74
+    },
+    {
+      "text": "What else can we do with them?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2377.82,
+      "end_time": 2379.42
+    },
+    {
+      "text": "You know, they've seen it, they like it, they're just not ready and they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2379.67,
+      "end_time": 2382.95
+    },
+    {
+      "text": "They're not.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2382.95,
+      "end_time": 2383.39
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2383.39,
+      "end_time": 2383.67
+    },
+    {
+      "text": "I guess we could give them an update at some point, couldn't we?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2383.67,
+      "end_time": 2385.99
+    },
+    {
+      "text": "Yeah, Little Update little video from Stu and I.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2385.99,
+      "end_time": 2389.47
+    },
+    {
+      "text": "Little deck.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2389.47,
+      "end_time": 2390.23
+    },
+    {
+      "text": "Just thought I'd update you boys.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2390.47,
+      "end_time": 2391.99
+    },
+    {
+      "text": "Yeah, because they are literally.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2392.87,
+      "end_time": 2394.31
+    },
+    {
+      "text": "It's a bit like we got this, we got this.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2394.95,
+      "end_time": 2396.95
+    },
+    {
+      "text": "I'll digress slightly but we're working the partnership piece and update you next week.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2397.11,
+      "end_time": 2402.59
+    },
+    {
+      "text": "John is really going, going.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2402.59,
+      "end_time": 2404.07
+    },
+    {
+      "text": "There's a republic of media who are up in Scotland.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2404.39,
+      "end_time": 2407.41
+    },
+    {
+      "text": "We're going to try and create like a little a relationship with them and it's massive.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2408.77,
+      "end_time": 2411.85
+    },
+    {
+      "text": "They've got 20 cpgs that we're going to flock to and they're like getting marginalized on every single pitch they get from a cpg.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2411.85,
+      "end_time": 2419.89
+    },
+    {
+      "text": "They're like, oh, we need the below the line stuff, the full funnel stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2419.89,
+      "end_time": 2422.77
+    },
+    {
+      "text": "And they haven't got it and we have.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2422.77,
+      "end_time": 2424.05
+    },
+    {
+      "text": "So that's where Hagar have dropped the ball there because they will lose business because of that.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2424.45,
+      "end_time": 2430.21
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2430.69,
+      "end_time": 2431.01
+    },
+    {
+      "text": "And that's what that lad said, didn't he?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2431.01,
+      "end_time": 2432.41
+    },
+    {
+      "text": "We get pitched, we, we get the blown line pitch.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2432.41,
+      "end_time": 2436.19
+    },
+    {
+      "text": "We don't know what the we're doing.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2436.19,
+      "end_time": 2437.55
+    },
+    {
+      "text": "We have to recruit some grad to like cover it off and we don't win the business.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2437.79,
+      "end_time": 2440.99
+    },
+    {
+      "text": "Yeah, but we don't.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2440.99,
+      "end_time": 2441.87
+    },
+    {
+      "text": "We're not interested in the process.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2441.95,
+      "end_time": 2442.95
+    },
+    {
+      "text": "We own.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2442.95,
+      "end_time": 2443.47
+    },
+    {
+      "text": "It was stupidly obvious that they should acquire this business during 100, but they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2444.03,
+      "end_time": 2450.43
+    },
+    {
+      "text": "Know they've got a lot of hoops to jump through and they're probably got enough time to.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2450.43,
+      "end_time": 2455.07
+    },
+    {
+      "text": "These, these lads just work for them.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2455.79,
+      "end_time": 2457.55
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2457.55,
+      "end_time": 2457.83
+    },
+    {
+      "text": "I mean some, yeah, they weren't the.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2457.83,
+      "end_time": 2459.87
+    },
+    {
+      "text": "Right people, they weren't the decision makers that we were in the room as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2459.87,
+      "end_time": 2463.47
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2463.55,
+      "end_time": 2463.87
+    },
+    {
+      "text": "But also this is the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2463.87,
+      "end_time": 2465.23
+    },
+    {
+      "text": "What will happen is they'll be at the annual dinner, they'll talk about it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2465.23,
+      "end_time": 2469.35
+    },
+    {
+      "text": "Somebody will say, oh, why the haven't we got those guys in?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2469.35,
+      "end_time": 2471.75
+    },
+    {
+      "text": "We should be speaking to them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2471.75,
+      "end_time": 2472.59
+    },
+    {
+      "text": "And then it will go up the chain and then somebody will get in touch and it's just a slow, really slow process will happen.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2472.59,
+      "end_time": 2477.709
+    },
+    {
+      "text": "Yeah, definitely.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2477.709,
+      "end_time": 2478.63
+    },
+    {
+      "text": "And I mean it'd be for John and I and Stu if we could see one thing that we could fix.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2478.63,
+      "end_time": 2483.39
+    },
+    {
+      "text": "We could fix it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2483.39,
+      "end_time": 2484.11
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2484.11,
+      "end_time": 2484.43
+    },
+    {
+      "text": "And it's like having a car with a flat tire pump that one up more off.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2484.43,
+      "end_time": 2487.27
+    },
+    {
+      "text": "But it doesn't feel like there is anything.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2487.27,
+      "end_time": 2488.67
+    },
+    {
+      "text": "Just got to keep on plowing the fields as we are.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2489.72,
+      "end_time": 2491.96
+    },
+    {
+      "text": "Does your team send out in circum in some circumstances, if they're representing a company that wins a new contract or a new update on the software, do you keep promoting that company to the would be buyers?",
+      "speaker_name": "jon southcombe",
+      "start_time": 2495.08,
+      "end_time": 2511.16
+    },
+    {
+      "text": "So those buyers who have said no or it's not ready, they at this moment in time, do they still get an email once every two months or is that not done in your industry?",
+      "speaker_name": "jon southcombe",
+      "start_time": 2511.8,
+      "end_time": 2521.46
+    },
+    {
+      "text": "Yeah, no, all the time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2522.66,
+      "end_time": 2523.9
+    },
+    {
+      "text": "We probably send the two or three emails a week to the same people.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2523.9,
+      "end_time": 2526.98
+    },
+    {
+      "text": "Yeah, they're gonna, they're gonna keep being updated, reminded.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2528.26,
+      "end_time": 2532.5
+    },
+    {
+      "text": "I mean if we send out to our mailing list, which is 20,000, they, they will see it and be reminded.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2532.5,
+      "end_time": 2539.1
+    },
+    {
+      "text": "Sometimes people sign the nd, the NDA again and then just say, oh no, we've signed it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2539.1,
+      "end_time": 2543.44
+    },
+    {
+      "text": "Yeah, we've already had taken a look.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2543.44,
+      "end_time": 2544.88
+    },
+    {
+      "text": "We're not, we're not gonna, we're not gonna move forward with that one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2544.96,
+      "end_time": 2548.08
+    },
+    {
+      "text": "So have we done that in the last six months?",
+      "speaker_name": "jon southcombe",
+      "start_time": 2548.16,
+      "end_time": 2550.4
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2550.48,
+      "end_time": 2551.2
+    },
+    {
+      "text": "What, for you guys?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2551.28,
+      "end_time": 2552.64
+    },
+    {
+      "text": "Yeah, for us.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2552.72,
+      "end_time": 2553.52
+    },
+    {
+      "text": "Yeah, tons of times.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2553.76,
+      "end_time": 2554.72
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2554.72,
+      "end_time": 2557.12
+    },
+    {
+      "text": "Well, you mean marketing to contacts that have already said no previously but shown interest?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2557.12,
+      "end_time": 2562.96
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2563.04,
+      "end_time": 2563.52
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2563.6,
+      "end_time": 2564
+    },
+    {
+      "text": "So we're like Australia.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2564,
+      "end_time": 2565.28
+    },
+    {
+      "text": "It's a new update, a new, a new exciting contract.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2565.36,
+      "end_time": 2568.5
+    },
+    {
+      "text": "So when we've had those new win, those new wins, we've automatically updated those people.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2569.06,
+      "end_time": 2574.3
+    },
+    {
+      "text": "That's what I'm saying.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2574.3,
+      "end_time": 2575.14
+    },
+    {
+      "text": "It's a regular with your, with like.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2575.14,
+      "end_time": 2577.26
+    },
+    {
+      "text": "An update of news from you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2577.26,
+      "end_time": 2578.54
+    },
+    {
+      "text": "No, no, we haven't done that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2578.54,
+      "end_time": 2580.1
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2580.1,
+      "end_time": 2580.42
+    },
+    {
+      "text": "And we, we haven't really discussed that, you know, your updates.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2580.5,
+      "end_time": 2586.26
+    },
+    {
+      "text": "But certainly we can do that this time around because we've refreshed the entire offering, haven't we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2588.26,
+      "end_time": 2593.3
+    },
+    {
+      "text": "So it would make sense to go back and that is part of our strategy to go back to that list and say, you know, this is slightly different business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2593.3,
+      "end_time": 2601.03
+    },
+    {
+      "text": "We want to take, you know, take another look at it, etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2601.03,
+      "end_time": 2604.31
+    },
+    {
+      "text": "Okay, so what we can do on Thursday, guys, is look back and look at all our wins and try to create a communication schedule and then give to Andy and his team that you have got content, whatever that content looks like of wins and new contracts and it's bite sized pieces that you could fire out as bullets over the next few months.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2606.31,
+      "end_time": 2627.45
+    },
+    {
+      "text": "Yeah, we could go back to this list that we have, you know, what is it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2629.29,
+      "end_time": 2633.25
+    },
+    {
+      "text": "120 Is it or something?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2633.25,
+      "end_time": 2634.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2635.13,
+      "end_time": 2635.53
+    },
+    {
+      "text": "Anymore?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2635.53,
+      "end_time": 2636.09
+    },
+    {
+      "text": "120 Plus, I've got that on the pack.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2636.09,
+      "end_time": 2640.77
+    },
+    {
+      "text": "We've got some good news.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2640.77,
+      "end_time": 2641.65
+    },
+    {
+      "text": "So we've won Brick, Vic and Carlsberg and we've won Endeavor.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2641.65,
+      "end_time": 2644.17
+    },
+    {
+      "text": "Most agencies will be down the pub getting hammered on that.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2644.33,
+      "end_time": 2647.53
+    },
+    {
+      "text": "We're just there doing another 10 hour shift.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2647.77,
+      "end_time": 2650.3
+    },
+    {
+      "text": "So we've got enough good stuff.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2650.54,
+      "end_time": 2652.78
+    },
+    {
+      "text": "You don't talk about the.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2653.02,
+      "end_time": 2653.98
+    },
+    {
+      "text": "That we lost Iceland and bad luck, but winning Brit Vic Holzberg, Heineken, Belgium and Endeavor.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2653.98,
+      "end_time": 2660.54
+    },
+    {
+      "text": "Since we went to market last October, in a big way is quite big.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2660.54,
+      "end_time": 2663.18
+    },
+    {
+      "text": "And they are.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2664.46,
+      "end_time": 2665.42
+    },
+    {
+      "text": "They are.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2665.42,
+      "end_time": 2665.86
+    },
+    {
+      "text": "They are software.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2665.86,
+      "end_time": 2666.62
+    },
+    {
+      "text": "They are tech and data contracts, not sales monkey contracts with a 5% margin.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2666.62,
+      "end_time": 2672.22
+    },
+    {
+      "text": "So we definitely got.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2672.62,
+      "end_time": 2673.74
+    },
+    {
+      "text": "I can do some of that, Andy, if you want it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2673.74,
+      "end_time": 2676.22
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2676.86,
+      "end_time": 2677.3
+    },
+    {
+      "text": "So we've got these 174 signed NDAs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2677.3,
+      "end_time": 2680.22
+    },
+    {
+      "text": "Those are all updated.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2680.22,
+      "end_time": 2681.66
+    },
+    {
+      "text": "We can go back to them and say, you know, do you want to take another look at these guys?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2681.82,
+      "end_time": 2685.9
+    },
+    {
+      "text": "Things are really moving.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2685.98,
+      "end_time": 2687.1
+    },
+    {
+      "text": "This is the update.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2687.26,
+      "end_time": 2688.26
+    },
+    {
+      "text": "Yeah, yeah, there's the update.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2688.26,
+      "end_time": 2689.34
+    },
+    {
+      "text": "It's a new MI pack.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2689.34,
+      "end_time": 2690.46
+    },
+    {
+      "text": "They've updated it.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2690.46,
+      "end_time": 2691.42
+    },
+    {
+      "text": "Just as a matter of point, they've won these four or five things and I've got these eight in the pipeline, up to you.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2691.82,
+      "end_time": 2697.22
+    },
+    {
+      "text": "So that's a good point, John.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2697.22,
+      "end_time": 2698.46
+    },
+    {
+      "text": "So I think between Stuart and I, fist on the call, we can easily do that.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2698.62,
+      "end_time": 2701.98
+    },
+    {
+      "text": "It won't take us very long.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2701.98,
+      "end_time": 2703.1
+    },
+    {
+      "text": "And then he can put in his own words.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2703.31,
+      "end_time": 2704.75
+    },
+    {
+      "text": "Yeah, yes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2705.71,
+      "end_time": 2706.75
+    },
+    {
+      "text": "So certainly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2707.15,
+      "end_time": 2708.59
+    },
+    {
+      "text": "And also just make sure Ahmed is included in stuff because he's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2708.99,
+      "end_time": 2712.95
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2712.95,
+      "end_time": 2713.35
+    },
+    {
+      "text": "Yeah, of course, absolutely.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2713.35,
+      "end_time": 2714.59
+    },
+    {
+      "text": "He will quickly take action on stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2715.31,
+      "end_time": 2717.67
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2717.67,
+      "end_time": 2718.11
+    },
+    {
+      "text": "Yeah, we just give you bite size, like 20 words to.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2718.27,
+      "end_time": 2721.15
+    },
+    {
+      "text": "Like a Twitter.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2721.55,
+      "end_time": 2722.35
+    },
+    {
+      "text": "Like an X. Yeah, Like a tweet.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2722.35,
+      "end_time": 2724.59
+    },
+    {
+      "text": "Yeah, 100%.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2724.91,
+      "end_time": 2726.03
+    },
+    {
+      "text": "It's a great list.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2727.87,
+      "end_time": 2728.83
+    },
+    {
+      "text": "It's a great list of signed NDAs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2729.27,
+      "end_time": 2731.27
+    },
+    {
+      "text": "And it's not a small list either.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2731.27,
+      "end_time": 2732.59
+    },
+    {
+      "text": "You know, people that have taken action.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2732.59,
+      "end_time": 2734.39
+    },
+    {
+      "text": "179 overall is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2734.79,
+      "end_time": 2737.19
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2737.27,
+      "end_time": 2737.75
+    },
+    {
+      "text": "Update them with some of our wins and some of the stuff that's down the pipe.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2738.23,
+      "end_time": 2741.47
+    },
+    {
+      "text": "If there's a buyer in that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2741.47,
+      "end_time": 2742.79
+    },
+    {
+      "text": "There definitely is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2743.83,
+      "end_time": 2744.55
+    },
+    {
+      "text": "You hope so, wouldn't you?",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2744.55,
+      "end_time": 2745.91
+    },
+    {
+      "text": "You don't.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2745.91,
+      "end_time": 2746.47
+    },
+    {
+      "text": "All right, thank you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2747.67,
+      "end_time": 2748.71
+    },
+    {
+      "text": "Good meeting.",
+      "speaker_name": "jon southcombe",
+      "start_time": 2748.71,
+      "end_time": 2749.11
+    },
+    {
+      "text": "See you later.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2749.59,
+      "end_time": 2750.19
+    },
+    {
+      "text": "See you next week, John.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2750.19,
+      "end_time": 2751.07
+    },
+    {
+      "text": "Take it easy.",
+      "speaker_name": "Matt Simpson",
+      "start_time": 2751.07,
+      "end_time": 2751.91
+    },
+    {
+      "text": "Have a good weekend.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2753.27,
+      "end_time": 2754.19
+    },
+    {
+      "text": "Yeah, no problem.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2754.19,
+      "end_time": 2754.87
+    },
+    {
+      "text": "John, speak.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2754.87,
+      "end_time": 2755.76
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2756.08,
+      "end_time": 2756.4
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2756.4,
+      "end_time": 2756.72
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A process",
+      "SaaS transformation",
+      "buyer rejections",
+      "valuation multiples",
+      "retail software",
+      "Australia launch"
+    ],
+    "action_items": "\n**Andrew Day**\nEmail Stuart regarding Ahmed's availability requests for next week meetings (10:50)\nInclude Matt Simpson on all future Ahmed email communications as backup contact (11:22)\nResearch retail software businesses to identify success criteria and benchmarks for similar acquisitions (26:00)\nSend updated communications to 174 signed NDA contacts with refreshed business positioning (43:26)\n\n**Matt Simpson**\nRelay to Stuart that he needs to provide availability for next week meetings (10:27)\nCreate bite-sized communication content highlighting recent contract wins for buyer updates (43:49)\nAttend board meeting next Thursday to discuss M&A strategy options (32:42)\n\n**Jon Southcombe**\nLead board meeting discussion next Thursday on pros/cons of continuing vs pausing M&A process (32:42)\nCoordinate with Matt and Stuart to compile recent wins and contract updates for buyer communications (43:49)\n\n**Stuart Tiedeman**\nProvide availability dates for next week meetings with Locally (09:02)\nCollaborate on creating update communications for previous buyer contacts (45:05)\n",
+    "outline": null,
+    "overview": "- TSG transitioned to a SaaS model over the last 6 months, currently has a large execution pipeline due in 6-10 weeks, including 5-6 small contracts and a major deal in South America with the Volta project.  \n- Outbound marketing is paused in August due to out-of-office responses, with resumption planned for September despite 174 signed NDAs.  \n- Inconsistent feedback from potential buyers cites timing and size limitations, with Ziff Davis passing due to leadership focus elsewhere and Basis withdrawing for similar reasons.  \n- Concerns exist over mixed revenue streams and reliance on major clients like Sainsbury's, which could hinder buyer interest.  \n- The business's valuation currently targets 10-12x multiples for software, while typical marketing agency multiples are 5-7x, indicating a significant valuation gap.  \n- An updated Information Memorandum focuses on retail software companies in the US market to attract buyers.  \n- Proposal to create a communication schedule showcasing recent wins aimed at re-engaging signed NDA contacts.  \n- Ongoing partnership with Republic of Media involves 20 CPG clients, enhancing full-funnel marketing capabilities.  \n- Upcoming leadership team meeting next Thursday to determine whether to push forward in September or pause for 6 months amidst discussions on the 2 million EBITDA threshold for private equity opportunities.  \n- Two main strategic options identified: an aggressive push for M&A or a pause to strengthen SaaS business demonstration before re-engagement.",
+    "short_summary": "TSG has transitioned to a SaaS model in the past six months and currently has a significant execution pipeline, including several small contracts and a major deal in South America with the Volta project. Outbound marketing efforts have been paused due to out-of-office responses but are set to resume in September, despite having 174 signed NDAs. Feedback from potential buyers has been inconsistent, with some citing timing and size limitations, leading to rejections from Ziff Davis and Basis. Concerns about mixed revenue streams and dependence on major clients like Sainsbury's may hinder buyer interest. TSG's valuation targets 10-12x software multiples, contrasting with typical marketing agency multiples of 5-7x. An updated Information Memorandum aims to attract buyers in the retail software sector, while a communication schedule is proposed to re-engage NDA contacts. A leadership meeting next Thursday will determine the next strategic steps regarding M&A or strengthening the SaaS business before re-engagement.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K10SRDC8JHQKFMKA9GN4RSH2",
+  "audio_url": "https://cdn.fireflies.ai/01K10SRDC8JHQKFMKA9GN4RSH2/audio.mp3?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzEwU1JEQzhKSFFLRk1LQTlHTjRSU0gyL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=Xpqad6-095vB-JWxZG4vP0X4bw5vEdo7bNT8fDZu-aae6l2xJe3zACBj-4cCYnHsmdH7GP8FnB6kmXpHUglUo~mJ5llDR5o6rTabuVkHlWT-qji~4ZayoHjMNOTbpNyvSVj7205oBToMEfcdTgWDleZsqxuLdK0CGVfos7d0AavXk-zKKFkZFKksZ9bnlM-LdJ~lA2S4l5miMtyqsIiXhvHYmYtFrLtsVywtx76XexryRF8cy25r6muWE4rhBcMZjjeKbVMNHt0IrwTWO2DkygbBoL8x1LIBqTEGTU1Ud4l-rcAaFr4JAag555wysdQ5tEeKg9rITujlfOIxbiP7Jw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K10SRDC8JHQKFMKA9GN4RSH2/video.mp4?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzEwU1JEQzhKSFFLRk1LQTlHTjRSU0gyL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=wxtS1YF8dCKgus643WGjt6qbap5l494TO5fksHt8NA9k2QGDoqYoBhINupoYL3JuA7R50NNPEigU7T6qa19i8Z5JTS4cdd2VOLImA8fS99-G7lgN~hsbk8NAsuJbMqZxORi6xEcOSYnUEaoGSSN18Vq23OpCNVpKZx-JRxx19RSla0zgsQ9E7OVIe4FJIjPsD7wvxxxViq29QtiTcECYULxqMpkgyXEpFSd4RUbCFI-HFXntG3s51oK~rOa4LmxBN0C1QrI5RHY3SdZXJZed2qHZLl4mUbzL411pK8V-7DrieEbnHsdKirBApbLg0fg8~lbAAJaK~ShY0WEBdhlOZQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

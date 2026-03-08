@@ -1,0 +1,1265 @@
+{
+  "id": "01KHVA4BY1A19SCBK3DV3X1QT9",
+  "title": "Project Toner",
+  "date": 1771516800000,
+  "dateString": "2026-02-19T16:00:00.000Z",
+  "duration": 18.950000762939453,
+  "participants": [
+    "andrew.day@capitala.co,julian.webb@premcom.co.uk,martin.horsman@premcom.co.uk,andy.day@capitala.co",
+    "andrew.day@capitala.co",
+    "julian.webb@premcom.co.uk",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Julian Webb",
+      "email": "julian.webb@premcom.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Martin Horsman",
+      "email": "martin.horsman@premcom.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Yep.",
+      "speaker_name": "Julian Webb",
+      "start_time": 30.33,
+      "end_time": 30.81
+    },
+    {
+      "text": "Oh, yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 31.13,
+      "end_time": 31.77
+    },
+    {
+      "text": "Not arrived yet then.",
+      "speaker_name": "Julian Webb",
+      "start_time": 33.37,
+      "end_time": 34.49
+    },
+    {
+      "text": "Just got the note taker.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 35.77,
+      "end_time": 37.93
+    },
+    {
+      "text": "It's a bit weird, isn't it?",
+      "speaker_name": "Julian Webb",
+      "start_time": 182.31,
+      "end_time": 183.51
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Julian Webb",
+      "start_time": 184.23,
+      "end_time": 184.79
+    },
+    {
+      "text": "I suppose when you on the move, even if it's pulled over, I suppose you don't always get decent signal or conditions.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 185.27,
+      "end_time": 194.39
+    },
+    {
+      "text": "Whatever.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 194.39,
+      "end_time": 195.03
+    },
+    {
+      "text": "I'm just sticking this email thing together because I've got two different reports, one you did and one Kyle did, and it makes no sense to have that in two spreadsheets, so I'm just putting them together.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 237.93,
+      "end_time": 248.73
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Julian Webb",
+      "start_time": 249.29,
+      "end_time": 249.69
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 273.22,
+      "end_time": 273.7
+    },
+    {
+      "text": "Hey, guys.",
+      "speaker_name": "Andy",
+      "start_time": 274.74,
+      "end_time": 275.46
+    },
+    {
+      "text": "Yeah, hi, Andy.",
+      "speaker_name": "Julian Webb",
+      "start_time": 275.78,
+      "end_time": 276.82
+    },
+    {
+      "text": "Yeah, good, thanks.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 278.74,
+      "end_time": 279.62
+    },
+    {
+      "text": "Yeah, thanks for being flexible.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 279.62,
+      "end_time": 281.02
+    },
+    {
+      "text": "I appreciate you on the move.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 281.02,
+      "end_time": 282.5
+    },
+    {
+      "text": "Yeah, no worries.",
+      "speaker_name": "Andy",
+      "start_time": 283.89,
+      "end_time": 285.17
+    },
+    {
+      "text": "Yeah, it takes a while to get into teams sometimes, but yeah, we're here, so all good.",
+      "speaker_name": "Andy",
+      "start_time": 285.89,
+      "end_time": 291.89
+    },
+    {
+      "text": "If I leave signal, I'm just driving through London, so.",
+      "speaker_name": "Andy",
+      "start_time": 292.29,
+      "end_time": 295.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 295.01,
+      "end_time": 295.37
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 295.37,
+      "end_time": 295.73
+    },
+    {
+      "text": "Well, I'll make this like, really simple anyway.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 295.73,
+      "end_time": 298.37
+    },
+    {
+      "text": "And I just.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 298.37,
+      "end_time": 299.33
+    },
+    {
+      "text": "Just did a little tiny bit of preamble, you know, apologies.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 299.33,
+      "end_time": 302.93
+    },
+    {
+      "text": "We recognize that there might have been a loss of confidence and it's only because for us, we want to make sure we can make it work.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 302.93,
+      "end_time": 311.66
+    },
+    {
+      "text": "The seasonality is kind of, you know, been a big factor in that.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 312.78,
+      "end_time": 316.62
+    },
+    {
+      "text": "Also exploring those synergies and.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 317.02,
+      "end_time": 318.94
+    },
+    {
+      "text": "Yeah, I mean, the price compared to this last year's profitability gives us that, you know, big challenge to back ourselves.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 319.66,
+      "end_time": 325.62
+    },
+    {
+      "text": "That's why we wanted to proceed with caution but still keen to do it.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 325.62,
+      "end_time": 330.78
+    },
+    {
+      "text": "So thanks for.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 330.78,
+      "end_time": 331.74
+    },
+    {
+      "text": "Thanks for indulging us.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 332.54,
+      "end_time": 333.74
+    },
+    {
+      "text": "We are appreciated and we are committed and I can imagine the conversations that you've had with the guys.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 334.22,
+      "end_time": 341.68
+    },
+    {
+      "text": "Yeah, it's not being great, unfortunately, it reflects on.",
+      "speaker_name": "Andy",
+      "start_time": 341.68,
+      "end_time": 345.6
+    },
+    {
+      "text": "On me because I picked the buyer.",
+      "speaker_name": "Andy",
+      "start_time": 345.92,
+      "end_time": 348.28
+    },
+    {
+      "text": "That's how they see it.",
+      "speaker_name": "Andy",
+      "start_time": 348.28,
+      "end_time": 349.28
+    },
+    {
+      "text": "Yeah, but, yeah, look, I want to get a deal done as well, and I think they're willing to hear you out with this offer, so.",
+      "speaker_name": "Andy",
+      "start_time": 349.68,
+      "end_time": 357.68
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Julian Webb",
+      "start_time": 359.28,
+      "end_time": 359.76
+    },
+    {
+      "text": "Yeah, I mean, the job is really just to get Jeff convinced that we can get a deal done.",
+      "speaker_name": "Andy",
+      "start_time": 359.76,
+      "end_time": 364.64
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 366.16,
+      "end_time": 366.64
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 366.72,
+      "end_time": 367.48
+    },
+    {
+      "text": "So just we'll take you through it and we'll keep it really simple.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 367.48,
+      "end_time": 370.72
+    },
+    {
+      "text": "So hopefully it's.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 370.88,
+      "end_time": 371.92
+    },
+    {
+      "text": "You can absolutely hold it in your head.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 372.8,
+      "end_time": 374.12
+    },
+    {
+      "text": "So I'll just carry on Julian and Charlie and just sort of lay that out.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 374.12,
+      "end_time": 376.96
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 377.44,
+      "end_time": 377.84
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 378,
+      "end_time": 378.32
+    },
+    {
+      "text": "So this is what we can absolutely stand behind and it does get us to 550.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 378.32,
+      "end_time": 382.32
+    },
+    {
+      "text": "So, like, because of this seasonality, so the immediate payment on completion, we're going with 275.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 382.56,
+      "end_time": 391.33
+    },
+    {
+      "text": "Yeah, it's not going to work, guys.",
+      "speaker_name": "Andy",
+      "start_time": 393.41,
+      "end_time": 394.85
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Julian Webb",
+      "start_time": 395.17,
+      "end_time": 395.65
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 396.53,
+      "end_time": 397.09
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 397.33,
+      "end_time": 397.65
+    },
+    {
+      "text": "Yeah, because we can't make it work otherwise because of the.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 397.65,
+      "end_time": 400.21
+    },
+    {
+      "text": "Like I said, you know, we were basing it on a previous data book that we had and it's lower coming in.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 400.29,
+      "end_time": 407.09
+    },
+    {
+      "text": "So this is what I don't understand.",
+      "speaker_name": "Andy",
+      "start_time": 407.09,
+      "end_time": 408.53
+    },
+    {
+      "text": "So the data book is one thing and there's obviously you're looking for a multiple to the lender that it sounds like you've got a 3 or 4x on it but they've got all of that other equipment as well and that's all worth something for, for them.",
+      "speaker_name": "Andy",
+      "start_time": 408.53,
+      "end_time": 423.14
+    },
+    {
+      "text": "They're just thinking that, I mean they're fuming.",
+      "speaker_name": "Andy",
+      "start_time": 423.14,
+      "end_time": 425.7
+    },
+    {
+      "text": "They think you're just mugging them off, trying to learn last minute across because you've got all of that printing equipment and all of the netbook value of stuff that's 200 grand and then you're saying that the data book is not enough to cover and that's what they just won't accept that, that you're going to take all the printing presses and the business and the debtor book for 200 grand or 200.",
+      "speaker_name": "Andy",
+      "start_time": 425.7,
+      "end_time": 453.02
+    },
+    {
+      "text": "And the creditors, Andy, taking the creditors as well.",
+      "speaker_name": "Julian Webb",
+      "start_time": 453.66,
+      "end_time": 457.02
+    },
+    {
+      "text": "We're not just taking the debt book.",
+      "speaker_name": "Julian Webb",
+      "start_time": 457.02,
+      "end_time": 458.54
+    },
+    {
+      "text": "And what did the creditors come to?",
+      "speaker_name": "Andy",
+      "start_time": 459.18,
+      "end_time": 460.94
+    },
+    {
+      "text": "About 250k.",
+      "speaker_name": "Julian Webb",
+      "start_time": 462.54,
+      "end_time": 463.82
+    },
+    {
+      "text": "So that's only, that's trade creditors.",
+      "speaker_name": "Julian Webb",
+      "start_time": 468.47,
+      "end_time": 470.39
+    },
+    {
+      "text": "So we can't, we can't really take on any of the HMRC liabilities because they, they sit with o' Neill Modern Media.",
+      "speaker_name": "Julian Webb",
+      "start_time": 470.55,
+      "end_time": 476.91
+    },
+    {
+      "text": "But the trade creditors, that's, that's fine because they're going to be our creditors going forward.",
+      "speaker_name": "Julian Webb",
+      "start_time": 476.91,
+      "end_time": 481.43
+    },
+    {
+      "text": "So we, we want to be in control of those payments and that's, that's part of the challenge is that that, that has quite a demand on working capital in the first month or two to be able to pay those creditors out.",
+      "speaker_name": "Julian Webb",
+      "start_time": 481.43,
+      "end_time": 495.46
+    },
+    {
+      "text": "So, so I mean we did say that we would quantify.",
+      "speaker_name": "Julian Webb",
+      "start_time": 498.82,
+      "end_time": 501.3
+    },
+    {
+      "text": "I know they're not going to move.",
+      "speaker_name": "Andy",
+      "start_time": 502.34,
+      "end_time": 503.62
+    },
+    {
+      "text": "They're not going to move.",
+      "speaker_name": "Andy",
+      "start_time": 504.02,
+      "end_time": 504.98
+    },
+    {
+      "text": "I can tell you now they're not going to take 275 for it.",
+      "speaker_name": "Andy",
+      "start_time": 504.98,
+      "end_time": 507.78
+    },
+    {
+      "text": "They want somewhere with a four in front of it and the your Miles bar at the moment.",
+      "speaker_name": "Andy",
+      "start_time": 507.78,
+      "end_time": 512.98
+    },
+    {
+      "text": "Yeah,",
+      "speaker_name": "Martin Horsman",
+      "start_time": 513.38,
+      "end_time": 513.86
+    },
+    {
+      "text": "I mean are you guys not putting any cash in?",
+      "speaker_name": "Andy",
+      "start_time": 515.86,
+      "end_time": 518.38
+    },
+    {
+      "text": "I, I think, look, this, the fact is this is a central or close to central London business with top tier clients.",
+      "speaker_name": "Andy",
+      "start_time": 518.38,
+      "end_time": 528.78
+    },
+    {
+      "text": "They've got a bunch of, you know, it's to die for clients but, you know, servicing all of these businesses from a London address, it has value for the Premcom business.",
+      "speaker_name": "Andy",
+      "start_time": 528.78,
+      "end_time": 541.58
+    },
+    {
+      "text": "Surely that you're going to invest and expand the business out to try and fund it all off its own balance sheet is just, I mean it's just painful, guys.",
+      "speaker_name": "Andy",
+      "start_time": 541.58,
+      "end_time": 551.62
+    },
+    {
+      "text": "Yeah, they just want to know that you're investing in the business, that you've got capital to keep it running.",
+      "speaker_name": "Andy",
+      "start_time": 552.82,
+      "end_time": 558.26
+    },
+    {
+      "text": "You know, they've got staff that they're handing over and to just say, well, it doesn't, you know, the only valuation you can give it is based on what you can borrow.",
+      "speaker_name": "Andy",
+      "start_time": 558.58,
+      "end_time": 568.58
+    },
+    {
+      "text": "I don't know whether you're adding anything into that, but it sounds like it's almost 100% against the invoices.",
+      "speaker_name": "Andy",
+      "start_time": 569.14,
+      "end_time": 575.08
+    },
+    {
+      "text": "I mean, it's, yeah, it's just where we are in our sort of particular phase that cash isn't.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 575.08,
+      "end_time": 580.6
+    },
+    {
+      "text": "You know, if it was another position then we would put cash in.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 581.64,
+      "end_time": 585.12
+    },
+    {
+      "text": "If we had cash.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 585.12,
+      "end_time": 585.96
+    },
+    {
+      "text": "It's just, you know, you know, it is with phase.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 585.96,
+      "end_time": 588.36
+    },
+    {
+      "text": "You don't always have cash all the time.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 588.84,
+      "end_time": 590.76
+    },
+    {
+      "text": "Everything's tied up in an account.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 590.84,
+      "end_time": 592.28
+    },
+    {
+      "text": "But yeah, I mean, that's obviously just the initial payment.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 592.76,
+      "end_time": 595.84
+    },
+    {
+      "text": "We are getting to 550, but it's deferred.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 595.84,
+      "end_time": 598.36
+    },
+    {
+      "text": "It's how we.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 598.36,
+      "end_time": 599.16
+    },
+    {
+      "text": "But for them, you're just.",
+      "speaker_name": "Andy",
+      "start_time": 599.4,
+      "end_time": 600.92
+    },
+    {
+      "text": "The thing is, this is a nothing to them, it's a huge distraction.",
+      "speaker_name": "Andy",
+      "start_time": 601.08,
+      "end_time": 605.62
+    },
+    {
+      "text": "But to get it off their books, they want to just cash out the majority of its value.",
+      "speaker_name": "Andy",
+      "start_time": 606.02,
+      "end_time": 610.26
+    },
+    {
+      "text": "They don't want to wait around for three years or whatever the plan is, they just want it off their books.",
+      "speaker_name": "Andy",
+      "start_time": 610.26,
+      "end_time": 616.34
+    },
+    {
+      "text": "And this is what I said to Simon last week, if you can get 440 grand in their pockets at closing, they're not really bothered.",
+      "speaker_name": "Andy",
+      "start_time": 616.34,
+      "end_time": 623.78
+    },
+    {
+      "text": "This is, I mean this should be off the record, but I'm just trying to get as open as I can with you.",
+      "speaker_name": "Andy",
+      "start_time": 623.86,
+      "end_time": 628.5
+    },
+    {
+      "text": "They're not really bothered about the rest of it, you know, they just want to get it off their books.",
+      "speaker_name": "Andy",
+      "start_time": 628.5,
+      "end_time": 633.64
+    },
+    {
+      "text": "So obviously it's my job to negotiate as good a value for it and they've told me 550, but if that is all drawn, if the other 110 is drawn out over years to come, then that's one thing.",
+      "speaker_name": "Andy",
+      "start_time": 634.2,
+      "end_time": 646.4
+    },
+    {
+      "text": "But they're not going to drop from 440 to 275.",
+      "speaker_name": "Andy",
+      "start_time": 646.4,
+      "end_time": 650.04
+    },
+    {
+      "text": "They just want it off their books and all you're doing is just creating stress for them over a longer period of time.",
+      "speaker_name": "Andy",
+      "start_time": 651.4,
+      "end_time": 657.4
+    },
+    {
+      "text": "So from their point of view, they're like, we might as well just shut it down then have that over our heads.",
+      "speaker_name": "Andy",
+      "start_time": 657.4,
+      "end_time": 664.22
+    },
+    {
+      "text": "They're just not interested.",
+      "speaker_name": "Andy",
+      "start_time": 664.22,
+      "end_time": 665.38
+    },
+    {
+      "text": "They want it off the books.",
+      "speaker_name": "Andy",
+      "start_time": 665.38,
+      "end_time": 666.38
+    },
+    {
+      "text": "I mean, this is a US based head office, do you know what I mean?",
+      "speaker_name": "Andy",
+      "start_time": 666.38,
+      "end_time": 671.1
+    },
+    {
+      "text": "And OMM are doing, the actual agency is doing business across Europe.",
+      "speaker_name": "Andy",
+      "start_time": 671.18,
+      "end_time": 675.98
+    },
+    {
+      "text": "So for them to have this small deal, they just want it cleared and they want to do a deal with somebody who can just buy, buy them out, buy their interest out at 400k, that's one.",
+      "speaker_name": "Andy",
+      "start_time": 676.3,
+      "end_time": 692.3
+    },
+    {
+      "text": "And they're happy to Do a deal with you guys.",
+      "speaker_name": "Andy",
+      "start_time": 693.98,
+      "end_time": 695.74
+    },
+    {
+      "text": "I mean, everybody's invested time in it.",
+      "speaker_name": "Andy",
+      "start_time": 695.74,
+      "end_time": 697.98
+    },
+    {
+      "text": "Yeah, we have.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 698.06,
+      "end_time": 698.78
+    },
+    {
+      "text": "No, I agree.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 698.78,
+      "end_time": 699.66
+    },
+    {
+      "text": "Yeah, we're the same.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 699.82,
+      "end_time": 700.66
+    },
+    {
+      "text": "Has to be seen.",
+      "speaker_name": "Andy",
+      "start_time": 700.66,
+      "end_time": 701.42
+    },
+    {
+      "text": "If we could get.",
+      "speaker_name": "Julian Webb",
+      "start_time": 702.86,
+      "end_time": 703.74
+    },
+    {
+      "text": "We'd have to go away and look at the numbers, but if we can get to 300 on day one and then 100 deferred for 12 months, would that work?",
+      "speaker_name": "Julian Webb",
+      "start_time": 704.06,
+      "end_time": 711.51
+    },
+    {
+      "text": "So did you say 400 on day one?",
+      "speaker_name": "Andy",
+      "start_time": 713.67,
+      "end_time": 715.59
+    },
+    {
+      "text": "No, 300 I said.",
+      "speaker_name": "Julian Webb",
+      "start_time": 715.75,
+      "end_time": 717.11
+    },
+    {
+      "text": "And then 100 or 150 on like 12 months or whatever.",
+      "speaker_name": "Julian Webb",
+      "start_time": 717.59,
+      "end_time": 722.23
+    },
+    {
+      "text": "I honestly don't think that they're going to go down to three.",
+      "speaker_name": "Andy",
+      "start_time": 725.75,
+      "end_time": 728.71
+    },
+    {
+      "text": "I mean, they can sell off a lot of this stuff for a similar money and how it has been approached.",
+      "speaker_name": "Andy",
+      "start_time": 729.03,
+      "end_time": 737.15
+    },
+    {
+      "text": "And we've got a list of buyers that we were speaking to before we signed exclusive with you guys.",
+      "speaker_name": "Andy",
+      "start_time": 737.15,
+      "end_time": 743.09
+    },
+    {
+      "text": "It's just, I think, Julian, there's an opportunity here that is worth the 550 that they're asking.",
+      "speaker_name": "Andy",
+      "start_time": 743.89,
+      "end_time": 752.33
+    },
+    {
+      "text": "And 300 is just too close to the value of just the netbook value.",
+      "speaker_name": "Andy",
+      "start_time": 752.33,
+      "end_time": 760.69
+    },
+    {
+      "text": "I mean, I can take it to them, but I just know Jeff is already fuming that it's taken this long.",
+      "speaker_name": "Andy",
+      "start_time": 761.57,
+      "end_time": 767.26
+    },
+    {
+      "text": "You know, an agreement that we had in November or December to get it done before the end of December and then it's like, let's get it done before the end of January and now you're talking about the end of March and they've just had enough.",
+      "speaker_name": "Andy",
+      "start_time": 767.5,
+      "end_time": 778.38
+    },
+    {
+      "text": "So they just want to get something that's as painless as possible done.",
+      "speaker_name": "Andy",
+      "start_time": 778.62,
+      "end_time": 783.26
+    },
+    {
+      "text": "I believe I could put a four something in front of them and they would be happy.",
+      "speaker_name": "Andy",
+      "start_time": 783.5,
+      "end_time": 789.26
+    },
+    {
+      "text": "But three, I just, I don't think it's going to happen.",
+      "speaker_name": "Andy",
+      "start_time": 789.26,
+      "end_time": 791.74
+    },
+    {
+      "text": "Let's try again.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 797.41,
+      "end_time": 798.13
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Julian Webb",
+      "start_time": 799.01,
+      "end_time": 799.89
+    },
+    {
+      "text": "I mean, the, the problem, I mean, I understand the net book value of the assets is, as you're saying, that we've had a desktop valuation done on those assets and it's about 100k.",
+      "speaker_name": "Julian Webb",
+      "start_time": 799.89,
+      "end_time": 811.65
+    },
+    {
+      "text": "That's part of our problem.",
+      "speaker_name": "Julian Webb",
+      "start_time": 813.89,
+      "end_time": 814.85
+    },
+    {
+      "text": "But that is the difference that we're talking about really, innit?",
+      "speaker_name": "Julian Webb",
+      "start_time": 814.85,
+      "end_time": 817.41
+    },
+    {
+      "text": "Because.",
+      "speaker_name": "Julian Webb",
+      "start_time": 817.41,
+      "end_time": 817.65
+    },
+    {
+      "text": "So between you and me, Julian, you don't think that this business is worth half a million considering that they're doing 2 million plus in revenue.",
+      "speaker_name": "Andy",
+      "start_time": 817.89,
+      "end_time": 826.13
+    },
+    {
+      "text": "They're based in Central or just outside of London, they've got top tier clients.",
+      "speaker_name": "Andy",
+      "start_time": 826.53,
+      "end_time": 831.57
+    },
+    {
+      "text": "You don't believe that it's, it's worth.",
+      "speaker_name": "Andy",
+      "start_time": 831.57,
+      "end_time": 833.57
+    },
+    {
+      "text": "The, the challenge is that the EBITDA at the moment is so low, it's carrying, it's carrying too much, too much cost and that's what we've got to work.",
+      "speaker_name": "Julian Webb",
+      "start_time": 834.05,
+      "end_time": 843.81
+    },
+    {
+      "text": "That's your job.",
+      "speaker_name": "Andy",
+      "start_time": 843.97,
+      "end_time": 844.69
+    },
+    {
+      "text": "So that's your opportunity, isn't it to strip it out.",
+      "speaker_name": "Andy",
+      "start_time": 844.69,
+      "end_time": 846.81
+    },
+    {
+      "text": "You've got Premcom to add it to.",
+      "speaker_name": "Andy",
+      "start_time": 846.81,
+      "end_time": 849.37
+    },
+    {
+      "text": "And that's the difference for them.",
+      "speaker_name": "Andy",
+      "start_time": 849.37,
+      "end_time": 850.81
+    },
+    {
+      "text": "They are carrying those costs twice because this business is separate from their core business.",
+      "speaker_name": "Andy",
+      "start_time": 851.61,
+      "end_time": 856.41
+    },
+    {
+      "text": "For you, you're taking all of that out of the back office.",
+      "speaker_name": "Andy",
+      "start_time": 856.81,
+      "end_time": 860.09
+    },
+    {
+      "text": "All of the stuff that already works with Premcom is where you're making the savings out of this business to turn it into something profitable.",
+      "speaker_name": "Andy",
+      "start_time": 860.57,
+      "end_time": 868.73
+    },
+    {
+      "text": "That's the opportunity that you've got.",
+      "speaker_name": "Andy",
+      "start_time": 869.45,
+      "end_time": 871.37
+    },
+    {
+      "text": "I can't believe that it's not worth at least 500k.",
+      "speaker_name": "Andy",
+      "start_time": 872.01,
+      "end_time": 874.57
+    },
+    {
+      "text": "I mean, it is.",
+      "speaker_name": "Andy",
+      "start_time": 874.57,
+      "end_time": 875.21
+    },
+    {
+      "text": "It just is.",
+      "speaker_name": "Andy",
+      "start_time": 875.86,
+      "end_time": 876.58
+    },
+    {
+      "text": "And we were talking to other buyers that were just going to, you know, bolt it on.",
+      "speaker_name": "Andy",
+      "start_time": 877.94,
+      "end_time": 881.86
+    },
+    {
+      "text": "So I know for a fact that the other buyers that were in the printing world could see that the value was there at that pricing.",
+      "speaker_name": "Andy",
+      "start_time": 881.86,
+      "end_time": 889.94
+    },
+    {
+      "text": "I think you guys can get to 400k.",
+      "speaker_name": "Andy",
+      "start_time": 894.66,
+      "end_time": 897.54
+    },
+    {
+      "text": "And are you saying if we get to 400k then, then that's it?",
+      "speaker_name": "Julian Webb",
+      "start_time": 901.15,
+      "end_time": 904.91
+    },
+    {
+      "text": "Although there'll be a balance that they're happy to take, a balance over a long period of time.",
+      "speaker_name": "Julian Webb",
+      "start_time": 905.23,
+      "end_time": 908.99
+    },
+    {
+      "text": "I'm saying that you still need to get to 550.",
+      "speaker_name": "Andy",
+      "start_time": 909.31,
+      "end_time": 912.07
+    },
+    {
+      "text": "Given the where they were at.",
+      "speaker_name": "Andy",
+      "start_time": 912.07,
+      "end_time": 914.39
+    },
+    {
+      "text": "I mean, they were, they were telling me to just get lost and they wanted to walk away.",
+      "speaker_name": "Andy",
+      "start_time": 914.39,
+      "end_time": 919.47
+    },
+    {
+      "text": "So the 550 is what they're expecting.",
+      "speaker_name": "Andy",
+      "start_time": 920.75,
+      "end_time": 922.91
+    },
+    {
+      "text": "But if you put that we need the 400 and I'm saying 440 to close.",
+      "speaker_name": "Andy",
+      "start_time": 922.91,
+      "end_time": 928.43
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Julian Webb",
+      "start_time": 928.51,
+      "end_time": 928.79
+    },
+    {
+      "text": "But if you guys come back with 400, that's.",
+      "speaker_name": "Andy",
+      "start_time": 928.79,
+      "end_time": 930.67
+    },
+    {
+      "text": "That's on you.",
+      "speaker_name": "Andy",
+      "start_time": 930.67,
+      "end_time": 931.31
+    },
+    {
+      "text": "If it doesn't close, that's the deal that we had the other 110.",
+      "speaker_name": "Andy",
+      "start_time": 931.31,
+      "end_time": 936.49
+    },
+    {
+      "text": "I mean, they're not going to die waiting for that money.",
+      "speaker_name": "Andy",
+      "start_time": 936.73,
+      "end_time": 939.45
+    },
+    {
+      "text": "If you spread that out over multiple years and it's based on a target, that's something else.",
+      "speaker_name": "Andy",
+      "start_time": 940.09,
+      "end_time": 946.49
+    },
+    {
+      "text": "But to get the deal over the line, I think we need that 400, 440 in cash at close and then the rest of it.",
+      "speaker_name": "Andy",
+      "start_time": 946.65,
+      "end_time": 954.21
+    },
+    {
+      "text": "Yeah, I mean, figure it out.",
+      "speaker_name": "Andy",
+      "start_time": 954.21,
+      "end_time": 955.37
+    },
+    {
+      "text": "I'm sure there's a deal to be done based on that.",
+      "speaker_name": "Andy",
+      "start_time": 957.45,
+      "end_time": 960.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Julian Webb",
+      "start_time": 971,
+      "end_time": 971.48
+    },
+    {
+      "text": "I think we'll just need to go away and do some number crunching.",
+      "speaker_name": "Julian Webb",
+      "start_time": 971.48,
+      "end_time": 973.76
+    },
+    {
+      "text": "And you're saying that if you're saying that there's no point in going back back to them with a, you know, initial close offer of doesn't start with a four, then we're struggling to get to that with the way that we're structuring the deal at the moment.",
+      "speaker_name": "Julian Webb",
+      "start_time": 973.76,
+      "end_time": 991.27
+    },
+    {
+      "text": "You're trying to structure this deal so it just off.",
+      "speaker_name": "Andy",
+      "start_time": 994.15,
+      "end_time": 997.75
+    },
+    {
+      "text": "They're not going to have it less than 400.",
+      "speaker_name": "Andy",
+      "start_time": 997.91,
+      "end_time": 1002.07
+    },
+    {
+      "text": "I mean, I spoke to Howard this morning.",
+      "speaker_name": "Andy",
+      "start_time": 1003.03,
+      "end_time": 1004.95
+    },
+    {
+      "text": "I know for a fact that they won't accept less than 400 egg close.",
+      "speaker_name": "Andy",
+      "start_time": 1005.03,
+      "end_time": 1010.07
+    },
+    {
+      "text": "Jeff is expecting 414.",
+      "speaker_name": "Andy",
+      "start_time": 1011.76,
+      "end_time": 1013.36
+    },
+    {
+      "text": "He is the decider.",
+      "speaker_name": "Andy",
+      "start_time": 1013.84,
+      "end_time": 1015.52
+    },
+    {
+      "text": "But I'm happy to take 400k back to just try and get this deal done in which way we can, because they want off the board and you guys want the business today.",
+      "speaker_name": "Andy",
+      "start_time": 1016.32,
+      "end_time": 1027.28
+    },
+    {
+      "text": "Can't hear you, Martin.",
+      "speaker_name": "Julian Webb",
+      "start_time": 1035.84,
+      "end_time": 1036.96
+    },
+    {
+      "text": "Yeah, okay.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1037.66,
+      "end_time": 1038.42
+    },
+    {
+      "text": "Yeah, I'm just on listening mode.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1038.42,
+      "end_time": 1040.06
+    },
+    {
+      "text": "I'm on receive mode.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1040.06,
+      "end_time": 1041.18
+    },
+    {
+      "text": "So, yeah, we do need to kind of work it back through and come back.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1041.18,
+      "end_time": 1045.26
+    },
+    {
+      "text": "Obviously, we appreciate time is of the essence.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1045.42,
+      "end_time": 1048.38
+    },
+    {
+      "text": "Yeah, I think so.",
+      "speaker_name": "Andy",
+      "start_time": 1051.34,
+      "end_time": 1052.54
+    },
+    {
+      "text": "It's Jeff more than anybody else that, you know, Yousef has given a lot of his time.",
+      "speaker_name": "Andy",
+      "start_time": 1052.78,
+      "end_time": 1058.06
+    },
+    {
+      "text": "He's actually the CFO for the entire global business.",
+      "speaker_name": "Andy",
+      "start_time": 1058.06,
+      "end_time": 1062.7
+    },
+    {
+      "text": "And so from Jeff's point of view, it's just like we just need to get it done or just move on.",
+      "speaker_name": "Andy",
+      "start_time": 1063.42,
+      "end_time": 1067.58
+    },
+    {
+      "text": "So, yeah, it is.",
+      "speaker_name": "Andy",
+      "start_time": 1067.81,
+      "end_time": 1068.57
+    },
+    {
+      "text": "They just want it done quick.",
+      "speaker_name": "Andy",
+      "start_time": 1068.57,
+      "end_time": 1069.49
+    },
+    {
+      "text": "If you can move quickly, then you can almost.",
+      "speaker_name": "Andy",
+      "start_time": 1069.73,
+      "end_time": 1072.53
+    },
+    {
+      "text": "You can almost say what you want about the other 150, but the 400k, they're not going to back off from that.",
+      "speaker_name": "Andy",
+      "start_time": 1073.73,
+      "end_time": 1081.09
+    },
+    {
+      "text": "If you want to come back to me in an hour, see whether you can get that.",
+      "speaker_name": "Andy",
+      "start_time": 1085.25,
+      "end_time": 1089.41
+    },
+    {
+      "text": "Yeah, we'll do.",
+      "speaker_name": "Andy",
+      "start_time": 1090.05,
+      "end_time": 1091.73
+    },
+    {
+      "text": "All right, guys.",
+      "speaker_name": "Andy",
+      "start_time": 1092.13,
+      "end_time": 1092.77
+    },
+    {
+      "text": "Appreciate your work.",
+      "speaker_name": "Andy",
+      "start_time": 1092.77,
+      "end_time": 1094.25
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Julian Webb",
+      "start_time": 1094.25,
+      "end_time": 1094.61
+    },
+    {
+      "text": "Thanks for taking the seat.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1094.61,
+      "end_time": 1095.57
+    },
+    {
+      "text": "Nice big seeing them.",
+      "speaker_name": "Andy",
+      "start_time": 1095.57,
+      "end_time": 1096.37
+    },
+    {
+      "text": "See you.",
+      "speaker_name": "Julian Webb",
+      "start_time": 1097.04,
+      "end_time": 1097.32
+    },
+    {
+      "text": "Big thing.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1097.32,
+      "end_time": 1097.84
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Martin Horsman",
+      "start_time": 1097.84,
+      "end_time": 1098.4
+    },
+    {
+      "text": "Give your ring.",
+      "speaker_name": "Andy",
+      "start_time": 1101.28,
+      "end_time": 1102.16
+    },
+    {
+      "text": "Jump on another call.",
+      "speaker_name": "Julian Webb",
+      "start_time": 1103.04,
+      "end_time": 1104.08
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "valuation",
+      "upfront payment",
+      "deferred payment",
+      "seasonality",
+      "trading creditors",
+      "EBITDA"
+    ],
+    "action_items": "\n**Julian Webb**\nReassess financial numbers and valuation to explore possibility of increasing upfront payment to £400k or more (16:11)\n\n**Martin Horsman**\nContinue collaboration with Julian to integrate reports and prepare revised financial offer for buyer (03:05)\nMonitor and respond to buyer feedback during negotiations (17:00)\n\n**Andy Day**\nPresent revised offer with at least £400k upfront to Jeff and other decision-makers for approval (16:30)\nCommunicate urgency of buyer to close and manage expectations about cash payment timing (17:00)\n",
+    "outline": null,
+    "overview": "- **Deal Valuation Dispute:** Sellers demand **£550,000**, buyers can offer **£275,000** upfront but sellers expect **£400,000** minimum.\n  \n- **Operational Challenges:** Low EBITDA and high costs complicate valuation; buyers plan to merge functions to cut expenses.\n\n- **Working Capital Issues:** Buyers face immediate demands from trade creditors of about **£250,000**, affecting cash flow management.\n\n- **Strategic Location Advantage:** The business's proximity to London and high-profile clients enhances its market potential.\n\n- **Urgency for Closure:** Sellers want a swift resolution to clear business liabilities and focus on core operations.",
+    "short_summary": "The meeting centered on negotiations for a business sale with a seller demanding a £550,000 valuation, while buyers offered £275,000 upfront due to financial constraints. Sellers expect at least £400,000 upfront, highlighting the value of assets like printing equipment, which buyers undervalue. The urgency to close the deal stems from sellers wanting to clear liabilities swiftly, exacerbated by low EBITDA and high costs affecting the business's valuation. Buyers plan to restructure and integrate operations with their existing business to achieve profitability, while also needing to manage trade creditors of about £250,000. The negotiations involve balancing upfront payments with deferred amounts, as both parties recognize the importance of a timely resolution.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01KHVA4BY1A19SCBK3DV3X1QT9",
+  "audio_url": "https://cdn.fireflies.ai/01KHVA4BY1A19SCBK3DV3X1QT9/audio.mp3?Expires=1773220820&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0hWQTRCWTFBMTlTQ0JLM0RWM1gxUVQ5L2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgyMH19fV19&Signature=JZosAQBeQKF02ImkzxeOeoFYt4mcgwmUFF32~hdcbxqMn6l0NGlMGzV9X3l5tyOnZyK6crPmANmqJPg8yWslgs1tEjdWxnmva7xLySLfjhMNxvad1GX815v1nkmVDwecOHMzOgWlY5VHLkUIr9NYgCQj2aBfH1FpTfLyI~Ht~WxnbxIW3kzZqNOoTiGVzGTDQKHwv6CviyM3qK9oGyGqMjn7MxIluf8aF8g4cTkgwskZULmfjj3N8OF6p5dE5woMLWdMmGpHlWTEwk5rynD-Ei4336ieJoLN~-rUjm59w82TTspRiqREUtdJfifSQgPmy8QUyP5CFHUyTknhSY0zEw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01KHVA4BY1A19SCBK3DV3X1QT9/video.mp4?Expires=1773220820&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0hWQTRCWTFBMTlTQ0JLM0RWM1gxUVQ5L3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgyMH19fV19&Signature=rE583XDqn4vgURLbCvG7XjMV51~BkbWyVnpCw0jBWA-3dw3GwEnBu04U31lqpano0LakE1eS4~oY9~eqbCjPR3kAGzCu3I70yWEgvRLtu~x5~yLYTN6KXY-85E6Soqbk2W5WSMR09Za6m4fgxM7YwTFiA6v2qJ8nsovHvKLZEp5FZE5pgLKAg0idTNxvCAmIr7Nl5cx0uk82IWkDmOHDJ6UEgBP71LOViuChPb7FO9XuHfJrZKpsWyMJjbWr1Zig-DrGq2-ZcCu2yLjz0t2gFs4mFGq7YYkfC1rnuOEh63S5DdjrlV92Zog~gQMuXYpDAeldOs1FkRZhWmV1lM7ZxQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

@@ -1,0 +1,1817 @@
+{
+  "id": "01K5905SSNYQ783N4Q23H3PKW0",
+  "title": "Capital A Partners and PitchBook Walkthrough | Conversation with James Payling",
+  "date": 1758535200000,
+  "dateString": "2025-09-22T10:00:00.000Z",
+  "duration": 28.049999237060547,
+  "participants": [
+    "andrew.day@capitala.co,faye.joyce@pitchbook.com,james.payling@pitchbook.com,andy.day@capitala.co",
+    "andrew.day@capitala.co",
+    "faye.joyce@pitchbook.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Faye Joyce",
+      "email": "faye.joyce@pitchbook.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "James Payling",
+      "email": "james.payling@pitchbook.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi, good morning.",
+      "speaker_name": "James Payling",
+      "start_time": 208.96,
+      "end_time": 209.88
+    },
+    {
+      "text": "Andy James here from Pitchfork.",
+      "speaker_name": "James Payling",
+      "start_time": 209.88,
+      "end_time": 211.88
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "James Payling",
+      "start_time": 211.88,
+      "end_time": 212.32
+    },
+    {
+      "text": "Yeah, I'm good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 213.04,
+      "end_time": 214.04
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 214.04,
+      "end_time": 214.64
+    },
+    {
+      "text": "Yeah, not too bad.",
+      "speaker_name": "James Payling",
+      "start_time": 214.96,
+      "end_time": 216.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 216.16,
+      "end_time": 216.48
+    },
+    {
+      "text": "Thank you very much for jumping on the call after our conversation last week and taking the time to evaluate Pitchbook.",
+      "speaker_name": "James Payling",
+      "start_time": 216.48,
+      "end_time": 222.4
+    },
+    {
+      "text": "Obviously, in terms of today, I know you had some reservations.",
+      "speaker_name": "James Payling",
+      "start_time": 224.08,
+      "end_time": 228.4
+    },
+    {
+      "text": "So was keen to just highlight some searches around the quality of the data and the excellent functionality we have that can obviously be brought to Capital A partners.",
+      "speaker_name": "James Payling",
+      "start_time": 228.4,
+      "end_time": 239.2
+    },
+    {
+      "text": "Just similar, I suppose, in the way some of the conversations have gone with your previous colleagues.",
+      "speaker_name": "James Payling",
+      "start_time": 240.08,
+      "end_time": 244.48
+    },
+    {
+      "text": "And was keen to obviously focus in on the marketing services spot for you guys.",
+      "speaker_name": "James Payling",
+      "start_time": 245.44,
+      "end_time": 250.64
+    },
+    {
+      "text": "Was there anything else you wanted to add before we begin?",
+      "speaker_name": "James Payling",
+      "start_time": 251.84,
+      "end_time": 255.36
+    },
+    {
+      "text": "Anything specific perhaps you want me to target that be truly relevant for you guys?",
+      "speaker_name": "James Payling",
+      "start_time": 256.64,
+      "end_time": 262.529
+    },
+    {
+      "text": "Just want to make sure I maximize your time.",
+      "speaker_name": "James Payling",
+      "start_time": 262.529,
+      "end_time": 264.969
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "James Payling",
+      "start_time": 264.969,
+      "end_time": 265.329
+    },
+    {
+      "text": "Not really.",
+      "speaker_name": "Andy Day",
+      "start_time": 267.329,
+      "end_time": 267.969
+    },
+    {
+      "text": "We just.",
+      "speaker_name": "Andy Day",
+      "start_time": 267.969,
+      "end_time": 268.689
+    },
+    {
+      "text": "Yeah, we're in marketing services, so that's where our focus is.",
+      "speaker_name": "Andy Day",
+      "start_time": 269.489,
+      "end_time": 273.089
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "James Payling",
+      "start_time": 274.209,
+      "end_time": 274.769
+    },
+    {
+      "text": "No problem at all.",
+      "speaker_name": "James Payling",
+      "start_time": 274.849,
+      "end_time": 276.049
+    },
+    {
+      "text": "Let me just go ahead and share the screen.",
+      "speaker_name": "James Payling",
+      "start_time": 276.609,
+      "end_time": 278.569
+    },
+    {
+      "text": "Andy, momentarily should see the Pitchfork platform and my mouse moving.",
+      "speaker_name": "James Payling",
+      "start_time": 278.569,
+      "end_time": 282.769
+    },
+    {
+      "text": "Is that all clear for you?",
+      "speaker_name": "James Payling",
+      "start_time": 282.769,
+      "end_time": 283.969
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 284.289,
+      "end_time": 285.329
+    },
+    {
+      "text": "Does it need to be bigger or smaller or anything?",
+      "speaker_name": "James Payling",
+      "start_time": 285.329,
+      "end_time": 287.249
+    },
+    {
+      "text": "No, that'll do.",
+      "speaker_name": "Andy Day",
+      "start_time": 288.7,
+      "end_time": 289.26
+    },
+    {
+      "text": "I can always lean in.",
+      "speaker_name": "Andy Day",
+      "start_time": 289.26,
+      "end_time": 290.3
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "James Payling",
+      "start_time": 291.5,
+      "end_time": 292.22
+    },
+    {
+      "text": "So, yeah, we work with a huge amount of advisory firms right around the globe.",
+      "speaker_name": "James Payling",
+      "start_time": 293.26,
+      "end_time": 297.74
+    },
+    {
+      "text": "Those that are agnostic or sector specific.",
+      "speaker_name": "James Payling",
+      "start_time": 297.9,
+      "end_time": 300.38
+    },
+    {
+      "text": "Like obviously you guys are Capitala A partners and we can provide significant value on the buy and the sell side.",
+      "speaker_name": "James Payling",
+      "start_time": 300.38,
+      "end_time": 306.3
+    },
+    {
+      "text": "So we can help you find a relevant targeted list of buyers that are active within the space.",
+      "speaker_name": "James Payling",
+      "start_time": 306.54,
+      "end_time": 311.9
+    },
+    {
+      "text": "We can show you companies that are likely to be looking for an exit or gone through a recent fundraise as kind of key components to a business like yourselves, as kind of the main drivers of the value that we can bring to the table.",
+      "speaker_name": "James Payling",
+      "start_time": 312.14,
+      "end_time": 327.08
+    },
+    {
+      "text": "And to do that effectively, you can run those searches on the left hand side of this page with the different screeners.",
+      "speaker_name": "James Payling",
+      "start_time": 327.56,
+      "end_time": 334.84
+    },
+    {
+      "text": "So as an example, I'll begin in the investors perspective.",
+      "speaker_name": "James Payling",
+      "start_time": 335.24,
+      "end_time": 340.84
+    },
+    {
+      "text": "And here we can ultimately choose for a variety of different options to make our search as targeted as we need it to be.",
+      "speaker_name": "James Payling",
+      "start_time": 341.7,
+      "end_time": 349.54
+    },
+    {
+      "text": "So for example, you might want.",
+      "speaker_name": "James Payling",
+      "start_time": 350.5,
+      "end_time": 353.7
+    },
+    {
+      "text": "So we're going to put in an industry first and foremost, so I can literally put in marketing services as an example.",
+      "speaker_name": "James Payling",
+      "start_time": 353.78,
+      "end_time": 361.22
+    },
+    {
+      "text": "Would you also include areas like marketing tech within that?",
+      "speaker_name": "James Payling",
+      "start_time": 363.78,
+      "end_time": 368.63
+    },
+    {
+      "text": "Would that be relevant?",
+      "speaker_name": "James Payling",
+      "start_time": 368.63,
+      "end_time": 369.63
+    },
+    {
+      "text": "Or do you want me to focus specifically around marketing services?",
+      "speaker_name": "James Payling",
+      "start_time": 369.63,
+      "end_time": 373.35
+    },
+    {
+      "text": "I just wanted to make sure I'm not missing anything.",
+      "speaker_name": "James Payling",
+      "start_time": 373.35,
+      "end_time": 376.55
+    },
+    {
+      "text": "I mean, we, we do cover Martech, but it's not really our focus.",
+      "speaker_name": "Andy Day",
+      "start_time": 376.79,
+      "end_time": 384.23
+    },
+    {
+      "text": "It's a different business model and the, the, the valuations are different.",
+      "speaker_name": "Andy Day",
+      "start_time": 384.79,
+      "end_time": 390.15
+    },
+    {
+      "text": "So there's.",
+      "speaker_name": "Andy Day",
+      "start_time": 390.31,
+      "end_time": 391.35
+    },
+    {
+      "text": "It's a smaller market, basically a better I mean, it's probably worth including.",
+      "speaker_name": "Andy Day",
+      "start_time": 391.35,
+      "end_time": 396.55
+    },
+    {
+      "text": "Okay, well, basically, as you're seeing with the Boolean search box, you know, you can type in any word, any phrase you can populate.",
+      "speaker_name": "James Payling",
+      "start_time": 397.59,
+      "end_time": 405.79
+    },
+    {
+      "text": "The suggestions that naturally come come into this as well.",
+      "speaker_name": "James Payling",
+      "start_time": 405.79,
+      "end_time": 409.03
+    },
+    {
+      "text": "So really can be as narrow or as broad as you need it to be.",
+      "speaker_name": "James Payling",
+      "start_time": 409.67,
+      "end_time": 413.11
+    },
+    {
+      "text": "But we'll focus there to begin with in terms of investor types here, Andy.",
+      "speaker_name": "James Payling",
+      "start_time": 413.99,
+      "end_time": 419.03
+    },
+    {
+      "text": "Yeah, we can look at those perhaps strategic private equity firms.",
+      "speaker_name": "James Payling",
+      "start_time": 420.02,
+      "end_time": 423.06
+    },
+    {
+      "text": "Would they be kind of the traditional investors?",
+      "speaker_name": "James Payling",
+      "start_time": 423.06,
+      "end_time": 425.3
+    },
+    {
+      "text": "That would be interesting to you or would you add in any, any of the other options?",
+      "speaker_name": "James Payling",
+      "start_time": 425.3,
+      "end_time": 429.14
+    },
+    {
+      "text": "No, strategic or better.",
+      "speaker_name": "Andy Day",
+      "start_time": 431.3,
+      "end_time": 433.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 434.5,
+      "end_time": 434.98
+    },
+    {
+      "text": "So if we look at those guys, we can look at them that are investing into anywhere in the globe.",
+      "speaker_name": "James Payling",
+      "start_time": 435.3,
+      "end_time": 441.94
+    },
+    {
+      "text": "Do you want me to focus in those that are investing into the UK scene?",
+      "speaker_name": "James Payling",
+      "start_time": 442.5,
+      "end_time": 445.7
+    },
+    {
+      "text": "What is it you're searching for?",
+      "speaker_name": "Andy Day",
+      "start_time": 450.21,
+      "end_time": 451.33
+    },
+    {
+      "text": "Your search for invest?",
+      "speaker_name": "Andy Day",
+      "start_time": 451.33,
+      "end_time": 452.29
+    },
+    {
+      "text": "Because I rarely search for.",
+      "speaker_name": "Andy Day",
+      "start_time": 452.29,
+      "end_time": 453.65
+    },
+    {
+      "text": "For investors.",
+      "speaker_name": "Andy Day",
+      "start_time": 453.65,
+      "end_time": 454.41
+    },
+    {
+      "text": "You're looking for buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 454.41,
+      "end_time": 455.97
+    },
+    {
+      "text": "Yeah, I was going to show you just this.",
+      "speaker_name": "James Payling",
+      "start_time": 456.69,
+      "end_time": 458.37
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 459.17,
+      "end_time": 459.73
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 461.25,
+      "end_time": 461.73
+    },
+    {
+      "text": "So if we look at those guys and, and take a look at.",
+      "speaker_name": "James Payling",
+      "start_time": 462.45,
+      "end_time": 465.13
+    },
+    {
+      "text": "They've been active maybe just, just this year, as an example, if we run that search.",
+      "speaker_name": "James Payling",
+      "start_time": 465.13,
+      "end_time": 470.85
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 471.74,
+      "end_time": 471.94
+    },
+    {
+      "text": "You'll notice that we've tracked just over 100 private equity or strategic acquirers that have invested into marketing services in the UK in the last nine months or so.",
+      "speaker_name": "James Payling",
+      "start_time": 471.94,
+      "end_time": 484.54
+    },
+    {
+      "text": "And you can see they'll be just sorted by who's been the most active in that space specifically.",
+      "speaker_name": "James Payling",
+      "start_time": 485.42,
+      "end_time": 491.9
+    },
+    {
+      "text": "Obviously, majority of these are domestic, but we looked at global investors investing into UK marketing services, so that would include.",
+      "speaker_name": "James Payling",
+      "start_time": 492.38,
+      "end_time": 500.7
+    },
+    {
+      "text": "Yeah, global investors in here as well.",
+      "speaker_name": "James Payling",
+      "start_time": 501.74,
+      "end_time": 504.34
+    },
+    {
+      "text": "Just pausing for a second.",
+      "speaker_name": "James Payling",
+      "start_time": 504.98,
+      "end_time": 506.1
+    },
+    {
+      "text": "Does that, does that make sense?",
+      "speaker_name": "James Payling",
+      "start_time": 506.1,
+      "end_time": 507.22
+    },
+    {
+      "text": "All clear.",
+      "speaker_name": "James Payling",
+      "start_time": 507.3,
+      "end_time": 507.86
+    },
+    {
+      "text": "Yeah, maybe.",
+      "speaker_name": "Andy Day",
+      "start_time": 511.7,
+      "end_time": 512.38
+    },
+    {
+      "text": "I mean this probably isn't that relevant to what we do, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 512.38,
+      "end_time": 517.62
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "James Payling",
+      "start_time": 518.26,
+      "end_time": 518.82
+    },
+    {
+      "text": "What would be, I suppose a good search that would be really relevant for you, Andy, and I can run that for you.",
+      "speaker_name": "James Payling",
+      "start_time": 519.22,
+      "end_time": 526.34
+    },
+    {
+      "text": "So just talk me through what you're actually trying to achieve.",
+      "speaker_name": "Andy Day",
+      "start_time": 526.5,
+      "end_time": 529.94
+    },
+    {
+      "text": "So you're looking for private equity companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 529.94,
+      "end_time": 532.89
+    },
+    {
+      "text": "So a lot of the advisors marketing.",
+      "speaker_name": "James Payling",
+      "start_time": 534.57,
+      "end_time": 536.97
+    },
+    {
+      "text": "Before and then with that result, then what.",
+      "speaker_name": "Andy Day",
+      "start_time": 536.97,
+      "end_time": 541.69
+    },
+    {
+      "text": "What is it that you're providing us with the, the contact details of these companies or what they're investing in.",
+      "speaker_name": "Andy Day",
+      "start_time": 541.69,
+      "end_time": 548.25
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 548.81,
+      "end_time": 549.13
+    },
+    {
+      "text": "So what we do is we, we shed a shine a light, pretty big light on the private investment market globally.",
+      "speaker_name": "James Payling",
+      "start_time": 549.13,
+      "end_time": 556.17
+    },
+    {
+      "text": "And with the search capacity, we can narrow in on a specific industry, in this case marketing services.",
+      "speaker_name": "James Payling",
+      "start_time": 556.49,
+      "end_time": 561.53
+    },
+    {
+      "text": "So we in this case active relevant investors that participate in investment rounds with those companies, in this case the uk.",
+      "speaker_name": "James Payling",
+      "start_time": 562.09,
+      "end_time": 572.23
+    },
+    {
+      "text": "We can also show you details on the companies that are being invested and acquired.",
+      "speaker_name": "James Payling",
+      "start_time": 572.71,
+      "end_time": 577.03
+    },
+    {
+      "text": "We can show details on the transactions themselves, the financial details.",
+      "speaker_name": "James Payling",
+      "start_time": 577.03,
+      "end_time": 581.67
+    },
+    {
+      "text": "So advisory firms are able to leverage this data, particularly from a business development angle, to find active buyers, active sellers, they can look at it to enhance their due diligence on a potential client, to look at comparable transactions in the market, understand the competitive landscape, to position that company the best way forward in terms of from a buy or sell side position.",
+      "speaker_name": "James Payling",
+      "start_time": 581.99,
+      "end_time": 607.01
+    },
+    {
+      "text": "Yeah, that's kind of ultimately what we, how we tend to work with firms of your nature and then in terms of the information going a layer deeper, obviously you can go into any of the profiles of whether it's an investor or company etc and explore that further.",
+      "speaker_name": "James Payling",
+      "start_time": 608.93,
+      "end_time": 628.45
+    },
+    {
+      "text": "So in terms of Capital Capital, if I pronounce correctly, there's a wealth of data here Andy, to demonstrate the due diligence you can carry out on them very quickly and easily.",
+      "speaker_name": "James Payling",
+      "start_time": 628.93,
+      "end_time": 643.09
+    },
+    {
+      "text": "Whether you want to see the contacts you mentioned the team construction C suite executives and telephone numbers and emails and LinkedIn to understanding that investment track record.",
+      "speaker_name": "James Payling",
+      "start_time": 643.99,
+      "end_time": 655.75
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "James Payling",
+      "start_time": 655.83,
+      "end_time": 656.19
+    },
+    {
+      "text": "Which companies have they invested in?",
+      "speaker_name": "James Payling",
+      "start_time": 656.19,
+      "end_time": 657.91
+    },
+    {
+      "text": "Who have they co invested with?",
+      "speaker_name": "James Payling",
+      "start_time": 658.71,
+      "end_time": 660.15
+    },
+    {
+      "text": "For example, on that deal they did in August with Capitala AI with Connect Managed Services as well in the UK tend to focus on the B2B B2C space.",
+      "speaker_name": "James Payling",
+      "start_time": 660.15,
+      "end_time": 673.6
+    },
+    {
+      "text": "Yeah, so this is the sort of information.",
+      "speaker_name": "James Payling",
+      "start_time": 676,
+      "end_time": 679
+    },
+    {
+      "text": "Does that give you a better flavor, give you a better understanding?",
+      "speaker_name": "James Payling",
+      "start_time": 679,
+      "end_time": 682.72
+    },
+    {
+      "text": "So yeah, this is just one of the examples that have come up in, in the search of the 102 investors and that was a, it was private equity firm.",
+      "speaker_name": "James Payling",
+      "start_time": 688.96,
+      "end_time": 700.69
+    },
+    {
+      "text": "But yeah, there's a ton of ton of these investors that you can, you can take a closer look at basically.",
+      "speaker_name": "James Payling",
+      "start_time": 700.69,
+      "end_time": 705.37
+    },
+    {
+      "text": "So if you want to have a look at your Charterhouse Capital partners there another example.",
+      "speaker_name": "James Payling",
+      "start_time": 705.45,
+      "end_time": 710.25
+    },
+    {
+      "text": "So I do excuse the Internet.",
+      "speaker_name": "James Payling",
+      "start_time": 713.69,
+      "end_time": 715.37
+    },
+    {
+      "text": "So for example, these guys, you know, you know they've got nearly a billion, you know they're fairly large family but you know they've got nearly a billion pounds in their funds.",
+      "speaker_name": "James Payling",
+      "start_time": 719.29,
+      "end_time": 727.1
+    },
+    {
+      "text": "They need to invest with dry powder.",
+      "speaker_name": "James Payling",
+      "start_time": 727.1,
+      "end_time": 728.98
+    },
+    {
+      "text": "Again the team construction will be very comprehensive so you also be able to see who the lead partners are on the transactions.",
+      "speaker_name": "James Payling",
+      "start_time": 731.38,
+      "end_time": 739.78
+    },
+    {
+      "text": "So this region AI provider of marketing services is that September, July, sorry they did that deal.",
+      "speaker_name": "James Payling",
+      "start_time": 750.43,
+      "end_time": 760.67
+    },
+    {
+      "text": "You can go into that if you want Andy and you can see the information on the company as well.",
+      "speaker_name": "James Payling",
+      "start_time": 762.51,
+      "end_time": 768.59
+    },
+    {
+      "text": "So whether you want to explore that funding round in a little bit more detail.",
+      "speaker_name": "James Payling",
+      "start_time": 768.67,
+      "end_time": 772.75
+    },
+    {
+      "text": "Yeah, the investors, Charterhouse and these other two, some of the financials at the time and also yeah you can take a look at other aspects of the, the firm as well.",
+      "speaker_name": "James Payling",
+      "start_time": 773.64,
+      "end_time": 791.92
+    },
+    {
+      "text": "So the financials which you could explore further.",
+      "speaker_name": "James Payling",
+      "start_time": 791.92,
+      "end_time": 795
+    },
+    {
+      "text": "At the top here you've got their ownership structure.",
+      "speaker_name": "James Payling",
+      "start_time": 795,
+      "end_time": 798.76
+    },
+    {
+      "text": "Obviously those previous or current Funding rounds as well that you can take a look at.",
+      "speaker_name": "James Payling",
+      "start_time": 801.49,
+      "end_time": 806.69
+    },
+    {
+      "text": "Is this helpful, Andy?",
+      "speaker_name": "James Payling",
+      "start_time": 813.89,
+      "end_time": 815.129
+    },
+    {
+      "text": "Is this more along the lines that would be relevant?",
+      "speaker_name": "James Payling",
+      "start_time": 815.129,
+      "end_time": 818.21
+    },
+    {
+      "text": "I mean, it kind of is, but isn't.",
+      "speaker_name": "Andy Day",
+      "start_time": 821.81,
+      "end_time": 825.89
+    },
+    {
+      "text": "If we've got a client that's that we're trying to sell and it could go into any one of these private equity firms or not.",
+      "speaker_name": "Andy Day",
+      "start_time": 828.56,
+      "end_time": 835.44
+    },
+    {
+      "text": "You know, the fact that they bought in the last nine months might not be a great signal at all because they might just be done for them for the year or.",
+      "speaker_name": "Andy Day",
+      "start_time": 835.44,
+      "end_time": 843.6
+    },
+    {
+      "text": "Well, if they've got dry powder in their funds, that that's going to be a pretty good indicator that they're not.",
+      "speaker_name": "James Payling",
+      "start_time": 844.32,
+      "end_time": 848.56
+    },
+    {
+      "text": "They've all got dry powder because no peeps.",
+      "speaker_name": "Andy Day",
+      "start_time": 850.16,
+      "end_time": 852.38
+    },
+    {
+      "text": "PE funds actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 852.45,
+      "end_time": 853.89
+    },
+    {
+      "text": "I mean the majority of them are absolutely terrible at spending the money that they've collected from investors.",
+      "speaker_name": "Andy Day",
+      "start_time": 854.45,
+      "end_time": 859.89
+    },
+    {
+      "text": "So virtually all of them have dry f powder, you know, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 860.37,
+      "end_time": 864.13
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "James Payling",
+      "start_time": 865.97,
+      "end_time": 866.29
+    },
+    {
+      "text": "I mean, I mean, you mentioned.",
+      "speaker_name": "James Payling",
+      "start_time": 866.29,
+      "end_time": 869.01
+    },
+    {
+      "text": "Sorry, yeah, sorry.",
+      "speaker_name": "James Payling",
+      "start_time": 870.05,
+      "end_time": 870.97
+    },
+    {
+      "text": "No, no, please go ahead, Andy.",
+      "speaker_name": "James Payling",
+      "start_time": 870.97,
+      "end_time": 872.37
+    },
+    {
+      "text": "Well, you mentioned at the start that you, you can, you can show me companies that are looking for an exit, for instance, and, and at the moment you're showing me companies that have invested.",
+      "speaker_name": "Andy Day",
+      "start_time": 872.37,
+      "end_time": 884.73
+    },
+    {
+      "text": "Yeah, sorry, I just, I steered towards investors just first, but we can absolutely go to that.",
+      "speaker_name": "James Payling",
+      "start_time": 885.53,
+      "end_time": 890.97
+    },
+    {
+      "text": "Well, it's just what, what is the signals that, that you have for, for a company looking for an exit?",
+      "speaker_name": "Andy Day",
+      "start_time": 891.05,
+      "end_time": 897.209
+    },
+    {
+      "text": "And if it, I mean, also if, if a potential buyer exists for any business, if the signal is that they've bought previously in marketing, then then that is okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 898.25,
+      "end_time": 910.33
+    },
+    {
+      "text": "But also there's kind of, it's not hard to find a list of private equity firms.",
+      "speaker_name": "Andy Day",
+      "start_time": 910.89,
+      "end_time": 916.41
+    },
+    {
+      "text": "We would be able to find one in Apollo for instance, and just email everybody in that list and see if they're interested in investing in marketing at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 917.93,
+      "end_time": 928.17
+    },
+    {
+      "text": "And that would be a strong indicator of whether they're looking to invest or not.",
+      "speaker_name": "Andy Day",
+      "start_time": 928.33,
+      "end_time": 933.13
+    },
+    {
+      "text": "But what is the indicators that you are, that you're measuring?",
+      "speaker_name": "Andy Day",
+      "start_time": 934.03,
+      "end_time": 937.15
+    },
+    {
+      "text": "Is it just that they've invested recently or is that.",
+      "speaker_name": "Andy Day",
+      "start_time": 937.15,
+      "end_time": 940.95
+    },
+    {
+      "text": "That was just an example of, of a search you could.",
+      "speaker_name": "James Payling",
+      "start_time": 940.95,
+      "end_time": 944.87
+    },
+    {
+      "text": "Around the investors specifically.",
+      "speaker_name": "James Payling",
+      "start_time": 944.87,
+      "end_time": 946.59
+    },
+    {
+      "text": "We could also do a search, for example, where they've done their first ever deal in say the marketing services space.",
+      "speaker_name": "James Payling",
+      "start_time": 946.59,
+      "end_time": 952.95
+    },
+    {
+      "text": "They're a brand new investor that perhaps you have no, no visibility to, no relationship and no network with.",
+      "speaker_name": "James Payling",
+      "start_time": 952.95,
+      "end_time": 961.17
+    },
+    {
+      "text": "And that would be, I imagine what typically is the conversations that I have with similar firms over the last 10 years doing.",
+      "speaker_name": "James Payling",
+      "start_time": 961.49,
+      "end_time": 968.73
+    },
+    {
+      "text": "This is very, very relevant, valuable information because data is really important for businesses today.",
+      "speaker_name": "James Payling",
+      "start_time": 968.73,
+      "end_time": 977.25
+    },
+    {
+      "text": "I don't want to give the impression that it's some magic wand that every single one of these investors will be the perfect investor for the, for the client.",
+      "speaker_name": "James Payling",
+      "start_time": 978.85,
+      "end_time": 987.62
+    },
+    {
+      "text": "Of course not.",
+      "speaker_name": "James Payling",
+      "start_time": 987.62,
+      "end_time": 988.34
+    },
+    {
+      "text": "But obviously it's better to have that visibility and to understand the space and what's going on than not.",
+      "speaker_name": "James Payling",
+      "start_time": 989.78,
+      "end_time": 996.22
+    },
+    {
+      "text": "And PitchBook quite comfortably is the leading provider of coverage in the private investment market by quite some margin.",
+      "speaker_name": "James Payling",
+      "start_time": 996.22,
+      "end_time": 1002.66
+    },
+    {
+      "text": "So having that data leads to conversations at the very least, usually.",
+      "speaker_name": "James Payling",
+      "start_time": 1003.38,
+      "end_time": 1009.38
+    },
+    {
+      "text": "But in terms of from the opposite side to companies from an, you know, looking for an exit.",
+      "speaker_name": "James Payling",
+      "start_time": 1009.78,
+      "end_time": 1020.35
+    },
+    {
+      "text": "Again, this might, I don't want to display.",
+      "speaker_name": "James Payling",
+      "start_time": 1022.35,
+      "end_time": 1024.79
+    },
+    {
+      "text": "It's not a magic one.",
+      "speaker_name": "James Payling",
+      "start_time": 1024.79,
+      "end_time": 1025.87
+    },
+    {
+      "text": "Like, right, all of these, in this case, 959 companies have told PitchBook they are looking for an exit.",
+      "speaker_name": "James Payling",
+      "start_time": 1025.87,
+      "end_time": 1031.11
+    },
+    {
+      "text": "That is not what.",
+      "speaker_name": "James Payling",
+      "start_time": 1031.11,
+      "end_time": 1032.03
+    },
+    {
+      "text": "Nobody has that information.",
+      "speaker_name": "James Payling",
+      "start_time": 1032.43,
+      "end_time": 1033.63
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "James Payling",
+      "start_time": 1034.19,
+      "end_time": 1034.59
+    },
+    {
+      "text": "But what we can do is.",
+      "speaker_name": "James Payling",
+      "start_time": 1034.91,
+      "end_time": 1037.23
+    },
+    {
+      "text": "Sorry, it's just one factor I forgot to put on here.",
+      "speaker_name": "James Payling",
+      "start_time": 1037.87,
+      "end_time": 1040.27
+    },
+    {
+      "text": "Just forgive me.",
+      "speaker_name": "James Payling",
+      "start_time": 1041.149,
+      "end_time": 1041.949
+    },
+    {
+      "text": "What we can do, Andy, is we can reliably inform you of those marketing services assets that are likely to be, you know, getting towards the end of their Runway.",
+      "speaker_name": "James Payling",
+      "start_time": 1043.789,
+      "end_time": 1053.909
+    },
+    {
+      "text": "They've been held for a certain period of time by a private equity firm that they need to, they need to exit to meet the returns for their investors.",
+      "speaker_name": "James Payling",
+      "start_time": 1053.909,
+      "end_time": 1062.269
+    },
+    {
+      "text": "So, Ryan, running an aging portfolio search like I've just done here, so all of these 90 marketing services companies headquartered out of the UK are private equity backed and have been for at least five and a half years.",
+      "speaker_name": "James Payling",
+      "start_time": 1063.069,
+      "end_time": 1079.35
+    },
+    {
+      "text": "My math is right for where we are in 2025.",
+      "speaker_name": "James Payling",
+      "start_time": 1079.51,
+      "end_time": 1083.51
+    },
+    {
+      "text": "So all of these firms right here, they've all been sat in a private equity portfolio for that period of time.",
+      "speaker_name": "James Payling",
+      "start_time": 1083.51,
+      "end_time": 1090.15
+    },
+    {
+      "text": "So they're closer to an exit than not.",
+      "speaker_name": "James Payling",
+      "start_time": 1090.23,
+      "end_time": 1092.39
+    },
+    {
+      "text": "Obviously you can play around with the time frame I've just done, you know, what, you know, typical average might do like five to seven years as a ballpark figure.",
+      "speaker_name": "James Payling",
+      "start_time": 1092.72,
+      "end_time": 1100.96
+    },
+    {
+      "text": "But these, this is a very good list of firms in that market that are going to be closer to an exit than the other firms, as an example.",
+      "speaker_name": "James Payling",
+      "start_time": 1101.12,
+      "end_time": 1110.8
+    },
+    {
+      "text": "And then of course, what you saw previously on those firms on the firm that we clicked on a moment or two ago, you'd be able to click into and take a look at them, carry out your due diligence on.",
+      "speaker_name": "James Payling",
+      "start_time": 1116,
+      "end_time": 1128.85
+    },
+    {
+      "text": "So if you take a look at Join the Dots, for example, these guys are being held by Capitala from that transaction 2019.",
+      "speaker_name": "James Payling",
+      "start_time": 1129.81,
+      "end_time": 1145.01
+    },
+    {
+      "text": "They are provider consumer insight services, founded in 1998.",
+      "speaker_name": "James Payling",
+      "start_time": 1148.23,
+      "end_time": 1157.67
+    },
+    {
+      "text": "We usually have employee history a little bit more up to date than this, but they're based in Manchester, also got offices in New York Financials here.",
+      "speaker_name": "James Payling",
+      "start_time": 1160.15,
+      "end_time": 1168.23
+    },
+    {
+      "text": "We mentioned as well previous, the other team do we have here as well, ownership.",
+      "speaker_name": "James Payling",
+      "start_time": 1168.23,
+      "end_time": 1179.24
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "James Payling",
+      "start_time": 1184.36,
+      "end_time": 1184.76
+    },
+    {
+      "text": "So that is how people are using PitchBook to find those particular firms that could be an opportunity.",
+      "speaker_name": "James Payling",
+      "start_time": 1184.76,
+      "end_time": 1191.4
+    },
+    {
+      "text": "So it's, it's more, it's kind of a bit more, I guess just.",
+      "speaker_name": "Andy Day",
+      "start_time": 1198.45,
+      "end_time": 1208.45
+    },
+    {
+      "text": "It's too much detail in terms of what we're looking for.",
+      "speaker_name": "Andy Day",
+      "start_time": 1208.69,
+      "end_time": 1212.05
+    },
+    {
+      "text": "I don't know whether it would be useful for what we need.",
+      "speaker_name": "Andy Day",
+      "start_time": 1212.29,
+      "end_time": 1216.13
+    },
+    {
+      "text": "We don't need this level of insight, I don't think, to find potential buyers or potential sellers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1217.65,
+      "end_time": 1223.09
+    },
+    {
+      "text": "You know, for, for us, everybody is, is in the market.",
+      "speaker_name": "Andy Day",
+      "start_time": 1223.78,
+      "end_time": 1226.9
+    },
+    {
+      "text": "You know, either, either you're an investor or you're a marketing agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 1227.7,
+      "end_time": 1233.54
+    },
+    {
+      "text": "And if we can find your contact details, then we can have that conversation without knowing any of this information.",
+      "speaker_name": "Andy Day",
+      "start_time": 1233.86,
+      "end_time": 1240.74
+    },
+    {
+      "text": "Even if we know all of this information and we reach out to them, they still, it still could be a.",
+      "speaker_name": "Andy Day",
+      "start_time": 1242.34,
+      "end_time": 1249.5
+    },
+    {
+      "text": "No, it, it just is the actual conversation that's going to yield.",
+      "speaker_name": "Andy Day",
+      "start_time": 1249.5,
+      "end_time": 1252.6
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "James Payling",
+      "start_time": 1255.8,
+      "end_time": 1256.76
+    },
+    {
+      "text": "So of course that's definitely not what we're saying.",
+      "speaker_name": "James Payling",
+      "start_time": 1256.84,
+      "end_time": 1259.44
+    },
+    {
+      "text": "That, that, yeah, those conversations are a guarantee, of course that, that, that does not exist.",
+      "speaker_name": "James Payling",
+      "start_time": 1259.44,
+      "end_time": 1265.88
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Andy Day",
+      "start_time": 1266.28,
+      "end_time": 1266.68
+    },
+    {
+      "text": "Anywhere.",
+      "speaker_name": "James Payling",
+      "start_time": 1266.68,
+      "end_time": 1267.24
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "James Payling",
+      "start_time": 1267.24,
+      "end_time": 1267.56
+    },
+    {
+      "text": "But what.",
+      "speaker_name": "James Payling",
+      "start_time": 1267.64,
+      "end_time": 1268.16
+    },
+    {
+      "text": "We can definitively under that impression.",
+      "speaker_name": "Andy Day",
+      "start_time": 1268.16,
+      "end_time": 1270.16
+    },
+    {
+      "text": "But it's, it's just that this information is free.",
+      "speaker_name": "Andy Day",
+      "start_time": 1270.16,
+      "end_time": 1272.12
+    },
+    {
+      "text": "Terms of you say about conversations.",
+      "speaker_name": "James Payling",
+      "start_time": 1273.32,
+      "end_time": 1276.12
+    },
+    {
+      "text": "Right, of course.",
+      "speaker_name": "James Payling",
+      "start_time": 1276.12,
+      "end_time": 1277.92
+    },
+    {
+      "text": "Obviously the more of those conversations and the better quality of those conversations are going to give your business more chance of winning those mandates and working with them.",
+      "speaker_name": "James Payling",
+      "start_time": 1277.92,
+      "end_time": 1287.88
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "James Payling",
+      "start_time": 1287.88,
+      "end_time": 1288.16
+    },
+    {
+      "text": "So arming you with the intelligence of what's happening in the market in a more comprehensive manner than not having a data provider, would one help.",
+      "speaker_name": "James Payling",
+      "start_time": 1288.24,
+      "end_time": 1298.92
+    },
+    {
+      "text": "And in terms of the contacts with the millions of people that we have, obviously in the platform and around these companies is going to help you do that in a far more efficient manner to have more conversations, better quality conversations as well, because of the insight we can give you in and around that company, their investors, the transactions, yada, yada, yada.",
+      "speaker_name": "James Payling",
+      "start_time": 1298.92,
+      "end_time": 1318.7
+    },
+    {
+      "text": "That just adds more weight and I suppose, credibility to what you're already doing.",
+      "speaker_name": "James Payling",
+      "start_time": 1319.98,
+      "end_time": 1324.78
+    },
+    {
+      "text": "And that, yeah, that, that's why people are using, I suppose, a tool like PitchBook.",
+      "speaker_name": "James Payling",
+      "start_time": 1325.98,
+      "end_time": 1330.86
+    },
+    {
+      "text": "But yeah, a lot of, a lot of your peers would definitely be using a data provider.",
+      "speaker_name": "James Payling",
+      "start_time": 1331.42,
+      "end_time": 1337.47
+    },
+    {
+      "text": "But.",
+      "speaker_name": "James Payling",
+      "start_time": 1337.47,
+      "end_time": 1337.83
+    },
+    {
+      "text": "Yeah, no, I'm sure they are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1338.63,
+      "end_time": 1339.91
+    },
+    {
+      "text": "I'm sure they are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1340.07,
+      "end_time": 1340.95
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1341.91,
+      "end_time": 1342.43
+    },
+    {
+      "text": "Just for me, James, it just isn't, it isn't worth the investment.",
+      "speaker_name": "Andy Day",
+      "start_time": 1342.43,
+      "end_time": 1347.03
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "James Payling",
+      "start_time": 1349.91,
+      "end_time": 1350.63
+    },
+    {
+      "text": "That's fine, Andy.",
+      "speaker_name": "James Payling",
+      "start_time": 1350.95,
+      "end_time": 1351.71
+    },
+    {
+      "text": "It's not a silver bullet.",
+      "speaker_name": "Andy Day",
+      "start_time": 1351.71,
+      "end_time": 1352.75
+    },
+    {
+      "text": "Like you say, the work, I mean, the contact details for these people is what we need.",
+      "speaker_name": "Andy Day",
+      "start_time": 1352.75,
+      "end_time": 1361.28
+    },
+    {
+      "text": "And we are constantly absorbing as much information as we can find because once we've got their contact details, we can have the conversation directly with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1361.6,
+      "end_time": 1371.64
+    },
+    {
+      "text": "And whatever happened historically, we can find that out in the moment when they express interest to have A conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1371.64,
+      "end_time": 1379.36
+    },
+    {
+      "text": "Well, you'll be able to run these sort of searches in PitchBook, go to the people tab, which I probably should have at done a little bit quicker.",
+      "speaker_name": "James Payling",
+      "start_time": 1379.76,
+      "end_time": 1386.41
+    },
+    {
+      "text": "But you can go into this to find those individuals very, very quickly indeed.",
+      "speaker_name": "James Payling",
+      "start_time": 1386.57,
+      "end_time": 1393.21
+    },
+    {
+      "text": "So it's just loading up 6,800 contacts across.",
+      "speaker_name": "James Payling",
+      "start_time": 1393.77,
+      "end_time": 1398.17
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "James Payling",
+      "start_time": 1399.05,
+      "end_time": 1399.45
+    },
+    {
+      "text": "In the Internet in our building is clearly struggling.",
+      "speaker_name": "James Payling",
+      "start_time": 1399.45,
+      "end_time": 1403.45
+    },
+    {
+      "text": "Yes, sorry.",
+      "speaker_name": "James Payling",
+      "start_time": 1404.33,
+      "end_time": 1405.09
+    },
+    {
+      "text": "So here are the people, 6,800 of those from the search.",
+      "speaker_name": "James Payling",
+      "start_time": 1405.09,
+      "end_time": 1411.05
+    },
+    {
+      "text": "So you could take a look at.",
+      "speaker_name": "James Payling",
+      "start_time": 1411.05,
+      "end_time": 1412.89
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "James Payling",
+      "start_time": 1412.89,
+      "end_time": 1413.09
+    },
+    {
+      "text": "I only want to see the management team at those companies.",
+      "speaker_name": "James Payling",
+      "start_time": 1413.09,
+      "end_time": 1415.29
+    },
+    {
+      "text": "I want to see the lead partners from the investors or generally all the people from the investors.",
+      "speaker_name": "James Payling",
+      "start_time": 1415.45,
+      "end_time": 1419.51
+    },
+    {
+      "text": "Either way, cut the data and then you'd be able to download and export that information, get their contacts.",
+      "speaker_name": "James Payling",
+      "start_time": 1419.59,
+      "end_time": 1426.47
+    },
+    {
+      "text": "Yeah, that.",
+      "speaker_name": "James Payling",
+      "start_time": 1426.87,
+      "end_time": 1427.67
+    },
+    {
+      "text": "You can do that on all the searches as well.",
+      "speaker_name": "James Payling",
+      "start_time": 1427.75,
+      "end_time": 1429.67
+    },
+    {
+      "text": "So in terms of getting it quickly to the right people, you can do that effectively.",
+      "speaker_name": "James Payling",
+      "start_time": 1429.67,
+      "end_time": 1434.63
+    },
+    {
+      "text": "I'm a shorter source state.",
+      "speaker_name": "James Payling",
+      "start_time": 1434.79,
+      "end_time": 1436.03
+    },
+    {
+      "text": "You'll be able to filter from the columns as well.",
+      "speaker_name": "James Payling",
+      "start_time": 1436.03,
+      "end_time": 1437.95
+    },
+    {
+      "text": "So if you want to see people in certain positions.",
+      "speaker_name": "James Payling",
+      "start_time": 1437.95,
+      "end_time": 1440.79
+    },
+    {
+      "text": "Yeah, you could do that too.",
+      "speaker_name": "James Payling",
+      "start_time": 1441.27,
+      "end_time": 1442.47
+    },
+    {
+      "text": "You've got like telephone numbers, email addresses here.",
+      "speaker_name": "James Payling",
+      "start_time": 1463.04,
+      "end_time": 1465.24
+    },
+    {
+      "text": "So pretty comprehensive that.",
+      "speaker_name": "James Payling",
+      "start_time": 1465.24,
+      "end_time": 1472.33
+    },
+    {
+      "text": "In terms of what would you need for a day?",
+      "speaker_name": "James Payling",
+      "start_time": 1474.09,
+      "end_time": 1477.89
+    },
+    {
+      "text": "What would change your mind?",
+      "speaker_name": "James Payling",
+      "start_time": 1477.89,
+      "end_time": 1478.97
+    },
+    {
+      "text": "Because you must have an answer to that because obviously if you're able to improve do X, Y and Z, then then obviously you'd want to know.",
+      "speaker_name": "James Payling",
+      "start_time": 1480.33,
+      "end_time": 1490.97
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "James Payling",
+      "start_time": 1490.97,
+      "end_time": 1491.29
+    },
+    {
+      "text": "So it'd be good to understand what would be important in terms of a change.",
+      "speaker_name": "James Payling",
+      "start_time": 1491.29,
+      "end_time": 1496.54
+    },
+    {
+      "text": "So the information that you have that nobody else has, it is the transactions themselves.",
+      "speaker_name": "Andy Day",
+      "start_time": 1497.34,
+      "end_time": 1503.98
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1504.14,
+      "end_time": 1504.54
+    },
+    {
+      "text": "That's what we're focused on for sure, is transactions that are going on within the market, who those players are.",
+      "speaker_name": "James Payling",
+      "start_time": 1505.42,
+      "end_time": 1510.06
+    },
+    {
+      "text": "So the cost of finding out what all of those transactions are in your database is too much for me.",
+      "speaker_name": "Andy Day",
+      "start_time": 1510.06,
+      "end_time": 1520.3
+    },
+    {
+      "text": "I don't need to spend that amount of money on all of that information because the information that I do need at any given moment on transactions or historical transactions for a certain company, if they're not publicly available, then.",
+      "speaker_name": "Andy Day",
+      "start_time": 1521.18,
+      "end_time": 1536.379
+    },
+    {
+      "text": "Then we probably don't need to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1536.379,
+      "end_time": 1538.54
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Andy Day",
+      "start_time": 1538.7,
+      "end_time": 1539.02
+    },
+    {
+      "text": "We don't need to know them that much.",
+      "speaker_name": "Andy Day",
+      "start_time": 1539.02,
+      "end_time": 1541.22
+    },
+    {
+      "text": "Yeah, I mean, it's nice knowing what historical multiples are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1541.22,
+      "end_time": 1546.46
+    },
+    {
+      "text": "Maybe you can find out what, what the multiples were in reported transactions in the last six to 12 months or something like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1546.46,
+      "end_time": 1553.7
+    },
+    {
+      "text": "But, but they don't really vary over.",
+      "speaker_name": "Andy Day",
+      "start_time": 1553.86,
+      "end_time": 1556.34
+    },
+    {
+      "text": "Over time to the point that I need to spend 14 grand to find out whether they're different by 0.1, 0.2 multiple this year.",
+      "speaker_name": "Andy Day",
+      "start_time": 1556.5,
+      "end_time": 1564.58
+    },
+    {
+      "text": "They.",
+      "speaker_name": "Andy Day",
+      "start_time": 1565.14,
+      "end_time": 1565.5
+    },
+    {
+      "text": "They tend to all appear in the same range and always do year in, year out, regardless of what's going on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1565.5,
+      "end_time": 1572.74
+    },
+    {
+      "text": "So so the, the difficulty for me, James, is not.",
+      "speaker_name": "Andy Day",
+      "start_time": 1574.18,
+      "end_time": 1576.66
+    },
+    {
+      "text": "Is not that I don't think you've got interesting information there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1577.06,
+      "end_time": 1579.86
+    },
+    {
+      "text": "I'm sure it is interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 1579.86,
+      "end_time": 1581.02
+    },
+    {
+      "text": "Just the value for, for us is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1581.02,
+      "end_time": 1584.1
+    },
+    {
+      "text": "I mean, it is just.",
+      "speaker_name": "Andy Day",
+      "start_time": 1584.1,
+      "end_time": 1585.22
+    },
+    {
+      "text": "It's just a cost.",
+      "speaker_name": "Andy Day",
+      "start_time": 1586.26,
+      "end_time": 1587.22
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "James Payling",
+      "start_time": 1588.42,
+      "end_time": 1589.06
+    },
+    {
+      "text": "The.",
+      "speaker_name": "Andy Day",
+      "start_time": 1589.06,
+      "end_time": 1589.38
+    },
+    {
+      "text": "The plus side, for us, it just is kind of irrelevant because we can get as much of that information as we need at the time that we.",
+      "speaker_name": "Andy Day",
+      "start_time": 1589.38,
+      "end_time": 1598.26
+    },
+    {
+      "text": "We need it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1598.26,
+      "end_time": 1599.06
+    },
+    {
+      "text": "We don't need it to all sit there when to be accessed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1599.06,
+      "end_time": 1603.98
+    },
+    {
+      "text": "No.",
+      "speaker_name": "James Payling",
+      "start_time": 1605.1,
+      "end_time": 1605.42
+    },
+    {
+      "text": "Understood, Andy.",
+      "speaker_name": "James Payling",
+      "start_time": 1605.42,
+      "end_time": 1606.22
+    },
+    {
+      "text": "Obviously, if we do get any different pricing in place, it's even cheaper, then we'll let you know.",
+      "speaker_name": "James Payling",
+      "start_time": 1606.22,
+      "end_time": 1612.3
+    },
+    {
+      "text": "And yeah, if anything changed from your side, then, yeah, obviously, please do get in touch.",
+      "speaker_name": "James Payling",
+      "start_time": 1613.58,
+      "end_time": 1617.02
+    },
+    {
+      "text": "Be happy to help because this is literally what PitchBook's built for.",
+      "speaker_name": "James Payling",
+      "start_time": 1617.02,
+      "end_time": 1620.46
+    },
+    {
+      "text": "But I do appreciate your time and the transparency and hopefully things down the line will be different from either way and we'll be able to reconnect.",
+      "speaker_name": "James Payling",
+      "start_time": 1621.42,
+      "end_time": 1631.7
+    },
+    {
+      "text": "But.",
+      "speaker_name": "James Payling",
+      "start_time": 1631.7,
+      "end_time": 1632.06
+    },
+    {
+      "text": "Yeah, yeah, maybe.",
+      "speaker_name": "Andy Day",
+      "start_time": 1632.17,
+      "end_time": 1633.25
+    },
+    {
+      "text": "I just think times have changed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1633.25,
+      "end_time": 1634.93
+    },
+    {
+      "text": "You know, five years ago, this would be amazing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1634.93,
+      "end_time": 1637.69
+    },
+    {
+      "text": "We just wouldn't be able to get it anywhere else.",
+      "speaker_name": "Andy Day",
+      "start_time": 1637.69,
+      "end_time": 1639.29
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Andy Day",
+      "start_time": 1639.29,
+      "end_time": 1639.53
+    },
+    {
+      "text": "But now we.",
+      "speaker_name": "Andy Day",
+      "start_time": 1639.53,
+      "end_time": 1640.49
+    },
+    {
+      "text": "Data enrichment tools all over the place.",
+      "speaker_name": "Andy Day",
+      "start_time": 1640.73,
+      "end_time": 1644.09
+    },
+    {
+      "text": "We can get everything that we need.",
+      "speaker_name": "Andy Day",
+      "start_time": 1644.25,
+      "end_time": 1646.01
+    },
+    {
+      "text": "Bar the actual transactions which you're collecting that aren't publicly available.",
+      "speaker_name": "Andy Day",
+      "start_time": 1646.57,
+      "end_time": 1650.57
+    },
+    {
+      "text": "That's the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1650.73,
+      "end_time": 1651.29
+    },
+    {
+      "text": "That's the only piece.",
+      "speaker_name": "Andy Day",
+      "start_time": 1651.29,
+      "end_time": 1652.17
+    },
+    {
+      "text": "But I just, I don't need to know them that, that, that badly that I would have to spend 14 grand.",
+      "speaker_name": "Andy Day",
+      "start_time": 1652.17,
+      "end_time": 1658.89
+    },
+    {
+      "text": "So I think that's where we're always going to differ.",
+      "speaker_name": "Andy Day",
+      "start_time": 1659.7,
+      "end_time": 1663.06
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "James Payling",
+      "start_time": 1664.02,
+      "end_time": 1664.66
+    },
+    {
+      "text": "No, do appreciate your time and I do hope everything goes well for Capital A partners in the meantime and hopefully be able to speak sometime in the future.",
+      "speaker_name": "James Payling",
+      "start_time": 1664.74,
+      "end_time": 1672.18
+    },
+    {
+      "text": "But thanks for your time, Andy.",
+      "speaker_name": "James Payling",
+      "start_time": 1672.18,
+      "end_time": 1673.54
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 1673.7,
+      "end_time": 1674.26
+    },
+    {
+      "text": "All right, enjoy the rest of your day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1674.26,
+      "end_time": 1675.86
+    },
+    {
+      "text": "Cheers, James.",
+      "speaker_name": "Andy Day",
+      "start_time": 1675.86,
+      "end_time": 1676.42
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1676.42,
+      "end_time": 1676.82
+    },
+    {
+      "text": "You too.",
+      "speaker_name": "James Payling",
+      "start_time": 1676.82,
+      "end_time": 1677.26
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andy Day",
+      "start_time": 1677.26,
+      "end_time": 1677.54
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "James Payling",
+      "start_time": 1677.54,
+      "end_time": 1677.86
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Private equity",
+      "marketing services",
+      "investor search",
+      "transaction data",
+      "exit signals",
+      "contact details"
+    ],
+    "action_items": "\n**James Payling**\nNotify Andy Day if PitchBook introduces different or cheaper pricing options (26:45)\nMaintain communication channel for potential future engagement or reevaluation (27:12)\n",
+    "outline": null,
+    "overview": "- James Payling from PitchBook demonstrated the platform's capabilities, addressing Andy Day's prior concerns about its relevance for Capital A Partners.\n- Over 100 active UK marketing services investors were identified, showcasing the platform’s extensive search functions for targeted investor data.\n- Andy expressed a preference for buyer identification over investor data, highlighting a misalignment in their approach to data needs.\n- The PitchBook platform provides deep due diligence and easy access to key contacts, enhancing the potential for meaningful engagement.\n- James illustrated the significance of recent transactions and exit signals, showing searches for aging portfolios held by PE firms for over five years.\n- Andy noted the depth of data was more than their requirements, emphasizing the need for quick access to specific buyer and seller contact details.\n- The discussion revealed concerns regarding the cost of £14k, with Andy questioning the justification based on perceived benefits and available public data.\n- James acknowledged the importance of combining comprehensive market insights with targeted contact intelligence to meet user needs effectively.\n- A consensus was reached on the value versus cost of data, with Andy reiterating the benefit of accessing data from multiple sources in the current market.\n- Both parties recognized differing data preferences, which will inform future discussions on PitchBook’s offerings and pricing strategies.",
+    "short_summary": "The discussion revolved around leveraging PitchBook’s extensive data on private equity and marketing services to support Capital A Partners’ business development needs. James Payling highlighted that PitchBook tracks over 100 private equity and strategic acquirers active in UK marketing services within the last nine months, enabling targeted outreach based on detailed profiles, including financials and co-investors. Additionally, PitchBook identifies 959 marketing services companies likely nearing exit, offering insights into potential acquisition targets. However, Andy Day emphasized the priority of accurate contact details over historical transaction data, questioning the value of the platform's cost given the availability of cheaper alternatives. The conversation also addressed PitchBook’s competitive edge, pricing model, and the importance of aligning product offerings with client needs for effective sales strategies.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K5905SSNYQ783N4Q23H3PKW0",
+  "audio_url": "https://cdn.fireflies.ai/01K5905SSNYQ783N4Q23H3PKW0/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzU5MDVTU05ZUTc4M040UTIzSDNQS1cwL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=AhwhXzBBfzPqfv1T1ql2U-LoSlIEaqVub2QuG2tiIpK3rI4u~3ajuxaZpWCyp~Cn7c0vU~Mw4ffjg5Je5SQ9UX3f9gmb2xmL6J2tMXQT7Fs-gstH9~Oilug3oDciAGcex470CKpiJz7EDk2ORY51NBNuc5hNYcI3j0Kb9Kopjr-RLSWNGoxuWpHhIA6K89PQqryWH-6F7VuD9~3xyX7kV2KqJJDpOzOi4duBtmnPttzQ2~V2rTfdeUOgMsAbG0uzsbXeoiXnBH2psYcojQQnRQmtrB7Oj10UiXMarjSSv96HoRHD9A-sg5~RVO031zYpWxiH6Rnk8S01zRvrRDtJNQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K5905SSNYQ783N4Q23H3PKW0/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzU5MDVTU05ZUTc4M040UTIzSDNQS1cwL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=H8DheJnEpuUeQv6UgHV8dTK7jHu1Z9fsbgICJVrrp9KxAOZ1PoV~jDI8Fv7ZCO1veLlLAtBM6J6cwuUH8XX8KfNx5cOvgDxtKf4o5f~PS78rk~f2XTHFGCe-0WblLZ4WZ6MNcJfn-ZpwH0ZwEIFIsrCH5t53~kHATeLrCV1NpN5Znf4hOZYTRzkmxGCcySpSjvemnsvoAJJ6PquXOEN4yN-iZONF5Lvb17yKPn0La9mAQkoOZulIdfCYp6z~WdkeEZfvuh85IhgQlbG5CeOmn-jP7mfpfXKhZCUpfihj9woESusyvSOgUrWGAA7eiuzYhQL2R0LeSxCzUJu0tcpHYg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

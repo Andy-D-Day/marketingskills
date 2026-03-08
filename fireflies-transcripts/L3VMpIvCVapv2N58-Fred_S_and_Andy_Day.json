@@ -1,0 +1,3179 @@
+{
+  "id": "L3VMpIvCVapv2N58",
+  "title": "Fred S and Andy Day",
+  "date": 1737479700000,
+  "dateString": "2025-01-21T17:15:00.000Z",
+  "duration": 34,
+  "participants": [
+    "andrew.day@capitala.co,fred@appguardians.com,fouad@appgrowthnetwork.com,andy.day@capitala.co",
+    "fred@appguardians.com",
+    "fouad@appgrowthnetwork.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "fred@appguardians.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Fouad (Fred) Saeidi",
+      "email": "fouad@appgrowthnetwork.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Andy Day",
+      "start_time": 2.4,
+      "end_time": 4.3
+    },
+    {
+      "text": "Oh, sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 11.92,
+      "end_time": 15.544
+    },
+    {
+      "text": "Fred.",
+      "speaker_name": "Andy Day",
+      "start_time": 15.592,
+      "end_time": 16.22
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Fred",
+      "start_time": 24.72,
+      "end_time": 25.74
+    },
+    {
+      "text": "Hey, Fred, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 26.15,
+      "end_time": 27.742
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Fred",
+      "start_time": 27.926,
+      "end_time": 28.27
+    },
+    {
+      "text": "Yourself?",
+      "speaker_name": "Fred",
+      "start_time": 28.31,
+      "end_time": 29.01
+    },
+    {
+      "text": "Yeah, I'm not too bad, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.51,
+      "end_time": 30.958
+    },
+    {
+      "text": "Not too bad.",
+      "speaker_name": "Andy Day",
+      "start_time": 31.014,
+      "end_time": 31.502
+    },
+    {
+      "text": "Sorry I'm a little bit late.",
+      "speaker_name": "Andy Day",
+      "start_time": 31.526,
+      "end_time": 32.35
+    },
+    {
+      "text": "I just got stuck on a.",
+      "speaker_name": "Andy Day",
+      "start_time": 32.39,
+      "end_time": 33.758
+    },
+    {
+      "text": "Another meet with a lawyer.",
+      "speaker_name": "Andy Day",
+      "start_time": 33.894,
+      "end_time": 35.65
+    },
+    {
+      "text": "That happens.",
+      "speaker_name": "Fred",
+      "start_time": 36.15,
+      "end_time": 37.33
+    },
+    {
+      "text": "Just trying to get rid of him.",
+      "speaker_name": "Andy Day",
+      "start_time": 39.03,
+      "end_time": 40.57
+    },
+    {
+      "text": "But yeah, not too late.",
+      "speaker_name": "Andy Day",
+      "start_time": 41.11,
+      "end_time": 42.686
+    },
+    {
+      "text": "So whereabouts are you calling from?",
+      "speaker_name": "Andy Day",
+      "start_time": 42.758,
+      "end_time": 44.41
+    },
+    {
+      "text": "I'm in Vancouver.",
+      "speaker_name": "Fred",
+      "start_time": 44.71,
+      "end_time": 46.05
+    },
+    {
+      "text": "Ah, nice.",
+      "speaker_name": "Andy Day",
+      "start_time": 46.47,
+      "end_time": 47.89
+    },
+    {
+      "text": "London, Canada at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 48.95,
+      "end_time": 51.252
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 51.446,
+      "end_time": 51.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 52.04,
+      "end_time": 52.7
+    },
+    {
+      "text": "Let me just pull up your.",
+      "speaker_name": "Andy Day",
+      "start_time": 55.52,
+      "end_time": 57.06
+    },
+    {
+      "text": "What happened to Ramon?",
+      "speaker_name": "Fred",
+      "start_time": 59.04,
+      "end_time": 60.54
+    },
+    {
+      "text": "He's left the company.",
+      "speaker_name": "Andy Day",
+      "start_time": 61.92,
+      "end_time": 63.272
+    },
+    {
+      "text": "Just after Christmas.",
+      "speaker_name": "Andy Day",
+      "start_time": 63.456,
+      "end_time": 64.94
+    },
+    {
+      "text": "Yeah, he was very anxious to get me on board before.",
+      "speaker_name": "Fred",
+      "start_time": 65.6,
+      "end_time": 69.78
+    },
+    {
+      "text": "Oh, was he?",
+      "speaker_name": "Andy Day",
+      "start_time": 70.4,
+      "end_time": 71.62
+    },
+    {
+      "text": "Yeah, and I had hired some local guys here.",
+      "speaker_name": "Fred",
+      "start_time": 72.32,
+      "end_time": 76.056
+    },
+    {
+      "text": "They didn't know what they're doing.",
+      "speaker_name": "Fred",
+      "start_time": 76.208,
+      "end_time": 77.748
+    },
+    {
+      "text": "They're not agency expert.",
+      "speaker_name": "Fred",
+      "start_time": 77.904,
+      "end_time": 80.16
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 81.54,
+      "end_time": 82.28
+    },
+    {
+      "text": "I had hired Barney.",
+      "speaker_name": "Fred",
+      "start_time": 83.7,
+      "end_time": 86.22
+    },
+    {
+      "text": "Do you know them?",
+      "speaker_name": "Fred",
+      "start_time": 86.3,
+      "end_time": 87.148
+    },
+    {
+      "text": "Yes, yeah, of course.",
+      "speaker_name": "Andy Day",
+      "start_time": 87.284,
+      "end_time": 88.76
+    },
+    {
+      "text": "Last year I think our overall experience wasn't positive.",
+      "speaker_name": "Fred",
+      "start_time": 89.38,
+      "end_time": 95.244
+    },
+    {
+      "text": "They were asking for a monthly retainer and they only got me one call.",
+      "speaker_name": "Fred",
+      "start_time": 95.292,
+      "end_time": 100.28
+    },
+    {
+      "text": "That's concerning.",
+      "speaker_name": "Fred",
+      "start_time": 100.66,
+      "end_time": 102
+    },
+    {
+      "text": "Back then our TTM profit was actually in the negative when I hired them.",
+      "speaker_name": "Fred",
+      "start_time": 105.31,
+      "end_time": 111.17
+    },
+    {
+      "text": "But now our TTM profit is pretty good.",
+      "speaker_name": "Fred",
+      "start_time": 111.95,
+      "end_time": 114.198
+    },
+    {
+      "text": "Like last year we did 100k on 750 Canadian and I probably pulled a decent amount of money out of the company.",
+      "speaker_name": "Fred",
+      "start_time": 114.254,
+      "end_time": 124.406
+    },
+    {
+      "text": "Probably 100, 150,000 including my expenses and all.",
+      "speaker_name": "Fred",
+      "start_time": 124.478,
+      "end_time": 127.65
+    },
+    {
+      "text": "Okay, so you work with an M and A company and you've tried listing with Barneys.",
+      "speaker_name": "Andy Day",
+      "start_time": 128.51,
+      "end_time": 133.716
+    },
+    {
+      "text": "They, they're called Go Merge.",
+      "speaker_name": "Andy Day",
+      "start_time": 133.748,
+      "end_time": 135.876
+    },
+    {
+      "text": "Yeah, yeah, we have a similar process.",
+      "speaker_name": "Andy Day",
+      "start_time": 136.068,
+      "end_time": 140.628
+    },
+    {
+      "text": "I mean it's not a million miles away, but I would hope we'll be able to get you more than one.",
+      "speaker_name": "Andy Day",
+      "start_time": 140.684,
+      "end_time": 145.988
+    },
+    {
+      "text": "I think the main difference for us and them is they rely like a lot of brokers do, very heavily on their own mailing list.",
+      "speaker_name": "Andy Day",
+      "start_time": 146.044,
+      "end_time": 153.588
+    },
+    {
+      "text": "And the difference is we do have a mailing list.",
+      "speaker_name": "Andy Day",
+      "start_time": 153.724,
+      "end_time": 156.772
+    },
+    {
+      "text": "So we've got subscribers to our, our mailing list plus we have 130,000 plus agencies in our CRM.",
+      "speaker_name": "Andy Day",
+      "start_time": 156.796,
+      "end_time": 163.422
+    },
+    {
+      "text": "Plus we actually build a bespoke list of buyers as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 163.566,
+      "end_time": 166.83
+    },
+    {
+      "text": "So we'll actually put our guys out there doing research, trying to find companies do a similar thing to what our clients do or just looking for, you know, current acquirers that we don't have in our database that would be in a similar sort of vertical or alongside.",
+      "speaker_name": "Andy Day",
+      "start_time": 166.87,
+      "end_time": 182.974
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "Fred",
+      "start_time": 183.102,
+      "end_time": 183.79
+    },
+    {
+      "text": "I've been trying to sell this company for over a year now.",
+      "speaker_name": "Fred",
+      "start_time": 183.87,
+      "end_time": 186.702
+    },
+    {
+      "text": "And what's the issue, Fred?",
+      "speaker_name": "Andy Day",
+      "start_time": 186.886,
+      "end_time": 189.022
+    },
+    {
+      "text": "Why doesn't it get sold?",
+      "speaker_name": "Andy Day",
+      "start_time": 189.086,
+      "end_time": 190.678
+    },
+    {
+      "text": "It's a niche agency.",
+      "speaker_name": "Fred",
+      "start_time": 190.814,
+      "end_time": 191.846
+    },
+    {
+      "text": "Not everybody wants an app marketing agency.",
+      "speaker_name": "Fred",
+      "start_time": 191.878,
+      "end_time": 194.006
+    },
+    {
+      "text": "They don't know what to do with it.",
+      "speaker_name": "Fred",
+      "start_time": 194.038,
+      "end_time": 195.65
+    },
+    {
+      "text": "The recurring revenue is very poor.",
+      "speaker_name": "Fred",
+      "start_time": 196.03,
+      "end_time": 198.97
+    },
+    {
+      "text": "Again, year over year this has again we were at some point 25 people.",
+      "speaker_name": "Fred",
+      "start_time": 201.39,
+      "end_time": 206.086
+    },
+    {
+      "text": "I grew the revenue too I'm going to quote you on Canadian everything Canadians like 40 USD to CED is 40% 1 for 4.",
+      "speaker_name": "Fred",
+      "start_time": 206.158,
+      "end_time": 214.582
+    },
+    {
+      "text": "We did up to 1.8 million at some point two years ago than the last.",
+      "speaker_name": "Fred",
+      "start_time": 214.766,
+      "end_time": 219.192
+    },
+    {
+      "text": "The year before it was close to 900 last year 750.",
+      "speaker_name": "Fred",
+      "start_time": 219.296,
+      "end_time": 223.688
+    },
+    {
+      "text": "So revenue declining but profit is upper because I have less people.",
+      "speaker_name": "Fred",
+      "start_time": 223.744,
+      "end_time": 227.46
+    },
+    {
+      "text": "I'm able to with four or five people service this up to a million dollars worth of revenue.",
+      "speaker_name": "Fred",
+      "start_time": 227.84,
+      "end_time": 233.784
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 233.832,
+      "end_time": 234.42
+    },
+    {
+      "text": "So we, we have had like we've been around for seven years like Zurich Insurance is our client.",
+      "speaker_name": "Fred",
+      "start_time": 236.32,
+      "end_time": 242.14
+    },
+    {
+      "text": "Like we get, we have, we get some decent ones and we do like in depth consulting and with a few senior people I can manage with AI tools out here.",
+      "speaker_name": "Fred",
+      "start_time": 242.72,
+      "end_time": 251.938
+    },
+    {
+      "text": "So I think it's, it's for the right.",
+      "speaker_name": "Fred",
+      "start_time": 251.994,
+      "end_time": 254.066
+    },
+    {
+      "text": "We just don't have a good outbound method for everything that is inbound in the business right now.",
+      "speaker_name": "Fred",
+      "start_time": 254.218,
+      "end_time": 260.61
+    },
+    {
+      "text": "If somebody else has an agency, let's think about like a traditional New York London agency that they deal with brands or mid market companies but they don't know what to do with apps, that's a great opportunity or brand agencies, creative agencies, they close those companies that they are fortune 500 and they all have an app like Zurich as an example speak insurance company global, right.",
+      "speaker_name": "Fred",
+      "start_time": 260.65,
+      "end_time": 286.4
+    },
+    {
+      "text": "And then they have it 4 people team in their app team that app.",
+      "speaker_name": "Fred",
+      "start_time": 286.44,
+      "end_time": 290.512
+    },
+    {
+      "text": "I mean they spent over a hundred thousand dollars with us so far.",
+      "speaker_name": "Fred",
+      "start_time": 290.616,
+      "end_time": 294.54
+    },
+    {
+      "text": "So thinking are all your clients in the, in the Canadian market?",
+      "speaker_name": "Andy Day",
+      "start_time": 296.04,
+      "end_time": 299.648
+    },
+    {
+      "text": "You're not, not servicing US clients across the board?",
+      "speaker_name": "Andy Day",
+      "start_time": 299.704,
+      "end_time": 302.322
+    },
+    {
+      "text": "No, no, no.",
+      "speaker_name": "Fred",
+      "start_time": 302.346,
+      "end_time": 302.978
+    },
+    {
+      "text": "Nobody's in Canada.",
+      "speaker_name": "Fred",
+      "start_time": 303.034,
+      "end_time": 303.858
+    },
+    {
+      "text": "Everybody's in the us.",
+      "speaker_name": "Fred",
+      "start_time": 303.914,
+      "end_time": 305.026
+    },
+    {
+      "text": "Everyone's us.",
+      "speaker_name": "Andy Day",
+      "start_time": 305.178,
+      "end_time": 306.306
+    },
+    {
+      "text": "We have one in France, one in Singapore.",
+      "speaker_name": "Fred",
+      "start_time": 306.458,
+      "end_time": 308.85
+    },
+    {
+      "text": "We're a global company.",
+      "speaker_name": "Fred",
+      "start_time": 308.93,
+      "end_time": 310.002
+    },
+    {
+      "text": "I have people working for me in US and Europe.",
+      "speaker_name": "Fred",
+      "start_time": 310.106,
+      "end_time": 312.83
+    },
+    {
+      "text": "Where are they working?",
+      "speaker_name": "Andy Day",
+      "start_time": 318.17,
+      "end_time": 318.978
+    },
+    {
+      "text": "Sorry?",
+      "speaker_name": "Andy Day",
+      "start_time": 319.034,
+      "end_time": 319.75
+    },
+    {
+      "text": "Two in California, one in Amsterdam, one is in Asia.",
+      "speaker_name": "Fred",
+      "start_time": 320.73,
+      "end_time": 327.19
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 330.03,
+      "end_time": 330.89
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 332.03,
+      "end_time": 332.742
+    },
+    {
+      "text": "So what are you looking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 332.846,
+      "end_time": 334.87
+    },
+    {
+      "text": "Why, why are you trying to sell?",
+      "speaker_name": "Andy Day",
+      "start_time": 334.99,
+      "end_time": 338.29
+    },
+    {
+      "text": "What are you looking to get out of it?",
+      "speaker_name": "Andy Day",
+      "start_time": 338.99,
+      "end_time": 340.63
+    },
+    {
+      "text": "The transaction, the terms of the value and lifestyle.",
+      "speaker_name": "Andy Day",
+      "start_time": 340.75,
+      "end_time": 344.054
+    },
+    {
+      "text": "I put it in acquire.com.",
+      "speaker_name": "Fred",
+      "start_time": 344.182,
+      "end_time": 345.782
+    },
+    {
+      "text": "the number is there.",
+      "speaker_name": "Fred",
+      "start_time": 345.886,
+      "end_time": 347.25
+    },
+    {
+      "text": "I have lowered it to US$780,000.",
+      "speaker_name": "Fred",
+      "start_time": 348.03,
+      "end_time": 351.43
+    },
+    {
+      "text": "I sent you a link to that required listing before the meeting and if you got my email or not.",
+      "speaker_name": "Fred",
+      "start_time": 351.51,
+      "end_time": 355.95
+    },
+    {
+      "text": "Yeah, yeah, I've got it.",
+      "speaker_name": "Andy Day",
+      "start_time": 356.03,
+      "end_time": 357.29
+    },
+    {
+      "text": "So 708 USD, whatever that is the Canadian.",
+      "speaker_name": "Fred",
+      "start_time": 358.31,
+      "end_time": 363.902
+    },
+    {
+      "text": "So just have to be bear in mind in Acquire the asking price is different than the financial statements are all in Canadian.",
+      "speaker_name": "Fred",
+      "start_time": 364.046,
+      "end_time": 370.062
+    },
+    {
+      "text": "Our Quickbooks is in cad.",
+      "speaker_name": "Fred",
+      "start_time": 370.126,
+      "end_time": 371.822
+    },
+    {
+      "text": "So every figure you see out there is in CAD except the asking price.",
+      "speaker_name": "Fred",
+      "start_time": 371.966,
+      "end_time": 376.57
+    },
+    {
+      "text": "Okay so your EBITDA is what.",
+      "speaker_name": "Andy Day",
+      "start_time": 391.12,
+      "end_time": 406.18
+    },
+    {
+      "text": "Last year we did 104100 and I mean I have to look at because my account.",
+      "speaker_name": "Fred",
+      "start_time": 408.89,
+      "end_time": 412.85
+    },
+    {
+      "text": "Anyone just up we did 716 sales.",
+      "speaker_name": "Fred",
+      "start_time": 412.89,
+      "end_time": 415.83
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 416.17,
+      "end_time": 417.106
+    },
+    {
+      "text": "And let me see what we did last year and that's actually I deliberately chose this call around this time because all of our in statements came out.",
+      "speaker_name": "Fred",
+      "start_time": 417.298,
+      "end_time": 426.866
+    },
+    {
+      "text": "I actually got my accountant to do the books up to end of the year.",
+      "speaker_name": "Fred",
+      "start_time": 426.938,
+      "end_time": 433.23
+    },
+    {
+      "text": "So I'll give you the exact number right now.",
+      "speaker_name": "Fred",
+      "start_time": 433.82,
+      "end_time": 436.32
+    },
+    {
+      "text": "If you want I can show you even my screen show you my profit and loss.",
+      "speaker_name": "Fred",
+      "start_time": 437.02,
+      "end_time": 440.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Fred",
+      "start_time": 441.66,
+      "end_time": 442.44
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 442.94,
+      "end_time": 443.572
+    },
+    {
+      "text": "So so roughly doing 80,000 in profits in USD.",
+      "speaker_name": "Andy Day",
+      "start_time": 443.636,
+      "end_time": 449.8
+    },
+    {
+      "text": "Correct.",
+      "speaker_name": "Andy Day",
+      "start_time": 451.02,
+      "end_time": 451.524
+    },
+    {
+      "text": "And your asking price is 780,000 in USD which is almost a 10x multiple.",
+      "speaker_name": "Andy Day",
+      "start_time": 451.572,
+      "end_time": 460.2
+    },
+    {
+      "text": "Yeah the opportunity for this business Andy with and I'm doing a half ass job with outbound so hi.",
+      "speaker_name": "Fred",
+      "start_time": 463.97,
+      "end_time": 471.754
+    },
+    {
+      "text": "103000 profit last so I don't know how.",
+      "speaker_name": "Fred",
+      "start_time": 471.802,
+      "end_time": 474.65
+    },
+    {
+      "text": "110103000 Canadian is what's in USD.",
+      "speaker_name": "Fred",
+      "start_time": 474.69,
+      "end_time": 478.11
+    },
+    {
+      "text": "The calculator.",
+      "speaker_name": "Fred",
+      "start_time": 480.05,
+      "end_time": 481.002
+    },
+    {
+      "text": "103000 I have to update that.",
+      "speaker_name": "Fred",
+      "start_time": 481.066,
+      "end_time": 482.89
+    },
+    {
+      "text": "10300 USD 7172 72,000 so profit summit.",
+      "speaker_name": "Fred",
+      "start_time": 482.93,
+      "end_time": 492.45
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Fred",
+      "start_time": 493.35,
+      "end_time": 494.21
+    },
+    {
+      "text": "And your asking price is 780.",
+      "speaker_name": "Andy Day",
+      "start_time": 494.63,
+      "end_time": 499.61
+    },
+    {
+      "text": "Aren't agencies usually 1x their last year revenue ballpark?",
+      "speaker_name": "Fred",
+      "start_time": 502.47,
+      "end_time": 506.85
+    },
+    {
+      "text": "Not really.",
+      "speaker_name": "Andy Day",
+      "start_time": 507.27,
+      "end_time": 508.206
+    },
+    {
+      "text": "What are they usually based on?",
+      "speaker_name": "Fred",
+      "start_time": 508.358,
+      "end_time": 509.71
+    },
+    {
+      "text": "They're usually multiples of EBITDA.",
+      "speaker_name": "Andy Day",
+      "start_time": 509.75,
+      "end_time": 511.63
+    },
+    {
+      "text": "Small agencies like this would be two or three times EBITDA.",
+      "speaker_name": "Andy Day",
+      "start_time": 511.71,
+      "end_time": 516
+    },
+    {
+      "text": "So around 210,000 it would be worth.",
+      "speaker_name": "Andy Day",
+      "start_time": 516.42,
+      "end_time": 521.28
+    },
+    {
+      "text": "Let me take.",
+      "speaker_name": "Andy Day",
+      "start_time": 522.5,
+      "end_time": 523.052
+    },
+    {
+      "text": "There's no point of me selling that at that price.",
+      "speaker_name": "Fred",
+      "start_time": 523.076,
+      "end_time": 524.748
+    },
+    {
+      "text": "I'll keep it.",
+      "speaker_name": "Fred",
+      "start_time": 524.804,
+      "end_time": 525.66
+    },
+    {
+      "text": "I'll just like pull 100, 200,000 out.",
+      "speaker_name": "Fred",
+      "start_time": 525.78,
+      "end_time": 529.052
+    },
+    {
+      "text": "Of it every year might be the issue.",
+      "speaker_name": "Andy Day",
+      "start_time": 529.076,
+      "end_time": 530.84
+    },
+    {
+      "text": "What's the domain name that you're working under?",
+      "speaker_name": "Andy Day",
+      "start_time": 531.22,
+      "end_time": 535.08
+    },
+    {
+      "text": "App Guardians.",
+      "speaker_name": "Fred",
+      "start_time": 536.1,
+      "end_time": 537.36
+    },
+    {
+      "text": "Not App Growth Network.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.11,
+      "end_time": 541.43
+    },
+    {
+      "text": "Okay so App Growth Network is the LTD.",
+      "speaker_name": "Fred",
+      "start_time": 541.55,
+      "end_time": 543.798
+    },
+    {
+      "text": "App Growth and LTD.",
+      "speaker_name": "Fred",
+      "start_time": 543.894,
+      "end_time": 545.014
+    },
+    {
+      "text": "We rebranded 2000 two years ago to App Guardians.",
+      "speaker_name": "Fred",
+      "start_time": 545.062,
+      "end_time": 549.85
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 550.35,
+      "end_time": 551.094
+    },
+    {
+      "text": "The rebranding was.",
+      "speaker_name": "Fred",
+      "start_time": 551.222,
+      "end_time": 552.662
+    },
+    {
+      "text": "There's a bigger opportunity in there.",
+      "speaker_name": "Andy Day",
+      "start_time": 552.766,
+      "end_time": 554.182
+    },
+    {
+      "text": "And what, what is it?",
+      "speaker_name": "Andy Day",
+      "start_time": 554.206,
+      "end_time": 555.734
+    },
+    {
+      "text": "Do you have a SaaS business model or are you providing agency services to market apps on behalf of your clients?",
+      "speaker_name": "Andy Day",
+      "start_time": 555.902,
+      "end_time": 563.654
+    },
+    {
+      "text": "Yeah it's agency market to apps.",
+      "speaker_name": "Fred",
+      "start_time": 563.702,
+      "end_time": 565.334
+    },
+    {
+      "text": "I'm building an AI tool with a co founder as a separate entity.",
+      "speaker_name": "Fred",
+      "start_time": 565.382,
+      "end_time": 569.89
+    },
+    {
+      "text": "Eventually I want to focus on that.",
+      "speaker_name": "Fred",
+      "start_time": 570.23,
+      "end_time": 571.998
+    },
+    {
+      "text": "Raise money for that.",
+      "speaker_name": "Fred",
+      "start_time": 572.054,
+      "end_time": 573.118
+    },
+    {
+      "text": "I might get it again.",
+      "speaker_name": "Fred",
+      "start_time": 573.174,
+      "end_time": 574.67
+    },
+    {
+      "text": "I want to hire a managing director to run the agency so I'm not needed anymore.",
+      "speaker_name": "Fred",
+      "start_time": 574.71,
+      "end_time": 578.93
+    },
+    {
+      "text": "I'm the closer right now.",
+      "speaker_name": "Fred",
+      "start_time": 579.27,
+      "end_time": 580.622
+    },
+    {
+      "text": "I sell the deals.",
+      "speaker_name": "Fred",
+      "start_time": 580.646,
+      "end_time": 581.614
+    },
+    {
+      "text": "I know the story better than anyone else.",
+      "speaker_name": "Fred",
+      "start_time": 581.662,
+      "end_time": 585.09
+    },
+    {
+      "text": "So the major issues right now we're not doing enough outbound.",
+      "speaker_name": "Fred",
+      "start_time": 586.15,
+      "end_time": 589.374
+    },
+    {
+      "text": "We're not running advertising.",
+      "speaker_name": "Fred",
+      "start_time": 589.422,
+      "end_time": 590.83
+    },
+    {
+      "text": "We're not going to enough conferences.",
+      "speaker_name": "Fred",
+      "start_time": 590.91,
+      "end_time": 592.782
+    },
+    {
+      "text": "We are smaller now.",
+      "speaker_name": "Fred",
+      "start_time": 592.926,
+      "end_time": 594.556
+    },
+    {
+      "text": "I've been doing this for six and a half years.",
+      "speaker_name": "Fred",
+      "start_time": 594.718,
+      "end_time": 597.18
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Fred",
+      "start_time": 599.08,
+      "end_time": 599.824
+    },
+    {
+      "text": "I mean, again, if this is less than 500, 000, Andy, what's my.",
+      "speaker_name": "Fred",
+      "start_time": 599.952,
+      "end_time": 606.768
+    },
+    {
+      "text": "What's the point of selling it if I can pull 100k in profit and pay myself 100k, that's like.",
+      "speaker_name": "Fred",
+      "start_time": 606.824,
+      "end_time": 612.336
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 612.408,
+      "end_time": 613.02
+    },
+    {
+      "text": "If I have to put.",
+      "speaker_name": "Fred",
+      "start_time": 614.04,
+      "end_time": 615.52
+    },
+    {
+      "text": "I'm putting only putting four or five hours a day.",
+      "speaker_name": "Fred",
+      "start_time": 615.56,
+      "end_time": 617.98
+    },
+    {
+      "text": "So I'm not putting a much energy on this.",
+      "speaker_name": "Fred",
+      "start_time": 619.56,
+      "end_time": 622.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 624.53,
+      "end_time": 625.13
+    },
+    {
+      "text": "So agencies are.",
+      "speaker_name": "Andy Day",
+      "start_time": 625.21,
+      "end_time": 628.55
+    },
+    {
+      "text": "The value in an agency is in the team.",
+      "speaker_name": "Andy Day",
+      "start_time": 629.65,
+      "end_time": 632.634
+    },
+    {
+      "text": "It's in the people that run it.",
+      "speaker_name": "Andy Day",
+      "start_time": 632.722,
+      "end_time": 634.39
+    },
+    {
+      "text": "There is obviously value in what you've built so far, but the way that those assets would be valued will be probably be multiples of the profit that they generate.",
+      "speaker_name": "Andy Day",
+      "start_time": 634.93,
+      "end_time": 646.634
+    },
+    {
+      "text": "And so anybody buying the company is looking to pay a multiple on the profit at 80,000 or 72,000 USD.",
+      "speaker_name": "Andy Day",
+      "start_time": 646.762,
+      "end_time": 656.2
+    },
+    {
+      "text": "It's a multiple of that somewhere.",
+      "speaker_name": "Andy Day",
+      "start_time": 657.18,
+      "end_time": 659.54
+    },
+    {
+      "text": "I'm not saying that, but that is, that is not.",
+      "speaker_name": "Andy Day",
+      "start_time": 659.7,
+      "end_time": 661.38
+    },
+    {
+      "text": "That is not how Barney evaluated it.",
+      "speaker_name": "Fred",
+      "start_time": 661.42,
+      "end_time": 663.524
+    },
+    {
+      "text": "Barney valuated it at million Canadian or was 1.2 Canadian back then.",
+      "speaker_name": "Fred",
+      "start_time": 663.612,
+      "end_time": 669.94
+    },
+    {
+      "text": "They did my S SDR multiplier SDR.",
+      "speaker_name": "Fred",
+      "start_time": 669.98,
+      "end_time": 674.52
+    },
+    {
+      "text": "And if that's when we actually had a negative in our TTM profit, that's.",
+      "speaker_name": "Fred",
+      "start_time": 675.02,
+      "end_time": 680.344
+    },
+    {
+      "text": "That was a year.",
+      "speaker_name": "Fred",
+      "start_time": 680.392,
+      "end_time": 681.16
+    },
+    {
+      "text": "The year before when we had done 1.8 million in sales.",
+      "speaker_name": "Fred",
+      "start_time": 681.2,
+      "end_time": 684.86
+    },
+    {
+      "text": "They looked at it from different valuation, not multiple of profits, because somebody else could do something else better with it.",
+      "speaker_name": "Fred",
+      "start_time": 685.28,
+      "end_time": 693.048
+    },
+    {
+      "text": "Again, it's all these apps.",
+      "speaker_name": "Fred",
+      "start_time": 693.104,
+      "end_time": 695.96
+    },
+    {
+      "text": "Nobody else knows.",
+      "speaker_name": "Andy Day",
+      "start_time": 696.12,
+      "end_time": 697.256
+    },
+    {
+      "text": "Your SDI is your seller's discretionary earnings.",
+      "speaker_name": "Andy Day",
+      "start_time": 697.368,
+      "end_time": 700.056
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 700.088,
+      "end_time": 700.376
+    },
+    {
+      "text": "So again, this is stuff that needs to go back in these add backs or when we adjust the ebitda.",
+      "speaker_name": "Andy Day",
+      "start_time": 700.448,
+      "end_time": 708.17
+    },
+    {
+      "text": "So because it's such small company, they've, they've done it through, through this slightly different message way of doing it.",
+      "speaker_name": "Andy Day",
+      "start_time": 708.25,
+      "end_time": 714.49
+    },
+    {
+      "text": "But basically what they're working out is how much money you take out of this business.",
+      "speaker_name": "Andy Day",
+      "start_time": 714.61,
+      "end_time": 718.138
+    },
+    {
+      "text": "Exactly, exactly.",
+      "speaker_name": "Fred",
+      "start_time": 718.194,
+      "end_time": 719.45
+    },
+    {
+      "text": "And then it's a multiple of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 719.53,
+      "end_time": 720.698
+    },
+    {
+      "text": "So your profit at 72.",
+      "speaker_name": "Andy Day",
+      "start_time": 720.754,
+      "end_time": 722.65
+    },
+    {
+      "text": "There's obviously a bunch of add backs that you, you haven't talked about yet.",
+      "speaker_name": "Andy Day",
+      "start_time": 722.77,
+      "end_time": 726.602
+    },
+    {
+      "text": "You've got a bunch of those add backs and it gets you all the way up to 200k.",
+      "speaker_name": "Andy Day",
+      "start_time": 726.706,
+      "end_time": 731.482
+    },
+    {
+      "text": "And they felt they could give you a 5x on that because you had 1.8 million in revenue at the time then.",
+      "speaker_name": "Andy Day",
+      "start_time": 731.586,
+      "end_time": 738.68
+    },
+    {
+      "text": "Yeah, that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 739.14,
+      "end_time": 739.932
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Fred",
+      "start_time": 739.996,
+      "end_time": 740.236
+    },
+    {
+      "text": "There's probably some ineffectiveness in optimization.",
+      "speaker_name": "Fred",
+      "start_time": 740.268,
+      "end_time": 743.148
+    },
+    {
+      "text": "When you have 20 employees, they're like, okay, the next person is going to come in, fire a bunch of these people.",
+      "speaker_name": "Fred",
+      "start_time": 743.244,
+      "end_time": 747.804
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 747.892,
+      "end_time": 748.428
+    },
+    {
+      "text": "They're going to have their resources or some add backs that way.",
+      "speaker_name": "Fred",
+      "start_time": 748.564,
+      "end_time": 752.44
+    },
+    {
+      "text": "I don't know how they calculated it.",
+      "speaker_name": "Fred",
+      "start_time": 752.82,
+      "end_time": 754.412
+    },
+    {
+      "text": "I have all their formulas.",
+      "speaker_name": "Fred",
+      "start_time": 754.436,
+      "end_time": 756.076
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 756.268,
+      "end_time": 757.04
+    },
+    {
+      "text": "I have all the Valuation methods.",
+      "speaker_name": "Fred",
+      "start_time": 757.54,
+      "end_time": 759.972
+    },
+    {
+      "text": "And that was like a year and a half ago, Andy.",
+      "speaker_name": "Fred",
+      "start_time": 760.076,
+      "end_time": 762.644
+    },
+    {
+      "text": "Well, you've lost a million in revenues since then.",
+      "speaker_name": "Andy Day",
+      "start_time": 762.692,
+      "end_time": 765.92
+    },
+    {
+      "text": "Two years ago.",
+      "speaker_name": "Fred",
+      "start_time": 766.94,
+      "end_time": 767.748
+    },
+    {
+      "text": "Yeah, but also our expenses were way up on 1.8 that year.",
+      "speaker_name": "Fred",
+      "start_time": 767.804,
+      "end_time": 772.052
+    },
+    {
+      "text": "We only did 200 profit.",
+      "speaker_name": "Fred",
+      "start_time": 772.076,
+      "end_time": 773.524
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "Fred",
+      "start_time": 773.572,
+      "end_time": 774.24
+    },
+    {
+      "text": "If I'm acquiring your company, you're doing 1.8 million revenue, then I can find a load of savings, of course.",
+      "speaker_name": "Andy Day",
+      "start_time": 775.98,
+      "end_time": 781.52
+    },
+    {
+      "text": "So a company that's doing 1.8 million and the same profit that you're doing now, or whatever your discretionary earnings are, the 1.8 million revenue company, would be worth more.",
+      "speaker_name": "Andy Day",
+      "start_time": 781.82,
+      "end_time": 793.18
+    },
+    {
+      "text": "It's not because your margin's better, it's worth more.",
+      "speaker_name": "Andy Day",
+      "start_time": 793.22,
+      "end_time": 795.58
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Andy Day",
+      "start_time": 795.62,
+      "end_time": 796.172
+    },
+    {
+      "text": "It's a bigger company with more people involved, more revenue.",
+      "speaker_name": "Andy Day",
+      "start_time": 796.316,
+      "end_time": 800.32
+    },
+    {
+      "text": "You know, like I said, when people buy agencies, they're buying the company.",
+      "speaker_name": "Andy Day",
+      "start_time": 800.66,
+      "end_time": 803.868
+    },
+    {
+      "text": "They're buying the group of people that know how to do the job.",
+      "speaker_name": "Andy Day",
+      "start_time": 803.924,
+      "end_time": 806.22
+    },
+    {
+      "text": "They're obviously buying you as well, Fred.",
+      "speaker_name": "Andy Day",
+      "start_time": 806.34,
+      "end_time": 808.044
+    },
+    {
+      "text": "And you know, your relationships with your clients and, you know, your way.",
+      "speaker_name": "Andy Day",
+      "start_time": 808.092,
+      "end_time": 813.72
+    },
+    {
+      "text": "It's a small industry.",
+      "speaker_name": "Fred",
+      "start_time": 814.1,
+      "end_time": 815.26
+    },
+    {
+      "text": "Everybody knows in the mobile industry who is who.",
+      "speaker_name": "Fred",
+      "start_time": 815.38,
+      "end_time": 817.788
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 817.844,
+      "end_time": 818.108
+    },
+    {
+      "text": "Like, we've done so many conferences, we've many podcasts.",
+      "speaker_name": "Fred",
+      "start_time": 818.164,
+      "end_time": 821.176
+    },
+    {
+      "text": "We just did a podcast with Rovio two days ago, you know, so some of these things are assets that are just sitting there.",
+      "speaker_name": "Fred",
+      "start_time": 821.208,
+      "end_time": 827.528
+    },
+    {
+      "text": "Like, obviously there's ips.",
+      "speaker_name": "Fred",
+      "start_time": 827.584,
+      "end_time": 829.496
+    },
+    {
+      "text": "I hear what you're saying.",
+      "speaker_name": "Fred",
+      "start_time": 829.688,
+      "end_time": 830.84
+    },
+    {
+      "text": "It's a smaller.",
+      "speaker_name": "Fred",
+      "start_time": 830.88,
+      "end_time": 831.82
+    },
+    {
+      "text": "They're not worth anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 832.16,
+      "end_time": 833.336
+    },
+    {
+      "text": "I hate to say it, but you're putting the value in the wrong things.",
+      "speaker_name": "Andy Day",
+      "start_time": 833.448,
+      "end_time": 838.488
+    },
+    {
+      "text": "The company that produces the profit, that's where the value lies.",
+      "speaker_name": "Andy Day",
+      "start_time": 838.624,
+      "end_time": 842.936
+    },
+    {
+      "text": "If 72,000 isn't the right number, we need to figure out what that is.",
+      "speaker_name": "Andy Day",
+      "start_time": 843.048,
+      "end_time": 846.28
+    },
+    {
+      "text": "So if we can go into the, into your financials and have a look what it is that you're actually getting from the company, we can work out what that number is, but then we need to do a multiple of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 846.32,
+      "end_time": 857.07
+    },
+    {
+      "text": "And it's going to be, let's say, let's say even.",
+      "speaker_name": "Fred",
+      "start_time": 857.11,
+      "end_time": 858.926
+    },
+    {
+      "text": "Let's say I paid myself 100k last year and I probably expense half my rent, this and that, 60k.",
+      "speaker_name": "Fred",
+      "start_time": 858.998,
+      "end_time": 868.446
+    },
+    {
+      "text": "So let's, let's get to 200 Canadian.",
+      "speaker_name": "Fred",
+      "start_time": 868.518,
+      "end_time": 871.806
+    },
+    {
+      "text": "250 Canadian.",
+      "speaker_name": "Fred",
+      "start_time": 871.918,
+      "end_time": 873.41
+    },
+    {
+      "text": "I'll give you the exact number if I have to.",
+      "speaker_name": "Fred",
+      "start_time": 875.56,
+      "end_time": 877.6
+    },
+    {
+      "text": "Like if it was 200 Canadian or 250, that would be worth about 3x on that.",
+      "speaker_name": "Fred",
+      "start_time": 877.64,
+      "end_time": 882.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 883.32,
+      "end_time": 883.696
+    },
+    {
+      "text": "So let's say it's a 3 to 5x range that we could find interested in that range.",
+      "speaker_name": "Andy Day",
+      "start_time": 883.728,
+      "end_time": 891.424
+    },
+    {
+      "text": "So that's where you would get your, your 1 million valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 891.552,
+      "end_time": 894.9
+    },
+    {
+      "text": "The, the amount of buyers in that pool at the top end is very small.",
+      "speaker_name": "Andy Day",
+      "start_time": 895.24,
+      "end_time": 901.68
+    },
+    {
+      "text": "So we need to find the exact person that is desperate for this type of marketing agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 902.38,
+      "end_time": 909.16
+    },
+    {
+      "text": "Well I'm thinking either they are European Andy, they want to access the North America market.",
+      "speaker_name": "Fred",
+      "start_time": 910.06,
+      "end_time": 918
+    },
+    {
+      "text": "Let's say they're in Eastern Europe now North America becomes the closing office, the pitch office.",
+      "speaker_name": "Fred",
+      "start_time": 919.02,
+      "end_time": 925.028
+    },
+    {
+      "text": "That's one opportunity.",
+      "speaker_name": "Fred",
+      "start_time": 925.164,
+      "end_time": 926.678
+    },
+    {
+      "text": "And those guys who do all the work there could be a gaming company that they have like you know, I don't know what.",
+      "speaker_name": "Fred",
+      "start_time": 926.844,
+      "end_time": 932.578
+    },
+    {
+      "text": "And then they want some people here in North America for whatever reason, publisher model.",
+      "speaker_name": "Fred",
+      "start_time": 932.634,
+      "end_time": 936.962
+    },
+    {
+      "text": "So this, this office is contact relationships.",
+      "speaker_name": "Fred",
+      "start_time": 937.106,
+      "end_time": 940.39
+    },
+    {
+      "text": "I'm thinking it could be a creative agency that they want to do some innovative work with apps.",
+      "speaker_name": "Fred",
+      "start_time": 941.93,
+      "end_time": 947.27
+    },
+    {
+      "text": "Like for example we have Applobin as a client.",
+      "speaker_name": "Fred",
+      "start_time": 948.09,
+      "end_time": 951.634
+    },
+    {
+      "text": "They're publicly created company.",
+      "speaker_name": "Fred",
+      "start_time": 951.682,
+      "end_time": 952.866
+    },
+    {
+      "text": "We build a lot of user generated content for them monthly basis.",
+      "speaker_name": "Fred",
+      "start_time": 952.938,
+      "end_time": 955.762
+    },
+    {
+      "text": "How can we do more for them there they have the relationships.",
+      "speaker_name": "Fred",
+      "start_time": 955.826,
+      "end_time": 962.556
+    },
+    {
+      "text": "So sales is not a problem.",
+      "speaker_name": "Fred",
+      "start_time": 962.588,
+      "end_time": 963.996
+    },
+    {
+      "text": "It's added services to their apps that they could actually win a deal maybe because oh we can help to take care of your app as well.",
+      "speaker_name": "Fred",
+      "start_time": 964.068,
+      "end_time": 971.02
+    },
+    {
+      "text": "Therefore they can win their entire ecosystem.",
+      "speaker_name": "Fred",
+      "start_time": 971.06,
+      "end_time": 973.532
+    },
+    {
+      "text": "I used to work for Sage in the uk.",
+      "speaker_name": "Fred",
+      "start_time": 973.676,
+      "end_time": 975.96
+    },
+    {
+      "text": "I was head of app store for Sage and like I remember back then, no, no, not a lot of agencies were able to take care of our apps.",
+      "speaker_name": "Fred",
+      "start_time": 976.74,
+      "end_time": 985.436
+    },
+    {
+      "text": "So I had to go and find an agency boutique just to take care of apps and the Ogly that was the agency in charge, they couldn't do what we wanted them to do.",
+      "speaker_name": "Fred",
+      "start_time": 985.468,
+      "end_time": 996.344
+    },
+    {
+      "text": "So they found somebody in India if they wish they had somebody.",
+      "speaker_name": "Fred",
+      "start_time": 996.432,
+      "end_time": 1001.464
+    },
+    {
+      "text": "And, and back then Andy, I handed half a million dollars to us agency when I was head of app store for Sage to take care of my advertising for the Sage apps because Ogilvy couldn't figure that out.",
+      "speaker_name": "Fred",
+      "start_time": 1001.512,
+      "end_time": 1014.66
+    },
+    {
+      "text": "So think about that half a million dollars that they would have gone to Ogilvy if they had the capability.",
+      "speaker_name": "Fred",
+      "start_time": 1015.06,
+      "end_time": 1019.34
+    },
+    {
+      "text": "So situations like that.",
+      "speaker_name": "Fred",
+      "start_time": 1019.42,
+      "end_time": 1021
+    },
+    {
+      "text": "Yeah, unfortunately they don't increase the value of the company.",
+      "speaker_name": "Andy Day",
+      "start_time": 1023.38,
+      "end_time": 1026.7
+    },
+    {
+      "text": "So anybody that's buying this business is, is going to be looking at it in terms of whether it's a strategic buy like you're talking about or whether it's a financial buy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1026.82,
+      "end_time": 1036.748
+    },
+    {
+      "text": "So obviously we're looking for strategic buyers just as you've suggested.",
+      "speaker_name": "Andy Day",
+      "start_time": 1036.884,
+      "end_time": 1040.547
+    },
+    {
+      "text": "Now there's a very established market for agency acquisition prices don't fluctuate hugely.",
+      "speaker_name": "Andy Day",
+      "start_time": 1040.683,
+      "end_time": 1048.243
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 1048.371,
+      "end_time": 1049.091
+    },
+    {
+      "text": "And they tend to just be in a certain range.",
+      "speaker_name": "Andy Day",
+      "start_time": 1049.275,
+      "end_time": 1052.279
+    },
+    {
+      "text": "Particularly for a small agency like this where you're sub 1 million dollar revenue.",
+      "speaker_name": "Andy Day",
+      "start_time": 1052.699,
+      "end_time": 1057.559
+    },
+    {
+      "text": "The value of that is usually around a sort of 2, 3, 4 maybe multiple.",
+      "speaker_name": "Andy Day",
+      "start_time": 1058.539,
+      "end_time": 1065.799
+    },
+    {
+      "text": "You are in a, a good niche, you've got good clients and these are all Positive things that would put you at the top of that range.",
+      "speaker_name": "Andy Day",
+      "start_time": 1066.59,
+      "end_time": 1073.43
+    },
+    {
+      "text": "But I would be a miss.",
+      "speaker_name": "Andy Day",
+      "start_time": 1073.59,
+      "end_time": 1075.702
+    },
+    {
+      "text": "I'm misleading you if I said to you that There was a 5x for this business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1075.886,
+      "end_time": 1082.07
+    },
+    {
+      "text": "Likely if we go out I would say you're most likely looking at a 3 or 4X.",
+      "speaker_name": "Andy Day",
+      "start_time": 1082.19,
+      "end_time": 1088.134
+    },
+    {
+      "text": "I mean it's a, it's a great looking business and you've got great clients and you're obviously really good and I think any buyer would want to keep you in the business for as long as possible including your team but they're likely going to pay a forex let's say on the 200 Canadian that could be there as your discretionary earnings.",
+      "speaker_name": "Andy Day",
+      "start_time": 1088.222,
+      "end_time": 1106.92
+    },
+    {
+      "text": "So I would say that's the ball a ballpark for about half a million dollars but that USD or happening in Canadian about 800,000 let's say Canadian dollars.",
+      "speaker_name": "Andy Day",
+      "start_time": 1107.66,
+      "end_time": 1121.48
+    },
+    {
+      "text": "So roughly 5, 550 in US so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1122.14,
+      "end_time": 1126.912
+    },
+    {
+      "text": "I've listed it for 780 USD to see who knocks my door.",
+      "speaker_name": "Fred",
+      "start_time": 1126.936,
+      "end_time": 1130.352
+    },
+    {
+      "text": "I'm open for negotiation.",
+      "speaker_name": "Fred",
+      "start_time": 1130.416,
+      "end_time": 1131.792
+    },
+    {
+      "text": "Depends on the terms how long they want to keep me around the first meal.",
+      "speaker_name": "Fred",
+      "start_time": 1131.856,
+      "end_time": 1135.584
+    },
+    {
+      "text": "1.2 million Canadian is tax free capital gains free in Canada so I cleared it out without taxes.",
+      "speaker_name": "Fred",
+      "start_time": 1135.632,
+      "end_time": 1142.9
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 1143.96,
+      "end_time": 1144.464
+    },
+    {
+      "text": "So I'm okay to probably let this go for 100, 200,000 less than what I'm asking for.",
+      "speaker_name": "Fred",
+      "start_time": 1144.552,
+      "end_time": 1149.792
+    },
+    {
+      "text": "I'm not going to be like penny pinching for everything like that Andy.",
+      "speaker_name": "Fred",
+      "start_time": 1149.816,
+      "end_time": 1152.64
+    },
+    {
+      "text": "Depends on who is coming here.",
+      "speaker_name": "Fred",
+      "start_time": 1152.72,
+      "end_time": 1154
+    },
+    {
+      "text": "How's my life going to look?",
+      "speaker_name": "Fred",
+      "start_time": 1154.04,
+      "end_time": 1155.3
+    },
+    {
+      "text": "They going to level this place up like because this is, I'm going to look back five years after and App Guardians is now part of a larger company and it's grown and great.",
+      "speaker_name": "Fred",
+      "start_time": 1155.4,
+      "end_time": 1164.14
+    },
+    {
+      "text": "That's great for my background.",
+      "speaker_name": "Fred",
+      "start_time": 1164.18,
+      "end_time": 1165.388
+    },
+    {
+      "text": "I'm not going to nickel and dime it for $100,000 a year.",
+      "speaker_name": "Fred",
+      "start_time": 1165.404,
+      "end_time": 1168.588
+    },
+    {
+      "text": "If that's the case then, then you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1168.724,
+      "end_time": 1170.972
+    },
+    {
+      "text": "I think you're being completely realistic so I think it's, it's definitely doable in that ballpark and I think you're right to hang your coat on a peg that says more than what you're asking because people come in and knock you down for all sorts of reasons.",
+      "speaker_name": "Andy Day",
+      "start_time": 1170.996,
+      "end_time": 1183.452
+    },
+    {
+      "text": "So I think if you're, you're really realistic then there's absolutely no that valuation at all.",
+      "speaker_name": "Andy Day",
+      "start_time": 1183.516,
+      "end_time": 1188.424
+    },
+    {
+      "text": "Somewhere around the mid.",
+      "speaker_name": "Andy Day",
+      "start_time": 1188.512,
+      "end_time": 1189.608
+    },
+    {
+      "text": "Yeah, well Barney gave me 3.7 SD seller discretion.",
+      "speaker_name": "Fred",
+      "start_time": 1189.664,
+      "end_time": 1195.112
+    },
+    {
+      "text": "SDE SDR.",
+      "speaker_name": "Fred",
+      "start_time": 1195.176,
+      "end_time": 1196.184
+    },
+    {
+      "text": "What is it called?",
+      "speaker_name": "Fred",
+      "start_time": 1196.232,
+      "end_time": 1196.76
+    },
+    {
+      "text": "SD SD sellers discretionary earnings.",
+      "speaker_name": "Andy Day",
+      "start_time": 1196.8,
+      "end_time": 1200.472
+    },
+    {
+      "text": "So if they gave you three point something multiple on that is that what you're saying then that I would say.",
+      "speaker_name": "Andy Day",
+      "start_time": 1200.616,
+      "end_time": 1206.248
+    },
+    {
+      "text": "3.7 and back then when they gave me that number was 280 I believe.",
+      "speaker_name": "Fred",
+      "start_time": 1206.304,
+      "end_time": 1211.54
+    },
+    {
+      "text": "Yeah, that was, that was when we did that was 280 times 3.7.",
+      "speaker_name": "Fred",
+      "start_time": 1214.17,
+      "end_time": 1220.123
+    },
+    {
+      "text": "3.7.",
+      "speaker_name": "Fred",
+      "start_time": 1220.717,
+      "end_time": 1223.39
+    },
+    {
+      "text": "That's why I told them just to list it at like calculator.",
+      "speaker_name": "Fred",
+      "start_time": 1224.25,
+      "end_time": 1229.03
+    },
+    {
+      "text": "280 times 3.7.",
+      "speaker_name": "Fred",
+      "start_time": 1232.09,
+      "end_time": 1235.554
+    },
+    {
+      "text": "Yeah, that's million.",
+      "speaker_name": "Fred",
+      "start_time": 1235.642,
+      "end_time": 1237.15
+    },
+    {
+      "text": "So I said rounded up to 1.2 so that we lose negotiation for one to be get down.",
+      "speaker_name": "Fred",
+      "start_time": 1237.85,
+      "end_time": 1242.694
+    },
+    {
+      "text": "That's when they listed that out.",
+      "speaker_name": "Fred",
+      "start_time": 1242.842,
+      "end_time": 1245.13
+    },
+    {
+      "text": "But again now things have changed.",
+      "speaker_name": "Fred",
+      "start_time": 1246.39,
+      "end_time": 1247.966
+    },
+    {
+      "text": "I understand we have less smaller team.",
+      "speaker_name": "Fred",
+      "start_time": 1247.998,
+      "end_time": 1250.542
+    },
+    {
+      "text": "We had less profit revenue last year but the year that they listed it we were a negative.",
+      "speaker_name": "Fred",
+      "start_time": 1250.646,
+      "end_time": 1256.878
+    },
+    {
+      "text": "Now we are in positive.",
+      "speaker_name": "Fred",
+      "start_time": 1256.974,
+      "end_time": 1258.142
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Fred",
+      "start_time": 1258.206,
+      "end_time": 1258.574
+    },
+    {
+      "text": "We did 100,000 on 750,000 in income.",
+      "speaker_name": "Fred",
+      "start_time": 1258.622,
+      "end_time": 1262.37
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 1263.11,
+      "end_time": 1263.518
+    },
+    {
+      "text": "Bottom line with a smaller team.",
+      "speaker_name": "Fred",
+      "start_time": 1263.574,
+      "end_time": 1266.798
+    },
+    {
+      "text": "But they did the calculation for the sde.",
+      "speaker_name": "Andy Day",
+      "start_time": 1266.934,
+      "end_time": 1269.31
+    },
+    {
+      "text": "So that got you to the number that you needed to get to the 280k.",
+      "speaker_name": "Andy Day",
+      "start_time": 1269.39,
+      "end_time": 1273.39
+    },
+    {
+      "text": "Yeah, yeah, yeah, they did that.",
+      "speaker_name": "Fred",
+      "start_time": 1273.43,
+      "end_time": 1276.05
+    },
+    {
+      "text": "I have, I can show you all the spreadsheets, all the numbers but that was for a year and a half ago.",
+      "speaker_name": "Fred",
+      "start_time": 1276.09,
+      "end_time": 1280.882
+    },
+    {
+      "text": "It's not updated.",
+      "speaker_name": "Fred",
+      "start_time": 1280.906,
+      "end_time": 1281.91
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1282.65,
+      "end_time": 1283.17
+    },
+    {
+      "text": "So I mean just the situation has changed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1283.25,
+      "end_time": 1285.362
+    },
+    {
+      "text": "I mean they've given you a good sensible range.",
+      "speaker_name": "Andy Day",
+      "start_time": 1285.426,
+      "end_time": 1288.402
+    },
+    {
+      "text": "I mean obviously that's within the range that I've just given you as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1288.466,
+      "end_time": 1293.25
+    },
+    {
+      "text": "2 to 4 for a small agency, 3 to 5 for a bigger one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1293.37,
+      "end_time": 1298.146
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Fred",
+      "start_time": 1298.298,
+      "end_time": 1298.61
+    },
+    {
+      "text": "So I think that's, that is where it's at and nothing's really changed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1298.65,
+      "end_time": 1303.088
+    },
+    {
+      "text": "Like I said, it's a very established market for agency acquisition so it will be that kind of ballpark again.",
+      "speaker_name": "Andy Day",
+      "start_time": 1303.104,
+      "end_time": 1310.62
+    },
+    {
+      "text": "So yeah, I think your math is roughly right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1311.24,
+      "end_time": 1315.424
+    },
+    {
+      "text": "Obviously you've over egged it on purpose so you can be knocked down.",
+      "speaker_name": "Andy Day",
+      "start_time": 1315.512,
+      "end_time": 1319.664
+    },
+    {
+      "text": "Yes, and I'm okay with that.",
+      "speaker_name": "Fred",
+      "start_time": 1319.752,
+      "end_time": 1322.496
+    },
+    {
+      "text": "Somebody comes here, I'll give you an offer for 600,000 USD.",
+      "speaker_name": "Fred",
+      "start_time": 1322.568,
+      "end_time": 1325.744
+    },
+    {
+      "text": "I'm not going to say no.",
+      "speaker_name": "Fred",
+      "start_time": 1325.792,
+      "end_time": 1326.72
+    },
+    {
+      "text": "I'm just going to look at the terms condition situation here.",
+      "speaker_name": "Fred",
+      "start_time": 1326.76,
+      "end_time": 1329.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 1329.24,
+      "end_time": 1329.82
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1331.45,
+      "end_time": 1332.31
+    },
+    {
+      "text": "So where did you get to with Ramon?",
+      "speaker_name": "Andy Day",
+      "start_time": 1333.29,
+      "end_time": 1334.914
+    },
+    {
+      "text": "Are you looking?",
+      "speaker_name": "Andy Day",
+      "start_time": 1334.962,
+      "end_time": 1335.79
+    },
+    {
+      "text": "We, we're obviously an M and A advisory so we run a full process and get the deal done basically within a six month window.",
+      "speaker_name": "Andy Day",
+      "start_time": 1337.61,
+      "end_time": 1346.39
+    },
+    {
+      "text": "Are you looking for that or are you just looking to get it listed on agencies?",
+      "speaker_name": "Andy Day",
+      "start_time": 1347.21,
+      "end_time": 1350.242
+    },
+    {
+      "text": "I can see you're obviously listing it already on acquire so been acquired for.",
+      "speaker_name": "Andy Day",
+      "start_time": 1350.306,
+      "end_time": 1355.074
+    },
+    {
+      "text": "Over a year and that's a good place to show.",
+      "speaker_name": "Fred",
+      "start_time": 1355.082,
+      "end_time": 1356.93
+    },
+    {
+      "text": "I'm showing to people, I'm talking to them.",
+      "speaker_name": "Fred",
+      "start_time": 1356.97,
+      "end_time": 1358.402
+    },
+    {
+      "text": "Hey, these are numbers.",
+      "speaker_name": "Fred",
+      "start_time": 1358.426,
+      "end_time": 1359.578
+    },
+    {
+      "text": "A car used to have a live financial.",
+      "speaker_name": "Fred",
+      "start_time": 1359.714,
+      "end_time": 1362.07
+    },
+    {
+      "text": "For some reason the financial institutions like Intuit, they no longer allow them to pull live numbers.",
+      "speaker_name": "Fred",
+      "start_time": 1362.61,
+      "end_time": 1368.618
+    },
+    {
+      "text": "So I have to manually update those numbers which is challenging because then a bookkeeper accountant has to update Everything on time.",
+      "speaker_name": "Fred",
+      "start_time": 1368.794,
+      "end_time": 1376.602
+    },
+    {
+      "text": "But that's directional.",
+      "speaker_name": "Fred",
+      "start_time": 1376.786,
+      "end_time": 1378.09
+    },
+    {
+      "text": "To tell people what the numbers are, where the past years were gives history.",
+      "speaker_name": "Fred",
+      "start_time": 1378.17,
+      "end_time": 1382.71
+    },
+    {
+      "text": "What's the, what's the interest levels that you've had so far on Acquire?",
+      "speaker_name": "Andy Day",
+      "start_time": 1383.25,
+      "end_time": 1387.51
+    },
+    {
+      "text": "I've talked to four or five people.",
+      "speaker_name": "Fred",
+      "start_time": 1388.25,
+      "end_time": 1390.162
+    },
+    {
+      "text": "One had.",
+      "speaker_name": "Fred",
+      "start_time": 1390.346,
+      "end_time": 1390.962
+    },
+    {
+      "text": "The guy was very serious.",
+      "speaker_name": "Fred",
+      "start_time": 1390.986,
+      "end_time": 1391.906
+    },
+    {
+      "text": "He had, he had an E commerce business.",
+      "speaker_name": "Fred",
+      "start_time": 1391.938,
+      "end_time": 1393.95
+    },
+    {
+      "text": "And at the end he came and he said, I don't know what to do with this.",
+      "speaker_name": "Fred",
+      "start_time": 1394.49,
+      "end_time": 1397.714
+    },
+    {
+      "text": "I mean the e commerce business, I don't know what to do with apps.",
+      "speaker_name": "Fred",
+      "start_time": 1397.882,
+      "end_time": 1400.722
+    },
+    {
+      "text": "There was a guy in Mexico I couldn't trust these guys, they were in Tijuana.",
+      "speaker_name": "Fred",
+      "start_time": 1400.866,
+      "end_time": 1404.738
+    },
+    {
+      "text": "I'm like dealing with mafia over there.",
+      "speaker_name": "Fred",
+      "start_time": 1404.834,
+      "end_time": 1407.234
+    },
+    {
+      "text": "Hell no, I'm not dealing with Tijuana.",
+      "speaker_name": "Fred",
+      "start_time": 1407.402,
+      "end_time": 1409.35
+    },
+    {
+      "text": "Not a lot.",
+      "speaker_name": "Fred",
+      "start_time": 1409.93,
+      "end_time": 1411.07
+    },
+    {
+      "text": "Not a lot.",
+      "speaker_name": "Fred",
+      "start_time": 1413.3,
+      "end_time": 1414.44
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1414.74,
+      "end_time": 1415.66
+    },
+    {
+      "text": "I mean the good thing about us is, as I say, we've got a really good established mailing list and network.",
+      "speaker_name": "Andy Day",
+      "start_time": 1415.82,
+      "end_time": 1422.84
+    },
+    {
+      "text": "There's both myself in the UK and David Sumi is in San Francisco as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1423.54,
+      "end_time": 1428.492
+    },
+    {
+      "text": "So we cover that entire swathe.",
+      "speaker_name": "Andy Day",
+      "start_time": 1428.516,
+      "end_time": 1430.956
+    },
+    {
+      "text": "I would say probably 95% of our work is US based.",
+      "speaker_name": "Andy Day",
+      "start_time": 1431.068,
+      "end_time": 1433.884
+    },
+    {
+      "text": "So all of our clients pretty much, yeah, buy in the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 1433.972,
+      "end_time": 1437.788
+    },
+    {
+      "text": "And we also work with buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1437.924,
+      "end_time": 1439.244
+    },
+    {
+      "text": "I think that's a big difference with Barneys.",
+      "speaker_name": "Andy Day",
+      "start_time": 1439.292,
+      "end_time": 1441.148
+    },
+    {
+      "text": "They do say that they do buy side stuff, but you know, I think most of their work really is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1441.244,
+      "end_time": 1447.048
+    },
+    {
+      "text": "Is sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 1447.104,
+      "end_time": 1447.928
+    },
+    {
+      "text": "Whereas we are working.",
+      "speaker_name": "Andy Day",
+      "start_time": 1447.984,
+      "end_time": 1448.728
+    },
+    {
+      "text": "I don't like the fact that these guys are just charging monthly fees and they're like an agency almost charging a 5k a month.",
+      "speaker_name": "Fred",
+      "start_time": 1448.784,
+      "end_time": 1453.96
+    },
+    {
+      "text": "It just listed there.",
+      "speaker_name": "Fred",
+      "start_time": 1454,
+      "end_time": 1455.336
+    },
+    {
+      "text": "This is probably how they're making a lot of their money from charging a bunch of people a bunch of money.",
+      "speaker_name": "Fred",
+      "start_time": 1455.488,
+      "end_time": 1459.32
+    },
+    {
+      "text": "And they're just listing them there, right?",
+      "speaker_name": "Fred",
+      "start_time": 1459.36,
+      "end_time": 1461.22
+    },
+    {
+      "text": "Yeah, if they're just listing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1461.84,
+      "end_time": 1463.016
+    },
+    {
+      "text": "I mean, we do run a full process and we do charge our clients to run that process.",
+      "speaker_name": "Andy Day",
+      "start_time": 1463.048,
+      "end_time": 1467.128
+    },
+    {
+      "text": "But we have this free tier where you can list on the site.",
+      "speaker_name": "Andy Day",
+      "start_time": 1467.264,
+      "end_time": 1471.272
+    },
+    {
+      "text": "So really it does depend on whether you have the required materials that we need to list the company or whether you need us to actually do it, in which case we will charge a $5,000 fee to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1471.376,
+      "end_time": 1482.568
+    },
+    {
+      "text": "Creating monthly or one time it's a one off.",
+      "speaker_name": "Andy Day",
+      "start_time": 1482.704,
+      "end_time": 1486.104
+    },
+    {
+      "text": "We do charge, we, we charge 30k just to get it straight.",
+      "speaker_name": "Andy Day",
+      "start_time": 1486.272,
+      "end_time": 1489.272
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1489.336,
+      "end_time": 1489.608
+    },
+    {
+      "text": "So you know the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1489.664,
+      "end_time": 1490.52
+    },
+    {
+      "text": "What Barney, I don't have 30k.",
+      "speaker_name": "Fred",
+      "start_time": 1490.56,
+      "end_time": 1493.46
+    },
+    {
+      "text": "No, no.",
+      "speaker_name": "Andy Day",
+      "start_time": 1493.92,
+      "end_time": 1494.472
+    },
+    {
+      "text": "But what Barneys is doing is totally legitimate.",
+      "speaker_name": "Andy Day",
+      "start_time": 1494.496,
+      "end_time": 1497.08
+    },
+    {
+      "text": "Unless they are not marketing beyond their own mailing list, in which case I.",
+      "speaker_name": "Andy Day",
+      "start_time": 1497.16,
+      "end_time": 1500.504
+    },
+    {
+      "text": "Don' we just got one call.",
+      "speaker_name": "Fred",
+      "start_time": 1500.512,
+      "end_time": 1502.308
+    },
+    {
+      "text": "I paid 17k for one call.",
+      "speaker_name": "Fred",
+      "start_time": 1502.364,
+      "end_time": 1504.18
+    },
+    {
+      "text": "And yeah, that's three, three months of their fees at 5k a month plus one time I paid 2 3,000 for valuation.",
+      "speaker_name": "Fred",
+      "start_time": 1504.22,
+      "end_time": 1512.52
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1513.26,
+      "end_time": 1513.62
+    },
+    {
+      "text": "So, so we charged 5k and that part of that process is to do the valuation and then also to produce all of the marketing materials and do the listing and everything for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1513.66,
+      "end_time": 1524.884
+    },
+    {
+      "text": "If you don't, then everything is manual, basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 1524.892,
+      "end_time": 1527.14
+    },
+    {
+      "text": "So evaluation is obvious.",
+      "speaker_name": "Fred",
+      "start_time": 1527.3,
+      "end_time": 1529.22
+    },
+    {
+      "text": "We know what evaluation ballpark is, honestly.",
+      "speaker_name": "Fred",
+      "start_time": 1529.38,
+      "end_time": 1532.184
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Fred",
+      "start_time": 1532.232,
+      "end_time": 1532.488
+    },
+    {
+      "text": "It's like, well, I mean we haven't.",
+      "speaker_name": "Fred",
+      "start_time": 1532.544,
+      "end_time": 1535.016
+    },
+    {
+      "text": "Looked through your accounts yet.",
+      "speaker_name": "Andy Day",
+      "start_time": 1535.048,
+      "end_time": 1536.68
+    },
+    {
+      "text": "So this is the next bit is we do have to confirm all of the numbers and make sure it's legitimate.",
+      "speaker_name": "Andy Day",
+      "start_time": 1536.72,
+      "end_time": 1542.264
+    },
+    {
+      "text": "Obviously we can't.",
+      "speaker_name": "Andy Day",
+      "start_time": 1542.312,
+      "end_time": 1543.816
+    },
+    {
+      "text": "For our own reputation, we can't.",
+      "speaker_name": "Andy Day",
+      "start_time": 1543.928,
+      "end_time": 1546.184
+    },
+    {
+      "text": "This company's just sort of made up valuations or made up financial figures.",
+      "speaker_name": "Andy Day",
+      "start_time": 1546.312,
+      "end_time": 1551.416
+    },
+    {
+      "text": "So we do have to do a certain amount of check.",
+      "speaker_name": "Andy Day",
+      "start_time": 1551.448,
+      "end_time": 1553.4
+    },
+    {
+      "text": "I'm sure it's all legit, but just, you know, there is a certain amount of work for us to get you onboarded.",
+      "speaker_name": "Andy Day",
+      "start_time": 1553.48,
+      "end_time": 1558.2
+    },
+    {
+      "text": "I'm not crazy.",
+      "speaker_name": "Fred",
+      "start_time": 1558.36,
+      "end_time": 1559.176
+    },
+    {
+      "text": "Just to put a number out there.",
+      "speaker_name": "Fred",
+      "start_time": 1559.208,
+      "end_time": 1560.6
+    },
+    {
+      "text": "All the financials and acquire are actual from QuickBooks, CPA prepared.",
+      "speaker_name": "Fred",
+      "start_time": 1560.72,
+      "end_time": 1565.716
+    },
+    {
+      "text": "I'm not putting anything out there.",
+      "speaker_name": "Fred",
+      "start_time": 1565.748,
+      "end_time": 1567.28
+    },
+    {
+      "text": "How much do you guys charge for your exit fees?",
+      "speaker_name": "Fred",
+      "start_time": 1568.38,
+      "end_time": 1571.56
+    },
+    {
+      "text": "We take 5% of the consideration or we have a minimum fee of $50,000 as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1572.54,
+      "end_time": 1578.644
+    },
+    {
+      "text": "So for instance, if a very small transaction like this was to shrink during the negotiations and that because we do 10% on companies that are smaller than 50 million, 1 million in revenue, if that was to shrink, you know, during the course for whatever reason, you know, if you're going backwards or just the, the value isn't in the business from the offers, then we have like a cutoff point where we, we take the first 50 on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1578.732,
+      "end_time": 1609.154
+    },
+    {
+      "text": "So that is something USD thinking about it is USD.",
+      "speaker_name": "Andy Day",
+      "start_time": 1609.242,
+      "end_time": 1613.234
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1613.282,
+      "end_time": 1613.986
+    },
+    {
+      "text": "So basically if I was to sell 800,000, even 70,000 goes to M and a company plus some other fees involved.",
+      "speaker_name": "Fred",
+      "start_time": 1614.178,
+      "end_time": 1623
+    },
+    {
+      "text": "So I'll be left with.",
+      "speaker_name": "Fred",
+      "start_time": 1623.5,
+      "end_time": 1624.74
+    },
+    {
+      "text": "I have to pay 10% ballpark to my previous employees.",
+      "speaker_name": "Fred",
+      "start_time": 1624.78,
+      "end_time": 1630.628
+    },
+    {
+      "text": "Some sort of a.",
+      "speaker_name": "Fred",
+      "start_time": 1630.724,
+      "end_time": 1631.84
+    },
+    {
+      "text": "What was it called?",
+      "speaker_name": "Fred",
+      "start_time": 1632.54,
+      "end_time": 1633.636
+    },
+    {
+      "text": "Like the.",
+      "speaker_name": "Fred",
+      "start_time": 1633.708,
+      "end_time": 1634.56
+    },
+    {
+      "text": "I gave them stock options.",
+      "speaker_name": "Fred",
+      "start_time": 1636.22,
+      "end_time": 1637.8
+    },
+    {
+      "text": "So I'll be left with 600,000 in my pocket, let's say Canadian, if that was to happen.",
+      "speaker_name": "Fred",
+      "start_time": 1638.94,
+      "end_time": 1644.96
+    },
+    {
+      "text": "I'm trying to figure out I gotta make this decision on my end.",
+      "speaker_name": "Fred",
+      "start_time": 1645.91,
+      "end_time": 1648.99
+    },
+    {
+      "text": "If I'm left with 600000 Canadian, am I better off to keep this and pull 200k year from this, Am I?",
+      "speaker_name": "Fred",
+      "start_time": 1649.03,
+      "end_time": 1656.206
+    },
+    {
+      "text": "But will I be able to if it's in declining or am I to put some fuel to actually sell more?",
+      "speaker_name": "Fred",
+      "start_time": 1656.278,
+      "end_time": 1661.55
+    },
+    {
+      "text": "Because we have like a word discussion.",
+      "speaker_name": "Fred",
+      "start_time": 1661.59,
+      "end_time": 1663.486
+    },
+    {
+      "text": "One of the largest gyms, for example in North America, they have so many locations and they just have an app and they Want to take care of this.",
+      "speaker_name": "Fred",
+      "start_time": 1663.518,
+      "end_time": 1671.268
+    },
+    {
+      "text": "I'm trying to figure out what is right, but also my time.",
+      "speaker_name": "Fred",
+      "start_time": 1671.454,
+      "end_time": 1677.448
+    },
+    {
+      "text": "It's about the terms, I think, Andy, but the right terms.",
+      "speaker_name": "Fred",
+      "start_time": 1677.584,
+      "end_time": 1680.088
+    },
+    {
+      "text": "If they want to keep me around for six months to a year, it gives me freedom to do something else fully with my partner.",
+      "speaker_name": "Fred",
+      "start_time": 1680.144,
+      "end_time": 1687.288
+    },
+    {
+      "text": "Build the AI tool without distraction.",
+      "speaker_name": "Fred",
+      "start_time": 1687.384,
+      "end_time": 1689.82
+    },
+    {
+      "text": "How does that look like?",
+      "speaker_name": "Fred",
+      "start_time": 1690.64,
+      "end_time": 1691.72
+    },
+    {
+      "text": "Or am I able to piggyback on the agency?",
+      "speaker_name": "Fred",
+      "start_time": 1691.76,
+      "end_time": 1693.992
+    },
+    {
+      "text": "Because what I'm to build is an AI case study builder that is used by service companies and agencies so I can do channel partnership with the agency and sell the AI tools.",
+      "speaker_name": "Fred",
+      "start_time": 1694.056,
+      "end_time": 1704.996
+    },
+    {
+      "text": "So helps me out that way.",
+      "speaker_name": "Fred",
+      "start_time": 1705.028,
+      "end_time": 1706.72
+    },
+    {
+      "text": "But the right exit, I think also is a good idea so that I can cash out and do something with it.",
+      "speaker_name": "Fred",
+      "start_time": 1707.9,
+      "end_time": 1713.44
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andy Day",
+      "start_time": 1714.22,
+      "end_time": 1714.884
+    },
+    {
+      "text": "I think you've just got to weigh up what your options are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1714.932,
+      "end_time": 1717.94
+    },
+    {
+      "text": "I mean, I've tried to be as clear as possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 1717.98,
+      "end_time": 1719.428
+    },
+    {
+      "text": "What I didn't want to do is set standard that you're expecting to exit from.",
+      "speaker_name": "Andy Day",
+      "start_time": 1719.484,
+      "end_time": 1725.984
+    },
+    {
+      "text": "We just wouldn't be able to get to something over a million, I don't think.",
+      "speaker_name": "Andy Day",
+      "start_time": 1726.072,
+      "end_time": 1729.968
+    },
+    {
+      "text": "Well, I'm aware of that.",
+      "speaker_name": "Fred",
+      "start_time": 1730.104,
+      "end_time": 1731.344
+    },
+    {
+      "text": "So that leaves room or it's just about leaving room for bargain.",
+      "speaker_name": "Fred",
+      "start_time": 1731.432,
+      "end_time": 1734.992
+    },
+    {
+      "text": "And it's also about the buyer, right, Somebody, some people are good and how does my life look like after that?",
+      "speaker_name": "Fred",
+      "start_time": 1735.056,
+      "end_time": 1740.272
+    },
+    {
+      "text": "If somebody wants to enslave me for two years, hell no.",
+      "speaker_name": "Fred",
+      "start_time": 1740.296,
+      "end_time": 1743.296
+    },
+    {
+      "text": "They always do, to be fair.",
+      "speaker_name": "Andy Day",
+      "start_time": 1743.448,
+      "end_time": 1745.18
+    },
+    {
+      "text": "But at the end of the day, if we've got a really savvy buyer, whether they're passionate about this or not, they're going to do their own maths and they're going to come back with an offer that's based on, on their framework for valuing companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1745.88,
+      "end_time": 1758.168
+    },
+    {
+      "text": "If we buy some.",
+      "speaker_name": "Andy Day",
+      "start_time": 1758.304,
+      "end_time": 1759.576
+    },
+    {
+      "text": "Sorry, if we sell to somebody who's a little bit more.",
+      "speaker_name": "Andy Day",
+      "start_time": 1759.728,
+      "end_time": 1762.18
+    },
+    {
+      "text": "Less savvy, should I say, and is, you know, wanting to, to make an acquisition purely because their business is growing in a certain direction and they want to add this on, then yeah, we can ignite that passion in them and get the best price, you know, and, and leverage other parties being interested in making the acquisition at the same time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1763.52,
+      "end_time": 1787.25
+    },
+    {
+      "text": "So obviously there's that scarcity and people make silly offers in those circumstances.",
+      "speaker_name": "Andy Day",
+      "start_time": 1787.29,
+      "end_time": 1792.898
+    },
+    {
+      "text": "Really the art that we bring to that is being able to create a process and that's why we do charge our clients for it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1792.994,
+      "end_time": 1800.178
+    },
+    {
+      "text": "Create that process that creates that environment so that we get the best offers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1800.314,
+      "end_time": 1804.47
+    },
+    {
+      "text": "If we just been on agencies, what's likely to happen is we're going to get serendipitous buyers coming, you know, kicking the tires, liking the list and liking the sound of it once they get into the financials, then we just really need to capture somebody, like I say, and get them excited.",
+      "speaker_name": "Andy Day",
+      "start_time": 1804.94,
+      "end_time": 1820.84
+    },
+    {
+      "text": "But it's more difficult under those circumstances because we might not get another interested buyer for another couple of months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1821.26,
+      "end_time": 1827.3
+    },
+    {
+      "text": "And, and really what we're trying to do is create like a crescendo effect so that all offers come at the same time and everybody gets excited and they feed off each other.",
+      "speaker_name": "Andy Day",
+      "start_time": 1827.34,
+      "end_time": 1836.332
+    },
+    {
+      "text": "So I think if we could, if we were running that type of process, we may get to the top end.",
+      "speaker_name": "Andy Day",
+      "start_time": 1836.516,
+      "end_time": 1841.932
+    },
+    {
+      "text": "You know, if you're realistic, it sounds like you are being realistic at least at taking a look at offers that are going to be somewhere around 3 1/2 x.",
+      "speaker_name": "Andy Day",
+      "start_time": 1842.116,
+      "end_time": 1849.64
+    },
+    {
+      "text": "And if we can get into your financials and agree that there are discretionary earnings, then yeah, I think it's, it's a goer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1850.26,
+      "end_time": 1857.92
+    },
+    {
+      "text": "We have to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1858.44,
+      "end_time": 1859.488
+    },
+    {
+      "text": "So, yeah, I would also encourage to entertain app development companies because those people don't know marketing and they could probably build in marketing to their services.",
+      "speaker_name": "Fred",
+      "start_time": 1859.544,
+      "end_time": 1870.62
+    },
+    {
+      "text": "Yeah, I mean that would be the obvious stuff, wouldn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1871.48,
+      "end_time": 1874.464
+    },
+    {
+      "text": "To go out to app market app software development companies and be able to just, you know, see if they're looking to bolt in the actual marketing side of things.",
+      "speaker_name": "Andy Day",
+      "start_time": 1874.472,
+      "end_time": 1887.54
+    },
+    {
+      "text": "Yeah, we work with a lot of those guys and they have no idea.",
+      "speaker_name": "Fred",
+      "start_time": 1887.84,
+      "end_time": 1890.824
+    },
+    {
+      "text": "And they don't build in baking marketing because they could easily sell 20, 30% more upfront when they launch an app.",
+      "speaker_name": "Fred",
+      "start_time": 1890.872,
+      "end_time": 1898.408
+    },
+    {
+      "text": "They do a lot of services that we offer up front.",
+      "speaker_name": "Fred",
+      "start_time": 1898.544,
+      "end_time": 1901.336
+    },
+    {
+      "text": "So for them, that's added revenue for things that they don't do.",
+      "speaker_name": "Fred",
+      "start_time": 1901.488,
+      "end_time": 1905.38
+    },
+    {
+      "text": "And to me, I, I barely had luck to deal with these guys because they want to finish a project and move on to the next and reuse the code and, and that's, that's the mindset there.",
+      "speaker_name": "Fred",
+      "start_time": 1905.76,
+      "end_time": 1915.63
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1916.17,
+      "end_time": 1916.91
+    },
+    {
+      "text": "Okay, so, so how does what I, what I've said chime with you?",
+      "speaker_name": "Andy Day",
+      "start_time": 1917.61,
+      "end_time": 1922.77
+    },
+    {
+      "text": "Are you in agreement?",
+      "speaker_name": "Andy Day",
+      "start_time": 1922.89,
+      "end_time": 1923.714
+    },
+    {
+      "text": "Is that sort of thing that you're looking?",
+      "speaker_name": "Andy Day",
+      "start_time": 1923.762,
+      "end_time": 1924.978
+    },
+    {
+      "text": "Yeah, I'm in agreement with you.",
+      "speaker_name": "Fred",
+      "start_time": 1925.034,
+      "end_time": 1926.386
+    },
+    {
+      "text": "I just have to get my head around these upfront fees and the setup and how much of my.",
+      "speaker_name": "Fred",
+      "start_time": 1926.458,
+      "end_time": 1932.562
+    },
+    {
+      "text": "Because this is the third MNA company I'm dealing with right now.",
+      "speaker_name": "Fred",
+      "start_time": 1932.586,
+      "end_time": 1936.53
+    },
+    {
+      "text": "I have everything ready, the data room, all the, all, all those stuff.",
+      "speaker_name": "Fred",
+      "start_time": 1936.65,
+      "end_time": 1940.798
+    },
+    {
+      "text": "If you want an nd, I can share with you the data room that we have and I can bring it up to date.",
+      "speaker_name": "Fred",
+      "start_time": 1940.814,
+      "end_time": 1946.142
+    },
+    {
+      "text": "It just is a folder with Google Drive with everything there.",
+      "speaker_name": "Fred",
+      "start_time": 1946.206,
+      "end_time": 1949.07
+    },
+    {
+      "text": "They're all the financial statements, the Barney valuation.",
+      "speaker_name": "Fred",
+      "start_time": 1949.11,
+      "end_time": 1952.526
+    },
+    {
+      "text": "I've got everything there.",
+      "speaker_name": "Fred",
+      "start_time": 1952.718,
+      "end_time": 1953.966
+    },
+    {
+      "text": "So if that is, that helps everyone because the last thing is for me Just to update this in here and there for a third M and A company.",
+      "speaker_name": "Fred",
+      "start_time": 1954.038,
+      "end_time": 1961.07
+    },
+    {
+      "text": "Well, it's all out of date now, unfortunately, so we would still have to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1961.19,
+      "end_time": 1964.444
+    },
+    {
+      "text": "To do work on it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1964.542,
+      "end_time": 1966.7
+    },
+    {
+      "text": "I think if you've got everything that we need in terms of the sim, the CIM or im, it's sometimes called.",
+      "speaker_name": "Andy Day",
+      "start_time": 1967.56,
+      "end_time": 1972.928
+    },
+    {
+      "text": "If that's something that Barney's created for you and it was editable and you're able to change that, then.",
+      "speaker_name": "Andy Day",
+      "start_time": 1973.064,
+      "end_time": 1978.192
+    },
+    {
+      "text": "Then there is no cost to list with us, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1978.296,
+      "end_time": 1981.18
+    },
+    {
+      "text": "But it's purely.",
+      "speaker_name": "Andy Day",
+      "start_time": 1981.72,
+      "end_time": 1982.82
+    },
+    {
+      "text": "We need it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1983.24,
+      "end_time": 1984.304
+    },
+    {
+      "text": "Okay, let's list with you guys for now as the first step.",
+      "speaker_name": "Fred",
+      "start_time": 1984.472,
+      "end_time": 1987.04
+    },
+    {
+      "text": "Andy, I think less with you guys, and then I'll give you what you guys are looking for.",
+      "speaker_name": "Fred",
+      "start_time": 1987.08,
+      "end_time": 1994.844
+    },
+    {
+      "text": "Just to list with you guys, but then see if that.",
+      "speaker_name": "Fred",
+      "start_time": 1995.012,
+      "end_time": 1997.388
+    },
+    {
+      "text": "That does anything.",
+      "speaker_name": "Fred",
+      "start_time": 1997.444,
+      "end_time": 1998.46
+    },
+    {
+      "text": "Or we need to do some more manual work or get you guys fully hired to take care of the rest.",
+      "speaker_name": "Fred",
+      "start_time": 1998.54,
+      "end_time": 2003.964
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Fred",
+      "start_time": 2004.052,
+      "end_time": 2005.04
+    },
+    {
+      "text": "So we need to.",
+      "speaker_name": "Andy Day",
+      "start_time": 2005.94,
+      "end_time": 2006.668
+    },
+    {
+      "text": "To have the SIM ready.",
+      "speaker_name": "Andy Day",
+      "start_time": 2006.724,
+      "end_time": 2009.164
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Andy Day",
+      "start_time": 2009.212,
+      "end_time": 2009.564
+    },
+    {
+      "text": "So it's either we have it and it's ready, or we have to do that first as a team to make sure that we have all of that correct and ready to go.",
+      "speaker_name": "Andy Day",
+      "start_time": 2009.652,
+      "end_time": 2017.56
+    },
+    {
+      "text": "What we don't have is people just listing on the site to see whether they get a bite or not.",
+      "speaker_name": "Andy Day",
+      "start_time": 2018.02,
+      "end_time": 2023.302
+    },
+    {
+      "text": "This is like, it's a minimum level that we need.",
+      "speaker_name": "Andy Day",
+      "start_time": 2023.486,
+      "end_time": 2027.878
+    },
+    {
+      "text": "We just need to make sure you're up to date.",
+      "speaker_name": "Andy Day",
+      "start_time": 2028.014,
+      "end_time": 2029.766
+    },
+    {
+      "text": "It's not a case of just generating leads for you and handing them over.",
+      "speaker_name": "Andy Day",
+      "start_time": 2029.798,
+      "end_time": 2032.342
+    },
+    {
+      "text": "We're not that type of company, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 2032.366,
+      "end_time": 2034.21
+    },
+    {
+      "text": "I appreciate that.",
+      "speaker_name": "Fred",
+      "start_time": 2034.91,
+      "end_time": 2035.75
+    },
+    {
+      "text": "I don't want that either.",
+      "speaker_name": "Fred",
+      "start_time": 2035.79,
+      "end_time": 2037.158
+    },
+    {
+      "text": "Yeah, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 2037.334,
+      "end_time": 2038.646
+    },
+    {
+      "text": "So what we need to know is you have an up to date Iam with up to date financials that we can look at to make sure we can get to this.",
+      "speaker_name": "Andy Day",
+      "start_time": 2038.718,
+      "end_time": 2044.662
+    },
+    {
+      "text": "We have.",
+      "speaker_name": "Fred",
+      "start_time": 2044.686,
+      "end_time": 2045.268
+    },
+    {
+      "text": "We have everything up to date.",
+      "speaker_name": "Fred",
+      "start_time": 2045.414,
+      "end_time": 2046.776
+    },
+    {
+      "text": "Yeah, so if the sim's up to date, then.",
+      "speaker_name": "Andy Day",
+      "start_time": 2046.888,
+      "end_time": 2049.272
+    },
+    {
+      "text": "Then we can.",
+      "speaker_name": "Andy Day",
+      "start_time": 2049.376,
+      "end_time": 2050.008
+    },
+    {
+      "text": "We can go down that route.",
+      "speaker_name": "Andy Day",
+      "start_time": 2050.064,
+      "end_time": 2051.5
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 2052.4,
+      "end_time": 2053.192
+    },
+    {
+      "text": "So what we can do next is we'll get an engagement letter in place and then a kickoff call booked with my team.",
+      "speaker_name": "Andy Day",
+      "start_time": 2053.256,
+      "end_time": 2059.88
+    },
+    {
+      "text": "And they'll go through the onboarding process, ask a bunch of questions, and then make a bunch of requests for information, and we'll work our way through that and get you on board and get you listed.",
+      "speaker_name": "Andy Day",
+      "start_time": 2059.92,
+      "end_time": 2071.1
+    },
+    {
+      "text": "Okay, Sounds good.",
+      "speaker_name": "Fred",
+      "start_time": 2071.569,
+      "end_time": 2072.441
+    },
+    {
+      "text": "Thank you, Andy.",
+      "speaker_name": "Fred",
+      "start_time": 2072.465,
+      "end_time": 2073.209
+    },
+    {
+      "text": "All right, Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 2073.289,
+      "end_time": 2074.185
+    },
+    {
+      "text": "Okay, thank you, Fred.",
+      "speaker_name": "Andy Day",
+      "start_time": 2074.297,
+      "end_time": 2075.865
+    },
+    {
+      "text": "Enjoy the rest.",
+      "speaker_name": "Andy Day",
+      "start_time": 2075.977,
+      "end_time": 2076.569
+    },
+    {
+      "text": "Have a good one.",
+      "speaker_name": "Fred",
+      "start_time": 2076.609,
+      "end_time": 2077.509
+    },
+    {
+      "text": "The recording.",
+      "speaker_name": "Andy Day",
+      "start_time": 2078.769,
+      "end_time": 2079.369
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Agency valuation",
+      "EBITDA multiples",
+      "M&A advisory",
+      "App marketing",
+      "Seller's Discretionary Earnings",
+      "Strategic buyers"
+    ],
+    "action_items": "\n**Fred S**\nUpdate financial statements and information memorandum (33:04)\nPrepare and share data room with Andy (32:05)\n\n**Andy Day**\nSend engagement letter to Fred (34:07)\nSchedule kickoff call with team for onboarding process (34:07)\nReview updated financials and information memorandum (34:07)\n",
+    "outline": null,
+    "overview": "In the M&A Exploratory Discussion meeting between Fred S and Andy Day, the primary focus was on evaluating Fred's company, App Guardians, which is currently facing revenue challenges yet has managed to maintain profitability through cost reductions. Fred is seeking to sell the company for USD 780,000, despite a previous valuation of CAD 1 million conducted by another advisor. Andy provided insights into the agency valuation landscape, noting that typical valuations range from 2-3x EBITDA, and expressed that Fred’s asking price might be considered high. The conversation also covered the M&A process, with Andy outlining Capitala's advisory fees and next steps, which include Fred updating his financials and drafting an information memorandum, while Andy will send an engagement letter and set up a kickoff call with his team. Both parties agreed to proceed with listing the business with Capitala as a strategic first step in the potential sale.",
+    "short_summary": "In a meeting between Fred S and Andy Day, the main topic was the exploration of selling Fred's company, App Guardians, which has faced a significant revenue decline from 1.8 million CAD to 750,000 CAD, yet remains profitable due to cost reductions. Fred is seeking a sale price of USD 780,000, despite a previous valuation of CAD 1 million by another advisor. Andy provided insights into agency valuations, highlighting that typical valuations range from 2-3 times EBITDA, indicating that Fred’s asking price might be considered high. The discussion also covered the M&A process, where Andy detailed Capitala's advisory fees and the necessary next steps, including updating financials and drafting an information memorandum. Both parties agreed to proceed with listing the business with Capitala as a strategic initial step in the potential sale.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/L3VMpIvCVapv2N58",
+  "audio_url": "https://cdn.fireflies.ai/L3VMpIvCVapv2N58/audio.mp3?Expires=1773225036&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL0wzVk1wSXZDVmFwdjJONTgvYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDM2fX19XX0_&Signature=Sglq9-ZCZlRGqNGKtMeoNojArdd8RgWt~f9yOnUUeLGJnHmLbRXfrmJc6txuHwYUjtwj1~uAIv~wNHvracGJLG5-n3D4xZ0HIocVHm6aaT-E-jn0sB9Au09xGxpt7fNxkeZYd08lvQ0Uvz3OwaQPSD2XJmpnRPYZxGNq03nipZJwiA3xEl3qKDr3HDteeM0M3h0JdM3JcLao7f6gXUP3WNucJvV0pfaksIfcqVJxygcvLCByur5IgE5pWvXJvgWyB6PNHdpWh3~DmhxWPTBJPNaxhNzkKGoXFqp1hU8aPhQKDvrTvcCyVZ3Zu~dTlXyBgd3aD0xIyxWt7vslwLsWLA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

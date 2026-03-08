@@ -1,0 +1,2879 @@
+{
+  "id": "01JPQBF0P65VQNH8TH47GV6HBP",
+  "title": "Alexandra Leung and Andy Day",
+  "date": 1742394600000,
+  "dateString": "2025-03-19T14:30:00.000Z",
+  "duration": 33.849998474121094,
+  "participants": [
+    "kieran@monogic.co,andrew.day@capitala.co,alexandra@monogic.co,andy.day@capitala.co",
+    "kieran@monogic.co",
+    "alexandra@monogic.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "kieran@monogic.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "alexandra@monogic.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hello?",
+      "speaker_name": "Andy Day",
+      "start_time": 0.64,
+      "end_time": 1.22
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Monogic",
+      "start_time": 2.16,
+      "end_time": 4.3
+    },
+    {
+      "text": "Hi, is that Alexandra?",
+      "speaker_name": "Andy Day",
+      "start_time": 6.96,
+      "end_time": 8.62
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 14.24,
+      "end_time": 15.016
+    },
+    {
+      "text": "I can't hear you.",
+      "speaker_name": "Andy Day",
+      "start_time": 15.088,
+      "end_time": 16.024
+    },
+    {
+      "text": "I can't hear you.",
+      "speaker_name": "Andy Day",
+      "start_time": 16.112,
+      "end_time": 17.46
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "Monogic",
+      "start_time": 19.76,
+      "end_time": 20.696
+    },
+    {
+      "text": "I can.",
+      "speaker_name": "Andy Day",
+      "start_time": 20.768,
+      "end_time": 21.54
+    },
+    {
+      "text": "Oh cool.",
+      "speaker_name": "Monogic",
+      "start_time": 21.92,
+      "end_time": 23.1
+    },
+    {
+      "text": "Yeah, this is Alexandra and my partner, also co founder of the agency, Kieran.",
+      "speaker_name": "Monogic",
+      "start_time": 23.52,
+      "end_time": 28.75
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Monogic",
+      "start_time": 28.83,
+      "end_time": 29.422
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Monogic",
+      "start_time": 29.446,
+      "end_time": 30.046
+    },
+    {
+      "text": "Hey Kieran, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 30.158,
+      "end_time": 31.502
+    },
+    {
+      "text": "Yeah, good to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 31.606,
+      "end_time": 32.89
+    },
+    {
+      "text": "So whereabouts are you based?",
+      "speaker_name": "Andy Day",
+      "start_time": 34.87,
+      "end_time": 36.73
+    },
+    {
+      "text": "Hong Kong.",
+      "speaker_name": "Monogic",
+      "start_time": 37.75,
+      "end_time": 38.77
+    },
+    {
+      "text": "Hong Kong, Singapore.",
+      "speaker_name": "Monogic",
+      "start_time": 40.23,
+      "end_time": 41.246
+    },
+    {
+      "text": "We have two offices but our headquarter is in, is in Hong Kong.",
+      "speaker_name": "Monogic",
+      "start_time": 41.278,
+      "end_time": 47.21
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "Andy Day",
+      "start_time": 48.15,
+      "end_time": 48.93
+    },
+    {
+      "text": "I must be late there by now.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.27,
+      "end_time": 51.45
+    },
+    {
+      "text": "Yeah, it's 10, 10 31st.",
+      "speaker_name": "Monogic",
+      "start_time": 51.92,
+      "end_time": 54.34
+    },
+    {
+      "text": "Sorry about that.",
+      "speaker_name": "Andy Day",
+      "start_time": 54.64,
+      "end_time": 55.864
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Monogic",
+      "start_time": 56.032,
+      "end_time": 56.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Monogic",
+      "start_time": 56.92,
+      "end_time": 57.74
+    },
+    {
+      "text": "So well, well, thank you for, for getting in touch.",
+      "speaker_name": "Andy Day",
+      "start_time": 59.2,
+      "end_time": 61.98
+    },
+    {
+      "text": "So these sessions really are just kind of a get to know and if there's, you know, something you want to move forward on then that's great.",
+      "speaker_name": "Andy Day",
+      "start_time": 62.72,
+      "end_time": 71.384
+    },
+    {
+      "text": "I don't know how much you know about Capital A but I'm happy to go first, tell you a little bit about us and then it'd be good to get into what it is that you guys do and let's see if there's a way that we can help you.",
+      "speaker_name": "Andy Day",
+      "start_time": 71.552,
+      "end_time": 84.414
+    },
+    {
+      "text": "So Capital A is a M and A advisory for marketing services companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 84.502,
+      "end_time": 88.894
+    },
+    {
+      "text": "So our clients tend to work on the buy the sell side with our clients who are either marketing agencies themselves and they're just high growth and acquiring other companies or they're selling and they're in the stage where you are where they're looking to find a buyer.",
+      "speaker_name": "Andy Day",
+      "start_time": 88.982,
+      "end_time": 105.374
+    },
+    {
+      "text": "And we work also with private investors and private equity as well, helping them sort of invest in, in businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 105.502,
+      "end_time": 112.86
+    },
+    {
+      "text": "So it does give us insight on both sides of the table which is great.",
+      "speaker_name": "Andy Day",
+      "start_time": 113.36,
+      "end_time": 116.328
+    },
+    {
+      "text": "We're, we're obviously working with buyers and making offers as well as work with sellers and negotiating better terms.",
+      "speaker_name": "Andy Day",
+      "start_time": 116.384,
+      "end_time": 121.672
+    },
+    {
+      "text": "So it's all good.",
+      "speaker_name": "Andy Day",
+      "start_time": 121.776,
+      "end_time": 123.368
+    },
+    {
+      "text": "And we have a platform Agencies co which is a marketplace for buyers and sellers to list their agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 123.424,
+      "end_time": 131.02
+    },
+    {
+      "text": "So what is it about you guys that brings you here today?",
+      "speaker_name": "Andy Day",
+      "start_time": 131.92,
+      "end_time": 135.68
+    },
+    {
+      "text": "Yeah, we actually, yeah, fully transparent.",
+      "speaker_name": "Monogic",
+      "start_time": 138.62,
+      "end_time": 142.564
+    },
+    {
+      "text": "We've been trying to sell our company for the last few months already.",
+      "speaker_name": "Monogic",
+      "start_time": 142.612,
+      "end_time": 148
+    },
+    {
+      "text": "We're working with another M and a firm since five, six months ago but didn't seem to get much traction which, which is quite surprising for us because our company in just a brief introduction company we are, we are Hong Kong's number one leading FMB marketing agency provide end to end digital marketing, pr, social media services and in Hong Kong we don't have any direct competitors.",
+      "speaker_name": "Monogic",
+      "start_time": 148.54,
+      "end_time": 181.136
+    },
+    {
+      "text": "So in the mark in the industry we are also the top three choice.",
+      "speaker_name": "Monogic",
+      "start_time": 181.328,
+      "end_time": 185.776
+    },
+    {
+      "text": "So so far the company has been doing quite well.",
+      "speaker_name": "Monogic",
+      "start_time": 185.968,
+      "end_time": 188.32
+    },
+    {
+      "text": "I think Kiran will send will share some numbers details to you in this call later.",
+      "speaker_name": "Monogic",
+      "start_time": 188.36,
+      "end_time": 195.148
+    },
+    {
+      "text": "But for us, like we said, want to sell the company because of we are both co founders.",
+      "speaker_name": "Monogic",
+      "start_time": 195.204,
+      "end_time": 203.052
+    },
+    {
+      "text": "We are also couple by the way.",
+      "speaker_name": "Monogic",
+      "start_time": 203.116,
+      "end_time": 205.036
+    },
+    {
+      "text": "So we wanted to focus more on the family side.",
+      "speaker_name": "Monogic",
+      "start_time": 205.108,
+      "end_time": 209.884
+    },
+    {
+      "text": "That's why Monogic is one of our businesses.",
+      "speaker_name": "Monogic",
+      "start_time": 210.052,
+      "end_time": 213.84
+    },
+    {
+      "text": "We want to free up our time by selling it and focus on our other businesses and our family instead.",
+      "speaker_name": "Monogic",
+      "start_time": 215.54,
+      "end_time": 221.52
+    },
+    {
+      "text": "Initially, we want the timeline to be a bit faster.",
+      "speaker_name": "Monogic",
+      "start_time": 222.42,
+      "end_time": 225.164
+    },
+    {
+      "text": "So from our understanding it's supposed to be three, six months.",
+      "speaker_name": "Monogic",
+      "start_time": 225.292,
+      "end_time": 229.244
+    },
+    {
+      "text": "But unfortunately after six months we still didn't seem to see result.",
+      "speaker_name": "Monogic",
+      "start_time": 229.332,
+      "end_time": 233.32
+    },
+    {
+      "text": "So we need to look for other solution and actually have something that works for us.",
+      "speaker_name": "Monogic",
+      "start_time": 233.78,
+      "end_time": 240.76
+    },
+    {
+      "text": "Then I was looking online and I happened to see your platform and I think we're definitely looking for a platform that know an agency and marketing agency very well and have the network to find the right buyers for us.",
+      "speaker_name": "Monogic",
+      "start_time": 241.06,
+      "end_time": 256.742
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 256.926,
+      "end_time": 257.686
+    },
+    {
+      "text": "Well, that's exactly what we do.",
+      "speaker_name": "Andy Day",
+      "start_time": 257.718,
+      "end_time": 259.094
+    },
+    {
+      "text": "So let's, let's go through some of your numbers and maybe where the business is at today and maybe we can figure out what the issue has been with the other M and A company too.",
+      "speaker_name": "Andy Day",
+      "start_time": 259.182,
+      "end_time": 270.294
+    },
+    {
+      "text": "So you've got the two offices.",
+      "speaker_name": "Andy Day",
+      "start_time": 270.462,
+      "end_time": 272.806
+    },
+    {
+      "text": "How many people are working for you in those offices or remotely.",
+      "speaker_name": "Andy Day",
+      "start_time": 272.918,
+      "end_time": 277.77
+    },
+    {
+      "text": "In Singapore?",
+      "speaker_name": "Monogic",
+      "start_time": 279.88,
+      "end_time": 281.216
+    },
+    {
+      "text": "We have actually have one person who's kind of like the contact point and sends all the work back to Hong Kong, which is where our major, where our sort of main center of operations is.",
+      "speaker_name": "Monogic",
+      "start_time": 281.248,
+      "end_time": 290.96
+    },
+    {
+      "text": "And then in Hong Kong we have like nine people excluding us.",
+      "speaker_name": "Monogic",
+      "start_time": 291,
+      "end_time": 303.376
+    },
+    {
+      "text": "We also have a couple of like full time contractors as well which are based overseas.",
+      "speaker_name": "Monogic",
+      "start_time": 303.448,
+      "end_time": 308.02
+    },
+    {
+      "text": "Okay, so there's 12 of you all together, plus the full time contractors, plus us two.",
+      "speaker_name": "Andy Day",
+      "start_time": 310.74,
+      "end_time": 320.284
+    },
+    {
+      "text": "I mean, I'm sort of part time, but so maybe plus one and a half for Alex and I.",
+      "speaker_name": "Monogic",
+      "start_time": 320.452,
+      "end_time": 326.252
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 326.436,
+      "end_time": 327.28
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 327.7,
+      "end_time": 328.22
+    },
+    {
+      "text": "And then in terms of the size of the business, what's your current revenue for this year looking like?",
+      "speaker_name": "Andy Day",
+      "start_time": 328.26,
+      "end_time": 334.78
+    },
+    {
+      "text": "It's one.",
+      "speaker_name": "Monogic",
+      "start_time": 335.16,
+      "end_time": 339.66
+    },
+    {
+      "text": "So in 2024 we did one mil, like almost exactly.",
+      "speaker_name": "Monogic",
+      "start_time": 340.6,
+      "end_time": 345.008
+    },
+    {
+      "text": "And then last 12 months that's going up.",
+      "speaker_name": "Monogic",
+      "start_time": 345.184,
+      "end_time": 349.74
+    },
+    {
+      "text": "What, what currency we in there?",
+      "speaker_name": "Andy Day",
+      "start_time": 350.6,
+      "end_time": 352.928
+    },
+    {
+      "text": "Is that dollars?",
+      "speaker_name": "Andy Day",
+      "start_time": 352.984,
+      "end_time": 353.92
+    },
+    {
+      "text": "That's us.",
+      "speaker_name": "Monogic",
+      "start_time": 354,
+      "end_time": 354.528
+    },
+    {
+      "text": "That's us, yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 354.584,
+      "end_time": 356.208
+    },
+    {
+      "text": "And so this year is going up.",
+      "speaker_name": "Andy Day",
+      "start_time": 356.304,
+      "end_time": 358.54
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 358.84,
+      "end_time": 359.62
+    },
+    {
+      "text": "You know what your budget is for the full year?",
+      "speaker_name": "Andy Day",
+      "start_time": 361.2,
+      "end_time": 364.12
+    },
+    {
+      "text": "Sorry, go on.",
+      "speaker_name": "Monogic",
+      "start_time": 364.16,
+      "end_time": 365
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 365.12,
+      "end_time": 365.416
+    },
+    {
+      "text": "Do you know roughly what the budget is for the full year?",
+      "speaker_name": "Andy Day",
+      "start_time": 365.448,
+      "end_time": 367.512
+    },
+    {
+      "text": "What do you think you'll hit by the end of the year?",
+      "speaker_name": "Andy Day",
+      "start_time": 367.536,
+      "end_time": 369.62
+    },
+    {
+      "text": "Like, I mean, we had some other projections which were based on accelerated growth plans and things which based on us having certain other things in place which could be.",
+      "speaker_name": "Monogic",
+      "start_time": 377.12,
+      "end_time": 387.698
+    },
+    {
+      "text": "Which we had initially put at 1.6.",
+      "speaker_name": "Monogic",
+      "start_time": 387.754,
+      "end_time": 389.986
+    },
+    {
+      "text": "But then I think if we don't do that, we Kind of just trying to like, because that's, I guess the difficulty is we're kind of maintaining it as it is because we don't want to like invest in other areas of growth if then the central providers want it or whatever.",
+      "speaker_name": "Monogic",
+      "start_time": 390.058,
+      "end_time": 403.266
+    },
+    {
+      "text": "So we kind of have to keep it the way it is.",
+      "speaker_name": "Monogic",
+      "start_time": 403.378,
+      "end_time": 404.722
+    },
+    {
+      "text": "So if we didn't change anything, maybe 1.1.",
+      "speaker_name": "Monogic",
+      "start_time": 404.746,
+      "end_time": 407.47
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 408.09,
+      "end_time": 409.03
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 409.77,
+      "end_time": 410.21
+    },
+    {
+      "text": "So do you think you've been growing about 10 a year or is it slowing down?",
+      "speaker_name": "Andy Day",
+      "start_time": 410.25,
+      "end_time": 414.13
+    },
+    {
+      "text": "What does it, what does that.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.17,
+      "end_time": 415.78
+    },
+    {
+      "text": "Last year, so 23 to 24 was 20%, 22 to 23 was 56%.",
+      "speaker_name": "Monogic",
+      "start_time": 416.16,
+      "end_time": 422.98
+    },
+    {
+      "text": "And then 21 to 22 was 171%.",
+      "speaker_name": "Monogic",
+      "start_time": 425.92,
+      "end_time": 428.52
+    },
+    {
+      "text": "But that was kind of because we were just starting out.",
+      "speaker_name": "Monogic",
+      "start_time": 428.56,
+      "end_time": 431.128
+    },
+    {
+      "text": "Yeah, zero to thousand.",
+      "speaker_name": "Andy Day",
+      "start_time": 431.264,
+      "end_time": 434.18
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 435.12,
+      "end_time": 436.12
+    },
+    {
+      "text": "So do you know the margins at all for 24?",
+      "speaker_name": "Andy Day",
+      "start_time": 436.2,
+      "end_time": 439.233
+    },
+    {
+      "text": "25.",
+      "speaker_name": "Andy Day",
+      "start_time": 439.362,
+      "end_time": 439.94
+    },
+    {
+      "text": "Margin is around 20.",
+      "speaker_name": "Monogic",
+      "start_time": 443.61,
+      "end_time": 446.59
+    },
+    {
+      "text": "So 2024 is 21% and then as it stands now around 29%.",
+      "speaker_name": "Monogic",
+      "start_time": 447.29,
+      "end_time": 452.75
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 455.61,
+      "end_time": 456.79
+    },
+    {
+      "text": "This is based on like adjusted numbers by the way, just to kind of reflect like a post transaction operation.",
+      "speaker_name": "Monogic",
+      "start_time": 458.49,
+      "end_time": 464.95
+    },
+    {
+      "text": "Okay, we'll get into those.",
+      "speaker_name": "Andy Day",
+      "start_time": 466.34,
+      "end_time": 468.012
+    },
+    {
+      "text": "But let's just say these are the numbers for now.",
+      "speaker_name": "Andy Day",
+      "start_time": 468.036,
+      "end_time": 470.7
+    },
+    {
+      "text": "But that's something that we would take a look at.",
+      "speaker_name": "Andy Day",
+      "start_time": 470.74,
+      "end_time": 473.16
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 474.02,
+      "end_time": 474.764
+    },
+    {
+      "text": "So about 210k and then what is it that you guys want?",
+      "speaker_name": "Andy Day",
+      "start_time": 474.812,
+      "end_time": 478.124
+    },
+    {
+      "text": "So you've said, do you want to focus on family life?",
+      "speaker_name": "Andy Day",
+      "start_time": 478.212,
+      "end_time": 481.004
+    },
+    {
+      "text": "Are you looking to stay in the business at all for any length of time or are you just looking to hand the business over to somebody else and move on?",
+      "speaker_name": "Andy Day",
+      "start_time": 481.172,
+      "end_time": 487.88
+    },
+    {
+      "text": "We don't mind to stay at all.",
+      "speaker_name": "Monogic",
+      "start_time": 488.34,
+      "end_time": 490.332
+    },
+    {
+      "text": "If someone acquired a business and want us to stay and work, that's totally fine.",
+      "speaker_name": "Monogic",
+      "start_time": 490.516,
+      "end_time": 495.11
+    },
+    {
+      "text": "I think simply it's just we don't want the, to be the full time two co owners of the business at the moment because we want to spare some time for personal, personal like family stuff.",
+      "speaker_name": "Monogic",
+      "start_time": 495.22,
+      "end_time": 507.426
+    },
+    {
+      "text": "But we're happy to work.",
+      "speaker_name": "Monogic",
+      "start_time": 507.458,
+      "end_time": 508.91
+    },
+    {
+      "text": "We're happy to work and if the buyer want us to stay more than happy, if they want to take over, that's also fine.",
+      "speaker_name": "Monogic",
+      "start_time": 510.25,
+      "end_time": 517.99
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 522.819,
+      "end_time": 523.559
+    },
+    {
+      "text": "Okay, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 524.019,
+      "end_time": 524.827
+    },
+    {
+      "text": "So you have another business that you're looking to focus on and move on to or.",
+      "speaker_name": "Andy Day",
+      "start_time": 524.883,
+      "end_time": 529.159
+    },
+    {
+      "text": "Yeah, I mean, so that's kind of the major reason why I'm sort of part time at the moment is because I'm pretty much.",
+      "speaker_name": "Monogic",
+      "start_time": 530.739,
+      "end_time": 536.679
+    },
+    {
+      "text": "Well I, I am dedicating quite a bit of time to the other venture which is actually kind of some somewhat synergistic anyway.",
+      "speaker_name": "Monogic",
+      "start_time": 536.979,
+      "end_time": 543.915
+    },
+    {
+      "text": "But yeah, but in any case a different, a completely separate operation.",
+      "speaker_name": "Monogic",
+      "start_time": 543.947,
+      "end_time": 548.635
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 548.827,
+      "end_time": 552.32
+    },
+    {
+      "text": "And what's your normal role in the business?",
+      "speaker_name": "Andy Day",
+      "start_time": 553.46,
+      "end_time": 556.76
+    },
+    {
+      "text": "Yeah, for my role I'm Currently the managing director.",
+      "speaker_name": "Monogic",
+      "start_time": 558.98,
+      "end_time": 563.32
+    },
+    {
+      "text": "Actually my team, we have an account manager that actually oversees a whole team operations already they are fully independent.",
+      "speaker_name": "Monogic",
+      "start_time": 563.86,
+      "end_time": 572.508
+    },
+    {
+      "text": "I mainly the person that doing qc, overseeing some work partnerships, like doing different, you know, because we are FNB restaurant focus.",
+      "speaker_name": "Monogic",
+      "start_time": 572.684,
+      "end_time": 582.926
+    },
+    {
+      "text": "We do like partnerships quite a lot.",
+      "speaker_name": "Monogic",
+      "start_time": 582.998,
+      "end_time": 584.878
+    },
+    {
+      "text": "So I would be the one doing that.",
+      "speaker_name": "Monogic",
+      "start_time": 584.934,
+      "end_time": 587.21
+    },
+    {
+      "text": "And yeah, so mainly my work is to oversee everything and work very closely with my account manager to.",
+      "speaker_name": "Monogic",
+      "start_time": 587.99,
+      "end_time": 595.438
+    },
+    {
+      "text": "To.",
+      "speaker_name": "Monogic",
+      "start_time": 595.574,
+      "end_time": 595.966
+    },
+    {
+      "text": "For the team operation and for your side.",
+      "speaker_name": "Monogic",
+      "start_time": 596.038,
+      "end_time": 598.574
+    },
+    {
+      "text": "Wanna elaborate?",
+      "speaker_name": "Monogic",
+      "start_time": 598.662,
+      "end_time": 599.89
+    },
+    {
+      "text": "Yeah, I mean primarily paperwork.",
+      "speaker_name": "Monogic",
+      "start_time": 600.39,
+      "end_time": 604.52
+    },
+    {
+      "text": "So I, I basically do like the HR and the technical and what else do I do?",
+      "speaker_name": "Monogic",
+      "start_time": 605.1,
+      "end_time": 614.26
+    },
+    {
+      "text": "Yeah, so like you know, needing to, I don't know, just bits and pieces basically.",
+      "speaker_name": "Monogic",
+      "start_time": 614.38,
+      "end_time": 618.76
+    },
+    {
+      "text": "Mainly back office.",
+      "speaker_name": "Monogic",
+      "start_time": 620.14,
+      "end_time": 621.3
+    },
+    {
+      "text": "Back office.",
+      "speaker_name": "Monogic",
+      "start_time": 621.42,
+      "end_time": 622.32
+    },
+    {
+      "text": "More of the support to Alexandra's CEO role.",
+      "speaker_name": "Andy Day",
+      "start_time": 623.34,
+      "end_time": 627.52
+    },
+    {
+      "text": "I would say that's pretty accurate.",
+      "speaker_name": "Monogic",
+      "start_time": 628.31,
+      "end_time": 630.93
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 631.75,
+      "end_time": 632.302
+    },
+    {
+      "text": "She's the boss.",
+      "speaker_name": "Monogic",
+      "start_time": 632.366,
+      "end_time": 633.33
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 634.23,
+      "end_time": 635.054
+    },
+    {
+      "text": "So Alexandra, really you're sort of the linchpin of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 635.102,
+      "end_time": 639.582
+    },
+    {
+      "text": "If Kieran was to leave and focus on the new business, would you be able to replace some of those services that he supplies or.",
+      "speaker_name": "Andy Day",
+      "start_time": 639.766,
+      "end_time": 650.33
+    },
+    {
+      "text": "Because I'm just thinking about where this could go in the future.",
+      "speaker_name": "Andy Day",
+      "start_time": 651.51,
+      "end_time": 654.73
+    },
+    {
+      "text": "You know, if the buyers came in and they wanted to keep you because you're an integral piece to the clients, the relationships, maybe the creativity and the business and the know how, then maybe Kieran could step away and continue with his new work and you just found support either within the new business or you hired somebody new.",
+      "speaker_name": "Andy Day",
+      "start_time": 655.17,
+      "end_time": 676.71
+    },
+    {
+      "text": "Yeah, I think for Kieran's side we can, we can have someone who handle back office.",
+      "speaker_name": "Monogic",
+      "start_time": 677.41,
+      "end_time": 683.99
+    },
+    {
+      "text": "We can outsource to, you know, our back office service or look for full time, you know, office manager to handle like all the pay per roll, you know, insurance or all this work.",
+      "speaker_name": "Monogic",
+      "start_time": 684.37,
+      "end_time": 695.89
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 696.83,
+      "end_time": 697.206
+    },
+    {
+      "text": "For me I'm.",
+      "speaker_name": "Monogic",
+      "start_time": 697.238,
+      "end_time": 698.118
+    },
+    {
+      "text": "I'm open to, to stay.",
+      "speaker_name": "Monogic",
+      "start_time": 698.214,
+      "end_time": 699.862
+    },
+    {
+      "text": "And if, if I have to look for a replacement one day, my account manager is.",
+      "speaker_name": "Monogic",
+      "start_time": 699.966,
+      "end_time": 705.59
+    },
+    {
+      "text": "She's quite ready to, you know, take over a more senior role anyway.",
+      "speaker_name": "Monogic",
+      "start_time": 705.71,
+      "end_time": 709.366
+    },
+    {
+      "text": "But if not, I'm happy to work closely with her together because without me, she will still be working and running the whole team.",
+      "speaker_name": "Monogic",
+      "start_time": 709.478,
+      "end_time": 717.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 717.73,
+      "end_time": 718.59
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 720.13,
+      "end_time": 720.65
+    },
+    {
+      "text": "So potentially you can stay in the business for a while, but you're basically both looking to get out of the business at some point to focus on the new business together.",
+      "speaker_name": "Andy Day",
+      "start_time": 720.69,
+      "end_time": 731.19
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 732.05,
+      "end_time": 733.034
+    },
+    {
+      "text": "Yeah, I'd say that's about right.",
+      "speaker_name": "Monogic",
+      "start_time": 733.202,
+      "end_time": 735.11
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 736.77,
+      "end_time": 737.098
+    },
+    {
+      "text": "But I would say mainly for Kiran's side, I.",
+      "speaker_name": "Monogic",
+      "start_time": 737.114,
+      "end_time": 740.376
+    },
+    {
+      "text": "I'm flexible as, as in if he.",
+      "speaker_name": "Monogic",
+      "start_time": 740.538,
+      "end_time": 743.148
+    },
+    {
+      "text": "If they like, honestly speaking, if they pay me a salary to stay, I don't mind.",
+      "speaker_name": "Monogic",
+      "start_time": 743.204,
+      "end_time": 746.508
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Monogic",
+      "start_time": 746.644,
+      "end_time": 747.42
+    },
+    {
+      "text": "I don't mind to keep doing it.",
+      "speaker_name": "Monogic",
+      "start_time": 747.58,
+      "end_time": 749.036
+    },
+    {
+      "text": "It's not the.",
+      "speaker_name": "Monogic",
+      "start_time": 749.108,
+      "end_time": 749.66
+    },
+    {
+      "text": "It's not the work itself makes me don't want to stay.",
+      "speaker_name": "Monogic",
+      "start_time": 749.7,
+      "end_time": 752.348
+    },
+    {
+      "text": "It's the.",
+      "speaker_name": "Monogic",
+      "start_time": 752.404,
+      "end_time": 753.24
+    },
+    {
+      "text": "Yeah, it's mainly the.",
+      "speaker_name": "Monogic",
+      "start_time": 753.54,
+      "end_time": 755.1
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Monogic",
+      "start_time": 755.22,
+      "end_time": 755.548
+    },
+    {
+      "text": "So we basically bootstrap the business since we're 23 years old.",
+      "speaker_name": "Monogic",
+      "start_time": 755.604,
+      "end_time": 758.892
+    },
+    {
+      "text": "So it's more like we kind of want some cash out basically.",
+      "speaker_name": "Monogic",
+      "start_time": 758.996,
+      "end_time": 762.652
+    },
+    {
+      "text": "Yeah, but the work itself, I have no, no issue.",
+      "speaker_name": "Monogic",
+      "start_time": 762.716,
+      "end_time": 765.4
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 766.03,
+      "end_time": 766.502
+    },
+    {
+      "text": "And then you said that in terms of the market you're number one in Hong Kong but there are others, other competitors I guess further afield.",
+      "speaker_name": "Andy Day",
+      "start_time": 766.526,
+      "end_time": 775.814
+    },
+    {
+      "text": "Where is the market that you're competing in?",
+      "speaker_name": "Andy Day",
+      "start_time": 775.942,
+      "end_time": 778.726
+    },
+    {
+      "text": "Is it just Hong Kong or is it international work that you're doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 778.798,
+      "end_time": 782.61
+    },
+    {
+      "text": "We mainly focus on Hong Kong and Singapore business.",
+      "speaker_name": "Monogic",
+      "start_time": 784.03,
+      "end_time": 787.638
+    },
+    {
+      "text": "But we have client that's doing international.",
+      "speaker_name": "Monogic",
+      "start_time": 787.774,
+      "end_time": 790.93
+    },
+    {
+      "text": "We have international brands such as Shake Shack for example.",
+      "speaker_name": "Monogic",
+      "start_time": 791.23,
+      "end_time": 795.53
+    },
+    {
+      "text": "So for, for Hong Kong we are, we are the one of the top leaders in the industry, FNB industry particularly and, and some hotels as well.",
+      "speaker_name": "Monogic",
+      "start_time": 796.26,
+      "end_time": 808.14
+    },
+    {
+      "text": "For Singapore we are rather new.",
+      "speaker_name": "Monogic",
+      "start_time": 808.26,
+      "end_time": 809.948
+    },
+    {
+      "text": "We started almost over a year ago.",
+      "speaker_name": "Monogic",
+      "start_time": 810.004,
+      "end_time": 812.6
+    },
+    {
+      "text": "We are still just entering the market as like as we only have one person in the office.",
+      "speaker_name": "Monogic",
+      "start_time": 813.22,
+      "end_time": 819.24
+    },
+    {
+      "text": "We, we are not as strong in Singapore since like we are quite.",
+      "speaker_name": "Monogic",
+      "start_time": 819.78,
+      "end_time": 824.264
+    },
+    {
+      "text": "Since we're quite new.",
+      "speaker_name": "Monogic",
+      "start_time": 824.332,
+      "end_time": 825.584
+    },
+    {
+      "text": "And I think secondly another.",
+      "speaker_name": "Monogic",
+      "start_time": 825.752,
+      "end_time": 827.552
+    },
+    {
+      "text": "This is also one of the reason we want to sell is we think Singapore can definitely grow.",
+      "speaker_name": "Monogic",
+      "start_time": 827.656,
+      "end_time": 831.92
+    },
+    {
+      "text": "But as two bootstrap founders like we cannot really push too much resource to Singapore while Hong Kong is still growing.",
+      "speaker_name": "Monogic",
+      "start_time": 832.04,
+      "end_time": 839.568
+    },
+    {
+      "text": "So that's also partially the reason.",
+      "speaker_name": "Monogic",
+      "start_time": 839.744,
+      "end_time": 842.144
+    },
+    {
+      "text": "But I would say in general for Hong Kong if, if someone in FMB try to look for an agency, we are definitely the top three choice already.",
+      "speaker_name": "Monogic",
+      "start_time": 842.312,
+      "end_time": 850.7
+    },
+    {
+      "text": "Why are you in Singapore at all?",
+      "speaker_name": "Andy Day",
+      "start_time": 851.38,
+      "end_time": 853.468
+    },
+    {
+      "text": "Why would you need to be there considering you know, it's very small for you and, and stressful.",
+      "speaker_name": "Andy Day",
+      "start_time": 853.524,
+      "end_time": 859.324
+    },
+    {
+      "text": "Maybe Hong Kong Hong Kong.",
+      "speaker_name": "Monogic",
+      "start_time": 859.452,
+      "end_time": 862.556
+    },
+    {
+      "text": "It has been really great in terms of our Hong Kong operation.",
+      "speaker_name": "Monogic",
+      "start_time": 862.588,
+      "end_time": 865.74
+    },
+    {
+      "text": "We've been growing the last five years, expanding a lot.",
+      "speaker_name": "Monogic",
+      "start_time": 865.82,
+      "end_time": 870.04
+    },
+    {
+      "text": "We're with over 100 FNB brands already.",
+      "speaker_name": "Monogic",
+      "start_time": 870.58,
+      "end_time": 873.32
+    },
+    {
+      "text": "So we think like if we back then when we think about oh if we want to expand and put our, you know, profit and in somewhere where would it be?",
+      "speaker_name": "Monogic",
+      "start_time": 873.78,
+      "end_time": 883.398
+    },
+    {
+      "text": "Singapore would be the closest choice because the culture wise market wise is the closest to Hong Kong market.",
+      "speaker_name": "Monogic",
+      "start_time": 883.534,
+      "end_time": 890.53
+    },
+    {
+      "text": "And actually recently more and more Hong Kong brands are considering opening in Southeast Asia because we have Hong Kong having some government scheme to support Hong Kong business opening overseas.",
+      "speaker_name": "Monogic",
+      "start_time": 891.31,
+      "end_time": 904.598
+    },
+    {
+      "text": "So we've been taking some Hong Kong clients but taking their Singapore launch and operation.",
+      "speaker_name": "Monogic",
+      "start_time": 904.694,
+      "end_time": 910.402
+    },
+    {
+      "text": "So that's how we see all their synergies and, and I and then I think we can benefit from this government schemes and with restaurants we know in Hong Kong as well, they tend to have some close relationship to Singapore.",
+      "speaker_name": "Monogic",
+      "start_time": 910.546,
+      "end_time": 924.898
+    },
+    {
+      "text": "So that's how we decided to move, move on.",
+      "speaker_name": "Monogic",
+      "start_time": 924.994,
+      "end_time": 927.938
+    },
+    {
+      "text": "We still think Singapore have a great, have a great potential.",
+      "speaker_name": "Monogic",
+      "start_time": 928.074,
+      "end_time": 932.69
+    },
+    {
+      "text": "We, although we only have one team member, we, we are still, we are profiting.",
+      "speaker_name": "Monogic",
+      "start_time": 932.85,
+      "end_time": 938.888
+    },
+    {
+      "text": "We get, we get some really decent accounts.",
+      "speaker_name": "Monogic",
+      "start_time": 938.984,
+      "end_time": 942.424
+    },
+    {
+      "text": "It's just a matter of do we want to spend more resource to hire one or two more full time?",
+      "speaker_name": "Monogic",
+      "start_time": 942.552,
+      "end_time": 948.904
+    },
+    {
+      "text": "Because if we have maybe three full time operating in Singapore, I think we would do a lot better.",
+      "speaker_name": "Monogic",
+      "start_time": 948.992,
+      "end_time": 955.864
+    },
+    {
+      "text": "But it's kind of a chicken and egg situation.",
+      "speaker_name": "Monogic",
+      "start_time": 955.952,
+      "end_time": 958.728
+    },
+    {
+      "text": "And Hong Kong constantly, because it's also still growing.",
+      "speaker_name": "Monogic",
+      "start_time": 958.824,
+      "end_time": 961.96
+    },
+    {
+      "text": "We also need resource there.",
+      "speaker_name": "Monogic",
+      "start_time": 962.04,
+      "end_time": 963.952
+    },
+    {
+      "text": "So I wouldn't say Singapore is a painful market.",
+      "speaker_name": "Monogic",
+      "start_time": 964.136,
+      "end_time": 967.216
+    },
+    {
+      "text": "Like that's super small.",
+      "speaker_name": "Monogic",
+      "start_time": 967.288,
+      "end_time": 968.416
+    },
+    {
+      "text": "I just think we don't have enough resource to grow it at the moment.",
+      "speaker_name": "Monogic",
+      "start_time": 968.488,
+      "end_time": 971.696
+    },
+    {
+      "text": "It could potentially double the entire size of the business is the reason why we did it.",
+      "speaker_name": "Monogic",
+      "start_time": 971.888,
+      "end_time": 976.784
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 976.952,
+      "end_time": 977.66
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 978.04,
+      "end_time": 978.816
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 978.928,
+      "end_time": 979.2
+    },
+    {
+      "text": "So growth's been pretty slow and this is a way of accelerating it.",
+      "speaker_name": "Andy Day",
+      "start_time": 979.24,
+      "end_time": 984.16
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "Andy Day",
+      "start_time": 984.28,
+      "end_time": 984.624
+    },
+    {
+      "text": "That's the thought process.",
+      "speaker_name": "Andy Day",
+      "start_time": 984.672,
+      "end_time": 985.98
+    },
+    {
+      "text": "Yeah, yeah, pretty much.",
+      "speaker_name": "Monogic",
+      "start_time": 987,
+      "end_time": 989.09
+    },
+    {
+      "text": "I mean, not that.",
+      "speaker_name": "Monogic",
+      "start_time": 989.13,
+      "end_time": 990.178
+    },
+    {
+      "text": "Yeah, I mean we're still growing in Hong Kong as well.",
+      "speaker_name": "Monogic",
+      "start_time": 990.234,
+      "end_time": 993.15
+    },
+    {
+      "text": "It's just.",
+      "speaker_name": "Monogic",
+      "start_time": 993.61,
+      "end_time": 994.306
+    },
+    {
+      "text": "Yeah, it's just a way.",
+      "speaker_name": "Monogic",
+      "start_time": 994.378,
+      "end_time": 995.71
+    },
+    {
+      "text": "It seems like you guys are quite, quite new still.",
+      "speaker_name": "Andy Day",
+      "start_time": 996.09,
+      "end_time": 998.61
+    },
+    {
+      "text": "So, I mean, your growth's been pretty good to be fair.",
+      "speaker_name": "Andy Day",
+      "start_time": 998.73,
+      "end_time": 1001.39
+    },
+    {
+      "text": "You know, you could double down just on the Hong Kong market and grow it there and it would be maybe better margins going forward, but anyway.",
+      "speaker_name": "Andy Day",
+      "start_time": 1002.57,
+      "end_time": 1011.554
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1011.602,
+      "end_time": 1012.338
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1012.434,
+      "end_time": 1012.802
+    },
+    {
+      "text": "And then in terms of like the services that you do offer, so you've got digital, loads of digital marketing, load of social stuff and some PR comms.",
+      "speaker_name": "Andy Day",
+      "start_time": 1012.826,
+      "end_time": 1022.094
+    },
+    {
+      "text": "Influencer, what would you say is the core services that you are doing for the majority of your clients?",
+      "speaker_name": "Andy Day",
+      "start_time": 1022.142,
+      "end_time": 1028.11
+    },
+    {
+      "text": "You know, if you could give me a breakdown percentage wise, just rough numbers really, in terms of the services that you're offering?",
+      "speaker_name": "Andy Day",
+      "start_time": 1028.19,
+      "end_time": 1036.05
+    },
+    {
+      "text": "I mean, the major ones would definitely be PR and social.",
+      "speaker_name": "Monogic",
+      "start_time": 1038.47,
+      "end_time": 1041.486
+    },
+    {
+      "text": "Those are the kind of ones that anchor us into retainers and key, keep us keep, allow us to kind of keep clients long term.",
+      "speaker_name": "Monogic",
+      "start_time": 1041.558,
+      "end_time": 1048.24
+    },
+    {
+      "text": "And then everything else is kind of appendage to that.",
+      "speaker_name": "Monogic",
+      "start_time": 1048.62,
+      "end_time": 1050.9
+    },
+    {
+      "text": "So for example, you need content if you do social, usually do kol with social or pr.",
+      "speaker_name": "Monogic",
+      "start_time": 1050.94,
+      "end_time": 1057.2
+    },
+    {
+      "text": "And then we have quite a few projects that have everything.",
+      "speaker_name": "Monogic",
+      "start_time": 1058.38,
+      "end_time": 1061.6
+    },
+    {
+      "text": "If I was to split off them, man, I'm not sure.",
+      "speaker_name": "Monogic",
+      "start_time": 1062.78,
+      "end_time": 1069.92
+    },
+    {
+      "text": "I'm not sure exactly like a split.",
+      "speaker_name": "Monogic",
+      "start_time": 1071.29,
+      "end_time": 1073.666
+    },
+    {
+      "text": "What do you think?",
+      "speaker_name": "Monogic",
+      "start_time": 1073.698,
+      "end_time": 1074.37
+    },
+    {
+      "text": "Like a few.",
+      "speaker_name": "Monogic",
+      "start_time": 1074.49,
+      "end_time": 1075.47
+    },
+    {
+      "text": "How much of the work do we do is social versus PR versus I feel like we have it somewhere.",
+      "speaker_name": "Monogic",
+      "start_time": 1076.41,
+      "end_time": 1082.21
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Monogic",
+      "start_time": 1082.37,
+      "end_time": 1083.07
+    },
+    {
+      "text": "I think we have a summary.",
+      "speaker_name": "Monogic",
+      "start_time": 1085.21,
+      "end_time": 1086.578
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 1086.674,
+      "end_time": 1086.946
+    },
+    {
+      "text": "Here A very rough, very roughly rough.",
+      "speaker_name": "Monogic",
+      "start_time": 1086.978,
+      "end_time": 1095.666
+    },
+    {
+      "text": "Numbers is fine at this Stage very rough.",
+      "speaker_name": "Andy Day",
+      "start_time": 1095.698,
+      "end_time": 1098.22
+    },
+    {
+      "text": "Social media and content creation management will be 45.",
+      "speaker_name": "Monogic",
+      "start_time": 1098.3,
+      "end_time": 1102.3
+    },
+    {
+      "text": "So social media focus, PR would be roughly 40% and the rest like around 15%.",
+      "speaker_name": "Monogic",
+      "start_time": 1102.42,
+      "end_time": 1111.436
+    },
+    {
+      "text": "We do digital marketing, advertising optimization, paid ad, and also like setting up collaborations and, you know, activations and things.",
+      "speaker_name": "Monogic",
+      "start_time": 1111.508,
+      "end_time": 1124.58
+    },
+    {
+      "text": "Yeah, but those are just like case by case, like come and go.",
+      "speaker_name": "Monogic",
+      "start_time": 1124.88,
+      "end_time": 1129.608
+    },
+    {
+      "text": "But mainly most of our clients are retainers, so we work on, say, like sometime we just do social media only.",
+      "speaker_name": "Monogic",
+      "start_time": 1129.664,
+      "end_time": 1138.488
+    },
+    {
+      "text": "Sometimes we do PR only.",
+      "speaker_name": "Monogic",
+      "start_time": 1138.544,
+      "end_time": 1140.024
+    },
+    {
+      "text": "And there's a group of client.",
+      "speaker_name": "Monogic",
+      "start_time": 1140.112,
+      "end_time": 1141.544
+    },
+    {
+      "text": "We do end to end social media, pr, digital, everything.",
+      "speaker_name": "Monogic",
+      "start_time": 1141.592,
+      "end_time": 1145.62
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1146.16,
+      "end_time": 1147.128
+    },
+    {
+      "text": "Mostly the connection to Xiahongshu.",
+      "speaker_name": "Andy Day",
+      "start_time": 1147.304,
+      "end_time": 1150.45
+    },
+    {
+      "text": "What, what's that part?",
+      "speaker_name": "Andy Day",
+      "start_time": 1150.61,
+      "end_time": 1151.97
+    },
+    {
+      "text": "The services.",
+      "speaker_name": "Andy Day",
+      "start_time": 1152.09,
+      "end_time": 1152.99
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 1153.93,
+      "end_time": 1154.69
+    },
+    {
+      "text": "So Xiao is a.",
+      "speaker_name": "Monogic",
+      "start_time": 1154.85,
+      "end_time": 1156.37
+    },
+    {
+      "text": "A really big social media platform in China and Hong Kong at the moment and also actually rising in Singapore.",
+      "speaker_name": "Monogic",
+      "start_time": 1156.49,
+      "end_time": 1163.75
+    },
+    {
+      "text": "It ca.",
+      "speaker_name": "Monogic",
+      "start_time": 1164.09,
+      "end_time": 1164.77
+    },
+    {
+      "text": "It counts in part of our social media management part.",
+      "speaker_name": "Monogic",
+      "start_time": 1164.81,
+      "end_time": 1167.698
+    },
+    {
+      "text": "So social media side, we do Instagram, Facebook, Shu and Tik Tok.",
+      "speaker_name": "Monogic",
+      "start_time": 1167.754,
+      "end_time": 1171.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1172.01,
+      "end_time": 1172.658
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1172.754,
+      "end_time": 1173.042
+    },
+    {
+      "text": "So that's just like a look.",
+      "speaker_name": "Andy Day",
+      "start_time": 1173.066,
+      "end_time": 1174.018
+    },
+    {
+      "text": "It's not the red one, is it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1174.074,
+      "end_time": 1175.522
+    },
+    {
+      "text": "Whatever that one's called.",
+      "speaker_name": "Andy Day",
+      "start_time": 1175.546,
+      "end_time": 1176.242
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 1176.266,
+      "end_time": 1176.658
+    },
+    {
+      "text": "It's the right one.",
+      "speaker_name": "Monogic",
+      "start_time": 1176.674,
+      "end_time": 1177.426
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Monogic",
+      "start_time": 1177.498,
+      "end_time": 1177.906
+    },
+    {
+      "text": "It's the right one.",
+      "speaker_name": "Monogic",
+      "start_time": 1177.938,
+      "end_time": 1178.562
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1178.586,
+      "end_time": 1179.394
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1179.522,
+      "end_time": 1179.922
+    },
+    {
+      "text": "So that's the hot one at the moment, or it was.",
+      "speaker_name": "Andy Day",
+      "start_time": 1179.946,
+      "end_time": 1182.242
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 1182.266,
+      "end_time": 1182.658
+    },
+    {
+      "text": "Weeks.",
+      "speaker_name": "Andy Day",
+      "start_time": 1182.754,
+      "end_time": 1183.202
+    },
+    {
+      "text": "But it's massive in China.",
+      "speaker_name": "Andy Day",
+      "start_time": 1183.306,
+      "end_time": 1184.498
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1184.554,
+      "end_time": 1184.914
+    },
+    {
+      "text": "So, yeah, it's.",
+      "speaker_name": "Monogic",
+      "start_time": 1185.002,
+      "end_time": 1187.826
+    },
+    {
+      "text": "It's an emerge.",
+      "speaker_name": "Monogic",
+      "start_time": 1187.858,
+      "end_time": 1188.706
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Monogic",
+      "start_time": 1188.738,
+      "end_time": 1188.946
+    },
+    {
+      "text": "Well, it's arguably one of the top new platforms in Hong Kong and Singapore and most of Asia, to be honest.",
+      "speaker_name": "Monogic",
+      "start_time": 1188.978,
+      "end_time": 1197.522
+    },
+    {
+      "text": "I would say start getting to English market as well since the tech talks issue.",
+      "speaker_name": "Monogic",
+      "start_time": 1197.586,
+      "end_time": 1201.714
+    },
+    {
+      "text": "Yeah, yeah, no, it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1201.802,
+      "end_time": 1202.834
+    },
+    {
+      "text": "I think I've downloaded it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1202.882,
+      "end_time": 1203.97
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1204.01,
+      "end_time": 1204.738
+    },
+    {
+      "text": "But it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1204.834,
+      "end_time": 1205.234
+    },
+    {
+      "text": "It's big in beauty as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1205.282,
+      "end_time": 1206.242
+    },
+    {
+      "text": "It has been proved for years, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1206.266,
+      "end_time": 1208.23
+    },
+    {
+      "text": "Okay, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1209.33,
+      "end_time": 1210.522
+    },
+    {
+      "text": "So mostly a social media and PR company working largely in the food and beverage sector and some hotel stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 1210.626,
+      "end_time": 1221.55
+    },
+    {
+      "text": "And you're looking to stay potentially, but you want the business obviously to build with the new buyers, but really building towards an exit to get out.",
+      "speaker_name": "Andy Day",
+      "start_time": 1223.97,
+      "end_time": 1232.47
+    },
+    {
+      "text": "Okay, what are you thinking in terms of numbers?",
+      "speaker_name": "Andy Day",
+      "start_time": 1233.34,
+      "end_time": 1236.612
+    },
+    {
+      "text": "So if you're doing around 1 million in revenue with 20 to 29% margin, then you're going to get sort of somewhere between 4 to 6 multiple on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1236.756,
+      "end_time": 1250.58
+    },
+    {
+      "text": "Let's just say it's a 5x on 25.",
+      "speaker_name": "Andy Day",
+      "start_time": 1250.62,
+      "end_time": 1254.08
+    },
+    {
+      "text": "So roughly the valuation is somewhere between a million and 1 million.",
+      "speaker_name": "Andy Day",
+      "start_time": 1255.02,
+      "end_time": 1258.8
+    },
+    {
+      "text": "1.2 million.",
+      "speaker_name": "Andy Day",
+      "start_time": 1260.18,
+      "end_time": 1261.564
+    },
+    {
+      "text": "EBIT.",
+      "speaker_name": "Andy Day",
+      "start_time": 1261.732,
+      "end_time": 1262.716
+    },
+    {
+      "text": "Sorry, total valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1262.908,
+      "end_time": 1267.44
+    },
+    {
+      "text": "I mean, is that something that you're thinking about or is there a different number, a bigger number, smaller number?",
+      "speaker_name": "Andy Day",
+      "start_time": 1268.98,
+      "end_time": 1274.52
+    },
+    {
+      "text": "Whereabouts are you guys?",
+      "speaker_name": "Andy Day",
+      "start_time": 1274.82,
+      "end_time": 1276.4
+    },
+    {
+      "text": "Yeah, so I think so far, I mean, as Alex said, we've been on the market for a bit at 1 million USD but you know, which I think seems to be a sort of fairly reasonable, you know.",
+      "speaker_name": "Monogic",
+      "start_time": 1277.22,
+      "end_time": 1295.02
+    },
+    {
+      "text": "Yeah, that's the number we're looking for as well.",
+      "speaker_name": "Monogic",
+      "start_time": 1295.32,
+      "end_time": 1298.54
+    },
+    {
+      "text": "But like.",
+      "speaker_name": "Monogic",
+      "start_time": 1299.32,
+      "end_time": 1299.92
+    },
+    {
+      "text": "Yeah, so that's the, that's the thing like that's also came to our mind because we've been like thinking we are worth this value but didn't seem to get much traction.",
+      "speaker_name": "Monogic",
+      "start_time": 1299.96,
+      "end_time": 1309.984
+    },
+    {
+      "text": "So makes us wonder is it, is it because we don't get the traction?",
+      "speaker_name": "Monogic",
+      "start_time": 1310.032,
+      "end_time": 1314.66
+    },
+    {
+      "text": "Well, we don't get the right pool or it's because we listed too high.",
+      "speaker_name": "Monogic",
+      "start_time": 1315,
+      "end_time": 1319.888
+    },
+    {
+      "text": "For me, I of like because we are the business owner, of course we think like around 1 mil is reasonable for us.",
+      "speaker_name": "Monogic",
+      "start_time": 1320.024,
+      "end_time": 1327.088
+    },
+    {
+      "text": "But I, yeah, well I think so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1327.144,
+      "end_time": 1329.152
+    },
+    {
+      "text": "But you, you would have, you would have listed on 24's numbers so that would have been you know, middle to top of the, the range to get to there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1329.176,
+      "end_time": 1337.36
+    },
+    {
+      "text": "But yeah, it's fairly reasonable expectation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1337.4,
+      "end_time": 1340.73
+    },
+    {
+      "text": "Certainly if you're five or six months in and you've hit those numbers then there's no real reason why that wouldn't be, you know, reasonable valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1340.81,
+      "end_time": 1350.89
+    },
+    {
+      "text": "I certainly want to start some conversations even if somebody came back with a lower offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1350.97,
+      "end_time": 1354.87
+    },
+    {
+      "text": "So what's been the issues with the M and A journey that you've had so far?",
+      "speaker_name": "Andy Day",
+      "start_time": 1355.17,
+      "end_time": 1359.674
+    },
+    {
+      "text": "Are you just saying it's crickets or have you had conversations but they've not been the right buyers?",
+      "speaker_name": "Andy Day",
+      "start_time": 1359.762,
+      "end_time": 1364.57
+    },
+    {
+      "text": "I mean what kind of talk me through where you're at with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1364.65,
+      "end_time": 1368.44
+    },
+    {
+      "text": "Yeah, so, so we work with this advisor since November.",
+      "speaker_name": "Monogic",
+      "start_time": 1369.22,
+      "end_time": 1376.4
+    },
+    {
+      "text": "So we go through like evaluation process.",
+      "speaker_name": "Monogic",
+      "start_time": 1376.74,
+      "end_time": 1380.06
+    },
+    {
+      "text": "They look through our, like, like look through our numbers and to confirm it's right and then they give us evaluation and bring us to the market and it's around.",
+      "speaker_name": "Monogic",
+      "start_time": 1380.18,
+      "end_time": 1390.236
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Monogic",
+      "start_time": 1390.308,
+      "end_time": 1390.748
+    },
+    {
+      "text": "After Thanksgiving before Christmas we got started with the outreach.",
+      "speaker_name": "Monogic",
+      "start_time": 1390.844,
+      "end_time": 1395.756
+    },
+    {
+      "text": "I, I'm not sure if that's one of the reason because you know, holiday mood, people might not actually looking into the emails and if we do a big cold emails outreach maybe people not looking at it and then so far, so they've been telling us like oh you will probably get X number of calls and like interest and then we will limit down from there but not sure why.",
+      "speaker_name": "Monogic",
+      "start_time": 1395.788,
+      "end_time": 1422.174
+    },
+    {
+      "text": "For our case it's always a lower number.",
+      "speaker_name": "Monogic",
+      "start_time": 1422.342,
+      "end_time": 1424.782
+    },
+    {
+      "text": "So for example maybe we should have like maybe five to six calls.",
+      "speaker_name": "Monogic",
+      "start_time": 1424.886,
+      "end_time": 1428.414
+    },
+    {
+      "text": "So far we have like two to three.",
+      "speaker_name": "Monogic",
+      "start_time": 1428.462,
+      "end_time": 1430.81
+    },
+    {
+      "text": "I do find some lead they found supposed to be really good.",
+      "speaker_name": "Monogic",
+      "start_time": 1432.47,
+      "end_time": 1436.942
+    },
+    {
+      "text": "We have a really good first call.",
+      "speaker_name": "Monogic",
+      "start_time": 1437.046,
+      "end_time": 1438.89
+    },
+    {
+      "text": "We chat very well.",
+      "speaker_name": "Monogic",
+      "start_time": 1439.43,
+      "end_time": 1440.97
+    },
+    {
+      "text": "On our side, I think we'd be normal.",
+      "speaker_name": "Monogic",
+      "start_time": 1441.43,
+      "end_time": 1444.094
+    },
+    {
+      "text": "We're answering the right thing.",
+      "speaker_name": "Monogic",
+      "start_time": 1444.142,
+      "end_time": 1445.438
+    },
+    {
+      "text": "We tell exactly what we should be telling but it always after the first call it fell through like some two out of three, two ghosted us.",
+      "speaker_name": "Monogic",
+      "start_time": 1445.494,
+      "end_time": 1455.48
+    },
+    {
+      "text": "One telling us they not interested to fully acquire it.",
+      "speaker_name": "Monogic",
+      "start_time": 1455.6,
+      "end_time": 1460.072
+    },
+    {
+      "text": "They may be one partially merchants which also to be fair open to discuss.",
+      "speaker_name": "Monogic",
+      "start_time": 1460.096,
+      "end_time": 1464.584
+    },
+    {
+      "text": "But we didn't really get looped into the conversation.",
+      "speaker_name": "Monogic",
+      "start_time": 1464.672,
+      "end_time": 1467.432
+    },
+    {
+      "text": "So we don't really know why things got dropped off.",
+      "speaker_name": "Monogic",
+      "start_time": 1467.496,
+      "end_time": 1471.224
+    },
+    {
+      "text": "We only got told by the representative, they never replied.",
+      "speaker_name": "Monogic",
+      "start_time": 1471.312,
+      "end_time": 1476.968
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Monogic",
+      "start_time": 1477.064,
+      "end_time": 1477.722
+    },
+    {
+      "text": "So like basically after almost six months, five to six months, we only have three calls and two basically ghosted us afterwards.",
+      "speaker_name": "Monogic",
+      "start_time": 1477.896,
+      "end_time": 1486.998
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Monogic",
+      "start_time": 1487.094,
+      "end_time": 1487.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1487.71,
+      "end_time": 1488.134
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 1488.182,
+      "end_time": 1488.454
+    },
+    {
+      "text": "So I think maybe it's a time to, to change because we have a goal to, you know, we want, we want to sell and cash out ultimately.",
+      "speaker_name": "Monogic",
+      "start_time": 1488.502,
+      "end_time": 1496.95
+    },
+    {
+      "text": "And the fact that we need to keep maintaining exact similar level every month is actually quite difficult.",
+      "speaker_name": "Monogic",
+      "start_time": 1497.03,
+      "end_time": 1504.006
+    },
+    {
+      "text": "We either grow it or we.",
+      "speaker_name": "Monogic",
+      "start_time": 1504.038,
+      "end_time": 1505.538
+    },
+    {
+      "text": "Yeah, we, we want to find a direction.",
+      "speaker_name": "Monogic",
+      "start_time": 1505.694,
+      "end_time": 1508.186
+    },
+    {
+      "text": "So we feel like maybe the current M and A firm might not be able to find the right pool of buyers.",
+      "speaker_name": "Monogic",
+      "start_time": 1508.298,
+      "end_time": 1518.266
+    },
+    {
+      "text": "Probably so because they are, I think they are just looking at agencies and they've been just doing cold email which the first round they got many US buyers.",
+      "speaker_name": "Monogic",
+      "start_time": 1518.378,
+      "end_time": 1529.418
+    },
+    {
+      "text": "But seems like there's an issue with US buyers making transaction to.",
+      "speaker_name": "Monogic",
+      "start_time": 1529.594,
+      "end_time": 1535.052
+    },
+    {
+      "text": "To Hong Kong or Asia because the size of our business so it might cost them more, which doesn't make sense for them.",
+      "speaker_name": "Monogic",
+      "start_time": 1535.226,
+      "end_time": 1543.464
+    },
+    {
+      "text": "I'm just repeating what they've been telling us because we didn't get much information.",
+      "speaker_name": "Monogic",
+      "start_time": 1543.552,
+      "end_time": 1547.416
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1547.568,
+      "end_time": 1548.184
+    },
+    {
+      "text": "Was this company based in the US that you listed with.",
+      "speaker_name": "Andy Day",
+      "start_time": 1548.312,
+      "end_time": 1550.952
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1551.056,
+      "end_time": 1551.384
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Monogic",
+      "start_time": 1551.432,
+      "end_time": 1551.848
+    },
+    {
+      "text": "Do they specialize in agencies?",
+      "speaker_name": "Andy Day",
+      "start_time": 1551.944,
+      "end_time": 1553.98
+    },
+    {
+      "text": "Yes, they are specializing agency.",
+      "speaker_name": "Monogic",
+      "start_time": 1554.64,
+      "end_time": 1557.26
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1559.44,
+      "end_time": 1559.928
+    },
+    {
+      "text": "And they do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1559.944,
+      "end_time": 1560.68
+    },
+    {
+      "text": "I mean the contract with them was likely to be six month minimum.",
+      "speaker_name": "Andy Day",
+      "start_time": 1560.72,
+      "end_time": 1564.804
+    },
+    {
+      "text": "So you must have a couple of months left.",
+      "speaker_name": "Andy Day",
+      "start_time": 1564.852,
+      "end_time": 1566.756
+    },
+    {
+      "text": "But you're just saying you've had no real interest apart from the three.",
+      "speaker_name": "Andy Day",
+      "start_time": 1566.828,
+      "end_time": 1570.72
+    },
+    {
+      "text": "With them.",
+      "speaker_name": "Monogic",
+      "start_time": 1572.7,
+      "end_time": 1573.76
+    },
+    {
+      "text": "It's not necessarily have to be exclusive, but.",
+      "speaker_name": "Monogic",
+      "start_time": 1574.94,
+      "end_time": 1579.06
+    },
+    {
+      "text": "Yeah, but there's no period.",
+      "speaker_name": "Monogic",
+      "start_time": 1579.1,
+      "end_time": 1582.164
+    },
+    {
+      "text": "It's more like per project.",
+      "speaker_name": "Monogic",
+      "start_time": 1582.252,
+      "end_time": 1583.92
+    },
+    {
+      "text": "But then so far the project has no result.",
+      "speaker_name": "Monogic",
+      "start_time": 1584.22,
+      "end_time": 1586.72
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Monogic",
+      "start_time": 1587.27,
+      "end_time": 1588.05
+    },
+    {
+      "text": "As of now they only have one lead that wants a partial acquisition which is not something we, we're open to.",
+      "speaker_name": "Monogic",
+      "start_time": 1589.27,
+      "end_time": 1598.59
+    },
+    {
+      "text": "Yeah, we're open but not like.",
+      "speaker_name": "Monogic",
+      "start_time": 1598.63,
+      "end_time": 1599.838
+    },
+    {
+      "text": "Yeah, yeah, like we kind of want some bargaining power here.",
+      "speaker_name": "Monogic",
+      "start_time": 1599.894,
+      "end_time": 1603.742
+    },
+    {
+      "text": "We want some other choices because if, if it's partial acquisition it kind of like make us like we don't know how much they are interested to buy and it's just in a very preliminary discussion.",
+      "speaker_name": "Monogic",
+      "start_time": 1603.766,
+      "end_time": 1617.022
+    },
+    {
+      "text": "So I'm.",
+      "speaker_name": "Monogic",
+      "start_time": 1617.086,
+      "end_time": 1617.97
+    },
+    {
+      "text": "I much rather we, you know take the take action to look for something else.",
+      "speaker_name": "Monogic",
+      "start_time": 1618.27,
+      "end_time": 1623.91
+    },
+    {
+      "text": "Like maybe a fully buy out but we can stay at work.",
+      "speaker_name": "Monogic",
+      "start_time": 1623.99,
+      "end_time": 1627.59
+    },
+    {
+      "text": "But maybe we want to look for someone that fully take over Instead.",
+      "speaker_name": "Monogic",
+      "start_time": 1627.63,
+      "end_time": 1631.93
+    },
+    {
+      "text": "Okay, so they're offering a partial buyer, but it's not really of interest, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1632.91,
+      "end_time": 1637.35
+    },
+    {
+      "text": "Or that you're flexible, but it's just not anything you're interested in at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 1637.39,
+      "end_time": 1642.41
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1642.99,
+      "end_time": 1643.446
+    },
+    {
+      "text": "And then that relationship with those buyers, are you able to speak with them regularly or is it just been a, you know, an initial conversation?",
+      "speaker_name": "Andy Day",
+      "start_time": 1643.478,
+      "end_time": 1651.352
+    },
+    {
+      "text": "That's all you've got?",
+      "speaker_name": "Andy Day",
+      "start_time": 1651.416,
+      "end_time": 1652.9
+    },
+    {
+      "text": "Mostly we don't get loop in, even in on the email, so we only can hear back from what the representative tell us.",
+      "speaker_name": "Monogic",
+      "start_time": 1653.76,
+      "end_time": 1661.768
+    },
+    {
+      "text": "We talked to three leads so far.",
+      "speaker_name": "Monogic",
+      "start_time": 1661.904,
+      "end_time": 1665.78
+    },
+    {
+      "text": "One lead is in the US One lead is in Hong Kong, one lead is in Singapore.",
+      "speaker_name": "Monogic",
+      "start_time": 1666.16,
+      "end_time": 1671.464
+    },
+    {
+      "text": "So, so, so far, like, we only have one left that's not even giving a full offer.",
+      "speaker_name": "Monogic",
+      "start_time": 1671.592,
+      "end_time": 1679.13
+    },
+    {
+      "text": "Yeah, maybe that's, that's the.",
+      "speaker_name": "Monogic",
+      "start_time": 1680.79,
+      "end_time": 1683.69
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1684.31,
+      "end_time": 1685.086
+    },
+    {
+      "text": "Well, I mean, yeah, it's a, it was a, it's a tough start for the other company, I should imagine around Thanksgiving is going to be fairly slow and things for us don't really pick up until mid January in terms of, you know, conversations.",
+      "speaker_name": "Andy Day",
+      "start_time": 1685.198,
+      "end_time": 1700.27
+    },
+    {
+      "text": "But even then, people aren't really serious around January unless there's a deal on the, the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 1700.43,
+      "end_time": 1705.102
+    },
+    {
+      "text": "They would probably wait until they got, you know, into the second half of Q1 to start picking conversations up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1705.166,
+      "end_time": 1713.086
+    },
+    {
+      "text": "So it's a tough time of the year that you should be having some calls by now, I think given we're in March and M and A is picking up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1713.158,
+      "end_time": 1724.346
+    },
+    {
+      "text": "But it may be that obviously they're, if they're based in the US that they're just not going to have a big, big pool of buyers in Hong Kong and Singapore.",
+      "speaker_name": "Andy Day",
+      "start_time": 1724.518,
+      "end_time": 1732.39
+    },
+    {
+      "text": "Although I'm sure they've done some cold outreach by the sounds of it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1733.53,
+      "end_time": 1736.322
+    },
+    {
+      "text": "That's what they've, they've done.",
+      "speaker_name": "Andy Day",
+      "start_time": 1736.346,
+      "end_time": 1737.81
+    },
+    {
+      "text": "They've targeted buyers in, in Hong Kong and Singapore and they've had a couple of snags and that, that, you know, hasn't really taken off, but they, they've caught a couple for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1737.85,
+      "end_time": 1748.35
+    },
+    {
+      "text": "So I think, you know, in terms of where we could take this next, I think it'd be really good to just get clear with your current company what you, what, what is the next steps and whether they've just exhausted their efforts and they're not going to try anything else.",
+      "speaker_name": "Andy Day",
+      "start_time": 1751.22,
+      "end_time": 1766.16
+    },
+    {
+      "text": "And also just to completely see what the option is on, on the table right now before you kind of write it off.",
+      "speaker_name": "Andy Day",
+      "start_time": 1767.86,
+      "end_time": 1776.54
+    },
+    {
+      "text": "Because it could be that they are flexible also to a full buyout and if they're not, and you're just not considering a partial acquisition at the moment, that you just turn them down and, and then that leaves the, you know, it leaves it empty for us to come in and, and start a process again rather than trying to compete against another M A company.",
+      "speaker_name": "Andy Day",
+      "start_time": 1776.58,
+      "end_time": 1797.56
+    },
+    {
+      "text": "If, if it is somebody like merge or go merge in New York, they are certainly set up in a similar way to us for this type of transaction.",
+      "speaker_name": "Andy Day",
+      "start_time": 1798.02,
+      "end_time": 1807.11
+    },
+    {
+      "text": "So we would possibly approach it in a similar way.",
+      "speaker_name": "Andy Day",
+      "start_time": 1807.19,
+      "end_time": 1810.934
+    },
+    {
+      "text": "I think the big difference is probably that we are based in the uk so we're much more conscious that Asia exists.",
+      "speaker_name": "Andy Day",
+      "start_time": 1811.022,
+      "end_time": 1820.73
+    },
+    {
+      "text": "We also have some of our team in Asia and the Middle east as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1821.07,
+      "end_time": 1824.95
+    },
+    {
+      "text": "So it does make our focus a little bit different.",
+      "speaker_name": "Andy Day",
+      "start_time": 1824.99,
+      "end_time": 1826.998
+    },
+    {
+      "text": "We are sort of spread out much more across the the uk, us, Europe and Asia.",
+      "speaker_name": "Andy Day",
+      "start_time": 1827.054,
+      "end_time": 1833.584
+    },
+    {
+      "text": "Whereas a lot of the American companies are just really focused on the US market.",
+      "speaker_name": "Andy Day",
+      "start_time": 1833.632,
+      "end_time": 1839.232
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1839.336,
+      "end_time": 1839.984
+    },
+    {
+      "text": "But we do do international transactions.",
+      "speaker_name": "Andy Day",
+      "start_time": 1840.152,
+      "end_time": 1842.74
+    },
+    {
+      "text": "We've done us to the uk, we've done us to Israel.",
+      "speaker_name": "Andy Day",
+      "start_time": 1843.24,
+      "end_time": 1846.34
+    },
+    {
+      "text": "So it shouldn't, shouldn't be a major hurdle.",
+      "speaker_name": "Andy Day",
+      "start_time": 1847.48,
+      "end_time": 1851.38
+    },
+    {
+      "text": "So next steps would be just to explain to you what we can do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1852.6,
+      "end_time": 1856.448
+    },
+    {
+      "text": "I think considering the size of where you're at and the fact that you've already got an M and A broker in place, probably the easiest thing is to list on agencies co directly it's free to list.",
+      "speaker_name": "Andy Day",
+      "start_time": 1856.504,
+      "end_time": 1869.29
+    },
+    {
+      "text": "All that happens is consider, you know, because of the size of the business that we take more, a bit of large percentage, which is 10 on the transaction when it closes.",
+      "speaker_name": "Andy Day",
+      "start_time": 1869.67,
+      "end_time": 1880.69
+    },
+    {
+      "text": "But we will act as your M and A advisory.",
+      "speaker_name": "Andy Day",
+      "start_time": 1882.23,
+      "end_time": 1886.342
+    },
+    {
+      "text": "As soon as we have a buyer on the hook, we will all swoop in.",
+      "speaker_name": "Andy Day",
+      "start_time": 1886.406,
+      "end_time": 1889.174
+    },
+    {
+      "text": "The team is there to work for you to get the deal done and get the deal closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1889.262,
+      "end_time": 1893.462
+    },
+    {
+      "text": "So I'm happy to do that and send you more details on how we can move forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 1893.526,
+      "end_time": 1898.93
+    },
+    {
+      "text": "The only thing that we will need is some kind of IM or SIM or cim.",
+      "speaker_name": "Andy Day",
+      "start_time": 1899.71,
+      "end_time": 1905.174
+    },
+    {
+      "text": "People call it different things, but basically that's the pitch doc that goes out to buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1905.302,
+      "end_time": 1910.81
+    },
+    {
+      "text": "You can either give us your own version of that or we charge to create it for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1912.09,
+      "end_time": 1917.89
+    },
+    {
+      "text": "So we charge $5,000 to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1917.93,
+      "end_time": 1920.11
+    },
+    {
+      "text": "But if you already have one, then you may be able to make one yourself that you can share with, with buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1920.41,
+      "end_time": 1927.554
+    },
+    {
+      "text": "But we just need an editable copy of that so that we can distribute it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1927.602,
+      "end_time": 1931.55
+    },
+    {
+      "text": "But if that sounds straightforward to you guys, then I think that's probably the best solution for now.",
+      "speaker_name": "Andy Day",
+      "start_time": 1932.09,
+      "end_time": 1938.27
+    },
+    {
+      "text": "So I would just advise just to explore that last bit of clarity with your current M and A team before we, before we turn our attention to it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1938.65,
+      "end_time": 1948.634
+    },
+    {
+      "text": "So I'll stick that in an email and we can follow up next week and maybe move forward if, if that's Something that you guys want to do?",
+      "speaker_name": "Andy Day",
+      "start_time": 1948.802,
+      "end_time": 1955.91
+    },
+    {
+      "text": "Yeah, sounds great.",
+      "speaker_name": "Monogic",
+      "start_time": 1956.53,
+      "end_time": 1958.23
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1958.53,
+      "end_time": 1959.178
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Monogic",
+      "start_time": 1959.234,
+      "end_time": 1959.93
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1960.05,
+      "end_time": 1960.842
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1960.906,
+      "end_time": 1961.29
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1961.33,
+      "end_time": 1961.914
+    },
+    {
+      "text": "All right, Nice to meet you both and sorry to keep you up so long.",
+      "speaker_name": "Andy Day",
+      "start_time": 1962.042,
+      "end_time": 1964.522
+    },
+    {
+      "text": "I bet you're both.",
+      "speaker_name": "Andy Day",
+      "start_time": 1964.546,
+      "end_time": 1965.594
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Monogic",
+      "start_time": 1965.762,
+      "end_time": 1966.73
+    },
+    {
+      "text": "Kieran is from the UK as well.",
+      "speaker_name": "Monogic",
+      "start_time": 1966.89,
+      "end_time": 1968.522
+    },
+    {
+      "text": "We're really used to the time zone with his parents.",
+      "speaker_name": "Monogic",
+      "start_time": 1968.546,
+      "end_time": 1971.76
+    },
+    {
+      "text": "Whenever I call him.",
+      "speaker_name": "Monogic",
+      "start_time": 1971.89,
+      "end_time": 1973.14
+    },
+    {
+      "text": "I couldn't quite grasp your accent, Kieran.",
+      "speaker_name": "Andy Day",
+      "start_time": 1973.26,
+      "end_time": 1976.132
+    },
+    {
+      "text": "I know, I know.",
+      "speaker_name": "Monogic",
+      "start_time": 1976.196,
+      "end_time": 1977.06
+    },
+    {
+      "text": "Everyone say that.",
+      "speaker_name": "Monogic",
+      "start_time": 1977.1,
+      "end_time": 1977.988
+    },
+    {
+      "text": "Someone guess he's German or something.",
+      "speaker_name": "Monogic",
+      "start_time": 1978.044,
+      "end_time": 1979.92
+    },
+    {
+      "text": "I thought he.",
+      "speaker_name": "Andy Day",
+      "start_time": 1980.46,
+      "end_time": 1981.22
+    },
+    {
+      "text": "I thought so, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1981.26,
+      "end_time": 1982.228
+    },
+    {
+      "text": "I didn't think German.",
+      "speaker_name": "Andy Day",
+      "start_time": 1982.244,
+      "end_time": 1982.932
+    },
+    {
+      "text": "I definitely thought it was English speaking.",
+      "speaker_name": "Andy Day",
+      "start_time": 1982.996,
+      "end_time": 1984.564
+    },
+    {
+      "text": "But it could be.",
+      "speaker_name": "Andy Day",
+      "start_time": 1984.612,
+      "end_time": 1985.508
+    },
+    {
+      "text": "It could almost be Australian.",
+      "speaker_name": "Andy Day",
+      "start_time": 1985.564,
+      "end_time": 1987.4
+    },
+    {
+      "text": "Or it could be just a Hong Konger.",
+      "speaker_name": "Andy Day",
+      "start_time": 1988.06,
+      "end_time": 1990.484
+    },
+    {
+      "text": "You know, a family that's been out there for ages.",
+      "speaker_name": "Andy Day",
+      "start_time": 1990.612,
+      "end_time": 1992.724
+    },
+    {
+      "text": "So it's tricky to put my finger on, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 1992.772,
+      "end_time": 1995.652
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 1995.836,
+      "end_time": 1996.292
+    },
+    {
+      "text": "No, it's Kingston.",
+      "speaker_name": "Monogic",
+      "start_time": 1996.356,
+      "end_time": 1997.62
+    },
+    {
+      "text": "So not too exotic.",
+      "speaker_name": "Monogic",
+      "start_time": 1997.7,
+      "end_time": 1999.08
+    },
+    {
+      "text": "Kingston in Surrey?",
+      "speaker_name": "Andy Day",
+      "start_time": 1999.82,
+      "end_time": 2001.54
+    },
+    {
+      "text": "Yes, that's the one.",
+      "speaker_name": "Monogic",
+      "start_time": 2001.7,
+      "end_time": 2002.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2003.1,
+      "end_time": 2003.588
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 2003.684,
+      "end_time": 2004.084
+    },
+    {
+      "text": "Yeah, home count is fabulous.",
+      "speaker_name": "Andy Day",
+      "start_time": 2004.132,
+      "end_time": 2006.44
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2007.34,
+      "end_time": 2007.716
+    },
+    {
+      "text": "Well, good luck to you both.",
+      "speaker_name": "Andy Day",
+      "start_time": 2007.748,
+      "end_time": 2010.32
+    },
+    {
+      "text": "So, yeah, I'll send everything on a.",
+      "speaker_name": "Andy Day",
+      "start_time": 2010.7,
+      "end_time": 2012.644
+    },
+    {
+      "text": "An email, and if you guys are happy to move forward, we'll follow up next week and see whereabouts you've gotten to.",
+      "speaker_name": "Andy Day",
+      "start_time": 2012.812,
+      "end_time": 2018.72
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Monogic",
+      "start_time": 2019.42,
+      "end_time": 2019.876
+    },
+    {
+      "text": "Thank you so much.",
+      "speaker_name": "Monogic",
+      "start_time": 2019.948,
+      "end_time": 2021.028
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Andy Day",
+      "start_time": 2021.164,
+      "end_time": 2021.844
+    },
+    {
+      "text": "All right, speak soon.",
+      "speaker_name": "Andy Day",
+      "start_time": 2021.932,
+      "end_time": 2023.2
+    },
+    {
+      "text": "Yeah, speak soon.",
+      "speaker_name": "Monogic",
+      "start_time": 2023.5,
+      "end_time": 2024.436
+    },
+    {
+      "text": "Have a nice day.",
+      "speaker_name": "Monogic",
+      "start_time": 2024.508,
+      "end_time": 2025.46
+    },
+    {
+      "text": "And you.",
+      "speaker_name": "Andy Day",
+      "start_time": 2025.58,
+      "end_time": 2026.148
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 2026.204,
+      "end_time": 2026.46
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Marketing Agency",
+      "M&A Advisory",
+      "Business Valuation",
+      "F&B Industry",
+      "Hong Kong Market",
+      "Agency Acquisition"
+    ],
+    "action_items": "\n**Andy Day**\nSend email with details on listing Monogic on Agencies.co platform (32:37)\nFollow up next week to check Monogic's progress with current M&A firm (33:23)\n\n**Alexandra Leung**\nGet clarity from current M&A firm about next steps and existing partial acquisition opportunity (29:28)\n\n**Alexandra Leung and Kieran**\nConsider providing existing pitch documentation or paying $5,000 for Capital A to create it (31:10)\nFollow up with Andy next week on decision to move forward with Capital A (33:23)\n",
+    "outline": null,
+    "overview": "In the Business Development and M&A Consultation meeting between Alexandra Leung and Andy Day, Andy, representing Capital A, outlined the firm’s expertise in advising on mergers and acquisitions specifically for marketing services companies, highlighting their capacity to serve both buyers and sellers. Alexandra and her partner Kieran, co-founders of Monogic, Hong Kong's leading F&B marketing agency, expressed their intent to sell the company after 5-6 months of limited traction with their current M&A advisors. They shared impressive growth metrics, including a revenue of approximately $1M USD for 2024 and strong profit margins. Discussion points included their operational structure, core services, and potential for expansion into Singapore, alongside a proposed valuation of $1M based on EBITDA multiples. The founders remain flexible regarding post-acquisition involvement and are encouraged to clarify their current advisory’s direction while considering a new listing strategy on Agencies.co. Action items to follow up include evaluating pitch materials and potential next steps with Capital A.",
+    "short_summary": "In a consultation between Alexandra Leung and Andy Day from Capital A, the focus was on Capital A's expertise in mergers and acquisitions, particularly for marketing services firms. Alexandra and her partner Kieran, co-founders of Monogic, expressed their goal to sell the company after facing challenges with their current M&A advisors over the past 5-6 months. They shared impressive growth metrics, forecasting approximately $1M in revenue for 2024, alongside solid profit margins, and discussed their operational structure and core services. The potential expansion into Singapore was also a key topic, with a proposed valuation of $1M based on EBITDA multiples. The founders are open to post-acquisition involvement and are encouraged to clarify their current advisory's direction while exploring new opportunities, including a listing strategy on Agencies.co. Action items include evaluating pitch materials and potential next steps with Capital A.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JPQBF0P65VQNH8TH47GV6HBP",
+  "audio_url": "https://cdn.fireflies.ai/01JPQBF0P65VQNH8TH47GV6HBP/audio.mp3?Expires=1773220871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlBRQkYwUDY1VlFOSDhUSDQ3R1Y2SEJQL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg3MX19fV19&Signature=eV5Uyya1YfMqLjLy9wQ5~Qon5HXVPirANc97P5TFPah1Fd6LnoJJJnK3dmKGlNgFoJLNJXoxwstzOAXyKqCl6by4oW7XhPnWHjsguAZrqRXdSBtONF1U-GfOSlTz9yMACZapSOjSVXufRtq64zrT5~i3nv5fywUKF66LcsirOIemDEHlfT62vcmZL8o7EnGH9gjXe570pkS6FfYGRjYvgfsf2rmv0vyQ1yxcuu~6HKFUB6GOSwDLeMeIfoZDppzOTYxKLYUqq9tvJdesF73gmF55wvFYVqQolo9SEe5mogIDoGxkqCV2mhVXnVVOnOjJocBUjmdQ71uOQoYiSGNIMg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

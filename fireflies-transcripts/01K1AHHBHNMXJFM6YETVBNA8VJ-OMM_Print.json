@@ -1,0 +1,37 @@
+{
+  "id": "01K1AHHBHNMXJFM6YETVBNA8VJ",
+  "title": "OMM Print",
+  "date": 1753774200000,
+  "dateString": "2025-07-29T07:30:00.000Z",
+  "duration": 10.5,
+  "participants": [
+    "howard.campion@omm.agency,ahmed.zia@capitala.co,yousaf.ali@omm.agency",
+    "ahmed.zia@capitala.co",
+    "yousaf.ali@omm.agency"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": "Howard Campion",
+      "email": "howard.campion@omm.agency",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Yousaf Ali",
+      "email": "yousaf.ali@omm.agency",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": null,
+  "summary": null,
+  "transcript_url": "https://app.fireflies.ai/view/01K1AHHBHNMXJFM6YETVBNA8VJ",
+  "audio_url": "https://cdn.fireflies.ai/01K1AHHBHNMXJFM6YETVBNA8VJ/audio.mp3?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzFBSEhCSE5NWEpGTTZZRVRWQk5BOFZKL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=gNZkpca1GzqGSXrIQaJxChmvAPjghUuCkC9anytgZ1~OVnBUi7c0JJfIwZzbRoTUnBgLs8XtqH4QdSpwxDukdTNzLFVx7ktxpewQn~2O4Qt~flqns9SLFzCt7Nhg4BbdGsaBBv0t~vWlmtZUwjpM-LbbvWp01g5NXuCiCH05eO8AtEw-mQMS-0SSPQQ7Obb4stDBk477pprcAvMgbehdLgeEOfguQoVLzku~e-my7P7qWnnBQE~6m3F7QVEmjU-cDxNhQH8SZZyMIddNE~EB2j27LCpsyKt62~yMCdB3D5hhNeQsTafGk41WEdkDa3CFuf139saiRLUb76ko6ncw8Q__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

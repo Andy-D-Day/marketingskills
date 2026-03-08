@@ -1,0 +1,5225 @@
+{
+  "id": "01JZK3FJW92H9PZMHW58N9DG5G",
+  "title": "Jeff Kaplan's Zoom Meeting",
+  "date": 1751988600000,
+  "dateString": "2025-07-08T15:30:00.000Z",
+  "duration": 55.029998779296875,
+  "participants": [
+    "andrew.day@capitala.co,anton.jerges@wearecollider.com,jeff.kaplan@skyviewi.com,andy.day@capitala.co",
+    "andrew.day@capitala.co",
+    "anton.jerges@wearecollider.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Anton Jerges",
+      "email": "anton.jerges@wearecollider.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Jeff Kaplan",
+      "email": "jeff.kaplan@skyviewi.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduce yourselves.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 0.08,
+      "end_time": 0.76
+    },
+    {
+      "text": "But, Jeff, hopefully you saw my email as well earlier where I just.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 0.76,
+      "end_time": 3.84
+    },
+    {
+      "text": "Yeah, with Andy earlier, and he suggested that you wanted to run through something.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 4.24,
+      "end_time": 8.32
+    },
+    {
+      "text": "I thought as a time saver, it would probably be good to get Cameron and Paul on the call as well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 8.32,
+      "end_time": 13.36
+    },
+    {
+      "text": "So I do hope that's okay with you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 13.36,
+      "end_time": 15.04
+    },
+    {
+      "text": "Yeah, that's fine.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 15.28,
+      "end_time": 16.16
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 16.56,
+      "end_time": 16.96
+    },
+    {
+      "text": "How are you guys?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 16.96,
+      "end_time": 17.76
+    },
+    {
+      "text": "Yeah, good, thanks.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 18.32,
+      "end_time": 19.08
+    },
+    {
+      "text": "Jeff.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 19.08,
+      "end_time": 19.4
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 19.4,
+      "end_time": 20.16
+    },
+    {
+      "text": "We literally got on like two seconds before you, Anton.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 22.32,
+      "end_time": 25.2
+    },
+    {
+      "text": "So we hadn't done it.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 25.2,
+      "end_time": 27
+    },
+    {
+      "text": "We hadn't done introductions at that point.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 27,
+      "end_time": 28.4
+    },
+    {
+      "text": "Okay, I think I'm good now.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 29.35,
+      "end_time": 31.07
+    },
+    {
+      "text": "Let me just see.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 31.07,
+      "end_time": 31.83
+    },
+    {
+      "text": "Yeah, sometimes this Figma thing just does weird things and it doesn't show charts that I wanted to show, but I think we're good, guys.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 35.67,
+      "end_time": 45.03
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 45.27,
+      "end_time": 45.91
+    },
+    {
+      "text": "Hi, Andy.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 46.31,
+      "end_time": 47.19
+    },
+    {
+      "text": "All right, so I'm back.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 47.59,
+      "end_time": 48.51
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 48.51,
+      "end_time": 48.95
+    },
+    {
+      "text": "Okay, so let's get going here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 49.03,
+      "end_time": 52.15
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 52.95,
+      "end_time": 53.35
+    },
+    {
+      "text": "Anton, you spoke to Travis on Friday?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 53.35,
+      "end_time": 55.19
+    },
+    {
+      "text": "Yes, I did.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 56.02,
+      "end_time": 56.9
+    },
+    {
+      "text": "I, I enjoyed the call.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 56.9,
+      "end_time": 58.18
+    },
+    {
+      "text": "I hope he did.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 58.18,
+      "end_time": 58.98
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 59.54,
+      "end_time": 60.26
+    },
+    {
+      "text": "He said it was a good call.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 60.26,
+      "end_time": 61.14
+    },
+    {
+      "text": "So, you know, from, from my perspective, you know, we kind of were at a, a deal point about a month ago.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 61.14,
+      "end_time": 68.1
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 68.74,
+      "end_time": 69.14
+    },
+    {
+      "text": "And then there was a pause on your part for certain internal reasons.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 69.22,
+      "end_time": 76.18
+    },
+    {
+      "text": "Right, sure.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 76.18,
+      "end_time": 77.66
+    },
+    {
+      "text": "And that pause essentially gave time for us to explore other opportunities, look through different deals, get down a pretty far path.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 77.66,
+      "end_time": 90.5
+    },
+    {
+      "text": "Andy, with probably three other companies right now that we're working through.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 90.5,
+      "end_time": 94.58
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 94.58,
+      "end_time": 94.98
+    },
+    {
+      "text": "And so, you know, I look at it and I go, okay, you know, we had something, we were almost there.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 95.94,
+      "end_time": 102.94
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 102.94,
+      "end_time": 103.22
+    },
+    {
+      "text": "You know, we could have put you in that third position.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 103.22,
+      "end_time": 105.22
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 105.38,
+      "end_time": 105.78
+    },
+    {
+      "text": "And now we're here with you and probably three other companies that are all very, extremely attractive.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 106.26,
+      "end_time": 112.52
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 112.52,
+      "end_time": 112.88
+    },
+    {
+      "text": "So I don't know what your time frame, frame is in terms of what you plan to do, but I'm going to kind of present you something.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 114,
+      "end_time": 122.72
+    },
+    {
+      "text": "It's literally almost the same deal.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 124.16,
+      "end_time": 126.76
+    },
+    {
+      "text": "We, we've made some concessions to bring it to about the same deal, but we are at the point where if you want to be in the slot, you're in that third slot, which basically.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 126.76,
+      "end_time": 140.24
+    },
+    {
+      "text": "So for Paul and Cameron, you'll understand this from finance standpoint, we had acquired two companies, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 140.4,
+      "end_time": 146.24
+    },
+    {
+      "text": "And so we have an enterprise value and every month we're growing like crazy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 146.8,
+      "end_time": 151.48
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 151.48,
+      "end_time": 151.76
+    },
+    {
+      "text": "And so the point in which we acquired them, they have a purchase price multiple.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 151.76,
+      "end_time": 156.88
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 156.96,
+      "end_time": 157.36
+    },
+    {
+      "text": "The TTM right now is so far above that, it is extraordinary.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 157.92,
+      "end_time": 164.17
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 164.17,
+      "end_time": 164.41
+    },
+    {
+      "text": "And so the value of this company right now is getting bigger by the month, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 164.41,
+      "end_time": 170.01
+    },
+    {
+      "text": "We are, and Andy knows this.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 170.01,
+      "end_time": 171.73
+    },
+    {
+      "text": "We are in a position, especially with our hovercraft franchise and what we're doing to unlock the value at OMM where I we're getting brands just walking over to us and, and no bidding and giving us deals.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 171.73,
+      "end_time": 184.21
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 184.21,
+      "end_time": 184.49
+    },
+    {
+      "text": "And you'll about to see one for Taco Bell that we just completed.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 184.97,
+      "end_time": 190.02
+    },
+    {
+      "text": "If you got, if you go to Taco Bell's Bad Birdie activation, we just literally did that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 190.02,
+      "end_time": 195.7
+    },
+    {
+      "text": "Taco Bell is a great example.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 195.94,
+      "end_time": 197.46
+    },
+    {
+      "text": "Taco Bell wasn't even a company that we were doing business with and they said we love the things you're doing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 197.46,
+      "end_time": 204.98
+    },
+    {
+      "text": "We don't want to bid 10 bids anymore.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 205.78,
+      "end_time": 207.7
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 207.7,
+      "end_time": 207.98
+    },
+    {
+      "text": "We're going to beat you up over price.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 207.98,
+      "end_time": 209.74
+    },
+    {
+      "text": "We're going to you make sure you're fair to us.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 209.74,
+      "end_time": 212.26
+    },
+    {
+      "text": "But we want you guys because you're the best of the best.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 212.26,
+      "end_time": 214.87
+    },
+    {
+      "text": "From there we have four other activations with young brands which as you know is massive.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 215.59,
+      "end_time": 220.11
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 220.11,
+      "end_time": 220.31
+    },
+    {
+      "text": "And so same thing with, you know, a couple of other financials.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 220.31,
+      "end_time": 223.63
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 223.63,
+      "end_time": 223.83
+    },
+    {
+      "text": "So we're growing like crazy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 223.83,
+      "end_time": 225.27
+    },
+    {
+      "text": "So in this deal that we're going to lay out here, Anton, we have calculated a enterprise value that know if Andy probably, I don't know if he spoke to you or not, but it is extremely fair.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 225.91,
+      "end_time": 240.63
+    },
+    {
+      "text": "Like more than fair.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 241.06,
+      "end_time": 241.86
+    },
+    {
+      "text": "Like we can, we can make a probably with 95% certainly just using trailing 12 months multiples that the enterprise value should be higher.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 241.86,
+      "end_time": 252.38
+    },
+    {
+      "text": "And so what does that mean?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 252.38,
+      "end_time": 253.5
+    },
+    {
+      "text": "Well, if it's a higher enterprise value, your rollover shares are worth less.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 253.5,
+      "end_time": 257.74
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 257.74,
+      "end_time": 257.98
+    },
+    {
+      "text": "And you get less of a percentage.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 257.98,
+      "end_time": 259.38
+    },
+    {
+      "text": "So we held that for you and we're going to hold this third spot.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 259.86,
+      "end_time": 264.26
+    },
+    {
+      "text": "But I'm only going to do this pretty much for this call and shortly thereafter and after that I got to kind of move and I don't mean to be, you know, that guy that just is presses and Paul and Cameron, you guys are new to the game but you've had pretty much the same offer for a month and you know, if now's the time where you're unsure, unclear.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 264.42,
+      "end_time": 286.51
+    },
+    {
+      "text": "We should just say that and then you can come back and we'll execute on these other transactions and then we could certainly pick it up.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 286.75,
+      "end_time": 294.28
+    },
+    {
+      "text": "There's a level of interest but I think it won't be the same deal in terms of pure enterprise value.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 294.28,
+      "end_time": 299.96
+    },
+    {
+      "text": "And so I don't mean to put you on that clock, but you've had a month.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 300.2,
+      "end_time": 304.2
+    },
+    {
+      "text": "I understand Jeff, that's fine.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 304.92,
+      "end_time": 306.48
+    },
+    {
+      "text": "I appreciate you explaining and I understand your position.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 306.48,
+      "end_time": 310.16
+    },
+    {
+      "text": "Andy and I spoke earlier as well, so I get where you're coming from, but I appreciate you talking us through it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 310.16,
+      "end_time": 316.92
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 316.92,
+      "end_time": 317.48
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 317.88,
+      "end_time": 318.32
+    },
+    {
+      "text": "And so again it's not to be pushy or anything, it's just that we are fluid right now.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 318.32,
+      "end_time": 325.07
+    },
+    {
+      "text": "There are three other directions I can go.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 325.07,
+      "end_time": 327.79
+    },
+    {
+      "text": "I think the feeling from Travis, the reason why I want to make sure you had one on one time with Travis is I want Travis to come back to me and say, you know, should these guys be in this position and where we're at?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 329.07,
+      "end_time": 343.23
+    },
+    {
+      "text": "Because we were ready to do this deal a month ago.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 343.23,
+      "end_time": 344.99
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 344.99,
+      "end_time": 345.39
+    },
+    {
+      "text": "And then kind of, I understand you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 345.71,
+      "end_time": 347.86
+    },
+    {
+      "text": "You had gone through some things.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 347.86,
+      "end_time": 350.22
+    },
+    {
+      "text": "You know, on our side, it's rare to see a founder who owns almost 80% having to convince the other minority shareholders to go along.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 351.42,
+      "end_time": 360.74
+    },
+    {
+      "text": "But I get it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 360.74,
+      "end_time": 361.7
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 361.7,
+      "end_time": 362.06
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 362.94,
+      "end_time": 363.3
+    },
+    {
+      "text": "No, and I get where you're coming from, Jeff.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 363.3,
+      "end_time": 365.02
+    },
+    {
+      "text": "And to be clear, I guess I don't have to, but I respect those people's value to the business further down the line.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 365.02,
+      "end_time": 374.06
+    },
+    {
+      "text": "And you know, if we go through this, that would be the value to your business.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 374.06,
+      "end_time": 376.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 377.14,
+      "end_time": 377.62
+    },
+    {
+      "text": "So I want to make sure they're in it with me because I don't want to be delivering an earn out on my own.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 377.62,
+      "end_time": 381.3
+    },
+    {
+      "text": "And, and that would not be the case.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 382.26,
+      "end_time": 383.82
+    },
+    {
+      "text": "Like, you know, there's a level of due diligence and there's a level of sure that, that we will get through and it'll.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 383.82,
+      "end_time": 389.94
+    },
+    {
+      "text": "Some things will become apparent during due diligence and we're very good at that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 390.02,
+      "end_time": 394.58
+    },
+    {
+      "text": "So, you know, you know, Travis.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 394.82,
+      "end_time": 397.02
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 397.02,
+      "end_time": 397.3
+    },
+    {
+      "text": "You know, we do it on our own.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 397.3,
+      "end_time": 398.46
+    },
+    {
+      "text": "We don't hire an outside firm.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 398.46,
+      "end_time": 399.9
+    },
+    {
+      "text": "We've been doing it long enough.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 399.9,
+      "end_time": 401.22
+    },
+    {
+      "text": "Our background is buying and selling companies for the last 25, 30 years.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 402.03,
+      "end_time": 405.19
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 405.19,
+      "end_time": 405.55
+    },
+    {
+      "text": "So we can figure out like where all the bones are and, and you know, what culturally is working not pretty quick.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 405.55,
+      "end_time": 412.75
+    },
+    {
+      "text": "You get a sense pretty quickly.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 413.07,
+      "end_time": 414.23
+    },
+    {
+      "text": "Let's put it that when you, when you start to.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 414.23,
+      "end_time": 415.95
+    },
+    {
+      "text": "So it's not just the data.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 416.19,
+      "end_time": 417.39
+    },
+    {
+      "text": "It is, you know, really more of that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 417.469,
+      "end_time": 419.63
+    },
+    {
+      "text": "But it's good that you went through it because now you have your entire organization on board.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 419.63,
+      "end_time": 424.27
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 424.27,
+      "end_time": 424.67
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 424.91,
+      "end_time": 425.39
+    },
+    {
+      "text": "And so I'll just kind of jump in.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 426.03,
+      "end_time": 427.67
+    },
+    {
+      "text": "We're not going to.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 427.67,
+      "end_time": 428.43
+    },
+    {
+      "text": "We went through this, Anton already.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 428.43,
+      "end_time": 430.35
+    },
+    {
+      "text": "You know this stuff.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 430.35,
+      "end_time": 431.19
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 431.19,
+      "end_time": 431.39
+    },
+    {
+      "text": "You.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 431.39,
+      "end_time": 431.67
+    },
+    {
+      "text": "You see the fit, you see the opportunities.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 431.67,
+      "end_time": 434.03
+    },
+    {
+      "text": "100%.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 434.11,
+      "end_time": 434.83
+    },
+    {
+      "text": "I think they're bigger.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 435.31,
+      "end_time": 436.51
+    },
+    {
+      "text": "We're doing things now again the last month.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 437.87,
+      "end_time": 441.59
+    },
+    {
+      "text": "I mean, this industry is moving so fast in not only a consolidation standpoint, but in a brands requesting to deal with companies that have the kind of turnkey solutions.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 441.59,
+      "end_time": 456.11
+    },
+    {
+      "text": "We had a professional baseball team that was about to do a deal with someone else and we talked to them and they're like, wow, I didn't realize you did all of this stuff.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 457.51,
+      "end_time": 465.47
+    },
+    {
+      "text": "And they were like, okay, the deal's yours.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 465.47,
+      "end_time": 467.07
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 467.07,
+      "end_time": 467.43
+    },
+    {
+      "text": "And so we're starting to see the model that we have being deployed, and we're going to see more and more of that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 467.43,
+      "end_time": 475.31
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 475.31,
+      "end_time": 475.67
+    },
+    {
+      "text": "And you know, part of what we're also doing is making evaluations of build versus buy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 475.75,
+      "end_time": 483.71
+    },
+    {
+      "text": "So Charlotte's interesting on your side, and I want to talk about her for a second because we're building out a whole strategy organization.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 485.07,
+      "end_time": 491.55
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 491.71,
+      "end_time": 492.03
+    },
+    {
+      "text": "We have probably three or four different conversations with heavy hitters that are gonna show up.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 492.03,
+      "end_time": 498.27
+    },
+    {
+      "text": "Three of them are actually in London right now, which is a benefit to you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 499.23,
+      "end_time": 502.27
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 502.27,
+      "end_time": 502.59
+    },
+    {
+      "text": "And certainly Howard.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 503.47,
+      "end_time": 504.51
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 504.51,
+      "end_time": 504.75
+    },
+    {
+      "text": "Howard's instrumental in this that are gonna be strategy leads for what I'll call sport.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 504.75,
+      "end_time": 512.58
+    },
+    {
+      "text": "Some of it's going to start with virtual advertising technology, but we're going to morph into innovation sprints with professional sports teams that Howard has all these relationships with.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 512.82,
+      "end_time": 523.46
+    },
+    {
+      "text": "And kind of the goal is driving fan engagement and driving fan zones, as we talked about.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 524.02,
+      "end_time": 535.31
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 535.31,
+      "end_time": 535.63
+    },
+    {
+      "text": "And so that is a direct benefit to you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 536.11,
+      "end_time": 538.43
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 538.67,
+      "end_time": 539.03
+    },
+    {
+      "text": "And so those are the type of things that we're kind of in the process of doing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 539.03,
+      "end_time": 543.63
+    },
+    {
+      "text": "And like I said, we have about three or four acquisitions.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 543.63,
+      "end_time": 545.75
+    },
+    {
+      "text": "One is in the UK think.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 545.75,
+      "end_time": 547.63
+    },
+    {
+      "text": "Two others are in the US and we have about eight other companies that we're talking to.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 547.79,
+      "end_time": 552.51
+    },
+    {
+      "text": "We're talking to more every day.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 552.51,
+      "end_time": 553.59
+    },
+    {
+      "text": "It seems.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 553.59,
+      "end_time": 554.19
+    },
+    {
+      "text": "Seems that once we start having this conversation, a lot of people are very interested in this model.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 554.51,
+      "end_time": 560.83
+    },
+    {
+      "text": "Like they're starting to recognize that the industry is shifting to a bigger players are going to win more.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 560.83,
+      "end_time": 566.76
+    },
+    {
+      "text": "And what we're hearing a lot is none of them want like the.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 570.92,
+      "end_time": 573.6
+    },
+    {
+      "text": "The wpps of the world, none of them want the holding companies.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 573.6,
+      "end_time": 577
+    },
+    {
+      "text": "They really want to be part of an organization that they can have a seat at the table and help grow.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 577.24,
+      "end_time": 582.76
+    },
+    {
+      "text": "So make sense.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 583.56,
+      "end_time": 585.92
+    },
+    {
+      "text": "And now a little bit of that was for you, Cameron and Paul, even though, you know, you're really more on the financial aspect to understand the value proposition.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 585.92,
+      "end_time": 593.14
+    },
+    {
+      "text": "So we just ask a quick one.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 593.14,
+      "end_time": 594.98
+    },
+    {
+      "text": "Jeff, you just jumped back.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 594.98,
+      "end_time": 596.18
+    },
+    {
+      "text": "You touched upon the other two acquisitions.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 596.18,
+      "end_time": 598.42
+    },
+    {
+      "text": "Where would you see them fitting into to this model?",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 598.58,
+      "end_time": 601.3
+    },
+    {
+      "text": "You know, is it kind of horizontally or would they lap over with.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 601.3,
+      "end_time": 604.82
+    },
+    {
+      "text": "With hovercraft, Which.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 604.82,
+      "end_time": 607.1
+    },
+    {
+      "text": "Which.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 607.1,
+      "end_time": 607.46
+    },
+    {
+      "text": "These are two companies.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 607.619,
+      "end_time": 609.54
+    },
+    {
+      "text": "I know the other two that you're currently speaking to.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 609.78,
+      "end_time": 612.02
+    },
+    {
+      "text": "Or is it three you're currently speaking to?",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 612.02,
+      "end_time": 613.7
+    },
+    {
+      "text": "Oh, where they fit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 614.42,
+      "end_time": 615.46
+    },
+    {
+      "text": "They all have interesting fits.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 615.94,
+      "end_time": 617.34
+    },
+    {
+      "text": "So, you know, some of them our capability sets.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 617.34,
+      "end_time": 621.49
+    },
+    {
+      "text": "So just to be honest.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 621.89,
+      "end_time": 623.05
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 623.05,
+      "end_time": 623.29
+    },
+    {
+      "text": "Anton represents a field that at the Beginning I'm not sure we thought was important for us, but the more we look at it, physical experiential could be massive because the pipeline that we have is to build these fan zones in Europe and to leverage that expertise in the US to alleviate all of the things that we do.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 623.29,
+      "end_time": 647.78
+    },
+    {
+      "text": "So when we do all these experiential, they're more technically an innovation.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 647.78,
+      "end_time": 651.34
+    },
+    {
+      "text": "Anton knows that on the, on the US side and we do them for the big biggest brands in the world.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 651.34,
+      "end_time": 656.3
+    },
+    {
+      "text": "Go look at the hovercraft, Instagram and LinkedIn, you'll see it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 656.54,
+      "end_time": 660.46
+    },
+    {
+      "text": "And every one of those holds a component of experience.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 661.1,
+      "end_time": 665.66
+    },
+    {
+      "text": "Physical experiential.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 665.9,
+      "end_time": 667.1
+    },
+    {
+      "text": "So right now we, we have an executive producer.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 667.1,
+      "end_time": 670.45
+    },
+    {
+      "text": "Producer who's really more of a creative lead that runs these large scale productions.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 670.6,
+      "end_time": 675.28
+    },
+    {
+      "text": "The question is, could we do they need to be involved in the logistics of event planning?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 675.28,
+      "end_time": 680.04
+    },
+    {
+      "text": "Right or not?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 680.28,
+      "end_time": 681.24
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 681.24,
+      "end_time": 681.64
+    },
+    {
+      "text": "Is it better serve that a company like Anton shows up and does that portion of it and frees them up to focus just on the creative side of it?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 681.72,
+      "end_time": 691.4
+    },
+    {
+      "text": "We don't know.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 691.4,
+      "end_time": 692.04
+    },
+    {
+      "text": "Something we explore.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 692.04,
+      "end_time": 693
+    },
+    {
+      "text": "But what we do know is we get asked all the time for these little two 300k deals that we actually turned out because they're really more of the like Anton, the one time we discussed the Coinbase Pizza day type things, we get asked for that all day long.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 693,
+      "end_time": 710.33
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 710.41,
+      "end_time": 710.81
+    },
+    {
+      "text": "And so could we then build a smaller team in the US that maybe reports up through Anton's organization or, or acquire companies in this space of which we have another one that we're, we're looking at.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 711.13,
+      "end_time": 726.18
+    },
+    {
+      "text": "And again if it's not you, it might be them, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 726.18,
+      "end_time": 728.06
+    },
+    {
+      "text": "And they're us based that we can then build an organization that just does physical experiential with hovercraft providing the technology and the, the creative and innovative storytelling.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 728.06,
+      "end_time": 741.62
+    },
+    {
+      "text": "Right Anton, that's the value proposition all along, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 741.62,
+      "end_time": 744.46
+    },
+    {
+      "text": "And so we recognize now that that's an opportunity for us and you know, good, bad and the ugly to put all the cards on the table.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 744.46,
+      "end_time": 752.71
+    },
+    {
+      "text": "Anton will tell you there's hundreds and hundreds of companies that play in this space of all different levels.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 752.71,
+      "end_time": 758.79
+    },
+    {
+      "text": "Right Andy?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 758.79,
+      "end_time": 759.31
+    },
+    {
+      "text": "I mean this, that's probably the biggest space in the whole thing is physical experiential.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 759.31,
+      "end_time": 763.43
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 763.43,
+      "end_time": 763.79
+    },
+    {
+      "text": "Some of them are small, some of them are really large.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 764.029,
+      "end_time": 766.03
+    },
+    {
+      "text": "But a lot of people play with a lot of different clients.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 766.03,
+      "end_time": 769.07
+    },
+    {
+      "text": "So, so we're looking at different pieces of this jigsaw puzzle right now that are complementary.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 769.07,
+      "end_time": 776.8
+    },
+    {
+      "text": "Eventually we will then go and I'll show you that in the financials and we're more and more leading this way go and taking on more funding and buying all of these smaller companies that are about to shutter or at least struggle over the next 12 to 24 months.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 776.8,
+      "end_time": 799.52
+    },
+    {
+      "text": "Because that's where the industry is going.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 799.52,
+      "end_time": 801.08
+    },
+    {
+      "text": "And we've seen it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 801.08,
+      "end_time": 801.96
+    },
+    {
+      "text": "We, we've been involved in cloud, web, everything.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 802.59,
+      "end_time": 804.99
+    },
+    {
+      "text": "That's my business partner's background, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 804.99,
+      "end_time": 806.99
+    },
+    {
+      "text": "And so we see what's coming here and it has played out almost eerily similar to cloud.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 807.23,
+      "end_time": 814.91
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 814.91,
+      "end_time": 815.23
+    },
+    {
+      "text": "We started with, if you think about it, big money spend in marketing and advertising in cloud.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 815.23,
+      "end_time": 820.03
+    },
+    {
+      "text": "It was email and light storage at the beginning, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 820.03,
+      "end_time": 823.07
+    },
+    {
+      "text": "And then the brand said, wait a minute, I can't be siloed, I can't be dealing with 10 different cloud companies here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 823.47,
+      "end_time": 830.08
+    },
+    {
+      "text": "It's all the brands are going, wait, I don't want to deal with a hundred different agencies, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 830.08,
+      "end_time": 835.88
+    },
+    {
+      "text": "I want to deal with a couple that can provide strategy and execute really well.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 835.96,
+      "end_time": 840.84
+    },
+    {
+      "text": "So the whole industry is morphing there.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 841.4,
+      "end_time": 843.4
+    },
+    {
+      "text": "And if you just look at Nike as a great example, Nike waved a magic wand.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 843.48,
+      "end_time": 848.24
+    },
+    {
+      "text": "Everyone, how many, Andy, how many companies have you talked to tell us Nike loves them, they're Nike's favorite.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 848.24,
+      "end_time": 853.76
+    },
+    {
+      "text": "And right, Everybody's going, yeah, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 853.76,
+      "end_time": 858.04
+    },
+    {
+      "text": "Nike said, we're going to pull this back.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 858.28,
+      "end_time": 860.28
+    },
+    {
+      "text": "Hovercraft actually became the agency of record for Nike.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 860.6,
+      "end_time": 864.44
+    },
+    {
+      "text": "So anything Nike, seasonal or retail go and the Jordan brand goes through night hovercraft and then they put out the blueprint or will put out the blueprint.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 864.92,
+      "end_time": 876.84
+    },
+    {
+      "text": "I think the first one is this summer and but for a year they've been working on strategy and then it'll be up to a local team to just pick someone to implement that blueprint.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 876.92,
+      "end_time": 886.69
+    },
+    {
+      "text": "So the days of hundreds of companies and getting everybody to do kind of work for free and smaller companies are coming to an end here, at least with the bigger brands.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 886.69,
+      "end_time": 897.25
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 897.25,
+      "end_time": 897.65
+    },
+    {
+      "text": "And a lot of companies are seeing that and Nike froze that and started doing that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 898.05,
+      "end_time": 903.53
+    },
+    {
+      "text": "And Andy, how many companies went out of business, dropped 30, 40% of their people?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 903.53,
+      "end_time": 907.97
+    },
+    {
+      "text": "I mean, we've seen it in OMM on the agency side, how it affected them.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 908.83,
+      "end_time": 913.23
+    },
+    {
+      "text": "So this is what's coming here, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 913.31,
+      "end_time": 915.83
+    },
+    {
+      "text": "And if you're not part of a bigger company and integrated well, you're not going to do well.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 915.83,
+      "end_time": 921.23
+    },
+    {
+      "text": "So the WPPS and the Dansu's of the world, Anton, as you know, they're buying companies but they're not doing a level of integration at all.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 921.47,
+      "end_time": 928.35
+    },
+    {
+      "text": "And they're starting, you're starting to see LinkedIn posts about them, how they're, they're struggling, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 928.99,
+      "end_time": 935.3
+    },
+    {
+      "text": "And they gotta Lay people off.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 935.3,
+      "end_time": 936.58
+    },
+    {
+      "text": "Because it's not enough to buy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 936.58,
+      "end_time": 939.06
+    },
+    {
+      "text": "You have to have a level of integration.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 939.54,
+      "end_time": 942.58
+    },
+    {
+      "text": "And that requires the right culture, the right people, the right fit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 943.06,
+      "end_time": 946.26
+    },
+    {
+      "text": "And it doesn't, it's not a day one thing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 947.06,
+      "end_time": 949.7
+    },
+    {
+      "text": "You don't show up and say, okay, everybody's integrated.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 949.7,
+      "end_time": 952.18
+    },
+    {
+      "text": "It is a working towards this type of model.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 952.58,
+      "end_time": 955.54
+    },
+    {
+      "text": "So every single one of them has a strategic fit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 958.26,
+      "end_time": 960.98
+    },
+    {
+      "text": "And some of them we realize we may not choose to buy, we may choose to build like strategy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 961.58,
+      "end_time": 966.86
+    },
+    {
+      "text": "So we're going to make investments into a strategy, organization, strategy leads, because we already do strategy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 967.34,
+      "end_time": 973.74
+    },
+    {
+      "text": "It's a matter of getting the right people and methodology in place that we can formulate.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 973.82,
+      "end_time": 978.38
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 978.38,
+      "end_time": 978.78
+    },
+    {
+      "text": "In certain areas.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 978.94,
+      "end_time": 979.82
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 979.82,
+      "end_time": 980.22
+    },
+    {
+      "text": "Like permanent, fixed, what we call innovation in spaces.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 980.94,
+      "end_time": 984.22
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 984.22,
+      "end_time": 984.62
+    },
+    {
+      "text": "So that's kind of where we're at on the whole thing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 985.5,
+      "end_time": 987.5
+    },
+    {
+      "text": "Perfect, thank you.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 988.75,
+      "end_time": 989.63
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 990.27,
+      "end_time": 990.75
+    },
+    {
+      "text": "So, all right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 991.63,
+      "end_time": 992.99
+    },
+    {
+      "text": "So essentially, just so you guys understand how we're structured, we're structured like this.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 993.15,
+      "end_time": 999.75
+    },
+    {
+      "text": "Today the rollover shares show up here, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 999.75,
+      "end_time": 1005.55
+    },
+    {
+      "text": "The assets of the company move under a C Corp sitting here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1006.27,
+      "end_time": 1013.63
+    },
+    {
+      "text": "Now there is a caveat, one caveat, and this is new.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1014.57,
+      "end_time": 1017.81
+    },
+    {
+      "text": "As of the last three days in that given in the US they just passed this big beautiful bill, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1017.81,
+      "end_time": 1025.09
+    },
+    {
+      "text": "As you guys all know, one of the hidden gems in that bill is the fact that if you start a qualified small business service in the U.S. right, a QSBS, which is a C Corp and you issue stock, there are significant tax advantages at exit in terms of some being tax free.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1025.09,
+      "end_time": 1050.3
+    },
+    {
+      "text": "It is the venture capital bill basically that got put in there, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1050.3,
+      "end_time": 1053.58
+    },
+    {
+      "text": "Which is good for us.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1053.9,
+      "end_time": 1054.98
+    },
+    {
+      "text": "So we are exploring whether we have the right structure for that or we need to reseed this as a C Corp. Just letting you guys know, it doesn't have an effect on the shareholders dilution or anything.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1054.98,
+      "end_time": 1067.42
+    },
+    {
+      "text": "What it does is if we could figure out right is say for us and everybody else in here, upon exit, there could be up to 10 or $15 million US dollars per taxpayer, tax free.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1068.02,
+      "end_time": 1082.9
+    },
+    {
+      "text": "Again, that's not a guarantee.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1083.7,
+      "end_time": 1085.86
+    },
+    {
+      "text": "That's not even close.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1086.34,
+      "end_time": 1087.34
+    },
+    {
+      "text": "The IRS at the end of it, still has to rule on whether it's eligible or not.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1087.34,
+      "end_time": 1092.02
+    },
+    {
+      "text": "But the first thing that we're exploring is from a legal standpoint, do we have the right structure?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1092.5,
+      "end_time": 1098.68
+    },
+    {
+      "text": "It has to be a C Corp.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1098.84,
+      "end_time": 1100.44
+    },
+    {
+      "text": "The shares have to be issued in a C Corp. Our shares are issued in an llc, but the LLC holds C Corp.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1101.08,
+      "end_time": 1107.76
+    },
+    {
+      "text": "So we have our lawyers working on is the bottom line, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1107.76,
+      "end_time": 1109.96
+    },
+    {
+      "text": "So I just, I don't want to show this and three weeks later come up with say it Changed a little bit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1109.96,
+      "end_time": 1114.28
+    },
+    {
+      "text": "The only reason it would change is to benefit every one of us, potentially tax for tax free at the end of it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1114.28,
+      "end_time": 1121.16
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1121.32,
+      "end_time": 1121.72
+    },
+    {
+      "text": "Makes sense.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1123.57,
+      "end_time": 1124.13
+    },
+    {
+      "text": "Yeah, thanks.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1124.93,
+      "end_time": 1125.57
+    },
+    {
+      "text": "Travis touched on that when I spoke to him on Friday.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1125.57,
+      "end_time": 1127.81
+    },
+    {
+      "text": "Yeah, I mean, look, you know, I would say put that aside.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1128.53,
+      "end_time": 1132.05
+    },
+    {
+      "text": "I just don't want you to.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1132.13,
+      "end_time": 1133.25
+    },
+    {
+      "text": "In a month if we turn around and say, well, you know, it's a new structure, you go, wait, that's not what I saw.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1133.57,
+      "end_time": 1138.13
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1138.21,
+      "end_time": 1138.569
+    },
+    {
+      "text": "So understand the only reason we do it is if we can end up with more money at the end and less taxes to the government.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1138.569,
+      "end_time": 1146.05
+    },
+    {
+      "text": "That's it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1146.21,
+      "end_time": 1146.81
+    },
+    {
+      "text": "Yeah, I'm all for that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1146.81,
+      "end_time": 1149.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1150.06,
+      "end_time": 1150.54
+    },
+    {
+      "text": "And then, you know, from a tax planning standpoint, if that is the case, Anton, I don't know how it's a US entity, so your shares are in the us.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1151.66,
+      "end_time": 1159.74
+    },
+    {
+      "text": "I'm assuming that would mean that your payout in the us but I don't know how it affects if you're living in the UK or not.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1159.82,
+      "end_time": 1165.66
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1166.06,
+      "end_time": 1166.58
+    },
+    {
+      "text": "That's where Cameron and Paul and their team will come in.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1166.58,
+      "end_time": 1169.46
+    },
+    {
+      "text": "So you guys can just explore that and see.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1169.46,
+      "end_time": 1171.66
+    },
+    {
+      "text": "It may not affect at all.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1172.38,
+      "end_time": 1173.58
+    },
+    {
+      "text": "It may be the fact that they're in the uk.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1173.58,
+      "end_time": 1175.34
+    },
+    {
+      "text": "So even though the distributions from a US entity or there may be a benefit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1175.34,
+      "end_time": 1180.76
+    },
+    {
+      "text": "And again, don't use this as the reason for doing this deal because I would say right now this is the structure going forward until we determine if and when and even if we do all of the right things.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1180.76,
+      "end_time": 1192.92
+    },
+    {
+      "text": "The IRF at the end of it can say you don't qualify because there's a whole suite of companies that don't qualify.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1193.32,
+      "end_time": 1200.2
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1200.6,
+      "end_time": 1201
+    },
+    {
+      "text": "It's nice that the government is doing that as opposed to what ours is doing, which is stifling entrepreneurialism.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1201.64,
+      "end_time": 1206.68
+    },
+    {
+      "text": "But I mean this is a massive, massive thing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1206.89,
+      "end_time": 1209.61
+    },
+    {
+      "text": "I mean from an investment standpoint, honestly, us just figuring out this from an investment standpoint, you have investors who can get $15 million in capital gains or 10 times their investment.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1209.61,
+      "end_time": 1223.53
+    },
+    {
+      "text": "So if someone puts $3 million into this thing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1224.89,
+      "end_time": 1228.81
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1229.53,
+      "end_time": 1229.93
+    },
+    {
+      "text": "$30 million is essentially tax free.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1230.25,
+      "end_time": 1232.89
+    },
+    {
+      "text": "If it works out like that in the end, if we hold it for five years now they also put in a tiered which is three years, four years, five years.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1232.89,
+      "end_time": 1240.21
+    },
+    {
+      "text": "So but I mean it's a massive, massive opportunity that we have to just explore.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1240.29,
+      "end_time": 1245.73
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1247.01,
+      "end_time": 1247.65
+    },
+    {
+      "text": "Yeah, thank you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1247.89,
+      "end_time": 1249.57
+    },
+    {
+      "text": "Okay, so essentially the deal is pretty much the same.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1249.81,
+      "end_time": 1254.61
+    },
+    {
+      "text": "We have two scenarios and I will walk them through and Anton, it'll be very familiar.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1255.01,
+      "end_time": 1259.13
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1259.13,
+      "end_time": 1259.33
+    },
+    {
+      "text": "Deal one is we don't raise additional capital in Deal two.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1259.33,
+      "end_time": 1263.72
+    },
+    {
+      "text": "We just raise what we've raised, buy, we build, we keep on going and going and going.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1264.2,
+      "end_time": 1269.64
+    },
+    {
+      "text": "However, we believe that over the next 12 to 20, 24 months, there's going to be some really, really, really attractive deals.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1270.04,
+      "end_time": 1277.44
+    },
+    {
+      "text": "And I think, Andy, you're kind of on the same fence, Andy, starting to see companies that we talked to a year ago that were flush with cash are struggling now, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1277.44,
+      "end_time": 1287.69
+    },
+    {
+      "text": "And some of those are not going to be able to recover because they just don't have the business chops to do it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1287.69,
+      "end_time": 1292.69
+    },
+    {
+      "text": "They're creative in nature and, you know, they don't get it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1292.69,
+      "end_time": 1296.65
+    },
+    {
+      "text": "So it's probably in our best interest to raise additional capital at that point.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1296.65,
+      "end_time": 1302.649
+    },
+    {
+      "text": "We'll have a, essentially a valuation of about 7 to 8 million and growing, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1302.81,
+      "end_time": 1311.69
+    },
+    {
+      "text": "We're just busting through that every month.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1311.69,
+      "end_time": 1313.41
+    },
+    {
+      "text": "It's crazy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1313.41,
+      "end_time": 1314.13
+    },
+    {
+      "text": "But, you know, even, even at that, at just a simple 10x, right, we could put a valuation cap on, on this safe round of 70 million and it's still below where the company is and people can invest and then we can buy more EBITDA and then grow it and grow it and grow it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1314.13,
+      "end_time": 1332.13
+    },
+    {
+      "text": "And then, even though these people who typically invest in the back end because it's less risky, right, more the institutional side, right, they come in here, it's safer for them.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1332.45,
+      "end_time": 1344.65
+    },
+    {
+      "text": "Lack of, you know, a pun.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1344.65,
+      "end_time": 1346.01
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1346.01,
+      "end_time": 1346.29
+    },
+    {
+      "text": "But it is.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1346.29,
+      "end_time": 1347.77
+    },
+    {
+      "text": "They'll get four or five times return instead of the round here, which is getting 8 to 10 to, depending, you know, massive.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1347.77,
+      "end_time": 1357.01
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1357.01,
+      "end_time": 1357.369
+    },
+    {
+      "text": "So we'll walk through both.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1357.69,
+      "end_time": 1358.81
+    },
+    {
+      "text": "So again, the only difference, Anton, with this entire deal, I've kept everything the same and we valued the rollover at a number lower than what it should be right now, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1358.81,
+      "end_time": 1372.38
+    },
+    {
+      "text": "Is there was a piece of this, if you remember, the additional rollover that had a target a year from now.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1372.86,
+      "end_time": 1378.86
+    },
+    {
+      "text": "Yeah, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1379.1,
+      "end_time": 1379.98
+    },
+    {
+      "text": "I need that now because there's other deals in play and as I mentioned, there's other people that we're trying to attract.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1380.46,
+      "end_time": 1387.42
+    },
+    {
+      "text": "So I needed to pull that piece back.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1388.14,
+      "end_time": 1389.9
+    },
+    {
+      "text": "But what I tried to do is honor the spirit of the entire deal, right, without that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1389.9,
+      "end_time": 1395.67
+    },
+    {
+      "text": "And that was a, a minor piece of this, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1395.67,
+      "end_time": 1398.11
+    },
+    {
+      "text": "And so same concept, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1398.99,
+      "end_time": 1401.15
+    },
+    {
+      "text": "You had it for a month, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1401.15,
+      "end_time": 1402.59
+    },
+    {
+      "text": "$3 million in cash at close.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1402.91,
+      "end_time": 1405.07
+    },
+    {
+      "text": "And you hit your number that you tell us you're gonna hit, you get it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1405.63,
+      "end_time": 1410.19
+    },
+    {
+      "text": "And if you don't, it's prorated down so it doesn't like, okay, cool, you lose the whole 527 if you do 50, 000 less.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1410.27,
+      "end_time": 1418.51
+    },
+    {
+      "text": "And you know, and again, I know I'm moving between things.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1418.75,
+      "end_time": 1422.23
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1422.31,
+      "end_time": 1422.59
+    },
+    {
+      "text": "And I knew the, the thing is fluid.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1422.59,
+      "end_time": 1425.59
+    },
+    {
+      "text": "So you know, when we look at your forecast and you're hitting.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1425.59,
+      "end_time": 1428.47
+    },
+    {
+      "text": "These are the numbers you look at?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1428.47,
+      "end_time": 1429.75
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1429.91,
+      "end_time": 1430.27
+    },
+    {
+      "text": "When we look at the payouts, those are the numbers that are payout.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1430.27,
+      "end_time": 1432.43
+    },
+    {
+      "text": "But again, this hasn't changed.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1432.43,
+      "end_time": 1433.71
+    },
+    {
+      "text": "You've had it for a month.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1433.71,
+      "end_time": 1434.63
+    },
+    {
+      "text": "So cool.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1434.63,
+      "end_time": 1435.51
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1435.59,
+      "end_time": 1436.109
+    },
+    {
+      "text": "Same exact deal, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1436.109,
+      "end_time": 1437.27
+    },
+    {
+      "text": "What I did add is add an earnings and profit share to detail that a little bit for you and show you how that would work from an earn out perspective.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1437.51,
+      "end_time": 1446.35
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1446.35,
+      "end_time": 1446.71
+    },
+    {
+      "text": "Because we didn't have that last time.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1446.71,
+      "end_time": 1448.05
+    },
+    {
+      "text": "So from an earnout perspective we create very, very seller friendly earnouts.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1448.05,
+      "end_time": 1453.89
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1453.89,
+      "end_time": 1454.21
+    },
+    {
+      "text": "We want you to hit it right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1454.93,
+      "end_time": 1456.29
+    },
+    {
+      "text": "If you take 9.78times 1.336 which is today's rate, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1456.53,
+      "end_time": 1462.61
+    },
+    {
+      "text": "It's about 1.3.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1462.849,
+      "end_time": 1464.61
+    },
+    {
+      "text": "There's a something in a chat.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1465.01,
+      "end_time": 1466.53
+    },
+    {
+      "text": "Did someone put something in there?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1466.53,
+      "end_time": 1467.73
+    },
+    {
+      "text": "Oh no, that's the fireplace.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1469.25,
+      "end_time": 1470.61
+    },
+    {
+      "text": "It's about 1.3.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1470.85,
+      "end_time": 1472.13
+    },
+    {
+      "text": "We're saying 12 months from now, post close, if we gross a tiny bit, which if we can't grow like you know, 60,000 more pounds on top of that, like, you know, there's, there's something wrong with us.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1472.69,
+      "end_time": 1485.01
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1485.01,
+      "end_time": 1485.21
+    },
+    {
+      "text": "And again we base this earn out based on 24, even though we're basing the deal on 25.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1485.21,
+      "end_time": 1491.05
+    },
+    {
+      "text": "So that's a benefit to you, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1491.05,
+      "end_time": 1492.53
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1492.53,
+      "end_time": 1493.01
+    },
+    {
+      "text": "And so we look at a 12 month periods, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1494.29,
+      "end_time": 1496.93
+    },
+    {
+      "text": "And so we take the first portion of it again, we have covenants to pay, we have things to do and then we pay you again, prorated.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1497.33,
+      "end_time": 1505.53
+    },
+    {
+      "text": "So if you end up in US dollars, 1.3 million, whatever that math is per dollar gets calculated and then you'll get the difference right after that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1505.53,
+      "end_time": 1517.97
+    },
+    {
+      "text": "We also do something which I think is kind of unique in this industry to show how important we are as partners.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1517.97,
+      "end_time": 1523.61
+    },
+    {
+      "text": "We'll split it all with you after that we are 50, 50 profit shares on top of that, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1524.17,
+      "end_time": 1529.7
+    },
+    {
+      "text": "So rather than saying, hey, we're going to take some money off the table for you, you're going to take some money, a high five, we get the rest.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1529.78,
+      "end_time": 1536.98
+    },
+    {
+      "text": "I want you to throw your pants on every day and, and grow this thing till December 31, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1537.78,
+      "end_time": 1542.5
+    },
+    {
+      "text": "Of every single year.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1542.5,
+      "end_time": 1543.46
+    },
+    {
+      "text": "So we're willing to say, hey look, we'll keep on going right after we, we meet all of our commitments if this business starts to go crazy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1543.54,
+      "end_time": 1552.92
+    },
+    {
+      "text": "So for example, if in year two we do 2 million in EBITDA, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1552.92,
+      "end_time": 1557.72
+    },
+    {
+      "text": "There's a difference of 396,000, you get paid additional money, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1559.16,
+      "end_time": 1564.36
+    },
+    {
+      "text": "So there is not a More seller friendly earnout in the entire industry right now.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1564.84,
+      "end_time": 1572.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1572.28,
+      "end_time": 1572.6
+    },
+    {
+      "text": "I know how PE operate, I know how strategic operate.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1572.6,
+      "end_time": 1575.4
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1575.4,
+      "end_time": 1575.8
+    },
+    {
+      "text": "And you know, this is one where.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1576.44,
+      "end_time": 1578.86
+    },
+    {
+      "text": "And, and by the way, on none of this do you get taxed for our marketing team, Travis's salary, my salary.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1579.58,
+      "end_time": 1587.74
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1587.74,
+      "end_time": 1588.06
+    },
+    {
+      "text": "So we don't allocate back Howard salary, anybody else.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1588.06,
+      "end_time": 1591.82
+    },
+    {
+      "text": "We don't allocate back any of that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1592.14,
+      "end_time": 1594.02
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1594.02,
+      "end_time": 1594.38
+    },
+    {
+      "text": "What we do do is, is figure out a profit share on deals that come your way.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1594.94,
+      "end_time": 1601.06
+    },
+    {
+      "text": "So if Howard hand you a fan zone, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1601.06,
+      "end_time": 1605.01
+    },
+    {
+      "text": "His organization needs to get a piece of that because, you know, so.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1605.01,
+      "end_time": 1609.33
+    },
+    {
+      "text": "So that's what we do.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1609.65,
+      "end_time": 1610.65
+    },
+    {
+      "text": "But the whole idea is that's a deal you would have never had.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1610.65,
+      "end_time": 1612.85
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1612.93,
+      "end_time": 1613.29
+    },
+    {
+      "text": "And so you're getting that, you're getting the margin you're growing and things like that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1613.29,
+      "end_time": 1617.65
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1620.29,
+      "end_time": 1621.21
+    },
+    {
+      "text": "Very fair.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1621.21,
+      "end_time": 1621.77
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1621.77,
+      "end_time": 1622.29
+    },
+    {
+      "text": "Any questions?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1622.69,
+      "end_time": 1623.57
+    },
+    {
+      "text": "A quick one.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 1625.49,
+      "end_time": 1626.09
+    },
+    {
+      "text": "I think you might have touched on it before.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 1626.09,
+      "end_time": 1627.49
+    },
+    {
+      "text": "The idea of kind of strategic hires coming in from, from the U.S. do you allocate them onto colliders P L if they were, you know, coming in at a very senior level and would.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 1627.65,
+      "end_time": 1639.55
+    },
+    {
+      "text": "That then impacts in collider's business?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1639.55,
+      "end_time": 1642.63
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1643.11,
+      "end_time": 1643.51
+    },
+    {
+      "text": "So there will be a.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1644.31,
+      "end_time": 1646.23
+    },
+    {
+      "text": "Look, we want this to be integrated.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1646.39,
+      "end_time": 1648.269
+    },
+    {
+      "text": "And at some point you, you can't just say, okay, well if I put them on my P L I miss an earn out by $50,000.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1648.269,
+      "end_time": 1657.19
+    },
+    {
+      "text": "Because the reality is longer term, the bigger money in this whole deal is as shareholders of the entire company.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1657.19,
+      "end_time": 1665.72
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1665.8,
+      "end_time": 1666.2
+    },
+    {
+      "text": "And so if we did that, you know what that would would make me do?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1666.76,
+      "end_time": 1670.84
+    },
+    {
+      "text": "That would make me buy a company separate from Anton's.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1670.92,
+      "end_time": 1673.96
+    },
+    {
+      "text": "That is a separate P L from Anton, which would basically cut off the US Market for Anton if I did it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1674.52,
+      "end_time": 1681.48
+    },
+    {
+      "text": "So if Anton said, nope, I don't want any more people, I don't want people, I don't want to grow.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1681.88,
+      "end_time": 1687.45
+    },
+    {
+      "text": "I'm not going to take on that risk ourselves and then give anyone from a P and L their the benefit to them that it has to be a shared risk.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1688.65,
+      "end_time": 1696.05
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1696.05,
+      "end_time": 1696.41
+    },
+    {
+      "text": "Now we're also not going to hire 12 people on the bench sitting there, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1696.73,
+      "end_time": 1700.25
+    },
+    {
+      "text": "We hire opportunistically.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1700.89,
+      "end_time": 1702.57
+    },
+    {
+      "text": "I'm sure you talked to Travis about that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1702.57,
+      "end_time": 1704.21
+    },
+    {
+      "text": "Anton, we've done this really well.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1704.21,
+      "end_time": 1706.57
+    },
+    {
+      "text": "When we had our cloud business, we had 50% margins and we grew it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1706.57,
+      "end_time": 1710.21
+    },
+    {
+      "text": "And grew it and grew it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1710.21,
+      "end_time": 1711.21
+    },
+    {
+      "text": "And so we grow it the right way.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1712.5,
+      "end_time": 1714.18
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1714.18,
+      "end_time": 1714.42
+    },
+    {
+      "text": "We look at the pipeline, we look at the opportunities, we make sure the pipeline's far enough down the path.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1714.42,
+      "end_time": 1718.98
+    },
+    {
+      "text": "So probably in the short term, Anton, you'd Operate the same way where your staff would fly over.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1718.98,
+      "end_time": 1723.14
+    },
+    {
+      "text": "But we may get to the point where you're sitting there with Zach and Matt and they go, look, we got 20 deals here, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1723.54,
+      "end_time": 1729.02
+    },
+    {
+      "text": "You're not.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1729.02,
+      "end_time": 1729.42
+    },
+    {
+      "text": "We can't have you flying over for a $200,000 deal at 250.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1729.42,
+      "end_time": 1733.54
+    },
+    {
+      "text": "But what if we put a couple of people in the US to satisfy that pipeline?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1733.54,
+      "end_time": 1738.99
+    },
+    {
+      "text": "Now, you're better for it in two ways.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1739.63,
+      "end_time": 1741.59
+    },
+    {
+      "text": "You're better in a new business.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1741.59,
+      "end_time": 1742.91
+    },
+    {
+      "text": "But now thinking about going back to Riot Games and Red Bull and saying you now have a global organization that's a valuable prop value of you and a strong value proposition in addition to all the hovercraft stuff.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1743.31,
+      "end_time": 1755.95
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1755.95,
+      "end_time": 1756.27
+    },
+    {
+      "text": "So that's one area, Cameron, where we wouldn't do it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1757.23,
+      "end_time": 1760.19
+    },
+    {
+      "text": "When I talk about the strategy side, that's totally different, that doesn't get allocated to Anton's P and L. It's a separate organization with a separate pnl.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1760.19,
+      "end_time": 1769.18
+    },
+    {
+      "text": "They get engaged, we figure out an intercorporate property profit share.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1769.34,
+      "end_time": 1773.58
+    },
+    {
+      "text": "Okay, thank you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1773.98,
+      "end_time": 1775.1
+    },
+    {
+      "text": "Any other questions?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1776.3,
+      "end_time": 1777.42
+    },
+    {
+      "text": "But that's one of those things.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1780.62,
+      "end_time": 1781.9
+    },
+    {
+      "text": "Why you got to, you got to look at it and say, why does someone want to join us?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1781.9,
+      "end_time": 1786.14
+    },
+    {
+      "text": "Because they want to scale.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1786.14,
+      "end_time": 1787.18
+    },
+    {
+      "text": "Because if someone doesn't want to do that, that tells me they're not really interested in scale.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1787.98,
+      "end_time": 1792.38
+    },
+    {
+      "text": "They're interested in just getting some bucks, dollars from someone and more interested in the profit of the business.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1792.38,
+      "end_time": 1798.03
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1798.59,
+      "end_time": 1798.99
+    },
+    {
+      "text": "When you look at the ownership again, I can make the argument that you can do the math.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1799.47,
+      "end_time": 1804.55
+    },
+    {
+      "text": "If you take this of what we're valuing at the business, it is, I mean, so enhanced, it's $35 million that we're saying the enterprise value, I can tell you right now, I can sell this business tomorrow.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1804.55,
+      "end_time": 1817.55
+    },
+    {
+      "text": "Given our run rate and hovercraft exposure and omms, probably easily more than 50, 60, you know, somewhere someone would eat that up.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1817.55,
+      "end_time": 1825.34
+    },
+    {
+      "text": "We get, we get offers all day long and we're telling people, come back in three years, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1825.34,
+      "end_time": 1829.54
+    },
+    {
+      "text": "We literally are getting offers today.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1829.62,
+      "end_time": 1831.06
+    },
+    {
+      "text": "It's crazy that also, We've also accounted, when you look at post ownership for the safe round dilution already and the MIP dilution.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1831.06,
+      "end_time": 1840.82
+    },
+    {
+      "text": "This is important for you, Anton.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1840.9,
+      "end_time": 1842.5
+    },
+    {
+      "text": "So this allows you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1842.5,
+      "end_time": 1844.5
+    },
+    {
+      "text": "We're going to allocate shares to you that you're going to give your key employees and those shares are going to have value.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1844.74,
+      "end_time": 1852.75
+    },
+    {
+      "text": "Those aren't just pipe dream shares where we give someone 50,000, 20,000 shares, 10,000 shares, and at one day we're all high fiving and they're called, like I said, I've been in organizations like that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1853.15,
+      "end_time": 1864.79
+    },
+    {
+      "text": "It's not fun.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1864.79,
+      "end_time": 1865.55
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1865.55,
+      "end_time": 1865.87
+    },
+    {
+      "text": "People are killing themselves for four or five years and then you know who wins?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1865.87,
+      "end_time": 1870.83
+    },
+    {
+      "text": "None of them.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1871.23,
+      "end_time": 1871.91
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1871.91,
+      "end_time": 1872.27
+    },
+    {
+      "text": "And so we're trying to build a MIP program that literally for key employees that are killing themselves and have been here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1872.68,
+      "end_time": 1879.24
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1879.48,
+      "end_time": 1879.84
+    },
+    {
+      "text": "Not the founders, key employees who don't have shares that they will get an allocation of shares that in our mind should be worth somewhere between 8 and $20 at exit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1879.84,
+      "end_time": 1891.88
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1892.12,
+      "end_time": 1892.44
+    },
+    {
+      "text": "So if you give someone 30,000 shares, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1892.44,
+      "end_time": 1896.6
+    },
+    {
+      "text": "It's probably $300,000 when it's all said and done.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1897.16,
+      "end_time": 1900.86
+    },
+    {
+      "text": "Now, there's no guarantee, obviously, could be zero.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1900.86,
+      "end_time": 1903.06
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1903.14,
+      "end_time": 1903.54
+    },
+    {
+      "text": "But we've built a waterfall model which includes them not at the first tier because obviously we all have rollovers.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1903.78,
+      "end_time": 1911.7
+    },
+    {
+      "text": "We need to get our money back in.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1911.7,
+      "end_time": 1913.1
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1913.1,
+      "end_time": 1913.46
+    },
+    {
+      "text": "But after that, as, as we're growing and growing and growing, that the pot for them is getting bigger and bigger and bigger.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1913.54,
+      "end_time": 1922.34
+    },
+    {
+      "text": "And if we sell it for what we think we are we're going to sell it for, then there will be a sizable pot.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1922.82,
+      "end_time": 1928.32
+    },
+    {
+      "text": "Does this make sense?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1928.88,
+      "end_time": 1929.92
+    },
+    {
+      "text": "Yeah, that's great.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1930.72,
+      "end_time": 1931.44
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 1931.44,
+      "end_time": 1931.84
+    },
+    {
+      "text": "Just quick, do you have a.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 1932.32,
+      "end_time": 1933.92
+    },
+    {
+      "text": "It may be too early, but have you, have you, do you have a view of like a rough percentage of the, the MIP that could get attributed to Collider in that initial modeling that you've done?",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 1934.48,
+      "end_time": 1946.08
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1947.36,
+      "end_time": 1947.76
+    },
+    {
+      "text": "Yes and no.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1949.6,
+      "end_time": 1950.48
+    },
+    {
+      "text": "And let me, let me explain what I mean by that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1950.48,
+      "end_time": 1952.72
+    },
+    {
+      "text": "Um, if it was just day one, I would say, yeah, it's easy, take all the purchase prices.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1953.01,
+      "end_time": 1959.17
+    },
+    {
+      "text": "But the reality is what we've seen in two businesses that we had, one has like hovercraft is from where they are were to where they are.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1959.17,
+      "end_time": 1970.65
+    },
+    {
+      "text": "It's, it's like they, they may even double this year.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1970.65,
+      "end_time": 1974.05
+    },
+    {
+      "text": "I mean, it's, it's massive.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1974.05,
+      "end_time": 1975.41
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1975.41,
+      "end_time": 1975.65
+    },
+    {
+      "text": "So I have to account for that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1975.65,
+      "end_time": 1976.85
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1976.85,
+      "end_time": 1977.13
+    },
+    {
+      "text": "And the key employees there.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1977.13,
+      "end_time": 1978.29
+    },
+    {
+      "text": "And to all transparency, like on the OMM side, they have grown, but they also had a division that's, that struggled, that drove down their ebitda.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1979.1,
+      "end_time": 1989.74
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1989.9,
+      "end_time": 1990.3
+    },
+    {
+      "text": "So if I would have handed shares to people in a division that didn't work, then I had a struggle.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1991.02,
+      "end_time": 1997.46
+    },
+    {
+      "text": "So what we like to do with any new business coming in, we need to take a good, you know, six months and see where you guys are in that landscape of total ebitda.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 1997.46,
+      "end_time": 2008.49
+    },
+    {
+      "text": "What are your contributions are?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2008.65,
+      "end_time": 2010.25
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2010.25,
+      "end_time": 2010.53
+    },
+    {
+      "text": "Because what you tell me today could be great.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2010.53,
+      "end_time": 2012.49
+    },
+    {
+      "text": "And then three months from now, you can all of a sudden lose three customers, be losing money.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2012.49,
+      "end_time": 2017.53
+    },
+    {
+      "text": "I mean, that's reality of this business, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2017.53,
+      "end_time": 2019.61
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2019.85,
+      "end_time": 2020.25
+    },
+    {
+      "text": "Hoping it's not the case.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2020.25,
+      "end_time": 2021.13
+    },
+    {
+      "text": "We're going to diligence it out.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2021.13,
+      "end_time": 2022.53
+    },
+    {
+      "text": "But you know, unless there's a recurring run rate business that has three year contracts, any business is subject to that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2022.53,
+      "end_time": 2031.05
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2031.05,
+      "end_time": 2031.29
+    },
+    {
+      "text": "And so to answer that question, Paul, is I can't, I know there will be shares.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2031.29,
+      "end_time": 2036.42
+    },
+    {
+      "text": "I can't tell you how much that will be attributable.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2036.66,
+      "end_time": 2039.94
+    },
+    {
+      "text": "I can tell you if you looked at their contribution of it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2040.1,
+      "end_time": 2045.06
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2045.22,
+      "end_time": 2045.62
+    },
+    {
+      "text": "That's not the issue.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2046.9,
+      "end_time": 2047.7
+    },
+    {
+      "text": "The issue is Skyview has more share.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2047.7,
+      "end_time": 2049.5
+    },
+    {
+      "text": "So we're the ones that we're getting diluted the most and handing that out to every company's mips.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2049.5,
+      "end_time": 2055.14
+    },
+    {
+      "text": "So yours will at least be what the value of your, your EBIT is.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2055.22,
+      "end_time": 2059.87
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2060.03,
+      "end_time": 2060.43
+    },
+    {
+      "text": "You'll have a certain percent, a percentage of shares.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2060.75,
+      "end_time": 2064.99
+    },
+    {
+      "text": "So you know, if you look at like your rollover shares, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2064.99,
+      "end_time": 2069.47
+    },
+    {
+      "text": "And you know, a 10% of that, if you set aside, that's fine.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2069.47,
+      "end_time": 2073.31
+    },
+    {
+      "text": "But we also have most of the shares so we want to allocate that out to the organizations as they're performing and not just this year.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2073.469,
+      "end_time": 2081.19
+    },
+    {
+      "text": "We don't want to say here's all the money this year, like for Hovercraft, we didn't give them their full allocation, we gave them just a chunk to keep their key employees.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2081.19,
+      "end_time": 2089.51
+    },
+    {
+      "text": "And we have more that we can continue to allocate down the line.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2090.07,
+      "end_time": 2093.43
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2093.43,
+      "end_time": 2093.75
+    },
+    {
+      "text": "So it won't be worse than if you did a MIP on your own, but it could be a lot better if you're growing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2093.75,
+      "end_time": 2099.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2100.71,
+      "end_time": 2101.07
+    },
+    {
+      "text": "And just to just.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2101.07,
+      "end_time": 2102.39
+    },
+    {
+      "text": "Because obviously that's like a hidden, hidden value as a.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2102.39,
+      "end_time": 2105.75
+    },
+    {
+      "text": "Roughly in proportion to I guess Hovercraft's overall like valuation.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2105.99,
+      "end_time": 2110.64
+    },
+    {
+      "text": "Was it, you were talking 1, 2%.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2110.72,
+      "end_time": 2112.64
+    },
+    {
+      "text": "Is it as a.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2112.72,
+      "end_time": 2114.08
+    },
+    {
+      "text": "Well, no, no.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2114.08,
+      "end_time": 2114.64
+    },
+    {
+      "text": "So think about it, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2114.64,
+      "end_time": 2115.76
+    },
+    {
+      "text": "So we, we have the most shares in the company.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2115.84,
+      "end_time": 2119.28
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2119.36,
+      "end_time": 2119.68
+    },
+    {
+      "text": "Because we have the highest percentage of it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2119.68,
+      "end_time": 2122
+    },
+    {
+      "text": "So what we're saying, me and my business partner, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2122.48,
+      "end_time": 2125.4
+    },
+    {
+      "text": "Are saying up top at that Skyview Partners level, which owns most of Skyview Holdings.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2125.4,
+      "end_time": 2131.36
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2132,
+      "end_time": 2132.32
+    },
+    {
+      "text": "We have here, we started 100 and we get diluted and diluted and diluted is, yeah, I'm willing to take myself down by 10% our share.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2132.32,
+      "end_time": 2141.32
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2141.32,
+      "end_time": 2142.56
+    },
+    {
+      "text": "And we're willing to hand that out above and beyond.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2142.56,
+      "end_time": 2145.16
+    },
+    {
+      "text": "So the simplest way would have done it is 10 of your shares goes into a pot and that those go to your employees.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2145.64,
+      "end_time": 2152.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2152.439,
+      "end_time": 2152.84
+    },
+    {
+      "text": "But the reality is that means that I am not participating in helping out all the employees of this company.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2153.16,
+      "end_time": 2160.6
+    },
+    {
+      "text": "So we're willing to say 10% of our pots going in.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2160.6,
+      "end_time": 2163.76
+    },
+    {
+      "text": "I just can't Tell you how much of that pot gets allocated because I have to look at performance over time.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2163.76,
+      "end_time": 2170.96
+    },
+    {
+      "text": "Yeah, yeah, yeah, yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2171.12,
+      "end_time": 2172.44
+    },
+    {
+      "text": "Get it.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2172.44,
+      "end_time": 2172.96
+    },
+    {
+      "text": "But you won't be worse than.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2173.68,
+      "end_time": 2175.28
+    },
+    {
+      "text": "As if you gave away money yourself.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2175.36,
+      "end_time": 2177.16
+    },
+    {
+      "text": "Let's put it that way.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2177.16,
+      "end_time": 2177.72
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2177.72,
+      "end_time": 2178.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2178.24,
+      "end_time": 2178.8
+    },
+    {
+      "text": "But I believe that you're going to grow and I believe that you're going to be, you know, sizable.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2179.76,
+      "end_time": 2184.72
+    },
+    {
+      "text": "And then, you know, we're going to have a pot.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2184.72,
+      "end_time": 2186.84
+    },
+    {
+      "text": "And by the way, that pot continues to change as we buy companies because you have more shares, more enterprise value.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2186.84,
+      "end_time": 2192.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2192.96,
+      "end_time": 2193.44
+    },
+    {
+      "text": "So I hate to be vague on it, but like I said, I can't just give you an answer today because I just don't know.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2194.8,
+      "end_time": 2200
+    },
+    {
+      "text": "Right, yeah, I get it.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2200.24,
+      "end_time": 2201.2
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2201.2,
+      "end_time": 2201.44
+    },
+    {
+      "text": "It's, it's.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2201.44,
+      "end_time": 2203.6
+    },
+    {
+      "text": "You can, it's always very difficult to be specific with mips and any sort of equity scheme like that.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2203.6,
+      "end_time": 2209.48
+    },
+    {
+      "text": "But so, but just any sort of that color is useful just to help evaluate it.",
+      "speaker_name": "Paul Winterflood (MKS)",
+      "start_time": 2209.48,
+      "end_time": 2213.76
+    },
+    {
+      "text": "I mean, we have an idea that we want to take 10% of our, our shares and we want to dilute ourselves to give it to key employees and those key employees.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2214.09,
+      "end_time": 2225.21
+    },
+    {
+      "text": "By the way, Anton, it could be a Charlotte or it could be a new one.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2225.21,
+      "end_time": 2229.25
+    },
+    {
+      "text": "It could be, you say, hey, look, I need a really strong head in the US in order to get that person, got to give them some shares.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2229.25,
+      "end_time": 2236.21
+    },
+    {
+      "text": "I mean, we just did that in Hovercraft.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2236.21,
+      "end_time": 2238.09
+    },
+    {
+      "text": "We hired a creative director, worked for Nike for like 20 years.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2238.33,
+      "end_time": 2242.08
+    },
+    {
+      "text": "Knows everybody, superstar.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2242.08,
+      "end_time": 2244.04
+    },
+    {
+      "text": "We're like, okay, we have an opportunity to get this guy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2244.28,
+      "end_time": 2246.76
+    },
+    {
+      "text": "Gotta give him shares, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2246.92,
+      "end_time": 2248.6
+    },
+    {
+      "text": "Gotta give him MIP shares.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2248.6,
+      "end_time": 2249.8
+    },
+    {
+      "text": "So he's a new employee that you, you use sometimes that to get new employees in.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2249.8,
+      "end_time": 2257.76
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2257.76,
+      "end_time": 2258.12
+    },
+    {
+      "text": "So there'll be different ways we do it again.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2258.12,
+      "end_time": 2261.04
+    },
+    {
+      "text": "The key is we want to reward your, some of your key employees.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2261.04,
+      "end_time": 2264.4
+    },
+    {
+      "text": "There's no question.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2264.4,
+      "end_time": 2265.16
+    },
+    {
+      "text": "We don't want to just hand it out like candy to every person in the organization.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2265.97,
+      "end_time": 2269.81
+    },
+    {
+      "text": "That is not the approach.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2269.81,
+      "end_time": 2271.25
+    },
+    {
+      "text": "This is a key employee tool.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2271.25,
+      "end_time": 2273.89
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2274.77,
+      "end_time": 2275.17
+    },
+    {
+      "text": "Rather than everybody.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2275.17,
+      "end_time": 2276.77
+    },
+    {
+      "text": "But the important thing is anything we do is to drive enterprise value.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2276.93,
+      "end_time": 2283.09
+    },
+    {
+      "text": "That is it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2283.57,
+      "end_time": 2284.29
+    },
+    {
+      "text": "That, that is 100%.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2284.29,
+      "end_time": 2286.05
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2286.29,
+      "end_time": 2286.69
+    },
+    {
+      "text": "And so this is scenario one.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2287.25,
+      "end_time": 2289.73
+    },
+    {
+      "text": "This is a model where if you see, get this out of the way because my whole thing is down here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2289.97,
+      "end_time": 2295.78
+    },
+    {
+      "text": "If you see, we start out with 8 million of EBITDA.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2296.02,
+      "end_time": 2300.1
+    },
+    {
+      "text": "And so what does that mean?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2300.18,
+      "end_time": 2301.5
+    },
+    {
+      "text": "That means that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2301.5,
+      "end_time": 2302.38
+    },
+    {
+      "text": "And that's.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2302.38,
+      "end_time": 2302.9
+    },
+    {
+      "text": "We're doing light synergies.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2303.38,
+      "end_time": 2304.66
+    },
+    {
+      "text": "10%.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2304.66,
+      "end_time": 2305.14
+    },
+    {
+      "text": "That means there's really only 10% we shave off from a synergy perspective, which is very light, as you know, in a lot of deals.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2305.14,
+      "end_time": 2312.38
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2312.38,
+      "end_time": 2312.62
+    },
+    {
+      "text": "But in this phase, we're trying to keep the organizations, bring them in as whole.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2312.62,
+      "end_time": 2317.46
+    },
+    {
+      "text": "Maybe there's more than one HR director, maybe where everyone has spend in marketing or it that we can cut down.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2318.06,
+      "end_time": 2324.94
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2324.94,
+      "end_time": 2325.22
+    },
+    {
+      "text": "But other than that, we want to keep everybody in and keep on growing and growing and growing and make whoever comes in in this phase part of the leadership team and their organizations.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2325.22,
+      "end_time": 2335.18
+    },
+    {
+      "text": "You know, the core competency in, in their areas.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2335.42,
+      "end_time": 2338.14
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2338.14,
+      "end_time": 2338.46
+    },
+    {
+      "text": "Which gives them a ton of growth both in different places and management as we continue to buy and suck in.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2338.46,
+      "end_time": 2345.05
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2345.05,
+      "end_time": 2345.37
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2345.69,
+      "end_time": 2346.25
+    },
+    {
+      "text": "After you guys.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2346.49,
+      "end_time": 2347.33
+    },
+    {
+      "text": "I think it's probably about a million and a half of pre synergy dollars we would look to acquire.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2347.33,
+      "end_time": 2352.17
+    },
+    {
+      "text": "And as I said, we have, we have companies that have 3 million of.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2352.65,
+      "end_time": 2356.81
+    },
+    {
+      "text": "Of EBITDA.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2356.89,
+      "end_time": 2358.41
+    },
+    {
+      "text": "One million, half a million, 2 million.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2358.41,
+      "end_time": 2360.49
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2360.49,
+      "end_time": 2360.81
+    },
+    {
+      "text": "And so, you know, this is fluid.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2360.81,
+      "end_time": 2363.49
+    },
+    {
+      "text": "This could be.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2363.49,
+      "end_time": 2364.25
+    },
+    {
+      "text": "I could get off a call tomorrow afternoon and we can have the next one could be a $3 million EBITDA.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2364.65,
+      "end_time": 2371.01
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2371.01,
+      "end_time": 2371.21
+    },
+    {
+      "text": "That we just got to get here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2371.21,
+      "end_time": 2372.41
+    },
+    {
+      "text": "But the whole goal in our financial model, because we can model it a million ways, is a million and a half.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2372.41,
+      "end_time": 2379.35
+    },
+    {
+      "text": "Anything above that obviously will create a bigger thing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2379.35,
+      "end_time": 2382.99
+    },
+    {
+      "text": "And year over year, we would just say, okay, we're going to grow 25% year over year.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2383.15,
+      "end_time": 2388.95
+    },
+    {
+      "text": "EBITDA.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2388.95,
+      "end_time": 2389.59
+    },
+    {
+      "text": "Now, that's not all pure growth.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2389.59,
+      "end_time": 2391.47
+    },
+    {
+      "text": "Some of that just margin flattening.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2391.47,
+      "end_time": 2393.31
+    },
+    {
+      "text": "Some of that is just being a better, stronger, faster organization.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2393.55,
+      "end_time": 2397.23
+    },
+    {
+      "text": "Understanding how to.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2397.39,
+      "end_time": 2398.43
+    },
+    {
+      "text": "Is there a way to value cogs and either take that down internally, which lowers margins, or are we adding the right margin to that?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2398.8,
+      "end_time": 2405.68
+    },
+    {
+      "text": "Could we add two more points?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2405.68,
+      "end_time": 2407.04
+    },
+    {
+      "text": "Like think about if you had two more points on your COGS.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2407.04,
+      "end_time": 2410.08
+    },
+    {
+      "text": "Yeah, right.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2410.24,
+      "end_time": 2410.96
+    },
+    {
+      "text": "You have $8 million of COGS.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2410.96,
+      "end_time": 2412.8
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2412.88,
+      "end_time": 2413.28
+    },
+    {
+      "text": "So every.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2413.92,
+      "end_time": 2414.8
+    },
+    {
+      "text": "Or £8 million, let's call it US$10 million.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2414.8,
+      "end_time": 2417.64
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2417.64,
+      "end_time": 2418
+    },
+    {
+      "text": "Essentially every point is another hundred grand of.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2419.52,
+      "end_time": 2423.24
+    },
+    {
+      "text": "Of.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2423.24,
+      "end_time": 2423.6
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2424.25,
+      "end_time": 2424.73
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2424.89,
+      "end_time": 2425.25
+    },
+    {
+      "text": "So if you figure out a way to say, hey, look, let's squeeze this vendor and get four more points out of them, that alone, without doing anything different, drives your EBITDA up $400,000.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2425.25,
+      "end_time": 2436.33
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2436.33,
+      "end_time": 2436.65
+    },
+    {
+      "text": "And that's what Travis is really, really, really good at doing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2436.73,
+      "end_time": 2439.37
+    },
+    {
+      "text": "He will analyze that and we may look at it across companies and say, guess what?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2439.53,
+      "end_time": 2443.93
+    },
+    {
+      "text": "We've spent more money across these companies on, I don't know, an LED company, whatever it is, Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2444.33,
+      "end_time": 2450.01
+    },
+    {
+      "text": "And so let's just buy one.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2450.01,
+      "end_time": 2451.75
+    },
+    {
+      "text": "If we buy one, we don't have to spend it anymore or let's just build that organization or something like that, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2452.79,
+      "end_time": 2457.71
+    },
+    {
+      "text": "So, so like I said, it'll be a combination.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2457.71,
+      "end_time": 2460.23
+    },
+    {
+      "text": "It'll probably end up being somewhere 18 to 20% growth year over year.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2460.55,
+      "end_time": 2464.23
+    },
+    {
+      "text": "Where we are in this phase and what's about to happen here, it is about to explode in a lot of different areas.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2465.27,
+      "end_time": 2472.27
+    },
+    {
+      "text": "I will show you some big bets that we have, but if we get even one of them, right, like innovation in spaces, it's a multi billion dollar growth business.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2472.27,
+      "end_time": 2483.72
+    },
+    {
+      "text": "I mean, you know, it 1% of that is $10 million.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2484.6,
+      "end_time": 2488.44
+    },
+    {
+      "text": "You know, like, like this is not hard to do right here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2490.2,
+      "end_time": 2494.8
+    },
+    {
+      "text": "If I was a billion dollar eit a business, this is hard to do, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2494.8,
+      "end_time": 2498.2
+    },
+    {
+      "text": "But growing from 8 million to 10 million, if we can't do that as a global organization in a world where people are picking turnkey providers and pretty much all of our organizations are growing and there's huge opportunities, there's something wrong with us, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2498.52,
+      "end_time": 2512.48
+    },
+    {
+      "text": "So our projection is we grow, grow, grow, grow, grow.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2512.8,
+      "end_time": 2515.04
+    },
+    {
+      "text": "And then here's the three scenarios, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2515.76,
+      "end_time": 2518.48
+    },
+    {
+      "text": "This 10x, we can get that today, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2518.96,
+      "end_time": 2522.04
+    },
+    {
+      "text": "But what we do know is the way we're building the organization, we're building it for exit, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2522.04,
+      "end_time": 2527.28
+    },
+    {
+      "text": "So we're laying down a global CRM across the company.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2527.44,
+      "end_time": 2532.89
+    },
+    {
+      "text": "Marketing, as I've showed you, Anton, is centralized and we're building a repository that is best in class, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2533.05,
+      "end_time": 2540.33
+    },
+    {
+      "text": "And we're doing marketing out of one organization, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2540.73,
+      "end_time": 2543.21
+    },
+    {
+      "text": "We'll have a global sales organization as we grow.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2543.77,
+      "end_time": 2546.17
+    },
+    {
+      "text": "Strategy will be centralized, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2546.65,
+      "end_time": 2548.81
+    },
+    {
+      "text": "Everything we do from a messaging standpoint will is there to attract the companies that we know that are going to be there in four or five years.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2549.13,
+      "end_time": 2557.37
+    },
+    {
+      "text": "Why?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2557.37,
+      "end_time": 2557.69
+    },
+    {
+      "text": "Because we've been through this before and we know exactly who's going to be there in four or five years.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2558.11,
+      "end_time": 2561.55
+    },
+    {
+      "text": "Nobody builds.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2561.71,
+      "end_time": 2562.75
+    },
+    {
+      "text": "You look at Accenture, Deloitte, Amazon, Google, Broadcom, and we started out with about six or seven and we have about 15 now.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2562.91,
+      "end_time": 2572.03
+    },
+    {
+      "text": "Some companies we didn't even realize, I mean there's two stadium, huge stadium architecture build firms that were like that we're working with and we're like, all right, at some point these guys are going to buy us, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2572.19,
+      "end_time": 2582.51
+    },
+    {
+      "text": "Or at least want to buy us, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2582.51,
+      "end_time": 2584.07
+    },
+    {
+      "text": "So we know at that point to get to a multiple between 15 and 20, which we believe we'll get to, all we have to do is market ourselves with clarity and correctly, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2584.07,
+      "end_time": 2596.35
+    },
+    {
+      "text": "And if we do that, there's a massive payday.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2596.67,
+      "end_time": 2601.47
+    },
+    {
+      "text": "And so there's a massive payday for every single person in the organization.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2601.87,
+      "end_time": 2605.79
+    },
+    {
+      "text": "And then if you look at you guys from a founder standpoint, like I said, that's why I said to me, the earnouts, the escrow, all that Code.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2606.19,
+      "end_time": 2616.14
+    },
+    {
+      "text": "That's great, you know, put some money in your pocket.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2616.14,
+      "end_time": 2618.22
+    },
+    {
+      "text": "This is the opportunity here.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2619.1,
+      "end_time": 2620.62
+    },
+    {
+      "text": "Now that is scenario one.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2621.1,
+      "end_time": 2622.78
+    },
+    {
+      "text": "Before I go to scenario two, which essentially is the same, just with us borrowing more and acquiring more.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2622.78,
+      "end_time": 2629.66
+    },
+    {
+      "text": "Does this make sense?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2630.06,
+      "end_time": 2631.18
+    },
+    {
+      "text": "Yeah, it makes perfect sense.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2631.34,
+      "end_time": 2632.78
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2633.42,
+      "end_time": 2633.98
+    },
+    {
+      "text": "This is no different than what you had, again, other than the additional rollover.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2634.06,
+      "end_time": 2638.06
+    },
+    {
+      "text": "This is no different.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2638.54,
+      "end_time": 2639.38
+    },
+    {
+      "text": "But again, I'm using that additional rollover and that additional rollover is going to create more value for your shares.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2639.38,
+      "end_time": 2645.98
+    },
+    {
+      "text": "Because if I have to go build a strategy organization from scratch, yeah, some of that to do it, but that's going to contribute to your number because again, you're power pass through with us.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2645.98,
+      "end_time": 2658.3
+    },
+    {
+      "text": "So this model, in about six months to a year, we go out and say, okay, now we're, you know, a seven, $8 million company, probably exceeding $50 million of revenues.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2661.1,
+      "end_time": 2673.32
+    },
+    {
+      "text": "Now I can go out to the institutional market who would have required warrants and all kinds of crazy stuff.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2674.04,
+      "end_time": 2679
+    },
+    {
+      "text": "And now I can go take a second safe round down.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2679.56,
+      "end_time": 2685.24
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2685.8,
+      "end_time": 2686.2
+    },
+    {
+      "text": "And that Safe round at $70 million, if we raise three and a half, we're now only giving up 5% of the company, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2686.68,
+      "end_time": 2696.45
+    },
+    {
+      "text": "Not 10% of the company.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2696.69,
+      "end_time": 2698.13
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2698.13,
+      "end_time": 2698.53
+    },
+    {
+      "text": "The dilution stays the same, but the safe round dilution goes up.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2698.69,
+      "end_time": 2703.17
+    },
+    {
+      "text": "But it allows us to buy a lot of companies that we feel in the next 12 to 24 months are going to be on a cutting room floor.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2703.17,
+      "end_time": 2710.53
+    },
+    {
+      "text": "Right now we're generous at the multiple we put on that just for the financial model.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2710.61,
+      "end_time": 2716.21
+    },
+    {
+      "text": "The reality is some of them are going to be distressed and we're going to know that under us we can turn that around.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2716.49,
+      "end_time": 2722.65
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2722.73,
+      "end_time": 2723.05
+    },
+    {
+      "text": "So we're going to buy some for pennies on the dollar that we know with us that's a profitable business.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2723.05,
+      "end_time": 2728.65
+    },
+    {
+      "text": "We get into a new market, we have new customers, whatever it may be.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2728.97,
+      "end_time": 2732.17
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2732.41,
+      "end_time": 2732.809
+    },
+    {
+      "text": "And so I think it's even more than 5.5 million.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2733.45,
+      "end_time": 2735.81
+    },
+    {
+      "text": "But just for the model, we do that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2735.81,
+      "end_time": 2737.69
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2737.69,
+      "end_time": 2737.93
+    },
+    {
+      "text": "So if we do that, you have the same exact starting point from a rollover, your projected ownership goes down slightly to 3, 2, 4.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2737.93,
+      "end_time": 2748
+    },
+    {
+      "text": "I think it was at 3, 4, 6, wasn't it?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2748,
+      "end_time": 2752.52
+    },
+    {
+      "text": "3, 4, 6 to 3, 2, 4.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2752.6,
+      "end_time": 2754.32
+    },
+    {
+      "text": "So you're going down 5%.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2754.32,
+      "end_time": 2755.72
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2755.88,
+      "end_time": 2756.28
+    },
+    {
+      "text": "And we, I gotta, these zoom things keep on popping up where I need to click.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2757.24,
+      "end_time": 2764.92
+    },
+    {
+      "text": "And if you look at that now, now all of a sudden your absolute deal value goes up.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2765.08,
+      "end_time": 2772.67
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2772.91,
+      "end_time": 2773.27
+    },
+    {
+      "text": "So in this model it was 13 to 18.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2773.27,
+      "end_time": 2775.39
+    },
+    {
+      "text": "In that model we're continuing to go, continuing to buy.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2776.27,
+      "end_time": 2780.91
+    },
+    {
+      "text": "So while we're growing, we've bought another $5 million of EBITDA.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2781.71,
+      "end_time": 2786.99
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2787.63,
+      "end_time": 2787.95
+    },
+    {
+      "text": "We've integrated that in and now we're a $40 million company.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2787.95,
+      "end_time": 2793.19
+    },
+    {
+      "text": "Like when you get there, then you're selling for five, six, seven hundred million dollars.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2793.19,
+      "end_time": 2799.4
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2799.56,
+      "end_time": 2799.96
+    },
+    {
+      "text": "Because then we're probably over a hundred in revenues.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2800.2,
+      "end_time": 2802.84
+    },
+    {
+      "text": "The slants that we're going to play are AI driven, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2803.96,
+      "end_time": 2807.8
+    },
+    {
+      "text": "There are certain things that are, we know will help prop up the valuation.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2807.8,
+      "end_time": 2811.88
+    },
+    {
+      "text": "The fact that when you talk to an enterprise company, because we've done this before, we've sold companies, Travis sold two companies to VMware.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2812.44,
+      "end_time": 2819.08
+    },
+    {
+      "text": "We understand what they're looking for, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2819.16,
+      "end_time": 2821.32
+    },
+    {
+      "text": "And so they can buy a collection of companies that they might do, but it's a headache to integrate, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2821.32,
+      "end_time": 2828.19
+    },
+    {
+      "text": "Like a holding model, not going to work.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2828.19,
+      "end_time": 2830.43
+    },
+    {
+      "text": "They can look at someone like us who we could present a very easy integration point with singular systems.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2830.59,
+      "end_time": 2837.949
+    },
+    {
+      "text": "I mean Travis has been working on the chart of accounts for all of these companies, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2837.949,
+      "end_time": 2843.87
+    },
+    {
+      "text": "So that we have an enterprise grade financial system and that's what they look for and that's why they end up paying an extra turn for this, an extra turn for that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2844.43,
+      "end_time": 2854.94
+    },
+    {
+      "text": "And all of a sudden you're at 15, 18, 20, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2854.94,
+      "end_time": 2858.02
+    },
+    {
+      "text": "And, and so we know, understand how to do it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2858.66,
+      "end_time": 2860.94
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2860.94,
+      "end_time": 2861.3
+    },
+    {
+      "text": "And so that's kind of where we're at.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2862.42,
+      "end_time": 2864.82
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2864.82,
+      "end_time": 2865.179
+    },
+    {
+      "text": "And so I've kept for you guys the multiple, sorry the enterprise value extremely low for right now.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2865.179,
+      "end_time": 2873.62
+    },
+    {
+      "text": "I have pretty much kept the exact same deal, the same even though I probably should have moved some things because there are other pieces in play that we want to go do.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2873.86,
+      "end_time": 2885.07
+    },
+    {
+      "text": "I've kept you in the third spot right now, but I'm gonna need to know like, like either now or within the next, you know, like period of, of hour, like by tomorrow whether you want to do this deal.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2885.79,
+      "end_time": 2900.27
+    },
+    {
+      "text": "So Jeff, we've, I've actually got a call schedule with Cameron and Paul for tomorrow afternoon and Cameron, Paul, it kind of feels like that would be a good time for, for us to regroup on that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2901.08,
+      "end_time": 2912.68
+    },
+    {
+      "text": "So Jeff, can you give us.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2912.68,
+      "end_time": 2913.96
+    },
+    {
+      "text": "I forget what time our call is.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2915.72,
+      "end_time": 2917.24
+    },
+    {
+      "text": "I think it's around this time, isn't it?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2917.24,
+      "end_time": 2919.04
+    },
+    {
+      "text": "Four o'?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2919.04,
+      "end_time": 2919.36
+    },
+    {
+      "text": "Clock?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2919.36,
+      "end_time": 2919.68
+    },
+    {
+      "text": "Yeah, four o'.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 2919.68,
+      "end_time": 2920.32
+    },
+    {
+      "text": "Clock.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 2920.32,
+      "end_time": 2920.48
+    },
+    {
+      "text": "So be morning.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 2920.48,
+      "end_time": 2921.16
+    },
+    {
+      "text": "I don't know what coaster on Jeff, but should be with you morning, early afternoon your time.",
+      "speaker_name": "Cameron Coutts",
+      "start_time": 2921.16,
+      "end_time": 2926.2
+    },
+    {
+      "text": "Yeah, I mean that's fine.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2927.63,
+      "end_time": 2928.55
+    },
+    {
+      "text": "You can, you can have until tomorrow to let me know, right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2928.55,
+      "end_time": 2931.23
+    },
+    {
+      "text": "This is best and final.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2932.03,
+      "end_time": 2933.19
+    },
+    {
+      "text": "There's really nothing else I can give given this deal.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2933.19,
+      "end_time": 2935.67
+    },
+    {
+      "text": "I think this is very, very attractive and very fair.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2935.67,
+      "end_time": 2938.83
+    },
+    {
+      "text": "I would tell you that if the answer is I Need to wait a little longer.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2940.19,
+      "end_time": 2944.11
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2944.11,
+      "end_time": 2944.55
+    },
+    {
+      "text": "I don't have a problem with that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2944.55,
+      "end_time": 2945.51
+    },
+    {
+      "text": "I could just guarantee you that you won't be in that third spot.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2945.51,
+      "end_time": 2948.83
+    },
+    {
+      "text": "Yeah, no, I get it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2949.15,
+      "end_time": 2950.15
+    },
+    {
+      "text": "That I can guarantee, you know, because again, we're, we have companies that want to run through a wall at this point.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2950.15,
+      "end_time": 2956.34
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2956.9,
+      "end_time": 2957.3
+    },
+    {
+      "text": "Look, Jeff, thanks so much for taking us through it in so much detail.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2958.1,
+      "end_time": 2961.86
+    },
+    {
+      "text": "I think it's, it, it's great.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2961.86,
+      "end_time": 2963.82
+    },
+    {
+      "text": "It's great to see again, I appreciate what you're doing.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2963.82,
+      "end_time": 2965.94
+    },
+    {
+      "text": "I really genuinely do.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2965.94,
+      "end_time": 2967.3
+    },
+    {
+      "text": "And I appreciate you, you know, agreeing to have Cameron and Paul on.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2967.54,
+      "end_time": 2970.98
+    },
+    {
+      "text": "I think it's great for them to hear it direct from you because it saves me trying to explain a lot that probably I don't get in quite the same way as they do and you do, but it's, it, it's all very, very clear.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2970.98,
+      "end_time": 2983.76
+    },
+    {
+      "text": "So appreciate it and I would.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2984.48,
+      "end_time": 2988.96
+    },
+    {
+      "text": "Are you comfortable sharing this with myself and, and Cameron, Paul, as a, as a link, as you did before?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2989.04,
+      "end_time": 2994.72
+    },
+    {
+      "text": "I'm comfortable sharing it with, with you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2996.64,
+      "end_time": 2998.88
+    },
+    {
+      "text": "You can share it with them, but they're your advisors.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 2998.88,
+      "end_time": 3001.84
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3002.16,
+      "end_time": 3002.56
+    },
+    {
+      "text": "You run the NDA, right?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3002.64,
+      "end_time": 3003.92
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3004.32,
+      "end_time": 3004.84
+    },
+    {
+      "text": "And so you're allowed to share it with your advisors.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3004.84,
+      "end_time": 3006.48
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3006.48,
+      "end_time": 3006.72
+    },
+    {
+      "text": "I know it's technicality, but, you know, that's, they're, they're only looking at it under the auspices of.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3006.72,
+      "end_time": 3014.44
+    },
+    {
+      "text": "Yeah, I get a particular deal.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3014.52,
+      "end_time": 3016.12
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3016.76,
+      "end_time": 3017.32
+    },
+    {
+      "text": "That would be.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3017.72,
+      "end_time": 3018.36
+    },
+    {
+      "text": "That'd be wonderful.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3018.84,
+      "end_time": 3019.8
+    },
+    {
+      "text": "And yeah, we'll, we'll regroup tomorrow afternoon and come back to you so that you've got a.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3019.8,
+      "end_time": 3025.56
+    },
+    {
+      "text": "A way forward from us tomorrow, your time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3026.12,
+      "end_time": 3029.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3030.04,
+      "end_time": 3030.4
+    },
+    {
+      "text": "And so the process after that just, you know, is we would then draft up an LOI for you to sign and then once signed, we would move to due diligence.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3030.4,
+      "end_time": 3040.24
+    },
+    {
+      "text": "Should take, I don't know, inside of a month, let's call it.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3041.52,
+      "end_time": 3045.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3045.2,
+      "end_time": 3045.48
+    },
+    {
+      "text": "We're pretty diligent in how we operate.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3045.48,
+      "end_time": 3048.24
+    },
+    {
+      "text": "And then we send you a purchase agreement which we've skinny down from an M A standpoint to only about 75, 80 pages.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3049.04,
+      "end_time": 3057
+    },
+    {
+      "text": "That is all the pertinent pieces.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3057,
+      "end_time": 3058.96
+    },
+    {
+      "text": "And then, you know, that should take 30, 45 days if you need probably have your own lawyers.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3060.56,
+      "end_time": 3069.93
+    },
+    {
+      "text": "But we have some very good lawyers as well.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3069.93,
+      "end_time": 3072.33
+    },
+    {
+      "text": "Not, not our lawyers, but have worked with Howard that have worked with hovercraft.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3072.33,
+      "end_time": 3077.89
+    },
+    {
+      "text": "So, you know, if you want them, they've already negotiated the terms.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3079.17,
+      "end_time": 3082.77
+    },
+    {
+      "text": "They've seen it already.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3082.77,
+      "end_time": 3083.97
+    },
+    {
+      "text": "So like I said, you know, it's.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3084.29,
+      "end_time": 3086.73
+    },
+    {
+      "text": "It's up to you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3086.73,
+      "end_time": 3087.49
+    },
+    {
+      "text": "You know, obviously, this is your lawyer.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3087.57,
+      "end_time": 3089.41
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3089.95,
+      "end_time": 3090.19
+    },
+    {
+      "text": "You know, my one recommendation, if you are going to do that, don't get a lawyer that's going to charge you like 100 grand, 150 grand, like.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3090.19,
+      "end_time": 3097.23
+    },
+    {
+      "text": "Right, Andy?",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3097.23,
+      "end_time": 3097.87
+    },
+    {
+      "text": "I mean we've, we've seen people do that and there's just no value.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3097.87,
+      "end_time": 3101.67
+    },
+    {
+      "text": "They're just, trust me, for an agreement of this size and a deal of this size, like get a lawyer that's going to charge you the right amount of money.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3101.67,
+      "end_time": 3109.07
+    },
+    {
+      "text": "That would be my one piece of advice.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3109.07,
+      "end_time": 3110.51
+    },
+    {
+      "text": "We've started to reach out to a couple that we know and have worked with and again, Cameron and Paul are advising on, you know, some that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3110.67,
+      "end_time": 3117.86
+    },
+    {
+      "text": "So we'll definitely do that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3118.98,
+      "end_time": 3120.38
+    },
+    {
+      "text": "And actually when I met Howard a few weeks ago, he mentioned that you, you put him onto a. Yeah, I mean very good and very.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3120.38,
+      "end_time": 3127.78
+    },
+    {
+      "text": "I don't even love that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3127.78,
+      "end_time": 3128.82
+    },
+    {
+      "text": "That lawyer down on a couple of things that you know, we made the recommendation but he still.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3128.82,
+      "end_time": 3134.9
+    },
+    {
+      "text": "But it just shows you he was, you know, he's not our lawyer.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3135.14,
+      "end_time": 3138.54
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3138.54,
+      "end_time": 3138.82
+    },
+    {
+      "text": "He was their lawyer.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3138.82,
+      "end_time": 3140.02
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3140.02,
+      "end_time": 3140.34
+    },
+    {
+      "text": "And, and that's fine.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3141.3,
+      "end_time": 3142.58
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3142.58,
+      "end_time": 3142.9
+    },
+    {
+      "text": "But like I said, for me it's reasonable because I know the lawyer world very well from having done this and I'm sure Cameron Paul could tell you the same thing.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3143.3,
+      "end_time": 3153.52
+    },
+    {
+      "text": "You're gonna, There'll be lawyers that'll show up and go $300,000, 200 like insane amount of money.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3153.68,
+      "end_time": 3159.36
+    },
+    {
+      "text": "You've negotiated all the business terms already.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3159.6,
+      "end_time": 3161.84
+    },
+    {
+      "text": "All you need is a lawyer to look at them from a legal standpoint.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3161.84,
+      "end_time": 3165.56
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3165.56,
+      "end_time": 3165.92
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3167.36,
+      "end_time": 3167.76
+    },
+    {
+      "text": "No, it's, it's good advice and it's one that I'm already looking into.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3168.24,
+      "end_time": 3173.89
+    },
+    {
+      "text": "I got a call on Thursday morning with, with a lawyer that we've worked with before, so that's fine.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3173.89,
+      "end_time": 3179.13
+    },
+    {
+      "text": "Like I said, it doesn't, doesn't matter to me who you use.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3179.13,
+      "end_time": 3182.41
+    },
+    {
+      "text": "I'm just.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3182.41,
+      "end_time": 3182.81
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3182.81,
+      "end_time": 3183.05
+    },
+    {
+      "text": "No, I understand.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3183.05,
+      "end_time": 3183.61
+    },
+    {
+      "text": "I don't want them taking your money.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3184.81,
+      "end_time": 3186.41
+    },
+    {
+      "text": "That's the bottom line.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3186.57,
+      "end_time": 3187.61
+    },
+    {
+      "text": "Okay, look, once again, I really appreciate you making the time and thanks for taking it us through it in such detail.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3188.89,
+      "end_time": 3195.13
+    },
+    {
+      "text": "I haven't got any other questions at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3195.69,
+      "end_time": 3199.02
+    },
+    {
+      "text": "Cameron, Paul, I'm not sure if you have but you know, definitely look forward to us regrouping.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3199.02,
+      "end_time": 3205.1
+    },
+    {
+      "text": "Jeff, have, have you got anything that you want to ask me?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3205.1,
+      "end_time": 3208.7
+    },
+    {
+      "text": "I mean, I'm.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3210.06,
+      "end_time": 3211.02
+    },
+    {
+      "text": "Look, you give me.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3211.34,
+      "end_time": 3212.14
+    },
+    {
+      "text": "You've given us the updated.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3212.14,
+      "end_time": 3213.58
+    },
+    {
+      "text": "Travis has talked to you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3214.06,
+      "end_time": 3215.5
+    },
+    {
+      "text": "It's a, it's a. I think an extraordinary opportunity.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3216.62,
+      "end_time": 3219.9
+    },
+    {
+      "text": "I do.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3219.9,
+      "end_time": 3220.38
+    },
+    {
+      "text": "But you know, again, part of what Andy and I.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3221.18,
+      "end_time": 3226.11
+    },
+    {
+      "text": "You talked about.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3226.11,
+      "end_time": 3226.71
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3226.71,
+      "end_time": 3226.95
+    },
+    {
+      "text": "You.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3226.95,
+      "end_time": 3227.27
+    },
+    {
+      "text": "At this point I need people ready to kind of.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3227.51,
+      "end_time": 3231.11
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3231.35,
+      "end_time": 3231.79
+    },
+    {
+      "text": "Run through a wall and go Yeah, I mean, I see it all.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3231.79,
+      "end_time": 3235.35
+    },
+    {
+      "text": "I'm aligned and, and let's kind of get moving and we have some people we're talking to like that.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3235.59,
+      "end_time": 3241.31
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3241.31,
+      "end_time": 3241.63
+    },
+    {
+      "text": "Almost like we have to slow play them a little bit.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3241.63,
+      "end_time": 3244.35
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3244.35,
+      "end_time": 3244.71
+    },
+    {
+      "text": "They're ready to roll and that is really important.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3244.79,
+      "end_time": 3249.03
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3249.27,
+      "end_time": 3249.67
+    },
+    {
+      "text": "To us.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3251.56,
+      "end_time": 3252
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3252,
+      "end_time": 3252.36
+    },
+    {
+      "text": "I appreciate your patience thus for Jeff and, and you know, want to reiterate again that it hasn't just been mean, you know, gone fishing for a month.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3252.36,
+      "end_time": 3259.72
+    },
+    {
+      "text": "It's it understand, you know, it's, it's been time that I think has been invested wisely in, in the team and getting us to a point where, you know, hopefully if we can press the button, things can move forward pretty quick.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3259.88,
+      "end_time": 3270.28
+    },
+    {
+      "text": "But I do appreciate your patience and I appreciate, you know, what you got going on there.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3271.48,
+      "end_time": 3275.48
+    },
+    {
+      "text": "So look, we're not going to waste your time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3275.48,
+      "end_time": 3277.74
+    },
+    {
+      "text": "We'll come back tomorrow once we've had a chance to discuss.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3277.74,
+      "end_time": 3280.06
+    },
+    {
+      "text": "Okay, that sounds great.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3280.7,
+      "end_time": 3282.62
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3282.86,
+      "end_time": 3283.34
+    },
+    {
+      "text": "Have a great afternoon and evening.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3283.98,
+      "end_time": 3286.14
+    },
+    {
+      "text": "Cameron, Paul, I'll speak to you soon.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3286.14,
+      "end_time": 3287.98
+    },
+    {
+      "text": "Cheers, guys.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3288.22,
+      "end_time": 3288.98
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3288.98,
+      "end_time": 3289.5
+    },
+    {
+      "text": "See you, Andy.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3289.58,
+      "end_time": 3290.66
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3290.66,
+      "end_time": 3291.1
+    },
+    {
+      "text": "See you soon.",
+      "speaker_name": "Jeff Kaplan",
+      "start_time": 3291.5,
+      "end_time": 3292.22
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Acquisition",
+      "EBITDA",
+      "Earnout",
+      "Integration",
+      "Valuation",
+      "Consolidation"
+    ],
+    "action_items": "\n**Anton Jerges**\nConduct decision-making call with Cameron and Paul tomorrow at 4 PM UK time (48:39)\nProvide final decision to Jeff by tomorrow afternoon regarding the acquisition deal (48:21)\nMeet with lawyer on Thursday morning to discuss legal representation for the deal (52:59)\n\n**Jeff Kaplan**\nShare deal presentation materials with Anton under NDA for advisor review (49:56)\nAwait final decision from Anton by tomorrow afternoon (48:21)\nPrepare LOI documentation if deal moves forward (50:30)\n\n**Cameron Coutts & Paul Winterflood**\nParticipate in tomorrow's 4 PM UK time call to finalize deal decision (48:39)\nReview shared deal materials from Jeff under advisor capacity (50:02)\n",
+    "outline": null,
+    "overview": "- Jeff Kaplan presented a revised acquisition deal to Anton Jerges as the 'third slot' in their pipeline, reflecting a shift from one to three potential acquisitions in active negotiations.\n- Skyview's enterprise value is conservatively estimated at $35 million, potentially reaching $50-60 million if growth trends continue, supported by strong TTM multiples.\n- The Taco Bell partnership exemplifies Skyview’s strong market position, as brands are now reaching out directly, resulting in four activations with emerging brands.\n- Industry consolidation mirrors cloud computing, with key brands opting for comprehensive agency partnerships, exemplified by Nike's consolidation to Hovercraft.\n- The QSBS tax benefit could yield $10-15 million tax-free per taxpayer upon exit; structural adjustments to C Corp are necessary for qualification.\n- Deal structure includes $3 million cash at closing, with a seller-friendly earnout based on performance and shared profit distribution post-commitments.\n- Management Incentive Plan allocates approximately 10% of shares to key employees, with exit potential valued between $8-20 per share.\n- Proposed organic growth model targets 25% year-over-year EBITDA growth for a projected exit value between $13-18 million, while an additional funding round could target $40+ million value.\n- Decision on the acquisition must be finalized by tomorrow afternoon due to competing opportunities in the pipeline.\n- Follow-up call scheduled for tomorrow at 4 PM UK time to finalize decision before proceeding with the LOI and due diligence process.",
+    "short_summary": "Jeff Kaplan outlined a revised acquisition strategy to Anton Jerges, introducing a third potential acquisition deal amidst active negotiations. Skyview's enterprise value is conservatively estimated at $35 million, with potential growth to $50-60 million. The successful partnership with Taco Bell illustrates Skyview's strong market presence, attracting direct interest from brands, resulting in four activations. The meeting discussed industry trends, particularly consolidation in agency partnerships, as seen with Nike's move to Hovercraft. Key financial strategies include a $3 million cash closing deal, a performance-based earnout, and a Management Incentive Plan allocating 10% of shares to key employees. The proposed growth model anticipates a 25% year-over-year EBITDA increase, emphasizing urgency for decision-making due to competing opportunities, with a follow-up call set for tomorrow.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JZK3FJW92H9PZMHW58N9DG5G",
+  "audio_url": "https://cdn.fireflies.ai/01JZK3FJW92H9PZMHW58N9DG5G/audio.mp3?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlpLM0ZKVzkySDlQWk1IVzU4TjlERzVHL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=LVPRwndDOKXxHM3Gjfnm9b-o5vrr5gy7pkd5tQ3JYUTzQY5oP2Pgu47~AxbHUOqbSGN2IXkwhOx~jzJUtDls63UczFBWFFBSI8pPwmwWAfquFjPnSmjqxSCe26d9ryjsd5ojABE65hR27MYlzK8x2kCYUAGJnmdV5zuXdaTpeBHvQi4fA2E79b3FzNHTn8Fw8ALd~U5yMos~crrJM4tVRcrOFd9JjlkYv4~t0oH0Ce20yPHBu6LYGIcBNFcXtigjjJOA2A0ibDxIrpSIMklDuZCBlTQH8-h02UFynQItP2I2XUWF8iRVB5lHe6a76AXimxCrqsQoNLAoi0GU5E2u2g__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JZK3FJW92H9PZMHW58N9DG5G/video.mp4?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlpLM0ZKVzkySDlQWk1IVzU4TjlERzVHL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=LREEBwZWVFJZvCKwdbfKm0k~YxcTv2C0~HebzYmSeCb94KMbAI3xY5jFaQQQhJawcnNPepLXUZ1x3k8pSzP5uBBt3t7RoGGZtxOCOydB5Poa6VPOMUAASBLU3cw0yxqRBNdUgqudAqoEEyJ~-lOI327gHx0DLPYf2d6bGBHYCRWawvJ9foA78a4u2vW1FqhFdfOPj0Lj9m3lBV7vwwMojyN4MVQ4fTMxoQY~BkMO806eqR-lQEtoTx7ul2Ar40VYWozcMNb~JMLi-zoKU7uCaheNb1pUv4uCr0ttOCJm0TTkpqXI767JUjpIl9L6PWyfCgZ6IiBMA6V~dr3OkVw4SA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

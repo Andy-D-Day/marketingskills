@@ -1,0 +1,5123 @@
+{
+  "id": "01KHQHPW8RVE0944GVMPAGTDNB",
+  "title": "Communimed x Good Apples Ventures",
+  "date": 1771513200000,
+  "dateString": "2026-02-19T15:00:00.000Z",
+  "duration": 64.51000213623047,
+  "participants": [
+    "karim@goodapples.ventures,mwarda@communimed.ca,ahmed.zia@capitala.co,rday@communimed.ca",
+    "karim@goodapples.ventures",
+    "mwarda@communimed.ca",
+    "rday@communimed.ca"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "karim@goodapples.ventures",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "mwarda@communimed.ca",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "rday@communimed.ca",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hello, Mohammed, how you doing?",
+      "speaker_name": "RobinDay",
+      "start_time": 0.48,
+      "end_time": 2.08
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "RobinDay",
+      "start_time": 3.04,
+      "end_time": 4.88
+    },
+    {
+      "text": "Can you hear me properly?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 5.36,
+      "end_time": 6.72
+    },
+    {
+      "text": "Yeah, it's a little slow, but",
+      "speaker_name": "MaggyWarda",
+      "start_time": 8.32,
+      "end_time": 10.08
+    },
+    {
+      "text": "it's a better bottom.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 12.32,
+      "end_time": 13.6
+    },
+    {
+      "text": "Sorry, the volume is a little low on my computer.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 13.68,
+      "end_time": 17.84
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 19.44,
+      "end_time": 20.2
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 20.2,
+      "end_time": 20.56
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 20.64,
+      "end_time": 21.36
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 23.68,
+      "end_time": 24.32
+    },
+    {
+      "text": "It should work better now, but.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 24.88,
+      "end_time": 26.8
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 27.58,
+      "end_time": 27.98
+    },
+    {
+      "text": "So how are you?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 29.82,
+      "end_time": 30.62
+    },
+    {
+      "text": "I think we have.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 30.62,
+      "end_time": 31.34
+    },
+    {
+      "text": "Yeah, all good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 32.22,
+      "end_time": 33.98
+    },
+    {
+      "text": "Just, you know, just ready to log out.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 34.22,
+      "end_time": 37.9
+    },
+    {
+      "text": "Basically.",
+      "speaker_name": "RobinDay",
+      "start_time": 37.98,
+      "end_time": 38.62
+    },
+    {
+      "text": "Keen to get this cold thing.",
+      "speaker_name": "RobinDay",
+      "start_time": 42.94,
+      "end_time": 44.54
+    },
+    {
+      "text": "How are you guys?",
+      "speaker_name": "RobinDay",
+      "start_time": 45.74,
+      "end_time": 46.62
+    },
+    {
+      "text": "I think we have Kareem, so I'm just gonna add him as.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 46.78,
+      "end_time": 49.42
+    },
+    {
+      "text": "Hi, Karim.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 58.95,
+      "end_time": 59.71
+    },
+    {
+      "text": "How are you doing?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 59.71,
+      "end_time": 60.39
+    },
+    {
+      "text": "I'm well, Ahmed.",
+      "speaker_name": "Karim N",
+      "start_time": 60.87,
+      "end_time": 61.79
+    },
+    {
+      "text": "And yourself?",
+      "speaker_name": "Karim N",
+      "start_time": 61.79,
+      "end_time": 62.39
+    },
+    {
+      "text": "Good, thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 63.59,
+      "end_time": 64.47
+    },
+    {
+      "text": "Good morning, Karim.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 65.11,
+      "end_time": 66.47
+    },
+    {
+      "text": "Good morning, Maggie.",
+      "speaker_name": "Karim N",
+      "start_time": 67.11,
+      "end_time": 68.31
+    },
+    {
+      "text": "Such a pleasure to meet you.",
+      "speaker_name": "Karim N",
+      "start_time": 68.39,
+      "end_time": 69.83
+    },
+    {
+      "text": "And good morning, Robin.",
+      "speaker_name": "Karim N",
+      "start_time": 70.39,
+      "end_time": 71.75
+    },
+    {
+      "text": "Good morning, Karim.",
+      "speaker_name": "RobinDay",
+      "start_time": 72.15,
+      "end_time": 73.43
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 75.43,
+      "end_time": 75.83
+    },
+    {
+      "text": "Thank you so much for joining this call, Karim.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 75.83,
+      "end_time": 79.87
+    },
+    {
+      "text": "This call is really to introduce to Robin and Maggie.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 79.87,
+      "end_time": 82.43
+    },
+    {
+      "text": "They're the founders of Community Medium.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 82.43,
+      "end_time": 84.28
+    },
+    {
+      "text": "And we would really like to know more about your business and what is that we do.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 84.75,
+      "end_time": 88.75
+    },
+    {
+      "text": "And then Maggie and Robin can tell",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 89.47,
+      "end_time": 91.67
+    },
+    {
+      "text": "you more about Community.",
+      "speaker_name": "RobinDay",
+      "start_time": 91.67,
+      "end_time": 92.59
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Karim N",
+      "start_time": 94.11,
+      "end_time": 94.83
+    },
+    {
+      "text": "Okay, I'll start with my introduction.",
+      "speaker_name": "Karim N",
+      "start_time": 94.83,
+      "end_time": 96.35
+    },
+    {
+      "text": "So I started my.",
+      "speaker_name": "Karim N",
+      "start_time": 96.35,
+      "end_time": 97.47
+    },
+    {
+      "text": "My life as an engineer and then found myself in healthcare by way of a journey to France, working in home healthcare.",
+      "speaker_name": "Karim N",
+      "start_time": 98.03,
+      "end_time": 105.47
+    },
+    {
+      "text": "That took me across a few avenues of corporate roles that included a lot of M and A.",
+      "speaker_name": "Karim N",
+      "start_time": 106.27,
+      "end_time": 111.93
+    },
+    {
+      "text": "So I got really into, you know, the pleasure of buying companies and selling companies was something I acquired early on in my career.",
+      "speaker_name": "Karim N",
+      "start_time": 112.33,
+      "end_time": 120.49
+    },
+    {
+      "text": "And then I started my own company, Med.",
+      "speaker_name": "Karim N",
+      "start_time": 120.49,
+      "end_time": 123.53
+    },
+    {
+      "text": "Now it's a digital pharmacy that I took public in 21.",
+      "speaker_name": "Karim N",
+      "start_time": 123.53,
+      "end_time": 128.73
+    },
+    {
+      "text": "The nature of a digital pharmacy during COVID was that it solved the problem of having to go to the pharmacy to get your meds at a time of restrictive social distancing.",
+      "speaker_name": "Karim N",
+      "start_time": 129.45,
+      "end_time": 139.45
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Karim N",
+      "start_time": 139.85,
+      "end_time": 140.11
+    },
+    {
+      "text": "And the company was built over, raising 45 million bucks for it.",
+      "speaker_name": "Karim N",
+      "start_time": 140.34,
+      "end_time": 146.06
+    },
+    {
+      "text": "And then an IPO was worth about 150 million.",
+      "speaker_name": "Karim N",
+      "start_time": 146.06,
+      "end_time": 149.06
+    },
+    {
+      "text": "I left in 22.",
+      "speaker_name": "Karim N",
+      "start_time": 150.18,
+      "end_time": 151.46
+    },
+    {
+      "text": "Revenue was around 16 and a half million at the time, and the company was burning through a lot of cash.",
+      "speaker_name": "Karim N",
+      "start_time": 151.54,
+      "end_time": 158.98
+    },
+    {
+      "text": "You know, the idea of going national and being extremely broad in an offering that included pharmacy, telemedicine, and then a few ancillary services like pharmaceutical.",
+      "speaker_name": "Karim N",
+      "start_time": 159.54,
+      "end_time": 171.94
+    },
+    {
+      "text": "Sorry, like nutritionals and supplements, made for quite an interesting first journey into entrepreneurship.",
+      "speaker_name": "Karim N",
+      "start_time": 172.58,
+      "end_time": 180.02
+    },
+    {
+      "text": "But what it did teach me is how to build companies, how to allocate capital effectively.",
+      "speaker_name": "Karim N",
+      "start_time": 181.78,
+      "end_time": 186.02
+    },
+    {
+      "text": "And so I started Good Apple's search fund, the goal of acquiring your company and growing it.",
+      "speaker_name": "Karim N",
+      "start_time": 186.58,
+      "end_time": 193.14
+    },
+    {
+      "text": "My.",
+      "speaker_name": "Karim N",
+      "start_time": 194.82,
+      "end_time": 195.06
+    },
+    {
+      "text": "My reading of your SIM so far has been one of major interest.",
+      "speaker_name": "Karim N",
+      "start_time": 195.78,
+      "end_time": 200.58
+    },
+    {
+      "text": "I think you guys have done an amazing job building probably a very unique player and maybe a singular player in this sense.",
+      "speaker_name": "Karim N",
+      "start_time": 200.58,
+      "end_time": 208.22
+    },
+    {
+      "text": "And what have you managed to do with it?",
+      "speaker_name": "Karim N",
+      "start_time": 208.22,
+      "end_time": 209.86
+    },
+    {
+      "text": "So I have some Questions to ask.",
+      "speaker_name": "Karim N",
+      "start_time": 210.82,
+      "end_time": 213.18
+    },
+    {
+      "text": "And I'm eager to learn more about you and get to know you, Robin and Maggie and Ahmed, again, thanks for coordinating this meeting.",
+      "speaker_name": "Karim N",
+      "start_time": 213.18,
+      "end_time": 220.73
+    },
+    {
+      "text": "By the way, I was not able to access your company, Capital O for some reason.",
+      "speaker_name": "Karim N",
+      "start_time": 220.81,
+      "end_time": 225.49
+    },
+    {
+      "text": "It's not.",
+      "speaker_name": "Karim N",
+      "start_time": 225.49,
+      "end_time": 226.01
+    },
+    {
+      "text": "It's not loading up for what I.",
+      "speaker_name": "Karim N",
+      "start_time": 226.25,
+      "end_time": 228.33
+    },
+    {
+      "text": "It's capital A co.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 229.37,
+      "end_time": 231.37
+    },
+    {
+      "text": "I'm not sure if you missed the A.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 231.69,
+      "end_time": 233.29
+    },
+    {
+      "text": "Maybe.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 233.29,
+      "end_time": 233.77
+    },
+    {
+      "text": "No, no.",
+      "speaker_name": "RobinDay",
+      "start_time": 233.77,
+      "end_time": 234.29
+    },
+    {
+      "text": "I copied it precisely.",
+      "speaker_name": "Karim N",
+      "start_time": 234.29,
+      "end_time": 235.29
+    },
+    {
+      "text": "But there's something going on.",
+      "speaker_name": "Karim N",
+      "start_time": 235.29,
+      "end_time": 236.21
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Karim N",
+      "start_time": 236.21,
+      "end_time": 236.61
+    },
+    {
+      "text": "You might want to double check your website, but that's besides the point.",
+      "speaker_name": "Karim N",
+      "start_time": 236.61,
+      "end_time": 240.41
+    },
+    {
+      "text": "So that's me.",
+      "speaker_name": "Karim N",
+      "start_time": 241.13,
+      "end_time": 241.93
+    },
+    {
+      "text": "Okay, so I'll take over.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 243.21,
+      "end_time": 245.21
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 245.53,
+      "end_time": 246.13
+    },
+    {
+      "text": "Karim, Robin and I started CommunityMed 35 years ago.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 246.13,
+      "end_time": 251.43
+    },
+    {
+      "text": "We're both from the pharma industry.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 252.07,
+      "end_time": 254.39
+    },
+    {
+      "text": "We started our career as sales rep, regional manager, marketing, advertising agencies, CME companies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 254.55,
+      "end_time": 264.15
+    },
+    {
+      "text": "And in 1990, 90, we decided to start our own company with the network in pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 265.19,
+      "end_time": 272.63
+    },
+    {
+      "text": "The reason, which shows that is at the time, not much was happening in pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 273.11,
+      "end_time": 277.75
+    },
+    {
+      "text": "Pharmacists were not that important.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 277.75,
+      "end_time": 280.14
+    },
+    {
+      "text": "It was a doctor.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 281.34,
+      "end_time": 282.54
+    },
+    {
+      "text": "Everybody was going after the doctor.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 282.54,
+      "end_time": 284.7
+    },
+    {
+      "text": "Pharma company, I mean.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 284.78,
+      "end_time": 286.3
+    },
+    {
+      "text": "But we saw that there was an opportunity there.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 286.78,
+      "end_time": 289.94
+    },
+    {
+      "text": "It wasn't a cluttered area.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 289.94,
+      "end_time": 291.58
+    },
+    {
+      "text": "So that's where we started.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 291.9,
+      "end_time": 293.34
+    },
+    {
+      "text": "Our company was the network that we have.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 293.42,
+      "end_time": 296.14
+    },
+    {
+      "text": "And we did various things.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 296.46,
+      "end_time": 298.06
+    },
+    {
+      "text": "Cme, CE program for pharmacists, got involved in Opineo, pharmaceutic trialrx.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 298.14,
+      "end_time": 305.46
+    },
+    {
+      "text": "We did a lot.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 305.46,
+      "end_time": 306.3
+    },
+    {
+      "text": "But like five years ago, we decided we have a network that is also in medical clinics.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 307.33,
+      "end_time": 313.73
+    },
+    {
+      "text": "We have around 4,000 clinics and pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 313.73,
+      "end_time": 317.17
+    },
+    {
+      "text": "And we should just focus our energy on that, on growing the network, because it's much more profitable than doing CME and all these things.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 317.57,
+      "end_time": 328.69
+    },
+    {
+      "text": "So let me put up a presentation just to give you a feel for what I'm talking about.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 329.41,
+      "end_time": 336.62
+    },
+    {
+      "text": "Robin, if you want to share something meanwhile.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 337.74,
+      "end_time": 340.86
+    },
+    {
+      "text": "No, I think you've.",
+      "speaker_name": "RobinDay",
+      "start_time": 342.54,
+      "end_time": 343.9
+    },
+    {
+      "text": "You've covered the intro very well, Maggie.",
+      "speaker_name": "RobinDay",
+      "start_time": 344.22,
+      "end_time": 346.54
+    },
+    {
+      "text": "By the way, I just want to mention, Karim, that we're at a resort right now in Mexico.",
+      "speaker_name": "RobinDay",
+      "start_time": 348.38,
+      "end_time": 352.7
+    },
+    {
+      "text": "So there.",
+      "speaker_name": "RobinDay",
+      "start_time": 352.7,
+      "end_time": 353.5
+    },
+    {
+      "text": "The Internet's a little spotty, so apologize for that ahead of time if.",
+      "speaker_name": "RobinDay",
+      "start_time": 353.5,
+      "end_time": 357.9
+    },
+    {
+      "text": "If there's a connection issue.",
+      "speaker_name": "RobinDay",
+      "start_time": 358.36,
+      "end_time": 360.08
+    },
+    {
+      "text": "But so far, so good sounds.",
+      "speaker_name": "RobinDay",
+      "start_time": 360.08,
+      "end_time": 361.96
+    },
+    {
+      "text": "I'll try not to be jealous, Robin, but your connection is fine.",
+      "speaker_name": "Karim N",
+      "start_time": 361.96,
+      "end_time": 364.64
+    },
+    {
+      "text": "And I can hear you loud and clear.",
+      "speaker_name": "RobinDay",
+      "start_time": 364.64,
+      "end_time": 365.96
+    },
+    {
+      "text": "Thank you for letting me know.",
+      "speaker_name": "Karim N",
+      "start_time": 366.44,
+      "end_time": 367.64
+    },
+    {
+      "text": "Okay, now, I did.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 368.68,
+      "end_time": 369.8
+    },
+    {
+      "text": "I did read your profiles in the sim, which was very, you know, sort of quite evidently explaining both of your roles in the company.",
+      "speaker_name": "Karim N",
+      "start_time": 369.8,
+      "end_time": 378.84
+    },
+    {
+      "text": "So that was helpful.",
+      "speaker_name": "Karim N",
+      "start_time": 379,
+      "end_time": 380
+    },
+    {
+      "text": "And so, you know, in terms of an introduction, I have a good sense of what you do for community Med or add.",
+      "speaker_name": "Karim N",
+      "start_time": 380,
+      "end_time": 388.48
+    },
+    {
+      "text": "Community versus owners.",
+      "speaker_name": "Karim N",
+      "start_time": 388.48,
+      "end_time": 390.04
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 391.56,
+      "end_time": 392.04
+    },
+    {
+      "text": "I'm not sure.",
+      "speaker_name": "RobinDay",
+      "start_time": 392.04,
+      "end_time": 392.68
+    },
+    {
+      "text": "I'm not used to zoom.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 392.76,
+      "end_time": 394.28
+    },
+    {
+      "text": "You.",
+      "speaker_name": "RobinDay",
+      "start_time": 394.44,
+      "end_time": 394.8
+    },
+    {
+      "text": "You were sharing Maggie.",
+      "speaker_name": "RobinDay",
+      "start_time": 394.8,
+      "end_time": 396.12
+    },
+    {
+      "text": "But I was.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 396.12,
+      "end_time": 396.92
+    },
+    {
+      "text": "It was the right.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 396.92,
+      "end_time": 397.64
+    },
+    {
+      "text": "Okay, well, I don't know about that, but.",
+      "speaker_name": "RobinDay",
+      "start_time": 398.84,
+      "end_time": 400.68
+    },
+    {
+      "text": "Okay, now it's the right one.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 405.4,
+      "end_time": 407.8
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 408.84,
+      "end_time": 409.32
+    },
+    {
+      "text": "So.",
+      "speaker_name": "RobinDay",
+      "start_time": 409.72,
+      "end_time": 410.12
+    },
+    {
+      "text": "So let's just move you this side.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 410.76,
+      "end_time": 413.4
+    },
+    {
+      "text": "And here we go.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 414.18,
+      "end_time": 415.7
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 416.34,
+      "end_time": 416.82
+    },
+    {
+      "text": "So I always already mentioned that we have a network of almost 4,000 clinics and pharmacies that we've built over the years.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 416.82,
+      "end_time": 424.18
+    },
+    {
+      "text": "But everything we do is aligned with the healthcare professional services.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 424.42,
+      "end_time": 429.3
+    },
+    {
+      "text": "We'll never have a message that goes against what doctors and pharmacists will tell their patient.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 429.38,
+      "end_time": 434.9
+    },
+    {
+      "text": "In 25, we won the award of points of healthcare network in Canada.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 435.38,
+      "end_time": 441.78
+    },
+    {
+      "text": "I have to say, we're pretty much the only ones.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 442.61,
+      "end_time": 445.49
+    },
+    {
+      "text": "So this wasn't difficult to get it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 445.81,
+      "end_time": 449.01
+    },
+    {
+      "text": "This is how it looks in a medical clinics or in a pharmacy.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 449.81,
+      "end_time": 453.97
+    },
+    {
+      "text": "The posters are 42 inches long.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 454.13,
+      "end_time": 456.69
+    },
+    {
+      "text": "So they're very, very visible.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 456.77,
+      "end_time": 458.37
+    },
+    {
+      "text": "And the nice thing about them, they're in the waiting area.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 458.45,
+      "end_time": 461.73
+    },
+    {
+      "text": "And while the patient is waiting for 10, 15 minutes, it's in front of them so they have chance to read it, to digest it, ask question to the doctor or to the pharmacist.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 461.89,
+      "end_time": 473.05
+    },
+    {
+      "text": "What's interesting about the point of care in the States, it's a huge market and they do research on a regular basis.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 473.93,
+      "end_time": 483.01
+    },
+    {
+      "text": "This is a research that was conducted by Viva Cross X and what they found is if you add point of care to a digital ad campaign, you will increase by four time the new patient start.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 483.01,
+      "end_time": 497.45
+    },
+    {
+      "text": "So it's very important to have the point of care combined with digital advertising.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 497.53,
+      "end_time": 503.27
+    },
+    {
+      "text": "And also they asked patience and patient found that the information that they get in the waiting room is the most effective.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 504.15,
+      "end_time": 513.59
+    },
+    {
+      "text": "74% thought of that versus digital media.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 513.75,
+      "end_time": 517.11
+    },
+    {
+      "text": "15%.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 517.43,
+      "end_time": 518.23
+    },
+    {
+      "text": "We don't compete with digital media.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 518.55,
+      "end_time": 520.55
+    },
+    {
+      "text": "We complement it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 520.63,
+      "end_time": 521.99
+    },
+    {
+      "text": "That's what I want to say.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 522.95,
+      "end_time": 524.63
+    },
+    {
+      "text": "And so Maggie sort of interrupted, when you say digital media, you're talking about outside of the clinic, things that we would see on banners by bus stops or ads elsewhere.",
+      "speaker_name": "Karim N",
+      "start_time": 525.99,
+      "end_time": 535.04
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "Karim N",
+      "start_time": 535.04,
+      "end_time": 535.52
+    },
+    {
+      "text": "That's the thought.",
+      "speaker_name": "Karim N",
+      "start_time": 535.52,
+      "end_time": 536.16
+    },
+    {
+      "text": "Or yes, social media, basically they call it digital media.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 536.8,
+      "end_time": 541.52
+    },
+    {
+      "text": "So.",
+      "speaker_name": "RobinDay",
+      "start_time": 541.76,
+      "end_time": 542.12
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Karim N",
+      "start_time": 542.12,
+      "end_time": 542.72
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 542.72,
+      "end_time": 543.28
+    },
+    {
+      "text": "Oh, I see.",
+      "speaker_name": "Karim N",
+      "start_time": 543.28,
+      "end_time": 543.92
+    },
+    {
+      "text": "So primarily through the social media channel.",
+      "speaker_name": "Karim N",
+      "start_time": 543.92,
+      "end_time": 545.8
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Karim N",
+      "start_time": 545.8,
+      "end_time": 546.32
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 546.32,
+      "end_time": 546.799
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 547.12,
+      "end_time": 547.6
+    },
+    {
+      "text": "So basically we develop the content of the posters.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 548.4,
+      "end_time": 552.12
+    },
+    {
+      "text": "We don't just offer a network of clinics and pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 552.12,
+      "end_time": 556.56
+    },
+    {
+      "text": "We have the experience on developing content that get the patient to want to take action and talk to the doctor.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 556.96,
+      "end_time": 564.54
+    },
+    {
+      "text": "We want them to talk to the doctor because that's where the conversation happened regarding the prescription.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 564.54,
+      "end_time": 570.86
+    },
+    {
+      "text": "So the client briefs us the top section.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 571.66,
+      "end_time": 574.98
+    },
+    {
+      "text": "Don't Sleep on insomnia to attract the patient to want to read the poster.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 574.98,
+      "end_time": 579.9
+    },
+    {
+      "text": "The middle section is the educational section where we try to have if there is a differentiation for the product that is advertising because it's an unbranded advertising.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 580.38,
+      "end_time": 593.98
+    },
+    {
+      "text": "So we try to favor the client that way while being very like.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 594.76,
+      "end_time": 600.36
+    },
+    {
+      "text": "Everything is referenced.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 600.36,
+      "end_time": 601.72
+    },
+    {
+      "text": "It has to go to ASC and pabs.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 602.2,
+      "end_time": 604.68
+    },
+    {
+      "text": "We cannot just say whatever we want to say.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 604.68,
+      "end_time": 607.4
+    },
+    {
+      "text": "And the last portion is the sponsor message that will drive the patient to talk to the doctor.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 607.96,
+      "end_time": 615
+    },
+    {
+      "text": "So we do research on an ongoing basis.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 616.76,
+      "end_time": 620
+    },
+    {
+      "text": "Every time there is a campaign.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 620,
+      "end_time": 621.08
+    },
+    {
+      "text": "I might just interrupt one more time.",
+      "speaker_name": "Karim N",
+      "start_time": 622.23,
+      "end_time": 623.67
+    },
+    {
+      "text": "Just on the slide prior, once you speak to insomnia, are there any medicine or brands mentioned?",
+      "speaker_name": "Karim N",
+      "start_time": 623.75,
+      "end_time": 631.59
+    },
+    {
+      "text": "Manufacturers either.",
+      "speaker_name": "Karim N",
+      "start_time": 631.83,
+      "end_time": 633.19
+    },
+    {
+      "text": "So just purely information I should have mentioned in my introduction.",
+      "speaker_name": "Karim N",
+      "start_time": 633.19,
+      "end_time": 636.55
+    },
+    {
+      "text": "I spent time at NMR as well at McKesson, both on the specialty pharmacy side as well as the retail penicide.",
+      "speaker_name": "Karim N",
+      "start_time": 636.55,
+      "end_time": 643.59
+    },
+    {
+      "text": "So this is why I might be asking them more to, you know, into the subject of what you have in some of these posters.",
+      "speaker_name": "Karim N",
+      "start_time": 643.59,
+      "end_time": 652.1
+    },
+    {
+      "text": "Because I've all.",
+      "speaker_name": "RobinDay",
+      "start_time": 652.1,
+      "end_time": 652.7
+    },
+    {
+      "text": "I mean, I've obviously I've seen posters like this and I've seen the digital outputs of them as well in waiting areas.",
+      "speaker_name": "Karim N",
+      "start_time": 652.7,
+      "end_time": 658.14
+    },
+    {
+      "text": "But I'm trying to figure out if you do something specifically unique.",
+      "speaker_name": "Karim N",
+      "start_time": 658.14,
+      "end_time": 662.3
+    },
+    {
+      "text": "Maybe I can.",
+      "speaker_name": "RobinDay",
+      "start_time": 662.94,
+      "end_time": 663.74
+    },
+    {
+      "text": "We can speak to that a little bit.",
+      "speaker_name": "RobinDay",
+      "start_time": 663.82,
+      "end_time": 665.46
+    },
+    {
+      "text": "Karim.",
+      "speaker_name": "RobinDay",
+      "start_time": 665.46,
+      "end_time": 666.14
+    },
+    {
+      "text": "Robin, we don't hear you.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 667.42,
+      "end_time": 668.7
+    },
+    {
+      "text": "Well, do you hear me now?",
+      "speaker_name": "RobinDay",
+      "start_time": 668.7,
+      "end_time": 671.26
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 672.06,
+      "end_time": 672.54
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Karim N",
+      "start_time": 672.54,
+      "end_time": 672.9
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "RobinDay",
+      "start_time": 672.9,
+      "end_time": 673.34
+    },
+    {
+      "text": "Okay, I can hear you.",
+      "speaker_name": "Karim N",
+      "start_time": 673.34,
+      "end_time": 674.1
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 674.1,
+      "end_time": 674.3
+    },
+    {
+      "text": "Just to kind of maybe make this, bring some clarity to this, you know, if you take the example of insomnia, you know, so here's a case, and there is a brand behind this, of course.",
+      "speaker_name": "RobinDay",
+      "start_time": 674.3,
+      "end_time": 686.85
+    },
+    {
+      "text": "And what we try to do is to.",
+      "speaker_name": "RobinDay",
+      "start_time": 686.93,
+      "end_time": 689.09
+    },
+    {
+      "text": "Is to connect the brand, Find a way to connect the brand to the campaign.",
+      "speaker_name": "RobinDay",
+      "start_time": 690.05,
+      "end_time": 695.65
+    },
+    {
+      "text": "I'll get to that in a minute.",
+      "speaker_name": "RobinDay",
+      "start_time": 696.45,
+      "end_time": 697.81
+    },
+    {
+      "text": "But if you look at this, you'll say, well, there's a lot of people out there who are just living with insomnia.",
+      "speaker_name": "RobinDay",
+      "start_time": 697.81,
+      "end_time": 703.34
+    },
+    {
+      "text": "They're not doing anything about it.",
+      "speaker_name": "RobinDay",
+      "start_time": 703.34,
+      "end_time": 705.06
+    },
+    {
+      "text": "So in this particular case, what you're trying to do is to activate that.",
+      "speaker_name": "RobinDay",
+      "start_time": 705.94,
+      "end_time": 710.02
+    },
+    {
+      "text": "That person to say that insomnia is.",
+      "speaker_name": "RobinDay",
+      "start_time": 710.34,
+      "end_time": 713.54
+    },
+    {
+      "text": "Is an issue.",
+      "speaker_name": "RobinDay",
+      "start_time": 713.86,
+      "end_time": 714.58
+    },
+    {
+      "text": "It does impact your quality of life, your ability to function.",
+      "speaker_name": "RobinDay",
+      "start_time": 714.74,
+      "end_time": 718.58
+    },
+    {
+      "text": "It's not just something that.",
+      "speaker_name": "RobinDay",
+      "start_time": 719.22,
+      "end_time": 720.78
+    },
+    {
+      "text": "And it's not something that you should just sort of live with.",
+      "speaker_name": "RobinDay",
+      "start_time": 720.78,
+      "end_time": 723.54
+    },
+    {
+      "text": "You should actually find a solution to it and that the doctor is the place to find those solutions.",
+      "speaker_name": "RobinDay",
+      "start_time": 723.7,
+      "end_time": 731.67
+    },
+    {
+      "text": "So in this particular case, we talked a lot about daytime functioning.",
+      "speaker_name": "RobinDay",
+      "start_time": 732.87,
+      "end_time": 739.27
+    },
+    {
+      "text": "So it's not just that you're losing the sleep and you kind of have a lousy night.",
+      "speaker_name": "RobinDay",
+      "start_time": 740.39,
+      "end_time": 744.549
+    },
+    {
+      "text": "The issue is more that you're going to have a lousy day as well as a result of not having sleep.",
+      "speaker_name": "RobinDay",
+      "start_time": 744.95,
+      "end_time": 750.95
+    },
+    {
+      "text": "And products are differentiated largely on the basis of their impact on daytime functioning from a side effect standpoint.",
+      "speaker_name": "RobinDay",
+      "start_time": 752.31,
+      "end_time": 760.4
+    },
+    {
+      "text": "So we sort of create this narrative around daytime functioning with the help of this campaign and the other materials which Maggie was about to either showed you or about to show you, let's say a physician package as well as the pharma companies owned field force efforts are put toward their product talking about how it, how it actually helps daytime functioning from a therapeutic standpoint, but also from the avoidance of side effects.",
+      "speaker_name": "RobinDay",
+      "start_time": 761.2,
+      "end_time": 795.67
+    },
+    {
+      "text": "So this becomes a, this becomes part of that overall messaging.",
+      "speaker_name": "RobinDay",
+      "start_time": 796.23,
+      "end_time": 802.07
+    },
+    {
+      "text": "So it doesn't work solely on its own.",
+      "speaker_name": "RobinDay",
+      "start_time": 802.47,
+      "end_time": 804.47
+    },
+    {
+      "text": "It has very, very specific roles that it plays.",
+      "speaker_name": "RobinDay",
+      "start_time": 804.47,
+      "end_time": 808.16
+    },
+    {
+      "text": "And you know, to go back to her earlier point about, you can put some of this messaging on social media, although it would have to be highly condensed and simplified for it to have people to pay any attention to it.",
+      "speaker_name": "RobinDay",
+      "start_time": 808.64,
+      "end_time": 821.28
+    },
+    {
+      "text": "But it's very different with leaving it out there when somebody's scrolling through whatever their feed is has nothing to do with health versus putting it in the waiting room just before or they're about to see the doctor about something else probably.",
+      "speaker_name": "RobinDay",
+      "start_time": 821.76,
+      "end_time": 835.66
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "RobinDay",
+      "start_time": 836.94,
+      "end_time": 837.5
+    },
+    {
+      "text": "So maybe there for another reason.",
+      "speaker_name": "RobinDay",
+      "start_time": 837.74,
+      "end_time": 839.9
+    },
+    {
+      "text": "But the.",
+      "speaker_name": "RobinDay",
+      "start_time": 839.9,
+      "end_time": 840.38
+    },
+    {
+      "text": "We can't hear you, Robin.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 840.46,
+      "end_time": 841.9
+    },
+    {
+      "text": "Sorry, can you hear me now?",
+      "speaker_name": "RobinDay",
+      "start_time": 843.34,
+      "end_time": 844.54
+    },
+    {
+      "text": "It's okay,",
+      "speaker_name": "RobinDay",
+      "start_time": 844.54,
+      "end_time": 845.34
+    },
+    {
+      "text": "I can hear you, Robin.",
+      "speaker_name": "Karim N",
+      "start_time": 848.379,
+      "end_time": 849.62
+    },
+    {
+      "text": "I think Maggie, I think the sound is coming across.",
+      "speaker_name": "Karim N",
+      "start_time": 849.62,
+      "end_time": 852.62
+    },
+    {
+      "text": "It's fine.",
+      "speaker_name": "Karim N",
+      "start_time": 853.98,
+      "end_time": 854.62
+    },
+    {
+      "text": "Audible and legible.",
+      "speaker_name": "Karim N",
+      "start_time": 854.62,
+      "end_time": 855.98
+    },
+    {
+      "text": "So in any case, this makes sense.",
+      "speaker_name": "Karim N",
+      "start_time": 855.98,
+      "end_time": 859.02
+    },
+    {
+      "text": "I can hear you on what you've studied here.",
+      "speaker_name": "Karim N",
+      "start_time": 859.42,
+      "end_time": 861.9
+    },
+    {
+      "text": "I know it's an activation exercise and the idea is that you observe this before you walk into a senior doctor you raise.",
+      "speaker_name": "Karim N",
+      "start_time": 862.21,
+      "end_time": 868.05
+    },
+    {
+      "text": "Oh, by the way, I saw your poster outside.",
+      "speaker_name": "Karim N",
+      "start_time": 868.05,
+      "end_time": 869.89
+    },
+    {
+      "text": "You know, I may have insomnia.",
+      "speaker_name": "Karim N",
+      "start_time": 870.61,
+      "end_time": 872.45
+    },
+    {
+      "text": "What do you think we should do about that?",
+      "speaker_name": "Karim N",
+      "start_time": 873.65,
+      "end_time": 875.09
+    },
+    {
+      "text": "And you know, I do have some questions like around attribution and how are you measuring the metrics for success of your campaigns?",
+      "speaker_name": "Karim N",
+      "start_time": 875.49,
+      "end_time": 883.25
+    },
+    {
+      "text": "You know, maybe it's prescriptions, maybe it's feedback from the, from the prescriber.",
+      "speaker_name": "Karim N",
+      "start_time": 884.29,
+      "end_time": 889.62
+    },
+    {
+      "text": "Regardless, I mean this, this makes sense.",
+      "speaker_name": "Karim N",
+      "start_time": 890.34,
+      "end_time": 892.58
+    },
+    {
+      "text": "This makes sense.",
+      "speaker_name": "Karim N",
+      "start_time": 892.58,
+      "end_time": 893.34
+    },
+    {
+      "text": "I just wasn't sure if there was any association at all to the manufacturer.",
+      "speaker_name": "Karim N",
+      "start_time": 893.34,
+      "end_time": 898.74
+    },
+    {
+      "text": "It sounds like there's none.",
+      "speaker_name": "Karim N",
+      "start_time": 900.5,
+      "end_time": 901.7
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 902.1,
+      "end_time": 902.74
+    },
+    {
+      "text": "For the poster format, we cannot do branded, but the name of the manufacturer is appearing on the message at the bottom.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 903.22,
+      "end_time": 912.86
+    },
+    {
+      "text": "It's a new Health Canada requirement.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 912.86,
+      "end_time": 916.11
+    },
+    {
+      "text": "I'll show you digital.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 916.51,
+      "end_time": 917.63
+    },
+    {
+      "text": "Digital.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 917.95,
+      "end_time": 918.35
+    },
+    {
+      "text": "We can do branded and I'll show you how we do it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 918.91,
+      "end_time": 922.03
+    },
+    {
+      "text": "This is just to say we research.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 923.15,
+      "end_time": 924.99
+    },
+    {
+      "text": "This is 250 physicians feedback.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 925.39,
+      "end_time": 928.67
+    },
+    {
+      "text": "They found the Program extremely to very useful.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 928.99,
+      "end_time": 932.03
+    },
+    {
+      "text": "And 84% said it increased the frequency of discussion.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 932.43,
+      "end_time": 937.59
+    },
+    {
+      "text": "And that's basically what we want to do.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 937.59,
+      "end_time": 939.63
+    },
+    {
+      "text": "We researched it with patients.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 940.53,
+      "end_time": 942.05
+    },
+    {
+      "text": "This is 1,000 patients saying that they've seen and read the poster.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 942.05,
+      "end_time": 946.61
+    },
+    {
+      "text": "82% and 60% took or intend to take action.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 947.17,
+      "end_time": 952.69
+    },
+    {
+      "text": "So every research we do shows that we drive the patient to speak to the doctor.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 952.85,
+      "end_time": 958.61
+    },
+    {
+      "text": "I'll show you digital, how we do the digital animation.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 959.65,
+      "end_time": 963.21
+    },
+    {
+      "text": "They're usually one minute.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 963.21,
+      "end_time": 965.17
+    },
+    {
+      "text": "The first 45 second is educational.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 966.14,
+      "end_time": 969.9
+    },
+    {
+      "text": "So if I'm here, I'm talking about ADHD.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 969.9,
+      "end_time": 972.46
+    },
+    {
+      "text": "There'll be no product in the first 45 seconds, just education.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 973.02,
+      "end_time": 977.42
+    },
+    {
+      "text": "And in the last 15 seconds, which is.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 978.3,
+      "end_time": 981.379
+    },
+    {
+      "text": "This is not a good.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 981.379,
+      "end_time": 982.46
+    },
+    {
+      "text": "This is an unbranded campaign.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 982.62,
+      "end_time": 984.3
+    },
+    {
+      "text": "But you can have in the last 15 seconds the brand.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 984.94,
+      "end_time": 988.62
+    },
+    {
+      "text": "But if you put the brand.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 988.7,
+      "end_time": 990.14
+    },
+    {
+      "text": "You cannot talk about adhd.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 990.14,
+      "end_time": 992.14
+    },
+    {
+      "text": "You have to talk about something in general and then talk about adhd.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 992.69,
+      "end_time": 997.01
+    },
+    {
+      "text": "If you want to do it unbranded, then we can do educational on adhd.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 997.33,
+      "end_time": 1002.21
+    },
+    {
+      "text": "Is that clear?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1002.37,
+      "end_time": 1003.25
+    },
+    {
+      "text": "You might want to just.",
+      "speaker_name": "Karim N",
+      "start_time": 1005.49,
+      "end_time": 1006.37
+    },
+    {
+      "text": "I want to read that back to you.",
+      "speaker_name": "Karim N",
+      "start_time": 1006.37,
+      "end_time": 1007.69
+    },
+    {
+      "text": "So you're saying if it is just educational, then I cannot mention the brand.",
+      "speaker_name": "Karim N",
+      "start_time": 1007.69,
+      "end_time": 1011.89
+    },
+    {
+      "text": "But if it's a product, I can mention the brand.",
+      "speaker_name": "Karim N",
+      "start_time": 1011.97,
+      "end_time": 1014.53
+    },
+    {
+      "text": "Where you're saying this is the.",
+      "speaker_name": "Karim N",
+      "start_time": 1014.85,
+      "end_time": 1016.21
+    },
+    {
+      "text": "But I cannot talk about the disease.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1016.29,
+      "end_time": 1018.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1019.04,
+      "end_time": 1019.2
+    },
+    {
+      "text": "You can't say what it treats.",
+      "speaker_name": "Karim N",
+      "start_time": 1019.2,
+      "end_time": 1021.36
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Karim N",
+      "start_time": 1021.52,
+      "end_time": 1022.24
+    },
+    {
+      "text": "I'll have to ask your doctor about.",
+      "speaker_name": "Karim N",
+      "start_time": 1022.32,
+      "end_time": 1023.92
+    },
+    {
+      "text": "I have to say a 45 second.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1024.8,
+      "end_time": 1027.44
+    },
+    {
+      "text": "How do you prepare to your meeting with the doctor to have an efficient meeting, blah, blah, blah.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1027.68,
+      "end_time": 1033.36
+    },
+    {
+      "text": "And in the end you can say Ozempic.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1033.52,
+      "end_time": 1036.24
+    },
+    {
+      "text": "Ask your doctor about it in the digital format, not in the postal format.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1036.64,
+      "end_time": 1042.8
+    },
+    {
+      "text": "And you cannot allude to weight loss or weight as an issue in the preamble to mentioning something like Ozempic.",
+      "speaker_name": "Karim N",
+      "start_time": 1042.8,
+      "end_time": 1049.51
+    },
+    {
+      "text": "Is that fair?",
+      "speaker_name": "Karim N",
+      "start_time": 1049.51,
+      "end_time": 1049.87
+    },
+    {
+      "text": "It's against the rule.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1049.87,
+      "end_time": 1050.99
+    },
+    {
+      "text": "Okay, yeah, that's.",
+      "speaker_name": "Karim N",
+      "start_time": 1051.39,
+      "end_time": 1052.27
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Karim N",
+      "start_time": 1052.27,
+      "end_time": 1052.83
+    },
+    {
+      "text": "That's what I recall from reading Paps.",
+      "speaker_name": "Karim N",
+      "start_time": 1052.83,
+      "end_time": 1054.23
+    },
+    {
+      "text": "Okay,",
+      "speaker_name": "Karim N",
+      "start_time": 1054.23,
+      "end_time": 1054.75
+    },
+    {
+      "text": "so what we do to complement our campaign is we prepare a physician package.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1056.51,
+      "end_time": 1061.55
+    },
+    {
+      "text": "Do I have a picture?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1062.03,
+      "end_time": 1063.31
+    },
+    {
+      "text": "No.",
+      "speaker_name": "RobinDay",
+      "start_time": 1063.31,
+      "end_time": 1063.71
+    },
+    {
+      "text": "Where we explain to the doctor why we're offering this value added campaign.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1064.51,
+      "end_time": 1069.39
+    },
+    {
+      "text": "And then we give a mini poster so the doctor can read it, be familiar with the content when the patient asks the question.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1070.27,
+      "end_time": 1077.15
+    },
+    {
+      "text": "And if the manufacturer want to insert a branded information to the doctor, that we're allowed to do so we do an unbranded campaign poster in the waiting area.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1077.94,
+      "end_time": 1090.42
+    },
+    {
+      "text": "But what we give the doctor can be branded, can talk about Ozempic and the benefit of Ozempic or whatever the latest study is.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1091.14,
+      "end_time": 1100.58
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 1101.94,
+      "end_time": 1102.26
+    },
+    {
+      "text": "Because it's being done within the Purview of a doctor presenting the material so they can educate the patient, ensure incorrectly understood.",
+      "speaker_name": "Karim N",
+      "start_time": 1102.26,
+      "end_time": 1111.94
+    },
+    {
+      "text": "And we also do one on one telephone interviews with physician to measure the impact of a given campaign.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1112.34,
+      "end_time": 1122.26
+    },
+    {
+      "text": "So what's the impact with the patient, what it is with the doctor and did it influence the doctor prescription or the doctor practice?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1123.06,
+      "end_time": 1135.09
+    },
+    {
+      "text": "So it's usually like 12 questions open ended.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1135.57,
+      "end_time": 1140.01
+    },
+    {
+      "text": "So we don't guide the doctor to give us the answers we want, we want to know what the doctor is really thinking.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1140.01,
+      "end_time": 1146.13
+    },
+    {
+      "text": "And sometime we uncover information that the doctor, the pharmaceutical company was not even aware of.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1146.53,
+      "end_time": 1154.77
+    },
+    {
+      "text": "So these are very, very in depth information.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1155.25,
+      "end_time": 1158.21
+    },
+    {
+      "text": "Interesting camp research for the pharma companies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1158.36,
+      "end_time": 1163.4
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 1164.84,
+      "end_time": 1165.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 1166.12,
+      "end_time": 1166.6
+    },
+    {
+      "text": "So we have the, sorry, the collection of this information.",
+      "speaker_name": "RobinDay",
+      "start_time": 1169.32,
+      "end_time": 1171.72
+    },
+    {
+      "text": "The doctor has an avenue to get you that.",
+      "speaker_name": "Karim N",
+      "start_time": 1171.72,
+      "end_time": 1173.84
+    },
+    {
+      "text": "They have a way to communicate that back to you and then you communicate it back to pharma.",
+      "speaker_name": "Karim N",
+      "start_time": 1173.84,
+      "end_time": 1178.28
+    },
+    {
+      "text": "Is that sort of the, the passage of that, that, that feedback?",
+      "speaker_name": "Karim N",
+      "start_time": 1178.28,
+      "end_time": 1181.88
+    },
+    {
+      "text": "Yeah, we do it on the phone, we spend 15 minutes with the doctor asking all the questions and then we report to the client.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1182.36,
+      "end_time": 1191.78
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 1192.42,
+      "end_time": 1192.86
+    },
+    {
+      "text": "And that's a paid activity to pharma.",
+      "speaker_name": "Karim N",
+      "start_time": 1192.86,
+      "end_time": 1195.3
+    },
+    {
+      "text": "So they'll pay you for that interview and for the content.",
+      "speaker_name": "Karim N",
+      "start_time": 1195.54,
+      "end_time": 1197.94
+    },
+    {
+      "text": "Okay, absolutely.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1198.02,
+      "end_time": 1199.78
+    },
+    {
+      "text": "And we also have the sister program in pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1200.58,
+      "end_time": 1203.98
+    },
+    {
+      "text": "Pharmacies poster is different from doctor's poster where in pharmacy I'm allowed to have a brand.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1203.98,
+      "end_time": 1211.62
+    },
+    {
+      "text": "Oops.",
+      "speaker_name": "RobinDay",
+      "start_time": 1211.94,
+      "end_time": 1212.5
+    },
+    {
+      "text": "A branded advertising.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1212.82,
+      "end_time": 1214.58
+    },
+    {
+      "text": "So I can again the top section can talk.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1214.9,
+      "end_time": 1218.14
+    },
+    {
+      "text": "How do you prepare to meet with your pharmacist?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1218.14,
+      "end_time": 1222.46
+    },
+    {
+      "text": "Ask your question to the pharmacist and at the bottom you will have Ozempic ask your pharmacist about it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1222.46,
+      "end_time": 1230.22
+    },
+    {
+      "text": "So we can do branded in pharmacies posters and digital in clinics poster is unbranded.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1230.62,
+      "end_time": 1239.5
+    },
+    {
+      "text": "So this is mostly an anti generic strategy in that case because the decision is already made.",
+      "speaker_name": "Karim N",
+      "start_time": 1240.3,
+      "end_time": 1244.94
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 1244.94,
+      "end_time": 1245.1
+    },
+    {
+      "text": "The prescription is already issued.",
+      "speaker_name": "Karim N",
+      "start_time": 1245.1,
+      "end_time": 1247.3
+    },
+    {
+      "text": "You're.",
+      "speaker_name": "RobinDay",
+      "start_time": 1247.54,
+      "end_time": 1247.94
+    },
+    {
+      "text": "When you advertise in pharmacy branded, you're encouraging a branded dispensing or that is nothing.",
+      "speaker_name": "Karim N",
+      "start_time": 1247.94,
+      "end_time": 1255.78
+    },
+    {
+      "text": "No, we're encouraging the patient to ask their doctor for a prescription for Ozempic.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1255.78,
+      "end_time": 1261.86
+    },
+    {
+      "text": "Oh even at the farms.",
+      "speaker_name": "Karim N",
+      "start_time": 1262.42,
+      "end_time": 1265.46
+    },
+    {
+      "text": "Yeah, we're using the pharmacy because there are lots of people that are in the pharmacy.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1265.7,
+      "end_time": 1270.94
+    },
+    {
+      "text": "So we spread the word in the pharmacy but we want to drive them to the doctor.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1270.94,
+      "end_time": 1277.74
+    },
+    {
+      "text": "Or we can have like the one in the middle.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1277.74,
+      "end_time": 1279.9
+    },
+    {
+      "text": "You can see it's a vaccine with vaccines.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1279.9,
+      "end_time": 1283.5
+    },
+    {
+      "text": "I can talk about the vaccine at the top and then have an ad at the bottom.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1283.58,
+      "end_time": 1289.94
+    },
+    {
+      "text": "So there are different ways to do campaigns in pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1289.94,
+      "end_time": 1294.26
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Karim N",
+      "start_time": 1294.26,
+      "end_time": 1294.54
+    },
+    {
+      "text": "And the pharmacist in this case can actually vaccinate so as I could travel clinic.",
+      "speaker_name": "Karim N",
+      "start_time": 1294.54,
+      "end_time": 1299.58
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Karim N",
+      "start_time": 1299.58,
+      "end_time": 1300.02
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 1300.02,
+      "end_time": 1300.5
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 1300.5,
+      "end_time": 1300.98
+    },
+    {
+      "text": "And we position it to pharmacists that our program will help them generate extra revenue.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1300.98,
+      "end_time": 1307.54
+    },
+    {
+      "text": "Because if I'm advertising a vaccine and I'm driving the patient to ask the pharmacist for a flu vaccine, they get.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1307.7,
+      "end_time": 1315.299
+    },
+    {
+      "text": "They get, you know, a fee to do that plus a little profit.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1315.86,
+      "end_time": 1320.58
+    },
+    {
+      "text": "So it's another way we offer our program free of charge to pharmacists and clinics so they don't pay anything.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1320.82,
+      "end_time": 1331.23
+    },
+    {
+      "text": "Every three months, we have 40 reps on the road that will go change the posters in the clinics and in the pharmacies.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1331.71,
+      "end_time": 1339.71
+    },
+    {
+      "text": "So it's a turnkey program.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1339.79,
+      "end_time": 1341.39
+    },
+    {
+      "text": "No hassle for their staff.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1342.03,
+      "end_time": 1343.87
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Karim N",
+      "start_time": 1344.91,
+      "end_time": 1345.63
+    },
+    {
+      "text": "Very well done.",
+      "speaker_name": "Karim N",
+      "start_time": 1345.95,
+      "end_time": 1346.71
+    },
+    {
+      "text": "Amazing.",
+      "speaker_name": "Karim N",
+      "start_time": 1346.71,
+      "end_time": 1347.23
+    },
+    {
+      "text": "Very good.",
+      "speaker_name": "Karim N",
+      "start_time": 1347.23,
+      "end_time": 1347.79
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1348.43,
+      "end_time": 1349.07
+    },
+    {
+      "text": "Just maybe a little point of clarification there, Irene.",
+      "speaker_name": "RobinDay",
+      "start_time": 1350.43,
+      "end_time": 1354.56
+    },
+    {
+      "text": "When Maggie says we're not allowed and we're allowed to.",
+      "speaker_name": "RobinDay",
+      "start_time": 1354.56,
+      "end_time": 1357.88
+    },
+    {
+      "text": "Where, you know, uses this term around the pharmacy and the clinic, what she means is that physicians don't want to see branded advertising in their authentic space and posters.",
+      "speaker_name": "RobinDay",
+      "start_time": 1357.88,
+      "end_time": 1369.4
+    },
+    {
+      "text": "So it becomes.",
+      "speaker_name": "RobinDay",
+      "start_time": 1370.36,
+      "end_time": 1371.72
+    },
+    {
+      "text": "It becomes something that we tell our sponsors.",
+      "speaker_name": "RobinDay",
+      "start_time": 1372.28,
+      "end_time": 1375.52
+    },
+    {
+      "text": "You can't put your branded advertising there.",
+      "speaker_name": "RobinDay",
+      "start_time": 1375.52,
+      "end_time": 1377.8
+    },
+    {
+      "text": "The same rules always apply from a candidate.",
+      "speaker_name": "RobinDay",
+      "start_time": 1378.84,
+      "end_time": 1381.33
+    },
+    {
+      "text": "From a Health Canada standpoint, we cannot.",
+      "speaker_name": "RobinDay",
+      "start_time": 1381.56,
+      "end_time": 1383.72
+    },
+    {
+      "text": "If we have a branded ad appearing, we cannot talk about what it's for.",
+      "speaker_name": "RobinDay",
+      "start_time": 1383.72,
+      "end_time": 1387.96
+    },
+    {
+      "text": "We have to.",
+      "speaker_name": "RobinDay",
+      "start_time": 1388.52,
+      "end_time": 1389.24
+    },
+    {
+      "text": "We have to provide other educational value which directly supports the brand, which is what she was talking about.",
+      "speaker_name": "RobinDay",
+      "start_time": 1389.32,
+      "end_time": 1397.719
+    },
+    {
+      "text": "But in the.",
+      "speaker_name": "RobinDay",
+      "start_time": 1398.12,
+      "end_time": 1398.92
+    },
+    {
+      "text": "But because in digital format, where the ad.",
+      "speaker_name": "RobinDay",
+      "start_time": 1399.48,
+      "end_time": 1403.08
+    },
+    {
+      "text": "Where the, let's say, the placement changes every, you know, it comes and goes, it's not always visible.",
+      "speaker_name": "RobinDay",
+      "start_time": 1403.08,
+      "end_time": 1410.9
+    },
+    {
+      "text": "There's more tolerance with the clinics in this case.",
+      "speaker_name": "RobinDay",
+      "start_time": 1411.06,
+      "end_time": 1413.82
+    },
+    {
+      "text": "So we allow it.",
+      "speaker_name": "RobinDay",
+      "start_time": 1413.82,
+      "end_time": 1414.9
+    },
+    {
+      "text": "We allow the branded advertising in the places where it's.",
+      "speaker_name": "RobinDay",
+      "start_time": 1415.62,
+      "end_time": 1418.98
+    },
+    {
+      "text": "Where it's a TV screen.",
+      "speaker_name": "RobinDay",
+      "start_time": 1419.06,
+      "end_time": 1420.66
+    },
+    {
+      "text": "But in pharmacies, I mean, that's a commercial environment.",
+      "speaker_name": "RobinDay",
+      "start_time": 1421.14,
+      "end_time": 1424.02
+    },
+    {
+      "text": "So the tolerance for having branded advertising appear there is more acceptable to pharmacists sometimes.",
+      "speaker_name": "RobinDay",
+      "start_time": 1424.5,
+      "end_time": 1433.51
+    },
+    {
+      "text": "They don't always.",
+      "speaker_name": "RobinDay",
+      "start_time": 1433.51,
+      "end_time": 1434.35
+    },
+    {
+      "text": "They say to us, we don't always see the link between, well, you know, why don't you talk about weight when you have a wiggle vi ad?",
+      "speaker_name": "RobinDay",
+      "start_time": 1434.35,
+      "end_time": 1442.59
+    },
+    {
+      "text": "And we see it come through in the research, and we know the reasons why they don't always understand why.",
+      "speaker_name": "RobinDay",
+      "start_time": 1442.59,
+      "end_time": 1448.27
+    },
+    {
+      "text": "We're very general.",
+      "speaker_name": "RobinDay",
+      "start_time": 1448.509,
+      "end_time": 1449.47
+    },
+    {
+      "text": "But I mean, this still works.",
+      "speaker_name": "RobinDay",
+      "start_time": 1449.71,
+      "end_time": 1451.31
+    },
+    {
+      "text": "And pharma companies are, you know, they.",
+      "speaker_name": "RobinDay",
+      "start_time": 1451.87,
+      "end_time": 1454.19
+    },
+    {
+      "text": "They do.",
+      "speaker_name": "RobinDay",
+      "start_time": 1454.19,
+      "end_time": 1454.83
+    },
+    {
+      "text": "They are on this sort of branded advertising bandwagon right now.",
+      "speaker_name": "RobinDay",
+      "start_time": 1454.91,
+      "end_time": 1458.83
+    },
+    {
+      "text": "So they tend to push for it.",
+      "speaker_name": "RobinDay",
+      "start_time": 1458.91,
+      "end_time": 1460.51
+    },
+    {
+      "text": "And this is something that, you know, we're developing a narrative for them to understand the value of using unbranded and with a narrative bridge for branding in environments that we Think it actually, in this particular channel, probably serves them better.",
+      "speaker_name": "RobinDay",
+      "start_time": 1461.41,
+      "end_time": 1478.21
+    },
+    {
+      "text": "But we're not going to say no to the branded advertising if this is really what they insist on.",
+      "speaker_name": "RobinDay",
+      "start_time": 1479.01,
+      "end_time": 1483.89
+    },
+    {
+      "text": "But it is a narrative that we are developing with them, and, you know, we are trying to influence them and help them understand what's the best way to leverage the channel.",
+      "speaker_name": "RobinDay",
+      "start_time": 1483.89,
+      "end_time": 1492.69
+    },
+    {
+      "text": "So just to provide you with a little more context, you know, I'm going",
+      "speaker_name": "RobinDay",
+      "start_time": 1493.97,
+      "end_time": 1498.89
+    },
+    {
+      "text": "to show you a branded digital ad because it's very theoretical.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1498.89,
+      "end_time": 1503.81
+    },
+    {
+      "text": "I think so.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1503.97,
+      "end_time": 1505.25
+    },
+    {
+      "text": "Actually, Maggie, I was hoping to ask you, are we able to go past them?",
+      "speaker_name": "Karim N",
+      "start_time": 1505.89,
+      "end_time": 1509.73
+    },
+    {
+      "text": "Because I know we only had five minutes left in this call.",
+      "speaker_name": "Karim N",
+      "start_time": 1509.73,
+      "end_time": 1511.81
+    },
+    {
+      "text": "I do have some questions based on the sim, so I know you're next.",
+      "speaker_name": "Karim N",
+      "start_time": 1511.89,
+      "end_time": 1516.29
+    },
+    {
+      "text": "And, Ahmed, I don't know if you have another obligation.",
+      "speaker_name": "Karim N",
+      "start_time": 1518.13,
+      "end_time": 1521.45
+    },
+    {
+      "text": "Not right at 10:30, but I wouldn't want to interrupt your flow, Maggie.",
+      "speaker_name": "Karim N",
+      "start_time": 1521.45,
+      "end_time": 1525.25
+    },
+    {
+      "text": "So if you were continuing, just go ahead.",
+      "speaker_name": "Karim N",
+      "start_time": 1525.25,
+      "end_time": 1526.65
+    },
+    {
+      "text": "I just want to make sure we have the time.",
+      "speaker_name": "Karim N",
+      "start_time": 1526.65,
+      "end_time": 1528.13
+    },
+    {
+      "text": "No, I mean, if you want to ask a question.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1529.17,
+      "end_time": 1531.29
+    },
+    {
+      "text": "I just wanted to show you what a branded digital animation looks like.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1531.29,
+      "end_time": 1535.65
+    },
+    {
+      "text": "Please.",
+      "speaker_name": "Karim N",
+      "start_time": 1535.81,
+      "end_time": 1536.17
+    },
+    {
+      "text": "Yes, please.",
+      "speaker_name": "Karim N",
+      "start_time": 1536.17,
+      "end_time": 1536.65
+    },
+    {
+      "text": "I'd love to see.",
+      "speaker_name": "Karim N",
+      "start_time": 1536.65,
+      "end_time": 1537.33
+    },
+    {
+      "text": "Just wanted to confirm we still have the time to come back with questions.",
+      "speaker_name": "Karim N",
+      "start_time": 1538.86,
+      "end_time": 1543.34
+    },
+    {
+      "text": "That was helpful.",
+      "speaker_name": "Karim N",
+      "start_time": 1545.1,
+      "end_time": 1545.9
+    },
+    {
+      "text": "Robin, you said, you know, it's.",
+      "speaker_name": "Karim N",
+      "start_time": 1546.54,
+      "end_time": 1548.82
+    },
+    {
+      "text": "It's not so much.",
+      "speaker_name": "Karim N",
+      "start_time": 1548.82,
+      "end_time": 1549.54
+    },
+    {
+      "text": "Paps, as much as the doctor doesn't want to appear to be highly influenced by a manufacturer of drugs.",
+      "speaker_name": "Karim N",
+      "start_time": 1549.54,
+      "end_time": 1555.5
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "RobinDay",
+      "start_time": 1556.3,
+      "end_time": 1556.94
+    },
+    {
+      "text": "Or her.",
+      "speaker_name": "RobinDay",
+      "start_time": 1558.62,
+      "end_time": 1559.26
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "RobinDay",
+      "start_time": 1560.94,
+      "end_time": 1561.42
+    },
+    {
+      "text": "I don't like zoom.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1564.79,
+      "end_time": 1565.99
+    },
+    {
+      "text": "Ahmed, next time, do teams.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1566.15,
+      "end_time": 1568.63
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 1572.79,
+      "end_time": 1573.43
+    },
+    {
+      "text": "I think this is it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1573.83,
+      "end_time": 1575.19
+    },
+    {
+      "text": "You see it?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1575.43,
+      "end_time": 1576.31
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1576.31,
+      "end_time": 1576.67
+    },
+    {
+      "text": "You?",
+      "speaker_name": "RobinDay",
+      "start_time": 1576.67,
+      "end_time": 1576.95
+    },
+    {
+      "text": "Yes, I see.",
+      "speaker_name": "Karim N",
+      "start_time": 1576.95,
+      "end_time": 1577.75
+    },
+    {
+      "text": "I see a lady in here.",
+      "speaker_name": "Karim N",
+      "start_time": 1577.83,
+      "end_time": 1579.43
+    },
+    {
+      "text": "Let me make it bigger.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1579.59,
+      "end_time": 1581.35
+    },
+    {
+      "text": "Here we are.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1582.39,
+      "end_time": 1583.27
+    },
+    {
+      "text": "I think you've only got part of the.",
+      "speaker_name": "RobinDay",
+      "start_time": 1583.43,
+      "end_time": 1585.11
+    },
+    {
+      "text": "Okay, that's better.",
+      "speaker_name": "RobinDay",
+      "start_time": 1585.51,
+      "end_time": 1586.47
+    },
+    {
+      "text": "Oh, I see.",
+      "speaker_name": "Karim N",
+      "start_time": 1586.63,
+      "end_time": 1587.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1588.47,
+      "end_time": 1588.91
+    },
+    {
+      "text": "1 minute and 50 seconds.",
+      "speaker_name": "Karim N",
+      "start_time": 1588.91,
+      "end_time": 1590.07
+    },
+    {
+      "text": "So this would be just kind of running on a loop on a TV somewhere, right?",
+      "speaker_name": "Karim N",
+      "start_time": 1591.1,
+      "end_time": 1594.94
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "RobinDay",
+      "start_time": 1595.26,
+      "end_time": 1595.9
+    },
+    {
+      "text": "So you'll see that we.",
+      "speaker_name": "RobinDay",
+      "start_time": 1596.14,
+      "end_time": 1597.5
+    },
+    {
+      "text": "The idea is to support the brand without talking about anything specific.",
+      "speaker_name": "RobinDay",
+      "start_time": 1597.74,
+      "end_time": 1602.06
+    },
+    {
+      "text": "So it becomes very general.",
+      "speaker_name": "RobinDay",
+      "start_time": 1605.74,
+      "end_time": 1607.02
+    },
+    {
+      "text": "So this is fulfilling the Health Canada rules.",
+      "speaker_name": "RobinDay",
+      "start_time": 1609.02,
+      "end_time": 1612.94
+    },
+    {
+      "text": "This has nothing to do with the.",
+      "speaker_name": "RobinDay",
+      "start_time": 1613.74,
+      "end_time": 1615.42
+    },
+    {
+      "text": "The clinic or the pharmacy at this point.",
+      "speaker_name": "RobinDay",
+      "start_time": 1616.77,
+      "end_time": 1618.61
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 1619.81,
+      "end_time": 1620.21
+    },
+    {
+      "text": "So we're promoting the pharmacist in that case.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1625.33,
+      "end_time": 1628.69
+    },
+    {
+      "text": "And the pharmacists are very happy that we're promoting them and driving patient to speak to them.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1629.49,
+      "end_time": 1635.13
+    },
+    {
+      "text": "So that's another way it benefits pharmacists.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1635.13,
+      "end_time": 1638.93
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 1640.29,
+      "end_time": 1640.93
+    },
+    {
+      "text": "And then you'll see the last 15 seconds.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1643.18,
+      "end_time": 1647.26
+    },
+    {
+      "text": "It's coming.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1647.82,
+      "end_time": 1648.62
+    },
+    {
+      "text": "Voila.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1649.34,
+      "end_time": 1650.14
+    },
+    {
+      "text": "Understood.",
+      "speaker_name": "Karim N",
+      "start_time": 1652.86,
+      "end_time": 1653.42
+    },
+    {
+      "text": "That is a savings program, QR code that they can go to.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1653.42,
+      "end_time": 1658.78
+    },
+    {
+      "text": "So that's it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1659.34,
+      "end_time": 1660.14
+    },
+    {
+      "text": "Okay, go ahead.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 1666.3,
+      "end_time": 1668.13
+    },
+    {
+      "text": "Okay, so let me present my.",
+      "speaker_name": "Karim N",
+      "start_time": 1671.65,
+      "end_time": 1675.25
+    },
+    {
+      "text": "My list of questions because it might be easiest.",
+      "speaker_name": "Karim N",
+      "start_time": 1675.41,
+      "end_time": 1678.21
+    },
+    {
+      "text": "And don't be I hope it doesn't appear too busy at first, but I, I studied your SIM and you know, maybe we'll.",
+      "speaker_name": "Karim N",
+      "start_time": 1678.29,
+      "end_time": 1691.41
+    },
+    {
+      "text": "More generally.",
+      "speaker_name": "Karim N",
+      "start_time": 1696.38,
+      "end_time": 1696.98
+    },
+    {
+      "text": "So before I present, I just want to talk, you know, one of the things about these modes of advertising, you know, haven't been through patient support programs, haven't seen market access strategies, haven't seen, you know, how pharma approaches companies like NMR or McKesson when they're trying to build out their market access strategies.",
+      "speaker_name": "Karim N",
+      "start_time": 1696.98,
+      "end_time": 1717.82
+    },
+    {
+      "text": "Did they take you into consideration or is it primarily your, your primary objective is securing the network of point of care advertising and then you present that to pharma as an opportunity to advertise or is it saying, okay, no, I want you to be in the specialist offices, I'm going to support your campaign, I'm going to fund whether it's installation of digital versus print media, as in where do you become on the priority for a market access strategy is probably the best way to ask this question because I think it has, it flows from there to a number of other elements of the company and the future offerings that you're contemplating.",
+      "speaker_name": "Karim N",
+      "start_time": 1718.63,
+      "end_time": 1764.01
+    },
+    {
+      "text": "Because it sounds like this has been a journey of about five years, you say in terms of focusing on this POC side.",
+      "speaker_name": "Karim N",
+      "start_time": 1764.01,
+      "end_time": 1770.09
+    },
+    {
+      "text": "Actually, no.",
+      "speaker_name": "RobinDay",
+      "start_time": 1771.21,
+      "end_time": 1772.95
+    },
+    {
+      "text": "I mean the company's involvement at Point of Care has been around since we started in 1990 and we were the only, we were the first ones.",
+      "speaker_name": "RobinDay",
+      "start_time": 1772.95,
+      "end_time": 1781.51
+    },
+    {
+      "text": "We got involved in a lot of different things at the time.",
+      "speaker_name": "RobinDay",
+      "start_time": 1781.99,
+      "end_time": 1784.79
+    },
+    {
+      "text": "Part of it stemming from our background in cme.",
+      "speaker_name": "RobinDay",
+      "start_time": 1785.67,
+      "end_time": 1788.309
+    },
+    {
+      "text": "So we were, we had quite a, let's say a potpourri of offerings up until about 2016 actually is when we decided that we were going to move away from services that were billed hourly and where we were running into competition and vulnerable to supply chain management, sort of squeeze and get into and just focus on the Point of Care because its profitability could be.",
+      "speaker_name": "RobinDay",
+      "start_time": 1788.55,
+      "end_time": 1815.85
+    },
+    {
+      "text": "Was not vulnerable to this type of pressure from, from the client side procurement.",
+      "speaker_name": "RobinDay",
+      "start_time": 1817.53,
+      "end_time": 1823.93
+    },
+    {
+      "text": "So on top of that, you know, Point of Care as a channel was gaining importance within the omnichannel strategy of pharma companies, especially in the US which where it's highly developed and it's huge.",
+      "speaker_name": "RobinDay",
+      "start_time": 1825.21,
+      "end_time": 1841.77
+    },
+    {
+      "text": "In Canada, it's less well developed, there's fewer players and you know, there's not, you know, we're kind of like the leading player in the entire market and we're sort of all of the competition that we have is more soft in terms of there's no real direct competitors who offer the exact same product and services that we do.",
+      "speaker_name": "RobinDay",
+      "start_time": 1842.09,
+      "end_time": 1867.42
+    },
+    {
+      "text": "Specifically, the content development side is what Differentiation differentiates us.",
+      "speaker_name": "RobinDay",
+      "start_time": 1868.22,
+      "end_time": 1873.06
+    },
+    {
+      "text": "And we also have the biggest placement for the physical printed posters that are out there.",
+      "speaker_name": "RobinDay",
+      "start_time": 1873.06,
+      "end_time": 1879.39
+    },
+    {
+      "text": "But in terms of what marketers are looking for.",
+      "speaker_name": "RobinDay",
+      "start_time": 1880.67,
+      "end_time": 1883.87
+    },
+    {
+      "text": "So when they have their marketing spend, they divide that up.",
+      "speaker_name": "RobinDay",
+      "start_time": 1883.87,
+      "end_time": 1886.75
+    },
+    {
+      "text": "They look at the patient journey, and then they divide up their spend depending on, you know, where the.",
+      "speaker_name": "RobinDay",
+      "start_time": 1887.07,
+      "end_time": 1893.79
+    },
+    {
+      "text": "To access those patients at various parts of the journey.",
+      "speaker_name": "RobinDay",
+      "start_time": 1893.79,
+      "end_time": 1897.15
+    },
+    {
+      "text": "So the Point of Care channel is one of a number of channels that they look at.",
+      "speaker_name": "RobinDay",
+      "start_time": 1898.51,
+      "end_time": 1902.95
+    },
+    {
+      "text": "You know, they have tv, they have.",
+      "speaker_name": "RobinDay",
+      "start_time": 1902.95,
+      "end_time": 1904.59
+    },
+    {
+      "text": "They have.",
+      "speaker_name": "RobinDay",
+      "start_time": 1905.52,
+      "end_time": 1905.92
+    },
+    {
+      "text": "Social media is big.",
+      "speaker_name": "RobinDay",
+      "start_time": 1906.16,
+      "end_time": 1907.6
+    },
+    {
+      "text": "They have these other things that they tend to use, but they try to see where we fit within there.",
+      "speaker_name": "RobinDay",
+      "start_time": 1907.6,
+      "end_time": 1913.36
+    },
+    {
+      "text": "And I would say Point of Care in Canada is well established in some companies, but still not very established in other companies, where we're still working on helping them understand that this really should be looked at as a more of a critical media tactic than it has been in the past.",
+      "speaker_name": "RobinDay",
+      "start_time": 1913.84,
+      "end_time": 1929.92
+    },
+    {
+      "text": "So there's still work to be done there, but for the market access piece, I mean, I'll give you an example.",
+      "speaker_name": "RobinDay",
+      "start_time": 1930,
+      "end_time": 1937.84
+    },
+    {
+      "text": "So Maggie was having trouble with, you know, getting the brand team at Abbie, who has a.",
+      "speaker_name": "RobinDay",
+      "start_time": 1938.08,
+      "end_time": 1946.4
+    },
+    {
+      "text": "Who has a marketing, has a migraine portfolio to kind of pay attention to what, you know, the point of care has to offer.",
+      "speaker_name": "RobinDay",
+      "start_time": 1946.48,
+      "end_time": 1955.52
+    },
+    {
+      "text": "And at one point she did say to them that, you know, we're partnering with Migraine Canada, you know, on an initiative that will include specialists.",
+      "speaker_name": "RobinDay",
+      "start_time": 1956.32,
+      "end_time": 1966.36
+    },
+    {
+      "text": "And all of a sudden they became interested, and it turns out that they've actually booked to be in the program.",
+      "speaker_name": "RobinDay",
+      "start_time": 1966.36,
+      "end_time": 1973.2
+    },
+    {
+      "text": "But it came up more recently in a discussion about, you know, in passing that the reason why it sort of flipped a switch for them was because in the case of migraine, the Migraine association and the Quebec Migraine foundation, or if I have the name correct, is very important for them to get leverage with acts with coverage.",
+      "speaker_name": "RobinDay",
+      "start_time": 1974,
+      "end_time": 1996.34
+    },
+    {
+      "text": "So coverage become.",
+      "speaker_name": "RobinDay",
+      "start_time": 1997.7,
+      "end_time": 1999.3
+    },
+    {
+      "text": "Becomes a big issue for them.",
+      "speaker_name": "RobinDay",
+      "start_time": 1999.86,
+      "end_time": 2001.7
+    },
+    {
+      "text": "And then all of a sudden, you know, we're part of.",
+      "speaker_name": "RobinDay",
+      "start_time": 2002.099,
+      "end_time": 2005.46
+    },
+    {
+      "text": "We become, you know, market access strategy becomes something that we're more implicated in in this particular case.",
+      "speaker_name": "RobinDay",
+      "start_time": 2006.18,
+      "end_time": 2015.33
+    },
+    {
+      "text": "That may not be as important in other cases.",
+      "speaker_name": "RobinDay",
+      "start_time": 2015.49,
+      "end_time": 2018.29
+    },
+    {
+      "text": "I see.",
+      "speaker_name": "Karim N",
+      "start_time": 2019.01,
+      "end_time": 2019.57
+    },
+    {
+      "text": "So some associations are very strong in terms of, let's say, putting pressure on government to get market access.",
+      "speaker_name": "RobinDay",
+      "start_time": 2019.57,
+      "end_time": 2025.65
+    },
+    {
+      "text": "And early migraine is one of them.",
+      "speaker_name": "RobinDay",
+      "start_time": 2025.97,
+      "end_time": 2028.05
+    },
+    {
+      "text": "So this is just something that you keep in mind when you're pitching clients.",
+      "speaker_name": "RobinDay",
+      "start_time": 2028.61,
+      "end_time": 2032.29
+    },
+    {
+      "text": "You have this.",
+      "speaker_name": "RobinDay",
+      "start_time": 2032.45,
+      "end_time": 2033.25
+    },
+    {
+      "text": "You.",
+      "speaker_name": "RobinDay",
+      "start_time": 2033.33,
+      "end_time": 2033.73
+    },
+    {
+      "text": "You want to make sure you understand if, if a relationship with an association can.",
+      "speaker_name": "RobinDay",
+      "start_time": 2033.81,
+      "end_time": 2038.33
+    },
+    {
+      "text": "Can help you.",
+      "speaker_name": "RobinDay",
+      "start_time": 2038.56,
+      "end_time": 2039.08
+    },
+    {
+      "text": "We do have these rapports with Diabetes Canada and other associations.",
+      "speaker_name": "RobinDay",
+      "start_time": 2039.08,
+      "end_time": 2044.32
+    },
+    {
+      "text": "Our reputation in the field is quite strong, and we can build these relationships quite easily when we need to Use them.",
+      "speaker_name": "RobinDay",
+      "start_time": 2044.4,
+      "end_time": 2052.24
+    },
+    {
+      "text": "So this is just one case where we used it for a market access issue.",
+      "speaker_name": "RobinDay",
+      "start_time": 2052.48,
+      "end_time": 2056.16
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 2056.48,
+      "end_time": 2057.04
+    },
+    {
+      "text": "And in terms of the channel spend, would you say it's been declining or increasing for POC or is it kind of all over the place?",
+      "speaker_name": "Karim N",
+      "start_time": 2057.04,
+      "end_time": 2063.16
+    },
+    {
+      "text": "Depending on the manufacturer?",
+      "speaker_name": "Karim N",
+      "start_time": 2063.16,
+      "end_time": 2064.24
+    },
+    {
+      "text": "It sounds like it's a very, it's the fast, it's the fastest growing channel in the US we don't have numbers on it in Canada.",
+      "speaker_name": "RobinDay",
+      "start_time": 2064.24,
+      "end_time": 2072.7
+    },
+    {
+      "text": "I know that, yes, advertising is totally different.",
+      "speaker_name": "Karim N",
+      "start_time": 2072.94,
+      "end_time": 2076.1
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 2076.1,
+      "end_time": 2076.38
+    },
+    {
+      "text": "Like, because you can talk about the product and the, and the mechanism of action and the benefit, all of it in the same place.",
+      "speaker_name": "Karim N",
+      "start_time": 2076.38,
+      "end_time": 2083.58
+    },
+    {
+      "text": "But it tells you you can't do that.",
+      "speaker_name": "Karim N",
+      "start_time": 2083.9,
+      "end_time": 2086.02
+    },
+    {
+      "text": "Like the potato zempa to lose weight, but you can't do that.",
+      "speaker_name": "Karim N",
+      "start_time": 2086.02,
+      "end_time": 2089.7
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Karim N",
+      "start_time": 2089.7,
+      "end_time": 2090.06
+    },
+    {
+      "text": "All things being equal, all things being equal in the US in a relative sense, it's the fastest growing.",
+      "speaker_name": "RobinDay",
+      "start_time": 2091.67,
+      "end_time": 2098.39
+    },
+    {
+      "text": "And in Canada we feel, you know, we are experiencing growth and we're experiencing more interest.",
+      "speaker_name": "RobinDay",
+      "start_time": 2098.87,
+      "end_time": 2104.87
+    },
+    {
+      "text": "We don't, we can't produce numbers because they're not publicly available.",
+      "speaker_name": "RobinDay",
+      "start_time": 2105.11,
+      "end_time": 2108.71
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 2111.59,
+      "end_time": 2111.99
+    },
+    {
+      "text": "But we believe our share, based on our conversation with clients, our share of total marketing spend is much higher as a percent of total spend than it is in the U.S. so, you know, the future is bright for point of care.",
+      "speaker_name": "RobinDay",
+      "start_time": 2111.99,
+      "end_time": 2127.1
+    },
+    {
+      "text": "There's more to be done in terms of getting specialists on board.",
+      "speaker_name": "RobinDay",
+      "start_time": 2127.82,
+      "end_time": 2131.74
+    },
+    {
+      "text": "There's more to be done in terms of expanding the market in terms of the number of sites that we have.",
+      "speaker_name": "RobinDay",
+      "start_time": 2131.74,
+      "end_time": 2137.02
+    },
+    {
+      "text": "This is all stuff that we're working on.",
+      "speaker_name": "RobinDay",
+      "start_time": 2137.18,
+      "end_time": 2139.02
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 2140.38,
+      "end_time": 2140.94
+    },
+    {
+      "text": "So thank you for that, Raman.",
+      "speaker_name": "Karim N",
+      "start_time": 2141.18,
+      "end_time": 2143.7
+    },
+    {
+      "text": "That was really helpful.",
+      "speaker_name": "Karim N",
+      "start_time": 2143.7,
+      "end_time": 2144.7
+    },
+    {
+      "text": "You know, so I just cannot, I won't obviously go to any one of these.",
+      "speaker_name": "Karim N",
+      "start_time": 2144.86,
+      "end_time": 2147.78
+    },
+    {
+      "text": "Like, these are something I can share with you after the call.",
+      "speaker_name": "Karim N",
+      "start_time": 2147.78,
+      "end_time": 2149.7
+    },
+    {
+      "text": "But you know, just going back to specifically some of your goals or maybe just on the operation, there's obviously a lot of creative element to this.",
+      "speaker_name": "Karim N",
+      "start_time": 2149.7,
+      "end_time": 2163.15
+    },
+    {
+      "text": "So I'm just going to pause this, the sharing, because it's, I don't want it to take up the whole screen.",
+      "speaker_name": "Karim N",
+      "start_time": 2163.95,
+      "end_time": 2168.99
+    },
+    {
+      "text": "But when you have a, you say you have your project manager, you have your operations manager and then you have your third part of the structure, which is, I'm just bringing back a recruiting,",
+      "speaker_name": "Karim N",
+      "start_time": 2168.99,
+      "end_time": 2181.88
+    },
+    {
+      "text": "recruiting of clinics and pharmacy.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 2182.6,
+      "end_time": 2185.16
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 2185.56,
+      "end_time": 2186.12
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Karim N",
+      "start_time": 2186.52,
+      "end_time": 2186.92
+    },
+    {
+      "text": "And that, you know, the artistic assessment of an advertising content.",
+      "speaker_name": "Karim N",
+      "start_time": 2187.32,
+      "end_time": 2196.68
+    },
+    {
+      "text": "So is that the project manager's purview?",
+      "speaker_name": "Karim N",
+      "start_time": 2197.8,
+      "end_time": 2200.16
+    },
+    {
+      "text": "Are they the ones who say this is.",
+      "speaker_name": "Karim N",
+      "start_time": 2200.16,
+      "end_time": 2201.72
+    },
+    {
+      "text": "I like this, I don't like this.",
+      "speaker_name": "Karim N",
+      "start_time": 2201.72,
+      "end_time": 2203
+    },
+    {
+      "text": "Operations managers deploy the campaign.",
+      "speaker_name": "Karim N",
+      "start_time": 2203.16,
+      "end_time": 2206.45
+    },
+    {
+      "text": "So, so you're shaking your head like, so who, who's finally responsible for that, that sort of flair, that artistic fence that attracts eyes to get the impressions",
+      "speaker_name": "Karim N",
+      "start_time": 2206.45,
+      "end_time": 2217.33
+    },
+    {
+      "text": "this is my job, you know, and I work with the project manager and I work with the external freelance medical writers and.",
+      "speaker_name": "RobinDay",
+      "start_time": 2218.13,
+      "end_time": 2229.01
+    },
+    {
+      "text": "And design team to produce that content.",
+      "speaker_name": "RobinDay",
+      "start_time": 2229.57,
+      "end_time": 2234.59
+    },
+    {
+      "text": "And I, I wouldn't describe it as flair as much as I would describe it as.",
+      "speaker_name": "RobinDay",
+      "start_time": 2235.55,
+      "end_time": 2241.07
+    },
+    {
+      "text": "We need to find a way to activate patients.",
+      "speaker_name": "RobinDay",
+      "start_time": 2241.39,
+      "end_time": 2244.03
+    },
+    {
+      "text": "We got to resonate with them.",
+      "speaker_name": "RobinDay",
+      "start_time": 2244.19,
+      "end_time": 2245.71
+    },
+    {
+      "text": "We need to be aligned with what doctors are practicing and what their conversations they want, the conversation they want to have.",
+      "speaker_name": "RobinDay",
+      "start_time": 2245.95,
+      "end_time": 2254.99
+    },
+    {
+      "text": "And we need to understand what the marketer is trying to achieve.",
+      "speaker_name": "RobinDay",
+      "start_time": 2256.03,
+      "end_time": 2259.49
+    },
+    {
+      "text": "Achieve.",
+      "speaker_name": "RobinDay",
+      "start_time": 2259.56,
+      "end_time": 2259.96
+    },
+    {
+      "text": "We have to put that together.",
+      "speaker_name": "RobinDay",
+      "start_time": 2259.96,
+      "end_time": 2261.4
+    },
+    {
+      "text": "So this is the, this is our, let's say our, Our strength is that, you know, and this, some of this comes from our background with medical education and being so involved in, even in pharmacy education is we got to understand the practice.",
+      "speaker_name": "RobinDay",
+      "start_time": 2262.68,
+      "end_time": 2279.48
+    },
+    {
+      "text": "And through our research, we're constantly talking to doctors and constantly talking to pharmacists.",
+      "speaker_name": "RobinDay",
+      "start_time": 2280.44,
+      "end_time": 2285.6
+    },
+    {
+      "text": "And we know what their pain points are and we know what the difference between an unproductive conversation is and one that's very productive and how we can support it.",
+      "speaker_name": "RobinDay",
+      "start_time": 2285.6,
+      "end_time": 2296.59
+    },
+    {
+      "text": "So this is how we provide guidance to our clients.",
+      "speaker_name": "RobinDay",
+      "start_time": 2297.07,
+      "end_time": 2302.19
+    },
+    {
+      "text": "And we want them to perceive us as partners and not just a placement where you put whatever they want to put there.",
+      "speaker_name": "RobinDay",
+      "start_time": 2302.83,
+      "end_time": 2310.59
+    },
+    {
+      "text": "Advertising agencies, which is usually not appropriate, quite frankly.",
+      "speaker_name": "RobinDay",
+      "start_time": 2311.47,
+      "end_time": 2315.2
+    },
+    {
+      "text": "So we want to provide this guidance to them to say point of care in itself has value because you're reaching the patient right before they can have a conversation about something and right before decisions are made, and you want to equip them with the right information to make them feel confident and comfortable doing it.",
+      "speaker_name": "RobinDay",
+      "start_time": 2316,
+      "end_time": 2335.44
+    },
+    {
+      "text": "But at the same time, you want to support a good reception by the physician or the pharmacist.",
+      "speaker_name": "RobinDay",
+      "start_time": 2335.52,
+      "end_time": 2341.57
+    },
+    {
+      "text": "On the other side, when the patient starts talking and the doctor starts responding, they're both already on some kind of the same wavelength.",
+      "speaker_name": "RobinDay",
+      "start_time": 2341.57,
+      "end_time": 2350.17
+    },
+    {
+      "text": "So, versus the patient coming in and saying, I saw this off the Internet, what do you think?",
+      "speaker_name": "RobinDay",
+      "start_time": 2350.89,
+      "end_time": 2354.97
+    },
+    {
+      "text": "Then the doctor is spending five or ten minutes just correcting misinformation that the patient has seen on the Internet.",
+      "speaker_name": "RobinDay",
+      "start_time": 2355.769,
+      "end_time": 2362.49
+    },
+    {
+      "text": "And there is where the value is for us.",
+      "speaker_name": "RobinDay",
+      "start_time": 2363.05,
+      "end_time": 2366.33
+    },
+    {
+      "text": "That's how we present ourselves as providing value for all of the partners, for all of the stakeholders, I should say.",
+      "speaker_name": "RobinDay",
+      "start_time": 2366.33,
+      "end_time": 2373.74
+    },
+    {
+      "text": "So it's like this.",
+      "speaker_name": "RobinDay",
+      "start_time": 2374.38,
+      "end_time": 2375.34
+    },
+    {
+      "text": "This is where the expertise is.",
+      "speaker_name": "RobinDay",
+      "start_time": 2375.42,
+      "end_time": 2377.1
+    },
+    {
+      "text": "So is.",
+      "speaker_name": "Karim N",
+      "start_time": 2377.9,
+      "end_time": 2378.38
+    },
+    {
+      "text": "Is there any aspect that's from your Lake formula, like in the sense that you can.",
+      "speaker_name": "Karim N",
+      "start_time": 2378.38,
+      "end_time": 2383.18
+    },
+    {
+      "text": "Because Robin is in Mexico today, we have a campaign that needs to happen and release in two days.",
+      "speaker_name": "Karim N",
+      "start_time": 2383.66,
+      "end_time": 2389.34
+    },
+    {
+      "text": "So the only way to make that happen is to get through to you to ensure that that takes place in the sense of the approvals and the design And I asked the question, it's not meant to be anything more than understanding, you know, what redundancy exists in being able to maintain ongoing operation.",
+      "speaker_name": "Karim N",
+      "start_time": 2389.9,
+      "end_time": 2407.52
+    },
+    {
+      "text": "Because that would make you a very key man in that sense because you're, you're approving the content, you're helping with the design.",
+      "speaker_name": "Karim N",
+      "start_time": 2408.64,
+      "end_time": 2415.28
+    },
+    {
+      "text": "But are there frameworks that are, that you've developed as a company and say like this is, we always start here, we punch into them.",
+      "speaker_name": "Karim N",
+      "start_time": 2415.84,
+      "end_time": 2422.72
+    },
+    {
+      "text": "Okay, yeah, there is.",
+      "speaker_name": "RobinDay",
+      "start_time": 2423.2,
+      "end_time": 2424.64
+    },
+    {
+      "text": "I mean it's not all about what, what it.",
+      "speaker_name": "RobinDay",
+      "start_time": 2424.64,
+      "end_time": 2427.08
+    },
+    {
+      "text": "If I have an idea in my head and because I'm super creative, it's not, I don't see it this way at all.",
+      "speaker_name": "RobinDay",
+      "start_time": 2427.08,
+      "end_time": 2433.76
+    },
+    {
+      "text": "There's a discipline that we stick to and you know, you have to have a medical writer.",
+      "speaker_name": "RobinDay",
+      "start_time": 2433.76,
+      "end_time": 2440.72
+    },
+    {
+      "text": "It starts there.",
+      "speaker_name": "RobinDay",
+      "start_time": 2441.12,
+      "end_time": 2442.24
+    },
+    {
+      "text": "The writing is sort of the big driver.",
+      "speaker_name": "RobinDay",
+      "start_time": 2442.32,
+      "end_time": 2444.64
+    },
+    {
+      "text": "Do you have a writer that is very familiar with the space, very familiar with how to communicate in this space and very familiar with how to develop strategies?",
+      "speaker_name": "RobinDay",
+      "start_time": 2444.64,
+      "end_time": 2454.2
+    },
+    {
+      "text": "And we do and you know, I will brief her, she'll come back and give us a proposed coffee deck.",
+      "speaker_name": "RobinDay",
+      "start_time": 2454.92,
+      "end_time": 2464.32
+    },
+    {
+      "text": "We look at this and we say we need some refinements maybe here, there and there to adjust it.",
+      "speaker_name": "RobinDay",
+      "start_time": 2464.32,
+      "end_time": 2468.6
+    },
+    {
+      "text": "She goes back and adjusts it and then we go to layout and layouts.",
+      "speaker_name": "RobinDay",
+      "start_time": 2468.84,
+      "end_time": 2474.08
+    },
+    {
+      "text": "It is quite a, I would say a fairly simple way to.",
+      "speaker_name": "RobinDay",
+      "start_time": 2474.4,
+      "end_time": 2480.56
+    },
+    {
+      "text": "It doesn't take a lot of creativity, let's say to do the execution.",
+      "speaker_name": "RobinDay",
+      "start_time": 2481.76,
+      "end_time": 2486.04
+    },
+    {
+      "text": "You just need a good solid designer that understands how the top visual has to work with the headline.",
+      "speaker_name": "RobinDay",
+      "start_time": 2486.04,
+      "end_time": 2492
+    },
+    {
+      "text": "The body is pretty straightforward.",
+      "speaker_name": "RobinDay",
+      "start_time": 2492,
+      "end_time": 2493.68
+    },
+    {
+      "text": "You look at our design and you look at it, you say how much cross creative, how much creative is in here versus what this.",
+      "speaker_name": "RobinDay",
+      "start_time": 2495.2,
+      "end_time": 2503.52
+    },
+    {
+      "text": "The strength of it is really in the words and the ideas that are being presented more than in sort of attention grabbing stuff.",
+      "speaker_name": "RobinDay",
+      "start_time": 2503.52,
+      "end_time": 2512.48
+    },
+    {
+      "text": "It doesn't function this way the way you might think of a creative agency that comes up with a campaign.",
+      "speaker_name": "RobinDay",
+      "start_time": 2512.96,
+      "end_time": 2519.12
+    },
+    {
+      "text": "It's more in the level of engagement.",
+      "speaker_name": "RobinDay",
+      "start_time": 2519.92,
+      "end_time": 2523
+    },
+    {
+      "text": "Getting people who are already, you know, should be interested in their health to take note, making them feel empowered, legitimizing a concern, helping give them the words they need to talk to Health professional.",
+      "speaker_name": "RobinDay",
+      "start_time": 2523,
+      "end_time": 2537.03
+    },
+    {
+      "text": "It's like this.",
+      "speaker_name": "RobinDay",
+      "start_time": 2537.51,
+      "end_time": 2538.47
+    },
+    {
+      "text": "Okay, okay.",
+      "speaker_name": "Karim N",
+      "start_time": 2540.15,
+      "end_time": 2541.91
+    },
+    {
+      "text": "I'll switch my line of question to being more financial in nature.",
+      "speaker_name": "Karim N",
+      "start_time": 2541.91,
+      "end_time": 2545.51
+    },
+    {
+      "text": "Just, just to kind of understand a couple of things that were in the same.",
+      "speaker_name": "Karim N",
+      "start_time": 2545.51,
+      "end_time": 2549.51
+    },
+    {
+      "text": "This here was.",
+      "speaker_name": "Karim N",
+      "start_time": 2551.73,
+      "end_time": 2553.25
+    },
+    {
+      "text": "I thought you have a question about that.",
+      "speaker_name": "RobinDay",
+      "start_time": 2555.97,
+      "end_time": 2557.73
+    },
+    {
+      "text": "Yeah, I mean, so maybe you can, you can suggest like, so what, what probably my, you know, the idea of customer concentration and having a big chunk of that purple band.",
+      "speaker_name": "Karim N",
+      "start_time": 2558.61,
+      "end_time": 2567.81
+    },
+    {
+      "text": "What are your thoughts on that?",
+      "speaker_name": "Karim N",
+      "start_time": 2568.37,
+      "end_time": 2569.65
+    },
+    {
+      "text": "Well, I think what Would, what would help there is.",
+      "speaker_name": "RobinDay",
+      "start_time": 2570.13,
+      "end_time": 2572.45
+    },
+    {
+      "text": "What I was actually going to prepare is a, you know, we have year to date sales for 20, 26 of 3.2 something or other, you know, million.",
+      "speaker_name": "RobinDay",
+      "start_time": 2572.53,
+      "end_time": 2582.78
+    },
+    {
+      "text": "And we have enough information where I can show you how that year is shaping up.",
+      "speaker_name": "RobinDay",
+      "start_time": 2583.58,
+      "end_time": 2589.66
+    },
+    {
+      "text": "It's a little different from this.",
+      "speaker_name": "RobinDay",
+      "start_time": 2590.54,
+      "end_time": 2592.06
+    },
+    {
+      "text": "And the thing is with this is like with the, the big player in there, the big customer that we have is somebody we've been working with for a number of years now, and they're very loyal.",
+      "speaker_name": "RobinDay",
+      "start_time": 2593.02,
+      "end_time": 2607.52
+    },
+    {
+      "text": "We do give, you know, in the case of the printed inventory of programs, we have limited inventory.",
+      "speaker_name": "RobinDay",
+      "start_time": 2608.16,
+      "end_time": 2614.08
+    },
+    {
+      "text": "You know, a physical poster goes into a physical frame.",
+      "speaker_name": "RobinDay",
+      "start_time": 2615.76,
+      "end_time": 2619.279
+    },
+    {
+      "text": "It's not a printed poster that you stick on the wall and you just put up as many as you want.",
+      "speaker_name": "RobinDay",
+      "start_time": 2619.6,
+      "end_time": 2623.92
+    },
+    {
+      "text": "You only have a certain inventory.",
+      "speaker_name": "RobinDay",
+      "start_time": 2623.92,
+      "end_time": 2625.84
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 2626.48,
+      "end_time": 2626.8
+    },
+    {
+      "text": "And the way our campaigns work is on right of first refuse refusal.",
+      "speaker_name": "RobinDay",
+      "start_time": 2626.8,
+      "end_time": 2630.46
+    },
+    {
+      "text": "And one of the strategies that clients will use if they have a competitor that's coming along is they will, they will book the entire space to block the competition because we give category exclusivity.",
+      "speaker_name": "RobinDay",
+      "start_time": 2630.78,
+      "end_time": 2645.5
+    },
+    {
+      "text": "Okay, so if you have a product with an indication for weight loss, or if you have a product for, for diabetes or whatever to reduce, to control A1C, then you, you can basically say, I want all of that space and I'm going to block off all of that space.",
+      "speaker_name": "RobinDay",
+      "start_time": 2646.06,
+      "end_time": 2664.74
+    },
+    {
+      "text": "So this is a little bit of what's happening.",
+      "speaker_name": "RobinDay",
+      "start_time": 2665.86,
+      "end_time": 2668.14
+    },
+    {
+      "text": "There's a very strong loyalty there.",
+      "speaker_name": "RobinDay",
+      "start_time": 2668.14,
+      "end_time": 2669.98
+    },
+    {
+      "text": "They understand it very well, but they do take advantage of this exclusivity piece and the first right of refusal on the category.",
+      "speaker_name": "RobinDay",
+      "start_time": 2669.98,
+      "end_time": 2680.18
+    },
+    {
+      "text": "So there's a lot of this going on now as a company's life cycle, when the lifecycle of that product starts to come to an end, which is the case in this particular client, we have to pivot and we have to put more emphasis on new business and getting new clients in.",
+      "speaker_name": "RobinDay",
+      "start_time": 2680.42,
+      "end_time": 2696.67
+    },
+    {
+      "text": "And this is what you're going to see.",
+      "speaker_name": "RobinDay",
+      "start_time": 2696.67,
+      "end_time": 2697.91
+    },
+    {
+      "text": "So just, just the way it happens to have worked out over the years.",
+      "speaker_name": "RobinDay",
+      "start_time": 2698.95,
+      "end_time": 2702.95
+    },
+    {
+      "text": "But we've gone through this same situation at least on three previous occasions, very similar situation where our sales tend to be dominated by one, one particular client, or let's say they have 50% or more of our business and then this sort of evolves into another client within the following years.",
+      "speaker_name": "RobinDay",
+      "start_time": 2702.95,
+      "end_time": 2723.42
+    },
+    {
+      "text": "Okay, all right, I'm just going to go back to the deck one more time.",
+      "speaker_name": "Karim N",
+      "start_time": 2725.18,
+      "end_time": 2729.1
+    },
+    {
+      "text": "A couple more times.",
+      "speaker_name": "Karim N",
+      "start_time": 2729.82,
+      "end_time": 2730.86
+    },
+    {
+      "text": "So just in terms of your revenue lines, are there any these lines that tend to be more profitable than others?",
+      "speaker_name": "Karim N",
+      "start_time": 2731.26,
+      "end_time": 2738.07
+    },
+    {
+      "text": "Just from a unit economics point of view, I'm trying to get A sense of.",
+      "speaker_name": "Karim N",
+      "start_time": 2738.63,
+      "end_time": 2742.55
+    },
+    {
+      "text": "Because as you can see the numbers are.",
+      "speaker_name": "Karim N",
+      "start_time": 2743.27,
+      "end_time": 2745.11
+    },
+    {
+      "text": "Are very quite a bit like you doctor and you has had a bit of a peak in 22 and then it's been declining.",
+      "speaker_name": "Karim N",
+      "start_time": 2745.35,
+      "end_time": 2751.829
+    },
+    {
+      "text": "There's been a steady increase in the digital channel.",
+      "speaker_name": "Karim N",
+      "start_time": 2752.47,
+      "end_time": 2755.43
+    },
+    {
+      "text": "Not going to look at the custom projects.",
+      "speaker_name": "Karim N",
+      "start_time": 2757.03,
+      "end_time": 2758.71
+    },
+    {
+      "text": "I'm at action for now.",
+      "speaker_name": "Karim N",
+      "start_time": 2758.71,
+      "end_time": 2759.51
+    },
+    {
+      "text": "But pharmacists knew that's causing so just maybe a sense of what's going on with the movement of revenue.",
+      "speaker_name": "Karim N",
+      "start_time": 2759.51,
+      "end_time": 2765.8
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "RobinDay",
+      "start_time": 2766.04,
+      "end_time": 2766.6
+    },
+    {
+      "text": "I mean the first question is in terms of profitability, they're more or less the same.",
+      "speaker_name": "RobinDay",
+      "start_time": 2766.6,
+      "end_time": 2771.64
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2772.68,
+      "end_time": 2773.32
+    },
+    {
+      "text": "You know, more or less I would say and I could get into a lot of details of what why that is later if you like.",
+      "speaker_name": "RobinDay",
+      "start_time": 2773.8,
+      "end_time": 2781.88
+    },
+    {
+      "text": "But in terms of what you see in your doctrine U Digital is right now or lately pharma companies have been very big on branded advertising.",
+      "speaker_name": "RobinDay",
+      "start_time": 2782.44,
+      "end_time": 2792.47
+    },
+    {
+      "text": "And this is allowable in our digital program.",
+      "speaker_name": "RobinDay",
+      "start_time": 2793.67,
+      "end_time": 2796.31
+    },
+    {
+      "text": "It's not allowable under your doctor and you which is a print program.",
+      "speaker_name": "RobinDay",
+      "start_time": 2796.71,
+      "end_time": 2800.23
+    },
+    {
+      "text": "It is allowable.",
+      "speaker_name": "RobinDay",
+      "start_time": 2800.87,
+      "end_time": 2801.87
+    },
+    {
+      "text": "And your pharmacist you.",
+      "speaker_name": "RobinDay",
+      "start_time": 2801.87,
+      "end_time": 2803.43
+    },
+    {
+      "text": "So that's why those chat.",
+      "speaker_name": "RobinDay",
+      "start_time": 2804.07,
+      "end_time": 2805.79
+    },
+    {
+      "text": "Those segments of our revenue are being favored at this time now.",
+      "speaker_name": "RobinDay",
+      "start_time": 2805.79,
+      "end_time": 2811.55
+    },
+    {
+      "text": "It doesn't mean that that's gonna, that's gonna be sustained.",
+      "speaker_name": "RobinDay",
+      "start_time": 2811.55,
+      "end_time": 2815.43
+    },
+    {
+      "text": "We may, we're.",
+      "speaker_name": "RobinDay",
+      "start_time": 2816,
+      "end_time": 2817.04
+    },
+    {
+      "text": "We're.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2817.04,
+      "end_time": 2817.52
+    },
+    {
+      "text": "This is why we're putting effort into the unbranded.",
+      "speaker_name": "RobinDay",
+      "start_time": 2818,
+      "end_time": 2821.04
+    },
+    {
+      "text": "Want to put a narrative around unbranded and basically, you know, make sure that people understand the value of that.",
+      "speaker_name": "RobinDay",
+      "start_time": 2821.68,
+      "end_time": 2828.52
+    },
+    {
+      "text": "So this, this will probably rebalance but it's important to have this, this cross section of offerings and to be.",
+      "speaker_name": "RobinDay",
+      "start_time": 2828.52,
+      "end_time": 2837.44
+    },
+    {
+      "text": "So that you can be agile, you can adjust to whatever the trends might be.",
+      "speaker_name": "RobinDay",
+      "start_time": 2837.44,
+      "end_time": 2843.09
+    },
+    {
+      "text": "You can't counter all the trends.",
+      "speaker_name": "RobinDay",
+      "start_time": 2843.17,
+      "end_time": 2845.89
+    },
+    {
+      "text": "You have to accommodate them.",
+      "speaker_name": "RobinDay",
+      "start_time": 2845.89,
+      "end_time": 2847.29
+    },
+    {
+      "text": "You can have a narrative to kind of shape thinking around the strategy, around the channel and how to use it.",
+      "speaker_name": "RobinDay",
+      "start_time": 2847.29,
+      "end_time": 2854.93
+    },
+    {
+      "text": "But you still want.",
+      "speaker_name": "RobinDay",
+      "start_time": 2854.93,
+      "end_time": 2855.81
+    },
+    {
+      "text": "You don't want to put up roadblocks to come to companies wanting to use you for what they want to use you for.",
+      "speaker_name": "RobinDay",
+      "start_time": 2856.45,
+      "end_time": 2861.97
+    },
+    {
+      "text": "So that's how I would interpret that chart.",
+      "speaker_name": "RobinDay",
+      "start_time": 2862.93,
+      "end_time": 2866.45
+    },
+    {
+      "text": "Just happens to be the way it is now.",
+      "speaker_name": "RobinDay",
+      "start_time": 2866.53,
+      "end_time": 2868.53
+    },
+    {
+      "text": "But you have to look at it as a total offering and you really need all of those things to be.",
+      "speaker_name": "RobinDay",
+      "start_time": 2868.53,
+      "end_time": 2873.02
+    },
+    {
+      "text": "To be strong.",
+      "speaker_name": "RobinDay",
+      "start_time": 2873.5,
+      "end_time": 2874.3
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 2875.5,
+      "end_time": 2876.06
+    },
+    {
+      "text": "It's curious how they work.",
+      "speaker_name": "Karim N",
+      "start_time": 2877.9,
+      "end_time": 2879.26
+    },
+    {
+      "text": "I mean to, to decide that branded is.",
+      "speaker_name": "Karim N",
+      "start_time": 2879.26,
+      "end_time": 2882.06
+    },
+    {
+      "text": "Is something they prefer and then to move to unbre.",
+      "speaker_name": "Karim N",
+      "start_time": 2882.38,
+      "end_time": 2884.78
+    },
+    {
+      "text": "Like it's.",
+      "speaker_name": "Karim N",
+      "start_time": 2884.78,
+      "end_time": 2885.18
+    },
+    {
+      "text": "It's quite unique how these guys.",
+      "speaker_name": "Karim N",
+      "start_time": 2885.18,
+      "end_time": 2887.22
+    },
+    {
+      "text": "I mean I'd be keen to understand a bit more why they're making these decisions but we won't have time to talk about it in this call.",
+      "speaker_name": "Karim N",
+      "start_time": 2887.22,
+      "end_time": 2892.94
+    },
+    {
+      "text": "So maybe just on back of from your P and L. So.",
+      "speaker_name": "Karim N",
+      "start_time": 2893.42,
+      "end_time": 2900
+    },
+    {
+      "text": "So the gross margin seemed to have.",
+      "speaker_name": "Karim N",
+      "start_time": 2900,
+      "end_time": 2902.2
+    },
+    {
+      "text": "I know that on average we're around the same 74% as you move forward.",
+      "speaker_name": "Karim N",
+      "start_time": 2902.2,
+      "end_time": 2906.56
+    },
+    {
+      "text": "But is there a reason why this decline happened?",
+      "speaker_name": "Karim N",
+      "start_time": 2906.56,
+      "end_time": 2909.68
+    },
+    {
+      "text": "About the 5.5percent from 21 to 25 and it's too small to really matter to me personally but if there's any interesting insights on why that might have happened, then I'd love to hear it.",
+      "speaker_name": "Karim N",
+      "start_time": 2909.68,
+      "end_time": 2920.32
+    },
+    {
+      "text": "I would say probably the biggest thing.",
+      "speaker_name": "RobinDay",
+      "start_time": 2922.08,
+      "end_time": 2924.96
+    },
+    {
+      "text": "I mean we'd have to do a.",
+      "speaker_name": "RobinDay",
+      "start_time": 2924.96,
+      "end_time": 2925.88
+    },
+    {
+      "text": "Really have to do an analysis on it.",
+      "speaker_name": "RobinDay",
+      "start_time": 2925.88,
+      "end_time": 2928.2
+    },
+    {
+      "text": "But probably the biggest thing is the dependence the, you know, more did more digital branded content and in the digital space we, we have to purchase that space through, through.",
+      "speaker_name": "RobinDay",
+      "start_time": 2928.36,
+      "end_time": 2945.32
+    },
+    {
+      "text": "Through.",
+      "speaker_name": "RobinDay",
+      "start_time": 2945.48,
+      "end_time": 2945.88
+    },
+    {
+      "text": "We subcontracted let's say the placement to people who manage, own and manage those TVs.",
+      "speaker_name": "RobinDay",
+      "start_time": 2946.28,
+      "end_time": 2951.96
+    },
+    {
+      "text": "We don't actually own TVs if you like.",
+      "speaker_name": "RobinDay",
+      "start_time": 2952.04,
+      "end_time": 2956.33
+    },
+    {
+      "text": "We own the.",
+      "speaker_name": "RobinDay",
+      "start_time": 2956.33,
+      "end_time": 2957.05
+    },
+    {
+      "text": "We own the frames, if you will.",
+      "speaker_name": "RobinDay",
+      "start_time": 2957.21,
+      "end_time": 2959.05
+    },
+    {
+      "text": "You know we have control and full control and ownership over the frames.",
+      "speaker_name": "RobinDay",
+      "start_time": 2959.05,
+      "end_time": 2962.89
+    },
+    {
+      "text": "But you know, there it is more expensive with one.",
+      "speaker_name": "RobinDay",
+      "start_time": 2963.85,
+      "end_time": 2967.21
+    },
+    {
+      "text": "One partner in particular, a big partner.",
+      "speaker_name": "RobinDay",
+      "start_time": 2967.85,
+      "end_time": 2971.41
+    },
+    {
+      "text": "It is more expensive for us to purchase.",
+      "speaker_name": "RobinDay",
+      "start_time": 2971.41,
+      "end_time": 2973.93
+    },
+    {
+      "text": "It's more expensive, let's say it's less profitable with that particular partner for us to run our campaign with them than it is for us with other digital partners or with own print programs which ironically would sound like they'd be more expensive because we got people going out there and putting the posters in the frames.",
+      "speaker_name": "RobinDay",
+      "start_time": 2974.65,
+      "end_time": 2996.72
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 2997.52,
+      "end_time": 2997.92
+    },
+    {
+      "text": "It's not, you know, it's.",
+      "speaker_name": "RobinDay",
+      "start_time": 2998.16,
+      "end_time": 3000.88
+    },
+    {
+      "text": "The digital media is more expensive even though you don't need a human to.",
+      "speaker_name": "Karim N",
+      "start_time": 3000.88,
+      "end_time": 3004.36
+    },
+    {
+      "text": "To get it done.",
+      "speaker_name": "Karim N",
+      "start_time": 3004.36,
+      "end_time": 3005.2
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Karim N",
+      "start_time": 3005.36,
+      "end_time": 3005.76
+    },
+    {
+      "text": "So then would it be fair to say that given the tendency to branded which.",
+      "speaker_name": "Karim N",
+      "start_time": 3005.76,
+      "end_time": 3010.35
+    },
+    {
+      "text": "Which happens to be in digital, this is likely going to be harder to attain or at least maybe, you know, this is probably a more optimistic view of your future gross margin based on what you shared.",
+      "speaker_name": "Karim N",
+      "start_time": 3010.51,
+      "end_time": 3024.19
+    },
+    {
+      "text": "You could say that, you know, we just.",
+      "speaker_name": "RobinDay",
+      "start_time": 3024.51,
+      "end_time": 3026.79
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "Karim N",
+      "start_time": 3026.79,
+      "end_time": 3027.31
+    },
+    {
+      "text": "I mean this is.",
+      "speaker_name": "Karim N",
+      "start_time": 3027.31,
+      "end_time": 3028.03
+    },
+    {
+      "text": "We just.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3028.27,
+      "end_time": 3028.79
+    },
+    {
+      "text": "We don't know, you know, so that's.",
+      "speaker_name": "RobinDay",
+      "start_time": 3028.79,
+      "end_time": 3030.35
+    },
+    {
+      "text": "That's why I took an average because I just.",
+      "speaker_name": "RobinDay",
+      "start_time": 3030.51,
+      "end_time": 3032.67
+    },
+    {
+      "text": "I just.",
+      "speaker_name": "RobinDay",
+      "start_time": 3033.4,
+      "end_time": 3033.76
+    },
+    {
+      "text": "We just don't know supposed to be an average so.",
+      "speaker_name": "RobinDay",
+      "start_time": 3033.76,
+      "end_time": 3038.36
+    },
+    {
+      "text": "But I understand the, the question, the reasoning.",
+      "speaker_name": "RobinDay",
+      "start_time": 3039.4,
+      "end_time": 3042.16
+    },
+    {
+      "text": "Okay, a couple of quick ones just on salaries.",
+      "speaker_name": "Karim N",
+      "start_time": 3042.16,
+      "end_time": 3045.32
+    },
+    {
+      "text": "That's probably the only significant thing that's notable in opex.",
+      "speaker_name": "Karim N",
+      "start_time": 3045.48,
+      "end_time": 3048.36
+    },
+    {
+      "text": "There's been sort of a bump and then quite a bit of shedding seems from.",
+      "speaker_name": "Karim N",
+      "start_time": 3048.919,
+      "end_time": 3053.64
+    },
+    {
+      "text": "From 23.",
+      "speaker_name": "Karim N",
+      "start_time": 3053.72,
+      "end_time": 3054.68
+    },
+    {
+      "text": "Could you speak to me a bit more about.",
+      "speaker_name": "Karim N",
+      "start_time": 3055.32,
+      "end_time": 3056.84
+    },
+    {
+      "text": "Is that just because it moved somewhere else on the P L or.",
+      "speaker_name": "Karim N",
+      "start_time": 3057,
+      "end_time": 3059.8
+    },
+    {
+      "text": "That's all explained in the EBITDA adjustment.",
+      "speaker_name": "RobinDay",
+      "start_time": 3061.54,
+      "end_time": 3063.7
+    },
+    {
+      "text": "So you know, this is all Owner.",
+      "speaker_name": "RobinDay",
+      "start_time": 3063.86,
+      "end_time": 3066.9
+    },
+    {
+      "text": "This is all owner related.",
+      "speaker_name": "RobinDay",
+      "start_time": 3067.14,
+      "end_time": 3068.5
+    },
+    {
+      "text": "So you see that we benchmark the owner's compensation at 400.",
+      "speaker_name": "RobinDay",
+      "start_time": 3069.62,
+      "end_time": 3073.7
+    },
+    {
+      "text": "And you know, this was unadjusted salary.",
+      "speaker_name": "Karim N",
+      "start_time": 3075.54,
+      "end_time": 3080.3
+    },
+    {
+      "text": "You're right, that is unadjusted.",
+      "speaker_name": "RobinDay",
+      "start_time": 3080.3,
+      "end_time": 3082.18
+    },
+    {
+      "text": "There it is unadjusted, but over.",
+      "speaker_name": "RobinDay",
+      "start_time": 3082.18,
+      "end_time": 3085.3
+    },
+    {
+      "text": "You see, if you want an explanation, it's all money that either comes to us or doesn't or doesn't on a discretionary basis.",
+      "speaker_name": "RobinDay",
+      "start_time": 3085.3,
+      "end_time": 3093.06
+    },
+    {
+      "text": "So this fluctuation is all about what the owners are paying themselves in salary.",
+      "speaker_name": "RobinDay",
+      "start_time": 3093.38,
+      "end_time": 3098.94
+    },
+    {
+      "text": "It's, it's dropping off because we're taking it in other ways salary.",
+      "speaker_name": "RobinDay",
+      "start_time": 3098.94,
+      "end_time": 3104.18
+    },
+    {
+      "text": "And it's not that it's not considered an expense.",
+      "speaker_name": "RobinDay",
+      "start_time": 3104.58,
+      "end_time": 3107.98
+    },
+    {
+      "text": "You know, it's treated, treated different ways for, for tax planning reasons.",
+      "speaker_name": "RobinDay",
+      "start_time": 3107.98,
+      "end_time": 3114.1
+    },
+    {
+      "text": "So.",
+      "speaker_name": "RobinDay",
+      "start_time": 3114.18,
+      "end_time": 3114.58
+    },
+    {
+      "text": "Yeah, so the steady state would, you'd say you'd be around 600 in salaries, you know, and in a position where somebody will come in as a professional manager and only takes their comp and dividends or otherwise something like this, I",
+      "speaker_name": "Karim N",
+      "start_time": 3116.5,
+      "end_time": 3131.98
+    },
+    {
+      "text": "mean, I'd have to give you, if you want the exact number, you'd have to take the 400 and add in our, what our other salaries are.",
+      "speaker_name": "RobinDay",
+      "start_time": 3131.98,
+      "end_time": 3139.38
+    },
+    {
+      "text": "But it's, it's around this, you know.",
+      "speaker_name": "RobinDay",
+      "start_time": 3139.38,
+      "end_time": 3141.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3142.52,
+      "end_time": 3142.84
+    },
+    {
+      "text": "And the reason ask is I know that there's this plan to hire a BD director and the project coordinator.",
+      "speaker_name": "Karim N",
+      "start_time": 3142.84,
+      "end_time": 3150.28
+    },
+    {
+      "text": "And so the baseline is important to kind of determine what's the likelihood with that salary line continuing to look like.",
+      "speaker_name": "Karim N",
+      "start_time": 3150.92,
+      "end_time": 3158.76
+    },
+    {
+      "text": "The baseline here is reasserted at a million dollars in 26.",
+      "speaker_name": "Karim N",
+      "start_time": 3159.56,
+      "end_time": 3164.12
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 3164.76,
+      "end_time": 3165.2
+    },
+    {
+      "text": "Because we did factor in a, if a substantial amount for a business development person.",
+      "speaker_name": "RobinDay",
+      "start_time": 3165.2,
+      "end_time": 3171.41
+    },
+    {
+      "text": "Yeah, 200 kids.",
+      "speaker_name": "Karim N",
+      "start_time": 3172.21,
+      "end_time": 3173.41
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "RobinDay",
+      "start_time": 3173.97,
+      "end_time": 3175.49
+    },
+    {
+      "text": "So, you know, we've, we're, we're rethinking that right now as to what we might do there.",
+      "speaker_name": "RobinDay",
+      "start_time": 3175.73,
+      "end_time": 3183.09
+    },
+    {
+      "text": "But I think if you were to really sort of get into the details of how we might strategize this moving forward.",
+      "speaker_name": "RobinDay",
+      "start_time": 3183.09,
+      "end_time": 3191.09
+    },
+    {
+      "text": "Because the first thing you want to know is what's it costing us to fund the business now in terms of salary.",
+      "speaker_name": "RobinDay",
+      "start_time": 3191.41,
+      "end_time": 3197.32
+    },
+    {
+      "text": "And then you'd sort of be thinking, okay, as we keep Maggie and Robin involved or we start to think about transition, what are we going to do there?",
+      "speaker_name": "RobinDay",
+      "start_time": 3198.36,
+      "end_time": 3207.8
+    },
+    {
+      "text": "What kind of a person do we need in there?",
+      "speaker_name": "RobinDay",
+      "start_time": 3209.48,
+      "end_time": 3211.48
+    },
+    {
+      "text": "But I mean, we were, we were planning and we had planned on adding, you know, $200,000 of an additional development person.",
+      "speaker_name": "RobinDay",
+      "start_time": 3212.12,
+      "end_time": 3220.29
+    },
+    {
+      "text": "So we want someone who can, who's senior enough and has enough relationships built that they can have an impact on our, on our sales.",
+      "speaker_name": "RobinDay",
+      "start_time": 3220.29,
+      "end_time": 3230.21
+    },
+    {
+      "text": "Some of our growth is going to depend on their capability.",
+      "speaker_name": "RobinDay",
+      "start_time": 3230.45,
+      "end_time": 3233.65
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 3234.85,
+      "end_time": 3235.49
+    },
+    {
+      "text": "All right, well, maybe back to you then.",
+      "speaker_name": "Karim N",
+      "start_time": 3235.81,
+      "end_time": 3238.25
+    },
+    {
+      "text": "Maggie and Robin.",
+      "speaker_name": "Karim N",
+      "start_time": 3238.25,
+      "end_time": 3239.57
+    },
+    {
+      "text": "And Maggie you haven't heard your voice, but I'd love to hear what you want to do moving forward.",
+      "speaker_name": "Karim N",
+      "start_time": 3239.57,
+      "end_time": 3244.41
+    },
+    {
+      "text": "I mean, one of the things that you opened your sim with is that you are open to number of possibilities, whether it's an investment or a buyout, majority or a full acquisition.",
+      "speaker_name": "Karim N",
+      "start_time": 3244.41,
+      "end_time": 3256.94
+    },
+    {
+      "text": "What would you prefer as your ideal outcome?",
+      "speaker_name": "Karim N",
+      "start_time": 3257.98,
+      "end_time": 3261.02
+    },
+    {
+      "text": "And maybe if you give me a bit color on why.",
+      "speaker_name": "Karim N",
+      "start_time": 3261.34,
+      "end_time": 3263.74
+    },
+    {
+      "text": "I mean, we don't want to stop working, not for a few years.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3265.02,
+      "end_time": 3270.86
+    },
+    {
+      "text": "I mean, we should, but we don't want to.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3271.64,
+      "end_time": 3273.72
+    },
+    {
+      "text": "We enjoy what we're doing.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3274.2,
+      "end_time": 3275.72
+    },
+    {
+      "text": "So, yeah, we would be looking for someone that can partner with us or buy us out, whatever.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3276.92,
+      "end_time": 3284.36
+    },
+    {
+      "text": "But that will help grow the company.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3285,
+      "end_time": 3287.16
+    },
+    {
+      "text": "So you can grow the company either by developing specialty programs, oncology, there is a lot of money there, or finding other point of care companies that are complementing to what we do, a PSP company, whatever, and grow the company this way.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3287.56,
+      "end_time": 3309.36
+    },
+    {
+      "text": "So that would be one of the two ways that we would like to continue growing the company.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3310,
+      "end_time": 3316.08
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 3320.96,
+      "end_time": 3321.44
+    },
+    {
+      "text": "Looks like we just lost Ahmed.",
+      "speaker_name": "Karim N",
+      "start_time": 3321.44,
+      "end_time": 3322.88
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 3324.79,
+      "end_time": 3325.27
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 3325.67,
+      "end_time": 3326.03
+    },
+    {
+      "text": "I mean, I think there's a lot of, you know, for us, it's an exciting time we.",
+      "speaker_name": "RobinDay",
+      "start_time": 3326.03,
+      "end_time": 3330.23
+    },
+    {
+      "text": "Where we.",
+      "speaker_name": "RobinDay",
+      "start_time": 3331.43,
+      "end_time": 3332.47
+    },
+    {
+      "text": "I say to Maggie, I wish I had more Runway in front of us.",
+      "speaker_name": "RobinDay",
+      "start_time": 3332.71,
+      "end_time": 3336.47
+    },
+    {
+      "text": "And the only reason why we're having this conversation is because of our age.",
+      "speaker_name": "RobinDay",
+      "start_time": 3336.47,
+      "end_time": 3340.39
+    },
+    {
+      "text": "We have to be.",
+      "speaker_name": "RobinDay",
+      "start_time": 3340.95,
+      "end_time": 3341.75
+    },
+    {
+      "text": "We have to think about this, you know, and also the idea that if we have the.",
+      "speaker_name": "RobinDay",
+      "start_time": 3342.63,
+      "end_time": 3351.76
+    },
+    {
+      "text": "We find the right.",
+      "speaker_name": "RobinDay",
+      "start_time": 3351.84,
+      "end_time": 3352.88
+    },
+    {
+      "text": "Let's say we find the right buyer, that opens up a lot of other ways that we can tap into the potential for the company growth, which, as Maggie said, could happen in so many different ways.",
+      "speaker_name": "RobinDay",
+      "start_time": 3353.36,
+      "end_time": 3366.72
+    },
+    {
+      "text": "Pharma is leaning towards specialty.",
+      "speaker_name": "RobinDay",
+      "start_time": 3366.72,
+      "end_time": 3368.88
+    },
+    {
+      "text": "Our recruitment is going to lean towards specialty or is leaning towards specialty programs.",
+      "speaker_name": "RobinDay",
+      "start_time": 3369.68,
+      "end_time": 3374.71
+    },
+    {
+      "text": "Because all the revenue you're seeing, we're not tapping into any specialty revenue.",
+      "speaker_name": "RobinDay",
+      "start_time": 3374.94,
+      "end_time": 3379.98
+    },
+    {
+      "text": "Some of it we are, but not the lion's share of it.",
+      "speaker_name": "RobinDay",
+      "start_time": 3380.54,
+      "end_time": 3383.38
+    },
+    {
+      "text": "We're not.",
+      "speaker_name": "RobinDay",
+      "start_time": 3383.38,
+      "end_time": 3383.9
+    },
+    {
+      "text": "So this is money that is out there that we're not even touching yet.",
+      "speaker_name": "RobinDay",
+      "start_time": 3384.46,
+      "end_time": 3388.62
+    },
+    {
+      "text": "So we want this money.",
+      "speaker_name": "RobinDay",
+      "start_time": 3389.42,
+      "end_time": 3390.7
+    },
+    {
+      "text": "There is many possibilities in terms of, you know, providing value, you know, integration.",
+      "speaker_name": "RobinDay",
+      "start_time": 3391.74,
+      "end_time": 3399.1
+    },
+    {
+      "text": "You have some experience with DSPs, but you can see how patient support and point of care can work and dovetail with one another.",
+      "speaker_name": "RobinDay",
+      "start_time": 3399.18,
+      "end_time": 3408.35
+    },
+    {
+      "text": "So it's either either finding a company that wants to work with us directly, become part of us, or we develop some complementary capabilities in digital.",
+      "speaker_name": "RobinDay",
+      "start_time": 3409.07,
+      "end_time": 3421.71
+    },
+    {
+      "text": "In the digital world, then we can grow this way.",
+      "speaker_name": "RobinDay",
+      "start_time": 3421.87,
+      "end_time": 3425.55
+    },
+    {
+      "text": "But fundamentally, we want to make it.",
+      "speaker_name": "RobinDay",
+      "start_time": 3426.44,
+      "end_time": 3428.84
+    },
+    {
+      "text": "We want to make point of care a critical tactic.",
+      "speaker_name": "RobinDay",
+      "start_time": 3428.84,
+      "end_time": 3431.8
+    },
+    {
+      "text": "We don't want it to be a.",
+      "speaker_name": "RobinDay",
+      "start_time": 3431.96,
+      "end_time": 3433.56
+    },
+    {
+      "text": "Well, you know, we don't want it to be outside of the core tactics that companies consider.",
+      "speaker_name": "RobinDay",
+      "start_time": 3434.12,
+      "end_time": 3441.08
+    },
+    {
+      "text": "We want it to be critical.",
+      "speaker_name": "RobinDay",
+      "start_time": 3441.24,
+      "end_time": 3442.56
+    },
+    {
+      "text": "So it's one of the things they have to look at.",
+      "speaker_name": "RobinDay",
+      "start_time": 3442.56,
+      "end_time": 3445.4
+    },
+    {
+      "text": "That's where we're headed.",
+      "speaker_name": "RobinDay",
+      "start_time": 3445.64,
+      "end_time": 3446.92
+    },
+    {
+      "text": "We want to head with this then there's many ways that you can do it, many ways you can do it.",
+      "speaker_name": "RobinDay",
+      "start_time": 3446.92,
+      "end_time": 3452.56
+    },
+    {
+      "text": "And the, the prospects are, are exciting to us at least, you know.",
+      "speaker_name": "RobinDay",
+      "start_time": 3452.56,
+      "end_time": 3457.38
+    },
+    {
+      "text": "And if I ask you the question, what are you looking for?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3458.18,
+      "end_time": 3462.02
+    },
+    {
+      "text": "My goal is to bring your company and two other companies to create a full value chain specialty pharmacy provider.",
+      "speaker_name": "Karim N",
+      "start_time": 3464.02,
+      "end_time": 3472.18
+    },
+    {
+      "text": "So I'm actually in conversation with a PSP provider as well as another who would be targeting pharmacies to perform pharmacy services.",
+      "speaker_name": "Karim N",
+      "start_time": 3472.42,
+      "end_time": 3482.42
+    },
+    {
+      "text": "For me, the, the view is the Canadian healthcare market today is looking for a solution for specialty that's not nmr, it's not Bay Shore.",
+      "speaker_name": "Karim N",
+      "start_time": 3482.98,
+      "end_time": 3493.22
+    },
+    {
+      "text": "It's been doing the same exact thing for the last 20 years, consistently the same approach of going and selling these PSPs.",
+      "speaker_name": "Karim N",
+      "start_time": 3493.62,
+      "end_time": 3501.46
+    },
+    {
+      "text": "A hundred dollars for a reimbursement navigation call, $100 for a case management call.",
+      "speaker_name": "Karim N",
+      "start_time": 3501.54,
+      "end_time": 3506.46
+    },
+    {
+      "text": "And it's just, it's very much lacking in disruption from a technology point of view and there's no cohesiveness in a view of market access.",
+      "speaker_name": "Karim N",
+      "start_time": 3506.46,
+      "end_time": 3515.51
+    },
+    {
+      "text": "So I think this is an opportunity to really make that happen.",
+      "speaker_name": "Karim N",
+      "start_time": 3516.07,
+      "end_time": 3518.87
+    },
+    {
+      "text": "And I believe you built something, you know, very, very unique and it's also one of a kind.",
+      "speaker_name": "Karim N",
+      "start_time": 3520.39,
+      "end_time": 3528.15
+    },
+    {
+      "text": "You know, just even, you know, based on what Maggie opened the call with you, you are the, the largest player in this space.",
+      "speaker_name": "Karim N",
+      "start_time": 3528.15,
+      "end_time": 3534.23
+    },
+    {
+      "text": "So I think that puts you in a very good position in terms of access these doctors and therefore these prescribing decisions, which is eventually what a lot of these pharma companies only care about.",
+      "speaker_name": "Karim N",
+      "start_time": 3534.23,
+      "end_time": 3544.7
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Karim N",
+      "start_time": 3544.7,
+      "end_time": 3545.1
+    },
+    {
+      "text": "And you know, as it affects their market share.",
+      "speaker_name": "Karim N",
+      "start_time": 3545.66,
+      "end_time": 3547.58
+    },
+    {
+      "text": "So I, I've already been through many different stops being retail pharmacy, specialty pharmacy.",
+      "speaker_name": "Karim N",
+      "start_time": 3548.22,
+      "end_time": 3557.06
+    },
+    {
+      "text": "I've built my own company, I took it public.",
+      "speaker_name": "Karim N",
+      "start_time": 3557.06,
+      "end_time": 3558.94
+    },
+    {
+      "text": "So I, I really just want to bring all of that together in an ability where I can see we're connecting the value chain and really making something that's quite sticky where pharma needs us more than we need them in some ways because we would provide something that's very exceptional and very unique and how complete it is rather than just being one part of the solution.",
+      "speaker_name": "Karim N",
+      "start_time": 3558.94,
+      "end_time": 3583.75
+    },
+    {
+      "text": "That's great.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3584.63,
+      "end_time": 3585.35
+    },
+    {
+      "text": "So when do we start that?",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3585.35,
+      "end_time": 3587.03
+    },
+    {
+      "text": "Well, that's a conversation that Aman and I have to have and I'm glad to have you back.",
+      "speaker_name": "Karim N",
+      "start_time": 3588.47,
+      "end_time": 3593.37
+    },
+    {
+      "text": "We lost you there for a minute.",
+      "speaker_name": "Karim N",
+      "start_time": 3593.37,
+      "end_time": 3594.65
+    },
+    {
+      "text": "I would say, I would enforce to say they get done.",
+      "speaker_name": "Karim N",
+      "start_time": 3595.61,
+      "end_time": 3598.21
+    },
+    {
+      "text": "Maggie, it was really a pleasure to to have met you here and to write your history.",
+      "speaker_name": "Karim N",
+      "start_time": 3598.21,
+      "end_time": 3602.69
+    },
+    {
+      "text": "I. I saw your background.",
+      "speaker_name": "Karim N",
+      "start_time": 3602.69,
+      "end_time": 3604.81
+    },
+    {
+      "text": "So forgive me for, For.",
+      "speaker_name": "Karim N",
+      "start_time": 3604.81,
+      "end_time": 3606.81
+    },
+    {
+      "text": "For saying something that only maybe you understood on this call.",
+      "speaker_name": "Karim N",
+      "start_time": 3606.81,
+      "end_time": 3609.17
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "RobinDay",
+      "start_time": 3609.17,
+      "end_time": 3609.53
+    },
+    {
+      "text": "Robin, how's your Arabic?",
+      "speaker_name": "Karim N",
+      "start_time": 3609.53,
+      "end_time": 3610.73
+    },
+    {
+      "text": "Is it.",
+      "speaker_name": "Karim N",
+      "start_time": 3611.45,
+      "end_time": 3612.09
+    },
+    {
+      "text": "It's good enough?",
+      "speaker_name": "RobinDay",
+      "start_time": 3612.25,
+      "end_time": 3613.05
+    },
+    {
+      "text": "That's good.",
+      "speaker_name": "RobinDay",
+      "start_time": 3613.13,
+      "end_time": 3613.77
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Karim N",
+      "start_time": 3613.93,
+      "end_time": 3614.41
+    },
+    {
+      "text": "Very good.",
+      "speaker_name": "Karim N",
+      "start_time": 3614.41,
+      "end_time": 3614.97
+    },
+    {
+      "text": "Uh, but, uh.",
+      "speaker_name": "Karim N",
+      "start_time": 3615.29,
+      "end_time": 3616.49
+    },
+    {
+      "text": "Uh, yeah, Ahmed, I would really appreciate it if you're able to share the notes for.",
+      "speaker_name": "Karim N",
+      "start_time": 3616.81,
+      "end_time": 3620.17
+    },
+    {
+      "text": "From the call.",
+      "speaker_name": "Karim N",
+      "start_time": 3620.24,
+      "end_time": 3620.76
+    },
+    {
+      "text": "Since I wasn't taking notes, I wanted to give my full attention to Robin and Maggie and then.",
+      "speaker_name": "Karim N",
+      "start_time": 3620.76,
+      "end_time": 3626.88
+    },
+    {
+      "text": "Yeah, so we'll probably have to address the approach before we address valuation and avenue of entry.",
+      "speaker_name": "Karim N",
+      "start_time": 3627.44,
+      "end_time": 3639.28
+    },
+    {
+      "text": "It feels to me today I don't like to play games.",
+      "speaker_name": "Karim N",
+      "start_time": 3640.16,
+      "end_time": 3643.72
+    },
+    {
+      "text": "I think this company will not survive without you too, until there's a proper transition plan in place that captures some of the secret sauce and the intelligence that you both have brought and added value in this company.",
+      "speaker_name": "Karim N",
+      "start_time": 3643.72,
+      "end_time": 3658.13
+    },
+    {
+      "text": "How to do that.",
+      "speaker_name": "Karim N",
+      "start_time": 3658.85,
+      "end_time": 3659.77
+    },
+    {
+      "text": "There are millions of.",
+      "speaker_name": "Karim N",
+      "start_time": 3659.77,
+      "end_time": 3661.01
+    },
+    {
+      "text": "There are millions of ideas how to do that.",
+      "speaker_name": "Karim N",
+      "start_time": 3661.25,
+      "end_time": 3662.89
+    },
+    {
+      "text": "But I think, you know, one thing that I think is really key is to somehow capture that knowledge in a way that allows you to see, still enjoy these moments that you're having right now while still being able to benefit from the revenue and the.",
+      "speaker_name": "Karim N",
+      "start_time": 3662.89,
+      "end_time": 3679.64
+    },
+    {
+      "text": "And the income that this company generates without tying you to day to day.",
+      "speaker_name": "Karim N",
+      "start_time": 3679.64,
+      "end_time": 3684.08
+    },
+    {
+      "text": "I think that's probably a goal that you would agree you want, you know, you probably don't want moving forward to be day to day, you know, tied into this company, which is why you need somebody who's come in with a view of equity ownership and so they care about this more than just a job and then being able to really develop a mechanism of transition that allows you to still benefit.",
+      "speaker_name": "Karim N",
+      "start_time": 3684.24,
+      "end_time": 3706.17
+    },
+    {
+      "text": "But then, you know, really enjoy these.",
+      "speaker_name": "Karim N",
+      "start_time": 3706.73,
+      "end_time": 3708.97
+    },
+    {
+      "text": "These years to, you know, the fruits of your labor for the last 26 years as you were building this company.",
+      "speaker_name": "Karim N",
+      "start_time": 3708.97,
+      "end_time": 3716.01
+    },
+    {
+      "text": "Is that fair?",
+      "speaker_name": "Karim N",
+      "start_time": 3717.29,
+      "end_time": 3718.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 3718.57,
+      "end_time": 3719.01
+    },
+    {
+      "text": "I mean, as I say, we'll be around to make sure that the transition is smooth and it's not going to happen in six months.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3719.01,
+      "end_time": 3726.41
+    },
+    {
+      "text": "No, no.",
+      "speaker_name": "RobinDay",
+      "start_time": 3727.26,
+      "end_time": 3727.74
+    },
+    {
+      "text": "A couple of years for sure, but yes, sounds good.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3728.62,
+      "end_time": 3733.74
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Karim N",
+      "start_time": 3734.54,
+      "end_time": 3735.42
+    },
+    {
+      "text": "I have to jump to a call at 11 that started and I.",
+      "speaker_name": "Karim N",
+      "start_time": 3735.42,
+      "end_time": 3739.9
+    },
+    {
+      "text": "But I really appreciate you taking the time to do this while away on vacation and your dedication and putting together such a great document.",
+      "speaker_name": "Karim N",
+      "start_time": 3740.46,
+      "end_time": 3747.74
+    },
+    {
+      "text": "Ahmed, it's very well done, your sim and your, you know, and for.",
+      "speaker_name": "Karim N",
+      "start_time": 3747.74,
+      "end_time": 3753.34
+    },
+    {
+      "text": "For making sure that this call happens.",
+      "speaker_name": "Karim N",
+      "start_time": 3753.34,
+      "end_time": 3755.26
+    },
+    {
+      "text": "So thank you.",
+      "speaker_name": "Karim N",
+      "start_time": 3755.44,
+      "end_time": 3756
+    },
+    {
+      "text": "Thank you for that.",
+      "speaker_name": "Karim N",
+      "start_time": 3756.24,
+      "end_time": 3757.04
+    },
+    {
+      "text": "Bye bye.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3774.96,
+      "end_time": 3775.68
+    },
+    {
+      "text": "So.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3780,
+      "end_time": 3780.4
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3781.69,
+      "end_time": 3782.01
+    },
+    {
+      "text": "What do you guys think?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3782.89,
+      "end_time": 3783.93
+    },
+    {
+      "text": "I mean, it's very interesting because he has the knowledge of the area.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3785.61,
+      "end_time": 3789.93
+    },
+    {
+      "text": "It's not a com.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3790.01,
+      "end_time": 3791.01
+    },
+    {
+      "text": "A transport company that want to take over the company.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3791.01,
+      "end_time": 3794.17
+    },
+    {
+      "text": "He understands very well his idea of getting a few companies together to grow it.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3794.65,
+      "end_time": 3800.57
+    },
+    {
+      "text": "That's basically a very good strategy.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3801.13,
+      "end_time": 3804.17
+    },
+    {
+      "text": "So it will all come down to the cost.",
+      "speaker_name": "MaggyWarda",
+      "start_time": 3804.33,
+      "end_time": 3807.07
+    },
+    {
+      "text": "Yeah, I think, yeah, he.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3808.27,
+      "end_time": 3810.91
+    },
+    {
+      "text": "He was really keen to speak to you guys.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3810.91,
+      "end_time": 3812.83
+    },
+    {
+      "text": "Like, when.",
+      "speaker_name": "RobinDay",
+      "start_time": 3812.83,
+      "end_time": 3813.43
+    },
+    {
+      "text": "When I first saw his company, I was like, you know, you're not really relevant.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3813.43,
+      "end_time": 3817.15
+    },
+    {
+      "text": "But then he came back and he's like, I just really am looking into this place.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3817.71,
+      "end_time": 3822.509
+    },
+    {
+      "text": "And then now, now it was, like, quite evident that he knows the space and has a lot of knowledge.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3822.509,
+      "end_time": 3829.31
+    },
+    {
+      "text": "I think it's a good one, and I think it's a much better fit than Kepler.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3829.31,
+      "end_time": 3834.25
+    },
+    {
+      "text": "Even though they kind of said that it's going to be a pass for them, just given the client concentration.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3834.25,
+      "end_time": 3840.69
+    },
+    {
+      "text": "And they had some reservations around the.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3840.69,
+      "end_time": 3843.25
+    },
+    {
+      "text": "Yeah, that's okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 3847.17,
+      "end_time": 3848.21
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Point-of-Care Advertising",
+      "CommunityMed",
+      "Pharma Marketing",
+      "Specialty Pharmacy",
+      "Digital Campaigns",
+      "Market Access"
+    ],
+    "action_items": "\n**Ahmed Zia**\nShare detailed meeting notes with Karim N for follow-up and reference (01:01:20)\n\n**Karim N**\nDiscuss next steps regarding potential partnership or acquisition approach, including valuation and integration strategies (01:00:50)\n\n**Maggie Warda and Robin Day**\nSupport a smooth multi-year transition plan ensuring knowledge transfer and operational continuity (01:01:55)\n\n**CommunityMed**\nConsider strategy refining for hiring a senior business development director and project coordinator to drive growth (52:40)\n\n**Team**\nAnalyze digital advertising costs and margins further to optimize profitability, especially regarding costly third-party digital screen placements (48:00)\n\n**Robin Day and Maggie Warda**\nContinue educating pharma clients on the benefits of unbranded point-of-care advertising linked with branded messaging in appropriate formats to enhance client buy-in (24:00)\n",
+    "outline": null,
+    "overview": "- **Market Position:** CommunityMed is a leading point-of-care advertising network in Canada, with 4,000 clinics and pharmacies.  \n- **Advertising Strategy:** Utilizes unbranded ads in clinics and branded ads in pharmacies to comply with Health Canada regulations.  \n- **Client Relationships:** Strong partnerships with patient associations, critical for enhancing pharma market access and addressing government coverage.  \n- **Revenue Strategy:** Revenue includes print, digital, and pharmacy segments, with a focus on balancing offerings for client adaptability.  \n- **Financial Health:** Stable gross margins around 74%, with plans to hire business development roles to fuel growth.  \n- **Growth Vision:** Founders seek partnership or acquisition to expand into specialty pharmacy and patient support programs while ensuring business continuity.",
+    "short_summary": "CommunityMed, founded by Maggy Warda and Robin Day, operates as a leading point-of-care advertising network in Canada with a focus on clinics and pharmacies, boasting a network of around 4,000 locations. The company employs unbranded advertising in clinics and branded ads in pharmacies, adhering to Health Canada regulations. Strong partnerships with patient associations enhance pharma market access. Despite experiencing a decline in gross margins, which currently stand at around 74%, the company plans to hire additional senior roles to aid growth. The founders are interested in pursuing partnerships or acquisitions to expand into specialty pharmacy and patient support services while ensuring a smooth transition that retains the company's unique strengths.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01KHQHPW8RVE0944GVMPAGTDNB",
+  "audio_url": "https://cdn.fireflies.ai/01KHQHPW8RVE0944GVMPAGTDNB/audio.mp3?Expires=1773220820&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0hRSFBXOFJWRTA5NDRHVk1QQUdURE5CL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgyMH19fV19&Signature=NHgTMosXkh7lJGaTKf9Y~b-mY9Qbt4UkuweIYrX2Z4e~C5dYllPOTnY8n6KPhqjC8bif7mxFtImlrVx~28MkpeVhjHFdGdDVVghc3vMvPXOOLaNf0vZmyXecEw9Su1M~qWPraZx9WWHFfazQqfXYdk2lHDgwW5PTAxZkpRmSqPj2ujtGTS16l97jPW4ELodfGEh8kcIS0pCm8U5U7qpEH8fn5~AUHABmOZxlRoxWcTg9yCJEouSt2lRjLOuqDy-BZHy02ugaJvkvUfuoYitqjH~Bay0nTaPp-Ip-FfS0AIwM9qu3fM7TSoDOZfmujVzMTpIdzE9Jv9ScoK7aKXUH8Q__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01KHQHPW8RVE0944GVMPAGTDNB/video.mp4?Expires=1773220820&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0hRSFBXOFJWRTA5NDRHVk1QQUdURE5CL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgyMH19fV19&Signature=BrRIdja68LjnKlXoKxNVhPky5dKfJ39CT-LRvueX~ul4XP4Qre6d~KjOto7IGQrj7VVoB2KUmIif1frD-cycAGCir9lgbf9fH444iQ5vwqCQovhf5OOrGokKCLDjbukSt3iy~MMKaEsFrzpIO5-rEG9imf6ZCyYCuvpA1YTfjkNf8UHJHlqAFurJEdRc~1gNRRm3-JIllGhvC8WJ2vfWFJNoepTdISvh~C69tvAQXegBDLv-twFMyPVcc5Ts4ZURi0saVmquduwgNvnwRa1pN82YJv8l8cb9dT55-424EzCQoBhwea0im-f0~urmHXZFNUk5l4Y~5qd3erDGS75y8A__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

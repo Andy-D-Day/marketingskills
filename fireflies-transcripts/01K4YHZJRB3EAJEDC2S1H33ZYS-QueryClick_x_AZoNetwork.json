@@ -1,0 +1,2726 @@
+{
+  "id": "01K4YHZJRB3EAJEDC2S1H33ZYS",
+  "title": "QueryClick x AZoNetwork",
+  "date": 1758180600000,
+  "dateString": "2025-09-18T07:30:00.000Z",
+  "duration": 30.8799991607666,
+  "participants": [
+    "ahmed.zia@capitala.co,ianbirkby@azonetwork.com,chris.liversidge@queryclick.com,andycoveney@azonetwork.com,lee-anne.lindsay@queryclick.com,richard.lewis@queryclick.com,brian.fitzpatrick@corvidae.ai",
+    "ianbirkby@azonetwork.com",
+    "chris.liversidge@queryclick.com",
+    "andycoveney@azonetwork.com",
+    "lee-anne.lindsay@queryclick.com",
+    "richard.lewis@queryclick.com",
+    "brian.fitzpatrick@corvidae.ai"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ianbirkby@azonetwork.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris.liversidge@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andycoveney@azonetwork.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "lee-anne.lindsay@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard.lewis@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "brian.fitzpatrick@corvidae.ai",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi, morning.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1.84,
+      "end_time": 2.56
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 2.8,
+      "end_time": 3.28
+    },
+    {
+      "text": "Good morning.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 3.92,
+      "end_time": 4.56
+    },
+    {
+      "text": "Nice to meet you both.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 6.8,
+      "end_time": 7.84
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 8.64,
+      "end_time": 9.16
+    },
+    {
+      "text": "Hello, everybody.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 9.16,
+      "end_time": 10.04
+    },
+    {
+      "text": "Hi, Chris.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 10.04,
+      "end_time": 10.64
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 12.08,
+      "end_time": 12.56
+    },
+    {
+      "text": "Morning, Chris.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 12.88,
+      "end_time": 13.6
+    },
+    {
+      "text": "Where do I find you guys today?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 14.08,
+      "end_time": 15.52
+    },
+    {
+      "text": "Well, you couldn't be further apart.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 16.4,
+      "end_time": 18.72
+    },
+    {
+      "text": "So Andy's in sunny old Manchester and I'm in sunny old Sydney, Australia.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 18.96,
+      "end_time": 23.76
+    },
+    {
+      "text": "I'm trying to work out who's got the better side of the deal there.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 26.4,
+      "end_time": 28.96
+    },
+    {
+      "text": "That sounds.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 28.96,
+      "end_time": 29.68
+    },
+    {
+      "text": "You know, somebody's got to live in Sydney.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 32.78,
+      "end_time": 34.38
+    },
+    {
+      "text": "How long have you been in Sydney for?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 36.62,
+      "end_time": 38.3
+    },
+    {
+      "text": "25 years now, Chris.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 39.34,
+      "end_time": 41.9
+    },
+    {
+      "text": "So I did have a manufacturing business in the, in the northwest and then decided to come over towards a few family reasons and that sort of stuff and yeah, set up an Internet business, but I do spend about three or four months of the year back in the, in the UK historically.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 41.98,
+      "end_time": 60.48
+    },
+    {
+      "text": "So most of our team that, that Andy looks after are based in, in Manchester, so we've got about, I think about 45, something like that.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 60.56,
+      "end_time": 69.68
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 71.76,
+      "end_time": 72.24
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 72.24,
+      "end_time": 72.64
+    },
+    {
+      "text": "Well, thanks for teeing this up, Ahmed.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 72.72,
+      "end_time": 75.2
+    },
+    {
+      "text": "Appreciate you your help on that one and thanks for taking the, the call, Chris.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 75.28,
+      "end_time": 81.04
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 81.28,
+      "end_time": 82
+    },
+    {
+      "text": "I perhaps should say at the outset I've got a bit of a hard stop at the, the top of the hour.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 82.48,
+      "end_time": 88.24
+    },
+    {
+      "text": "It's, it's actually my birthday today and there's a family dinner going on.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 88.24,
+      "end_time": 92.68
+    },
+    {
+      "text": "There are some things that I can get out of, but, you know, others.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 94.44,
+      "end_time": 97.72
+    },
+    {
+      "text": "And again, I just thought it'd be good to have this, you know, very initial just to see if there's any, any, any chance of a, of a fit.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 101,
+      "end_time": 109.24
+    },
+    {
+      "text": "So if it's all right with you, if I can just sort of start.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 110.36,
+      "end_time": 113.16
+    },
+    {
+      "text": "Absolutely in go for it questions.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 113.56,
+      "end_time": 115.8
+    },
+    {
+      "text": "So I guess the first one is why are you contemplating selling it and are you looking to exit totally or do you want to stay involved?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 116.6,
+      "end_time": 124.92
+    },
+    {
+      "text": "Depending on what the people who purchase do.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 124.92,
+      "end_time": 127.96
+    },
+    {
+      "text": "So, yeah, so I mean, obviously I'm.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 128.12,
+      "end_time": 130.48
+    },
+    {
+      "text": "I'm very passionate about Query Click.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 130.48,
+      "end_time": 132.6
+    },
+    {
+      "text": "You know, it's been the entirety of my life, more or less for 17 years.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 132.84,
+      "end_time": 137.64
+    },
+    {
+      "text": "I've also developed a kind of sister business which is the Corvay software, which.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 138.93,
+      "end_time": 144.01
+    },
+    {
+      "text": "I think you'll have read about.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 144.01,
+      "end_time": 145.01
+    },
+    {
+      "text": "And so really selling Query Click comes down to looking to spend a bit.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 146.29,
+      "end_time": 152.73
+    },
+    {
+      "text": "More time developing that software out.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 152.73,
+      "end_time": 154.69
+    },
+    {
+      "text": "So that's an area of, kind of technical interest, if you like, of mine.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 154.929,
+      "end_time": 160.77
+    },
+    {
+      "text": "I've really always come from a technical.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 161.65,
+      "end_time": 163.29
+    },
+    {
+      "text": "Background, you'll see from my career and also Query Click and how we position in the market.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 163.29,
+      "end_time": 169.07
+    },
+    {
+      "text": "We very much come to the table as kind of technical leaders and I.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 169.55,
+      "end_time": 175.19
+    },
+    {
+      "text": "See that kind of as an extension.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 175.19,
+      "end_time": 176.75
+    },
+    {
+      "text": "So there's no driver other than an awareness that I need to really give.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 176.91,
+      "end_time": 182.79
+    },
+    {
+      "text": "A lot of focus into that Corvadae business to take it on to the next level.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 182.79,
+      "end_time": 188.35
+    },
+    {
+      "text": "So that's the main driver.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 188.75,
+      "end_time": 190.91
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 191.48,
+      "end_time": 191.76
+    },
+    {
+      "text": "Chris, how do you, how do you spell that?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 191.76,
+      "end_time": 193.52
+    },
+    {
+      "text": "I haven't actually.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 193.52,
+      "end_time": 194.2
+    },
+    {
+      "text": "Ah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 194.68,
+      "end_time": 195.04
+    },
+    {
+      "text": "Yeah, it's corvidate.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 195.04,
+      "end_time": 196.08
+    },
+    {
+      "text": "So C O, R, V, I, D, A, E. It's the Latin term for the crow family, the most important of birds as I'm sure everyone knows.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 196.08,
+      "end_time": 204.92
+    },
+    {
+      "text": "As I now know no one knows.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 205,
+      "end_time": 206.76
+    },
+    {
+      "text": "Yeah, yes, it's, it is mentioned briefly on the Query Click site but there's Corvidate AI.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 209.4,
+      "end_time": 216.28
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 216.93,
+      "end_time": 217.33
+    },
+    {
+      "text": "And that has the, the outline.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 217.89,
+      "end_time": 219.93
+    },
+    {
+      "text": "It's essentially, it's a, a platform that uses AI to stitch sessions together online.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 219.93,
+      "end_time": 225.05
+    },
+    {
+      "text": "And replace the use of cookies for measurement.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 225.05,
+      "end_time": 227.09
+    },
+    {
+      "text": "And yeah that has a number of.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 227.81,
+      "end_time": 230.45
+    },
+    {
+      "text": "Quite powerful side effects.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 230.45,
+      "end_time": 231.97
+    },
+    {
+      "text": "So it's more ad tech and unified marketing measurement.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 232.21,
+      "end_time": 236.61
+    },
+    {
+      "text": "For that piece we actually have it cross deployed across a few customers although for the last five years I've insulated it entirely essentially from Query click.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 237.41,
+      "end_time": 249.12
+    },
+    {
+      "text": "So it's actually happenstance that we have.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 249.12,
+      "end_time": 251.88
+    },
+    {
+      "text": "A couple of shared customers these days.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 251.96,
+      "end_time": 253.8
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 254.36,
+      "end_time": 255
+    },
+    {
+      "text": "Principally because the product is quite compelling.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 255.08,
+      "end_time": 258.6
+    },
+    {
+      "text": "For Google Ads optimization.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 258.6,
+      "end_time": 260.12
+    },
+    {
+      "text": "So there's an initial use case there.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 260.76,
+      "end_time": 263
+    },
+    {
+      "text": "Where you deploy it.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 263,
+      "end_time": 263.96
+    },
+    {
+      "text": "It reduces your cost per acquisition.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 264.12,
+      "end_time": 265.96
+    },
+    {
+      "text": "You can prove that with incrementality tests.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 267,
+      "end_time": 268.92
+    },
+    {
+      "text": "It's nice and robust for customers and then that helps them get confidence about the attribution side.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 268.92,
+      "end_time": 272.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 273.48,
+      "end_time": 273.96
+    },
+    {
+      "text": "So effectively the paid search, the AdWords business, the SEO that's.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 274.28,
+      "end_time": 281.88
+    },
+    {
+      "text": "You're going to move away from that.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 282.36,
+      "end_time": 284.28
+    },
+    {
+      "text": "Who would be looking after it in your.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 284.36,
+      "end_time": 287.32
+    },
+    {
+      "text": "Yeah, so Jackie heads up strategy for us and she essentially operates as the account director across all accounts.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 287.88,
+      "end_time": 296.84
+    },
+    {
+      "text": "I'm sort of involved nominally as kind of strategic overview at the moment which means really it's dipping into my expertise.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 298.2,
+      "end_time": 308.13
+    },
+    {
+      "text": "To give kind of overarching coverage about.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 308.37,
+      "end_time": 311.29
+    },
+    {
+      "text": "How the organic and paid are interoperating.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 311.29,
+      "end_time": 314.21
+    },
+    {
+      "text": "Although Jackie is super superb at that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 315.25,
+      "end_time": 318.13
+    },
+    {
+      "text": "Side of things as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 318.13,
+      "end_time": 319.17
+    },
+    {
+      "text": "She is very strong on the people.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 320.29,
+      "end_time": 321.89
+    },
+    {
+      "text": "Management, the commercial delivery.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 321.89,
+      "end_time": 323.81
+    },
+    {
+      "text": "So she's responsible for all customer extensions and growth, sort of organic growth within that organization.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 324.77,
+      "end_time": 332.25
+    },
+    {
+      "text": "I know one of the, you know obviously one of the issues with that, that side of the business is we had a very large customer here which in housed.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 332.81,
+      "end_time": 343.69
+    },
+    {
+      "text": "So that was BT Group.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 344.01,
+      "end_time": 345.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 347.13,
+      "end_time": 347.57
+    },
+    {
+      "text": "So we ran their SEO for a number of years and they accounted for 1.2 million pounds ARR in 2023.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 347.57,
+      "end_time": 357.14
+    },
+    {
+      "text": "They advised us that they were going to build an in house team and spent a year working towards that actually with us supporting because really as you know with your customer sometimes when strategically they make major Decisions like that, it's not really.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 358.33,
+      "end_time": 373.85
+    },
+    {
+      "text": "You can't necessarily change that view.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 373.93,
+      "end_time": 376.73
+    },
+    {
+      "text": "They had a new CEO at that time who has subsequently moved on, but.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 377.05,
+      "end_time": 382.41
+    },
+    {
+      "text": "We didn't really have an opportunity to reverse that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 383.33,
+      "end_time": 385.37
+    },
+    {
+      "text": "So that's, that's why there's an ARR.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 385.37,
+      "end_time": 387.01
+    },
+    {
+      "text": "Drop in particular in that year.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 387.17,
+      "end_time": 388.85
+    },
+    {
+      "text": "It's a, you know, we were very pleased with that customer.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 388.85,
+      "end_time": 391.89
+    },
+    {
+      "text": "It reflects actually the kind of customer.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 392.13,
+      "end_time": 394.25
+    },
+    {
+      "text": "That historically we've always been strong with.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 394.25,
+      "end_time": 396.61
+    },
+    {
+      "text": "We have a number of customers like that in our portfolio today.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 397.65,
+      "end_time": 401.17
+    },
+    {
+      "text": "So Sally Beauty is a customer of.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 402.29,
+      "end_time": 404.01
+    },
+    {
+      "text": "Ours, for example, that have been with us for eight years coming on.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 404.01,
+      "end_time": 409.09
+    },
+    {
+      "text": "And also Agreco Group, who you're probably familiar with.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 409.09,
+      "end_time": 411.89
+    },
+    {
+      "text": "They're a customer of ours, they've been with us for more than a decade.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 412.46,
+      "end_time": 415.02
+    },
+    {
+      "text": "So yeah, BT was a sad loss.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 416.62,
+      "end_time": 420.14
+    },
+    {
+      "text": "It was one we were aware of.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 420.22,
+      "end_time": 421.62
+    },
+    {
+      "text": "So we were able to kind of.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 421.62,
+      "end_time": 423.02
+    },
+    {
+      "text": "Manage ahead of time for that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 423.02,
+      "end_time": 424.58
+    },
+    {
+      "text": "Obviously £1.2 million of annual revenue is, is difficult to replace in the short term.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 424.58,
+      "end_time": 430.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 430.78,
+      "end_time": 431.26
+    },
+    {
+      "text": "Unsurprisingly you've answered one of the questions that I.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 431.58,
+      "end_time": 434.46
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 435.98,
+      "end_time": 436.46
+    },
+    {
+      "text": "Yeah, it was a big hole there and painful and.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 436.62,
+      "end_time": 439.42
+    },
+    {
+      "text": "But we, we a similar experience with one of our biggest clients who.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 439.58,
+      "end_time": 445.82
+    },
+    {
+      "text": "And they're still our biggest client and have been with us for 10 years plus and we had a, an AdWords management program that we did really well at and they were very happy with but somebody in the wisdom decided they were going to offshore it to India and you know, there's very little that we, we could do about it.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 446.62,
+      "end_time": 463.86
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 463.86,
+      "end_time": 464.14
+    },
+    {
+      "text": "I get it.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 466.94,
+      "end_time": 467.66
+    },
+    {
+      "text": "I suppose cutting even more to the chase, I did drop an email to Ahmed, but Ahmed indicated, you know, best to.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 468.3,
+      "end_time": 478.29
+    },
+    {
+      "text": "To ask Direct, what are you thinking in terms of valuation of the business?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 478.61,
+      "end_time": 483.81
+    },
+    {
+      "text": "What sort of metric are you looking to use?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 483.81,
+      "end_time": 486.21
+    },
+    {
+      "text": "What do you think really applies in, in your context?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 486.21,
+      "end_time": 489.97
+    },
+    {
+      "text": "So, yeah, so we've used the methodology around the, the profitability of that, that, that business.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 490.45,
+      "end_time": 498.27
+    },
+    {
+      "text": "It's an incredibly strong performer from a.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 498.91,
+      "end_time": 501.47
+    },
+    {
+      "text": "Profitability point of view.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 501.47,
+      "end_time": 502.59
+    },
+    {
+      "text": "We see, you know, multiples based on that as being.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 503.63,
+      "end_time": 506.99
+    },
+    {
+      "text": "Being the, the principal driver of valuation.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 507.23,
+      "end_time": 510.11
+    },
+    {
+      "text": "You know, the, this, the summary, if you like, of that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 511.07,
+      "end_time": 513.95
+    },
+    {
+      "text": "That business is.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 514.19,
+      "end_time": 515.03
+    },
+    {
+      "text": "I feel it.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 515.03,
+      "end_time": 515.71
+    },
+    {
+      "text": "It's not that it runs itself exactly, but I have been heavily invested in.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 516.51,
+      "end_time": 520.71
+    },
+    {
+      "text": "The development of the KO project.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 520.71,
+      "end_time": 522.99
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 523.8,
+      "end_time": 524.12
+    },
+    {
+      "text": "You know, that business has had Jackie and the team, you know, delivering the kind of sales side of the operation.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 525.24,
+      "end_time": 532.76
+    },
+    {
+      "text": "So they, they're the ones who take leads and opportunities and, and build and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 532.92,
+      "end_time": 537.6
+    },
+    {
+      "text": "Develop and put forward pitches.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 537.6,
+      "end_time": 539.24
+    },
+    {
+      "text": "So they're responsible for that side.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 539.24,
+      "end_time": 541.56
+    },
+    {
+      "text": "I think if you compare the last five years to the.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 541.72,
+      "end_time": 544.44
+    },
+    {
+      "text": "Well, if you had number of the.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 544.52,
+      "end_time": 546.16
+    },
+    {
+      "text": "Previous five years, there was a faster acceleration of, of new business growth.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 546.16,
+      "end_time": 550.64
+    },
+    {
+      "text": "And not to blow my own trumpet too much, but if you've got someone who's got a reputation in the industry.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 551.28,
+      "end_time": 556.32
+    },
+    {
+      "text": "And you know, a decade of experience behind them with, you know, household names, you win more pitches.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 556.64,
+      "end_time": 563.12
+    },
+    {
+      "text": "And because I've been building a SaaS platform and trying to sort of lead and develop that organization, I think querypick.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 564.4,
+      "end_time": 572.92
+    },
+    {
+      "text": "Has sort of suffered, I would say, because we've not given it the sales.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 572.92,
+      "end_time": 578.19
+    },
+    {
+      "text": "Focus that it required.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 578.19,
+      "end_time": 579.39
+    },
+    {
+      "text": "You know, it could easily be two, three times the size that it is today.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 579.55,
+      "end_time": 583.15
+    },
+    {
+      "text": "Chris, what would it need to do that if you leave?",
+      "speaker_name": "Andy Coveney",
+      "start_time": 584.43,
+      "end_time": 587.59
+    },
+    {
+      "text": "What, what resource does it need?",
+      "speaker_name": "Andy Coveney",
+      "start_time": 587.59,
+      "end_time": 589.47
+    },
+    {
+      "text": "Does it need a business development director to work alongside Jackie?",
+      "speaker_name": "Andy Coveney",
+      "start_time": 589.47,
+      "end_time": 593.87
+    },
+    {
+      "text": "But what, what, what does it need to make that leap?",
+      "speaker_name": "Andy Coveney",
+      "start_time": 594.03,
+      "end_time": 596.75
+    },
+    {
+      "text": "In my opinion, yes.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 597.07,
+      "end_time": 598.43
+    },
+    {
+      "text": "So I believe that it is incredibly well set up to, to pitch strongly, particularly enterprise level unified search, paid specialism search and paid social and of course organic in particular with a analytics and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 598.83,
+      "end_time": 621.8
+    },
+    {
+      "text": "A technical kind of wraparound service underpinning.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 621.8,
+      "end_time": 624.8
+    },
+    {
+      "text": "It's a very strong proposition.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 624.88,
+      "end_time": 626.4
+    },
+    {
+      "text": "You'll see that we pin it around performance.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 626.8,
+      "end_time": 629.3
+    },
+    {
+      "text": "So in all of our pitch responses that team is able to take basic data access from the customer, build compelling forecasts, hook those onto, you know, a strategy that has like absolutely clearly unambiguous.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 630.34,
+      "end_time": 647.62
+    },
+    {
+      "text": "Strategic drivers that you can demonstrate and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 647.7,
+      "end_time": 650.94
+    },
+    {
+      "text": "Present that what they've not had is a pipeline being given to them.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 650.94,
+      "end_time": 655.06
+    },
+    {
+      "text": "And so if you have an operation that already has an ability to provide opportunities into that team, I'm certain that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 656.54,
+      "end_time": 665.78
+    },
+    {
+      "text": "They would be able to bring it in and close plenty of those.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 665.78,
+      "end_time": 669.42
+    },
+    {
+      "text": "I will say as well, I want to make sure that QueryClick is successful going forwards with whoever ultimately becomes the acquirer.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 669.82,
+      "end_time": 679.18
+    },
+    {
+      "text": "And so I have been briefing in AHMED and the team.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 679.26,
+      "end_time": 682.46
+    },
+    {
+      "text": "I am flexible about having a period of transition and making sure that I.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 682.86,
+      "end_time": 687.27
+    },
+    {
+      "text": "Can support and make sure in particular.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 687.27,
+      "end_time": 689.23
+    },
+    {
+      "text": "A, that the team lands well in the organization and is able to support existing customer base.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 689.39,
+      "end_time": 695.39
+    },
+    {
+      "text": "But B that there is a structure and a plan and processes so that they can continue to succeed and the.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 695.71,
+      "end_time": 704.03
+    },
+    {
+      "text": "Wider organization that acquires them can also.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 704.03,
+      "end_time": 706.43
+    },
+    {
+      "text": "You know, develop revenues from, from that team.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 706.91,
+      "end_time": 710.11
+    },
+    {
+      "text": "I think the ideal acquirer has opportunities ideally for that sort of expansion and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 710.5,
+      "end_time": 716.78
+    },
+    {
+      "text": "Development of the core service proposition to.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 716.78,
+      "end_time": 721.18
+    },
+    {
+      "text": "Generate revenues for them.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 721.18,
+      "end_time": 722.42
+    },
+    {
+      "text": "I mean, it's on my list of questions.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 722.58,
+      "end_time": 724.62
+    },
+    {
+      "text": "On that side is really a bit of an understanding of your picture and vision for QueryClick.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 724.62,
+      "end_time": 731.14
+    },
+    {
+      "text": "How you would see it fitting.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 731.14,
+      "end_time": 732.34
+    },
+    {
+      "text": "Yeah, well, to answer that one very quickly.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 733.06,
+      "end_time": 735.98
+    },
+    {
+      "text": "So we're in the business of inbound marketing for science, technology, medical, life sciences, healthcare.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 735.98,
+      "end_time": 742.86
+    },
+    {
+      "text": "We operate a suite of our own websites.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 743.66,
+      "end_time": 745.9
+    },
+    {
+      "text": "So there's about 14, 15 sites that we operate and we generate currently, give or take about 40 million unique visits a year.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 745.9,
+      "end_time": 754.14
+    },
+    {
+      "text": "It was higher, it was very high during COVID because of the healthcare stuff.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 755.26,
+      "end_time": 759.18
+    },
+    {
+      "text": "And we generate sales leads for the customers who make microscopes, analysis equipment, we tell their story online effective.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 760.3,
+      "end_time": 769.67
+    },
+    {
+      "text": "And we've got a million, over a million subscribers who are all interested in buying scientific equipment.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 770.15,
+      "end_time": 777.19
+    },
+    {
+      "text": "And that represents about 70% of the business.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 777.59,
+      "end_time": 780.47
+    },
+    {
+      "text": "Then 30% of the business is what we call services.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 780.47,
+      "end_time": 783.35
+    },
+    {
+      "text": "So that includes SEO, web services, webinars, video, that type of stuff.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 783.99,
+      "end_time": 790.91
+    },
+    {
+      "text": "So it would be, it would be quite a neat fit in that respect.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 790.91,
+      "end_time": 795.51
+    },
+    {
+      "text": "And we've got existing people who are somewhat skilled in the art, although there are areas that we, we do have gaps in.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 795.75,
+      "end_time": 803.12
+    },
+    {
+      "text": "Paid social, for example.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 803.12,
+      "end_time": 804.6
+    },
+    {
+      "text": "We don't, we see some interest.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 805.4,
+      "end_time": 807.56
+    },
+    {
+      "text": "But a lot of our clients are B2B, very sort of technical business, scientific engineering type of businesses.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 807.72,
+      "end_time": 815.64
+    },
+    {
+      "text": "They certainly, you know, are not going to have TikTok accounts and.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 816.84,
+      "end_time": 820.6
+    },
+    {
+      "text": "No, but potentially LinkedIn is an important channel.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 820.76,
+      "end_time": 823.72
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 824.59,
+      "end_time": 824.99
+    },
+    {
+      "text": "So it'd be a fairly straightforward fit, although there would not be a perfect overlap in terms of the sort of customer base.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 825.47,
+      "end_time": 834.35
+    },
+    {
+      "text": "But that's okay.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 836.35,
+      "end_time": 837.55
+    },
+    {
+      "text": "Sorry to bring you back to it and I know you said you were looking at sort of multiples of revenue, but I often find it's better off trying to understand how far apart could we be at this stage.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 838.03,
+      "end_time": 850.19
+    },
+    {
+      "text": "There's some of the other agencies, Ahmed type of colleagues, they do put at the front of the slide deck.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 850.43,
+      "end_time": 857.33
+    },
+    {
+      "text": "This is what the indicative price is.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 857.33,
+      "end_time": 859.49
+    },
+    {
+      "text": "So if you don't want to do that at this point, Chris, I totally respect that and that's fine.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 860.13,
+      "end_time": 864.69
+    },
+    {
+      "text": "But if you were able to give us a sighting shot, that does make quite a difference because we are looking at quite a few other agency businesses at the moment.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 865.01,
+      "end_time": 874.13
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 874.21,
+      "end_time": 874.61
+    },
+    {
+      "text": "Yeah, well, with Ahmed and Capital A, we have built out, you know, a pricing model which it sounds that perhaps.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 874.77,
+      "end_time": 883.72
+    },
+    {
+      "text": "That'S not been shared particularly.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 883.72,
+      "end_time": 885.56
+    },
+    {
+      "text": "But in there there's a valuation of 2.46 million based on the, the revenue.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 885.56,
+      "end_time": 896.04
+    },
+    {
+      "text": "And a bit sitting at about 547798.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 896.04,
+      "end_time": 900.2
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 900.52,
+      "end_time": 901.16
+    },
+    {
+      "text": "They've got documentation around all of that and all of the commercials around that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 901.24,
+      "end_time": 905.88
+    },
+    {
+      "text": "Okay, we see that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 907.76,
+      "end_time": 909.28
+    },
+    {
+      "text": "I think it ends up being something.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 909.28,
+      "end_time": 910.44
+    },
+    {
+      "text": "Like a five times multiple on the ebitda, essentially.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 910.44,
+      "end_time": 913.28
+    },
+    {
+      "text": "That's what I was thinking.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 913.52,
+      "end_time": 914.6
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 914.6,
+      "end_time": 916
+    },
+    {
+      "text": "Is that adjusted ebitda, Ahmed?",
+      "speaker_name": "Andy Coveney",
+      "start_time": 916.24,
+      "end_time": 918.16
+    },
+    {
+      "text": "Or is that straight adjusted adjust?",
+      "speaker_name": "Andy Coveney",
+      "start_time": 918.16,
+      "end_time": 922.08
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 924,
+      "end_time": 924.56
+    },
+    {
+      "text": "And the, the adjustment includes yourself exiting stage left.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 925.36,
+      "end_time": 930.08
+    },
+    {
+      "text": "Does it Chris, your salary and whatever?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 930.08,
+      "end_time": 931.96
+    },
+    {
+      "text": "Yeah, yeah, that's right.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 931.96,
+      "end_time": 933.69
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 934.17,
+      "end_time": 934.61
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 934.61,
+      "end_time": 935.05
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 935.61,
+      "end_time": 936.17
+    },
+    {
+      "text": "Thanks for that.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 936.17,
+      "end_time": 936.89
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 938.73,
+      "end_time": 939.69
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 940.57,
+      "end_time": 941.29
+    },
+    {
+      "text": "How are you finding business at this moment in time?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 942.57,
+      "end_time": 945.61
+    },
+    {
+      "text": "Yeah, interesting question.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 947.21,
+      "end_time": 948.81
+    },
+    {
+      "text": "So we yesterday just signed a one year extension with our biggest client.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 949.29,
+      "end_time": 953.85
+    },
+    {
+      "text": "So particularly happy today about that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 953.85,
+      "end_time": 956.41
+    },
+    {
+      "text": "I would say that what we find is that there has been kind of a retrenchment in digital over the last 12 months.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 959.24,
+      "end_time": 967.32
+    },
+    {
+      "text": "So there was definitely.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 967.88,
+      "end_time": 969.16
+    },
+    {
+      "text": "Bear in mind we, we have lots of retail customers.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 969.48,
+      "end_time": 972.04
+    },
+    {
+      "text": "That client is a retail client.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 972.04,
+      "end_time": 973.72
+    },
+    {
+      "text": "Retail has had a very difficult, you know, post pandemic period where peaks that appeared disappeared.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 974.2,
+      "end_time": 981.56
+    },
+    {
+      "text": "The marketplace has become very saturated and commercially challenging for paid media.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 982.52,
+      "end_time": 988.11
+    },
+    {
+      "text": "So lots of budgets getting really scrutinized and analyzed.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 988.75,
+      "end_time": 992.83
+    },
+    {
+      "text": "The positive side is that we have seen expansion in our services with customers.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 993.07,
+      "end_time": 999.31
+    },
+    {
+      "text": "That we have done our extensions with.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 999.31,
+      "end_time": 1001.31
+    },
+    {
+      "text": "We have two or three in discussion.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1001.79,
+      "end_time": 1003.27
+    },
+    {
+      "text": "At the moment which are also expansions.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1003.27,
+      "end_time": 1005.23
+    },
+    {
+      "text": "So there is now I think a degree of normality settling back into retail which I think is long, long needed.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1006.67,
+      "end_time": 1014.68
+    },
+    {
+      "text": "It's been a very tumultuous five, six years really.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1015.72,
+      "end_time": 1019.08
+    },
+    {
+      "text": "They've got a normal now.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1020.6,
+      "end_time": 1022.04
+    },
+    {
+      "text": "It's the very simple way to describe that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1022.2,
+      "end_time": 1024.2
+    },
+    {
+      "text": "Do you do anything outside of the UK or are you just.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1026.36,
+      "end_time": 1028.84
+    },
+    {
+      "text": "Yes, yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1028.92,
+      "end_time": 1029.76
+    },
+    {
+      "text": "And that particular client, they, they are international.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1029.76,
+      "end_time": 1032.68
+    },
+    {
+      "text": "So we run various.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1033,
+      "end_time": 1034.28
+    },
+    {
+      "text": "They actually have eight different sites al together they have different brands.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1034.6,
+      "end_time": 1038.9
+    },
+    {
+      "text": "They have some D2C brands, they have B2B brands.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1038.9,
+      "end_time": 1042.02
+    },
+    {
+      "text": "Very significant bricks and mortar present on, on both DC and B2B.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1043.06,
+      "end_time": 1049.06
+    },
+    {
+      "text": "They are across Europe, the US.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1050.1,
+      "end_time": 1052.34
+    },
+    {
+      "text": "UK also I mentioned AGRE earlier.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1052.66,
+      "end_time": 1056.7
+    },
+    {
+      "text": "We run all of their US and Canadian paid and an organic media.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1056.7,
+      "end_time": 1062.79
+    },
+    {
+      "text": "So we're very experienced with doing international deployments.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1064.39,
+      "end_time": 1067.35
+    },
+    {
+      "text": "We have a technical speciality in that area partly down to my, my background.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1068.15,
+      "end_time": 1072.39
+    },
+    {
+      "text": "And I've made sure that our technical specialists are, you know, up to, up to par and well trained.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1072.39,
+      "end_time": 1079.51
+    },
+    {
+      "text": "We were just working with a very large customer who is in the B2B.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1081.43,
+      "end_time": 1089.36
+    },
+    {
+      "text": "I mean they also retail via B.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1090.08,
+      "end_time": 1093.16
+    },
+    {
+      "text": "And Q and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1093.16,
+      "end_time": 1094.16
+    },
+    {
+      "text": "Screw fix and other.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1096.08,
+      "end_time": 1097.64
+    },
+    {
+      "text": "Suppliers but they're a major sort of brand in that sort of hardware space.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1097.64,
+      "end_time": 1101.84
+    },
+    {
+      "text": "Home, home hardware, home furnishings, home fittings.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1102.56,
+      "end_time": 1107.04
+    },
+    {
+      "text": "And they, they're operating European wide and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1108.32,
+      "end_time": 1112.32
+    },
+    {
+      "text": "Actually the UK is their most mature market working with us in the UK and they're, they're looking at bringing us and our technical experience across Europe.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1112.32,
+      "end_time": 1119.51
+    },
+    {
+      "text": "So these things are.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1119.99,
+      "end_time": 1121.43
+    },
+    {
+      "text": "I would describe UK as always being.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1122.55,
+      "end_time": 1124.35
+    },
+    {
+      "text": "Quite a mature digital market.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1124.35,
+      "end_time": 1125.75
+    },
+    {
+      "text": "You'll have that experience as well.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1126.31,
+      "end_time": 1127.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1128.23,
+      "end_time": 1128.79
+    },
+    {
+      "text": "And we see that that kind of consolidation that I've described means that there's.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1129.51,
+      "end_time": 1134.79
+    },
+    {
+      "text": "Opportunities opening up where we are deployed in the UK for expansion.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1134.79,
+      "end_time": 1139.35
+    },
+    {
+      "text": "So that customer in particular is an example of that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1139.35,
+      "end_time": 1142.31
+    },
+    {
+      "text": "Yeah, we, we're about 65% of our businesses actually in the States and you know, probably 20, 25 is, is Europe based?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1142.78,
+      "end_time": 1152.74
+    },
+    {
+      "text": "Well, that's not to say that there isn't more that we could do in the uk.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1152.74,
+      "end_time": 1157.02
+    },
+    {
+      "text": "Roughly how many people would, would be in the, in the business at the moment, Chris?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1157.58,
+      "end_time": 1161.82
+    },
+    {
+      "text": "So on the services side there's 10, 10 or 11 or so as.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1162.14,
+      "end_time": 1169.24
+    },
+    {
+      "text": "Okay, yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1171.88,
+      "end_time": 1172.96
+    },
+    {
+      "text": "So you, you do run pretty lean generating that revenue.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1172.96,
+      "end_time": 1177.36
+    },
+    {
+      "text": "Yeah, yeah, yeah, absolutely, yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1177.36,
+      "end_time": 1179.88
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1180.2,
+      "end_time": 1180.68
+    },
+    {
+      "text": "Do you have fixed premises in Edinburgh or is everybody virtual?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1180.92,
+      "end_time": 1185
+    },
+    {
+      "text": "No, so we, we use a, a flexible lease if you like.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1185,
+      "end_time": 1189.24
+    },
+    {
+      "text": "So we use spaces, they're part of the Regis Group, it's their premium brand.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1189.24,
+      "end_time": 1193.88
+    },
+    {
+      "text": "We find that they're, they're actually fantastic for us.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1193.96,
+      "end_time": 1197.09
+    },
+    {
+      "text": "So we base ourselves out of Edinburgh.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1197.49,
+      "end_time": 1200.89
+    },
+    {
+      "text": "And also the Liverpool street offices that they have, but we have flexible lease terms there.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1200.89,
+      "end_time": 1205.73
+    },
+    {
+      "text": "Okay, fine, makes sense.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1206.21,
+      "end_time": 1209.41
+    },
+    {
+      "text": "So a typical.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1212.53,
+      "end_time": 1213.49
+    },
+    {
+      "text": "Is there anything, and I'm asking a stupid question, but it won't be the first time.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1213.81,
+      "end_time": 1217.97
+    },
+    {
+      "text": "I'll keep going.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1217.97,
+      "end_time": 1218.69
+    },
+    {
+      "text": "Is there anything that you would categorize as a sort of a standard package that a client would buy?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1218.85,
+      "end_time": 1226.51
+    },
+    {
+      "text": "If you could sort of characterize that for me.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1226.51,
+      "end_time": 1228.75
+    },
+    {
+      "text": "And what are the various elements of that?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1228.99,
+      "end_time": 1231.79
+    },
+    {
+      "text": "Just very rough sort of outline.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1231.79,
+      "end_time": 1233.71
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1233.87,
+      "end_time": 1234.35
+    },
+    {
+      "text": "Typical customer on the services side would be paying something like £5,000amonth retainer for.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1234.51,
+      "end_time": 1241.03
+    },
+    {
+      "text": "A minimum 12 month term.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1241.03,
+      "end_time": 1242.51
+    },
+    {
+      "text": "I would imagine that they would principally be investing in paid media support with about £2,000 of that and the rest across organic.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1243.71,
+      "end_time": 1257.04
+    },
+    {
+      "text": "And what we would term unified organic would be content, content delivery.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1257.04,
+      "end_time": 1262.44
+    },
+    {
+      "text": "Also technical web support, redevelopment.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1263.64,
+      "end_time": 1267.44
+    },
+    {
+      "text": "So we provide technical audit, we provide a content audit.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1267.44,
+      "end_time": 1270.76
+    },
+    {
+      "text": "We have tooling that we would come.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1271.48,
+      "end_time": 1274.13
+    },
+    {
+      "text": "With the organization in particular tool called.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1274.13,
+      "end_time": 1277.13
+    },
+    {
+      "text": "Halo, which we use to bring together.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1277.13,
+      "end_time": 1281.13
+    },
+    {
+      "text": "Unified reports across paid and organic and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1281.13,
+      "end_time": 1283.53
+    },
+    {
+      "text": "Identify gaps, opportunities and cannibalize media spend.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1283.53,
+      "end_time": 1286.61
+    },
+    {
+      "text": "We have quite a nice case study.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1286.85,
+      "end_time": 1288.17
+    },
+    {
+      "text": "On that with Tesco Mobile for example, where we were able to demonstrate you've.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1288.17,
+      "end_time": 1292.25
+    },
+    {
+      "text": "Got a million pounds per annum of.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1292.25,
+      "end_time": 1293.53
+    },
+    {
+      "text": "Spend over here, which according to this.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1293.53,
+      "end_time": 1295.61
+    },
+    {
+      "text": "Data, if you switch that off, you'll.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1295.61,
+      "end_time": 1296.85
+    },
+    {
+      "text": "Capture it anyway and what happened.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1296.85,
+      "end_time": 1299.82
+    },
+    {
+      "text": "So we would normally have some level of unified reporting Even if that 5k was just on one of or other.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1300.38,
+      "end_time": 1307.62
+    },
+    {
+      "text": "Side of paid media or organic essentially.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1307.62,
+      "end_time": 1311.3
+    },
+    {
+      "text": "We would look to try and develop.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1311.3,
+      "end_time": 1313.26
+    },
+    {
+      "text": "A unified strategy regardless and interoperate with another agency if there was one.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1313.26,
+      "end_time": 1317.9
+    },
+    {
+      "text": "Quite often there might be some internal resource that's maybe responsible for some portion.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1318.22,
+      "end_time": 1324.66
+    },
+    {
+      "text": "Of say paid media and essentially interoperate with them and deliver on the organic side in that scenario.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1324.66,
+      "end_time": 1330.58
+    },
+    {
+      "text": "And in terms of the paid media, are you talking like national newspaper sites or.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1330.82,
+      "end_time": 1335.86
+    },
+    {
+      "text": "No, no.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1336.1,
+      "end_time": 1336.82
+    },
+    {
+      "text": "Paid search.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1338.18,
+      "end_time": 1339.06
+    },
+    {
+      "text": "So Google and Microsoft advertising paid social.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1339.46,
+      "end_time": 1345.54
+    },
+    {
+      "text": "So we do a lot in meta.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1345.78,
+      "end_time": 1347.38
+    },
+    {
+      "text": "Instagram obviously is part meta and LinkedIn where it's relevant for B2B.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1348.34,
+      "end_time": 1354.63
+    },
+    {
+      "text": "Okay, perfect.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1355.27,
+      "end_time": 1356.71
+    },
+    {
+      "text": "Do you do any pay by results models in terms of the.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1357.03,
+      "end_time": 1361.11
+    },
+    {
+      "text": "No, we don't.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1361.75,
+      "end_time": 1362.55
+    },
+    {
+      "text": "Reducing clients, Google Ads spend, that sort of thing.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1362.87,
+      "end_time": 1365.83
+    },
+    {
+      "text": "We don't.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1365.91,
+      "end_time": 1366.47
+    },
+    {
+      "text": "I've been asked to present models like that in the past and I've always pushed back on it because I've seen deals like that.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1366.47,
+      "end_time": 1375.79
+    },
+    {
+      "text": "So I previously worked at what was, well, it became the largest independent search marketing agency in the world back in 2007 and they would take on models like that and what would happen is you deliver and then the client gets incredibly frustrated because suddenly you're billing them quite a lot and you've implemented all the efficiencies.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1375.79,
+      "end_time": 1402.38
+    },
+    {
+      "text": "So they start to sort of recognize.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1402.46,
+      "end_time": 1405.3
+    },
+    {
+      "text": "Well, hang on, you're just making a, a lot of money here and not necessarily doing anything different or unique.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1405.3,
+      "end_time": 1410.86
+    },
+    {
+      "text": "So I, I've always focused us down on being as you.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1412.14,
+      "end_time": 1415.74
+    },
+    {
+      "text": "As it says on the site and.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1415.74,
+      "end_time": 1416.98
+    },
+    {
+      "text": "Everywhere in our collateral and in our internal training docs.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1416.98,
+      "end_time": 1419.82
+    },
+    {
+      "text": "We're passionate about performance, we put the customer first.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1419.82,
+      "end_time": 1422.26
+    },
+    {
+      "text": "And I just don't see that overlapping with a pay performance model where you start to generate outsized revenues for, for the work developed.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1422.26,
+      "end_time": 1431.58
+    },
+    {
+      "text": "Potentially it's missing a trick from a business perspective, but I feel like it's.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1432.14,
+      "end_time": 1435.5
+    },
+    {
+      "text": "Part of the reason why we develop long term relationships with custom.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1435.5,
+      "end_time": 1438.14
+    },
+    {
+      "text": "It's much easier to keep a customer.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1439,
+      "end_time": 1441.8
+    },
+    {
+      "text": "You'Ve got than go out and win more.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1441.8,
+      "end_time": 1444.28
+    },
+    {
+      "text": "We've done similar.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1445.88,
+      "end_time": 1446.68
+    },
+    {
+      "text": "We don't do pain by results.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1446.68,
+      "end_time": 1448.16
+    },
+    {
+      "text": "We have toyed the eye with the idea.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1448.16,
+      "end_time": 1450.24
+    },
+    {
+      "text": "But to date we do retainers pretty much like yourself.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1450.24,
+      "end_time": 1454.999
+    },
+    {
+      "text": "Yeah, that's right.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1455,
+      "end_time": 1456.04
+    },
+    {
+      "text": "You want to be a partner.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1456.12,
+      "end_time": 1457.16
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1457.16,
+      "end_time": 1457.48
+    },
+    {
+      "text": "We have that.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1459.72,
+      "end_time": 1460.52
+    },
+    {
+      "text": "I think we did an analysis on our top 100 customers and on average over the last seven years, they've been with us 6.5 years.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1460.68,
+      "end_time": 1468.14
+    },
+    {
+      "text": "So we, we do have quite a sticky business model with regards to the, the content.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1468.22,
+      "end_time": 1472.7
+    },
+    {
+      "text": "So it is slightly different than the traditional sort of agency model.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1472.78,
+      "end_time": 1477.38
+    },
+    {
+      "text": "But you obviously know your onions, Chris, and you're obviously very at it.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1477.38,
+      "end_time": 1481.42
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1481.42,
+      "end_time": 1481.62
+    },
+    {
+      "text": "And the businesses.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1481.62,
+      "end_time": 1482.78
+    },
+    {
+      "text": "So with your, your customer base, forgive me, I'm just sort of interested to try and understand what the, what the.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1482.78,
+      "end_time": 1489.86
+    },
+    {
+      "text": "Environment would be like for, for the.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1489.86,
+      "end_time": 1491.66
+    },
+    {
+      "text": "Team coming into it.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1491.66,
+      "end_time": 1493.54
+    },
+    {
+      "text": "Are those customers typically smaller customers?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1493.54,
+      "end_time": 1497.22
+    },
+    {
+      "text": "What's the sort of average contract?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1497.86,
+      "end_time": 1499.46
+    },
+    {
+      "text": "And obviously I understand it's a different.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1500.18,
+      "end_time": 1501.78
+    },
+    {
+      "text": "Different sort of sector.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1501.86,
+      "end_time": 1502.9
+    },
+    {
+      "text": "Yeah, it's, it's quite a wide range.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1503.54,
+      "end_time": 1506.38
+    },
+    {
+      "text": "But over the years we've moved more and more towards the bigger client.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1506.38,
+      "end_time": 1510.86
+    },
+    {
+      "text": "I sort of hesitate to use the word enterprise, but it probably is, you know, so we, we know that if somebody comes along and sorry, and I'm going to use Aussie dollars which you can just divide by two to get to pounds, you know, somebody comes along and spends ten grand a year with us and expects quite a lot, usually everybody ends up unhappy and it falls apart.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1510.86,
+      "end_time": 1532.73
+    },
+    {
+      "text": "Our biggest clients will be spending over a million dollars with us, so.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1533.61,
+      "end_time": 1538.65
+    },
+    {
+      "text": "And long term relationships, everything from webinars, email, you know, content, you, you know it and yeah, and you know, we don't have very many sort of five to ten person organizations.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1538.73,
+      "end_time": 1554.41
+    },
+    {
+      "text": "It is, it is usually pretty big people and we find that we sort of get dragged into, we got into SEO probably about seven or eight years ago because we had quite a few clients that were saying, you guys seem to be pretty good at generating traffic and you don't pay Google a dime for doing it.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1554.65,
+      "end_time": 1574.88
+    },
+    {
+      "text": "How manage to do it?",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1575.28,
+      "end_time": 1576.72
+    },
+    {
+      "text": "Yeah, you know, and the, the obvious answer is, well, it's cost a lot of money because we've got about a million pieces of content that's live on web across our network and it's taken us 20 years to get to, to that point and we're still producing lots of content.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1576.88,
+      "end_time": 1593.04
+    },
+    {
+      "text": "But we did find that, you know what, okay, let's have a look at doing some SEO work.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1594,
+      "end_time": 1598.04
+    },
+    {
+      "text": "We had a guy who'd had his own agency, he, you know, develop it and it's now become a sizable business unit within the rest of the, the business.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1598.04,
+      "end_time": 1608.14
+    },
+    {
+      "text": "So interesting times.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1608.54,
+      "end_time": 1611.42
+    },
+    {
+      "text": "I mean, I see the question about, you know, business certainly in the States, it's, it's pretty tough at the moment in quite a lot of areas.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1611.58,
+      "end_time": 1619.18
+    },
+    {
+      "text": "I think the, you know, the overall business climate in the US is very different to what the stock market's saying.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1619.26,
+      "end_time": 1626.14
+    },
+    {
+      "text": "Yeah, that's the impression I get.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1626.46,
+      "end_time": 1627.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1628.41,
+      "end_time": 1628.81
+    },
+    {
+      "text": "You know, so there's a few that are doing absolutely great, but there's a lot of other businesses where it's a bit more of a, of a struggle.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1628.89,
+      "end_time": 1635.65
+    },
+    {
+      "text": "And you know, do you get asked the question with regards to the SEO stuff, for example?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1635.65,
+      "end_time": 1640.29
+    },
+    {
+      "text": "Well, why am I paying?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1640.29,
+      "end_time": 1641.33
+    },
+    {
+      "text": "You can't use AI to do it.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1641.33,
+      "end_time": 1643.21
+    },
+    {
+      "text": "Yeah, right.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1643.61,
+      "end_time": 1644.609
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1644.609,
+      "end_time": 1645.77
+    },
+    {
+      "text": "It's interesting.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1645.77,
+      "end_time": 1646.41
+    },
+    {
+      "text": "We, we don't quite get asked that question.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1646.41,
+      "end_time": 1651.21
+    },
+    {
+      "text": "So I've done a range of posts.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1651.61,
+      "end_time": 1654.33
+    },
+    {
+      "text": "And actually we put out a blog.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1654.33,
+      "end_time": 1656.21
+    },
+    {
+      "text": "Post just last week with a video me highlighting the inter.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1656.21,
+      "end_time": 1660.81
+    },
+    {
+      "text": "Interactions between them.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1660.81,
+      "end_time": 1662.25
+    },
+    {
+      "text": "And I've seen a lot of these.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1662.65,
+      "end_time": 1664.25
+    },
+    {
+      "text": "I mean, don't get me wrong, I think AI is transformational and will have.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1664.25,
+      "end_time": 1668.17
+    },
+    {
+      "text": "A transformational effect, but it is ultimately.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1668.17,
+      "end_time": 1670.77
+    },
+    {
+      "text": "A tool fundamentally, when you look at how you optimize for that tool, there's a great big Venn diagram that's almost.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1670.77,
+      "end_time": 1679.21
+    },
+    {
+      "text": "Just a pure circle of good white.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1679.21,
+      "end_time": 1682.57
+    },
+    {
+      "text": "Hat, healthy SEO practices, good content development, you know, the concept of the, you know, the vectorization of how related content is from an AI perspective and neural network perspective.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1682.57,
+      "end_time": 1695.63
+    },
+    {
+      "text": "Well, that's been in SEO since Bert was released, you know, and so we've already been building content to that structure.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1695.63,
+      "end_time": 1702.79
+    },
+    {
+      "text": "And format, that sort of clustering effects.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1702.79,
+      "end_time": 1705.87
+    },
+    {
+      "text": "And content clusters and then using markup appropriately.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1705.87,
+      "end_time": 1710.65
+    },
+    {
+      "text": "I mean, there was a post the other day that there was no incremental.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1710.65,
+      "end_time": 1714.29
+    },
+    {
+      "text": "Value to markup, apparently because of the.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1714.29,
+      "end_time": 1716.45
+    },
+    {
+      "text": "Way that data's ingested by, by some of the leading AI models.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1716.45,
+      "end_time": 1721.81
+    },
+    {
+      "text": "However, I would say I find it.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1721.81,
+      "end_time": 1724.33
+    },
+    {
+      "text": "Very hard to believe that you wouldn't.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1724.33,
+      "end_time": 1725.85
+    },
+    {
+      "text": "Just interact with semantic data where it's available.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1725.85,
+      "end_time": 1729.81
+    },
+    {
+      "text": "And yeah, this seems so peculiar.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1730.21,
+      "end_time": 1733.33
+    },
+    {
+      "text": "I'm not, I'm not totally convinced by.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1733.57,
+      "end_time": 1735.17
+    },
+    {
+      "text": "That analysis, I must say.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1735.17,
+      "end_time": 1736.21
+    },
+    {
+      "text": "Now there's, yeah, there's, there's a lot of snake oil salesmen around the place.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1736.76,
+      "end_time": 1740.6
+    },
+    {
+      "text": "Oh, GEO is the next big thing.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1742.36,
+      "end_time": 1744.28
+    },
+    {
+      "text": "And I think there are differences in terms of how you present content to LLMs.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1744.28,
+      "end_time": 1749.08
+    },
+    {
+      "text": "You've got to ask yourself, do you want to be doing that?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1749.08,
+      "end_time": 1751.32
+    },
+    {
+      "text": "You know, are you happy with them stealing your content and regurgitating your, your answer?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1751.48,
+      "end_time": 1756.28
+    },
+    {
+      "text": "Yeah, there's a, there's a whole, you know, debate going on.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1757,
+      "end_time": 1759.56
+    },
+    {
+      "text": "Very conscious of time.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1760.04,
+      "end_time": 1761.24
+    },
+    {
+      "text": "You've got a hard stop.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1762.2,
+      "end_time": 1763.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1763.73,
+      "end_time": 1764.13
+    },
+    {
+      "text": "And you know, I'm very grateful you, you've answered all at this stage.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1764.85,
+      "end_time": 1768.93
+    },
+    {
+      "text": "You've answered all certainly my key questions.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1768.93,
+      "end_time": 1771.69
+    },
+    {
+      "text": "Andy, anything further on?",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1771.69,
+      "end_time": 1773.57
+    },
+    {
+      "text": "Not at this stage.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1775.01,
+      "end_time": 1776.05
+    },
+    {
+      "text": "I don't want to keep you from your birthday bearing, so.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1776.13,
+      "end_time": 1778.53
+    },
+    {
+      "text": "Yeah, quite right.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1780.13,
+      "end_time": 1781.09
+    },
+    {
+      "text": "It's been very good to speak to you and certainly if there is continued interest, I know I'll probably have a.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1782.53,
+      "end_time": 1788.77
+    },
+    {
+      "text": "Few more questions as well my side, but I do feel like I've got a good picture.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1788.77,
+      "end_time": 1792.73
+    },
+    {
+      "text": "Seems like you've got fantastic business there.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1792.73,
+      "end_time": 1794.56
+    },
+    {
+      "text": "Yeah, we, we're very pleased with it, Chris.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1794.96,
+      "end_time": 1798
+    },
+    {
+      "text": "And we, you know, we're looking how do we take it on to, to the next level.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1798,
+      "end_time": 1801.2
+    },
+    {
+      "text": "And you know, we're exploring quite a lot of options at this moment in time, in addition to the organic and.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1801.2,
+      "end_time": 1806.96
+    },
+    {
+      "text": "Yeah, and I'll dive in and.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1807.04,
+      "end_time": 1808.4
+    },
+    {
+      "text": "And have a look at your Corvidate Day.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1808.56,
+      "end_time": 1810.8
+    },
+    {
+      "text": "Please do so.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1811.36,
+      "end_time": 1812.96
+    },
+    {
+      "text": "Yeah, please do.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1813.2,
+      "end_time": 1814.08
+    },
+    {
+      "text": "You can never stop me getting my sleeves rolled up and getting stuck into.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1814.48,
+      "end_time": 1817.44
+    },
+    {
+      "text": "Don't do it on your birthday, though, Ian, please.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1818.08,
+      "end_time": 1820.08
+    },
+    {
+      "text": "Every day is a school day.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1820.64,
+      "end_time": 1821.84
+    },
+    {
+      "text": "We now know Latin for crow, Ian.",
+      "speaker_name": "Andy Coveney",
+      "start_time": 1821.84,
+      "end_time": 1823.52
+    },
+    {
+      "text": "Yes, exactly.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1823.52,
+      "end_time": 1824.4
+    },
+    {
+      "text": "See, well, Andy went to a posh university, so he probably did know that.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1825.45,
+      "end_time": 1829.21
+    },
+    {
+      "text": "Very nice to meet you both.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1832.81,
+      "end_time": 1834.73
+    },
+    {
+      "text": "Thanks very much for your time.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1835.77,
+      "end_time": 1837.01
+    },
+    {
+      "text": "Right, thank you.",
+      "speaker_name": "Ian Birkby",
+      "start_time": 1837.01,
+      "end_time": 1837.77
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Christopher Liversidge",
+      "start_time": 1839.29,
+      "end_time": 1839.77
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "QueryClick",
+      "Corvidate AI",
+      "SEO",
+      "Paid Media",
+      "Valuation",
+      "AZoNetwork"
+    ],
+    "action_items": "\n**Christopher Liversidge**\nProvide detailed documentation and additional information on Corvidate AI platform to Ian Birkby (30:13)\nContinue to support transition planning and ensure team integration post-sale if deal proceeds (11:20)\n\n**Ian Birkby**\nReview Corvidate AI capabilities and technology to evaluate alignment with AZoNetwork’s vision (30:13)\nConsider QueryClick’s valuation and pipeline development needs in context of broader acquisition strategies underway (14:30)\n\n**Ahmed Zia**\nShare pricing model documents with AZoNetwork and QueryClick team (08:50)\n",
+    "outline": null,
+    "overview": "- QueryClick's motivation for sale hinges on developing Corvidate AI to replace cookie-based measurements and enhance ad tech.\n- A £1.2 million ARR drop in 2023 was attributed to BT Group bringing SEO in-house, highlighting challenges in retaining clients.\n- Valuation approach discussed was based on profitability, with a proposed value of approximately £2.46 million using a ~5x EBITDA multiple.\n- QueryClick needs dedicated sales pipeline support and a business development director to assist in future growth.\n- AZoNetwork operates 14-15 websites, generating 40 million unique visits, with 70% of revenue from lead generation.\n- Differences in client base show AZoNetwork focuses on larger B2B and scientific firms, whereas QueryClick has a retail-heavy portfolio.\n- QueryClick's monthly retainer services average around £5,000, focusing on paid media and unified organic marketing efforts.\n- The paid media strategy covers platforms like Google and LinkedIn, favoring retainer-based models without pay-for-performance structures.\n- Industry trends reflect a retrenching in digital marketing post-pandemic, with retail budgets under scrutiny but some expansion occurring.\n- AZoNetwork’s client engagements lean towards long-term contracts, while smaller clients tend to exhibit quicker churn rates.",
+    "short_summary": "The meeting discussed QueryClick's indicative valuation of £2.46 million, primarily driven by an adjusted EBITDA of approximately £547,798, with a valuation multiple of five times this figure. The loss of BT Group, a major client, led to a revenue drop, but long-term relationships with clients like Sally Beauty and Agreco Group provide stability. The founder plans to shift focus from QueryClick to the Corvidate AI platform, which uses AI for unified marketing measurement. The business strategy emphasizes long-term partnerships in marketing rather than transactional models, with a strong focus on technical leadership in digital marketing. Additionally, the discussion highlighted the need for a business development director to enhance sales opportunities and the importance of technical sophistication in their service offerings.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K4YHZJRB3EAJEDC2S1H33ZYS",
+  "audio_url": "https://cdn.fireflies.ai/01K4YHZJRB3EAJEDC2S1H33ZYS/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRZSFpKUkIzRUFKRURDMlMxSDMzWllTL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=hXcoKSEctRhvFXvdwJNzZM4WmH~~O8FuXE7yMe0485CE5-RKB9MV-Y14rvcO5Lx~w6NQjBF-us8XEasulvEUuLIqSOEfqC8bQZ~fwUeU9RVgb1CIS5u~1LF5c8Fdg8YtgnAosPHrjEX8hkZqs8R~Rpckc~f1NgnqNw0MVoWQiZ8AEvvqaFHj6I9StbIHE7vk32xm0mFJkpKQ-GZ~sMbLa9z8HrnSyG30SwIBDVgAv1yC-oYi8-1N2KIp3ErF6NzpA4Lghg55z58zcH1X7QFaIU3D5pkcEAlbbGANvbudyViA2gyNCp2e0xnNDZymOGt5METiVS3iYXBsmS4rvvSwRQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

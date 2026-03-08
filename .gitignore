@@ -17,9 +17,6 @@ node_modules/
 # Remotion video project
 video/
 
-# Downloaded transcripts (user data)
-fireflies-transcripts/
-
 # Editor
 *.swp
 *.swo

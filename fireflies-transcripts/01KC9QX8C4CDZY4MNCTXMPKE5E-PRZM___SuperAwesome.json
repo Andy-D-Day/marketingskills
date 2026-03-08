@@ -1,0 +1,4603 @@
+{
+  "id": "01KC9QX8C4CDZY4MNCTXMPKE5E",
+  "title": "PRZM | SuperAwesome",
+  "date": 1765917000000,
+  "dateString": "2025-12-16T20:30:00.000Z",
+  "duration": 56.459999084472656,
+  "participants": [
+    "larry@helloprzm.com,andrew.day@capitala.co,kate.oloughlin@superawesome.com,nick.walters@superawesome.com,liz@helloprzm.com,andy.day@capitala.co",
+    "larry@helloprzm.com",
+    "kate.oloughlin@superawesome.com",
+    "nick.walters@superawesome.com",
+    "liz@helloprzm.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "larry@helloprzm.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "kate.oloughlin@superawesome.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "nick.walters@superawesome.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "liz@helloprzm.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Thank you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 0.08,
+      "end_time": 0.44
+    },
+    {
+      "text": "All good.",
+      "speaker_name": "Andy Day",
+      "start_time": 0.44,
+      "end_time": 0.96
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2.08,
+      "end_time": 3.84
+    },
+    {
+      "text": "A little bit Christmassy.",
+      "speaker_name": "Andy Day",
+      "start_time": 4.08,
+      "end_time": 5.28
+    },
+    {
+      "text": "How about yourself?",
+      "speaker_name": "Andy Day",
+      "start_time": 5.28,
+      "end_time": 6.08
+    },
+    {
+      "text": "Yeah, I feel like it's.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 7.12,
+      "end_time": 8.52
+    },
+    {
+      "text": "We're right around the bend before it gets like full holiday vibes.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 8.52,
+      "end_time": 12.48
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 12.8,
+      "end_time": 13.24
+    },
+    {
+      "text": "Very close now.",
+      "speaker_name": "Andy Day",
+      "start_time": 13.24,
+      "end_time": 14.08
+    },
+    {
+      "text": "Hi, Liz.",
+      "speaker_name": "Andy Day",
+      "start_time": 14.08,
+      "end_time": 14.64
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 14.64,
+      "end_time": 15.36
+    },
+    {
+      "text": "Nice to meet you as well.",
+      "speaker_name": "Liz",
+      "start_time": 15.6,
+      "end_time": 16.8
+    },
+    {
+      "text": "Great to be here.",
+      "speaker_name": "Liz",
+      "start_time": 17.44,
+      "end_time": 18.4
+    },
+    {
+      "text": "Whereabouts are you?",
+      "speaker_name": "Andy Day",
+      "start_time": 18.64,
+      "end_time": 19.6
+    },
+    {
+      "text": "So I'm based in New York.",
+      "speaker_name": "Liz",
+      "start_time": 20.72,
+      "end_time": 22.16
+    },
+    {
+      "text": "I'm actually in.",
+      "speaker_name": "Liz",
+      "start_time": 23.12,
+      "end_time": 23.96
+    },
+    {
+      "text": "In Charlottesville, Virginia right now, but.",
+      "speaker_name": "Liz",
+      "start_time": 23.96,
+      "end_time": 27.28
+    },
+    {
+      "text": "Oh, in New York City.",
+      "speaker_name": "Liz",
+      "start_time": 28.18,
+      "end_time": 29.3
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 29.38,
+      "end_time": 29.78
+    },
+    {
+      "text": "I went to uva.",
+      "speaker_name": "Kate O",
+      "start_time": 29.78,
+      "end_time": 30.82
+    },
+    {
+      "text": "Oh, my gosh.",
+      "speaker_name": "Liz",
+      "start_time": 31.06,
+      "end_time": 31.86
+    },
+    {
+      "text": "Oh, my gosh.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 31.94,
+      "end_time": 33.06
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Kate O",
+      "start_time": 35.62,
+      "end_time": 36.58
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 38.58,
+      "end_time": 39.42
+    },
+    {
+      "text": "My camera was.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 39.42,
+      "end_time": 40.1
+    },
+    {
+      "text": "Oh, no worries.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 40.82,
+      "end_time": 41.7
+    },
+    {
+      "text": "Hi, Kate.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 42.02,
+      "end_time": 42.66
+    },
+    {
+      "text": "It's nice to meet you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 42.66,
+      "end_time": 43.7
+    },
+    {
+      "text": "Yeah, nice to meet you too.",
+      "speaker_name": "Kate O",
+      "start_time": 44.02,
+      "end_time": 45.3
+    },
+    {
+      "text": "Hi, Liz.",
+      "speaker_name": "Kate O",
+      "start_time": 45.3,
+      "end_time": 45.94
+    },
+    {
+      "text": "Are you also UVA grads or.",
+      "speaker_name": "Kate O",
+      "start_time": 46.1,
+      "end_time": 49.34
+    },
+    {
+      "text": "Just love the horse country.",
+      "speaker_name": "Kate O",
+      "start_time": 49.34,
+      "end_time": 51.22
+    },
+    {
+      "text": "Love the vineyards, Love the horse country.",
+      "speaker_name": "Liz",
+      "start_time": 52.98,
+      "end_time": 54.98
+    },
+    {
+      "text": "Definitely fan of uva.",
+      "speaker_name": "Liz",
+      "start_time": 55.38,
+      "end_time": 56.62
+    },
+    {
+      "text": "My husband's father was a professor, a longtime professor at uva.",
+      "speaker_name": "Liz",
+      "start_time": 56.62,
+      "end_time": 59.93
+    },
+    {
+      "text": "Medieval History, if you're interested.",
+      "speaker_name": "Liz",
+      "start_time": 60.32,
+      "end_time": 62.16
+    },
+    {
+      "text": "And so we've spent a lot of time visiting here and come down here for.",
+      "speaker_name": "Liz",
+      "start_time": 62.48,
+      "end_time": 65.84
+    },
+    {
+      "text": "For family things.",
+      "speaker_name": "Liz",
+      "start_time": 65.84,
+      "end_time": 66.8
+    },
+    {
+      "text": "So beautiful.",
+      "speaker_name": "Kate O",
+      "start_time": 66.8,
+      "end_time": 67.92
+    },
+    {
+      "text": "I love it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 67.92,
+      "end_time": 68.48
+    },
+    {
+      "text": "Absolutely love it here.",
+      "speaker_name": "Liz",
+      "start_time": 68.48,
+      "end_time": 69.32
+    },
+    {
+      "text": "It's great.",
+      "speaker_name": "Liz",
+      "start_time": 69.32,
+      "end_time": 69.84
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 70.24,
+      "end_time": 70.72
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 70.72,
+      "end_time": 71.16
+    },
+    {
+      "text": "I'm also based in New York, but happened to be in D.C. today for a shoot.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 71.16,
+      "end_time": 75.12
+    },
+    {
+      "text": "So I guess I'm not.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 75.2,
+      "end_time": 77.04
+    },
+    {
+      "text": "I'm not too far from some of this fun action.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 77.12,
+      "end_time": 79.84
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Kate O",
+      "start_time": 80.32,
+      "end_time": 81.08
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "Kate O",
+      "start_time": 81.08,
+      "end_time": 81.52
+    },
+    {
+      "text": "We've got.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 82.32,
+      "end_time": 82.88
+    },
+    {
+      "text": "Nick has just entered as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 82.88,
+      "end_time": 84.84
+    },
+    {
+      "text": "You.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 84.84,
+      "end_time": 85.2
+    },
+    {
+      "text": "You logged on.",
+      "speaker_name": "Andy Day",
+      "start_time": 85.61,
+      "end_time": 86.29
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 86.29,
+      "end_time": 86.69
+    },
+    {
+      "text": "Nick.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 86.69,
+      "end_time": 87.05
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 87.29,
+      "end_time": 87.61
+    },
+    {
+      "text": "I am sorry.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 87.61,
+      "end_time": 88.09
+    },
+    {
+      "text": "I didn't have my camera off.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 88.09,
+      "end_time": 89.21
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 89.29,
+      "end_time": 89.77
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 90.73,
+      "end_time": 91.13
+    },
+    {
+      "text": "Nice to see you.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 91.13,
+      "end_time": 91.69
+    },
+    {
+      "text": "Hey, Nick.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 91.69,
+      "end_time": 92.33
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 92.41,
+      "end_time": 92.85
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 92.85,
+      "end_time": 93.77
+    },
+    {
+      "text": "Very nice to meet you.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 94.09,
+      "end_time": 95.13
+    },
+    {
+      "text": "So why don't we get Kate and Nick to just introduce themselves and then Larry and Liz.",
+      "speaker_name": "Andy Day",
+      "start_time": 96.09,
+      "end_time": 100.49
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 100.81,
+      "end_time": 101.37
+    },
+    {
+      "text": "Introduce yourself after that and we can get into some questions.",
+      "speaker_name": "Andy Day",
+      "start_time": 101.529,
+      "end_time": 104.41
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 105.21,
+      "end_time": 105.69
+    },
+    {
+      "text": "I'm Kate o'.",
+      "speaker_name": "Kate O",
+      "start_time": 106.57,
+      "end_time": 107.41
+    },
+    {
+      "text": "Laughlin.",
+      "speaker_name": "Kate O",
+      "start_time": 107.41,
+      "end_time": 107.89
+    },
+    {
+      "text": "I'm CEO of Super awesome and have been with the company about eight years.",
+      "speaker_name": "Kate O",
+      "start_time": 107.89,
+      "end_time": 113.45
+    },
+    {
+      "text": "And prior to this I was doing advertising technology and I'm an engineering grad, so.",
+      "speaker_name": "Kate O",
+      "start_time": 113.45,
+      "end_time": 119.49
+    },
+    {
+      "text": "From Virginia.",
+      "speaker_name": "Kate O",
+      "start_time": 119.49,
+      "end_time": 120.85
+    },
+    {
+      "text": "So like, started my career not doing this.",
+      "speaker_name": "Kate O",
+      "start_time": 120.85,
+      "end_time": 123.37
+    },
+    {
+      "text": "So there the.",
+      "speaker_name": "Kate O",
+      "start_time": 123.37,
+      "end_time": 125.45
+    },
+    {
+      "text": "Nick, I think you'd missed it.",
+      "speaker_name": "Kate O",
+      "start_time": 126.25,
+      "end_time": 127.89
+    },
+    {
+      "text": "Liz is down in the town where my school is.",
+      "speaker_name": "Kate O",
+      "start_time": 127.89,
+      "end_time": 130.49
+    },
+    {
+      "text": "Ah, got it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 131.13,
+      "end_time": 131.97
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 131.97,
+      "end_time": 132.33
+    },
+    {
+      "text": "Yeah, probably warmer than it is here right now.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 134.49,
+      "end_time": 137.13
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 137.13,
+      "end_time": 137.45
+    },
+    {
+      "text": "And I'm Nick.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 137.45,
+      "end_time": 138.17
+    },
+    {
+      "text": "I am chief strategy officer at Super Awesome.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 138.17,
+      "end_time": 140.25
+    },
+    {
+      "text": "So I've been here for about five years before that I did TV stuff back when that was a thing and then had my own squad startup for about seven years.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 140.25,
+      "end_time": 149.82
+    },
+    {
+      "text": "And I did.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 150.78,
+      "end_time": 152.14
+    },
+    {
+      "text": "I did.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 152.14,
+      "end_time": 152.54
+    },
+    {
+      "text": "I did ancient and modern history at uni.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 152.54,
+      "end_time": 155.22
+    },
+    {
+      "text": "So, yeah, Medieval history.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 155.22,
+      "end_time": 156.18
+    },
+    {
+      "text": "Bring it on.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 156.18,
+      "end_time": 156.78
+    },
+    {
+      "text": "Love it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 156.86,
+      "end_time": 157.42
+    },
+    {
+      "text": "Oh, my gosh.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 158.22,
+      "end_time": 159.26
+    },
+    {
+      "text": "Very cool.",
+      "speaker_name": "Liz",
+      "start_time": 159.74,
+      "end_time": 160.54
+    },
+    {
+      "text": "And Andy, is it helpful if I do a quick kind of super awesome background while we were into Chat or have you kind of already covered?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 163.98,
+      "end_time": 170.14
+    },
+    {
+      "text": "I think we've done, we've covered a bit of that, but it wouldn't hurt to, to give it a little bit of a historic roundup.",
+      "speaker_name": "Andy Day",
+      "start_time": 170.14,
+      "end_time": 176.14
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 176.86,
+      "end_time": 178.74
+    },
+    {
+      "text": "Well, so yeah, I mean, Larry.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 178.74,
+      "end_time": 180.74
+    },
+    {
+      "text": "And there's just, you know, if it's helpful as to like why we were keen to speak.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 180.74,
+      "end_time": 185.02
+    },
+    {
+      "text": "We are sort of super awesome.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 186.38,
+      "end_time": 187.9
+    },
+    {
+      "text": "Been around for about 12 years now.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 187.9,
+      "end_time": 190.78
+    },
+    {
+      "text": "Kind of founded around the mission of thinking about how you make the Internet a better place for young people.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 191.98,
+      "end_time": 197.34
+    },
+    {
+      "text": "And one of the things, particularly people under the age of 18 and one of the things that we really try and focus on around that is trying to create safe and effective ways for brands to reach out people on the Internet because we think if they can do that, then that sort of funds good quality content for young people and that if you don't have functioning ecosystems whereby content creators can get paid, then there will be no content creators for young people.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 197.82,
+      "end_time": 222.7
+    },
+    {
+      "text": "And so we think there is a sort of both a business opportunity but also a certain amount of social utility in trying to create a functioning eco.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 222.7,
+      "end_time": 232.73
+    },
+    {
+      "text": "Functioning ecosystem in that space.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 232.89,
+      "end_time": 234.57
+    },
+    {
+      "text": "So in practice that looks like a big old ads marketplace, which is like our first product.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 234.89,
+      "end_time": 239.93
+    },
+    {
+      "text": "But we've also over recent years expanded into things like Connected TV, providing contextual intelligence for YouTube, an influencer division and a gaming division that helps brands kind of build experiences on Roblox, Fortnite and things like that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 240.33,
+      "end_time": 252.25
+    },
+    {
+      "text": "And we also launched a contextual data platform last year that helps people sort of figure out where their audience might be and reach them effectively in ways that feel somewhat targeted but without using sort of personal, personally identifiable information or anything else which is non compliant.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 252.81,
+      "end_time": 268.08
+    },
+    {
+      "text": "So we're about 110 people, offices in London, New York office, London, New York, Chicago and LA.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 269.2,
+      "end_time": 277.6
+    },
+    {
+      "text": "Historically we've been strongest in London 13s but we are as we kind of are keen to grow, we're really focused on thinking about how we grow in teams and also thinking about sort of how we expand in the creator economy.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 278.8,
+      "end_time": 288.88
+    },
+    {
+      "text": "And so asked Andy to help us find some businesses that might be complementary to that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 289.44,
+      "end_time": 294.4
+    },
+    {
+      "text": "And that led us to you guys.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 294.64,
+      "end_time": 296.08
+    },
+    {
+      "text": "So that's very much appreciate you making the time for us to chat today.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 296.08,
+      "end_time": 300.32
+    },
+    {
+      "text": "Of course, that was great, thanks Nick.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 302.24,
+      "end_time": 304.16
+    },
+    {
+      "text": "Andy, is it helpful?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 304.24,
+      "end_time": 305.24
+    },
+    {
+      "text": "We give a quick intro and then.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 305.24,
+      "end_time": 307.44
+    },
+    {
+      "text": "They'Ve got a little bit of background that we gleaned last time.",
+      "speaker_name": "Andy Day",
+      "start_time": 308.56,
+      "end_time": 312.12
+    },
+    {
+      "text": "But yeah, please do feel free to introduce yourselves and, and then we can get into the background of the business and we can ask questions.",
+      "speaker_name": "Andy Day",
+      "start_time": 312.12,
+      "end_time": 321.07
+    },
+    {
+      "text": "Amazing.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 321.79,
+      "end_time": 322.43
+    },
+    {
+      "text": "Well, first of all, thank you for Kind of connecting us.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 322.43,
+      "end_time": 324.79
+    },
+    {
+      "text": "I mean, it's really nice to get to meet you both.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 324.79,
+      "end_time": 326.99
+    },
+    {
+      "text": "And Nick, just hearing kind of about the mission of super awesome reminds me kind of of six years ago when Liz and I co founded Prism, because I think our original thought was, you know, we're focused on this next gen audience.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 326.99,
+      "end_time": 341.63
+    },
+    {
+      "text": "Know, six years ago, no one in corporate America was really thinking about Gen Z as this like prime consumer audience.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 342.14,
+      "end_time": 348.62
+    },
+    {
+      "text": "And we just really felt like there was a disconnect in how large companies were speaking to next gen audiences, speaking to youth audiences.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 349.02,
+      "end_time": 356.94
+    },
+    {
+      "text": "And Prism kind of spiritually was supposed to be that bridge to connect kind of how brands were both engaging and marketing to Gen Z and now of course, Gen Alpha.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 357.26,
+      "end_time": 369.02
+    },
+    {
+      "text": "So that's kind of our origin story in a nutshell.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 369.61,
+      "end_time": 372.41
+    },
+    {
+      "text": "I came from American Express before that Alibaba, where I was typically the youngest person in the room and often was pulled into these conversations of like, what are the youth doing?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 372.41,
+      "end_time": 384.25
+    },
+    {
+      "text": "And although I loved kind of having an outsized influence, I was like, wait a second, there has to be a better way to go about this.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 384.73,
+      "end_time": 391.29
+    },
+    {
+      "text": "Which was kind of the kernel and the inception of Prism.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 391.69,
+      "end_time": 394.73
+    },
+    {
+      "text": "Um, I'll hand over to Liz because we met kind of through our work in the Gen Z space all those years ago.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 395.39,
+      "end_time": 402.03
+    },
+    {
+      "text": "Yeah, so a little bit about my background, just really short.",
+      "speaker_name": "Liz",
+      "start_time": 402.51,
+      "end_time": 406.35
+    },
+    {
+      "text": "So I worked originally in fashion and marketing.",
+      "speaker_name": "Liz",
+      "start_time": 406.51,
+      "end_time": 410.11
+    },
+    {
+      "text": "I was also on the agency side in the early days and then went on the brand side at Tommy Hilfiger.",
+      "speaker_name": "Liz",
+      "start_time": 410.11,
+      "end_time": 416.75
+    },
+    {
+      "text": "And then I was brought in by this sort of CPG P&G executive to build a influencer celeb teen fashion line again for teens, for young people.",
+      "speaker_name": "Liz",
+      "start_time": 416.75,
+      "end_time": 429.61
+    },
+    {
+      "text": "And coming from my world, I knew nothing about them.",
+      "speaker_name": "Liz",
+      "start_time": 430.33,
+      "end_time": 433.77
+    },
+    {
+      "text": "I knew nothing about teens at the time.",
+      "speaker_name": "Liz",
+      "start_time": 433.77,
+      "end_time": 435.45
+    },
+    {
+      "text": "But as a marketer, the first thing I did was obviously build a focus group.",
+      "speaker_name": "Liz",
+      "start_time": 435.45,
+      "end_time": 439.73
+    },
+    {
+      "text": "It was very simple.",
+      "speaker_name": "Liz",
+      "start_time": 439.73,
+      "end_time": 440.61
+    },
+    {
+      "text": "This was years ago.",
+      "speaker_name": "Liz",
+      "start_time": 440.61,
+      "end_time": 441.37
+    },
+    {
+      "text": "It was back in again, like 2017, 2016, before Gen Z was a thing.",
+      "speaker_name": "Liz",
+      "start_time": 441.37,
+      "end_time": 446.17
+    },
+    {
+      "text": "So I was doing research on that, discovered it was, it was becoming a thing and, you know, learned a lot from just working with, with tweens and teens in these focus groups and realize this oncoming disruption channels and sort of their, their fragmented sort of how they were accessing different channels, obviously, like no longer just tv, how they were communicating with each other, how they were influencing purchasing decisions in the home.",
+      "speaker_name": "Liz",
+      "start_time": 446.65,
+      "end_time": 472.31
+    },
+    {
+      "text": "So I knew everything was really sort of on the cusp of changing and it felt really big and I couldn't quite land what was going to happen, but I knew it was huge and I knew I wanted to be a part of it.",
+      "speaker_name": "Liz",
+      "start_time": 472.87,
+      "end_time": 482.87
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Liz",
+      "start_time": 483.67,
+      "end_time": 484.07
+    },
+    {
+      "text": "So yeah, so that.",
+      "speaker_name": "Liz",
+      "start_time": 484.71,
+      "end_time": 485.71
+    },
+    {
+      "text": "So Larry and I met with this sort of shared very niche at the time interest and formed Prism and we're a little over six years in.",
+      "speaker_name": "Liz",
+      "start_time": 485.71,
+      "end_time": 495.51
+    },
+    {
+      "text": "We're still pretty small.",
+      "speaker_name": "Liz",
+      "start_time": 495.91,
+      "end_time": 497.43
+    },
+    {
+      "text": "We can walk you through some.",
+      "speaker_name": "Liz",
+      "start_time": 497.59,
+      "end_time": 499.27
+    },
+    {
+      "text": "It sounds like you'll have questions.",
+      "speaker_name": "Liz",
+      "start_time": 499.91,
+      "end_time": 501.27
+    },
+    {
+      "text": "We could definitely walk you through even like part of the deck if you want.",
+      "speaker_name": "Liz",
+      "start_time": 501.27,
+      "end_time": 504.31
+    },
+    {
+      "text": "But we're, we're still small but mighty.",
+      "speaker_name": "Liz",
+      "start_time": 504.31,
+      "end_time": 508.03
+    },
+    {
+      "text": "We work with some of the biggest brands in the world.",
+      "speaker_name": "Liz",
+      "start_time": 508.03,
+      "end_time": 510.71
+    },
+    {
+      "text": "We are sort of fractional in a way.",
+      "speaker_name": "Liz",
+      "start_time": 511.83,
+      "end_time": 515.75
+    },
+    {
+      "text": "We have six full time employees on our team.",
+      "speaker_name": "Liz",
+      "start_time": 515.75,
+      "end_time": 519.23
+    },
+    {
+      "text": "Six employees on our team and then we work with a lot of contractors and then we also have a network of young people that contribute to our projects from all over the world and we've also, we can get into some of these details too but we've recently launched a visionaries program, it's called Prison Visionaries which is a cohort of 15 Gen Alpha and Gen Z and they contribute to specific projects, are supporting our team, giving us feedback and insights and we're happy to share more about that as well but wanted to add that.",
+      "speaker_name": "Liz",
+      "start_time": 519.23,
+      "end_time": 552.13
+    },
+    {
+      "text": "Yeah, yeah, cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 552.29,
+      "end_time": 554.93
+    },
+    {
+      "text": "So much to talk about.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 556.45,
+      "end_time": 557.33
+    },
+    {
+      "text": "I.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 557.33,
+      "end_time": 557.65
+    },
+    {
+      "text": "So I guess let me just start out with one really basic question.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 557.65,
+      "end_time": 561.41
+    },
+    {
+      "text": "Yeah, so I'm as you can.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 561.65,
+      "end_time": 563.49
+    },
+    {
+      "text": "I've just been floating through the website and the website has you as a digital first creative communications agency.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 563.57,
+      "end_time": 569.49
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 569.49,
+      "end_time": 569.89
+    },
+    {
+      "text": "I think I have some notes from Andy which is sort of.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 569.89,
+      "end_time": 572.85
+    },
+    {
+      "text": "Yeah, marketing agency, creative leadership agency, operations.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 576.25,
+      "end_time": 580.49
+    },
+    {
+      "text": "Would just be great to hear you maybe talk about like a couple of typical campaigns.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 580.97,
+      "end_time": 584.97
+    },
+    {
+      "text": "Just what what goes in from the kind of how much is what strategy and what's creative and, and what's.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 584.97,
+      "end_time": 590.49
+    },
+    {
+      "text": "What type of things you're typically working on.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 591.13,
+      "end_time": 593.21
+    },
+    {
+      "text": "Totally.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 594.09,
+      "end_time": 594.65
+    },
+    {
+      "text": "I, I guess you can take this and Liz, feel free to jump in.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 594.65,
+      "end_time": 596.81
+    },
+    {
+      "text": "I think we think about our business as having like two sides of the brain.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 596.97,
+      "end_time": 599.85
+    },
+    {
+      "text": "Like on one hand it's kind of strategy and insight.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 599.93,
+      "end_time": 603.14
+    },
+    {
+      "text": "So it's working with brands who are like hey, we want to reimagine our kind of social presence in a way that resonates with youth audiences and that's a typical kind of project.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 603.22,
+      "end_time": 614.42
+    },
+    {
+      "text": "Or we worked with Sony in the gaming space to like understand the metaverse and how Gen Alpha was kind of creating their own immersive world.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 614.66,
+      "end_time": 623.94
+    },
+    {
+      "text": "So that would be like the type of more strategy insight work.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 623.94,
+      "end_time": 627.34
+    },
+    {
+      "text": "It's not I would say like quantitatively significant, it's more qualitative.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 627.34,
+      "end_time": 632.47
+    },
+    {
+      "text": "We're building these, you know, really customized targeted kind of target market focus groups oftentimes touching on this kind of Gen Z Gen Alpha space.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 632.47,
+      "end_time": 643.59
+    },
+    {
+      "text": "And that's kind of the say like the more traditional insight strategy consulting branch of the business.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 644.39,
+      "end_time": 650.31
+    },
+    {
+      "text": "On the other hand, what we found early in our days was that we'd work with the companies, hand over these strategies and then they're like, wait, we want you to just do it, execute it.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 651.27,
+      "end_time": 661.04
+    },
+    {
+      "text": "And so we actually built out a full service creative communications agency.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 661.2,
+      "end_time": 665.84
+    },
+    {
+      "text": "So we, I would say.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 665.92,
+      "end_time": 667.84
+    },
+    {
+      "text": "And once you kind of look a little bit more at our business structure, that's become a big chunk of the business where we're working with brands like Amazon or Warner Music Group or Lyft to either produce ongoing social first, sometimes out of home, other brands, full 360 campaigns, broadcast, all the kind of fun stuff.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 667.92,
+      "end_time": 690.29
+    },
+    {
+      "text": "And the through line being that, you know, we're trying to help them stay really close to culture, specifically kind of Internet culture, youth culture, digital culture.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 691.17,
+      "end_time": 701.25
+    },
+    {
+      "text": "Sometimes it's a campaign, sometimes it's a retainer where we're delivering content in an ongoing basis.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 702.05,
+      "end_time": 707.57
+    },
+    {
+      "text": "And then this is always kind of informed by our kind of proprietary PRISM community.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 708.94,
+      "end_time": 713.74
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 714.7,
+      "end_time": 715.3
+    },
+    {
+      "text": "And so when you.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 715.3,
+      "end_time": 716.14
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 716.78,
+      "end_time": 717.26
+    },
+    {
+      "text": "Yeah, just talking about having youth strategy.",
+      "speaker_name": "Kate O",
+      "start_time": 719.5,
+      "end_time": 721.78
+    },
+    {
+      "text": "And then you built the execution group.",
+      "speaker_name": "Kate O",
+      "start_time": 721.78,
+      "end_time": 723.9
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 723.9,
+      "end_time": 724.3
+    },
+    {
+      "text": "On the strategy side, what percentage of the time is the buyer of your services in a marketing function versus outside of.",
+      "speaker_name": "Kate O",
+      "start_time": 724.3,
+      "end_time": 733.9
+    },
+    {
+      "text": "And maybe in content or product or anything like that?",
+      "speaker_name": "Kate O",
+      "start_time": 734.27,
+      "end_time": 738.51
+    },
+    {
+      "text": "In terms of where they sit in their own organization?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 740.19,
+      "end_time": 742.27
+    },
+    {
+      "text": "Yeah, I would say most of the time it's more in a marketing function.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 742.59,
+      "end_time": 747.87
+    },
+    {
+      "text": "Sometimes it's coming from the product side, but I would say it's typically more in the CMOs.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 748.51,
+      "end_time": 755.55
+    },
+    {
+      "text": "On the marketing side.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 755.55,
+      "end_time": 756.47
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Liz",
+      "start_time": 756.47,
+      "end_time": 757.43
+    },
+    {
+      "text": "On the brand management marketing side and social side for sure.",
+      "speaker_name": "Liz",
+      "start_time": 757.43,
+      "end_time": 760.83
+    },
+    {
+      "text": "We've had a couple of projects obviously with Sony, we're still under NDA with them, but we worked with them for two to three years and that was on the tech and product innovation team.",
+      "speaker_name": "Liz",
+      "start_time": 760.83,
+      "end_time": 773.08
+    },
+    {
+      "text": "So that was that.",
+      "speaker_name": "Liz",
+      "start_time": 774.52,
+      "end_time": 775.48
+    },
+    {
+      "text": "I say that was an outlier.",
+      "speaker_name": "Liz",
+      "start_time": 775.48,
+      "end_time": 776.68
+    },
+    {
+      "text": "But again we worked with them for a very long time.",
+      "speaker_name": "Liz",
+      "start_time": 776.68,
+      "end_time": 778.28
+    },
+    {
+      "text": "They were studying Gen Z and Gen Alpha and gaming again in the Metaverse.",
+      "speaker_name": "Liz",
+      "start_time": 778.28,
+      "end_time": 782.2
+    },
+    {
+      "text": "It was fascinating.",
+      "speaker_name": "Liz",
+      "start_time": 782.2,
+      "end_time": 783.16
+    },
+    {
+      "text": "And then we've also worked with another tech company, campus, I think they were called Larry.",
+      "speaker_name": "Liz",
+      "start_time": 784.04,
+      "end_time": 788.8
+    },
+    {
+      "text": "I don't know, I don't know if they're even around anymore.",
+      "speaker_name": "Liz",
+      "start_time": 788.8,
+      "end_time": 790.48
+    },
+    {
+      "text": "But they were building tech and so they wanted a lot of testing and feedback and, and insights.",
+      "speaker_name": "Liz",
+      "start_time": 790.48,
+      "end_time": 796.22
+    },
+    {
+      "text": "But mostly it's like on the marketing side.",
+      "speaker_name": "Liz",
+      "start_time": 796.22,
+      "end_time": 798.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 799.14,
+      "end_time": 799.5
+    },
+    {
+      "text": "And then sometimes like we're working with smaller brands, like we're working with the CPG startup right now and so that's directly with the founder and kind of who brings the more product experience along with marketing.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 799.5,
+      "end_time": 810.98
+    },
+    {
+      "text": "And then on the tech side sometimes it gets a little bit blurrier.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 811.54,
+      "end_time": 814.78
+    },
+    {
+      "text": "But in short I would say the larger companies come to us more from like the CMO vertical.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 814.78,
+      "end_time": 821
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 821.56,
+      "end_time": 822.2
+    },
+    {
+      "text": "And on the creative content, on the sort of creative execution side.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 825.72,
+      "end_time": 830.2
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 830.2,
+      "end_time": 830.68
+    },
+    {
+      "text": "So are you guys doing content production and then kind of handing it over to clients to sort of pass their media agencies to book or are you, are you actually doing kind of, are you doing the media?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 830.68,
+      "end_time": 839.32
+    },
+    {
+      "text": "Are you ever doing sort of media buying and distribution as well?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 839.4,
+      "end_time": 841.96
+    },
+    {
+      "text": "So we are doing kind of the end to end of the creator kind of creative and production.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 843,
+      "end_time": 851.28
+    },
+    {
+      "text": "So we're coming up with ideas for the content like identifying the right creator or influencer negotiating, all the kind of briefing disbursement, all that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 851.6,
+      "end_time": 861.76
+    },
+    {
+      "text": "What we hand over typically to a client or bring in our own kind of specialized partner is for the actual like media buying.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 862,
+      "end_time": 869.28
+    },
+    {
+      "text": "So we do not do or historically have not done performance marketing.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 869.28,
+      "end_time": 873.12
+    },
+    {
+      "text": "Get it?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 874.26,
+      "end_time": 874.66
+    },
+    {
+      "text": "We do 360 brand campaigns as well.",
+      "speaker_name": "Liz",
+      "start_time": 874.98,
+      "end_time": 878.82
+    },
+    {
+      "text": "So not just influencer creator marketing, but we'll also do that.",
+      "speaker_name": "Liz",
+      "start_time": 878.98,
+      "end_time": 882.9
+    },
+    {
+      "text": "We do.",
+      "speaker_name": "Liz",
+      "start_time": 882.9,
+      "end_time": 883.38
+    },
+    {
+      "text": "They come to us often for like social first culture first campaigns.",
+      "speaker_name": "Liz",
+      "start_time": 883.78,
+      "end_time": 888.5
+    },
+    {
+      "text": "And it started with just like we need to target Gen Z.",
+      "speaker_name": "Liz",
+      "start_time": 888.66,
+      "end_time": 891.94
+    },
+    {
+      "text": "But now it's really evolved into a cross generation.",
+      "speaker_name": "Liz",
+      "start_time": 892.26,
+      "end_time": 895.46
+    },
+    {
+      "text": "I would say people definitely still come to us for youth insights and like understanding youth and culture.",
+      "speaker_name": "Liz",
+      "start_time": 895.46,
+      "end_time": 900.42
+    },
+    {
+      "text": "But it's definitely across the board now because we work with some huge brands but we do 360 brand campaigns and we also do social media campaigns and influencer marketing.",
+      "speaker_name": "Liz",
+      "start_time": 900.42,
+      "end_time": 908.65
+    },
+    {
+      "text": "It's like a full, full suite of services but definitely no paid media.",
+      "speaker_name": "Liz",
+      "start_time": 908.73,
+      "end_time": 912.37
+    },
+    {
+      "text": "We've thought about it of getting into paid media but we have partners that we bring in.",
+      "speaker_name": "Liz",
+      "start_time": 912.37,
+      "end_time": 915.93
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 916.57,
+      "end_time": 917.17
+    },
+    {
+      "text": "And on the influencer side, would you go out and book influencers yours, would you go out and book talent yourselves?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 917.17,
+      "end_time": 921.37
+    },
+    {
+      "text": "Do all that.",
+      "speaker_name": "Liz",
+      "start_time": 921.45,
+      "end_time": 922.17
+    },
+    {
+      "text": "We have producers, we have a producer in house who's fantastic and she.",
+      "speaker_name": "Liz",
+      "start_time": 923.69,
+      "end_time": 928.09
+    },
+    {
+      "text": "So we'll come up with a creative.",
+      "speaker_name": "Liz",
+      "start_time": 928.33,
+      "end_time": 929.77
+    },
+    {
+      "text": "We go through rounds, one or two rounds of review with the client.",
+      "speaker_name": "Liz",
+      "start_time": 929.97,
+      "end_time": 932.73
+    },
+    {
+      "text": "Once it's signed off on it goes into production.",
+      "speaker_name": "Liz",
+      "start_time": 932.73,
+      "end_time": 934.69
+    },
+    {
+      "text": "We handle all of the negotiating, the contracts, the payments, taxes, all of the, all of the backend stuff.",
+      "speaker_name": "Liz",
+      "start_time": 934.69,
+      "end_time": 940.85
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 941.65,
+      "end_time": 942.13
+    },
+    {
+      "text": "And then we deliver post ready content to the client.",
+      "speaker_name": "Liz",
+      "start_time": 942.13,
+      "end_time": 944.89
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Liz",
+      "start_time": 944.89,
+      "end_time": 945.21
+    },
+    {
+      "text": "To roll out or their media team.",
+      "speaker_name": "Liz",
+      "start_time": 945.21,
+      "end_time": 947.09
+    },
+    {
+      "text": "And I think the nice thing obviously over six years or so is like we've built a really robust network of like people we know would be amazing for this project.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 947.81,
+      "end_time": 957.33
+    },
+    {
+      "text": "We don't have them under management in the sense like we're not, you know, A talent management agency.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 957.41,
+      "end_time": 963.13
+    },
+    {
+      "text": "But we have like essentially kind of the relationships that will often return to and, and kind of that Rolodex.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 963.13,
+      "end_time": 971.21
+    },
+    {
+      "text": "Yeah, we, we take the same approach.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 971.77,
+      "end_time": 973.89
+    },
+    {
+      "text": "We probably have 500 creators we work with on a somewhat regular basis.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 973.89,
+      "end_time": 977.97
+    },
+    {
+      "text": "But we, we've always taken the view that we, we don't want to manage talent.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 977.97,
+      "end_time": 981.45
+    },
+    {
+      "text": "But probably the same reasons that you did as well.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 981.45,
+      "end_time": 984.01
+    },
+    {
+      "text": "Yeah, 100% got it.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 984.57,
+      "end_time": 987.37
+    },
+    {
+      "text": "And so could you just.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 987.37,
+      "end_time": 988.49
+    },
+    {
+      "text": "I've, I, I've.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 988.49,
+      "end_time": 989.85
+    },
+    {
+      "text": "Could you maybe just talk about on the client side, you mentioned Sony, Amazon.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 989.85,
+      "end_time": 995.77
+    },
+    {
+      "text": "Is that, could you give sort of give me a sense of what the book of business looks like inside?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 996.17,
+      "end_time": 1000.25
+    },
+    {
+      "text": "You can without, without, without an NDA in place.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1000.25,
+      "end_time": 1004.17
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Liz",
+      "start_time": 1005.37,
+      "end_time": 1007.17
+    },
+    {
+      "text": "So you go ahead Liz, and then I'll jump in.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1007.17,
+      "end_time": 1009.61
+    },
+    {
+      "text": "No, so we, we work with Netflix, we have relationship with Lyft.",
+      "speaker_name": "Liz",
+      "start_time": 1010.01,
+      "end_time": 1015.13
+    },
+    {
+      "text": "I would say our, you know, our top, we have tons of relationships right now.",
+      "speaker_name": "Liz",
+      "start_time": 1015.21,
+      "end_time": 1019.97
+    },
+    {
+      "text": "I would say like our consistent ongoing work right now would be with Amazon is our ongoing, biggest probably retainer client.",
+      "speaker_name": "Liz",
+      "start_time": 1019.97,
+      "end_time": 1028.65
+    },
+    {
+      "text": "We do a lot of work with Henkel.",
+      "speaker_name": "Liz",
+      "start_time": 1029.53,
+      "end_time": 1031.21
+    },
+    {
+      "text": "Are you familiar with Big German?",
+      "speaker_name": "Liz",
+      "start_time": 1031.29,
+      "end_time": 1033.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Liz",
+      "start_time": 1033.29,
+      "end_time": 1033.69
+    },
+    {
+      "text": "So they own a lot of, they own like hundreds of brands.",
+      "speaker_name": "Liz",
+      "start_time": 1033.69,
+      "end_time": 1035.77
+    },
+    {
+      "text": "We are in their hair styling and hair care division.",
+      "speaker_name": "Liz",
+      "start_time": 1035.85,
+      "end_time": 1038.89
+    },
+    {
+      "text": "So we work really closely with their division.",
+      "speaker_name": "Liz",
+      "start_time": 1038.89,
+      "end_time": 1040.69
+    },
+    {
+      "text": "They oversee multip simple brands.",
+      "speaker_name": "Liz",
+      "start_time": 1040.69,
+      "end_time": 1042.389
+    },
+    {
+      "text": "Right now for them we're really focused on Sexy hair is one of their products that we're super focused on for them.",
+      "speaker_name": "Liz",
+      "start_time": 1042.629,
+      "end_time": 1047.669
+    },
+    {
+      "text": "And then which Amazon line is it?",
+      "speaker_name": "Kate O",
+      "start_time": 1049.029,
+      "end_time": 1052.629
+    },
+    {
+      "text": "Yeah, so yeah, I was going to say.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1054.549,
+      "end_time": 1057.589
+    },
+    {
+      "text": "So it's interesting.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1057.589,
+      "end_time": 1058.509
+    },
+    {
+      "text": "I think Amazon's one of those examples where it's one of our prouder relationships because we started actually with the Amazon Influencer program which is their kind of largest global affiliate marketing platform, whatever in the world with all their storefront people.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1058.509,
+      "end_time": 1075.07
+    },
+    {
+      "text": "And then that was in 2024.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1075.47,
+      "end_time": 1077.87
+    },
+    {
+      "text": "So it's been a year and a half or so.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1077.87,
+      "end_time": 1080.03
+    },
+    {
+      "text": "And then since then they've introduced us to probably like well over five different teams.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1080.43,
+      "end_time": 1084.75
+    },
+    {
+      "text": "So we kind of have independent relationships with some of the paid team, some of like the sell kind of Amazon selling team.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1085.07,
+      "end_time": 1092.19
+    },
+    {
+      "text": "We're working with some of the Prime Day team for these like big sales pushes.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1093.39,
+      "end_time": 1099
+    },
+    {
+      "text": "So it started with one, but now it's kind of expanded across different parts of the org.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1099,
+      "end_time": 1104.68
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Liz",
+      "start_time": 1106.68,
+      "end_time": 1107.08
+    },
+    {
+      "text": "And some of our other brands are end.",
+      "speaker_name": "Liz",
+      "start_time": 1107.08,
+      "end_time": 1109.08
+    },
+    {
+      "text": "We have like one sort of like fashion line.",
+      "speaker_name": "Liz",
+      "start_time": 1109.56,
+      "end_time": 1112.16
+    },
+    {
+      "text": "We've also worked in tech, entertainment and CPG as well.",
+      "speaker_name": "Liz",
+      "start_time": 1112.16,
+      "end_time": 1115.48
+    },
+    {
+      "text": "So we'll work with those really big brands.",
+      "speaker_name": "Liz",
+      "start_time": 1116.28,
+      "end_time": 1118.56
+    },
+    {
+      "text": "But then we're also working with like a startup.",
+      "speaker_name": "Liz",
+      "start_time": 1118.56,
+      "end_time": 1121.08
+    },
+    {
+      "text": "Oddball is a new sort of snack, like treat it's like a jelly snack food.",
+      "speaker_name": "Liz",
+      "start_time": 1121.88,
+      "end_time": 1126.44
+    },
+    {
+      "text": "So we're trying to restage their brand event, create a creative foundation for them and messaging and bleed that into like a social directive and eventually we'll grow that business with them and probably do some of their social media and content and their larger campaign production as well.",
+      "speaker_name": "Liz",
+      "start_time": 1126.44,
+      "end_time": 1141.64
+    },
+    {
+      "text": "So a pretty base.",
+      "speaker_name": "Liz",
+      "start_time": 1142.68,
+      "end_time": 1146.2
+    },
+    {
+      "text": "Go ahead.",
+      "speaker_name": "Liz",
+      "start_time": 1146.28,
+      "end_time": 1146.84
+    },
+    {
+      "text": "And in terms of the way you think about the business, I mean no shortage of sort of youth focused agencies out there.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1146.92,
+      "end_time": 1153.81
+    },
+    {
+      "text": "How do you think about sort of what, what I was about to say, what makes you different?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1154.05,
+      "end_time": 1161.49
+    },
+    {
+      "text": "Which is probably the wrong question.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1161.49,
+      "end_time": 1162.61
+    },
+    {
+      "text": "Sort of what makes you successful?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1162.85,
+      "end_time": 1165.17
+    },
+    {
+      "text": "Probably the better question is when do you feel like you win?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1167.89,
+      "end_time": 1170.33
+    },
+    {
+      "text": "I think that's actually probably the question I'm trying to ask.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1170.33,
+      "end_time": 1172.37
+    },
+    {
+      "text": "When stacked against potentially other agencies going up for.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1174.69,
+      "end_time": 1178.53
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1179.06,
+      "end_time": 1179.62
+    },
+    {
+      "text": "I think there are two things and then maybe Liz, if you want to add a third, I think transparently one of the things that makes clients eyes kind of widen when we're pitching is not just being your typical influencer agency, not just being your typical brand marketing agency, not being whatever your typical comms agency, but being one that's backed and informed by real youth consumers who we're often trying to speak to and with.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1180.5,
+      "end_time": 1207.1
+    },
+    {
+      "text": "And so we've I'm sure in your space this doesn't sound so pioneering but oftentimes we'll build these dedicated brain trusts so that we're co creating any campaign with that voice and Persona in mind.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1207.42,
+      "end_time": 1220.14
+    },
+    {
+      "text": "And it's informed both our kind of revenue driving business, but also Prism as a brand.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1221.18,
+      "end_time": 1226.94
+    },
+    {
+      "text": "We have our own kind of substack dispatch where we have lead kind of CMO level figures following along for the latest of like what does this mean on TikTok?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1227.02,
+      "end_time": 1236.77
+    },
+    {
+      "text": "And we're demystifying all these phrases and terms and we're deep in the comments, all of that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1236.77,
+      "end_time": 1241.77
+    },
+    {
+      "text": "We launched, as Liz mentioned, our Prisoner or Prism visionaries program.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1242.65,
+      "end_time": 1246.73
+    },
+    {
+      "text": "So we're bringing to the forefront some of these kind of young creatives who are kind of leading the way.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1246.97,
+      "end_time": 1252.49
+    },
+    {
+      "text": "So I think that would be one thing that maybe lets us often allows us to kind of win against kind of some other peers in the space.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1252.57,
+      "end_time": 1260.82
+    },
+    {
+      "text": "I think the second thing is, and this is more of an intangible, but it's just a degree of trust around kind of taste and pulse on culture.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1262.5,
+      "end_time": 1274.82
+    },
+    {
+      "text": "I know that's often not the easiest thing to quantify but when we're speaking with brands who really want to get it right and want to stay relevant and want to speak in a way that's not cringy and you know, not like, hey, you kids.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1274.98,
+      "end_time": 1290.35
+    },
+    {
+      "text": "We often are able to show our case studies and record of results, which is more quantifiable, to demonstrate that we're the right partner for that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1291.63,
+      "end_time": 1300.79
+    },
+    {
+      "text": "So I think those are the two.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1300.79,
+      "end_time": 1301.67
+    },
+    {
+      "text": "But Liz, if there's anything else you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1301.67,
+      "end_time": 1303.03
+    },
+    {
+      "text": "Want to add, I think those are great.",
+      "speaker_name": "Liz",
+      "start_time": 1303.03,
+      "end_time": 1305.03
+    },
+    {
+      "text": "I mean, I think the one thing I would add is that, you know, as an agency, it has a lot to do with talent.",
+      "speaker_name": "Liz",
+      "start_time": 1305.03,
+      "end_time": 1312.79
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1313.03,
+      "end_time": 1313.43
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Liz",
+      "start_time": 1313.51,
+      "end_time": 1313.91
+    },
+    {
+      "text": "And I'm usually the person on the team that does a lot of the, the staffing and some of the operations and I also do some of the strategy as well.",
+      "speaker_name": "Liz",
+      "start_time": 1313.91,
+      "end_time": 1320.59
+    },
+    {
+      "text": "But a big piece of what I do is thinking about the people that we have on our team and how they're working together and how they're inspired to do fantastic work.",
+      "speaker_name": "Liz",
+      "start_time": 1320.59,
+      "end_time": 1328.67
+    },
+    {
+      "text": "And we're really, I think we try, Larry and I, obviously, we've taken on projects that, you know, we were, we're tough, but we try to select projects that we're really passionate and excited about and our team works really hard on those and they're also really inspired.",
+      "speaker_name": "Liz",
+      "start_time": 1328.67,
+      "end_time": 1343.43
+    },
+    {
+      "text": "So I think that we have some really, we have a very talented network of individuals that I think respect us.",
+      "speaker_name": "Liz",
+      "start_time": 1344.07,
+      "end_time": 1350.03
+    },
+    {
+      "text": "We respect them.",
+      "speaker_name": "Liz",
+      "start_time": 1350.03,
+      "end_time": 1350.95
+    },
+    {
+      "text": "There's a lot of trust and we inspire them to do fantastic work.",
+      "speaker_name": "Liz",
+      "start_time": 1350.95,
+      "end_time": 1353.67
+    },
+    {
+      "text": "And they are always wanting to work for us.",
+      "speaker_name": "Liz",
+      "start_time": 1353.67,
+      "end_time": 1355.75
+    },
+    {
+      "text": "They always want to take on more projects.",
+      "speaker_name": "Liz",
+      "start_time": 1355.75,
+      "end_time": 1357.51
+    },
+    {
+      "text": "And so I think, you know, the people are really important.",
+      "speaker_name": "Liz",
+      "start_time": 1358.15,
+      "end_time": 1361.11
+    },
+    {
+      "text": "I think the leadership is really important.",
+      "speaker_name": "Liz",
+      "start_time": 1361.11,
+      "end_time": 1362.79
+    },
+    {
+      "text": "Yeah, I think we have really, we have strong ideas.",
+      "speaker_name": "Liz",
+      "start_time": 1365.17,
+      "end_time": 1367.57
+    },
+    {
+      "text": "And I think that the other thing, you know, I was talking to one of the Warner Music Group executives sometime this past year and this is sort of consistent, you know, with.",
+      "speaker_name": "Liz",
+      "start_time": 1367.57,
+      "end_time": 1375.77
+    },
+    {
+      "text": "Across some of the clients, especially him.",
+      "speaker_name": "Liz",
+      "start_time": 1375.77,
+      "end_time": 1377.69
+    },
+    {
+      "text": "He was like, I'm really looking for a team that Warner Music Group is another big client of us.",
+      "speaker_name": "Liz",
+      "start_time": 1377.69,
+      "end_time": 1382.45
+    },
+    {
+      "text": "They're actually based in London.",
+      "speaker_name": "Liz",
+      "start_time": 1382.45,
+      "end_time": 1383.73
+    },
+    {
+      "text": "But he's like, I really want a team that's hyper tuned in.",
+      "speaker_name": "Liz",
+      "start_time": 1384.13,
+      "end_time": 1387.85
+    },
+    {
+      "text": "And they're very creative.",
+      "speaker_name": "Liz",
+      "start_time": 1387.85,
+      "end_time": 1389.41
+    },
+    {
+      "text": "Really, really creative.",
+      "speaker_name": "Liz",
+      "start_time": 1389.82,
+      "end_time": 1390.94
+    },
+    {
+      "text": "You know, sometimes creatives are kind of wild and we have to manage them and whatever.",
+      "speaker_name": "Liz",
+      "start_time": 1391.26,
+      "end_time": 1395.42
+    },
+    {
+      "text": "But also they're very organized.",
+      "speaker_name": "Liz",
+      "start_time": 1395.66,
+      "end_time": 1398.14
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1398.14,
+      "end_time": 1398.34
+    },
+    {
+      "text": "We need a side of the team that can produce.",
+      "speaker_name": "Liz",
+      "start_time": 1398.34,
+      "end_time": 1399.9
+    },
+    {
+      "text": "And you're super organized and you have incredible account management.",
+      "speaker_name": "Liz",
+      "start_time": 1399.9,
+      "end_time": 1402.38
+    },
+    {
+      "text": "You have to like find that balance with the team.",
+      "speaker_name": "Liz",
+      "start_time": 1402.54,
+      "end_time": 1404.86
+    },
+    {
+      "text": "And so I think building that trust, like delivering fantastic creative, that's really performing for the client.",
+      "speaker_name": "Liz",
+      "start_time": 1405.82,
+      "end_time": 1414.06
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1414.06,
+      "end_time": 1414.3
+    },
+    {
+      "text": "Like, we want to see results.",
+      "speaker_name": "Liz",
+      "start_time": 1414.3,
+      "end_time": 1415.5
+    },
+    {
+      "text": "Like, we are like, how is this performing?",
+      "speaker_name": "Liz",
+      "start_time": 1415.66,
+      "end_time": 1417.66
+    },
+    {
+      "text": "Let's see the paid media stuff.",
+      "speaker_name": "Liz",
+      "start_time": 1417.66,
+      "end_time": 1419.02
+    },
+    {
+      "text": "What are your executives saying?",
+      "speaker_name": "Liz",
+      "start_time": 1419.02,
+      "end_time": 1420.26
+    },
+    {
+      "text": "What.",
+      "speaker_name": "Liz",
+      "start_time": 1420.26,
+      "end_time": 1420.54
+    },
+    {
+      "text": "How is this land?",
+      "speaker_name": "Liz",
+      "start_time": 1420.54,
+      "end_time": 1421.34
+    },
+    {
+      "text": "And then making sure that we're hitting the timelines, hitting the budgets.",
+      "speaker_name": "Liz",
+      "start_time": 1421.88,
+      "end_time": 1424.96
+    },
+    {
+      "text": "We have an incredible account manager.",
+      "speaker_name": "Liz",
+      "start_time": 1424.96,
+      "end_time": 1426.76
+    },
+    {
+      "text": "Like you know, staying organized and finding that balance I think is also part of the success and maintaining and growing those clients.",
+      "speaker_name": "Liz",
+      "start_time": 1426.76,
+      "end_time": 1433.4
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1433.4,
+      "end_time": 1433.8
+    },
+    {
+      "text": "Because it's easier to grow an account, you know, once you have it.",
+      "speaker_name": "Liz",
+      "start_time": 1433.8,
+      "end_time": 1437
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1437.08,
+      "end_time": 1437.48
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1437.8,
+      "end_time": 1438.36
+    },
+    {
+      "text": "So how, how do you both split the focus Day to Day?",
+      "speaker_name": "Kate O",
+      "start_time": 1438.92,
+      "end_time": 1443.8
+    },
+    {
+      "text": "That's a great question.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1446.2,
+      "end_time": 1447.16
+    },
+    {
+      "text": "I think, you know, we came into this really as partners and I think we've naturally found a groove of our strengths as Liz kind of alluded to.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1447.68,
+      "end_time": 1455.76
+    },
+    {
+      "text": "Some of the kind of operational and kind of team structuring and leadership comes from Liz and also her kind of brand building experience has been invaluable.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1456.16,
+      "end_time": 1469.76
+    },
+    {
+      "text": "And over the years I think my background doing more of this Gen Z now Gen Alpha marketing has kind of been more of the kind of strategic and creative kind of leadership thread.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1469.76,
+      "end_time": 1484.23
+    },
+    {
+      "text": "And so I'm a bit more, I don't know more but I would say I'm definitely very chronically online.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1485.27,
+      "end_time": 1489.83
+    },
+    {
+      "text": "So when we're working with different individuals and teams, we're, we're kind of putting our heads together on campaign ideas or social media concepts or whatever it may be.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1489.83,
+      "end_time": 1500.95
+    },
+    {
+      "text": "But it definitely is a true partnership where sometimes we'll, we'll wear different hats but with clear lines of responsibilities and roles.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1502.15,
+      "end_time": 1512.2
+    },
+    {
+      "text": "I have nothing else to add other than Larry is extremely gifted at, at creative thinking and strategy and copywriting which is super important to any agency.",
+      "speaker_name": "Liz",
+      "start_time": 1516.12,
+      "end_time": 1524.04
+    },
+    {
+      "text": "So I give him that often.",
+      "speaker_name": "Liz",
+      "start_time": 1524.2,
+      "end_time": 1526.28
+    },
+    {
+      "text": "And could you talk about the visionaries thing a little bit?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1527.96,
+      "end_time": 1529.84
+    },
+    {
+      "text": "That sounds super interesting.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1529.84,
+      "end_time": 1530.84
+    },
+    {
+      "text": "Yeah, I can get started with that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1532.44,
+      "end_time": 1534.64
+    },
+    {
+      "text": "I mean it really was born out of this idea of we have over 1500 Gen Z and Gen Alpha and 20 countries all part of kind of our formal PRISM collective.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1534.64,
+      "end_time": 1546.12
+    },
+    {
+      "text": "And we really wanted to almost identify and surface some of like the incredible leaders in the space to kind of platform them through this kind of award recognition but also to have this almost like SWAT team of experts that could come in so that when we're working with some of our brand partners they're very much at the table and forming the conversation.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1546.759,
+      "end_time": 1570.4
+    },
+    {
+      "text": "And that's also just I think a major value add.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1570.96,
+      "end_time": 1573.8
+    },
+    {
+      "text": "When we were transparently also upselling clients on services because when we're thinking about okay, we can give you XYZ and also layer in this kind of always on panel of experts to be part of the conversation, we often found they, they went for that and it again just strengthened our book of business.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1573.8,
+      "end_time": 1592.37
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1594.45,
+      "end_time": 1594.89
+    },
+    {
+      "text": "So it's ok, go.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1594.89,
+      "end_time": 1597.09
+    },
+    {
+      "text": "I think you're about to ask the same question.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1597.09,
+      "end_time": 1598.33
+    },
+    {
+      "text": "I was Maybe I was, I was just thinking, like, if you had infinite resources, how might you scale that thing?",
+      "speaker_name": "Kate O",
+      "start_time": 1598.33,
+      "end_time": 1603.57
+    },
+    {
+      "text": "Is there.",
+      "speaker_name": "Kate O",
+      "start_time": 1603.81,
+      "end_time": 1604.29
+    },
+    {
+      "text": "And is there some, like, you really help on the qual?",
+      "speaker_name": "Kate O",
+      "start_time": 1604.29,
+      "end_time": 1609.33
+    },
+    {
+      "text": "Is there something that.",
+      "speaker_name": "Liz",
+      "start_time": 1609.65,
+      "end_time": 1610.77
+    },
+    {
+      "text": "Oh my gosh, I'm so happy you said that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1610.77,
+      "end_time": 1613.97
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1613.97,
+      "end_time": 1614.25
+    },
+    {
+      "text": "I was just eager to jump at the bit with that because I think with infinite resources to be able to double down on that scale, it, you know, grow our community, but also layer in some sort of like, tech element where obviously, like, we're super dialed in on AI and understanding how, yes, there's a time and place to kind of get that rich insight, but there's also a human touch that can't be replaced, at least this phase.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1614.25,
+      "end_time": 1640.85
+    },
+    {
+      "text": "Amazing, Nick.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1641.33,
+      "end_time": 1642.21
+    },
+    {
+      "text": "And so if there's some sort of way where we can bring some of our human expertise but combine it with leading tech to provide some sort of solution, that would be something that we just know would be incredibly valuable.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1642.85,
+      "end_time": 1655.09
+    },
+    {
+      "text": "Yeah, I agree.",
+      "speaker_name": "Liz",
+      "start_time": 1657.17,
+      "end_time": 1658.13
+    },
+    {
+      "text": "And just having the team, it's something that we obviously thought about for a while.",
+      "speaker_name": "Liz",
+      "start_time": 1658.13,
+      "end_time": 1661.57
+    },
+    {
+      "text": "It's just also having the team to manage it.",
+      "speaker_name": "Liz",
+      "start_time": 1661.57,
+      "end_time": 1663.73
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1663.73,
+      "end_time": 1663.97
+    },
+    {
+      "text": "And to lead it and to build it and grow it and grow the communications around it.",
+      "speaker_name": "Liz",
+      "start_time": 1663.97,
+      "end_time": 1667.49
+    },
+    {
+      "text": "And we're kind of treating visionaries almost as like a recognition, like it's an award.",
+      "speaker_name": "Liz",
+      "start_time": 1668.04,
+      "end_time": 1672.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1672.28,
+      "end_time": 1672.64
+    },
+    {
+      "text": "And there's all these like, marketing shootouts from that.",
+      "speaker_name": "Liz",
+      "start_time": 1672.64,
+      "end_time": 1675.52
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 1675.52,
+      "end_time": 1675.84
+    },
+    {
+      "text": "Because they start to market it, the visionaries market, the judges are involved, and then there's all this, this packaging of communications that you can do around that.",
+      "speaker_name": "Liz",
+      "start_time": 1675.84,
+      "end_time": 1683.48
+    },
+    {
+      "text": "So it's almost like its own sort of potential revenue stream and, and business on the side that could certainly grow and we definitely see it, but it's, it's a matter of having the, the bandwidth and the team in place to, to do it.",
+      "speaker_name": "Liz",
+      "start_time": 1683.559,
+      "end_time": 1694.02
+    },
+    {
+      "text": "And how do you get about recruitment is going to be the question I ask.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1695.46,
+      "end_time": 1698.18
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Liz",
+      "start_time": 1699.94,
+      "end_time": 1700.38
+    },
+    {
+      "text": "For visionaries or for just like our general Gen Z?",
+      "speaker_name": "Liz",
+      "start_time": 1700.38,
+      "end_time": 1703.22
+    },
+    {
+      "text": "For visionaries specifically.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1703.86,
+      "end_time": 1705.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Liz",
+      "start_time": 1706.18,
+      "end_time": 1706.66
+    },
+    {
+      "text": "So we, we do have a community manager on our team.",
+      "speaker_name": "Liz",
+      "start_time": 1706.66,
+      "end_time": 1710.34
+    },
+    {
+      "text": "She started as an intern.",
+      "speaker_name": "Liz",
+      "start_time": 1710.34,
+      "end_time": 1711.38
+    },
+    {
+      "text": "She's young, transparently.",
+      "speaker_name": "Liz",
+      "start_time": 1712.02,
+      "end_time": 1713.18
+    },
+    {
+      "text": "She's.",
+      "speaker_name": "Liz",
+      "start_time": 1713.18,
+      "end_time": 1713.54
+    },
+    {
+      "text": "She's young.",
+      "speaker_name": "Liz",
+      "start_time": 1713.54,
+      "end_time": 1714.1
+    },
+    {
+      "text": "She's absolutely brilliant.",
+      "speaker_name": "Liz",
+      "start_time": 1714.1,
+      "end_time": 1715.3
+    },
+    {
+      "text": "She's at Harvard.",
+      "speaker_name": "Liz",
+      "start_time": 1715.3,
+      "end_time": 1716.18
+    },
+    {
+      "text": "She's about to graduate.",
+      "speaker_name": "Liz",
+      "start_time": 1716.18,
+      "end_time": 1717.14
+    },
+    {
+      "text": "She helped us establish the program and the, the actual recruitment.",
+      "speaker_name": "Liz",
+      "start_time": 1717.62,
+      "end_time": 1723.06
+    },
+    {
+      "text": "And I think that she went through her and our own network as well, of people to actually post on LinkedIn, post on social, go to their own network.",
+      "speaker_name": "Liz",
+      "start_time": 1723.06,
+      "end_time": 1730.96
+    },
+    {
+      "text": "And, and so it was very much grassroots for sure.",
+      "speaker_name": "Liz",
+      "start_time": 1731.04,
+      "end_time": 1733.84
+    },
+    {
+      "text": "And then we also have our own network of over, I think, a thousand individuals that have just been with Prism for a really long time.",
+      "speaker_name": "Liz",
+      "start_time": 1733.92,
+      "end_time": 1740.64
+    },
+    {
+      "text": "So we blast out to them and Then they recruit for us as well.",
+      "speaker_name": "Liz",
+      "start_time": 1740.64,
+      "end_time": 1744.72
+    },
+    {
+      "text": "And I think we had close to 200 applicants, potentially.",
+      "speaker_name": "Liz",
+      "start_time": 1746,
+      "end_time": 1749.28
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1751.36,
+      "end_time": 1751.92
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1753.18,
+      "end_time": 1753.42
+    },
+    {
+      "text": "And I think what's been nice is building this kind of brand around Prism.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1753.42,
+      "end_time": 1759.58
+    },
+    {
+      "text": "Like, we're not so interested in being.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1759.74,
+      "end_time": 1762.66
+    },
+    {
+      "text": "I mean, obviously for our clients, we're a little bit of an invisible hand.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1762.66,
+      "end_time": 1765.42
+    },
+    {
+      "text": "But I think we've found a lot of traction among Gen Z, Gen Alpha audiences that have felt really intrigued by what we're building and the vibe and the look and just the sense of community we're trying to foster.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1765.42,
+      "end_time": 1777.58
+    },
+    {
+      "text": "And so sometimes, like, even little things like having, like, merch or the way our website shows up or how we're kind of showing up on social or engaging them, I think is something that we feel has really allowed us to scale in a way that isn't artificially juiced.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1778.12,
+      "end_time": 1798.88
+    },
+    {
+      "text": "It's not like we're just throwing money at people to join us, but there's a real kind of collective, I don't know, as Liz mentioned, like, grassroots sense of interest.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1798.88,
+      "end_time": 1809.16
+    },
+    {
+      "text": "And is there.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1812.76,
+      "end_time": 1813.56
+    },
+    {
+      "text": "In terms of the.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1813.56,
+      "end_time": 1814.36
+    },
+    {
+      "text": "On the growth side, Kate asked about growing visionaries and how you grow that program.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1814.36,
+      "end_time": 1817.8
+    },
+    {
+      "text": "Is there anything else when you think about kind of growing the business that feels like that you.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1817.8,
+      "end_time": 1822.36
+    },
+    {
+      "text": "You'd like to be investing in or that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1822.36,
+      "end_time": 1823.92
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1823.92,
+      "end_time": 1824.36
+    },
+    {
+      "text": "Would you feel like would help you be more successful?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1824.44,
+      "end_time": 1826.52
+    },
+    {
+      "text": "I think transparently, we've really worked in earnest to build really strong relationships with our clients and also have really warm leads with other amazing brands who, you know, looking into 2026, there's something taking shape.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1828.04,
+      "end_time": 1845.32
+    },
+    {
+      "text": "I think we've tried to scale really responsibly as a team also and create processes and structure so that as founders, we're not always involved with every single Day to Day, but we can empower the team to follow kind of the Prism mindset and kind of have the decks and all that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1845.8,
+      "end_time": 1864.26
+    },
+    {
+      "text": "I think in terms of growth areas, it's really growing within our existing client base.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1864.58,
+      "end_time": 1870.1
+    },
+    {
+      "text": "Amazon, obviously, being a really massive opportunity.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1870.42,
+      "end_time": 1873.06
+    },
+    {
+      "text": "Hinkle being within their system and kind of being a preferred vendor.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1873.14,
+      "end_time": 1877.3
+    },
+    {
+      "text": "There's so many brand opportunities there.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1877.3,
+      "end_time": 1879.54
+    },
+    {
+      "text": "You know, some of the.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1880.42,
+      "end_time": 1881.42
+    },
+    {
+      "text": "The big names like Netflix, Warner Music Group, Lyft, these are all brands we have ongoing relationships with.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1881.42,
+      "end_time": 1887.52
+    },
+    {
+      "text": "And so there's only so much work we can take on.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1887.52,
+      "end_time": 1890.72
+    },
+    {
+      "text": "And I think it's a good problem to have because it means that, like, even this month alone, we have people being like, wait, can we do a little bit more?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1891.12,
+      "end_time": 1898.56
+    },
+    {
+      "text": "Like, we have some budget to burn and there's only so much we can take on.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1898.56,
+      "end_time": 1901.48
+    },
+    {
+      "text": "So I think the growth opportunity is a headcount one.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1901.48,
+      "end_time": 1904.64
+    },
+    {
+      "text": "So with more individuals and more support and with the right kind of discipline and process that we've set up, it would just be scaling in terms of revenue.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1904.72,
+      "end_time": 1915.54
+    },
+    {
+      "text": "And so maybe to revenue.",
+      "speaker_name": "Kate O",
+      "start_time": 1920.42,
+      "end_time": 1923.06
+    },
+    {
+      "text": "How have the last three years been or so.",
+      "speaker_name": "Kate O",
+      "start_time": 1923.38,
+      "end_time": 1926.34
+    },
+    {
+      "text": "Yeah, so we've had, I think one of our strongest years, if not strongest in 2025, where we just met with our accounting team to review some numbers, which was really empowering.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1927.46,
+      "end_time": 1940.32
+    },
+    {
+      "text": "You know, we have been profitable since Day one and that's something we're really proud of.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1941.6,
+      "end_time": 1946.64
+    },
+    {
+      "text": "We've grown our business intentionally.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1946.88,
+      "end_time": 1948.88
+    },
+    {
+      "text": "We've grown our team intentionally.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1949.04,
+      "end_time": 1950.64
+    },
+    {
+      "text": "We've acquired and resigned clients kind of with that really hard, hard earned effort.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1951.12,
+      "end_time": 1958.8
+    },
+    {
+      "text": "We also run an efficient business.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1960.4,
+      "end_time": 1962
+    },
+    {
+      "text": "We are not heavily overstaffed.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1963.04,
+      "end_time": 1965.6
+    },
+    {
+      "text": "We don't have massive overhead from offices or debt or any of that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1965.86,
+      "end_time": 1969.54
+    },
+    {
+      "text": "So a lot of our revenue, except for obviously production costs and talent and influencers, which can be expensive really, is profit.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1970.74,
+      "end_time": 1978.26
+    },
+    {
+      "text": "And so it's, it's been a good number of years and we're expecting 2026 to be transparently like even stronger than 25.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 1979.46,
+      "end_time": 1988.74
+    },
+    {
+      "text": "But just, I mean, I'm not necessarily asking for specific numbers, but if we're going to look at like the shape of the line of the last three years, would it be like up every or to bounce around a bit or just.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 1990.82,
+      "end_time": 1999.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2000.16,
+      "end_time": 2000.64
+    },
+    {
+      "text": "What are the contours?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2000.72,
+      "end_time": 2001.6
+    },
+    {
+      "text": "Yeah, well, I feel like you would probably like have like some sort of question mark, a red flag if you just saw like a perfect like elliptical line up every year our EBITDA has gone up, I would say in 2024.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2001.68,
+      "end_time": 2016.12
+    },
+    {
+      "text": "And again, we can show you the numbers if, if you know, if it's relevant to under NDA and all that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2016.12,
+      "end_time": 2022.28
+    },
+    {
+      "text": "But I think 2024 was a really critical year because we rebuilt our profit margins.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2022.28,
+      "end_time": 2028.53
+    },
+    {
+      "text": "So 2023 was a really high revenue year with a bit less of a strong profit margin.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2028.85,
+      "end_time": 2035.73
+    },
+    {
+      "text": "2024 was a lower revenue year than the prior, but stronger in terms of overall profit.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2036.05,
+      "end_time": 2041.65
+    },
+    {
+      "text": "And 2025 was a very, very strong revenue year for us as well as a very profitable one.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2041.81,
+      "end_time": 2047.97
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2050.45,
+      "end_time": 2050.93
+    },
+    {
+      "text": "Spoiler alert.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2051.57,
+      "end_time": 2052.33
+    },
+    {
+      "text": "Our revenue also bounces around a bit.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2052.33,
+      "end_time": 2053.85
+    },
+    {
+      "text": "So.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2053.85,
+      "end_time": 2054.13
+    },
+    {
+      "text": "Yeah, so we have certainly.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2054.84,
+      "end_time": 2058.36
+    },
+    {
+      "text": "Yeah, you don't after, after, after a while you don't always get the up until the right line.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2059.08,
+      "end_time": 2063.48
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2066.36,
+      "end_time": 2066.84
+    },
+    {
+      "text": "Kate, is there anything you else you want to ask about the prison business?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2066.92,
+      "end_time": 2070.479
+    },
+    {
+      "text": "I was going to turn a bit and talk about just like what, what partnerships might look like.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2070.479,
+      "end_time": 2075.48
+    },
+    {
+      "text": "Is there anything else you want, you want to ask about the business before we move on.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2076.28,
+      "end_time": 2079.48
+    },
+    {
+      "text": "No, I think that's.",
+      "speaker_name": "Kate O",
+      "start_time": 2087.33,
+      "end_time": 2088.13
+    },
+    {
+      "text": "I think that's a good start.",
+      "speaker_name": "Kate O",
+      "start_time": 2088.13,
+      "end_time": 2089.17
+    },
+    {
+      "text": "So I guess.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2091.41,
+      "end_time": 2092.05
+    },
+    {
+      "text": "I guess the piece that I was really just gonna ask you guys is like, we're, as I said up front, we're interested in finding.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2092.05,
+      "end_time": 2099.65
+    },
+    {
+      "text": "Finding partners who can help us sort of accelerate what we do in both the team space and in the creative space.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2100.61,
+      "end_time": 2105.97
+    },
+    {
+      "text": "We are, as a company, we are under 18 focused.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2106.88,
+      "end_time": 2111.24
+    },
+    {
+      "text": "And so in terms of what we bring, we bring hopefully a good set of client relationships and a good set of existing practices, and we do have the ability to buy and run media, and so we can sort of offer that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2111.24,
+      "end_time": 2122.88
+    },
+    {
+      "text": "But it is all very focused on under 18s.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2122.96,
+      "end_time": 2125.28
+    },
+    {
+      "text": "And so I kind of, while if we were to do something together, it's not like we would say drop every client who's.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2126.4,
+      "end_time": 2133.75
+    },
+    {
+      "text": "Who's 18 plus in terms of what you get from us and the book of business and client referrals and things like that, you know, there's going to be, you know, we do a bunch of work with toy companies, we do a bunch of work with teen focused fashion, we do a bunch of work with teen focused food and beverage.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2133.75,
+      "end_time": 2147.63
+    },
+    {
+      "text": "So it's sort of those type of clients.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2147.63,
+      "end_time": 2149.43
+    },
+    {
+      "text": "How does that, in terms of how you guys think about the future of the business?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2151.19,
+      "end_time": 2154.63
+    },
+    {
+      "text": "I mean, don't know if that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2155.03,
+      "end_time": 2156.91
+    },
+    {
+      "text": "I appreciate you probably haven't thought about this a huge amount of.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2156.91,
+      "end_time": 2159.52
+    },
+    {
+      "text": "But like, how does that sound in terms of what you're looking to do with the company?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2159.91,
+      "end_time": 2164.87
+    },
+    {
+      "text": "Yeah, I mean, if.",
+      "speaker_name": "Liz",
+      "start_time": 2166.15,
+      "end_time": 2166.87
+    },
+    {
+      "text": "If Prism were within the company, would you still be open to us working on other generational projects, you know, as well as obviously leaning into the youth culture or.",
+      "speaker_name": "Liz",
+      "start_time": 2166.87,
+      "end_time": 2178.71
+    },
+    {
+      "text": "Yeah, I mean, I mean, I think broadly the answer is yes.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2179.19,
+      "end_time": 2183.03
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2183.19,
+      "end_time": 2183.83
+    },
+    {
+      "text": "I think the reason I want to flag this up front is I do think over time gravity sort of begins to exert a bit of a force.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2183.83,
+      "end_time": 2189.47
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2189.47,
+      "end_time": 2189.79
+    },
+    {
+      "text": "We've got.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2189.79,
+      "end_time": 2190.23
+    },
+    {
+      "text": "I think one of the things we'd hope to be helpful is we've got 15 sellers across the world backed up by strategy teams and account management teams.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2190.23,
+      "end_time": 2199.71
+    },
+    {
+      "text": "So hopefully we can be quite helpful in terms of growing business and driving top line.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2200.43,
+      "end_time": 2204.27
+    },
+    {
+      "text": "But those people are out talking to under 18 clients.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2204.43,
+      "end_time": 2206.91
+    },
+    {
+      "text": "And so while I don't think.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2206.91,
+      "end_time": 2208.75
+    },
+    {
+      "text": "As I said, we certainly wouldn't suggest that you fire any of your clients, just in terms of the sort of gravitational force we exert, it probably means there ends up being more under 18s in the mix over time.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2208.75,
+      "end_time": 2219.91
+    },
+    {
+      "text": "Yeah, that's just something we definitely makes sense.",
+      "speaker_name": "Liz",
+      "start_time": 2224.38,
+      "end_time": 2226.82
+    },
+    {
+      "text": "I think as we continue the conversation, it's.",
+      "speaker_name": "Liz",
+      "start_time": 2226.82,
+      "end_time": 2229.1
+    },
+    {
+      "text": "It's definitely something we're open to.",
+      "speaker_name": "Liz",
+      "start_time": 2229.1,
+      "end_time": 2230.94
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2230.94,
+      "end_time": 2231.26
+    },
+    {
+      "text": "And considering it's.",
+      "speaker_name": "Liz",
+      "start_time": 2231.26,
+      "end_time": 2232.26
+    },
+    {
+      "text": "I don't think it's like a hard.",
+      "speaker_name": "Liz",
+      "start_time": 2232.26,
+      "end_time": 2233.26
+    },
+    {
+      "text": "No, it just depends on where we land with everything.",
+      "speaker_name": "Liz",
+      "start_time": 2233.26,
+      "end_time": 2238.06
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 2238.14,
+      "end_time": 2238.46
+    },
+    {
+      "text": "Like, what is the outcome?",
+      "speaker_name": "Liz",
+      "start_time": 2238.46,
+      "end_time": 2239.34
+    },
+    {
+      "text": "What is the partnership look like?",
+      "speaker_name": "Liz",
+      "start_time": 2239.34,
+      "end_time": 2240.38
+    },
+    {
+      "text": "What is the.",
+      "speaker_name": "Liz",
+      "start_time": 2240.38,
+      "end_time": 2240.78
+    },
+    {
+      "text": "What does the acquisition look like?",
+      "speaker_name": "Liz",
+      "start_time": 2240.78,
+      "end_time": 2241.9
+    },
+    {
+      "text": "What does the structure look like?",
+      "speaker_name": "Liz",
+      "start_time": 2241.9,
+      "end_time": 2243.18
+    },
+    {
+      "text": "And is that the better business opportunity for us?",
+      "speaker_name": "Liz",
+      "start_time": 2243.26,
+      "end_time": 2246.38
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Liz",
+      "start_time": 2246.38,
+      "end_time": 2246.62
+    },
+    {
+      "text": "It's just.",
+      "speaker_name": "Liz",
+      "start_time": 2246.62,
+      "end_time": 2247.02
+    },
+    {
+      "text": "That's the way we.",
+      "speaker_name": "Liz",
+      "start_time": 2247.02,
+      "end_time": 2247.82
+    },
+    {
+      "text": "I think that we would probably look at it.",
+      "speaker_name": "Liz",
+      "start_time": 2247.82,
+      "end_time": 2249.64
+    },
+    {
+      "text": "We're having a lot of fun doing what we're doing right now.",
+      "speaker_name": "Liz",
+      "start_time": 2251.72,
+      "end_time": 2253.88
+    },
+    {
+      "text": "I think people, people between 18 and 27 are also.",
+      "speaker_name": "Liz",
+      "start_time": 2255.24,
+      "end_time": 2258.6
+    },
+    {
+      "text": "Are also really fascinating.",
+      "speaker_name": "Liz",
+      "start_time": 2258.92,
+      "end_time": 2260.32
+    },
+    {
+      "text": "But we also, you know, from the research that we've done, we also align with your mission, for sure.",
+      "speaker_name": "Liz",
+      "start_time": 2260.32,
+      "end_time": 2267.6
+    },
+    {
+      "text": "I just had a son last year.",
+      "speaker_name": "Liz",
+      "start_time": 2267.6,
+      "end_time": 2269.92
+    },
+    {
+      "text": "I have a one year old.",
+      "speaker_name": "Liz",
+      "start_time": 2269.92,
+      "end_time": 2270.84
+    },
+    {
+      "text": "And, you know, I'm thinking a lot about his involvement in technology.",
+      "speaker_name": "Liz",
+      "start_time": 2271.24,
+      "end_time": 2274.52
+    },
+    {
+      "text": "And I have a niece and nephew, that game.",
+      "speaker_name": "Liz",
+      "start_time": 2274.68,
+      "end_time": 2276.24
+    },
+    {
+      "text": "And.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2276.24,
+      "end_time": 2276.58
+    },
+    {
+      "text": "And so it's definitely something that is becoming very personal for me, for sure.",
+      "speaker_name": "Liz",
+      "start_time": 2276.65,
+      "end_time": 2280.89
+    },
+    {
+      "text": "The Internet and safety for children.",
+      "speaker_name": "Liz",
+      "start_time": 2281.13,
+      "end_time": 2283.05
+    },
+    {
+      "text": "And I, you know, when I first started prison, I don't think I.",
+      "speaker_name": "Liz",
+      "start_time": 2283.13,
+      "end_time": 2286.01
+    },
+    {
+      "text": "It was definitely a concern, for sure.",
+      "speaker_name": "Liz",
+      "start_time": 2286.33,
+      "end_time": 2288.13
+    },
+    {
+      "text": "We knew it was an issue, but I think now it's a little more personal.",
+      "speaker_name": "Liz",
+      "start_time": 2288.13,
+      "end_time": 2291.29
+    },
+    {
+      "text": "So, yeah, it's definitely something I'm aligned with, for sure.",
+      "speaker_name": "Liz",
+      "start_time": 2291.37,
+      "end_time": 2295.29
+    },
+    {
+      "text": "And Larry has lots of nieces and nephews, so I think it's definitely worth exploring.",
+      "speaker_name": "Liz",
+      "start_time": 2295.29,
+      "end_time": 2302.09
+    },
+    {
+      "text": "And in terms of what you guys have, as you say, like, having a lot of fun, growing business, good years of profitability, like how.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2304.15,
+      "end_time": 2311.03
+    },
+    {
+      "text": "To the extent you've talked about it at all, like, how.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2312.39,
+      "end_time": 2314.27
+    },
+    {
+      "text": "Have you thought about, like, what types of partnership or what you might want out of a partnership?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2314.27,
+      "end_time": 2317.83
+    },
+    {
+      "text": "And would you want to, like, just.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2317.83,
+      "end_time": 2320.59
+    },
+    {
+      "text": "Yeah, let me.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2320.59,
+      "end_time": 2322.27
+    },
+    {
+      "text": "Yeah, let me leave the question there.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2322.27,
+      "end_time": 2323.83
+    },
+    {
+      "text": "Yeah, I guess I can take this.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2324.63,
+      "end_time": 2326.67
+    },
+    {
+      "text": "I mean, I feel like I said this to Andy and it's like, I think just full cards on the table.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2326.67,
+      "end_time": 2331.38
+    },
+    {
+      "text": "Like, we really are.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2331.38,
+      "end_time": 2333.46
+    },
+    {
+      "text": "We're not putting ourselves on the market.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2333.86,
+      "end_time": 2335.62
+    },
+    {
+      "text": "Like, I think we feel really good about our business.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2336.18,
+      "end_time": 2339.7
+    },
+    {
+      "text": "As I mentioned, it's.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2340.02,
+      "end_time": 2341.1
+    },
+    {
+      "text": "It's a profitable one.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2341.1,
+      "end_time": 2342.18
+    },
+    {
+      "text": "We have seen year over year growth.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2342.42,
+      "end_time": 2344.82
+    },
+    {
+      "text": "We feel really good heading into 20, 26 and beyond.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2345.22,
+      "end_time": 2348.1
+    },
+    {
+      "text": "And so.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2349.06,
+      "end_time": 2349.78
+    },
+    {
+      "text": "We lost him.",
+      "speaker_name": "Liz",
+      "start_time": 2354.67,
+      "end_time": 2355.39
+    },
+    {
+      "text": "I think it cut you out.",
+      "speaker_name": "Liz",
+      "start_time": 2355.95,
+      "end_time": 2357.03
+    },
+    {
+      "text": "Larry, if you're still there.",
+      "speaker_name": "Liz",
+      "start_time": 2357.03,
+      "end_time": 2358.27
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2359.15,
+      "end_time": 2359.59
+    },
+    {
+      "text": "Sorry, I'm back.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2359.59,
+      "end_time": 2360.35
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2360.91,
+      "end_time": 2361.27
+    },
+    {
+      "text": "Just dropped for a second.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2361.27,
+      "end_time": 2362.11
+    },
+    {
+      "text": "Yeah, so, yeah, I mean, like, realistically, like, we feel great about Prism, and we feel like we have a lot of Runway left and opportunity to continue to grow with the resources we do have.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2362.35,
+      "end_time": 2376.83
+    },
+    {
+      "text": "I think, to your point, Kate, like, with greater resources, we can really scale parts of the business.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2377.07,
+      "end_time": 2382.18
+    },
+    {
+      "text": "But I think we also are very focused on just heads down doing the work and growing relationship.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2382.82,
+      "end_time": 2390.22
+    },
+    {
+      "text": "So I guess this is all to say we've not actively really sought out this type of partnership or acquisition opportunity because we have a good thing going and we think we could really ride this out to further growth.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2390.22,
+      "end_time": 2404.34
+    },
+    {
+      "text": "Okay, makes sense.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2407.79,
+      "end_time": 2408.91
+    },
+    {
+      "text": "Have you ever thought about who a perfect acquirer would be?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2411.95,
+      "end_time": 2414.67
+    },
+    {
+      "text": "Well, decent people like yourselves is probably a baseline.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2418.35,
+      "end_time": 2421.63
+    },
+    {
+      "text": "I think there needs to be like, I mean, again, trying to understand kind of what your dream structure would be.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2421.63,
+      "end_time": 2430.11
+    },
+    {
+      "text": "But I think really working with individuals who feel similarly passionate and intelligent and sure.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2430.59,
+      "end_time": 2438.15
+    },
+    {
+      "text": "That same motivation to grow I think is probably table stakes.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2438.15,
+      "end_time": 2441.75
+    },
+    {
+      "text": "I don't know, Liz.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2441.75,
+      "end_time": 2442.47
+    },
+    {
+      "text": "I don't know if we've really never.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2442.47,
+      "end_time": 2444.23
+    },
+    {
+      "text": "Obviously there are a lot of like the larger agency holders out there that.",
+      "speaker_name": "Liz",
+      "start_time": 2444.31,
+      "end_time": 2448.67
+    },
+    {
+      "text": "That have crossed our mind.",
+      "speaker_name": "Liz",
+      "start_time": 2448.67,
+      "end_time": 2450.15
+    },
+    {
+      "text": "I think, you know, we've.",
+      "speaker_name": "Liz",
+      "start_time": 2450.23,
+      "end_time": 2452.03
+    },
+    {
+      "text": "We've been approached by a really large agency that's also been owned by another one of the agency holding companies.",
+      "speaker_name": "Liz",
+      "start_time": 2452.03,
+      "end_time": 2458.43
+    },
+    {
+      "text": "So that was kind of where I think we were tracking in our early days.",
+      "speaker_name": "Liz",
+      "start_time": 2458.43,
+      "end_time": 2462.28
+    },
+    {
+      "text": "We had a direct competitor, which we've totally evolved from, but they were acquired by uta, so a talent, you know, so that was interesting for us.",
+      "speaker_name": "Liz",
+      "start_time": 2462.28,
+      "end_time": 2470.48
+    },
+    {
+      "text": "So there's, I mean, I think there are options.",
+      "speaker_name": "Liz",
+      "start_time": 2471.84,
+      "end_time": 2474
+    },
+    {
+      "text": "Yeah, I mean, I don't know if we've, you know, we've been approached, but again, but it's really.",
+      "speaker_name": "Liz",
+      "start_time": 2476,
+      "end_time": 2480.72
+    },
+    {
+      "text": "We're really heads down, just sort of like focusing on scaling ourselves and growing.",
+      "speaker_name": "Liz",
+      "start_time": 2481.6,
+      "end_time": 2485
+    },
+    {
+      "text": "So it really just depends on the right sort of opportunity that takes shape and what makes sense.",
+      "speaker_name": "Liz",
+      "start_time": 2485,
+      "end_time": 2489.39
+    },
+    {
+      "text": "And we have had a conversation with a mergers and acquisitions person just because we had been approached before.",
+      "speaker_name": "Liz",
+      "start_time": 2489.39,
+      "end_time": 2493.91
+    },
+    {
+      "text": "We were like, okay, we need to prepare for this.",
+      "speaker_name": "Liz",
+      "start_time": 2493.91,
+      "end_time": 2495.71
+    },
+    {
+      "text": "And that was, I think over a year ago.",
+      "speaker_name": "Liz",
+      "start_time": 2496.03,
+      "end_time": 2497.95
+    },
+    {
+      "text": "So we, you know, we've done evaluation and all those things and we have sort of all that in place.",
+      "speaker_name": "Liz",
+      "start_time": 2499.31,
+      "end_time": 2502.83
+    },
+    {
+      "text": "But it's, it's not like.",
+      "speaker_name": "Liz",
+      "start_time": 2502.83,
+      "end_time": 2504.23
+    },
+    {
+      "text": "We're not like sell, you know, we're not out sort of like promoting ourselves for a sell.",
+      "speaker_name": "Liz",
+      "start_time": 2504.23,
+      "end_time": 2508.15
+    },
+    {
+      "text": "But I think it really just depends on the opportunity.",
+      "speaker_name": "Liz",
+      "start_time": 2508.15,
+      "end_time": 2510.27
+    },
+    {
+      "text": "What.",
+      "speaker_name": "Liz",
+      "start_time": 2510.51,
+      "end_time": 2510.87
+    },
+    {
+      "text": "Can I ask what your sort of.",
+      "speaker_name": "Liz",
+      "start_time": 2510.87,
+      "end_time": 2513.39
+    },
+    {
+      "text": "You've mentioned it and I know that Andy and Larry had talked before for.",
+      "speaker_name": "Liz",
+      "start_time": 2513.47,
+      "end_time": 2516.67
+    },
+    {
+      "text": "I wasn't on that call, but are you looking to acquire multiple agencies?",
+      "speaker_name": "Liz",
+      "start_time": 2516.83,
+      "end_time": 2522.03
+    },
+    {
+      "text": "Are you looking for just one that kind of checks a lot of boxes for you and what is kind of your dream acquisition as well?",
+      "speaker_name": "Liz",
+      "start_time": 2522.03,
+      "end_time": 2527.63
+    },
+    {
+      "text": "So we, it might be worth saying we, we have a kind of part of the reason our revenue has been a little bit up and down is we got bought by epic Games in 2020.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2528.75,
+      "end_time": 2540.23
+    },
+    {
+      "text": "So we spent three years being owned by Epic Games and then we bought the company back from Epic at the beginning of last year.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2540.23,
+      "end_time": 2545.93
+    },
+    {
+      "text": "So this is like the first, although we've been around since 2013, this is really like less than year two of kind of the third chapter.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2546.25,
+      "end_time": 2553.45
+    },
+    {
+      "text": "Like first chapter was startup, second chapter was owned by Epic.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2553.45,
+      "end_time": 2556.29
+    },
+    {
+      "text": "This is chapter three.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2556.29,
+      "end_time": 2557.21
+    },
+    {
+      "text": "And so we're kind of putting the thesis together right now for what we think chapter three is.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2557.77,
+      "end_time": 2561.05
+    },
+    {
+      "text": "We do think like acquisitions play a part in this.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2562.01,
+      "end_time": 2564.89
+    },
+    {
+      "text": "I don't, but we want to be pretty selective in this.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2565.13,
+      "end_time": 2567.45
+    },
+    {
+      "text": "So we want to, I think we kind of see us adding like specific areas of capability where we think it extends us.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2567.45,
+      "end_time": 2575.55
+    },
+    {
+      "text": "So I don't think we go around and buy multiple sort of creative strategy and content agencies.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2576.27,
+      "end_time": 2583.39
+    },
+    {
+      "text": "I think we buy one.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2583.39,
+      "end_time": 2584.59
+    },
+    {
+      "text": "What you might then see us do is be like, okay and we're going to do one other thing in the gaming space and we're going to do one other thing in the, you know, in some adjacent type of, inside our adjacent form of media where we think there's opportunity.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2584.83,
+      "end_time": 2597.19
+    },
+    {
+      "text": "We're going to do one thing in the community space.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2597.19,
+      "end_time": 2598.75
+    },
+    {
+      "text": "We're going to go find a discord partner who we think can be really additive.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2598.75,
+      "end_time": 2603.77
+    },
+    {
+      "text": "So I think we will aspirationally I think we do multiple acquisitions but I don't think we go do like multiple types of the same acquisition, if that makes sense.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2604.49,
+      "end_time": 2614.73
+    },
+    {
+      "text": "And I think in terms of what we're looking for, we are looking for.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2615.929,
+      "end_time": 2620.49
+    },
+    {
+      "text": "Yeah, it's as I said up front, we've historically been strong under 13 and we're trying to extend into team now and get stronger in teams.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2620.57,
+      "end_time": 2629.3
+    },
+    {
+      "text": "I think that requires us to have frankly slightly different people capabilities in the building.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2629.38,
+      "end_time": 2635.46
+    },
+    {
+      "text": "Like I think the type of mindset that you bring to doing like really cutting edge, really sort of things that really Resonate with a 16, 17 year old are just different from the kind of heads head you need to bring to a pitch for Lego or something.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2635.46,
+      "end_time": 2649.98
+    },
+    {
+      "text": "And so we're trying to get definitely looking to bring those capabilities in, looking at people who can obviously like we'd want to go build with a team.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2649.98,
+      "end_time": 2658.19
+    },
+    {
+      "text": "You know, I don't think we're not super excited about working with a team who then you know, wants to be out the door straight away totally get and respect that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2658.19,
+      "end_time": 2666.59
+    },
+    {
+      "text": "But I think for what we're looking for we look, we look someone that we could go build with and we'd probably look for people who can be a bit creative and a bit strategic about how they can plug into some of the things that we have under the hood and like help help one get, get more than sum of parts value, get one plus one to equal more than two.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2666.59,
+      "end_time": 2689.04
+    },
+    {
+      "text": "And so whether that's the work we've done on building our data platform, whether that's our existing sort of research and insight capabilities, whether that's how we think about how we can plug into media because we do have a pretty significant YouTube buying solution.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2689.04,
+      "end_time": 2701.48
+    },
+    {
+      "text": "Similarly on connected TV, those are all things which I think we're pretty, we'd hope to find in any deal.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2703.28,
+      "end_time": 2709.84
+    },
+    {
+      "text": "We did.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2709.84,
+      "end_time": 2710.32
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2716,
+      "end_time": 2716.36
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2716.36,
+      "end_time": 2716.8
+    },
+    {
+      "text": "And then so you're.",
+      "speaker_name": "Liz",
+      "start_time": 2716.8,
+      "end_time": 2718.799
+    },
+    {
+      "text": "So you bought the company back from, from Epic Games and so if you're doing these sort of smaller acquisitions, you know, very sort of specific partners, what, what is your end goal?",
+      "speaker_name": "Liz",
+      "start_time": 2719.44,
+      "end_time": 2731.83
+    },
+    {
+      "text": "And I'm just asking this because we had another sort of similar conversation and it's just sort of ringing a bell.",
+      "speaker_name": "Liz",
+      "start_time": 2731.83,
+      "end_time": 2736.07
+    },
+    {
+      "text": "Are you looking to make this, are you looking to completely fold them into your brand?",
+      "speaker_name": "Liz",
+      "start_time": 2737.59,
+      "end_time": 2742.15
+    },
+    {
+      "text": "Are you potentially.",
+      "speaker_name": "Liz",
+      "start_time": 2742.47,
+      "end_time": 2744.07
+    },
+    {
+      "text": "Would we be able to like preserve some of, of Prism's current brand?",
+      "speaker_name": "Liz",
+      "start_time": 2744.15,
+      "end_time": 2748.15
+    },
+    {
+      "text": "I guess that would be my first question.",
+      "speaker_name": "Liz",
+      "start_time": 2748.55,
+      "end_time": 2750.47
+    },
+    {
+      "text": "Yeah, that's a good, that is, that's a good question.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2750.47,
+      "end_time": 2752.79
+    },
+    {
+      "text": "So if I think about like, like the end goal, like the way we talk about what we do is we do like we, what we want to do is deliver to brand like the next generation with next generation and kind of what we mean by that is I do think it is relevant to say that people under the age of 18 are showing up differently on the Internet than previous generations.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2752.79,
+      "end_time": 2771.8
+    },
+    {
+      "text": "And like to a certain extent that's a difference of degree rather than difference of kind.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2771.8,
+      "end_time": 2775.72
+    },
+    {
+      "text": "Like it's not like gaming wasn't important before but I do think if you look at like, like gen Alpha bottom end of Gen Z, look at like how important gaming is, how like, like, like how differently they use social media and sort of like the change to a much more kind of like kind of restrained use of social media, much less keen to share much more kind of buttoned down the kind of emerging social platforms of things like Discord versus like a, even a, even an even an Insta.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2775.72,
+      "end_time": 2807.19
+    },
+    {
+      "text": "I think there's sort of collectively there's probably quite important differences there.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2807.75,
+      "end_time": 2811.35
+    },
+    {
+      "text": "And while we talk to a lot of clients who are like intellectually maybe want to be creative forward or want to be digital content forward, in practice they don't really have much of an ability to work across that ecosystem even structurally.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2811.67,
+      "end_time": 2828.98
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2828.98,
+      "end_time": 2829.26
+    },
+    {
+      "text": "It's not uncommon to see a media team on one Side, a content team on another side, a social team.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2829.26,
+      "end_time": 2833.78
+    },
+    {
+      "text": "On another side, the gaming team being run by the licensing division because they're trying to make money from it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2833.78,
+      "end_time": 2838.82
+    },
+    {
+      "text": "And there is maybe all these points connected to cmo, but maybe they just don't anywhere until you get to the CEO.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2838.82,
+      "end_time": 2844.78
+    },
+    {
+      "text": "And so actually turning all that complexity into something that's actionable is a really big chance for a lot of the clients we work with.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2844.94,
+      "end_time": 2850.91
+    },
+    {
+      "text": "And so we'd like to help build a sort of coherent and cohesive set of solutions that can, that can help them activate and engage their audiences and be successful in that space.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2851.23,
+      "end_time": 2862.71
+    },
+    {
+      "text": "Which means we've got to do creators, we've got to do gaming, we've got to do media and we got to do social video, we got to do strategy, we've got to do research, we got to do data.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2862.71,
+      "end_time": 2868.83
+    },
+    {
+      "text": "And all that stuff needs to come together and be reasonably accessible and sensibly priced and tool supported where it makes sense and all the things.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2868.99,
+      "end_time": 2875.66
+    },
+    {
+      "text": "So that's what we're trying to get to.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2876.29,
+      "end_time": 2877.09
+    },
+    {
+      "text": "We're trying to get to a place where it feels cohesive and well managed and it feels like where we can deliver some kind of outcome for clients.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2877.09,
+      "end_time": 2883.29
+    },
+    {
+      "text": "And it doesn't just feel like seven different people who've never met before sort of trooped into your office one by one and pitch their own, their own book of business.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2883.29,
+      "end_time": 2892.29
+    },
+    {
+      "text": "So we'd like it to feel cohesive.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2892.77,
+      "end_time": 2894.61
+    },
+    {
+      "text": "Does that mean that it has to operate, everything has to operate under the same brand?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2895.01,
+      "end_time": 2900.13
+    },
+    {
+      "text": "Not necessarily.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2902.03,
+      "end_time": 2902.91
+    },
+    {
+      "text": "I think we look at what makes most sense for any given business and any given opportunity.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2902.91,
+      "end_time": 2909.15
+    },
+    {
+      "text": "And frankly, particularly given, as I said, like we would, we definitely wouldn't suggest that anyone fire any of their big clients.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2910.35,
+      "end_time": 2916.19
+    },
+    {
+      "text": "And the super awesome brand is very much an under 18 brand.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2917.39,
+      "end_time": 2919.87
+    },
+    {
+      "text": "There's a fairly obvious thing there which says, well, to the extent you're continuing to serve clients who would not normally be our clients, it probably makes sense for you to do so under a brand that's not super awesome.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2919.87,
+      "end_time": 2928.13
+    },
+    {
+      "text": "So long winded way of saying we would definitely want to get a level of integration sufficient to enable us to deliver that cohesive solution.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2929.48,
+      "end_time": 2936.04
+    },
+    {
+      "text": "But that doesn't necessarily mean we've got to start retiring or killing brands straight out.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2936.04,
+      "end_time": 2939.4
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2940.44,
+      "end_time": 2940.96
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2940.96,
+      "end_time": 2941.4
+    },
+    {
+      "text": "Yeah, that makes sense.",
+      "speaker_name": "Liz",
+      "start_time": 2941.4,
+      "end_time": 2942.36
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2942.36,
+      "end_time": 2943.16
+    },
+    {
+      "text": "No, sorry, Larry, did you do another question?",
+      "speaker_name": "Liz",
+      "start_time": 2943.56,
+      "end_time": 2945.32
+    },
+    {
+      "text": "No, no, no, go ahead, Liz.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2945.8,
+      "end_time": 2947.24
+    },
+    {
+      "text": "I was going to say also like, Andy, like, is it helpful if we jump in with our questions or I don't know if there's other things that.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2947.24,
+      "end_time": 2952.6
+    },
+    {
+      "text": "On the super awesome side, y' all want to cover as well, I think.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2953,
+      "end_time": 2956.3
+    },
+    {
+      "text": "Yeah, I think until we get NDA dap, I think that's actually pretty good.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2957.18,
+      "end_time": 2960.66
+    },
+    {
+      "text": "I think I've got a decent understanding of the business, decent understanding of what you do, decent understanding the client base, decent understanding what you guys looking to get.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2960.66,
+      "end_time": 2966.54
+    },
+    {
+      "text": "So by all means, fire away.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2966.7,
+      "end_time": 2968.14
+    },
+    {
+      "text": "Amazing.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2968.86,
+      "end_time": 2969.42
+    },
+    {
+      "text": "Okay, Liz.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 2969.42,
+      "end_time": 2970.14
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Liz",
+      "start_time": 2971.42,
+      "end_time": 2971.9
+    },
+    {
+      "text": "Well, I just, I don't have to pepper you with so many questions, obviously, but this is coming from another conversation that we had.",
+      "speaker_name": "Liz",
+      "start_time": 2971.9,
+      "end_time": 2978.46
+    },
+    {
+      "text": "Are you thinking of, are you trying to build something.",
+      "speaker_name": "Liz",
+      "start_time": 2978.7,
+      "end_time": 2982.15
+    },
+    {
+      "text": "This is really direct, but are you trying to build something that you can then sell as well, something much larger?",
+      "speaker_name": "Liz",
+      "start_time": 2982.15,
+      "end_time": 2989.19
+    },
+    {
+      "text": "And would you be open to giving this newly acquired partner equity in that larger business?",
+      "speaker_name": "Liz",
+      "start_time": 2989.19,
+      "end_time": 2996.23
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 2997.75,
+      "end_time": 2998.15
+    },
+    {
+      "text": "It's something that you thought about.",
+      "speaker_name": "Liz",
+      "start_time": 2998.15,
+      "end_time": 2999.51
+    },
+    {
+      "text": "You don't have.",
+      "speaker_name": "Liz",
+      "start_time": 2999.59,
+      "end_time": 3000.11
+    },
+    {
+      "text": "Maybe you don't have an answer yet?",
+      "speaker_name": "Liz",
+      "start_time": 3000.11,
+      "end_time": 3001.35
+    },
+    {
+      "text": "Oh, no, no, no, we absolutely do.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3001.75,
+      "end_time": 3003.35
+    },
+    {
+      "text": "Yes, we.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3003.59,
+      "end_time": 3004.27
+    },
+    {
+      "text": "Look, we want to.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3004.27,
+      "end_time": 3004.95
+    },
+    {
+      "text": "Absolutely want to create the putty for everyone involved like we are now ethic or a minority holder.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3004.95,
+      "end_time": 3009.67
+    },
+    {
+      "text": "But broadly apart from that, everything's employee and, and so management bought the company out and paid the money to do it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3009.99,
+      "end_time": 3016.03
+    },
+    {
+      "text": "And then every member of staff has equity at some time.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3016.03,
+      "end_time": 3018.63
+    },
+    {
+      "text": "But we want to.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3019.03,
+      "end_time": 3019.79
+    },
+    {
+      "text": "There's got to be an opportunity for people to realize the equity.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3019.79,
+      "end_time": 3021.75
+    },
+    {
+      "text": "Otherwise there's no.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3021.75,
+      "end_time": 3022.55
+    },
+    {
+      "text": "We, like, we'd like this to be a really good outcome for our staff, but you can't do that unless you have some kind of liquidity then.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3022.95,
+      "end_time": 3028.91
+    },
+    {
+      "text": "So like.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3028.91,
+      "end_time": 3029.43
+    },
+    {
+      "text": "No, we definitely wanted to create that liquidity at some point.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3029.43,
+      "end_time": 3032.31
+    },
+    {
+      "text": "How does that happen?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3033.27,
+      "end_time": 3034.23
+    },
+    {
+      "text": "Maybe at some point you sell the whole thing.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3034.55,
+      "end_time": 3036.23
+    },
+    {
+      "text": "Maybe at some point you go do a big recap and that liquidity for people.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3036.55,
+      "end_time": 3040.85
+    },
+    {
+      "text": "There's a couple of other flavors within that you could imagine, but no, absolutely some point in the next, you know, five to six years maximum.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3041.81,
+      "end_time": 3048.37
+    },
+    {
+      "text": "Maybe a bit sooner than that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3048.53,
+      "end_time": 3049.73
+    },
+    {
+      "text": "We would want to go create liquidity and are we open to acquisitions, taking equity and having a piece in that?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3049.73,
+      "end_time": 3056.57
+    },
+    {
+      "text": "Yeah, absolutely.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3056.57,
+      "end_time": 3057.25
+    },
+    {
+      "text": "We would expect that to be part of the deal.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3058.37,
+      "end_time": 3060.69
+    },
+    {
+      "text": "Okay, thank you.",
+      "speaker_name": "Liz",
+      "start_time": 3063.49,
+      "end_time": 3064.53
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3065.82,
+      "end_time": 3066.3
+    },
+    {
+      "text": "Yeah, I mean, I guess, like you kind of touched upon this, but just like understanding, like how super awesome is like finance, I think it sounds like a big part of that is through Epic Games.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3067.5,
+      "end_time": 3077.42
+    },
+    {
+      "text": "But again, understanding some of this will need to be kind of through the cone of the NDA.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3077.42,
+      "end_time": 3083.06
+    },
+    {
+      "text": "But like, how.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3083.06,
+      "end_time": 3084.78
+    },
+    {
+      "text": "How well financed does the.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3084.94,
+      "end_time": 3087.02
+    },
+    {
+      "text": "Does the team feel?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3087.02,
+      "end_time": 3088.06
+    },
+    {
+      "text": "Yeah, we're.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3089.34,
+      "end_time": 3089.94
+    },
+    {
+      "text": "I mean, look, we're profitable.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3089.94,
+      "end_time": 3091.02
+    },
+    {
+      "text": "We've just had.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3091.1,
+      "end_time": 3091.7
+    },
+    {
+      "text": "We're just about to put the.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3091.7,
+      "end_time": 3092.86
+    },
+    {
+      "text": "Put to bed the most profitable year company's history.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3092.86,
+      "end_time": 3095
+    },
+    {
+      "text": "So think about that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3095.4,
+      "end_time": 3097.4
+    },
+    {
+      "text": "And we've got like a, we've got a very good amount of cash in the bank right now.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3098.52,
+      "end_time": 3106.36
+    },
+    {
+      "text": "So we're not like in.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3108.04,
+      "end_time": 3111.16
+    },
+    {
+      "text": "I got the very rough notes from Andy on just like the very top line on your financials and I obviously don't have any profitability numbers there, but making any kind of sensible assumption about what your profitability might be and putting any kind of sensible multiple on that, we, you know, we would have the money in the bank now to finance that, like just off the balance sheet.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3111.64,
+      "end_time": 3133.78
+    },
+    {
+      "text": "So we wouldn't need to go raise financing to go do that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3133.78,
+      "end_time": 3136.02
+    },
+    {
+      "text": "Obviously, to Liz's point, we absolutely, we would probably expect that there was a component of cash and a component of equity, but at the limit, we've got the cash to go do do deals of this side off the main balance sheet without having to go raise to do it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3136.66,
+      "end_time": 3151.16
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3152.84,
+      "end_time": 3153.8
+    },
+    {
+      "text": "And have you in this kind of new, like third era of super awesome, has there been kind of an acquisition that you felt when successful or that has gone through and like, what was that experience like?",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3153.96,
+      "end_time": 3169.48
+    },
+    {
+      "text": "That's a very good question.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3170.84,
+      "end_time": 3171.88
+    },
+    {
+      "text": "We, I need to be a little bit careful what I say here.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3172.85,
+      "end_time": 3174.85
+    },
+    {
+      "text": "We have not announced any acquisitions, although if we were to be speaking again in January.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3175.01,
+      "end_time": 3182.45
+    },
+    {
+      "text": "Yes, that might be a different answer.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3183.41,
+      "end_time": 3185.41
+    },
+    {
+      "text": "So I can probably say a bit more about that then.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3186.13,
+      "end_time": 3188.85
+    },
+    {
+      "text": "What I would say is I think we've looked at a few things.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3190.29,
+      "end_time": 3196.21
+    },
+    {
+      "text": "I think what that where that has led us to it is there is a certain size which we think makes sense for us.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3198.14,
+      "end_time": 3204.78
+    },
+    {
+      "text": "There is a certain deal structure that we think makes sense for us where we're, you know, we parity about the price and everyone knows what they're getting into and everyone knows what the targets are and things like that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3206.06,
+      "end_time": 3215.26
+    },
+    {
+      "text": "And we have, I think, found it helpful from our side to be quite part of the reason that we spend the first 20 minutes trying to led you drill into to kind of what type of business you guys are and what differentiates you and kind of how you shop in the marketplace and what's important for you and your clients is we've.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3216.54,
+      "end_time": 3233.28
+    },
+    {
+      "text": "We found it quite helpful to be to really focus on trying to build a picture of, okay, what kind of capabilities are we trying to buy, trying to build?",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3233.28,
+      "end_time": 3241.48
+    },
+    {
+      "text": "And does this, does this potential partner or potential acquisition sort of fit into it and if so, where and get really clear about that.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3241.48,
+      "end_time": 3248.92
+    },
+    {
+      "text": "We looked at a couple of things earlier in the year that were like a bit bigger and a bit more diffuse, a bit broader, and did lots and lots of different things and Those may well have been great companies, but they ended up being quite difficult for us to sort of understand how we would join forces and have confidence in a plan.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3249.08,
+      "end_time": 3270.93
+    },
+    {
+      "text": "So we have found it helpful for our sanity to just kind of build quite a tightly defined picture of like, of where, where a potential partner fits into the ecosystem, what they do.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3271.33,
+      "end_time": 3282.86
+    },
+    {
+      "text": "That makes a lot of sense.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3284.78,
+      "end_time": 3285.98
+    },
+    {
+      "text": "Liz, I don't know.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3287.34,
+      "end_time": 3288.26
+    },
+    {
+      "text": "Are there other questions that, that you might have or.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3288.26,
+      "end_time": 3291.3
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3291.3,
+      "end_time": 3291.7
+    },
+    {
+      "text": "Kate, I know you're back.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3291.7,
+      "end_time": 3292.979
+    },
+    {
+      "text": "If there are things that we want to recap or things you want us to.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3292.979,
+      "end_time": 3295.98
+    },
+    {
+      "text": "To re.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3296.14,
+      "end_time": 3296.58
+    },
+    {
+      "text": "Outline.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3296.58,
+      "end_time": 3297.1
+    },
+    {
+      "text": "I will probably have.",
+      "speaker_name": "Liz",
+      "start_time": 3302.14,
+      "end_time": 3303.42
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3303.5,
+      "end_time": 3303.77
+    },
+    {
+      "text": "Like 10 more questions later.",
+      "speaker_name": "Liz",
+      "start_time": 3304.08,
+      "end_time": 3305.76
+    },
+    {
+      "text": "But I think that this was a great first introduction and I think I have a pretty good sense of what, what you're, what you're doing and also certainly the, the holes that you're looking to fill for sure.",
+      "speaker_name": "Liz",
+      "start_time": 3306.24,
+      "end_time": 3316.64
+    },
+    {
+      "text": "So this was super helpful and, and I'm sure I'll have questions if we continue the conversation.",
+      "speaker_name": "Liz",
+      "start_time": 3317.52,
+      "end_time": 3323.36
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3324.08,
+      "end_time": 3324.56
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3324.56,
+      "end_time": 3325.12
+    },
+    {
+      "text": "Well, I think we're about time, so thank you so much.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3325.92,
+      "end_time": 3328.04
+    },
+    {
+      "text": "That was super helpful.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3328.04,
+      "end_time": 3328.88
+    },
+    {
+      "text": "Yeah, we will, Kate and I will try and I think why don't we do this like, let's try and get back to you before the end of the week with at least like a thing that we would suggest happening next.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3329.71,
+      "end_time": 3341.95
+    },
+    {
+      "text": "We, we do a two week winter break over starting from the beginning of next week and so that we won't be back really at the races until the start of January.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3342.59,
+      "end_time": 3350.75
+    },
+    {
+      "text": "So we'll try and get you at least a kind of like, hey, here's what we think comes next note before the end of the week, which might well just be saying something saying hey, let's NDA up if you're up for it.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3350.99,
+      "end_time": 3361.24
+    },
+    {
+      "text": "But one way or another we'll try and get back to you by Friday.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3361.24,
+      "end_time": 3363.32
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3365.24,
+      "end_time": 3365.88
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Liz",
+      "start_time": 3366.6,
+      "end_time": 3367.4
+    },
+    {
+      "text": "Fantastic.",
+      "speaker_name": "Liz",
+      "start_time": 3368.04,
+      "end_time": 3368.68
+    },
+    {
+      "text": "All right, great, thanks.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3368.68,
+      "end_time": 3369.8
+    },
+    {
+      "text": "Thanks so much.",
+      "speaker_name": "Kate O",
+      "start_time": 3370.36,
+      "end_time": 3371
+    },
+    {
+      "text": "So nice to meet you both.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3371.8,
+      "end_time": 3372.8
+    },
+    {
+      "text": "Good to see you, Andy.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3372.8,
+      "end_time": 3373.8
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3373.8,
+      "end_time": 3374.24
+    },
+    {
+      "text": "Good to see you again, Larry.",
+      "speaker_name": "Andy Day",
+      "start_time": 3374.24,
+      "end_time": 3375.32
+    },
+    {
+      "text": "All right, have a great Day, guys.",
+      "speaker_name": "nicholaswalters",
+      "start_time": 3375.48,
+      "end_time": 3376.8
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Larry Milstein",
+      "start_time": 3376.8,
+      "end_time": 3377.24
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Gen Z Marketing",
+      "Youth Safety",
+      "Influencer Campaigns",
+      "Prism Visionaries",
+      "Creative Strategy",
+      "Acquisition Strategy"
+    ],
+    "action_items": "\n**Nicholas Walters**\nProvide a follow-up note by Friday with suggested next steps, potentially including NDA setup (55:24)\n\n**Kate O'Laughlin**\nCollaborate with Nicholas to draft the next step recommendation before end of week (55:24)\n\n**Prism Team (Larry Milstein and Liz)**\nPrepare for continued discussions; anticipate additional questions and information requests for deeper business exploration (55:03)\n\n**Unassigned**\nSchedule further detailed conversations and NDA formalities post-winter break to solidify potential partnership terms (55:24)\n",
+    "outline": null,
+    "overview": "- **Business Overview:** Prism is a youth-focused agency serving brands like Amazon and Netflix through strategy and creative execution.  \n- **Client Services:** They provide 360 campaigns, influencer marketing, and ongoing content production without directly handling media buying.  \n- **Competitive Edge:** Success relies on authentic youth engagement and a talented team that balances creativity with organizational discipline.  \n- **Financial Performance:** Sustained profitability since inception; 2025 projected for high revenue and profitability, focusing on existing client service expansion.  \n- **Partnership Potential:** Collaboration with Super Awesome is promising, aligning client focuses but requiring flexibility to maintain current client relationships.  \n- **Visionaries Program:** A strategic asset for youth insights with plans to scale and integrate advanced tech, constrained by team capacity.",
+    "short_summary": "Prism operates as a hybrid youth-focused agency combining strategy and creative execution, serving major brands like Amazon and Netflix. Their services include 360 brand campaigns and influencer marketing, emphasizing authentic youth engagement through initiatives like the Prism Visionaries program, which involves Gen Z and Gen Alpha contributors. Leadership roles are split between Liz, who manages operations and brand building, and Larry, who focuses on creative strategy. The agency has maintained profitability since inception, with growth opportunities identified in expanding service capacity for existing clients. A potential collaboration with Super Awesome aligns with Prism's youth market focus, but requires flexibility to retain current clients aged 18+. The Visionaries program is seen as a strategic asset with potential for scaling and integrating advanced technology to enhance insights.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01KC9QX8C4CDZY4MNCTXMPKE5E",
+  "audio_url": "https://cdn.fireflies.ai/01KC9QX8C4CDZY4MNCTXMPKE5E/audio.mp3?Expires=1773220831&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0M5UVg4QzRDRFpZNE1OQ1RYTVBLRTVFL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgzMX19fV19&Signature=1CdZQUZn2DqipvXxRnxFko7QwGvUc4~SJg59X6JCth4EihptRoafHL4IRXxY59h62THNDz5OcN7DSL19Mm--4UdESCyuijlK5LinIR7Um2TSw2RnaQciYqSOTzuiXwMmyFSA3OBzN62kSgg83x9SN2oUpkxX7MfhzdsB9nyNkq6nmTyb~WTU9GuCJ4RJYLAFiWc40ZDMVVhpff5BxQemwdLGjDSrStyx-xwrs7q-7thfUQvXzoBkL5u3VQOYLWI1YbciIDIdv4df0O24dev~LaS93-mLwAOUBDXCdUjG45HYbpSmqNB5dXjRdC4w-TkX1Q9gXsmxvqAl4zBUO3c3gA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01KC9QX8C4CDZY4MNCTXMPKE5E/video.mp4?Expires=1773220831&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0M5UVg4QzRDRFpZNE1OQ1RYTVBLRTVFL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgzMX19fV19&Signature=wKbvAYJDvjYOt5oAjM-NS~yyIHPI0xyNZwn-H4NLp5P0MSH2GwgHxf146W7zCo9LKtRLEV50jTLLjSPGV1UVgcwYgQGNmRKjrZ6QKFv99Wds~pSpLUq4YRdRlNMTQQraleIEY8TnsR2TglZCiIQYDOZWeEU2me~Qu2YGNsfVnLgLGuncrqSqtR04hpGc9gK2zQCFdwnjPgWbREeIZUfy8~-Tgfxin6BT63LufJEHwMZppeJMz5df8isaAw7InpN64F4g9r2NVbpevbIi8jd6E9qQiPyE~aXORzqIEHM8FaN3RwlQZEJ~Yx3ylMrKh9ZbDLTVgHRZgCI2F3~L2WDjyw__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

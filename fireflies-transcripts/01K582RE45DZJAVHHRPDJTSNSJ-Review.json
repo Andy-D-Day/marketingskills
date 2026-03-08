@@ -1,0 +1,3947 @@
+{
+  "id": "01K582RE45DZJAVHHRPDJTSNSJ",
+  "title": "Review",
+  "date": 1758036600000,
+  "dateString": "2025-09-16T15:30:00.000Z",
+  "duration": 37.33000183105469,
+  "participants": [
+    "heather.fullerton@capitala.co,andrew.day@capitala.co,jon.simon@capitala.co,andy.day@capitala.co",
+    "andrew.day@capitala.co",
+    "jon.simon@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "heather.fullerton@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jon.simon@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi John.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 36.09,
+      "end_time": 36.57
+    },
+    {
+      "text": "You're driving, right?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 36.65,
+      "end_time": 40.49
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 40.49,
+      "end_time": 41.45
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Jon Simon",
+      "start_time": 42.97,
+      "end_time": 45.37
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 45.37,
+      "end_time": 45.77
+    },
+    {
+      "text": "Wait, what's all this stuff?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 46.41,
+      "end_time": 48.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jon Simon",
+      "start_time": 48.41,
+      "end_time": 48.89
+    },
+    {
+      "text": "Drop kids off.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 52.98,
+      "end_time": 53.78
+    },
+    {
+      "text": "Last minute drop off was two hours ago.",
+      "speaker_name": "Jon Simon",
+      "start_time": 53.78,
+      "end_time": 61.78
+    },
+    {
+      "text": "Oh, what time is it?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 63.06,
+      "end_time": 64.22
+    },
+    {
+      "text": "We drop off early.",
+      "speaker_name": "Jon Simon",
+      "start_time": 64.22,
+      "end_time": 65.06
+    },
+    {
+      "text": "Oh, that's right.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 65.14,
+      "end_time": 66.02
+    },
+    {
+      "text": "Why can't I move?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 66.26,
+      "end_time": 67.419
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 67.419,
+      "end_time": 67.86
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jon Simon",
+      "start_time": 68.74,
+      "end_time": 69.22
+    },
+    {
+      "text": "You'Re a little bit.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 78.04,
+      "end_time": 79
+    },
+    {
+      "text": "Oh God.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 79.64,
+      "end_time": 80.68
+    },
+    {
+      "text": "Stop.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 81.56,
+      "end_time": 81.96
+    },
+    {
+      "text": "Don't show messages again, please.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 82.2,
+      "end_time": 84.16
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 84.16,
+      "end_time": 84.68
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 84.68,
+      "end_time": 85.24
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 89.72,
+      "end_time": 90.24
+    },
+    {
+      "text": "I just talked to Andy a minute ago.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 90.24,
+      "end_time": 91.52
+    },
+    {
+      "text": "You should be here.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 91.52,
+      "end_time": 92.36
+    },
+    {
+      "text": "You might be connectivity wise, a bit tricky.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 92.839,
+      "end_time": 95.72
+    },
+    {
+      "text": "My connection should be good in a few minutes.",
+      "speaker_name": "Jon Simon",
+      "start_time": 111.41,
+      "end_time": 113.17
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 114.05,
+      "end_time": 114.53
+    },
+    {
+      "text": "I can't hear anything you're saying, but it's okay.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 114.53,
+      "end_time": 117.09
+    },
+    {
+      "text": "Okay, so minute.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 118.13,
+      "end_time": 129.14
+    },
+    {
+      "text": "Where's auntie?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 132.74,
+      "end_time": 133.86
+    },
+    {
+      "text": "Come on.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 134.26,
+      "end_time": 134.9
+    },
+    {
+      "text": "Oh, there it is.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 153.22,
+      "end_time": 153.94
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jon Simon",
+      "start_time": 153.94,
+      "end_time": 154.42
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 158.5,
+      "end_time": 158.9
+    },
+    {
+      "text": "Hey John, how you doing?",
+      "speaker_name": "Andrew Day",
+      "start_time": 159.38,
+      "end_time": 160.58
+    },
+    {
+      "text": "All right, good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 160.66,
+      "end_time": 163.22
+    },
+    {
+      "text": "If you can hear me, my service will be better in about three minutes.",
+      "speaker_name": "Jon Simon",
+      "start_time": 164.02,
+      "end_time": 167.14
+    },
+    {
+      "text": "It's got.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 167.38,
+      "end_time": 168.1
+    },
+    {
+      "text": "It's a little bit tricky to hear him.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 168.5,
+      "end_time": 170.34
+    },
+    {
+      "text": "Okay, I want to ask a question first.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 170.74,
+      "end_time": 172.78
+    },
+    {
+      "text": "So we've got 30 minutes I think, right Andy?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 172.78,
+      "end_time": 175.02
+    },
+    {
+      "text": "Then you have to go.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 175.02,
+      "end_time": 175.86
+    },
+    {
+      "text": "That's correct.",
+      "speaker_name": "Andrew Day",
+      "start_time": 176.26,
+      "end_time": 177.14
+    },
+    {
+      "text": "27.",
+      "speaker_name": "Andrew Day",
+      "start_time": 177.14,
+      "end_time": 177.968
+    },
+    {
+      "text": "27, wow.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 178.152,
+      "end_time": 180.18
+    },
+    {
+      "text": "Can you just tell.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 182.47,
+      "end_time": 183.35
+    },
+    {
+      "text": "Can you remind me for three minutes about Eileen?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 183.35,
+      "end_time": 186.31
+    },
+    {
+      "text": "I'm talking to her this afternoon and I can't remember where all this.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 186.31,
+      "end_time": 189.43
+    },
+    {
+      "text": "We got Common Good, we've got Kelly and his stuff.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 189.43,
+      "end_time": 192.59
+    },
+    {
+      "text": "So what, what's going on again?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 192.59,
+      "end_time": 194.55
+    },
+    {
+      "text": "If you can remind me.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 194.55,
+      "end_time": 195.75
+    },
+    {
+      "text": "Yeah, so she is imaginary content.",
+      "speaker_name": "Andrew Day",
+      "start_time": 196.309,
+      "end_time": 200.63
+    },
+    {
+      "text": "She's been a client for about eight or nine months, something like that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 201.51,
+      "end_time": 205.99
+    },
+    {
+      "text": "On the sales side, we did have some offers on the table.",
+      "speaker_name": "Andrew Day",
+      "start_time": 205.99,
+      "end_time": 209.47
+    },
+    {
+      "text": "One walked away, post offer and she turned an offer down off the top of my head.",
+      "speaker_name": "Andrew Day",
+      "start_time": 209.87,
+      "end_time": 215.55
+    },
+    {
+      "text": "And then when I was talking to Common Good, Kelly mentioned that he would like to merge with an agency that creates content for e commerce shops.",
+      "speaker_name": "Andrew Day",
+      "start_time": 216.75,
+      "end_time": 228.51
+    },
+    {
+      "text": "And so obviously we had Eileen in hand already.",
+      "speaker_name": "Andrew Day",
+      "start_time": 228.51,
+      "end_time": 231.71
+    },
+    {
+      "text": "So I mentioned her and he got excited.",
+      "speaker_name": "Andrew Day",
+      "start_time": 232.27,
+      "end_time": 234.19
+    },
+    {
+      "text": "I spoke to Eileen, she was also excited about the prospect of being part of a roll up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 234.86,
+      "end_time": 240.62
+    },
+    {
+      "text": "The issue that she's got, Heather, is she has client concentration of, I want to say 70%, but it could be 50.",
+      "speaker_name": "Andrew Day",
+      "start_time": 240.78,
+      "end_time": 249.34
+    },
+    {
+      "text": "But she's got lots of client concentration with Kraft Heinz and that kind of has been an issue with, with pricing for her.",
+      "speaker_name": "Andrew Day",
+      "start_time": 249.9,
+      "end_time": 262.269
+    },
+    {
+      "text": "But obviously if we were to put her in the mix of three, four, five other agencies, that client concentration wouldn't necessarily be there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 262.269,
+      "end_time": 270.029
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 270.429,
+      "end_time": 270.909
+    },
+    {
+      "text": "So it does make sense for her to be part of a bigger group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 272.029,
+      "end_time": 276.029
+    },
+    {
+      "text": "She already paid a very small fee to enter $7,000.",
+      "speaker_name": "Andrew Day",
+      "start_time": 277.068,
+      "end_time": 282.749
+    },
+    {
+      "text": "I've been hanging on to get somebody else signed in so that we had a bit of money in the pot.",
+      "speaker_name": "Andrew Day",
+      "start_time": 283.949,
+      "end_time": 291.56
+    },
+    {
+      "text": "But essentially we do need to get started with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 292.6,
+      "end_time": 295
+    },
+    {
+      "text": "With her.",
+      "speaker_name": "Andrew Day",
+      "start_time": 295.72,
+      "end_time": 296.36
+    },
+    {
+      "text": "I Mean, she's, she's committed, she's in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 296.52,
+      "end_time": 298.68
+    },
+    {
+      "text": "So if Kelly doesn't come on board, we need to start building something around her or put her into one of the, the other groups where it makes sense.",
+      "speaker_name": "Andrew Day",
+      "start_time": 299,
+      "end_time": 306.92
+    },
+    {
+      "text": "Obviously you're the guru there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 306.92,
+      "end_time": 309.24
+    },
+    {
+      "text": "So I think today is just about a sort of reset.",
+      "speaker_name": "Andrew Day",
+      "start_time": 311.4,
+      "end_time": 314.12
+    },
+    {
+      "text": "Like, okay, what is it that, that she is wanting to get out of it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 314.12,
+      "end_time": 318.92
+    },
+    {
+      "text": "Where would she fit in a bigger business?",
+      "speaker_name": "Andrew Day",
+      "start_time": 318.92,
+      "end_time": 321.68
+    },
+    {
+      "text": "It's a case of us tracking down stuff to get it to all work, I guess.",
+      "speaker_name": "Andrew Day",
+      "start_time": 323.12,
+      "end_time": 329.52
+    },
+    {
+      "text": "But she liked the idea of common good.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 331.68,
+      "end_time": 338.32
+    },
+    {
+      "text": "It's just a question if he's gonna rock up to the table or not.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 338.32,
+      "end_time": 343.12
+    },
+    {
+      "text": "On.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 343.56,
+      "end_time": 343.8
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 345.4,
+      "end_time": 345.88
+    },
+    {
+      "text": "So he told us that he was doing 1.4 million EBITDA and then all of a sudden he wasn't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 346.12,
+      "end_time": 352.28
+    },
+    {
+      "text": "I think it was, I think the last number he gave him was like 400k or something.",
+      "speaker_name": "Andrew Day",
+      "start_time": 353.64,
+      "end_time": 357.28
+    },
+    {
+      "text": "It was a lot different.",
+      "speaker_name": "Andrew Day",
+      "start_time": 357.28,
+      "end_time": 358.12
+    },
+    {
+      "text": "Still profitable.",
+      "speaker_name": "Andrew Day",
+      "start_time": 359.48,
+      "end_time": 360.36
+    },
+    {
+      "text": "But he has fluctuations depending on the big contracts.",
+      "speaker_name": "Andrew Day",
+      "start_time": 360.36,
+      "end_time": 364.08
+    },
+    {
+      "text": "But he was telling me that he does have this contract that's worth millions that should close in September.",
+      "speaker_name": "Andrew Day",
+      "start_time": 364.08,
+      "end_time": 369.32
+    },
+    {
+      "text": "So that's why I'm waiting on, so he can confirm whether he's back in or not.",
+      "speaker_name": "Andrew Day",
+      "start_time": 369.32,
+      "end_time": 373.18
+    },
+    {
+      "text": "But he's also, he has also spoken to tsg, which is another one of our sell side clients that does retail media software.",
+      "speaker_name": "Andrew Day",
+      "start_time": 373.5,
+      "end_time": 382.38
+    },
+    {
+      "text": "It's pretty nifty piece of kit, actually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 382.7,
+      "end_time": 385.74
+    },
+    {
+      "text": "So basically it's real world ad space, you know, like on the edges of shelves in shopping, you know, in supermarkets or display units, you can actually book and buy those through the software like you can with online ads.",
+      "speaker_name": "Andrew Day",
+      "start_time": 386.54,
+      "end_time": 402.34
+    },
+    {
+      "text": "And they're already established in the UK and Australia and France and Germany, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 402.34,
+      "end_time": 408.94
+    },
+    {
+      "text": "And so Kelly is able, because of all of his retail clients, to bring them into the US and they're not the only people that are talking to them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 411.18,
+      "end_time": 417.5
+    },
+    {
+      "text": "But Kelly was really excited and so was tst our client, to be part of a roll up, potentially.",
+      "speaker_name": "Andrew Day",
+      "start_time": 417.5,
+      "end_time": 425.97
+    },
+    {
+      "text": "I don't think they'll come in because they've got a lot of suitors and they're getting valuations at 20x, you know, because they're a software where they're kind.",
+      "speaker_name": "Andrew Day",
+      "start_time": 425.97,
+      "end_time": 434.97
+    },
+    {
+      "text": "Of software because you're making little pieces of paper that you're sticking on the edge of a shelf.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 434.97,
+      "end_time": 439.49
+    },
+    {
+      "text": "Undoubtedly.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 439.49,
+      "end_time": 440.37
+    },
+    {
+      "text": "They'Re not making it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 442.69,
+      "end_time": 443.53
+    },
+    {
+      "text": "They've got the software where you can book it in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 443.53,
+      "end_time": 445.17
+    },
+    {
+      "text": "So if you're like Smirnoff or something and you've got a new campaign, a different type of vodka that you want.",
+      "speaker_name": "Andrew Day",
+      "start_time": 445.17,
+      "end_time": 449.97
+    },
+    {
+      "text": "To put, you want to book into the, the end, whatever the, whatever those things are called, the she there and.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 449.97,
+      "end_time": 455.51
+    },
+    {
+      "text": "Put all the display units around a certain like, you know, where all the liquor is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 455.51,
+      "end_time": 460.03
+    },
+    {
+      "text": "Then they can book it in directly and they can book it across like you know, 400 stores across the Midwest and they, you know, they can aim for like stores that are strong in 20 to 35, et cetera.",
+      "speaker_name": "Andrew Day",
+      "start_time": 460.43,
+      "end_time": 470.35
+    },
+    {
+      "text": "It's a great piece of kit but it is booking physical ad space.",
+      "speaker_name": "Andrew Day",
+      "start_time": 470.99,
+      "end_time": 474.43
+    },
+    {
+      "text": "So they have that and I think we'll probably find them a buyer eventually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 476.11,
+      "end_time": 480.35
+    },
+    {
+      "text": "I mean we are nine months those guys as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 480.35,
+      "end_time": 483.24
+    },
+    {
+      "text": "But we've had a lot of big, you know, Ziff Davis had a six month conversation with us before they, they walked away.",
+      "speaker_name": "Andrew Day",
+      "start_time": 483.24,
+      "end_time": 491.24
+    },
+    {
+      "text": "So I think we, we will get them a buyer but they're also interested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 491.24,
+      "end_time": 496.52
+    },
+    {
+      "text": "So what's interesting about this, this thing is that there is a lot around there but I think we just need to close some more sellers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 496.52,
+      "end_time": 504.76
+    },
+    {
+      "text": "More sellers around Eileen or Kelly if, whether or.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 506.52,
+      "end_time": 511
+    },
+    {
+      "text": "Not Kelly and Kelly, if he comes on board.",
+      "speaker_name": "Andrew Day",
+      "start_time": 511,
+      "end_time": 512.92
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 512.92,
+      "end_time": 513.35
+    },
+    {
+      "text": "So my, my goal is just to get, I need to get to know her better which is I want, I thought she was in the city.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 513.5,
+      "end_time": 518.3
+    },
+    {
+      "text": "I was going to go see her and then I realized she's in Connecticut.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 518.3,
+      "end_time": 520.94
+    },
+    {
+      "text": "So what I'll do is I'll just have a call with her now this afternoon and then I don't know how far it is from my daughter's school but I'll be going up and back in the next month so I can also go by and see her facilities.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 520.94,
+      "end_time": 532.38
+    },
+    {
+      "text": "She might have a studio on the edge of New York or something.",
+      "speaker_name": "Andrew Day",
+      "start_time": 532.78,
+      "end_time": 535.1
+    },
+    {
+      "text": "I think she got something else at Connecticut.",
+      "speaker_name": "Andrew Day",
+      "start_time": 535.26,
+      "end_time": 539.02
+    },
+    {
+      "text": "She, she is in Connecticut.",
+      "speaker_name": "Andrew Day",
+      "start_time": 539.72,
+      "end_time": 541.12
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 541.12,
+      "end_time": 541.48
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 542.04,
+      "end_time": 542.6
+    },
+    {
+      "text": "Well, great question.",
+      "speaker_name": "Andrew Day",
+      "start_time": 542.6,
+      "end_time": 545.04
+    },
+    {
+      "text": "Was her, was her inquiry about like rate cards and pricing was.",
+      "speaker_name": "Jon Simon",
+      "start_time": 545.04,
+      "end_time": 550.04
+    },
+    {
+      "text": "Oh yeah, yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 550.52,
+      "end_time": 551.72
+    },
+    {
+      "text": "Because I'm, I, I, you know, knowing how agencies, especially indies are kind of very loose with how they do it, they probably provide a rate card to larger procurement teams but the smaller clients.",
+      "speaker_name": "Jon Simon",
+      "start_time": 553.72,
+      "end_time": 566.37
+    },
+    {
+      "text": "I understand her comment of making bespoke budgets.",
+      "speaker_name": "Jon Simon",
+      "start_time": 566.37,
+      "end_time": 569.17
+    },
+    {
+      "text": "Her budget I'm sure could range from 10,000 to a million depending on the client's pocketbook.",
+      "speaker_name": "Jon Simon",
+      "start_time": 570.05,
+      "end_time": 575.57
+    },
+    {
+      "text": "So I'm curious what she was hoping to solve there.",
+      "speaker_name": "Jon Simon",
+      "start_time": 575.57,
+      "end_time": 580.61
+    },
+    {
+      "text": "I think it was more Kelly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 581.89,
+      "end_time": 583.25
+    },
+    {
+      "text": "So when we spoke to Kelly, if you remember, he said they've got a brilliant biz dev team.",
+      "speaker_name": "Andrew Day",
+      "start_time": 583.97,
+      "end_time": 588.61
+    },
+    {
+      "text": "So what Kelly is saying is that they can win loads more business than they are winning but they just don't have the services.",
+      "speaker_name": "Andrew Day",
+      "start_time": 589.49,
+      "end_time": 598.02
+    },
+    {
+      "text": "And part of it is this content production that Eileen is doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 598.58,
+      "end_time": 602.58
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jon Simon",
+      "start_time": 603.38,
+      "end_time": 603.78
+    },
+    {
+      "text": "So what they were saying was we could easily go to some of our big brands.",
+      "speaker_name": "Andrew Day",
+      "start_time": 604.26,
+      "end_time": 610.02
+    },
+    {
+      "text": "They're enormous retail brands.",
+      "speaker_name": "Andrew Day",
+      "start_time": 610.74,
+      "end_time": 612.46
+    },
+    {
+      "text": "As well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 612.46,
+      "end_time": 612.74
+    },
+    {
+      "text": "Like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 612.74,
+      "end_time": 613.06
+    },
+    {
+      "text": "Well, not same type of company as Kraft Heinz.",
+      "speaker_name": "Andrew Day",
+      "start_time": 613.22,
+      "end_time": 617.14
+    },
+    {
+      "text": "They can go to those big manufacturers or whatever you call them and pitch in these same services as part of what they're already providing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 617.62,
+      "end_time": 626.06
+    },
+    {
+      "text": "They're asking for these types of content creation services.",
+      "speaker_name": "Andrew Day",
+      "start_time": 626.78,
+      "end_time": 629.98
+    },
+    {
+      "text": "But they're obviously either they do pitch it in and they farm it out to a small local shop that does what Eileen does, but does it really badly, or they just don't pitch it in because.",
+      "speaker_name": "Andrew Day",
+      "start_time": 631.26,
+      "end_time": 642.38
+    },
+    {
+      "text": "And they've tried it themselves and they're just making it up as they go along so that they don't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 642.38,
+      "end_time": 646.74
+    },
+    {
+      "text": "They're not excelling at it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 646.74,
+      "end_time": 648.7
+    },
+    {
+      "text": "So the idea was, you know, they could sell more of that for Eileen as well, which I do believe them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 649.02,
+      "end_time": 654.66
+    },
+    {
+      "text": "I think they've got a bit of a machine there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 654.66,
+      "end_time": 656.78
+    },
+    {
+      "text": "You know, she's not 100% trusted.",
+      "speaker_name": "Andrew Day",
+      "start_time": 659.98,
+      "end_time": 661.54
+    },
+    {
+      "text": "And why should she at this stage as well?",
+      "speaker_name": "Andrew Day",
+      "start_time": 661.54,
+      "end_time": 662.98
+    },
+    {
+      "text": "They've not even signed come in and.",
+      "speaker_name": "Andrew Day",
+      "start_time": 662.98,
+      "end_time": 666.22
+    },
+    {
+      "text": "400 is too low.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 666.86,
+      "end_time": 668.62
+    },
+    {
+      "text": "So we're just going to wait and see if they sign their other bigger deal.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 668.7,
+      "end_time": 671.62
+    },
+    {
+      "text": "And if they do, they may decide they don't want to come in at all because they'll make plenty of money, or then they're in a position to bring in more business and then we can have more participants.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 671.62,
+      "end_time": 683.66
+    },
+    {
+      "text": "But she would be the cornerstone versus them.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 683.74,
+      "end_time": 686.3
+    },
+    {
+      "text": "Yeah, I mean, if we could get them both in, it would be better because also Kelly's bringing in LaRue as well, which is a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 687.02,
+      "end_time": 694.78
+    },
+    {
+      "text": "Is a PR company.",
+      "speaker_name": "Andrew Day",
+      "start_time": 694.78,
+      "end_time": 696.22
+    },
+    {
+      "text": "They did lots of launches around.",
+      "speaker_name": "Andrew Day",
+      "start_time": 696.22,
+      "end_time": 697.66
+    },
+    {
+      "text": "Have we talked to LaRue yet?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 698.14,
+      "end_time": 699.74
+    },
+    {
+      "text": "Not yet.",
+      "speaker_name": "Andrew Day",
+      "start_time": 700.33,
+      "end_time": 700.65
+    },
+    {
+      "text": "He keeps promising that he's going to bring.",
+      "speaker_name": "Andrew Day",
+      "start_time": 700.65,
+      "end_time": 702.25
+    },
+    {
+      "text": "Why don't we just.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 702.25,
+      "end_time": 702.97
+    },
+    {
+      "text": "Oh, we can't reach out on our own.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 702.97,
+      "end_time": 704.49
+    },
+    {
+      "text": "Well, we could do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 705.29,
+      "end_time": 706.13
+    },
+    {
+      "text": "We could just say, look, we're going to speak to LaRue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 706.13,
+      "end_time": 708.17
+    },
+    {
+      "text": "Yeah, let's talk to him.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 708.25,
+      "end_time": 709.37
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 709.53,
+      "end_time": 709.97
+    },
+    {
+      "text": "I mean, there's no.",
+      "speaker_name": "Andrew Day",
+      "start_time": 709.97,
+      "end_time": 710.77
+    },
+    {
+      "text": "There's no agreement why we wouldn't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 710.77,
+      "end_time": 712.73
+    },
+    {
+      "text": "So we could just push for that and have that conversation parallel with what Kelly's doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 712.73,
+      "end_time": 717.93
+    },
+    {
+      "text": "I mean, they've heard him pitch us a couple of times now, so they are interested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 718.01,
+      "end_time": 723.61
+    },
+    {
+      "text": "They want to come on board as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 724.49,
+      "end_time": 725.85
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 725.85,
+      "end_time": 726.17
+    },
+    {
+      "text": "Anyway.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 728.2,
+      "end_time": 728.48
+    },
+    {
+      "text": "But I guess what we're missing is Kelly's commitment.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 728.48,
+      "end_time": 730.84
+    },
+    {
+      "text": "Would you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 731.16,
+      "end_time": 731.72
+    },
+    {
+      "text": "His commitment if he only was at 400,000, would you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 731.8,
+      "end_time": 736.04
+    },
+    {
+      "text": "But he said, I still want to sign because I think we're growing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 736.2,
+      "end_time": 738.6
+    },
+    {
+      "text": "Would you accept him as part of it?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 738.6,
+      "end_time": 740.52
+    },
+    {
+      "text": "I think I would.",
+      "speaker_name": "Andrew Day",
+      "start_time": 740.84,
+      "end_time": 741.56
+    },
+    {
+      "text": "Just to loosen the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 741.56,
+      "end_time": 742.84
+    },
+    {
+      "text": "The wheels on this one and get things started.",
+      "speaker_name": "Andrew Day",
+      "start_time": 742.92,
+      "end_time": 745.56
+    },
+    {
+      "text": "Because Eileen is at 1.4 million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 745.72,
+      "end_time": 748.76
+    },
+    {
+      "text": "It would still take us very close to 2 million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 748.84,
+      "end_time": 751.6
+    },
+    {
+      "text": "EBITDA.",
+      "speaker_name": "Andrew Day",
+      "start_time": 751.6,
+      "end_time": 752.28
+    },
+    {
+      "text": "And then if LaRue comes out, I don't know what size they are, but say they were half a million as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 753.23,
+      "end_time": 757.27
+    },
+    {
+      "text": "That's two and a half million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 757.27,
+      "end_time": 758.11
+    },
+    {
+      "text": "We're kind of half the way there to getting the metrics changed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 758.11,
+      "end_time": 762.35
+    },
+    {
+      "text": "We'd only need a couple more agents to do it and we would have a nice little group that we started with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 762.35,
+      "end_time": 769.31
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 769.95,
+      "end_time": 770.35
+    },
+    {
+      "text": "So I think I would be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 770.35,
+      "end_time": 771.59
+    },
+    {
+      "text": "I am prepared to be a bit more flexible.",
+      "speaker_name": "Andrew Day",
+      "start_time": 771.59,
+      "end_time": 773.47
+    },
+    {
+      "text": "And I kind of said as much to Kelly, like, maybe we could look at this in a slightly different way.",
+      "speaker_name": "Andrew Day",
+      "start_time": 773.47,
+      "end_time": 777.87
+    },
+    {
+      "text": "It gets us off the starting grid, gets us a track record, and we can kind of start to go a bit more public, you know, with the group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 778.03,
+      "end_time": 787.27
+    },
+    {
+      "text": "One of the other things I was thinking, though, Heather, did I send you an email about this or did I dream it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 788.55,
+      "end_time": 793.91
+    },
+    {
+      "text": "Tell me.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 796.23,
+      "end_time": 796.67
+    },
+    {
+      "text": "I'll let you know about whether we were.",
+      "speaker_name": "Andrew Day",
+      "start_time": 796.67,
+      "end_time": 799.67
+    },
+    {
+      "text": "Whether we were able to see briefs that would fit for agency A teams.",
+      "speaker_name": "Andrew Day",
+      "start_time": 800.31,
+      "end_time": 805.35
+    },
+    {
+      "text": "You know, if you wrote something like that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 805.35,
+      "end_time": 808.23
+    },
+    {
+      "text": "But I didn't get it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 808.23,
+      "end_time": 809.07
+    },
+    {
+      "text": "So you half dreamed it and half wrote it, and I did not comprehend.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 809.07,
+      "end_time": 812.19
+    },
+    {
+      "text": "Was John on that one too?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 812.27,
+      "end_time": 813.79
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jon Simon",
+      "start_time": 813.87,
+      "end_time": 814.35
+    },
+    {
+      "text": "I think you're saying, let's give Eileen a couple sample briefs of what we would need.",
+      "speaker_name": "Jon Simon",
+      "start_time": 814.75,
+      "end_time": 819.87
+    },
+    {
+      "text": "And she.",
+      "speaker_name": "Andrew Day",
+      "start_time": 820.83,
+      "end_time": 821.39
+    },
+    {
+      "text": "I was saying because obviously there's briefs that are at a slightly higher level than maybe what, even common good?",
+      "speaker_name": "Andrew Day",
+      "start_time": 822.75,
+      "end_time": 830.83
+    },
+    {
+      "text": "I mean, common good probably see them anyway.",
+      "speaker_name": "Andrew Day",
+      "start_time": 830.83,
+      "end_time": 832.67
+    },
+    {
+      "text": "But what common good and imaginary content and LaRue together could do that at the agency A level, Maybe we would see the briefs because particularly you, John, but Heather as well would be in that network where the brands are farming the briefs out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 833.17,
+      "end_time": 853.49
+    },
+    {
+      "text": "And we could pitch.",
+      "speaker_name": "Andrew Day",
+      "start_time": 853.49,
+      "end_time": 854.37
+    },
+    {
+      "text": "Think about a group pitching for work at the group level.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 854.53,
+      "end_time": 858.61
+    },
+    {
+      "text": "Do you think those briefs would just come through the founder agencies, or is there a way we could bring those in and coordinate?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 858.61,
+      "end_time": 865.95
+    },
+    {
+      "text": "You mean like we have smeared off and we say, here's a total proposition?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 866.11,
+      "end_time": 874.19
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 874.19,
+      "end_time": 874.43
+    },
+    {
+      "text": "Then I think we become the agency.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 874.43,
+      "end_time": 876.15
+    },
+    {
+      "text": "I don't.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 876.15,
+      "end_time": 876.55
+    },
+    {
+      "text": "I'm.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 876.55,
+      "end_time": 876.83
+    },
+    {
+      "text": "I'm.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 876.83,
+      "end_time": 877.23
+    },
+    {
+      "text": "Yeah, I think.",
+      "speaker_name": "Jon Simon",
+      "start_time": 877.47,
+      "end_time": 878.19
+    },
+    {
+      "text": "I think our question leads to who's the lead?",
+      "speaker_name": "Jon Simon",
+      "start_time": 878.27,
+      "end_time": 880.43
+    },
+    {
+      "text": "Well, say.",
+      "speaker_name": "Andrew Day",
+      "start_time": 881.55,
+      "end_time": 882.11
+    },
+    {
+      "text": "We'll say I don't want to be.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 882.11,
+      "end_time": 883.55
+    },
+    {
+      "text": "We don't want to be pitching.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 883.55,
+      "end_time": 884.67
+    },
+    {
+      "text": "No, but say that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 884.99,
+      "end_time": 886.19
+    },
+    {
+      "text": "Say that Kelly was the lead and he was going to pitch it anyway, but it just came through.",
+      "speaker_name": "Andrew Day",
+      "start_time": 887.87,
+      "end_time": 892.75
+    },
+    {
+      "text": "I don't know how.",
+      "speaker_name": "Andrew Day",
+      "start_time": 893.42,
+      "end_time": 893.9
+    },
+    {
+      "text": "I don't know what the terminology is, but if it came through at agency A level and that we owned, I'm thinking about revenue for us without us doing the work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 893.9,
+      "end_time": 902.54
+    },
+    {
+      "text": "I'm not suggesting that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 902.62,
+      "end_time": 903.82
+    },
+    {
+      "text": "But if it came through at agency A level and we farmed it to Kelly somehow or there was some way of it existing above Kelly, it would be owned at the agency.",
+      "speaker_name": "Andrew Day",
+      "start_time": 904.3,
+      "end_time": 919.1
+    },
+    {
+      "text": "A level.",
+      "speaker_name": "Andrew Day",
+      "start_time": 919.1,
+      "end_time": 920.1
+    },
+    {
+      "text": "Not only would that give us some revenue, but also it would mean that we could spread it across the group more easily because it wouldn't just be Kelly telling everybody what to do, for instance, which might wind Eileen up after a few months of him trying to sell everybody's agencies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 921.06,
+      "end_time": 940.18
+    },
+    {
+      "text": "Maybe one to think about another time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 941.86,
+      "end_time": 943.78
+    },
+    {
+      "text": "I'm not sure I fully understand, but let's revisit that because I want to go through the other topics before I lose you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 944.18,
+      "end_time": 949.78
+    },
+    {
+      "text": "I don't fully understand.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 950.18,
+      "end_time": 952.1
+    },
+    {
+      "text": "Here would be my question.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 952.74,
+      "end_time": 953.78
+    },
+    {
+      "text": "If you can think, I'll think about it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 953.78,
+      "end_time": 955.06
+    },
+    {
+      "text": "But if you can think about how do we bring in business or pitch at our level without us doing the work to bring everybody, like that's work to bring everybody together and have everybody's capabilities in there and go sit in a room.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 955.06,
+      "end_time": 971.78
+    },
+    {
+      "text": "So I'm not sure I exactly understand if it's a one off thing where we create an overarching deck that supports the whole group.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 971.78,
+      "end_time": 979.56
+    },
+    {
+      "text": "Maybe, but I can't imagine us walking into clients and saying, hey, I can't.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 980.36,
+      "end_time": 985.8
+    },
+    {
+      "text": "But it doesn't mean it's not possible.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 985.8,
+      "end_time": 987.08
+    },
+    {
+      "text": "I just can't.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 987.08,
+      "end_time": 987.76
+    },
+    {
+      "text": "I don't see it yet.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 987.76,
+      "end_time": 988.88
+    },
+    {
+      "text": "Yeah, okay, maybe I just don't understand the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 988.88,
+      "end_time": 991.24
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "Andrew Day",
+      "start_time": 991.24,
+      "end_time": 991.96
+    },
+    {
+      "text": "Because that's an area that I would definitely have a lot of input into.",
+      "speaker_name": "Jon Simon",
+      "start_time": 994.04,
+      "end_time": 997.08
+    },
+    {
+      "text": "I think the first thing we want from each group is a general capabilities like I'd like outside of what they.",
+      "speaker_name": "Jon Simon",
+      "start_time": 997.64,
+      "end_time": 1002.92
+    },
+    {
+      "text": "I'd like to see what they present to clients as general capabilities.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1002.92,
+      "end_time": 1005.72
+    },
+    {
+      "text": "If they want something specific, just ask them to give a couple recent samples.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1005.72,
+      "end_time": 1010.35
+    },
+    {
+      "text": "You know, they don't even have to build something new.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1010.35,
+      "end_time": 1012.31
+    },
+    {
+      "text": "They could just give us their last couple decks they shared out.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1012.31,
+      "end_time": 1015.07
+    },
+    {
+      "text": "I'd like to take a look at each of theirs and connect some of the dots first before we start to say what makes the most sense.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1015.55,
+      "end_time": 1021.91
+    },
+    {
+      "text": "Because to be honest, we want the team with the best project management.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1021.91,
+      "end_time": 1025.07
+    },
+    {
+      "text": "It's less account management that we need.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1025.79,
+      "end_time": 1028.03
+    },
+    {
+      "text": "It's more, you know, if they have a great sales team, that's awesome.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1028.03,
+      "end_time": 1030.75
+    },
+    {
+      "text": "But the project management is really where that orchestration is going to lie.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1031.31,
+      "end_time": 1034.99
+    },
+    {
+      "text": "I think where I'm thinking about this, John, is when Heather and well, Heather was mostly responsible for this hovercraft deal that we did last year.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1036.14,
+      "end_time": 1044.86
+    },
+    {
+      "text": "And then so we had OMM and hovercraft integrated into one business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1045.34,
+      "end_time": 1050.54
+    },
+    {
+      "text": "So I think OMM started to get called Hovercraft UK or Europe or something like that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1051.42,
+      "end_time": 1056.62
+    },
+    {
+      "text": "And then what they did is they pulled all of their capabilities decks and pitch decks and case studies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1057.26,
+      "end_time": 1064.14
+    },
+    {
+      "text": "They just branded the whole thing as hovercraft.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1065.05,
+      "end_time": 1068.25
+    },
+    {
+      "text": "I mean, this is just standard stuff anyway when you're merging businesses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1068.49,
+      "end_time": 1072.33
+    },
+    {
+      "text": "But now they're going out at the Skyview level with this hovercraft capabilities deck, which covers all of the businesses across Europe and the US And I guess I kind of thought what would happen if we had.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1072.65,
+      "end_time": 1090.53
+    },
+    {
+      "text": "It wouldn't have to be an HCA deck.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1090.53,
+      "end_time": 1092.09
+    },
+    {
+      "text": "It could be that it is a common good deck branded, but that we pass it out to our network or whatever way and the business comes just through a slightly higher level of us rather than it comes through the front door for common good, if you know what I mean.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1092.09,
+      "end_time": 1111.48
+    },
+    {
+      "text": "But if it's too tricky or it would end up with us managing it and pitching it, then it isn't worth it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1111.88,
+      "end_time": 1118.12
+    },
+    {
+      "text": "The only reason it might be slight.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1118.61,
+      "end_time": 1120.01
+    },
+    {
+      "text": "I mean, again, let's, let's.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1120.01,
+      "end_time": 1121.49
+    },
+    {
+      "text": "We can wrap up this topic and think about it some more because I don't know the answer and I would never say no to any.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1121.65,
+      "end_time": 1126.05
+    },
+    {
+      "text": "I mean, like, nothing is impossible.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1126.05,
+      "end_time": 1127.85
+    },
+    {
+      "text": "It's just what makes sense.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1127.85,
+      "end_time": 1129.17
+    },
+    {
+      "text": "But the reason I think it works with hovercraft and skyview is that Jeff is the eternal salesman.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1129.57,
+      "end_time": 1141.01
+    },
+    {
+      "text": "So he'll pitch any thing to anybody with, with zest and vigor.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1141.01,
+      "end_time": 1145.34
+    },
+    {
+      "text": "And so that's one thing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1145.9,
+      "end_time": 1147.54
+    },
+    {
+      "text": "All you have to do is hand him a deck and he'll tell people what they already know or sell them whatever they need or whatever.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1147.54,
+      "end_time": 1152.38
+    },
+    {
+      "text": "So he's very good at sales.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1152.38,
+      "end_time": 1153.98
+    },
+    {
+      "text": "But I also think it really represents hovercraft.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1154.38,
+      "end_time": 1157.78
+    },
+    {
+      "text": "Plus it's mostly the hovercraft offerings.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1157.78,
+      "end_time": 1160.54
+    },
+    {
+      "text": "I feel that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1160.54,
+      "end_time": 1161.34
+    },
+    {
+      "text": "I don't know how they do project management now, but that feels a little bit different than this.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1162.46,
+      "end_time": 1166.82
+    },
+    {
+      "text": "But maybe it wouldn't be in the future if you have a strong, at least one strong agency, which was hovercraft.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1166.82,
+      "end_time": 1173.79
+    },
+    {
+      "text": "They great work.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1173.79,
+      "end_time": 1174.63
+    },
+    {
+      "text": "They manage their clients really well.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1175.03,
+      "end_time": 1176.95
+    },
+    {
+      "text": "They know how to talk to clients.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1177.35,
+      "end_time": 1178.71
+    },
+    {
+      "text": "They have a good deck.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1178.71,
+      "end_time": 1179.63
+    },
+    {
+      "text": "So I mean that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1179.63,
+      "end_time": 1180.47
+    },
+    {
+      "text": "I think that's why they could do it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1180.47,
+      "end_time": 1181.95
+    },
+    {
+      "text": "I'm not convinced we have a hovercraft in the midst with these others yet.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1181.95,
+      "end_time": 1185.59
+    },
+    {
+      "text": "And maybe that's why I can't see it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1186.07,
+      "end_time": 1188.23
+    },
+    {
+      "text": "Okay, so that's the piece of discovery work that we need to do as well, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1188.71,
+      "end_time": 1193.07
+    },
+    {
+      "text": "How good are these agencies?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1193.07,
+      "end_time": 1194.55
+    },
+    {
+      "text": "I wouldn't even.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1195.27,
+      "end_time": 1196.15
+    },
+    {
+      "text": "No, beyond, you know, a cursory look at their website, maybe have a look on their decks.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1197.28,
+      "end_time": 1203.4
+    },
+    {
+      "text": "It would purely Be a taste thing for me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1203.4,
+      "end_time": 1205.16
+    },
+    {
+      "text": "It would just be like they would get me excited and obviously hovercraft did.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1205.16,
+      "end_time": 1209
+    },
+    {
+      "text": "As soon as I saw them, I was like, yeah, brilliant, Eisenberg.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1209,
+      "end_time": 1211.88
+    },
+    {
+      "text": "I mean, Eisenberg's a sexy agency, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1211.88,
+      "end_time": 1214.08
+    },
+    {
+      "text": "Not as sexy now John's gone, but.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1214.08,
+      "end_time": 1215.68
+    },
+    {
+      "text": "Well, the model with Eisenberg that's relative here, is that eisenberg operated as 12 small businesses.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1215.92,
+      "end_time": 1224.87
+    },
+    {
+      "text": "And Eisenberg created a network as a way to basically bring each of these business under the table with their own brand and their own identity.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1225.59,
+      "end_time": 1235.83
+    },
+    {
+      "text": "So I think, you know, whether it's going to be, you know, either, you know, hovercraft or common good or imaginary content, you know, and, you know, part of the agency, a network, something that implies that they are bringing more firepower to the table and more services.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1235.99,
+      "end_time": 1253.71
+    },
+    {
+      "text": "If their clients need it to be branded under one house, then we can look at that approach.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1254.59,
+      "end_time": 1259.07
+    },
+    {
+      "text": "I think the main thing is going to be how we want to introduce these additional services.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1260.75,
+      "end_time": 1264.43
+    },
+    {
+      "text": "And maybe, John, you're.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1265.79,
+      "end_time": 1267.27
+    },
+    {
+      "text": "You are well positioned.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1267.27,
+      "end_time": 1268.59
+    },
+    {
+      "text": "So think about this, because it sounds like Eisenberg did exactly what you're saying, Andy.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1268.59,
+      "end_time": 1273.31
+    },
+    {
+      "text": "Actually, my last two agencies did this, so that's kind of the network model we did.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1273.39,
+      "end_time": 1277.95
+    },
+    {
+      "text": "Why don't you think about.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1278.37,
+      "end_time": 1279.25
+    },
+    {
+      "text": "You think about that one, because I only have nine minutes left and I want to talk about.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1279.57,
+      "end_time": 1282.93
+    },
+    {
+      "text": "Okay, let's get on to that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1284.45,
+      "end_time": 1285.77
+    },
+    {
+      "text": "So I planted that seed now, and you guys kind of get what I was asking for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1285.77,
+      "end_time": 1289.45
+    },
+    {
+      "text": "So let it fester.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1289.45,
+      "end_time": 1290.69
+    },
+    {
+      "text": "Trey and the financial service vertical people.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1294.45,
+      "end_time": 1299.25
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1300.45,
+      "end_time": 1300.85
+    },
+    {
+      "text": "So he.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1301.41,
+      "end_time": 1303.33
+    },
+    {
+      "text": "First of all, let's just talk logistics.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1304.99,
+      "end_time": 1306.51
+    },
+    {
+      "text": "He wants to work with us.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1306.91,
+      "end_time": 1308.51
+    },
+    {
+      "text": "Not willing to sign the document because he wants to future date it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1309.55,
+      "end_time": 1313.79
+    },
+    {
+      "text": "He wants to date for a few weeks.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1314.67,
+      "end_time": 1316.23
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1316.23,
+      "end_time": 1316.67
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1316.83,
+      "end_time": 1317.31
+    },
+    {
+      "text": "So why can't he just date it for a few weeks but still pay us something or something?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1317.55,
+      "end_time": 1321.43
+    },
+    {
+      "text": "My worry.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1321.43,
+      "end_time": 1322.07
+    },
+    {
+      "text": "So this is the one thing I just wanted to say which is not about me making money.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1322.07,
+      "end_time": 1325.07
+    },
+    {
+      "text": "Yes, we need all to make money.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1325.07,
+      "end_time": 1326.43
+    },
+    {
+      "text": "But my point is more what exactly you said, Andy, which is there's no value.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1326.43,
+      "end_time": 1330.91
+    },
+    {
+      "text": "They're not seeing it as value.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1331.39,
+      "end_time": 1332.55
+    },
+    {
+      "text": "So if they walk away in three weeks after we do the work, then we're kind of slow, slightly screwed.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1332.55,
+      "end_time": 1336.14
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1336.14,
+      "end_time": 1336.38
+    },
+    {
+      "text": "They're not invested, are they?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1336.38,
+      "end_time": 1337.46
+    },
+    {
+      "text": "If.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1337.46,
+      "end_time": 1337.66
+    },
+    {
+      "text": "If they're just asking for our advice or how would we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1337.66,
+      "end_time": 1340.06
+    },
+    {
+      "text": "We position.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1340.22,
+      "end_time": 1340.86
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1341.1,
+      "end_time": 1341.46
+    },
+    {
+      "text": "So that's my hesitation to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1341.46,
+      "end_time": 1343.9
+    },
+    {
+      "text": "Because I'm not good at sort of not doing things halfway.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1344.78,
+      "end_time": 1347.46
+    },
+    {
+      "text": "I'll either do it or I won't.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1347.46,
+      "end_time": 1348.58
+    },
+    {
+      "text": "That kind of seems to be the way I am now.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1348.58,
+      "end_time": 1350.54
+    },
+    {
+      "text": "So I don't know how to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1350.54,
+      "end_time": 1353.94
+    },
+    {
+      "text": "I don't know how to do it halfway.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1353.94,
+      "end_time": 1355.42
+    },
+    {
+      "text": "Like if we decide we're going to go, then I'll sit down and I'll be all day thinking about it and exploring and talking.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1355.42,
+      "end_time": 1360.74
+    },
+    {
+      "text": "So I don't love the idea of whatever reason that we're not locked in on something and maybe there's a way to do.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1360.74,
+      "end_time": 1370.6
+    },
+    {
+      "text": "And again, I'm not this is your logistics thing, but maybe there's a way to say, okay, you can sign the full docketbook, full retainer, blah, blah, blah, roll up in how, first of all, how many weeks, please?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1370.6,
+      "end_time": 1382.96
+    },
+    {
+      "text": "What exactly is the timing?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1382.96,
+      "end_time": 1384.2
+    },
+    {
+      "text": "Not just somewhere in the future and what I'd like to know, the reason I think we're entitled to know 1 and 2 is then sign a mini agreement with us, which is we're going to pay you whatever for the evaluation over the next few days and then that'll go against the future document, but something to lock them in.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1384.2,
+      "end_time": 1403.84
+    },
+    {
+      "text": "Because that doesn't feel good to me because that's a lot also.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1403.84,
+      "end_time": 1406
+    },
+    {
+      "text": "That's going to be a lot of work.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1406,
+      "end_time": 1407.16
+    },
+    {
+      "text": "Well, I'm trying to, I'm trying to shield the group from this.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1408.2,
+      "end_time": 1411.4
+    },
+    {
+      "text": "So I've direct this towards Ahmed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1411.56,
+      "end_time": 1413.64
+    },
+    {
+      "text": "Obviously we can carry that cost internally.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1413.91,
+      "end_time": 1416.55
+    },
+    {
+      "text": "So Ahmed has requested the financials.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1416.79,
+      "end_time": 1419.91
+    },
+    {
+      "text": "We can have a look at any of their other capability decks in case that is anything else that they've got that they use for marketing that will give us a better idea of what it is that they're doing, what they're presenting to the outside world.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1420.23,
+      "end_time": 1433.35
+    },
+    {
+      "text": "Ahmed can do a deep dive on the financials and report back to us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1433.91,
+      "end_time": 1437.11
+    },
+    {
+      "text": "Okay, what does it look like?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1437.11,
+      "end_time": 1438.47
+    },
+    {
+      "text": "What's the valuation of the business?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1438.47,
+      "end_time": 1439.83
+    },
+    {
+      "text": "Is it good or bad, going up or down?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1440.92,
+      "end_time": 1443.24
+    },
+    {
+      "text": "I wouldn't be surprised if at this stage, Heather, we find out that it's an absolute turkey and they've been lying about their numbers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1444.2,
+      "end_time": 1449.36
+    },
+    {
+      "text": "That's what always happens at this stage in the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1449.36,
+      "end_time": 1452.92
+    },
+    {
+      "text": "So let's find out all of that stuff first.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1453.08,
+      "end_time": 1455.32
+    },
+    {
+      "text": "And then I'm guessing just from what he said in that email, it's like, you know, the unfiltered version of us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1455.72,
+      "end_time": 1461.76
+    },
+    {
+      "text": "I mean, that's either good or bad, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1461.76,
+      "end_time": 1463.76
+    },
+    {
+      "text": "But let's find out what that is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1463.76,
+      "end_time": 1467.03
+    },
+    {
+      "text": "It could just be one conversation with me and you and John, Heather, where we just, we sit down with them and they give us an hour of monologue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1467.03,
+      "end_time": 1478.55
+    },
+    {
+      "text": "What is it that they want us to know about them?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1478.79,
+      "end_time": 1481.99
+    },
+    {
+      "text": "And maybe there is some question in there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1482.55,
+      "end_time": 1484.35
+    },
+    {
+      "text": "I mean, it does feel like Onboarding at that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1484.35,
+      "end_time": 1486.11
+    },
+    {
+      "text": "At that stage, to be honest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1486.11,
+      "end_time": 1487.27
+    },
+    {
+      "text": "But onboarding but not doing the work.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1487.27,
+      "end_time": 1490.87
+    },
+    {
+      "text": "Yeah, we don't want to do any work, do we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1491.43,
+      "end_time": 1493.03
+    },
+    {
+      "text": "Once we start feeding back to them where they could be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1493.03,
+      "end_time": 1495.11
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1495.11,
+      "end_time": 1496.17
+    },
+    {
+      "text": "Then it's just free consultancy at that stage.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1496.17,
+      "end_time": 1498.93
+    },
+    {
+      "text": "Yeah, but then.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1498.93,
+      "end_time": 1499.61
+    },
+    {
+      "text": "But then.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1499.61,
+      "end_time": 1500.05
+    },
+    {
+      "text": "So that's up to you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1500.05,
+      "end_time": 1501.05
+    },
+    {
+      "text": "But I would say not starting to search or research, which is very hard to do because I think the moment you hear about things, you start.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1501.05,
+      "end_time": 1509.81
+    },
+    {
+      "text": "I mean, at least for me, it starts triggering things.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1509.81,
+      "end_time": 1512.01
+    },
+    {
+      "text": "But the.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1512.01,
+      "end_time": 1512.69
+    },
+    {
+      "text": "I think there's nothing wrong with asking him for an interim consultancy.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1513.89,
+      "end_time": 1518.77
+    },
+    {
+      "text": "And then the fees that he pays against this will go against the full contract once he signs it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1518.77,
+      "end_time": 1523.41
+    },
+    {
+      "text": "I think that seems fair because this is actually.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1524.05,
+      "end_time": 1526.65
+    },
+    {
+      "text": "This time is a really heavy lifting.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1526.65,
+      "end_time": 1528.53
+    },
+    {
+      "text": "I think this is when you were really thinking about it, putting the strategy.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1528.69,
+      "end_time": 1531.93
+    },
+    {
+      "text": "This is the more valuable time, not the less valuable time.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1531.93,
+      "end_time": 1534.69
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1534.85,
+      "end_time": 1535.21
+    },
+    {
+      "text": "And we could be getting on with other people that are in or finding the next.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1535.21,
+      "end_time": 1539.49
+    },
+    {
+      "text": "Maybe we don't have to do a big team conversation.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1541.01,
+      "end_time": 1543.33
+    },
+    {
+      "text": "Why don't you just talk to Trey and say, tell me why I understand it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1543.33,
+      "end_time": 1547.97
+    },
+    {
+      "text": "A lot of people may ask this and we have a solution for that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1547.97,
+      "end_time": 1550.77
+    },
+    {
+      "text": "Because our time is.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1551.33,
+      "end_time": 1552.37
+    },
+    {
+      "text": "The team's time is really valuable.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1552.53,
+      "end_time": 1554.37
+    },
+    {
+      "text": "And let's.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1554.45,
+      "end_time": 1556.05
+    },
+    {
+      "text": "I mean, you can see what he says.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1556.05,
+      "end_time": 1557.25
+    },
+    {
+      "text": "I think I've come up with a good alternative.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1557.41,
+      "end_time": 1559.05
+    },
+    {
+      "text": "You're welcome.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1559.05,
+      "end_time": 1559.81
+    },
+    {
+      "text": "My goal is to make Andy laugh every time when I say something slightly obnoxious.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1562.69,
+      "end_time": 1566.53
+    },
+    {
+      "text": "I just love the New Yorkness of it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1568.05,
+      "end_time": 1570.29
+    },
+    {
+      "text": "It's similar sense of humor.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1571.01,
+      "end_time": 1573.17
+    },
+    {
+      "text": "So I'll tell you what we can do then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1573.73,
+      "end_time": 1575.89
+    },
+    {
+      "text": "So we'll request the financials and I'll have Ahmed look into them and he can report that back.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1575.89,
+      "end_time": 1581.16
+    },
+    {
+      "text": "I think that's like an immediate thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1581.16,
+      "end_time": 1582.76
+    },
+    {
+      "text": "Is this company or not?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1583,
+      "end_time": 1584.72
+    },
+    {
+      "text": "And then we all know that what the position is with them at that stage.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1584.72,
+      "end_time": 1588.52
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1588.68,
+      "end_time": 1589.12
+    },
+    {
+      "text": "Yeah, I'm happy to do that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1589.12,
+      "end_time": 1589.92
+    },
+    {
+      "text": "Heather.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1589.92,
+      "end_time": 1590.24
+    },
+    {
+      "text": "I can have a one on one with Trey like we normally would, you know, during the sales process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1590.24,
+      "end_time": 1596.76
+    },
+    {
+      "text": "I'm happy to jump on to another call and just go through whatever it is that we need to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1596.92,
+      "end_time": 1602.6
+    },
+    {
+      "text": "To know about so I can extract all of that and then we can share via Fireflies and transcripts and stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1602.9,
+      "end_time": 1608.9
+    },
+    {
+      "text": "Yeah, okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1608.98,
+      "end_time": 1609.78
+    },
+    {
+      "text": "This is what the business looks like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1609.86,
+      "end_time": 1611.94
+    },
+    {
+      "text": "And then I just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1612.58,
+      "end_time": 1613.9
+    },
+    {
+      "text": "I will heavy sell him on the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1613.9,
+      "end_time": 1617.14
+    },
+    {
+      "text": "Look, there isn't an in between stage where you guys get to, you know, have a therapy session with three of the greatest agency people on the planet for free.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1617.14,
+      "end_time": 1630.03
+    },
+    {
+      "text": "So I'm just gonna push for that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1630.27,
+      "end_time": 1632.87
+    },
+    {
+      "text": "That's the next obvious step, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1632.87,
+      "end_time": 1634.99
+    },
+    {
+      "text": "And it's not.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1634.99,
+      "end_time": 1635.51
+    },
+    {
+      "text": "He's not gonna be screwed.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1635.51,
+      "end_time": 1636.55
+    },
+    {
+      "text": "He's still.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1636.55,
+      "end_time": 1637.03
+    },
+    {
+      "text": "He just is paying the money.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1637.03,
+      "end_time": 1638.27
+    },
+    {
+      "text": "He's gonna pay later now.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1638.27,
+      "end_time": 1639.63
+    },
+    {
+      "text": "Yeah, it's the same amount.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1639.95,
+      "end_time": 1641.99
+    },
+    {
+      "text": "So that was my note of having skin in the game.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1641.99,
+      "end_time": 1644.669
+    },
+    {
+      "text": "Yeah, I agree with that whole.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1644.75,
+      "end_time": 1646.51
+    },
+    {
+      "text": "And if you need a second pair of eyes on the financials, Andy, I mean, I've seen more than my fair share, so I can.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1647.55,
+      "end_time": 1653.35
+    },
+    {
+      "text": "Yeah, I'm happy to share that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1653.35,
+      "end_time": 1654.43
+    },
+    {
+      "text": "You know, if Ahmed wants a couple or another perspective on things.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1654.75,
+      "end_time": 1657.79
+    },
+    {
+      "text": "Ahmed is all yours.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1659.74,
+      "end_time": 1660.94
+    },
+    {
+      "text": "I mean, Ahmed will pull them apart, share them, request them, whatever he can do that all on on your behalf.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1660.94,
+      "end_time": 1666.94
+    },
+    {
+      "text": "John.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1667.26,
+      "end_time": 1667.62
+    },
+    {
+      "text": "Have you worked with Ahmed at all?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1667.62,
+      "end_time": 1669.26
+    },
+    {
+      "text": "No, I don't think so, no.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1669.9,
+      "end_time": 1671.26
+    },
+    {
+      "text": "Yeah, we never.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1671.42,
+      "end_time": 1672.22
+    },
+    {
+      "text": "For them to work together.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1672.38,
+      "end_time": 1673.46
+    },
+    {
+      "text": "He's such a nice young individual who's very well intentioned, but he's.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1673.46,
+      "end_time": 1678.3
+    },
+    {
+      "text": "Yeah, I mean, he's young, so it'd be interesting he can learn from you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1678.3,
+      "end_time": 1681.26
+    },
+    {
+      "text": "And is he not young?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1681.26,
+      "end_time": 1682.3
+    },
+    {
+      "text": "He feels young to me.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1682.3,
+      "end_time": 1683.34
+    },
+    {
+      "text": "I've never asked his age, but he's doing his MBA and his masters at the weekend as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1684.71,
+      "end_time": 1689.27
+    },
+    {
+      "text": "So he's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1689.27,
+      "end_time": 1689.83
+    },
+    {
+      "text": "He's very, very into M and A.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1689.83,
+      "end_time": 1692.07
+    },
+    {
+      "text": "It's fun for you also because you can have him like tell me your.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1692.39,
+      "end_time": 1695.91
+    },
+    {
+      "text": "What are you seeing and then, you know, and get.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1695.91,
+      "end_time": 1698.75
+    },
+    {
+      "text": "And also he'll learn from you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1698.75,
+      "end_time": 1700.15
+    },
+    {
+      "text": "And he's a good guy.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1700.15,
+      "end_time": 1701.27
+    },
+    {
+      "text": "Yeah, I mean, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1701.75,
+      "end_time": 1703.15
+    },
+    {
+      "text": "So what I'll do is we've made those requests as soon as we get them because he said he was working on sending them over from his account, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1703.15,
+      "end_time": 1709.7
+    },
+    {
+      "text": "Thank you, sir.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1709.77,
+      "end_time": 1710.25
+    },
+    {
+      "text": "As soon as we get them, John, I'll loop you in then on those discussions with me and Ahmed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1710.49,
+      "end_time": 1715.93
+    },
+    {
+      "text": "And Ahmed can figure out what's good or bad.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1716.41,
+      "end_time": 1718.57
+    },
+    {
+      "text": "Obviously you've got your own take on that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1718.57,
+      "end_time": 1721.17
+    },
+    {
+      "text": "And then I'll do that next step, Heather with them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1721.17,
+      "end_time": 1723.37
+    },
+    {
+      "text": "I'll do the one on one with Trey or both of them and we can do some kind of deep dive to find out what it is that is going on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1723.85,
+      "end_time": 1732.73
+    },
+    {
+      "text": "It doesn't need all of us to sit on that call at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1732.73,
+      "end_time": 1734.73
+    },
+    {
+      "text": "Well, I would like to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1735.13,
+      "end_time": 1735.97
+    },
+    {
+      "text": "I mean, obviously, when it's.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1735.97,
+      "end_time": 1737.01
+    },
+    {
+      "text": "It's not that I'm.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1737.01,
+      "end_time": 1737.69
+    },
+    {
+      "text": "I'm not.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1737.96,
+      "end_time": 1738.28
+    },
+    {
+      "text": "Not trying to do work, but I'm just.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1738.28,
+      "end_time": 1740.12
+    },
+    {
+      "text": "I just, I'm worried about giving it all away before we do.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1740.6,
+      "end_time": 1743.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1743.76,
+      "end_time": 1744.04
+    },
+    {
+      "text": "We get suckered into this stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1744.04,
+      "end_time": 1745.24
+    },
+    {
+      "text": "Do you know what?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1745.24,
+      "end_time": 1745.6
+    },
+    {
+      "text": "It happens to me all the time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1745.6,
+      "end_time": 1746.68
+    },
+    {
+      "text": "It is, it is a big part of the consultancy risk, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1746.68,
+      "end_time": 1749.6
+    },
+    {
+      "text": "You, you sit On a call and before you know it, like you say you're, blah, blah, blah, blah, you're giving.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1749.6,
+      "end_time": 1753.68
+    },
+    {
+      "text": "Them, giving them ideas.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1753.68,
+      "end_time": 1755.16
+    },
+    {
+      "text": "They've not even cashed the check.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1756.68,
+      "end_time": 1758.52
+    },
+    {
+      "text": "Yeah, Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1758.6,
+      "end_time": 1759.48
+    },
+    {
+      "text": "I just think we're excited.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1759.48,
+      "end_time": 1760.6
+    },
+    {
+      "text": "I mean, I think it's.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1760.6,
+      "end_time": 1761.88
+    },
+    {
+      "text": "I actually think they're going to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1761.88,
+      "end_time": 1763.16
+    },
+    {
+      "text": "My, My guess on these guys is I think they're going to be financially in a pretty good place, or at least they're going to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1763.16,
+      "end_time": 1769.89
+    },
+    {
+      "text": "They are what they say they are.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1769.97,
+      "end_time": 1771.33
+    },
+    {
+      "text": "I don't think they're lying because.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1771.33,
+      "end_time": 1772.77
+    },
+    {
+      "text": "And their clients are financial service companies.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1772.77,
+      "end_time": 1775.89
+    },
+    {
+      "text": "So there are parts of the world where it's kind of shit like sneakers.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1775.89,
+      "end_time": 1779.53
+    },
+    {
+      "text": "Like, it's here today, it's gone tomorrow.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1779.53,
+      "end_time": 1781.25
+    },
+    {
+      "text": "But financial services is one like, like, well, I don't know.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1781.41,
+      "end_time": 1785.05
+    },
+    {
+      "text": "This is going to change too.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1785.05,
+      "end_time": 1785.97
+    },
+    {
+      "text": "But like pharmaceuticals, it's just a machine.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1785.97,
+      "end_time": 1790.37
+    },
+    {
+      "text": "So whether you're a wealth whatever advisor or whatever, it's all there.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1790.69,
+      "end_time": 1796.34
+    },
+    {
+      "text": "So I'm not, I'm not worried that the business isn't there.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1796.34,
+      "end_time": 1798.62
+    },
+    {
+      "text": "And I think this should be pretty easy for us, actually.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1798.62,
+      "end_time": 1800.9
+    },
+    {
+      "text": "So I do want.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1800.98,
+      "end_time": 1801.7
+    },
+    {
+      "text": "I really do want to do it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1801.7,
+      "end_time": 1802.78
+    },
+    {
+      "text": "So don't get me wrong.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1802.78,
+      "end_time": 1803.7
+    },
+    {
+      "text": "It's just that I think it's too easy to take advantage of us.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1803.7,
+      "end_time": 1806.66
+    },
+    {
+      "text": "So I totally agree.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1806.66,
+      "end_time": 1808.98
+    },
+    {
+      "text": "So I will be the security guard on the door and make sure they don't get in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1809.14,
+      "end_time": 1814.02
+    },
+    {
+      "text": "Basically, I think that's the play, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1814.02,
+      "end_time": 1816.58
+    },
+    {
+      "text": "Rather than them sort of suckering us all into session where they've just got all of us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1816.58,
+      "end_time": 1822.23
+    },
+    {
+      "text": "What I will do is I can drive that session just like it would be one of our onboarding conversations.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1823.11,
+      "end_time": 1828.67
+    },
+    {
+      "text": "I can just question them, drill down.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1828.67,
+      "end_time": 1830.55
+    },
+    {
+      "text": "Extract why they want to wait and why they don't want to just sign.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1830.87,
+      "end_time": 1835.15
+    },
+    {
+      "text": "That's my main thing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1835.15,
+      "end_time": 1836.229
+    },
+    {
+      "text": "If it's like, well, we have our year end is on the 31st of October, whatever, then fine.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1836.229,
+      "end_time": 1841.15
+    },
+    {
+      "text": "I mean, it would be interesting to know exactly why, because maybe that changes what we understand about everything.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1841.15,
+      "end_time": 1847.91
+    },
+    {
+      "text": "Who knows?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1848.51,
+      "end_time": 1849.07
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1851.07,
+      "end_time": 1851.39
+    },
+    {
+      "text": "And I don't want to lose a chance to do a deep dive altogether as well, because if we do start with them, we're going to want to have that deep dive conversation.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1851.39,
+      "end_time": 1858.47
+    },
+    {
+      "text": "But anyway, Andy, you know what you're doing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1858.47,
+      "end_time": 1859.79
+    },
+    {
+      "text": "I leave it to you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1859.79,
+      "end_time": 1860.67
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1862.99,
+      "end_time": 1863.35
+    },
+    {
+      "text": "That is a good point though.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1863.35,
+      "end_time": 1864.35
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1864.35,
+      "end_time": 1864.59
+    },
+    {
+      "text": "Because I hate it when we do deep dive twice.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1864.59,
+      "end_time": 1866.91
+    },
+    {
+      "text": "It's a waste of time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1867.71,
+      "end_time": 1868.51
+    },
+    {
+      "text": "I think yours is more.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1868.51,
+      "end_time": 1869.71
+    },
+    {
+      "text": "But look, I'm not going to get into it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1871.15,
+      "end_time": 1873.23
+    },
+    {
+      "text": "So what's holding them back?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1873.23,
+      "end_time": 1875.7
+    },
+    {
+      "text": "The balancing act, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1875.78,
+      "end_time": 1877.22
+    },
+    {
+      "text": "I need to show up so that we have that conversation and they get to pour this stuff out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1877.46,
+      "end_time": 1883.3
+    },
+    {
+      "text": "But equally I have to cockblock them so that they're not getting in to the team and having time with everybody without committing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1883.38,
+      "end_time": 1891.38
+    },
+    {
+      "text": "So it's a balancing act of trying to figure out what it is that they want to expose about themselves and then we can sign them up and then we all go onto a proper session where we deep dive.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1891.7,
+      "end_time": 1903.35
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1903.35,
+      "end_time": 1903.63
+    },
+    {
+      "text": "And I think you can say don't.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1903.63,
+      "end_time": 1904.79
+    },
+    {
+      "text": "Don't say how great we are too much more because I feel that we can let.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1904.79,
+      "end_time": 1908.11
+    },
+    {
+      "text": "I'd rather under undersell but I think you can say, I know.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1908.43,
+      "end_time": 1911.83
+    },
+    {
+      "text": "Well, it's not even that it said.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1911.83,
+      "end_time": 1913.31
+    },
+    {
+      "text": "I mean I'm sure we're great, but I don't want them to be like they're the.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1913.47,
+      "end_time": 1916.35
+    },
+    {
+      "text": "Whatever.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1917.07,
+      "end_time": 1917.63
+    },
+    {
+      "text": "But it was an internal joke.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1918.83,
+      "end_time": 1921.31
+    },
+    {
+      "text": "No, no.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1921.95,
+      "end_time": 1922.39
+    },
+    {
+      "text": "But you have said to them before how great we are, which is great.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1922.39,
+      "end_time": 1924.91
+    },
+    {
+      "text": "Me too.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1925.15,
+      "end_time": 1925.71
+    },
+    {
+      "text": "Are awesome.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1926.04,
+      "end_time": 1926.52
+    },
+    {
+      "text": "Yeah, you are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1926.52,
+      "end_time": 1927.48
+    },
+    {
+      "text": "But my point was I am.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1928.2,
+      "end_time": 1931.8
+    },
+    {
+      "text": "I think we're excited about them too.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1931.88,
+      "end_time": 1933.64
+    },
+    {
+      "text": "Which is in a way why you have to stop us because I would.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1933.64,
+      "end_time": 1938.28
+    },
+    {
+      "text": "I think Andy, if you just.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1938.84,
+      "end_time": 1940.52
+    },
+    {
+      "text": "Just pure advice, I would go you directly to Trey.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1940.52,
+      "end_time": 1944.72
+    },
+    {
+      "text": "I don't even think it has to be, you know, and say, hey, I never got a chance to get feedback from you from our last call with your partners.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1944.72,
+      "end_time": 1951.24
+    },
+    {
+      "text": "Yeah, that would be a good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1953.17,
+      "end_time": 1954.29
+    },
+    {
+      "text": "What.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1954.69,
+      "end_time": 1955.01
+    },
+    {
+      "text": "What came out of that call that said we want to date these guys for three more weeks versus we're ready to go.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1955.01,
+      "end_time": 1961.65
+    },
+    {
+      "text": "I just like to get that feedback so I could address it, you know, because we.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1961.65,
+      "end_time": 1965.73
+    },
+    {
+      "text": "We said one thing.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1965.73,
+      "end_time": 1966.49
+    },
+    {
+      "text": "There was one question that stuck out in that call which was have we done this before?",
+      "speaker_name": "Jon Simon",
+      "start_time": 1966.49,
+      "end_time": 1969.97
+    },
+    {
+      "text": "And I remember you said we haven't but.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1969.97,
+      "end_time": 1971.89
+    },
+    {
+      "text": "And I.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1972.29,
+      "end_time": 1972.85
+    },
+    {
+      "text": "If that were the thing that hung them up, I'd say, well, Heather's got X number of years experience.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1972.85,
+      "end_time": 1977.89
+    },
+    {
+      "text": "John's been doing integrated roll ups in in house for the last 10 years.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1977.97,
+      "end_time": 1982.21
+    },
+    {
+      "text": "I'm now offer that expertise to other agencies.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1982.29,
+      "end_time": 1985.39
+    },
+    {
+      "text": "So it's not that we haven't done it before.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1985.87,
+      "end_time": 1987.63
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1988.27,
+      "end_time": 1988.67
+    },
+    {
+      "text": "It's just that the three of us specifically have not done this.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1988.67,
+      "end_time": 1992.19
+    },
+    {
+      "text": "Yeah, we've seen but we all have the experience that is pedigreed.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1992.27,
+      "end_time": 1996.63
+    },
+    {
+      "text": "So you know, I'd be wondering what it is that's hanging them up.",
+      "speaker_name": "Jon Simon",
+      "start_time": 1996.63,
+      "end_time": 2000.43
+    },
+    {
+      "text": "I just don't know.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2000.43,
+      "end_time": 2001.31
+    },
+    {
+      "text": "You can drop the mic.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2003.39,
+      "end_time": 2004.43
+    },
+    {
+      "text": "We're done with that conversation.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2004.43,
+      "end_time": 2005.95
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2006.11,
+      "end_time": 2006.55
+    },
+    {
+      "text": "John, I have one more question.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2006.55,
+      "end_time": 2010.03
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2011.46,
+      "end_time": 2011.86
+    },
+    {
+      "text": "Tell me this is too distracting.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2012.1,
+      "end_time": 2013.78
+    },
+    {
+      "text": "Can you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2014.02,
+      "end_time": 2014.58
+    },
+    {
+      "text": "I can.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2014.58,
+      "end_time": 2015.1
+    },
+    {
+      "text": "I probably can find the notes on.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2015.1,
+      "end_time": 2017.46
+    },
+    {
+      "text": "Oh, and let's make sure when we get on with Trey next Time that we send the invites because I think they get all the notes and we didn't get the notes back.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2017.54,
+      "end_time": 2024.42
+    },
+    {
+      "text": "But what super awesome.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2026.34,
+      "end_time": 2029.7
+    },
+    {
+      "text": "Do you want to remind me of that or do I just sit and listen again tomorrow?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2031.3,
+      "end_time": 2034.3
+    },
+    {
+      "text": "I remember it was a little bit of a tricky search.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2034.3,
+      "end_time": 2036.18
+    },
+    {
+      "text": "What is super awesome?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2036.42,
+      "end_time": 2037.66
+    },
+    {
+      "text": "So super awesome is they were bought by one of the big gaming companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2037.66,
+      "end_time": 2042.26
+    },
+    {
+      "text": "They did an mbo.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2046.34,
+      "end_time": 2047.3
+    },
+    {
+      "text": "They bought themselves back out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2047.38,
+      "end_time": 2048.82
+    },
+    {
+      "text": "It was kids.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2048.82,
+      "end_time": 2049.38
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2049.38,
+      "end_time": 2049.66
+    },
+    {
+      "text": "It was gen alpha focused SIM services.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2049.66,
+      "end_time": 2053.86
+    },
+    {
+      "text": "And they want what they're doing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2056.1,
+      "end_time": 2059.42
+    },
+    {
+      "text": "Buy side.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2059.42,
+      "end_time": 2060.02
+    },
+    {
+      "text": "It's a buy side.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2060.1,
+      "end_time": 2061.06
+    },
+    {
+      "text": "They want to buy things.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2061.7,
+      "end_time": 2062.82
+    },
+    {
+      "text": "They just want to buy things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2063.22,
+      "end_time": 2064.42
+    },
+    {
+      "text": "Yeah, it's the same.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2064.42,
+      "end_time": 2065.78
+    },
+    {
+      "text": "My favorite kind of job.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2066.77,
+      "end_time": 2067.97
+    },
+    {
+      "text": "It's the same deal as Skyview.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2068.29,
+      "end_time": 2069.81
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2069.81,
+      "end_time": 2070.61
+    },
+    {
+      "text": "But those are.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2071.41,
+      "end_time": 2072.13
+    },
+    {
+      "text": "That's trickier.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2072.13,
+      "end_time": 2073.01
+    },
+    {
+      "text": "Well, it is now that we'd like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2076.29,
+      "end_time": 2077.65
+    },
+    {
+      "text": "Vertical video influencer LED businesses.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2078.05,
+      "end_time": 2083.09
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2083.33,
+      "end_time": 2083.65
+    },
+    {
+      "text": "Okay, I've got some ideas.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2083.65,
+      "end_time": 2084.73
+    },
+    {
+      "text": "Okay, got it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2084.73,
+      "end_time": 2085.61
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2085.61,
+      "end_time": 2086.05
+    },
+    {
+      "text": "Remember, thank you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2086.05,
+      "end_time": 2087.01
+    },
+    {
+      "text": "Thank you for the.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2087.01,
+      "end_time": 2087.97
+    },
+    {
+      "text": "But I would love to find.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2088.21,
+      "end_time": 2089.73
+    },
+    {
+      "text": "We might.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2090.29,
+      "end_time": 2090.73
+    },
+    {
+      "text": "Then I can go in and find all the Firefly stuff from them.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2090.73,
+      "end_time": 2095.71
+    },
+    {
+      "text": "Super awesome.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2095.71,
+      "end_time": 2096.47
+    },
+    {
+      "text": "Yeah, you can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2096.47,
+      "end_time": 2097.07
+    },
+    {
+      "text": "But again super awesome will be good at opening doors for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2097.47,
+      "end_time": 2100.03
+    },
+    {
+      "text": "For more stuff for agency as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2100.03,
+      "end_time": 2103.39
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2104.51,
+      "end_time": 2106.07
+    },
+    {
+      "text": "The only.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2106.07,
+      "end_time": 2106.63
+    },
+    {
+      "text": "The trickier part of this is a kid thing is always a bit tricky.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2106.63,
+      "end_time": 2109.79
+    },
+    {
+      "text": "I don't know if you did any of that stuff, John, on your.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2109.79,
+      "end_time": 2112.19
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2112.27,
+      "end_time": 2112.75
+    },
+    {
+      "text": "Gaming stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2112.99,
+      "end_time": 2115.59
+    },
+    {
+      "text": "I mean eisenberg was like 75% gaming if not more so we were heavy in that space.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2115.59,
+      "end_time": 2123.71
+    },
+    {
+      "text": "We were heavy in influencers.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2123.71,
+      "end_time": 2125.11
+    },
+    {
+      "text": "So I think understand probably the world there pretty well.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2125.11,
+      "end_time": 2129.35
+    },
+    {
+      "text": "You and I could chat on the side on that one if we want to brainstorm on it.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2129.91,
+      "end_time": 2132.43
+    },
+    {
+      "text": "Heather.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2132.43,
+      "end_time": 2132.79
+    },
+    {
+      "text": "Yeah, what I'll do is I'll get.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2133.03,
+      "end_time": 2134.75
+    },
+    {
+      "text": "I mean I have to do the heavy lifting on this one.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2134.75,
+      "end_time": 2137.19
+    },
+    {
+      "text": "So I'll get to kind of summary and directions and then I'd love to talk you through.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2137.27,
+      "end_time": 2143.47
+    },
+    {
+      "text": "Like here are the areas I think we can look at.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2143.47,
+      "end_time": 2146.16
+    },
+    {
+      "text": "The only tricky part between influencer and gaming is kids.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2146.24,
+      "end_time": 2149.48
+    },
+    {
+      "text": "That creates this kind of a little bit tricky overlap.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2149.48,
+      "end_time": 2151.92
+    },
+    {
+      "text": "But they said they didn't have to be kids.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2151.92,
+      "end_time": 2153.68
+    },
+    {
+      "text": "They could bring experienced companies into that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2153.68,
+      "end_time": 2158.68
+    },
+    {
+      "text": "And the only thing I'll remember is that it's probably a fairly small acquisition.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2158.68,
+      "end_time": 2162.16
+    },
+    {
+      "text": "That was the only other thing and.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2162.16,
+      "end_time": 2163.52
+    },
+    {
+      "text": "I could tell you the short of it with like clients like Minecraft or Roblox, we were basically.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2164.32,
+      "end_time": 2169.52
+    },
+    {
+      "text": "You had targeting that went to 13 plus and targeting that went to 18 plus.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2170.32,
+      "end_time": 2174.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2174.92,
+      "end_time": 2175.4
+    },
+    {
+      "text": "We always knew our 13 plus was going to be seen by younger eyes.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2175.8,
+      "end_time": 2180.6
+    },
+    {
+      "text": "But you still have to do the work on the up and up.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2181.08,
+      "end_time": 2183.2
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2183.2,
+      "end_time": 2183.56
+    },
+    {
+      "text": "Yeah, no, it's like alcohol.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2183.88,
+      "end_time": 2185.24
+    },
+    {
+      "text": "Yeah, same thing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2185.56,
+      "end_time": 2186.92
+    },
+    {
+      "text": "Okay, fine, then.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2187.16,
+      "end_time": 2188.72
+    },
+    {
+      "text": "Andy, you set the meeting tomorrow?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2188.72,
+      "end_time": 2190.2
+    },
+    {
+      "text": "I think I'm fine to join whenever.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2190.2,
+      "end_time": 2192.36
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2192.84,
+      "end_time": 2193.28
+    },
+    {
+      "text": "Yeah, I'll confirm it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2193.28,
+      "end_time": 2194.52
+    },
+    {
+      "text": "All right, good stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2194.52,
+      "end_time": 2195.6
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2195.6,
+      "end_time": 2195.88
+    },
+    {
+      "text": "I'm off to dinner early today.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2195.88,
+      "end_time": 2197.49
+    },
+    {
+      "text": "That's why I've got to leave.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2197.49,
+      "end_time": 2198.53
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2198.77,
+      "end_time": 2199.25
+    },
+    {
+      "text": "Have fun.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2199.33,
+      "end_time": 2199.89
+    },
+    {
+      "text": "Hopefully a good one.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2200.29,
+      "end_time": 2201.33
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2201.81,
+      "end_time": 2202.17
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2202.17,
+      "end_time": 2202.53
+    },
+    {
+      "text": "Stay sober.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2203.33,
+      "end_time": 2204.13
+    },
+    {
+      "text": "Boring.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2204.37,
+      "end_time": 2204.85
+    },
+    {
+      "text": "It's only Monday or Tuesday or whatever day it is.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2207.49,
+      "end_time": 2209.69
+    },
+    {
+      "text": "You have to wait for the week.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2209.69,
+      "end_time": 2210.57
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2210.57,
+      "end_time": 2211.05
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2211.05,
+      "end_time": 2211.41
+    },
+    {
+      "text": "It's my wife.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2211.41,
+      "end_time": 2212.29
+    },
+    {
+      "text": "My wife's friend and husband, you know, that is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2212.29,
+      "end_time": 2214.93
+    },
+    {
+      "text": "All right, I'll.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2215.81,
+      "end_time": 2216.61
+    },
+    {
+      "text": "Well, I'll catch up with you tomorrow, Heather.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2216.77,
+      "end_time": 2218.61
+    },
+    {
+      "text": "Thank you, John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2219.01,
+      "end_time": 2220.05
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2220.61,
+      "end_time": 2221.17
+    },
+    {
+      "text": "See you soon, guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2221.41,
+      "end_time": 2222.53
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2223.18,
+      "end_time": 2223.5
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2224.06,
+      "end_time": 2224.54
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Jon Simon",
+      "start_time": 2224.54,
+      "end_time": 2225.02
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Agency rollup",
+      "EBITDA",
+      "financial services",
+      "content creation",
+      "gaming influencers",
+      "client concentration"
+    ],
+    "action_items": "\n**Andrew Day**\nContact LaRue directly for initial conversation parallel to Kelly discussions (11:48)\nRequest financials from Trey and coordinate with Ahmed for analysis (24:44)\nHave one-on-one call with Trey to understand reasons for contract delay and push for interim agreement (26:08)\nConfirm meeting with Super Awesome for tomorrow (36:32)\n\n**Jon Simon**\nReview agency capability decks and recent pitch samples from potential rollup participants (17:16)\nWork with Ahmed on financial analysis for Trey's company (27:33)\nBrainstorm on Super Awesome gaming/influencer opportunities (35:32)\n\n**Heather Fullerton**\nCall Eileen this afternoon for deeper relationship building (08:33)\nVisit Eileen's Connecticut facilities during upcoming trips to daughter's school area (08:52)\nGenerate summary and strategic directions for Super Awesome engagement (36:04)\n\n**Ahmed**\nConduct deep dive financial analysis on Trey's company once materials received (27:47)\nReport back on company valuation and financial health assessment (24:44)\n",
+    "outline": null,
+    "overview": "- Eileen from Imaginary Content has been a client for 8-9 months with a strong concentration on Kraft Heinz, indicating potential for deeper engagement.\n- Two previous partnership offers for Eileen fell through; merging with a content creation agency could diversify her client base.\n- Kelly from Common Good initially projected $1.4 million EBITDA but revised down to $400k due to contract fluctuations; potential million-dollar contract may restore valuation.\n- TSG, negotiating entry into the US market, is securing 20x valuations as a software company based on its established presence in multiple countries.\n- Combined EBITDA potential for group formation stands at approximately $2 million from Eileen and Kelly, with LaRue potentially adding $500k.\n- Team is open to starting with Kelly at $400k to build momentum, but needs more agencies to reach target metrics for group viability.\n- Trey is hesitant to sign an agreement immediately, prompting team concerns about commencing work without upfront commitment or payment.\n- An interim consultancy agreement was proposed for Trey, allowing fees to apply toward a full contract once signed, pending financial analysis for viability.\n- Super Awesome Gaming Client is focused on Gen Alpha and influencer services, indicating a shift towards vertical video and influencer-led models.\n- Previous engagements suggest a successful MBO model, similar to the Skyview deal, reinforcing the potential for strategic partnerships in the gaming space.",
+    "short_summary": "The discussion centered around the partnership strategy for Eileen's content agency and Common Good, emphasizing the need for a financial services vertical rollup with a strong e-commerce focus. Eileen's agency faces valuation challenges due to high client concentration with Kraft Heinz, but a commitment of $7,000 and integration into a larger portfolio could mitigate risks. Common Good's fluctuating financial position, with EBITDA dropping to $400k, presents uncertainties but also opportunities for growth through a million-dollar contract pipeline. The multi-agency rollup architecture aims to leverage Jon's experience and develop a network model while ensuring effective project management. Additionally, the financial services vertical development highlighted the need for commitment structure negotiations and refining onboarding processes to safeguard against free consultations, with Andrew playing a crucial role in ensuring payment commitments.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K582RE45DZJAVHHRPDJTSNSJ",
+  "audio_url": "https://cdn.fireflies.ai/01K582RE45DZJAVHHRPDJTSNSJ/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzU4MlJFNDVEWkpBVkhIUlBESlRTTlNKL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=LAqBJ7CEoPNrZtGcP8suern81Jll3zMJtkAjrVBbXZLoJcuHT1QSmZFGhqCjCRs~tJ-uYDaNy9RSD2ukTj4gzdQ7y~ykEK-PryVQHWn7ICWjzfyE9PeSsSaqH9FYfl0ZyAcCQRYxjJnbqekgzR1e9LruKaMoIVFVUZoJLTWucpMCjMRWxFhamKqAIMkB~eOxMhw2Qe~M9AE1jux~C4f-6HKBN8hRrxwnYAcC0Ynmt~KgzkhLuERVv7j~O0Yt9eHZNoUHiW31FmF04kVYv0IGY8I4R2nL4LQ9ihyAUEfX4mGCAzMLx0WyDYvJhQPA3nD9RFsxoQccy1TvyVYIJwNEJg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K582RE45DZJAVHHRPDJTSNSJ/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzU4MlJFNDVEWkpBVkhIUlBESlRTTlNKL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=tq98838JRTOn4mmhR059JyLIQwiROdnIx216uVolC7xvnzqiBBBpz18FQy9ZRDhSpPyZRGfiT50q7oxtJwik6-svIQZqpCziYDUjdgJWStL0l-O9ppT71DWy-nNaTthAbCThYvuoYMFqPCAnFu8P447ndVAllOO2oGhT0br1bOiJeD7cHNAmSlV1T3sszlaK8TqqZHPZ4llokOWEBOZ1NqQIOq3sLRJddP2s8dUnCIzeSYOENHmYYWiSydX8GOgiIkpO-0eUcwnYcypMJyhx0tUDxkmjF1PnvvoiuscxN7bbFv6rj51qY0aOEDCAJgqPsErhfQtLFZn9vM0HHXm5ig__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

@@ -1,0 +1,965 @@
+{
+  "id": "hu0WgCg0wD9kQthI",
+  "title": "M&A catch up",
+  "date": 1735308000000,
+  "dateString": "2024-12-27T14:00:00.000Z",
+  "duration": 10,
+  "participants": [
+    "ahmed.zia@capitala.co,andrew.day@capitala.co,david.tsutsumi@capitala.co,jack.chiappe@capitala.co",
+    "ahmed.zia@capitala.co",
+    "david.tsutsumi@capitala.co",
+    "jack.chiappe@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "david.tsutsumi@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Jack Chiappe",
+      "email": "jack.chiappe@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi, Jack.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 41.81,
+      "end_time": 42.71
+    },
+    {
+      "text": "Hey, Ahmed.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 43.69,
+      "end_time": 44.79
+    },
+    {
+      "text": "Merry Christmas.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 45.45,
+      "end_time": 46.738
+    },
+    {
+      "text": "Oh, Merry Christmas.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 46.914,
+      "end_time": 48.37
+    },
+    {
+      "text": "How potted?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 48.45,
+      "end_time": 50.84
+    },
+    {
+      "text": "How did it go for you?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 50.97,
+      "end_time": 52.476
+    },
+    {
+      "text": "It was good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 52.628,
+      "end_time": 53.468
+    },
+    {
+      "text": "It's fun.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 53.604,
+      "end_time": 54.6
+    },
+    {
+      "text": "Just family really.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 59.46,
+      "end_time": 60.84
+    },
+    {
+      "text": "And eat food.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 62.82,
+      "end_time": 64.28
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 65.22,
+      "end_time": 66.204
+    },
+    {
+      "text": "And then presents stuff.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 66.332,
+      "end_time": 68.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 68.98,
+      "end_time": 69.5
+    },
+    {
+      "text": "So is there anything specific you eat on Christmas?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 69.58,
+      "end_time": 73.052
+    },
+    {
+      "text": "Like turkey for Thanksgiving is like an American thing?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 73.116,
+      "end_time": 78.094
+    },
+    {
+      "text": "Yeah, I mean, most people eat turkey, but I'm vegetarian, so.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 78.252,
+      "end_time": 81.754
+    },
+    {
+      "text": "Oh, we have a mushroom Wellington with a roast dinner, basically.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 81.842,
+      "end_time": 85.87
+    },
+    {
+      "text": "But yeah, it's pretty.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 86.21,
+      "end_time": 87.21
+    },
+    {
+      "text": "Pretty standard.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 87.29,
+      "end_time": 88.026
+    },
+    {
+      "text": "We always have a Christmas dinner.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 88.058,
+      "end_time": 90.458
+    },
+    {
+      "text": "Christmas dinner.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 90.634,
+      "end_time": 91.562
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 91.626,
+      "end_time": 92.35
+    },
+    {
+      "text": "But, yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 92.93,
+      "end_time": 93.594
+    },
+    {
+      "text": "What did you do for the day?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 93.642,
+      "end_time": 94.954
+    },
+    {
+      "text": "Did you celebrate at all or did you.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 95.042,
+      "end_time": 97.19
+    },
+    {
+      "text": "I was just sick, so.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 97.49,
+      "end_time": 99.59
+    },
+    {
+      "text": "I was actually a bit more sick that day, so it's just home resting.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 100.37,
+      "end_time": 105.48
+    },
+    {
+      "text": "Yeah, I.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 106.46,
+      "end_time": 107.668
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 107.724,
+      "end_time": 108.1
+    },
+    {
+      "text": "On Chris.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 108.14,
+      "end_time": 108.66
+    },
+    {
+      "text": "Was it Christmas Eve we spoke, or the day before when you were.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 108.74,
+      "end_time": 112.02
+    },
+    {
+      "text": "You were just coming down with the flu again, I think.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 112.14,
+      "end_time": 114.48
+    },
+    {
+      "text": "Yeah, that was like 23rd or something like two days before Christmas.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 114.94,
+      "end_time": 118.852
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 118.916,
+      "end_time": 119.156
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 119.188,
+      "end_time": 119.78
+    },
+    {
+      "text": "Not great.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 119.94,
+      "end_time": 120.372
+    },
+    {
+      "text": "And then you're ill.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 120.396,
+      "end_time": 121.156
+    },
+    {
+      "text": "Did you.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 121.188,
+      "end_time": 121.54
+    },
+    {
+      "text": "Did you end up in hospital again?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 121.58,
+      "end_time": 123.28
+    },
+    {
+      "text": "No, no, I was fine.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 123.58,
+      "end_time": 124.852
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 124.916,
+      "end_time": 125.52
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 125.9,
+      "end_time": 126.628
+    },
+    {
+      "text": "Just like cows and flu and all that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 126.724,
+      "end_time": 130.477
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 130.533,
+      "end_time": 130.845
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 130.917,
+      "end_time": 131.569
+    },
+    {
+      "text": "Yeah, I think Andy is not going to be on the call.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 134.709,
+      "end_time": 137.529
+    },
+    {
+      "text": "Yeah, I actually, I looked at it and it did look like he wasn't going to be on the call.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 139.669,
+      "end_time": 143.245
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 143.317,
+      "end_time": 143.929
+    },
+    {
+      "text": "Yeah, I think you're not on the M and A call on Monday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 144.869,
+      "end_time": 148.365
+    },
+    {
+      "text": "I think Andy said he wouldn't be here on Friday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 148.437,
+      "end_time": 152.765
+    },
+    {
+      "text": "Friday, Yeah, I missed the one on Monday, unfortunately.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 152.917,
+      "end_time": 155.729
+    },
+    {
+      "text": "So maybe there's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 157.349,
+      "end_time": 158.973
+    },
+    {
+      "text": "Is this stuff for us to catch up about?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 159.021,
+      "end_time": 160.429
+    },
+    {
+      "text": "There probably is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 160.469,
+      "end_time": 160.941
+    },
+    {
+      "text": "Hang on.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 160.965,
+      "end_time": 161.345
+    },
+    {
+      "text": "Give me one sec.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 161.397,
+      "end_time": 162.442
+    },
+    {
+      "text": "Yeah, yeah, sure.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 162.626,
+      "end_time": 163.83
+    },
+    {
+      "text": "I mean.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 165.97,
+      "end_time": 166.87
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 188.78,
+      "end_time": 189.556
+    },
+    {
+      "text": "So Shopper Group, did you manage to get any extra interested parties over the Christmas?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 189.668,
+      "end_time": 194.564
+    },
+    {
+      "text": "Yeah, I.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 194.612,
+      "end_time": 195.828
+    },
+    {
+      "text": "I sent over a list of people that are.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 195.884,
+      "end_time": 198.788
+    },
+    {
+      "text": "I saw that came through on Christmas.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 198.844,
+      "end_time": 201.076
+    },
+    {
+      "text": "Eve, so I asked Andy if I should follow them up and he said it's probably best to do it like, from, like on Monday.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 201.108,
+      "end_time": 209.68
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 210.46,
+      "end_time": 210.868
+    },
+    {
+      "text": "Yeah, probably best.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 210.924,
+      "end_time": 212.72
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 213.76,
+      "end_time": 214.184
+    },
+    {
+      "text": "So, I mean, that's the.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 214.232,
+      "end_time": 215.64
+    },
+    {
+      "text": "That's in the list.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 215.76,
+      "end_time": 216.696
+    },
+    {
+      "text": "I'll try to find some more target shots and yeah, for Shopper Group, I think that's pretty much it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 216.768,
+      "end_time": 226.34
+    },
+    {
+      "text": "You reached out to Hero Digital?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 228.16,
+      "end_time": 229.94
+    },
+    {
+      "text": "You know Hero Digital?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 230.24,
+      "end_time": 231.304
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 231.392,
+      "end_time": 231.688
+    },
+    {
+      "text": "We know Hero Digital.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 231.744,
+      "end_time": 233.06
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 233.36,
+      "end_time": 233.688
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 233.704,
+      "end_time": 233.944
+    },
+    {
+      "text": "Hero Digital.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 233.992,
+      "end_time": 234.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 235.68,
+      "end_time": 236.008
+    },
+    {
+      "text": "They bought Integris.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 236.024,
+      "end_time": 237.34
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 238.41,
+      "end_time": 238.866
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 238.898,
+      "end_time": 239.058
+    },
+    {
+      "text": "I mean, yeah, they were not like, interested at.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 239.074,
+      "end_time": 241.65
+    },
+    {
+      "text": "Who did you speak to?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 241.69,
+      "end_time": 242.99
+    },
+    {
+      "text": "Let me see.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 244.89,
+      "end_time": 246.03
+    },
+    {
+      "text": "Because we know Hero Digital.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 247.77,
+      "end_time": 249.522
+    },
+    {
+      "text": "Hero Digital, the ones that acquired Integra.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 249.706,
+      "end_time": 253.51
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 253.93,
+      "end_time": 254.87
+    },
+    {
+      "text": "So we know Scott there.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 256.33,
+      "end_time": 258.03
+    },
+    {
+      "text": "He's the coo.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 260.49,
+      "end_time": 261.91
+    },
+    {
+      "text": "I think it was Tom.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 262.25,
+      "end_time": 263.688
+    },
+    {
+      "text": "Yeah, Tom.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 263.834,
+      "end_time": 264.96
+    },
+    {
+      "text": "Tom Altman is the corporate corp dev guy.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 265.54,
+      "end_time": 271.68
+    },
+    {
+      "text": "So we know the CFO of Hero Digital, The CCO of Hero Digital and the SVP of Engagement Marketing.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 272.34,
+      "end_time": 284.604
+    },
+    {
+      "text": "I can't see Tom on there on the executive list.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 284.652,
+      "end_time": 288.588
+    },
+    {
+      "text": "He's just a cop dev guy.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 288.644,
+      "end_time": 289.788
+    },
+    {
+      "text": "Is he?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 289.804,
+      "end_time": 290.398
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 290.524,
+      "end_time": 290.778
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 290.794,
+      "end_time": 291.39
+    },
+    {
+      "text": "When we're reaching out to Hero Digital, we should reach out to Scott because he's this.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 291.81,
+      "end_time": 296.426
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 296.498,
+      "end_time": 296.922
+    },
+    {
+      "text": "He's at the top.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 296.986,
+      "end_time": 298.154
+    },
+    {
+      "text": "And we've.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 298.242,
+      "end_time": 298.954
+    },
+    {
+      "text": "We've done a deal with him before.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 299.002,
+      "end_time": 300.55
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 302.05,
+      "end_time": 302.602
+    },
+    {
+      "text": "So we know.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 302.666,
+      "end_time": 303.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 303.25,
+      "end_time": 303.87
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 304.45,
+      "end_time": 304.954
+    },
+    {
+      "text": "Thomas has Tom.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 305.002,
+      "end_time": 306.634
+    },
+    {
+      "text": "I think Tom was someone I spoke to before as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 306.682,
+      "end_time": 309.69
+    },
+    {
+      "text": "For Loud Lizard.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 309.73,
+      "end_time": 311.31
+    },
+    {
+      "text": "Yeah, they did look at Lounge Lizard at the time.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 312.21,
+      "end_time": 315.002
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 315.106,
+      "end_time": 315.79
+    },
+    {
+      "text": "A couple of years ago.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 318.29,
+      "end_time": 319.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 320.21,
+      "end_time": 321.07
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 324.85,
+      "end_time": 325.674
+    },
+    {
+      "text": "It sounds like that's the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 325.722,
+      "end_time": 327.146
+    },
+    {
+      "text": "That's the plan.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 327.298,
+      "end_time": 328.47
+    },
+    {
+      "text": "Zen Media, we had loads of interest.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 329.25,
+      "end_time": 331.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 333.01,
+      "end_time": 333.866
+    },
+    {
+      "text": "Just got to follow that up.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 334.058,
+      "end_time": 335.258
+    },
+    {
+      "text": "Probably follow it up on Monday.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 335.314,
+      "end_time": 336.87
+    },
+    {
+      "text": "What else is there?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 338.05,
+      "end_time": 339.43
+    },
+    {
+      "text": "I think that's probably it, isn't it?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 340.69,
+      "end_time": 342.718
+    },
+    {
+      "text": "Yeah, skyview is a.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 342.914,
+      "end_time": 344.646
+    },
+    {
+      "text": "Skyview is a thing as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 344.718,
+      "end_time": 346.198
+    },
+    {
+      "text": "It's like kind of offer something if you find something good for them.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 346.254,
+      "end_time": 350.55
+    },
+    {
+      "text": "Like if you come across.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 350.67,
+      "end_time": 351.97
+    },
+    {
+      "text": "Yeah, they're still looking for the same thing.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 353.15,
+      "end_time": 356.534
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 356.702,
+      "end_time": 357.286
+    },
+    {
+      "text": "They actually have made two acquisitions, so this is going to be.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 357.398,
+      "end_time": 360.902
+    },
+    {
+      "text": "They're.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 361.006,
+      "end_time": 361.334
+    },
+    {
+      "text": "They're going to sure make a third one and.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 361.382,
+      "end_time": 364.326
+    },
+    {
+      "text": "But it's of the same.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 364.478,
+      "end_time": 365.702
+    },
+    {
+      "text": "They're looking for the same stuff.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 365.806,
+      "end_time": 367.318
+    },
+    {
+      "text": "Yeah, same thing, like OEM they acquired.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 367.414,
+      "end_time": 371.73
+    },
+    {
+      "text": "So any company that's doing VR, AR events, live events, stuff like that, they're interested.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 372.31,
+      "end_time": 379.95
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 380.03,
+      "end_time": 380.65
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 381.59,
+      "end_time": 382.37
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 383.03,
+      "end_time": 383.822
+    },
+    {
+      "text": "Keep an eye on Sweet.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 383.966,
+      "end_time": 388.61
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 389.83,
+      "end_time": 390.77
+    },
+    {
+      "text": "Let's speak on Monday.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 391.43,
+      "end_time": 392.782
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 392.966,
+      "end_time": 393.802
+    },
+    {
+      "text": "Thanks, Zach.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 393.966,
+      "end_time": 394.95
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 395.61,
+      "end_time": 396.066
+    },
+    {
+      "text": "Have a good one.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 396.138,
+      "end_time": 396.914
+    },
+    {
+      "text": "Speak soon.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 397.002,
+      "end_time": 397.87
+    },
+    {
+      "text": "You too.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 399.77,
+      "end_time": 400.75
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 401.29,
+      "end_time": 402.274
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 402.442,
+      "end_time": 403.19
+    },
+    {
+      "text": "It, it, it, it, it, it, it, it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 419.54,
+      "end_time": 598.41
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A",
+      "Shopper Group",
+      "Hero Digital",
+      "Zen Media",
+      "Skyview",
+      "acquisitions"
+    ],
+    "action_items": "\n**Ahmed Zia**\nFollow up with Shopper Group contacts on Monday (03:21)\nFind more target shops for Shopper Group (03:34)\n\n**Jack Chiappe**\nReach out to Scott at Hero Digital instead of Tom Altman (04:52)\nKeep an eye on Sweet for Skyview (06:23)\n\n**Unassigned**\nFollow up on Zen Media interest on Monday (05:34)\n",
+    "outline": null,
+    "overview": "The M&A catch-up and strategy meeting served as a platform for team members to reconnect, share personal updates, and discuss the latest developments in the merger and acquisition landscape. The meeting included a light-hearted exchange about holiday experiences, notably Jack's vegetarian Christmas dinner and Ahmed's illness. Key M&A updates highlighted missed communications, with Ahmed providing a list of interested parties for the Shopper Group and plans to reconnect after the holidays. The discussion also touched on potential targets like Hero Digital, where a shift in contact strategy was recommended, and the renewed interest in Zen Media and Skyview's search for acquisitions in the VR and AR space. Action items were assigned, with clear follow-up tasks focused on advancing outreach and monitoring potential opportunities.",
+    "short_summary": "The M&A catch-up and strategy meeting served as a platform for team members to reconnect while discussing developments in the merger and acquisition landscape. Notable personal updates included Jack's vegetarian Christmas dinner and Ahmed's illness. Key M&A updates highlighted missed communications, with Ahmed providing a list of interested parties for the Shopper Group and plans to reconnect after the holidays. The discussion included potential targets like Hero Digital, where a shift in contact strategy was recommended, and renewed interest in Zen Media. Additionally, Skyview's search for acquisitions in the VR and AR space was discussed, with action items assigned for advancing outreach and monitoring opportunities.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/hu0WgCg0wD9kQthI",
+  "audio_url": "https://cdn.fireflies.ai/hu0WgCg0wD9kQthI/audio.mp3?Expires=1773225036&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL2h1MFdnQ2cwd0Q5a1F0aEkvYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDM2fX19XX0_&Signature=COo7QmL-wQAZw-xlAizzHpG7uoHQiWA5RU~LNquPlt96Wd3y6FLXVZPSl7g6VvwGWWogGyexalUvG6q1NtQJqH~XySwJiWFkzVGyRNmA8kLh66IjSdi~ap3gOXhFC3t3aADKz-Wsu46bsaq9WuhENLFuXGMUp-CqsiKuSJk3gqFGAfUFek6rWVaKwyqVzI5QVuWPSVLzRumM7G4TJsPM4jM8cS57iYMou7blnnOX6pmNuDt44OgcaBjNWjtAn~dZWdzJM0umWDwFYtgkQA8qi1-JGkZGzmTPzF~1GyBsHJi3Z2P2bvOpknm8eawk5QxVBn9NNMym-vyHBv65pJFTbQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/hu0WgCg0wD9kQthI/video.mp4?Expires=1773225036&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL2h1MFdnQ2cwd0Q5a1F0aEkvdmlkZW8ubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDM2fX19XX0_&Signature=i3~rb782MV68~ppMAYgQFZhD1~QTp22S56V5gZGucHoaCzq3NdWv4h7DOl03fk8upMr~W~DQMk3KmStEN0xn4T6ipV8~lCDtQ5BlBiwsMAUwBhIS5Rj77f5z-v3YVczf716dKWe3F2i51aB-UUQ0RdwjkHiybaWEplO-IEDisd~fAaqsBWzQfkVE8IQXQcgqOtIwn~gsRR9qMt-ToTTCuVhurIquzV3lX5f7p0UV7Rc3BkVc~RzrpXkJ~VJnwbkGZvFUYzdhomygGz1k-h462u9zxxJOxw-MQcO-FHzJntaA50VSAzdfS~BQ2F5L55ZsYuXMG7wwGGf~qVIYqkHzcA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

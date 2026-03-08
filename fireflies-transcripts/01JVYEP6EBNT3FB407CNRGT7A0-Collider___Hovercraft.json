@@ -1,0 +1,4432 @@
+{
+  "id": "01JVYEP6EBNT3FB407CNRGT7A0",
+  "title": "Collider | Hovercraft",
+  "date": 1748010600000,
+  "dateString": "2025-05-23T14:30:00.000Z",
+  "duration": 58.61000061035156,
+  "participants": [
+    "matt@hovercraftstudio.com,amanda.sapio@capitala.co,zack@hovercraftstudio.com,andrew.day@capitala.co,anton.jerges@wearecollider.com",
+    "matt@hovercraftstudio.com",
+    "amanda.sapio@capitala.co",
+    "zack@hovercraftstudio.com",
+    "anton.jerges@wearecollider.com"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "matt@hovercraftstudio.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "amanda.sapio@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Zack Teachout",
+      "email": "zack@hovercraftstudio.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "anton.jerges@wearecollider.com",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 0.4,
+      "end_time": 1.28
+    },
+    {
+      "text": "I'm good.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1.28,
+      "end_time": 1.72
+    },
+    {
+      "text": "I'm.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1.72,
+      "end_time": 2.16
+    },
+    {
+      "text": "Well, first of all, thanks so much for taking a call at 7:30am for you guys.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2.16,
+      "end_time": 6.56
+    },
+    {
+      "text": "I do appreciate it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 7.36,
+      "end_time": 8.56
+    },
+    {
+      "text": "I'm at.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 8.56,
+      "end_time": 9.12
+    },
+    {
+      "text": "I'm actually on vacation at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 9.36,
+      "end_time": 11.36
+    },
+    {
+      "text": "I'm in the middle of nowhere in France, so if the Internet is a little bit difficult, please bear with me.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 11.36,
+      "end_time": 18.16
+    },
+    {
+      "text": "Sounds lovely.",
+      "speaker_name": "matt",
+      "start_time": 18.88,
+      "end_time": 19.92
+    },
+    {
+      "text": "Yeah, we're having a good time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 23.04,
+      "end_time": 24.64
+    },
+    {
+      "text": "Also, I'm a little bit disheveled because I'm on a campsite in France, so.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 24.64,
+      "end_time": 29.85
+    },
+    {
+      "text": "Sorry about that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 29.85,
+      "end_time": 30.73
+    },
+    {
+      "text": "It's funny, when we were going through.",
+      "speaker_name": "Hovercraft",
+      "start_time": 33.77,
+      "end_time": 37.57
+    },
+    {
+      "text": "When we were actually going through acquisition at the very.",
+      "speaker_name": "Hovercraft",
+      "start_time": 37.57,
+      "end_time": 40.41
+    },
+    {
+      "text": "I think we were signing Loi, but I was, yeah, sleeping by a river during that week.",
+      "speaker_name": "Hovercraft",
+      "start_time": 40.73,
+      "end_time": 49.21
+    },
+    {
+      "text": "Well, we're.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 49.69,
+      "end_time": 50.33
+    },
+    {
+      "text": "We're kindred spirits then.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 51.05,
+      "end_time": 52.49
+    },
+    {
+      "text": "I've.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 52.49,
+      "end_time": 52.97
+    },
+    {
+      "text": "It's a bank holiday on.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 53.21,
+      "end_time": 54.57
+    },
+    {
+      "text": "On Monday in the uk, so I've.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 54.57,
+      "end_time": 56.85
+    },
+    {
+      "text": "I've got VW camper van and I like to just sort of disappear off and try and, you know, get away from everything every now and then.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 56.85,
+      "end_time": 63.67
+    },
+    {
+      "text": "So we've.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 63.67,
+      "end_time": 64.07
+    },
+    {
+      "text": "We've driven over to France and we're just driving around the.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 64.07,
+      "end_time": 66.47
+    },
+    {
+      "text": "The north of France at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 66.55,
+      "end_time": 69.07
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 69.07,
+      "end_time": 69.43
+    },
+    {
+      "text": "Yeah, you know, it's.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 70.31,
+      "end_time": 71.31
+    },
+    {
+      "text": "It's good to sort of chill out and get a bit back to nature every now and then, isn't it?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 71.31,
+      "end_time": 75.11
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 75.11,
+      "end_time": 75.67
+    },
+    {
+      "text": "That we are both big proponents of that.",
+      "speaker_name": "Hovercraft",
+      "start_time": 75.99,
+      "end_time": 78.95
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 79.11,
+      "end_time": 79.59
+    },
+    {
+      "text": "Speaking my language.",
+      "speaker_name": "matt",
+      "start_time": 79.67,
+      "end_time": 80.67
+    },
+    {
+      "text": "Oh, good.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 80.67,
+      "end_time": 81.19
+    },
+    {
+      "text": "Excellent, excellent.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 82.63,
+      "end_time": 83.75
+    },
+    {
+      "text": "Well, it's.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 83.75,
+      "end_time": 84.07
+    },
+    {
+      "text": "It's lovely to meet you both and, you know, I must say, I do.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 84.07,
+      "end_time": 91.06
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 91.06,
+      "end_time": 91.38
+    },
+    {
+      "text": "I confess I hadn't heard of hovercraft before I met with Jeff last week, or this week, rather, and I.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 91.54,
+      "end_time": 97.7
+    },
+    {
+      "text": "I looked at your work.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 97.7,
+      "end_time": 98.9
+    },
+    {
+      "text": "It's some astonishingly good work there.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 98.9,
+      "end_time": 101.14
+    },
+    {
+      "text": "Well done.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 101.14,
+      "end_time": 101.7
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "matt",
+      "start_time": 102.74,
+      "end_time": 103.3
+    },
+    {
+      "text": "Yeah, we haven't always been out in front of it, you know, sort of stayed below the radar for a long time, but, you know, kind of consistently been kind of pushing what's possible and working with some of the bigger brands that are all too happy to take the credit for the work that we do.",
+      "speaker_name": "matt",
+      "start_time": 103.3,
+      "end_time": 119.98
+    },
+    {
+      "text": "Well, it's nice you're putting your heads above the parapet now and getting the credit you deserve, but some really, really great stuff there.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 121.9,
+      "end_time": 128.34
+    },
+    {
+      "text": "I loved it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 128.34,
+      "end_time": 128.94
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "matt",
+      "start_time": 130.14,
+      "end_time": 130.5
+    },
+    {
+      "text": "And I mean, likewise.",
+      "speaker_name": "matt",
+      "start_time": 130.5,
+      "end_time": 131.26
+    },
+    {
+      "text": "I'd say that's kind of similar for us.",
+      "speaker_name": "matt",
+      "start_time": 131.26,
+      "end_time": 132.86
+    },
+    {
+      "text": "You know, I mean, obviously we mostly operate here in North America, but.",
+      "speaker_name": "matt",
+      "start_time": 132.86,
+      "end_time": 137.58
+    },
+    {
+      "text": "And we've.",
+      "speaker_name": "matt",
+      "start_time": 138.62,
+      "end_time": 139.22
+    },
+    {
+      "text": "It looks like fair amount of the work in your portfolio also does happen over here, but yeah, we.",
+      "speaker_name": "matt",
+      "start_time": 139.22,
+      "end_time": 145.87
+    },
+    {
+      "text": "We had less.",
+      "speaker_name": "matt",
+      "start_time": 145.87,
+      "end_time": 146.63
+    },
+    {
+      "text": "We weren't really aware of Collider either, so.",
+      "speaker_name": "matt",
+      "start_time": 148.15,
+      "end_time": 150.71
+    },
+    {
+      "text": "Yeah, it's been a lot of learning.",
+      "speaker_name": "matt",
+      "start_time": 151.59,
+      "end_time": 152.79
+    },
+    {
+      "text": "We'Re, yeah, we, I mean we've been around a long time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 152.79,
+      "end_time": 156.87
+    },
+    {
+      "text": "I started the business 20 odd years ago, but I think like yourselves, we kind of stayed under the radar until Covid and then during the pandemic I kind of restructured the business and, and when we came out of it, decided that we wanted to sort of create a more focused business towards experiential life and now sort of integrating digital and emerging tech into that and, and over the last couple of years we've started to focus on raising our profile a bit more.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 156.87,
+      "end_time": 183.13
+    },
+    {
+      "text": "So just getting our name out there, getting known and you know, it's, it's, it's great.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 183.13,
+      "end_time": 187.69
+    },
+    {
+      "text": "We've been winning quite a lot of awards and getting some good accolades.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 187.77,
+      "end_time": 190.45
+    },
+    {
+      "text": "We need some great new clients as well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 190.45,
+      "end_time": 191.93
+    },
+    {
+      "text": "So we're starting to sort of beat the drum, bang the drum really and get the name out there a bit more.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 192.97,
+      "end_time": 197.93
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 197.93,
+      "end_time": 198.41
+    },
+    {
+      "text": "I don't know if you guys have it, but the whole sort of sales cycle seems to have changed here in, in Europe and sort of inbound leads are far easier to convert than when you're just sort of, you know, doing outbound sales all the time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 198.41,
+      "end_time": 213.51
+    },
+    {
+      "text": "So by raising our profile we're finding we're getting a lot of people coming in and actually don't have to pitch then.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 213.51,
+      "end_time": 219.11
+    },
+    {
+      "text": "And as, as you probably know, pitching can be a huge, you know, drain on resource and time and, and, and money.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 220.07,
+      "end_time": 226.95
+    },
+    {
+      "text": "So just building the profile so that clients see you and they come in wanting to work with you, it's a lot easier to sell.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 227.98,
+      "end_time": 234.14
+    },
+    {
+      "text": "But yeah, we're, we've had the same experience.",
+      "speaker_name": "Hovercraft",
+      "start_time": 234.3,
+      "end_time": 237.1
+    },
+    {
+      "text": "Like we've, we've definitely been fortunate.",
+      "speaker_name": "Hovercraft",
+      "start_time": 237.9,
+      "end_time": 242.42
+    },
+    {
+      "text": "It's been like a slow growth because yeah, hovercraft started what, 15, 16 years ago?",
+      "speaker_name": "Hovercraft",
+      "start_time": 242.42,
+      "end_time": 249.86
+    },
+    {
+      "text": "15 years ago.",
+      "speaker_name": "Hovercraft",
+      "start_time": 249.86,
+      "end_time": 250.7
+    },
+    {
+      "text": "And it sort of, yeah, evolved and shape shifted over the years.",
+      "speaker_name": "Hovercraft",
+      "start_time": 251.9,
+      "end_time": 256.13
+    },
+    {
+      "text": "Then Matt joined as a, like we became 5050 partners in 2017 18.",
+      "speaker_name": "Hovercraft",
+      "start_time": 256.13,
+      "end_time": 266.65
+    },
+    {
+      "text": "One of those, he was, he was partner kind of managing director, leader of all at an interactive animation studio.",
+      "speaker_name": "Hovercraft",
+      "start_time": 268.81,
+      "end_time": 281.69
+    },
+    {
+      "text": "At the time, Hovercraft was only really doing kind of spatial, like retail spatial, some hospitality and then brand and more traditional brand and campaign work.",
+      "speaker_name": "Hovercraft",
+      "start_time": 282.49,
+      "end_time": 292.57
+    },
+    {
+      "text": "So we still, we collaborated with some, you know, overlapping clients and then we started supporting each other because clients were looking for, you know, the services that neither, you know, that we didn't offer.",
+      "speaker_name": "Hovercraft",
+      "start_time": 293.45,
+      "end_time": 305.85
+    },
+    {
+      "text": "And then very quickly we were like, oh, we're, we're onto something here and decided that we wanted to focus more on experiential, like kind of bringing all the traditional pieces just you Know, to two locations and, and more, you know, kind of well rounded experiences.",
+      "speaker_name": "Hovercraft",
+      "start_time": 307.6,
+      "end_time": 326.48
+    },
+    {
+      "text": "We've always sort of had a culture of kind of not pitching.",
+      "speaker_name": "matt",
+      "start_time": 327.04,
+      "end_time": 330.56
+    },
+    {
+      "text": "You know, I mean, it's been more of a commission based, you know, relationship based growth for us over the years.",
+      "speaker_name": "matt",
+      "start_time": 331.68,
+      "end_time": 339.39
+    },
+    {
+      "text": "And say the last couple years, the.",
+      "speaker_name": "matt",
+      "start_time": 339.47,
+      "end_time": 342.87
+    },
+    {
+      "text": "Pitching, yeah, it's ramped up.",
+      "speaker_name": "Hovercraft",
+      "start_time": 342.87,
+      "end_time": 345.15
+    },
+    {
+      "text": "It's ramped up quite a bit just because we're trying to, you know, break into kind of new industries or new categories.",
+      "speaker_name": "matt",
+      "start_time": 345.23,
+      "end_time": 352.67
+    },
+    {
+      "text": "And so we've been doing more pitching than historically we ever did.",
+      "speaker_name": "matt",
+      "start_time": 352.75,
+      "end_time": 357.15
+    },
+    {
+      "text": "And I agree with you, it's.",
+      "speaker_name": "matt",
+      "start_time": 358.03,
+      "end_time": 359.75
+    },
+    {
+      "text": "It takes a ton of time and energy and you know, I think a lot of the decision making process feels kind of arbitrary sometimes.",
+      "speaker_name": "matt",
+      "start_time": 359.75,
+      "end_time": 367.45
+    },
+    {
+      "text": "So, you know, not our favorite thing.",
+      "speaker_name": "matt",
+      "start_time": 367.53,
+      "end_time": 369.73
+    },
+    {
+      "text": "Not our favorite thing to do.",
+      "speaker_name": "matt",
+      "start_time": 369.73,
+      "end_time": 370.97
+    },
+    {
+      "text": "Do you know what we did when, when we came out, I mean, came through Covid and decided to restructure the business around a, you know, a number of different goals.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 371.93,
+      "end_time": 379.17
+    },
+    {
+      "text": "But one of the main things that I did was I set our pitch win rate target quite high, 70% and said, look, that's what we're aiming for every year is 70%.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 379.17,
+      "end_time": 390.45
+    },
+    {
+      "text": "And the reason I did that is because it makes you ask real questions in that pitch phase of have we actually got a 70% chance of winning this?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 390.45,
+      "end_time": 399.71
+    },
+    {
+      "text": "If we haven't, there's no point in doing it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 399.95,
+      "end_time": 402.11
+    },
+    {
+      "text": "So we kind of create a number of category that we then judge against the pitches.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 402.27,
+      "end_time": 405.95
+    },
+    {
+      "text": "And so you just get more selective and if you're more selective, you find you need it, then it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 406.35,
+      "end_time": 418.94
+    },
+    {
+      "text": "You find the pitch win rate goes down.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 419.42,
+      "end_time": 421.06
+    },
+    {
+      "text": "And we were chatting about it the other day on, on the Call with Jeff.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 421.06,
+      "end_time": 423.9
+    },
+    {
+      "text": "Actually, no is a very powerful word we found when we say no, people come back and they're like, well, no, we really want you to do it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 423.9,
+      "end_time": 430.26
+    },
+    {
+      "text": "We really want you to do it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 430.26,
+      "end_time": 431.34
+    },
+    {
+      "text": "And again, you know, that can help you convert.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 431.9,
+      "end_time": 433.74
+    },
+    {
+      "text": "But no, it sounds like we've been on similar paths.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 433.74,
+      "end_time": 436.38
+    },
+    {
+      "text": "Yeah, we might borrow that 70 approach.",
+      "speaker_name": "Hovercraft",
+      "start_time": 437.26,
+      "end_time": 440.38
+    },
+    {
+      "text": "Sometimes we find ourselves, we're like, oh, this, we could make this cool.",
+      "speaker_name": "Hovercraft",
+      "start_time": 441.98,
+      "end_time": 445.27
+    },
+    {
+      "text": "Yeah, different efforts for kind of responses.",
+      "speaker_name": "Hovercraft",
+      "start_time": 445.67,
+      "end_time": 450.27
+    },
+    {
+      "text": "But you know, similarly, we found like, we've been fortunate to kind of get off track with a little bit of backstory.",
+      "speaker_name": "Hovercraft",
+      "start_time": 450.27,
+      "end_time": 456.67
+    },
+    {
+      "text": "But most of our work has been word of mouth for, yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 456.67,
+      "end_time": 461.91
+    },
+    {
+      "text": "This whole ride and still a substantial amount of it is.",
+      "speaker_name": "Hovercraft",
+      "start_time": 461.91,
+      "end_time": 465.35
+    },
+    {
+      "text": "But as we've.",
+      "speaker_name": "Hovercraft",
+      "start_time": 466.31,
+      "end_time": 467.43
+    },
+    {
+      "text": "I wouldn't even say we're doing anything very sophisticated from marketing because we're really just putting projects on Instagram and LinkedIn right now.",
+      "speaker_name": "Hovercraft",
+      "start_time": 467.99,
+      "end_time": 478.32
+    },
+    {
+      "text": "And, and that is far better than what we have been doing for the last few years?",
+      "speaker_name": "Hovercraft",
+      "start_time": 478.72,
+      "end_time": 486.72
+    },
+    {
+      "text": "Well, genuinely, I came off the meeting with Jeff and, and I said to my managing director and, and my exec producer in the company, I just said, you've got to check these guys out, have a look at their LinkedIn.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 486.72,
+      "end_time": 499.06
+    },
+    {
+      "text": "And they both came back and just said that work is insane.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 499.06,
+      "end_time": 501.26
+    },
+    {
+      "text": "So it's good that you're getting out there because what you do is brilliant.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 501.42,
+      "end_time": 503.94
+    },
+    {
+      "text": "Well, yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 503.94,
+      "end_time": 504.46
+    },
+    {
+      "text": "And that, that we're already seeing the side or the effects of just like that little marketing kind of push the inbound.",
+      "speaker_name": "Hovercraft",
+      "start_time": 504.46,
+      "end_time": 513.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 515.02,
+      "end_time": 515.58
+    },
+    {
+      "text": "You know, from brands doing what we want to be doing or focusing on what we're doing is like, that's definitely going up.",
+      "speaker_name": "Hovercraft",
+      "start_time": 515.66,
+      "end_time": 524.06
+    },
+    {
+      "text": "And to your point, it's like, it is.",
+      "speaker_name": "Hovercraft",
+      "start_time": 525.01,
+      "end_time": 526.45
+    },
+    {
+      "text": "We, we've had a couple inbound things just like landing our email and they're, you know, ready to go.",
+      "speaker_name": "Hovercraft",
+      "start_time": 527.65,
+      "end_time": 534.05
+    },
+    {
+      "text": "Projects.",
+      "speaker_name": "Hovercraft",
+      "start_time": 534.05,
+      "end_time": 534.69
+    },
+    {
+      "text": "Yeah, it's way more fun, way more.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 535.41,
+      "end_time": 538.25
+    },
+    {
+      "text": "Fun than the, the grind of a pitch.",
+      "speaker_name": "Hovercraft",
+      "start_time": 538.25,
+      "end_time": 541.89
+    },
+    {
+      "text": "But it's pretty rare when you get a cold email from, like a major global brand and they're just sort of like, meet our procurement team.",
+      "speaker_name": "matt",
+      "start_time": 541.89,
+      "end_time": 549.09
+    },
+    {
+      "text": "They'd like to onboard you.",
+      "speaker_name": "matt",
+      "start_time": 549.17,
+      "end_time": 550.53
+    },
+    {
+      "text": "And I'm like, wow, we haven't even had a conversation yet.",
+      "speaker_name": "matt",
+      "start_time": 550.72,
+      "end_time": 552.8
+    },
+    {
+      "text": "Well, you know, you're doing something right when.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 555.52,
+      "end_time": 557.52
+    },
+    {
+      "text": "So what, what, what can I tell you about us?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 558.48,
+      "end_time": 561.16
+    },
+    {
+      "text": "I mean, you know, you know, as.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 561.16,
+      "end_time": 562.52
+    },
+    {
+      "text": "I said, we've done so, you know, we've done, I guess, a surface level kind of digging around look, you know, reading about projects and stuff.",
+      "speaker_name": "Hovercraft",
+      "start_time": 562.52,
+      "end_time": 570.56
+    },
+    {
+      "text": "And I think, you know, Jeff was asking our opinion and we were like, we, like, we can only get, you know, you can really only gauge so much from a website.",
+      "speaker_name": "Hovercraft",
+      "start_time": 572.56,
+      "end_time": 579.24
+    },
+    {
+      "text": "And like, from our website, you cannot gauge much at all, which we're.",
+      "speaker_name": "Hovercraft",
+      "start_time": 579.24,
+      "end_time": 583.62
+    },
+    {
+      "text": "We're kind of working on, but so are we.",
+      "speaker_name": "Hovercraft",
+      "start_time": 583.62,
+      "end_time": 587.02
+    },
+    {
+      "text": "We're changing ours at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 587.02,
+      "end_time": 588.26
+    },
+    {
+      "text": "It'll be live in six weeks.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 588.26,
+      "end_time": 589.46
+    },
+    {
+      "text": "It'll beat us.",
+      "speaker_name": "Hovercraft",
+      "start_time": 590.74,
+      "end_time": 591.54
+    },
+    {
+      "text": "Well, if you say it'll be live in six weeks, we'll check back in in 12.",
+      "speaker_name": "matt",
+      "start_time": 591.7,
+      "end_time": 594.82
+    },
+    {
+      "text": "But no, like I think what Zach was saying, I think for us, you know, kind of early stages of sort of looking to start to just grow and evolve this network, it's, you know, we're always sort of trying to figure out, you know, where can we be complementary with partners, but where can we also be additive in terms of new skill sets or offerings that we don't have?",
+      "speaker_name": "matt",
+      "start_time": 598.98,
+      "end_time": 622.13
+    },
+    {
+      "text": "And I mean, when we look at kind of what's.",
+      "speaker_name": "matt",
+      "start_time": 622.13,
+      "end_time": 625.57
+    },
+    {
+      "text": "What's there and on the site, there's obviously a fair amount of overlap in terms of project types.",
+      "speaker_name": "matt",
+      "start_time": 625.57,
+      "end_time": 632.01
+    },
+    {
+      "text": "Like when we look at the PR stunts or like, the big activations or experiential campaigns.",
+      "speaker_name": "matt",
+      "start_time": 632.31,
+      "end_time": 638.95
+    },
+    {
+      "text": "But, you know, there.",
+      "speaker_name": "matt",
+      "start_time": 640.23,
+      "end_time": 641.15
+    },
+    {
+      "text": "There's a notion of like, kind of strategy consulting work.",
+      "speaker_name": "matt",
+      "start_time": 641.15,
+      "end_time": 645.99
+    },
+    {
+      "text": "And, you know, words like experiential or activation can kind of mean so many different things to so many people.",
+      "speaker_name": "matt",
+      "start_time": 646.31,
+      "end_time": 654.39
+    },
+    {
+      "text": "In terms of, like, where you feel like you push the hardest and where you rely on partners to sort of round things out, you know, I mean, it's.",
+      "speaker_name": "matt",
+      "start_time": 654.39,
+      "end_time": 663.03
+    },
+    {
+      "text": "That's one of the tricky things for us is like, we'll show some of these big sophisticated projects and people are like, okay, well, what part did you do?",
+      "speaker_name": "matt",
+      "start_time": 663.34,
+      "end_time": 671.34
+    },
+    {
+      "text": "Like, did you just do the design?",
+      "speaker_name": "matt",
+      "start_time": 671.34,
+      "end_time": 672.62
+    },
+    {
+      "text": "Did you, like, just produce the build?",
+      "speaker_name": "matt",
+      "start_time": 673.1,
+      "end_time": 674.94
+    },
+    {
+      "text": "Did you just staff it?",
+      "speaker_name": "matt",
+      "start_time": 675.02,
+      "end_time": 676.38
+    },
+    {
+      "text": "You know, and we're sort of.",
+      "speaker_name": "matt",
+      "start_time": 676.54,
+      "end_time": 677.58
+    },
+    {
+      "text": "Did you come up with the idea?",
+      "speaker_name": "matt",
+      "start_time": 677.58,
+      "end_time": 678.62
+    },
+    {
+      "text": "And so, yeah, I think, yeah, we would just kind of love to hear.",
+      "speaker_name": "matt",
+      "start_time": 678.62,
+      "end_time": 681.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 681.66,
+      "end_time": 682.1
+    },
+    {
+      "text": "Sort of a more, you know, for sharper point of view on kind of where you feel like you're strongest and.",
+      "speaker_name": "matt",
+      "start_time": 682.1,
+      "end_time": 689.34
+    },
+    {
+      "text": "And where you're growing.",
+      "speaker_name": "matt",
+      "start_time": 689.34,
+      "end_time": 690.26
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 690.26,
+      "end_time": 690.62
+    },
+    {
+      "text": "Okay, Zach, sorry.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 691.62,
+      "end_time": 693.66
+    },
+    {
+      "text": "You were.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 693.66,
+      "end_time": 693.94
+    },
+    {
+      "text": "You were going to add something, but.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 693.94,
+      "end_time": 694.98
+    },
+    {
+      "text": "Yeah, it's just, you know, the way.",
+      "speaker_name": "Hovercraft",
+      "start_time": 694.98,
+      "end_time": 698.1
+    },
+    {
+      "text": "The way we're structured and operate to sort of color in kind of.",
+      "speaker_name": "Hovercraft",
+      "start_time": 698.42,
+      "end_time": 704.42
+    },
+    {
+      "text": "Matt's description of kind of what people are asking us for us, it really varies.",
+      "speaker_name": "Hovercraft",
+      "start_time": 704.42,
+      "end_time": 710.7
+    },
+    {
+      "text": "Like, we have in house, tech team animation, 3D designers, spatial designers, producers.",
+      "speaker_name": "Hovercraft",
+      "start_time": 710.7,
+      "end_time": 717.69
+    },
+    {
+      "text": "We do the creative technology work ourselves.",
+      "speaker_name": "Hovercraft",
+      "start_time": 718.49,
+      "end_time": 720.81
+    },
+    {
+      "text": "So, you know, we.",
+      "speaker_name": "Hovercraft",
+      "start_time": 720.89,
+      "end_time": 722.73
+    },
+    {
+      "text": "If we have sensors, gadgets, whatever it might be, you know, kind of the systems architecture, like, we own that side.",
+      "speaker_name": "Hovercraft",
+      "start_time": 722.81,
+      "end_time": 733.09
+    },
+    {
+      "text": "But like, we, you know, we outsource all fabrication, staffing.",
+      "speaker_name": "Hovercraft",
+      "start_time": 733.09,
+      "end_time": 739.77
+    },
+    {
+      "text": "And it varies.",
+      "speaker_name": "Hovercraft",
+      "start_time": 740.17,
+      "end_time": 740.97
+    },
+    {
+      "text": "Like, some clients we come in and yeah, we're kind of plugged in as like one of many teams in a bigger project where we might be just retail design or might be just.",
+      "speaker_name": "Hovercraft",
+      "start_time": 740.97,
+      "end_time": 751.69
+    },
+    {
+      "text": "Usually it's tech.",
+      "speaker_name": "Hovercraft",
+      "start_time": 752.09,
+      "end_time": 753.37
+    },
+    {
+      "text": "Anything kind of creative tech is tied to us, and that's sort of our differential for.",
+      "speaker_name": "Hovercraft",
+      "start_time": 753.45,
+      "end_time": 758.449
+    },
+    {
+      "text": "With a lot of people.",
+      "speaker_name": "Hovercraft",
+      "start_time": 758.449,
+      "end_time": 759.33
+    },
+    {
+      "text": "But we do support.",
+      "speaker_name": "Hovercraft",
+      "start_time": 759.33,
+      "end_time": 761.69
+    },
+    {
+      "text": "You know, we come in as like a specialty partner.",
+      "speaker_name": "Hovercraft",
+      "start_time": 761.85,
+      "end_time": 764.25
+    },
+    {
+      "text": "We come in just for concept or often and kind of where.",
+      "speaker_name": "Hovercraft",
+      "start_time": 765.37,
+      "end_time": 769.45
+    },
+    {
+      "text": "So our best projects really are and where bigger clients use us is like end to end.",
+      "speaker_name": "Hovercraft",
+      "start_time": 769.53,
+      "end_time": 775.26
+    },
+    {
+      "text": "You know, we're upstream all the way through production.",
+      "speaker_name": "Hovercraft",
+      "start_time": 775.34,
+      "end_time": 778.94
+    },
+    {
+      "text": "So we, you know, we're kind of structured to be pretty malleable and.",
+      "speaker_name": "Hovercraft",
+      "start_time": 780.7,
+      "end_time": 786.06
+    },
+    {
+      "text": "And even with like, yeah, size, you know, it might range from 20,000 to 4 million, which is, yeah, sort of chasing creative opportunity.",
+      "speaker_name": "Hovercraft",
+      "start_time": 786.06,
+      "end_time": 796.18
+    },
+    {
+      "text": "I mean, you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 796.18,
+      "end_time": 798.73
+    },
+    {
+      "text": "You don't sound an awful lot dissimilar to us.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 798.73,
+      "end_time": 801.09
+    },
+    {
+      "text": "So what I would say is, and I can go through this in a bit more Detail in a sec.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 801.09,
+      "end_time": 804.45
+    },
+    {
+      "text": "But if you look at the work on the website, all of that is ours.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 804.45,
+      "end_time": 807.25
+    },
+    {
+      "text": "So all of the strategy, the ideation, the creative development, the design, the logistical delivery of all of those components is managed by my team, not me, but my team.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 807.89,
+      "end_time": 822.05
+    },
+    {
+      "text": "So we have in house creative, we have in house production, we have in house client services, and we have in house strategy, albeit very, very small.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 822.37,
+      "end_time": 830.88
+    },
+    {
+      "text": "We're not a big team at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 831.52,
+      "end_time": 835.04
+    },
+    {
+      "text": "We are 19 seasoned veterans.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 835.76,
+      "end_time": 838
+    },
+    {
+      "text": "We've been around a long time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 838,
+      "end_time": 839.8
+    },
+    {
+      "text": "When I came out of COVID pre Covid, we were 52 people.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 839.8,
+      "end_time": 842.559
+    },
+    {
+      "text": "I came out of COVID with eight and decided to build the team, build the business around very senior personnel.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 842.88,
+      "end_time": 848.96
+    },
+    {
+      "text": "I came up with a strategy and hopefully I can remember it now, but what I wanted to do was achieve top tier agency status by attracting, retaining the best tal to serve brave and exciting clients who value brilliant work.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 850.16,
+      "end_time": 862.94
+    },
+    {
+      "text": "So that was kind of my mantra, that was what I wanted to do.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 863.18,
+      "end_time": 865.62
+    },
+    {
+      "text": "So it's around focusing on brilliant people first and foremost.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 865.62,
+      "end_time": 868.62
+    },
+    {
+      "text": "If you get brilliant people, you win brilliant work.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 868.7,
+      "end_time": 871.5
+    },
+    {
+      "text": "You've got brilliant people.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 871.74,
+      "end_time": 872.9
+    },
+    {
+      "text": "They'll build relationships with clients.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 872.9,
+      "end_time": 875.22
+    },
+    {
+      "text": "So you, you know, we come back to that pitching thing.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 875.22,
+      "end_time": 877.02
+    },
+    {
+      "text": "You're not wasting your time pitching all the time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 877.02,
+      "end_time": 878.58
+    },
+    {
+      "text": "It becomes like a virtuous circle.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 878.58,
+      "end_time": 880.3
+    },
+    {
+      "text": "Brilliant people wins.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 880.46,
+      "end_time": 881.54
+    },
+    {
+      "text": "Good work builds.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 881.54,
+      "end_time": 882.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 884.47,
+      "end_time": 884.87
+    },
+    {
+      "text": "Oh, we lost him to the woods.",
+      "speaker_name": "Hovercraft",
+      "start_time": 890.31,
+      "end_time": 894.71
+    },
+    {
+      "text": "Maybe he'll thaw out in a sec.",
+      "speaker_name": "matt",
+      "start_time": 915.04,
+      "end_time": 916.88
+    },
+    {
+      "text": "I can.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 921.52,
+      "end_time": 922.08
+    },
+    {
+      "text": "I mean, he probably won't get it if I message him, but just fully.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 922.32,
+      "end_time": 932.4
+    },
+    {
+      "text": "Maybe he might be back now.",
+      "speaker_name": "Hovercraft",
+      "start_time": 932.56,
+      "end_time": 934
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 934.9,
+      "end_time": 935.22
+    },
+    {
+      "text": "I mean, pretty impressive that it lasted that long where it looks like he's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 936.98,
+      "end_time": 941.78
+    },
+    {
+      "text": "Yeah, I want to go outside.",
+      "speaker_name": "matt",
+      "start_time": 942.9,
+      "end_time": 944.82
+    },
+    {
+      "text": "I'm very jealous.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 946.58,
+      "end_time": 947.62
+    },
+    {
+      "text": "It's funny because Andy and I just had a call with this other company, Frame IO, and the guy was also outside on his bike, mountain biking outside.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 949.14,
+      "end_time": 961.5
+    },
+    {
+      "text": "And he just, just like showing us his bike and he had all his gear on and everything.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 961.66,
+      "end_time": 966.38
+    },
+    {
+      "text": "It was really funny.",
+      "speaker_name": "matt",
+      "start_time": 967.18,
+      "end_time": 968.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 971.26,
+      "end_time": 971.62
+    },
+    {
+      "text": "They're exciting one to talk to.",
+      "speaker_name": "matt",
+      "start_time": 971.62,
+      "end_time": 973.1
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 973.42,
+      "end_time": 973.9
+    },
+    {
+      "text": "Yeah, you could tell he would.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 973.9,
+      "end_time": 975.26
+    },
+    {
+      "text": "He did not want to be on the call with us at all.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 975.42,
+      "end_time": 977.46
+    },
+    {
+      "text": "He definitely just wanted to be on the bike, understandably.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 977.46,
+      "end_time": 979.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 980.22,
+      "end_time": 980.7
+    },
+    {
+      "text": "That place is big though, right?",
+      "speaker_name": "Hovercraft",
+      "start_time": 981.58,
+      "end_time": 982.98
+    },
+    {
+      "text": "They're like a.",
+      "speaker_name": "Hovercraft",
+      "start_time": 982.98,
+      "end_time": 983.58
+    },
+    {
+      "text": "They're what frame?",
+      "speaker_name": "Hovercraft",
+      "start_time": 983.58,
+      "end_time": 987.43
+    },
+    {
+      "text": "Yeah, they're.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 988.79,
+      "end_time": 989.67
+    },
+    {
+      "text": "They're pretty big.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 989.67,
+      "end_time": 990.79
+    },
+    {
+      "text": "To be honest.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 992.55,
+      "end_time": 993.23
+    },
+    {
+      "text": "The guy, I don't think it'll be a good personality.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 993.23,
+      "end_time": 996.07
+    },
+    {
+      "text": "Yeah, he.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 997.27,
+      "end_time": 999.11
+    },
+    {
+      "text": "He was very dodgy with the questions.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 999.43,
+      "end_time": 1001.67
+    },
+    {
+      "text": "I mean like he, he definitely just did not want to be on the call, I think because he was in the middle of biking.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1002.07,
+      "end_time": 1006.91
+    },
+    {
+      "text": "But he just, he wasn't giving straight Answers.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1006.91,
+      "end_time": 1010.63
+    },
+    {
+      "text": "And it was just kind of a weird call and he was really pressing for the answers.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1010.63,
+      "end_time": 1016.67
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 1016.99,
+      "end_time": 1017.47
+    },
+    {
+      "text": "So.",
+      "speaker_name": "matt",
+      "start_time": 1018.03,
+      "end_time": 1018.39
+    },
+    {
+      "text": "And then like we were trying to talk about if he was profitable and he was not giving direct at all.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1018.39,
+      "end_time": 1025.15
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1025.23,
+      "end_time": 1025.63
+    },
+    {
+      "text": "We've seen that one before.",
+      "speaker_name": "matt",
+      "start_time": 1025.87,
+      "end_time": 1027.07
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 1027.47,
+      "end_time": 1027.95
+    },
+    {
+      "text": "I guess while we wait, we did add a bunch of stuff to the spread to the shared spreadsheet the other on Wednesday.",
+      "speaker_name": "matt",
+      "start_time": 1031.15,
+      "end_time": 1038.99
+    },
+    {
+      "text": "I don't know if you guys saw that.",
+      "speaker_name": "matt",
+      "start_time": 1039.07,
+      "end_time": 1040.63
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1040.63,
+      "end_time": 1041.71
+    },
+    {
+      "text": "I.",
+      "speaker_name": "matt",
+      "start_time": 1042.159,
+      "end_time": 1042.399
+    },
+    {
+      "text": "Let me go in and look at that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1042.559,
+      "end_time": 1043.879
+    },
+    {
+      "text": "I, I didn't see that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1043.879,
+      "end_time": 1045.319
+    },
+    {
+      "text": "There's like a hovercraft tab.",
+      "speaker_name": "matt",
+      "start_time": 1045.319,
+      "end_time": 1047.119
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1047.679,
+      "end_time": 1048.319
+    },
+    {
+      "text": "All right, let me pull that up.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1048.639,
+      "end_time": 1050.159
+    },
+    {
+      "text": "And I, and I'll actually drop some more in there.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1050.559,
+      "end_time": 1053.359
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1054.079,
+      "end_time": 1054.719
+    },
+    {
+      "text": "Here we go.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1055.599,
+      "end_time": 1056.199
+    },
+    {
+      "text": "I think we got Anton, guys.",
+      "speaker_name": "matt",
+      "start_time": 1056.199,
+      "end_time": 1057.839
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "matt",
+      "start_time": 1058.719,
+      "end_time": 1059.439
+    },
+    {
+      "text": "Yeah, I'm sorry about that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1059.679,
+      "end_time": 1061.999
+    },
+    {
+      "text": "Can you hear me okay?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1061.999,
+      "end_time": 1062.959
+    },
+    {
+      "text": "Yeah, no worries.",
+      "speaker_name": "matt",
+      "start_time": 1062.959,
+      "end_time": 1064.479
+    },
+    {
+      "text": "I feel like you're like, oh, he must have gotten a big fish on the line.",
+      "speaker_name": "matt",
+      "start_time": 1064.639,
+      "end_time": 1068.079
+    },
+    {
+      "text": "But if only, if only.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1068.32,
+      "end_time": 1070.64
+    },
+    {
+      "text": "I tell you what it was.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1070.64,
+      "end_time": 1071.52
+    },
+    {
+      "text": "I'm going off the hotspot on my phone and my phone overheated.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1071.52,
+      "end_time": 1074.24
+    },
+    {
+      "text": "Oh.",
+      "speaker_name": "matt",
+      "start_time": 1074.56,
+      "end_time": 1075.04
+    },
+    {
+      "text": "So it shut down.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1075.04,
+      "end_time": 1076.08
+    },
+    {
+      "text": "So I've had to come in the shade.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1076.24,
+      "end_time": 1077.76
+    },
+    {
+      "text": "So apologies for that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1077.76,
+      "end_time": 1080.48
+    },
+    {
+      "text": "But yeah, so what I was saying was the, the, my, my rationale was I wanted to build the business around senior people, so people that have got a lot of experience and have done amazing work and I think that has, you know, stood us in very, very good stead.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1080.88,
+      "end_time": 1096.48
+    },
+    {
+      "text": "We kind of bust all of the industry metrics in the UK in terms of our gross profit per person, our productivity per person.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1096.48,
+      "end_time": 1104.92
+    },
+    {
+      "text": "So we're a small team, but we have incredible ability to, to go at scale.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1104.92,
+      "end_time": 1109.52
+    },
+    {
+      "text": "So all of the work that you see on our website is all work that we have done ourselves.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1110.319,
+      "end_time": 1113.72
+    },
+    {
+      "text": "We haven't just supplied the staff for an event.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1113.72,
+      "end_time": 1115.64
+    },
+    {
+      "text": "We have ideated, we've created, we've developed, we've logistically delivered all of that work.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1115.64,
+      "end_time": 1120.16
+    },
+    {
+      "text": "But we rely on a supplier network, so we don't have any fabrication ourself.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1120.43,
+      "end_time": 1123.83
+    },
+    {
+      "text": "We use subcontractors to build.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1123.83,
+      "end_time": 1125.95
+    },
+    {
+      "text": "We don't own any hardware ourselves.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1126.35,
+      "end_time": 1128.35
+    },
+    {
+      "text": "We hire that in.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1128.35,
+      "end_time": 1129.71
+    },
+    {
+      "text": "We don't, we don't have any.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1130.03,
+      "end_time": 1133.15
+    },
+    {
+      "text": "So we don't have, we don't do broadcast ourselves.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1133.31,
+      "end_time": 1137.07
+    },
+    {
+      "text": "We have, when we're working on the esports tournament, we bring broadcast teams in, OB trucks and all that sort of stuff, but we manage all of that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1137.15,
+      "end_time": 1145.63
+    },
+    {
+      "text": "So from a client perspective, they employ collider, we manage all of that and that's managed seamlessly.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1145.63,
+      "end_time": 1151.36
+    },
+    {
+      "text": "We, so we, we have a full time team of 19 people at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1152.4,
+      "end_time": 1156.44
+    },
+    {
+      "text": "We are recruiting for another three or four right now.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1156.44,
+      "end_time": 1158.72
+    },
+    {
+      "text": "But we rely also, you know, we have a good extensive network of freelancers.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1159.52,
+      "end_time": 1164.4
+    },
+    {
+      "text": "I've been in the industry over 30 years, so I've got a black book, you know, that is pretty good.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1165.12,
+      "end_time": 1169.8
+    },
+    {
+      "text": "And the rest of my team do 80% of our work, I think is overseas.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1169.8,
+      "end_time": 1174
+    },
+    {
+      "text": "So we're head office out of London but we work internationally.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1174,
+      "end_time": 1176.8
+    },
+    {
+      "text": "Last week we were in Boston, we delivered Max East.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1178.94,
+      "end_time": 1181.9
+    },
+    {
+      "text": "This week we're in Beijing delivering a big energy and trade share booth for an Australian client called Woodside.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1182.3,
+      "end_time": 1187.98
+    },
+    {
+      "text": "I think our next jobs are Berlin.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1189.26,
+      "end_time": 1191.02
+    },
+    {
+      "text": "We're working on a big roadshow in, in California for the end of the year for Pokemon.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1191.42,
+      "end_time": 1195.74
+    },
+    {
+      "text": "So, you know, we, we work internationally again.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1195.82,
+      "end_time": 1198.06
+    },
+    {
+      "text": "Our supplier base and our freelancer network extends internationally.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1198.22,
+      "end_time": 1202.54
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "matt",
+      "start_time": 1204.87,
+      "end_time": 1205.23
+    },
+    {
+      "text": "Yeah, we, we've actually been finding, let me say we've been getting asked more and more as the days go on about international work.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1205.23,
+      "end_time": 1214.71
+    },
+    {
+      "text": "We do some, but we've def.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1216.95,
+      "end_time": 1218.749
+    },
+    {
+      "text": "That I've, I've seen that be an uptick and then even with like the, the OMM relationship and just being able to kind of speak to that like we just met with Coach and Kate Spade and everybody's yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1218.749,
+      "end_time": 1233.45
+    },
+    {
+      "text": "Sneers perked hearing that we had, you know, we were extended into, into London with some amount of team because, you know, they're doing UK work and projects.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1233.61,
+      "end_time": 1245.85
+    },
+    {
+      "text": "So it feels like that over time is going to be something like.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1246.49,
+      "end_time": 1249.21
+    },
+    {
+      "text": "That's going to be like a, a reality that we're going to have to solve for.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1249.29,
+      "end_time": 1254.13
+    },
+    {
+      "text": "And we're, we're definitely not very well equipped right now to, you know, support project in China, which seems to be like a common ask lately.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1254.13,
+      "end_time": 1263.25
+    },
+    {
+      "text": "No, but yeah, we've got an incredible network in, in Southeast Asia, so China and Japan, South Korea, we've.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1263.25,
+      "end_time": 1274.57
+    },
+    {
+      "text": "We've worked throughout all of them.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1274.57,
+      "end_time": 1275.85
+    },
+    {
+      "text": "Singapore as well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1275.85,
+      "end_time": 1276.85
+    },
+    {
+      "text": "We regularly do stuff in Singapore.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1276.85,
+      "end_time": 1278.65
+    },
+    {
+      "text": "In Europe, got a phenomenal network actually on the board of directors of an organization called 27 Names.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1279.05,
+      "end_time": 1284.97
+    },
+    {
+      "text": "And 27 Names is made up of one agency from every country in Europe.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1285.88,
+      "end_time": 1289.72
+    },
+    {
+      "text": "So you get invited onto it with the UK gives me every country in Western Europe.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1290.6,
+      "end_time": 1299.24
+    },
+    {
+      "text": "So, you know, we have that nicely, nicely covered.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1300.2,
+      "end_time": 1302.68
+    },
+    {
+      "text": "So that does.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1302.76,
+      "end_time": 1303.56
+    },
+    {
+      "text": "It gives me a really cool insight into what's going on in all those markets.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1303.56,
+      "end_time": 1307
+    },
+    {
+      "text": "So how they perform did give us the pandemic, did give us.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1307.24,
+      "end_time": 1318.57
+    },
+    {
+      "text": "It shrank the world.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1318.57,
+      "end_time": 1319.41
+    },
+    {
+      "text": "So it meant that clients now think more confidently internationally.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1319.97,
+      "end_time": 1324.05
+    },
+    {
+      "text": "You know, they, they'll come to you guys and, and if you say you've got the ability to deliver in London or Paris, they'll believe you and that won't be a problem because now used to doing calls like this, you know, it's, it's every day.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1324.29,
+      "end_time": 1336.37
+    },
+    {
+      "text": "So I, I think you're absolutely right.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1336.37,
+      "end_time": 1338.25
+    },
+    {
+      "text": "And from our perspective.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1338.25,
+      "end_time": 1339.15
+    },
+    {
+      "text": "Perspective, you know.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1339.38,
+      "end_time": 1340.26
+    },
+    {
+      "text": "Oh, man.",
+      "speaker_name": "matt",
+      "start_time": 1345.54,
+      "end_time": 1346.26
+    },
+    {
+      "text": "Orienton that I get so frustrated when I'm, that when I'm, yeah, I will.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1346.34,
+      "end_time": 1353.1
+    },
+    {
+      "text": "Say I'm enjoying the conversation, but maybe it makes sense just to like, reschedule this.",
+      "speaker_name": "matt",
+      "start_time": 1353.1,
+      "end_time": 1357.3
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1357.62,
+      "end_time": 1358.86
+    },
+    {
+      "text": "Because I, I, I think it sounds like he got a great feel for what you guys do and then I, it seems like you guys kind of understand what he does now, right?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1358.86,
+      "end_time": 1367.3
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "matt",
+      "start_time": 1367.79,
+      "end_time": 1368.59
+    },
+    {
+      "text": "I think if we, yeah, if we have.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1368.59,
+      "end_time": 1370.99
+    },
+    {
+      "text": "If here's it's coming back.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1370.99,
+      "end_time": 1372.91
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1376.51,
+      "end_time": 1376.87
+    },
+    {
+      "text": "Because I'm, I'm most curious about like we can kind of see where we know some of our project types that we're less equipped for or more with.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1376.87,
+      "end_time": 1389.63
+    },
+    {
+      "text": "Seemingly they're, they're kind of doing on the, the data, you know, say day to day, but I think understanding where there might be efficiencies or ability to like, kind of leverage each other within our own client networks, you know, like, we do all the technical work in house and it's like there's a little bit sprinkled here and there, but like, it feels like that could be a great opportunity.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1390.19,
+      "end_time": 1415.24
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "matt",
+      "start_time": 1415.88,
+      "end_time": 1416.28
+    },
+    {
+      "text": "Also, you know, you take our book of work within their client roster and it's a little more consumer facing.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1416.52,
+      "end_time": 1423.81
+    },
+    {
+      "text": "Showy.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1423.81,
+      "end_time": 1424.45
+    },
+    {
+      "text": "They're just like different, more retail.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1424.53,
+      "end_time": 1426.53
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1427.01,
+      "end_time": 1427.41
+    },
+    {
+      "text": "And, and vice versa.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1427.97,
+      "end_time": 1429.09
+    },
+    {
+      "text": "You know, we do occasionally, you know, we do some projects that are kind of like, probably more fitting for them and where we do them, but it's definitely not our specialty.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1429.09,
+      "end_time": 1440.29
+    },
+    {
+      "text": "Yeah, it's on our specialty.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1440.45,
+      "end_time": 1441.61
+    },
+    {
+      "text": "We like, we, it's more existing clients right away if even, you know, we can't support like as many projects like that are.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1441.61,
+      "end_time": 1451.36
+    },
+    {
+      "text": "He just said he's struggling to get back on.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1454.8,
+      "end_time": 1456.64
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1456.88,
+      "end_time": 1457.32
+    },
+    {
+      "text": "Yeah, I think we should.",
+      "speaker_name": "matt",
+      "start_time": 1457.32,
+      "end_time": 1458.72
+    },
+    {
+      "text": "But I can also follow up with you guys.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1460.16,
+      "end_time": 1463.28
+    },
+    {
+      "text": "Oh, there's Anton.",
+      "speaker_name": "matt",
+      "start_time": 1463.36,
+      "end_time": 1464.36
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1464.36,
+      "end_time": 1464.8
+    },
+    {
+      "text": "I'm so sorry.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1464.88,
+      "end_time": 1465.84
+    },
+    {
+      "text": "No, we were just saying like, we, we're really enjoying the conversation but like, we have no problem kind of pushing over to the other side of the, the holiday if it's going to be, you know, more for you.",
+      "speaker_name": "matt",
+      "start_time": 1467.04,
+      "end_time": 1480.67
+    },
+    {
+      "text": "Well, why don't we keep going And I'm back home on Sunday night, so, you know, I'll be happy to catch up on Monday or Tuesday or whenever is good for you next week.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1481.47,
+      "end_time": 1490.83
+    },
+    {
+      "text": "What might help is if I turn my camera off then, you know, maybe it'll be a bit more stable.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1491.63,
+      "end_time": 1496.59
+    },
+    {
+      "text": "So is that okay with you?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1496.59,
+      "end_time": 1498.63
+    },
+    {
+      "text": "You know what I look like now?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1498.63,
+      "end_time": 1499.59
+    },
+    {
+      "text": "You know, I exist.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1499.59,
+      "end_time": 1500.43
+    },
+    {
+      "text": "Yeah, that's a.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1501.99,
+      "end_time": 1502.95
+    },
+    {
+      "text": "You know, Matt and I have, as they say, faces for radio.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1502.95,
+      "end_time": 1507.43
+    },
+    {
+      "text": "Yeah, we're happy to all go.",
+      "speaker_name": "matt",
+      "start_time": 1507.59,
+      "end_time": 1509.83
+    },
+    {
+      "text": "Cameras off.",
+      "speaker_name": "matt",
+      "start_time": 1509.83,
+      "end_time": 1510.55
+    },
+    {
+      "text": "That's going to make, I guess, you know, I was just mentioning these, these two.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1510.55,
+      "end_time": 1516.31
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 1518.47,
+      "end_time": 1518.83
+    },
+    {
+      "text": "I think where just being, you know, like if the.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1518.83,
+      "end_time": 1521.75
+    },
+    {
+      "text": "There is some kind of interest in where, you know, this could all go.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1522.39,
+      "end_time": 1528.31
+    },
+    {
+      "text": "I think for, for Matt and I on, you know, we've been trying to look at like some, some kind of conversations and, and studios make, you know, a ton of sense where it's just like a straight.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1528.31,
+      "end_time": 1543.77
+    },
+    {
+      "text": "They do exactly what we do or, or focus on, you know, the kind of emerging technology.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1545.13,
+      "end_time": 1549.85
+    },
+    {
+      "text": "And it's a small team and you know, we have big clients, it's super easy to scale.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1549.93,
+      "end_time": 1554.89
+    },
+    {
+      "text": "Like, you know, we, we definitely between collider and Hovercraft have overlap in some project types.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1556.52,
+      "end_time": 1563.24
+    },
+    {
+      "text": "I'd say probably what you do more of is what we do less of.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1563.56,
+      "end_time": 1566.92
+    },
+    {
+      "text": "And yeah, we do like more kind of retail and like the event, bigger activation work usually.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1567.48,
+      "end_time": 1574.76
+    },
+    {
+      "text": "So then has like a very heavy kind of creative tech twist to it.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1575.08,
+      "end_time": 1579.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1580.36,
+      "end_time": 1580.84
+    },
+    {
+      "text": "So, you know, I think I can, so I can see where that, you know, maybe an assumption and within just our existing client networks, it's like opportunity, you know, it kind of open to grab more share of just like project workflow in both directions.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1581.65,
+      "end_time": 1601.65
+    },
+    {
+      "text": "But you know, curious where like from an efficiency standpoint, you know, I can kind of see some obvious ones.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1603.41,
+      "end_time": 1610.15
+    },
+    {
+      "text": "But you know, we have a good size and actively growing kind of creative tech team.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1610.15,
+      "end_time": 1617.23
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1618.11,
+      "end_time": 1618.67
+    },
+    {
+      "text": "And we're really trying to push, you know, kind of emerging technology.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1619.31,
+      "end_time": 1623.63
+    },
+    {
+      "text": "We do traditional, you know, interactive and then, you know, kind of the, the baseline of, you know, XR work, gaming engine, things like that.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1623.869,
+      "end_time": 1636.02
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1636.82,
+      "end_time": 1637.3
+    },
+    {
+      "text": "You know.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1637.3,
+      "end_time": 1637.78
+    },
+    {
+      "text": "That'S an area that we have recently started to dip our toe in.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1640.66,
+      "end_time": 1644.9
+    },
+    {
+      "text": "And as Jeff knows and may have said to you, last year we created like a startup entity which is effectively an innovation lab looking at emerging technology.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1644.98,
+      "end_time": 1657.78
+    },
+    {
+      "text": "So looking at how we can lean into emerging tech around ar, around VR, you know, all of those things, how we can bring those things into our offer.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1657.94,
+      "end_time": 1667.78
+    },
+    {
+      "text": "I think the market over here in the UK is quite some way behind what you guys are doing.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1668.1,
+      "end_time": 1673.14
+    },
+    {
+      "text": "But everything that you're doing, that's what particularly excites me about you guys and what you're doing.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1673.54,
+      "end_time": 1677.3
+    },
+    {
+      "text": "Everything that you're doing is what we want to be doing with our experiences here throughout Europe and, and with our clients.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1677.3,
+      "end_time": 1683.62
+    },
+    {
+      "text": "So we've started to do that we invested in a startup business.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1683.94,
+      "end_time": 1687.78
+    },
+    {
+      "text": "We've decided to bring that business into the collider stable.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1687.94,
+      "end_time": 1691.3
+    },
+    {
+      "text": "So we're closing it down as a business in its own right.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1691.38,
+      "end_time": 1693.7
+    },
+    {
+      "text": "We're just integr it within our organization as our innovation lab.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1693.7,
+      "end_time": 1698.24
+    },
+    {
+      "text": "And that's headed up by a lady called Charlotte who's head of strategy and innovation.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1698.96,
+      "end_time": 1702.8
+    },
+    {
+      "text": "And I'm, I'm sure you're familiar with the brand south by Southwest.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1703.84,
+      "end_time": 1707.44
+    },
+    {
+      "text": "There's a South by Southwest in London week beginning of June.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1708.32,
+      "end_time": 1712.2
+    },
+    {
+      "text": "Charlotte and I are both talking at that and we're talking about exactly this, this subject, you know that the new frontier immersive media and how brands need to be engaging within those immersive experiences to really sort of create those long lasting connections with consumers, but also to attract consumers of tomorrow.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1712.2,
+      "end_time": 1731.4
+    },
+    {
+      "text": "So Gen Alpha, you know those guys coming through next, this year they'll be the biggest generation on the planet.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1731.72,
+      "end_time": 1736.12
+    },
+    {
+      "text": "79% of them play video games.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1736.12,
+      "end_time": 1739
+    },
+    {
+      "text": "Okay, so how is your brand going to turn up in that environment and starting to explore, you know, how we can take it?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1739.24,
+      "end_time": 1744.72
+    },
+    {
+      "text": "Yeah, we, we are very much in real life.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1744.72,
+      "end_time": 1747.48
+    },
+    {
+      "text": "But how can we make those, you know, true hybrid experiences but also how can we create digital twins for the experiences that we're creating so that they've got that amp amplification, they've got that greater growth around them.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1747.88,
+      "end_time": 1760.03
+    },
+    {
+      "text": "Yeah, that, that's good to hear.",
+      "speaker_name": "matt",
+      "start_time": 1760.83,
+      "end_time": 1762.11
+    },
+    {
+      "text": "I think that's why we were very excited with what you guys do.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1762.43,
+      "end_time": 1765.07
+    },
+    {
+      "text": "Yeah, and I think what I, you.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1765.15,
+      "end_time": 1769.11
+    },
+    {
+      "text": "Know, you know like we were kind of saying earlier we just our ability to kind of look at the website and kind of make some general kind of assumptions or understandings for how you're set up versus like hearing it directly.",
+      "speaker_name": "matt",
+      "start_time": 1769.11,
+      "end_time": 1783.61
+    },
+    {
+      "text": "That was kind of one thing that we were curious about.",
+      "speaker_name": "matt",
+      "start_time": 1783.61,
+      "end_time": 1785.73
+    },
+    {
+      "text": "I mean we obviously saw the, that idea of like the larger network and sort of now knowing that, that you know, emergent technology sort of incubator is becoming a full, fully integrated particle either.",
+      "speaker_name": "matt",
+      "start_time": 1785.73,
+      "end_time": 1803.29
+    },
+    {
+      "text": "It's great to hear but yeah was kind of curious.",
+      "speaker_name": "matt",
+      "start_time": 1803.29,
+      "end_time": 1806.29
+    },
+    {
+      "text": "I mean it looked like from like a staffing point of view you guys seem like heavy on sort of the like account and direction and I know you said you're like very senior led.",
+      "speaker_name": "matt",
+      "start_time": 1806.29,
+      "end_time": 1819.29
+    },
+    {
+      "text": "We're, we tend to be the same way but probably like leaning more on the creative side as opposed to like the production and account side.",
+      "speaker_name": "matt",
+      "start_time": 1819.85,
+      "end_time": 1827.45
+    },
+    {
+      "text": "So like just kind of curious about, you know, I think I saw like Kit and Michael and Natasha sort of on the creative and like 3D side of things.",
+      "speaker_name": "matt",
+      "start_time": 1827.45,
+      "end_time": 1839.45
+    },
+    {
+      "text": "But like in general, you know, what's the.",
+      "speaker_name": "matt",
+      "start_time": 1839.45,
+      "end_time": 1842.29
+    },
+    {
+      "text": "What would you consider kind of the overall team makeup in terms of like hard skills versus soft skills, you know?",
+      "speaker_name": "matt",
+      "start_time": 1842.85,
+      "end_time": 1850.05
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1850.289,
+      "end_time": 1850.77
+    },
+    {
+      "text": "It's a fairly even split if I think we're seeing crazy.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1850.93,
+      "end_time": 1858.85
+    },
+    {
+      "text": "And then we've got Mark LinkedIn.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1858.85,
+      "end_time": 1861.73
+    },
+    {
+      "text": "I think we then have three full.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1861.73,
+      "end_time": 1872.37
+    },
+    {
+      "text": "Oh, Anton, I think we might have lost you again.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1877.49,
+      "end_time": 1881.57
+    },
+    {
+      "text": "I think I can also send.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1883.65,
+      "end_time": 1885.41
+    },
+    {
+      "text": "Jeff asked the same question so I.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1886.13,
+      "end_time": 1887.97
+    },
+    {
+      "text": "Can pull that again.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1887.97,
+      "end_time": 1889.25
+    },
+    {
+      "text": "Oh, there we go.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1889.25,
+      "end_time": 1890.77
+    },
+    {
+      "text": "Sorry, we just lost you for a second.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1891.41,
+      "end_time": 1892.93
+    },
+    {
+      "text": "I'm back.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1893.89,
+      "end_time": 1894.53
+    },
+    {
+      "text": "Yeah, I'm sorry.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1895.81,
+      "end_time": 1897.01
+    },
+    {
+      "text": "Production three full time and Mark as exec producer who sits between the two.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1903.25,
+      "end_time": 1908.69
+    },
+    {
+      "text": "And then you've got Tracy who heads up the client services team.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1909.25,
+      "end_time": 1911.89
+    },
+    {
+      "text": "She's also our managing director, so she's very operative.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1911.89,
+      "end_time": 1914.38
+    },
+    {
+      "text": "Myself, I'm in client.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1915.09,
+      "end_time": 1916.73
+    },
+    {
+      "text": "Well, business development.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1916.73,
+      "end_time": 1917.65
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1918.77,
+      "end_time": 1919.33
+    },
+    {
+      "text": "And also looking at strategically, we've got an F.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1919.73,
+      "end_time": 1924.69
+    },
+    {
+      "text": "We've got Charlotte who's head of strategy and innovation and then we've got a couple of.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1925.65,
+      "end_time": 1929.97
+    },
+    {
+      "text": "Can you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1938.93,
+      "end_time": 1939.49
+    },
+    {
+      "text": "Have you still got.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1939.57,
+      "end_time": 1940.45
+    },
+    {
+      "text": "You got a little trapped, but yeah, you're still here.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1941.75,
+      "end_time": 1943.59
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "matt",
+      "start_time": 1943.67,
+      "end_time": 1944.31
+    },
+    {
+      "text": "I'm sorry about this.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 1947.19,
+      "end_time": 1948.27
+    },
+    {
+      "text": "Oh, no, that's fine.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1948.27,
+      "end_time": 1949.47
+    },
+    {
+      "text": "I think, you know, like, I do think it's interesting.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1949.47,
+      "end_time": 1954.55
+    },
+    {
+      "text": "Like we, you know, we have the.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1954.55,
+      "end_time": 1955.63
+    },
+    {
+      "text": "The OMM team is mostly interactive focused and creative tech and.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1955.63,
+      "end_time": 1963.43
+    },
+    {
+      "text": "So I feel.",
+      "speaker_name": "matt",
+      "start_time": 1967.28,
+      "end_time": 1968.2
+    },
+    {
+      "text": "Like there's something interesting there just having, you know, there is a team who's capable but they're def.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1968.2,
+      "end_time": 1973.72
+    },
+    {
+      "text": "You know, from Matt and I's perspective, they're not very good at drumming up business and closing business.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1973.72,
+      "end_time": 1980.48
+    },
+    {
+      "text": "They're definitely a little like they're more of a kind of creative production partner than how the studio sites operated.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1980.48,
+      "end_time": 1989.6
+    },
+    {
+      "text": "You know, where they've supported a lot of Nike work.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1989.6,
+      "end_time": 1991.76
+    },
+    {
+      "text": "That's how we were.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1993.05,
+      "end_time": 1993.77
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1993.77,
+      "end_time": 1994.21
+    },
+    {
+      "text": "Became familiar with them some years ago.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1994.21,
+      "end_time": 1995.85
+    },
+    {
+      "text": "But it's more, you know, they're kind of served ideas and things that are more ready to be developed and executed.",
+      "speaker_name": "Hovercraft",
+      "start_time": 1997.21,
+      "end_time": 2004.65
+    },
+    {
+      "text": "But again, you know, they're kind of living in all different types of kind of interactive and emerging tech.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2005.05,
+      "end_time": 2010.89
+    },
+    {
+      "text": "Yeah, yeah, we're not like that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2011.29,
+      "end_time": 2014.89
+    },
+    {
+      "text": "We're not a production company and we do produce, but we are creative first and foremost.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2014.97,
+      "end_time": 2021.66
+    },
+    {
+      "text": "So we win our work on our creative ideation, on our strategy, our strategic thinking that informs that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2021.66,
+      "end_time": 2026.22
+    },
+    {
+      "text": "That creative.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2026.22,
+      "end_time": 2027.74
+    },
+    {
+      "text": "You know, I, I actively turn work away if I think they just want a production house because we're not cost effective as a production house and you know, clients won't be valuing us for what we want to bring to the table, which is that creative thinking.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2028.06,
+      "end_time": 2042.62
+    },
+    {
+      "text": "Yeah, I think.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2044.95,
+      "end_time": 2045.51
+    },
+    {
+      "text": "Yeah, we're, you know, kind of pretty much the, the Exact same.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2045.99,
+      "end_time": 2050.71
+    },
+    {
+      "text": "But I, I do with the OMM group, I think there's something interesting because it's kind of a potential plug and play.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2054.47,
+      "end_time": 2061.71
+    },
+    {
+      "text": "Like if, if you all are developing the work and the ideas like from it, from like creative tech kind of as we do it across so many projects like they're set up to be able to take that work and you know, they, they understand the workflow, how to develop a project.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2061.71,
+      "end_time": 2080.219
+    },
+    {
+      "text": "But again they're, they're definitely not design led as much like that.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2081.179,
+      "end_time": 2087.099
+    },
+    {
+      "text": "You know, X ui, non traditional interface, things like that for sure.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2087.099,
+      "end_time": 2091.659
+    },
+    {
+      "text": "But they're, they're less, they're less strategy and big ideas.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2091.659,
+      "end_time": 2095.659
+    },
+    {
+      "text": "So they're definitely, yeah, further downstream, which is something we've been trying to figure out how to, like how to deal with because we live, you know, as soon as you put hovercraft on the door and we have some shared clients, but if we put hovercraft on the door there, then everyone assumes and expects that you can take work from blank page to the finish line.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2096.059,
+      "end_time": 2122.71
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2123.83,
+      "end_time": 2124.39
+    },
+    {
+      "text": "And you know, it's kind of.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2124.63,
+      "end_time": 2126.71
+    },
+    {
+      "text": "They're not quite there.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2126.79,
+      "end_time": 2127.75
+    },
+    {
+      "text": "Yeah, I think we would fill that gap quite nicely.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2128.9,
+      "end_time": 2131.26
+    },
+    {
+      "text": "You know, we're that creative resource.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2131.26,
+      "end_time": 2133.54
+    },
+    {
+      "text": "We, you know, they probably do a huge amount that we don't do that we would normally look for suppliers to do.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2133.62,
+      "end_time": 2139.42
+    },
+    {
+      "text": "So we would look within our supply chain to deliver from a creative build for a UX perspective.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2139.42,
+      "end_time": 2144.46
+    },
+    {
+      "text": "You know, we're, we're ideation strategically solving client problems through, you know, the implementation of creative ideas.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2144.46,
+      "end_time": 2152.9
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2153.55,
+      "end_time": 2153.95
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2154.19,
+      "end_time": 2154.59
+    },
+    {
+      "text": "So I think, yeah, that I feel like is a, a big plus for me.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2154.59,
+      "end_time": 2161.79
+    },
+    {
+      "text": "It's sort of like I could see where there's a, a nice kind of completion of the puzzle.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2162.67,
+      "end_time": 2168.27
+    },
+    {
+      "text": "But yeah, definitely.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2168.35,
+      "end_time": 2170.03
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2173.87,
+      "end_time": 2174.35
+    },
+    {
+      "text": "What else can I tell you?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2175.79,
+      "end_time": 2176.83
+    },
+    {
+      "text": "In general, do you all like, are you.",
+      "speaker_name": "matt",
+      "start_time": 2176.99,
+      "end_time": 2180.92
+    },
+    {
+      "text": "I mean clearly we've been talking a lot about COVID and a lot about international work.",
+      "speaker_name": "matt",
+      "start_time": 2181.72,
+      "end_time": 2185.88
+    },
+    {
+      "text": "But like are you, do you work in office or are you remote first or.",
+      "speaker_name": "matt",
+      "start_time": 2185.88,
+      "end_time": 2191.24
+    },
+    {
+      "text": "No, we, we, we're, we do work in office.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2192.28,
+      "end_time": 2195.359
+    },
+    {
+      "text": "We're hybrid so we do three days a week.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2195.359,
+      "end_time": 2197.32
+    },
+    {
+      "text": "Everybody's in on a Monday, Wednesday and a Thursday.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2197.32,
+      "end_time": 2199.32
+    },
+    {
+      "text": "They work from home on a Tuesday or Friday.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2199.56,
+      "end_time": 2201.36
+    },
+    {
+      "text": "If they're needed in the office, on a project, on site or at a client's office on any of those days, then they're there.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2201.36,
+      "end_time": 2207.56
+    },
+    {
+      "text": "So we never changed our contracts for employment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2208.04,
+      "end_time": 2210.56
+    },
+    {
+      "text": "Everybo is contracted to work in the office.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2210.56,
+      "end_time": 2212.74
+    },
+    {
+      "text": "But you know, we kind of, we.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2213.46,
+      "end_time": 2215.3
+    },
+    {
+      "text": "Right at the beginning when we were allowed to come back, we went for that hybrid model and Being totally honest, Matt, it works, it works pretty well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2215.3,
+      "end_time": 2222.18
+    },
+    {
+      "text": "You know, everybody's in on a Monday.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2223.06,
+      "end_time": 2224.82
+    },
+    {
+      "text": "What we didn't want to do was stipulate three days a week and then give people the liberty to choose what days.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2225.38,
+      "end_time": 2230.26
+    },
+    {
+      "text": "So everybody is in on the same days and that's a Monday, Wednesday and a Thursday.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2230.9,
+      "end_time": 2234.34
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "matt",
+      "start_time": 2235.22,
+      "end_time": 2235.7
+    },
+    {
+      "text": "Yeah, we're, we're spread out all over North America.",
+      "speaker_name": "matt",
+      "start_time": 2236.1,
+      "end_time": 2241.4
+    },
+    {
+      "text": "So we do still have one office in Denver, which is where I am.",
+      "speaker_name": "matt",
+      "start_time": 2241.56,
+      "end_time": 2245.88
+    },
+    {
+      "text": "And you know, we're a little over 40 people and I'd say maybe like 11 of them are here.",
+      "speaker_name": "matt",
+      "start_time": 2247.72,
+      "end_time": 2257.72
+    },
+    {
+      "text": "So it's definitely not the majority of the company.",
+      "speaker_name": "matt",
+      "start_time": 2257.88,
+      "end_time": 2260.56
+    },
+    {
+      "text": "We're definitely remote first as a company, but we do have some, you know, actual physical office space.",
+      "speaker_name": "matt",
+      "start_time": 2260.56,
+      "end_time": 2268.5
+    },
+    {
+      "text": "And you know, we employ a pretty similar kind of philosophy here in Colorado where we've got everybody coming in on Tuesday, Wednesday and Thursday.",
+      "speaker_name": "matt",
+      "start_time": 2268.5,
+      "end_time": 2277.7
+    },
+    {
+      "text": "But yeah, everyone else is, you know, we're remote first as an organization because there are so many people that don't have an office to come to.",
+      "speaker_name": "matt",
+      "start_time": 2277.78,
+      "end_time": 2285.38
+    },
+    {
+      "text": "Well, America is a lot bigger than, than London.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2286.42,
+      "end_time": 2289.42
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2289.42,
+      "end_time": 2292.22
+    },
+    {
+      "text": "Like, you know, we, we, we did obviously when we were in lockdown, we weren't allowed to come into the office.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2292.22,
+      "end_time": 2297.29
+    },
+    {
+      "text": "And as everybody else we adapted, but we found that it didn't help the creative process.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2297.53,
+      "end_time": 2302.49
+    },
+    {
+      "text": "A lot of the creative process is about, you know, looking over someone's shoulder, having a conversation, shooting the breeze, talking about, you know, stuff that's going on more generally in culture.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2303.13,
+      "end_time": 2312.73
+    },
+    {
+      "text": "And those sort of things don't happen if you're limited to an hour zoom meeting at, you know, 3 o' clock in the afternoon or something.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2313.13,
+      "end_time": 2319.05
+    },
+    {
+      "text": "It's about people interacting and bouncing off one another, which is why we decided that we had to get people into the office as soon as we could.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2319.37,
+      "end_time": 2325.77
+    },
+    {
+      "text": "Yeah, I guess another question I had too, like just on kind of the client side of things are most of your.",
+      "speaker_name": "matt",
+      "start_time": 2326.21,
+      "end_time": 2335.41
+    },
+    {
+      "text": "Because I see like a heavy emphasis on sort of accounts and relationship management.",
+      "speaker_name": "matt",
+      "start_time": 2335.49,
+      "end_time": 2339.25
+    },
+    {
+      "text": "Like are most of the relation like formal relationships that you have, is it like more project based or are you retained or you know, just kind of curious?",
+      "speaker_name": "matt",
+      "start_time": 2339.49,
+      "end_time": 2348.61
+    },
+    {
+      "text": "Unfortunately, yeah, unfortunately over here the majority of the work is project based.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2348.61,
+      "end_time": 2353.66
+    },
+    {
+      "text": "Clients retainers are very, very rare now with, you know, in experiential in live.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2354.3,
+      "end_time": 2360.94
+    },
+    {
+      "text": "But we haven't lost a client for I think five years since pre Covid.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2362.22,
+      "end_time": 2366.78
+    },
+    {
+      "text": "Every year we do a client satisfaction survey.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2367.66,
+      "end_time": 2369.98
+    },
+    {
+      "text": "Last year we got 99% in it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2369.98,
+      "end_time": 2371.82
+    },
+    {
+      "text": "We value, you know, we put a lot of work and a lot of effort into building and maintaining our client relationships.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2372.62,
+      "end_time": 2378.18
+    },
+    {
+      "text": "So I can't say that, you know, we have any retained relationships, but all of our work is, is repeat or recurring.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2378.18,
+      "end_time": 2384.37
+    },
+    {
+      "text": "You know, when you do a good job for some.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2385.33,
+      "end_time": 2386.93
+    },
+    {
+      "text": "The thing about shows and events is they open on that day regardless of what happens.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2386.93,
+      "end_time": 2392.17
+    },
+    {
+      "text": "You know, it's not like a website that can go up a week late.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2392.17,
+      "end_time": 2394.61
+    },
+    {
+      "text": "There's 10,000 people stood outside waiting to come in for an esports tournament.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2394.93,
+      "end_time": 2398.33
+    },
+    {
+      "text": "You can't leave it 24 hours because you're not ready.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2398.33,
+      "end_time": 2400.61
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2400.85,
+      "end_time": 2401.17
+    },
+    {
+      "text": "So clients, you know, they, when, when you deliver and deliver well, clients don't necessarily like to look elsewhere.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2401.17,
+      "end_time": 2407.82
+    },
+    {
+      "text": "They want to come back to the people that know they can make it happen for them.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2407.82,
+      "end_time": 2411.98
+    },
+    {
+      "text": "And that's what we do, we make it happen for clients.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2413.02,
+      "end_time": 2415.26
+    },
+    {
+      "text": "You know, we, we've had curveballs thrown at us all over the world, but we've managed to get through it and deliver.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2415.9,
+      "end_time": 2420.78
+    },
+    {
+      "text": "So we have very, very strong client relationships.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2421.02,
+      "end_time": 2424.06
+    },
+    {
+      "text": "I'm just looking at some stats from last year.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2424.62,
+      "end_time": 2426.5
+    },
+    {
+      "text": "13 clients gave us repeat work.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2426.5,
+      "end_time": 2429.58
+    },
+    {
+      "text": "50% of our clients exist.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2429.58,
+      "end_time": 2431.74
+    },
+    {
+      "text": "Increased spend.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2432.54,
+      "end_time": 2433.34
+    },
+    {
+      "text": "76% of our projects won last year were without a pitch.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2433.98,
+      "end_time": 2437.58
+    },
+    {
+      "text": "We've got six new clients last year.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2440.46,
+      "end_time": 2442.22
+    },
+    {
+      "text": "We're very, very focused on, on kind of, you know, client acquisition going out there and trying to bring new clients in.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2442.3,
+      "end_time": 2451.02
+    },
+    {
+      "text": "So we're aggressive at it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2452.62,
+      "end_time": 2454.06
+    },
+    {
+      "text": "I'd say we're, we're very similar.",
+      "speaker_name": "matt",
+      "start_time": 2454.06,
+      "end_time": 2456.02
+    },
+    {
+      "text": "I mean we have a few retainer relationships but for the most part the overwhelming majority of our work is project based and also similar.",
+      "speaker_name": "matt",
+      "start_time": 2456.02,
+      "end_time": 2466.01
+    },
+    {
+      "text": "We've got like some long standing client relationships that just, you know, they may not use us for things that are like too small or just production ready, but like any of their kind of pinnacle moments, you know, we're pretty reliably there for them.",
+      "speaker_name": "matt",
+      "start_time": 2466.01,
+      "end_time": 2482.17
+    },
+    {
+      "text": "So it sounds like that's.",
+      "speaker_name": "matt",
+      "start_time": 2483.37,
+      "end_time": 2484.49
+    },
+    {
+      "text": "I was just curious just in terms of like, you know, actual organizations and how like projects move through or relationships are, are managed.",
+      "speaker_name": "matt",
+      "start_time": 2484.65,
+      "end_time": 2494.17
+    },
+    {
+      "text": "And it sounds like those are also pretty complementary, which is great.",
+      "speaker_name": "matt",
+      "start_time": 2494.17,
+      "end_time": 2497.69
+    },
+    {
+      "text": "Yeah, it's, I, I would say we're, we're like you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2498.49,
+      "end_time": 2501.85
+    },
+    {
+      "text": "It's those pinnacle moments, the temple.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2502.01,
+      "end_time": 2503.85
+    },
+    {
+      "text": "You know, it's the bigger projects that we tend to get involved in and we do smaller stuff.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2503.85,
+      "end_time": 2509.37
+    },
+    {
+      "text": "We're just taking on a small project for Amazon.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2509.37,
+      "end_time": 2511.53
+    },
+    {
+      "text": "They're launching a new game in July.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2511.61,
+      "end_time": 2513.59
+    },
+    {
+      "text": "What is it?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2514.95,
+      "end_time": 2515.47
+    },
+    {
+      "text": "It's about €190,000, €200,000 project which is relatively small.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2515.47,
+      "end_time": 2520.87
+    },
+    {
+      "text": "But we took it on because we want to get in with Amazon.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2521.83,
+      "end_time": 2524.07
+    },
+    {
+      "text": "So you know, but the majority of the stuff that we do is on the larger scale.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2524.71,
+      "end_time": 2529.03
+    },
+    {
+      "text": "And the good thing about that is, they tend to start planning them, you know, further out as well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2529.43,
+      "end_time": 2534.07
+    },
+    {
+      "text": "So you can, so I mean our year end is December, but I've got 77% of our total turnover already confirmed for the year and I got six and a half months left to go.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2534.39,
+      "end_time": 2544.83
+    },
+    {
+      "text": "Yeah, so yeah, that sounds, again like I was saying, it sounds super similar to us.",
+      "speaker_name": "matt",
+      "start_time": 2552.35,
+      "end_time": 2556.63
+    },
+    {
+      "text": "So that's, that's great to hear.",
+      "speaker_name": "matt",
+      "start_time": 2556.63,
+      "end_time": 2558.19
+    },
+    {
+      "text": "Just kind of always interested to understand, you know, different approaches for kind of how relationships are managed and sort of inbound opportunities or are shared.",
+      "speaker_name": "matt",
+      "start_time": 2558.19,
+      "end_time": 2570.86
+    },
+    {
+      "text": "Because when there are so many existing relationships and sort of repeat customers, you know, I think the, that sort of like relationship management becomes arguably a much larger kind of business development tool than cultivating new relationships and.",
+      "speaker_name": "matt",
+      "start_time": 2570.86,
+      "end_time": 2589.34
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2589.82,
+      "end_time": 2590.54
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2590.7,
+      "end_time": 2593.66
+    },
+    {
+      "text": "I mean, you know, ultimately what we don't want to be doing is, is pitching all the time.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2593.66,
+      "end_time": 2597.5
+    },
+    {
+      "text": "It's, it's, it could be a waste of time and resource and building those long term client relationships is the key to building a successful agency in, in this industry.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2597.5,
+      "end_time": 2607.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 2608.37,
+      "end_time": 2608.85
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2612.21,
+      "end_time": 2612.69
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 2615.41,
+      "end_time": 2615.81
+    },
+    {
+      "text": "I mean, I think that's, that's great to hear.",
+      "speaker_name": "matt",
+      "start_time": 2615.81,
+      "end_time": 2619.97
+    },
+    {
+      "text": "I mean we've, I think we're in a similar situation.",
+      "speaker_name": "matt",
+      "start_time": 2620.61,
+      "end_time": 2623.29
+    },
+    {
+      "text": "So our business development, I think it also sounds similar to yours.",
+      "speaker_name": "matt",
+      "start_time": 2623.29,
+      "end_time": 2626.68
+    },
+    {
+      "text": "Like Zach and I do the majority, if not, I would say almost exclusively kind of all of our business development while we're also kind of kind of at an executive level managing kind of the creative output and creative team.",
+      "speaker_name": "matt",
+      "start_time": 2627.95,
+      "end_time": 2646.67
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2646.75,
+      "end_time": 2647.15
+    },
+    {
+      "text": "You know, it's more on sort of strategic vision and steering of the organization and sales effectively is what we spend most of our time doing.",
+      "speaker_name": "matt",
+      "start_time": 2648.99,
+      "end_time": 2659.25
+    },
+    {
+      "text": "Feeding the beast.",
+      "speaker_name": "matt",
+      "start_time": 2659.89,
+      "end_time": 2660.85
+    },
+    {
+      "text": "I'm the same and I think, you know, we're probably best placed to do it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2664.53,
+      "end_time": 2667.33
+    },
+    {
+      "text": "I've been with the business from the beginning so you know, I've got all the experience.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2667.33,
+      "end_time": 2670.65
+    },
+    {
+      "text": "I know everything we've done before and I've got a good network in the industry as well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2670.65,
+      "end_time": 2676.29
+    },
+    {
+      "text": "So you know, it's about building on that and you know, putting yourself out there.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2676.29,
+      "end_time": 2680.53
+    },
+    {
+      "text": "My team, Mark, my exec producer is very, very good.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2682.68,
+      "end_time": 2685.6
+    },
+    {
+      "text": "He holds a lot of the client relationships and he's very good at spotting opportunities to develop clients as well.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2685.6,
+      "end_time": 2691.48
+    },
+    {
+      "text": "And you know, sorry, go ahead.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2693.56,
+      "end_time": 2696.2
+    },
+    {
+      "text": "That's an area I think that we're trying to grow.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2696.68,
+      "end_time": 2700.28
+    },
+    {
+      "text": "Our sophistication consistency efforts is more on the client relations side.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2700.68,
+      "end_time": 2708.1
+    },
+    {
+      "text": "We've sort of, we followed a very creative first model forever which is you're only as good as your last project and that wins us the next project.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2708.1,
+      "end_time": 2717.9
+    },
+    {
+      "text": "But yeah, yeah, we at our size, like we have no account director Producers are kind of designed as the roles are designed a bit to be somewhat of that, but they're not hunting.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2718.06,
+      "end_time": 2734.41
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2734.41,
+      "end_time": 2734.73
+    },
+    {
+      "text": "They're not identifying, you know, opportunity as much as they're just servicing projects and clients, but then they become that kind of direct line and resource for inbound business.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2734.73,
+      "end_time": 2747.81
+    },
+    {
+      "text": "But again, that's all to date has just been clients, you know, kind of coming back to the table and they have projects versus us trying to turn over the rocks and find.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2747.81,
+      "end_time": 2757.09
+    },
+    {
+      "text": "Find more ourselves.",
+      "speaker_name": "Hovercraft",
+      "start_time": 2757.81,
+      "end_time": 2758.93
+    },
+    {
+      "text": "Yeah, I, I think you need a certain amount of scale to be able to do that successfully.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2759.92,
+      "end_time": 2764.92
+    },
+    {
+      "text": "I think, you know, and, and what excited me when I, when Jeff is talking to me about your, you, you guys is the work that you've done and the ability to leverage that work to go out there and open up new doors, you know, in the uk, in Europe, in different markets, different sectors.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2764.92,
+      "end_time": 2782.8
+    },
+    {
+      "text": "You know, having experience that you can show as part of a group or as part of your agency is the best way to get in.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2784.16,
+      "end_time": 2792.7
+    },
+    {
+      "text": "So I'd say our client services team, they are hybrid.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2792.94,
+      "end_time": 2795.9
+    },
+    {
+      "text": "They kind of manage projects as well as developing client relationships.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2795.98,
+      "end_time": 2799.42
+    },
+    {
+      "text": "They could be better at developing those client relationships or developing new client relationships, but it's about having the tools to do that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2801.659,
+      "end_time": 2808.58
+    },
+    {
+      "text": "And as I say, I think one of the things that excites me about what you guys do is you do so much of what we want to be doing and to go and out and knock on the doors of Red Bull or whoever else it is that are already working with and say, hey, look, this is what, you know, the guys did for Coinbase.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2808.58,
+      "end_time": 2823.02
+    },
+    {
+      "text": "Look at this.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2823.02,
+      "end_time": 2823.34
+    },
+    {
+      "text": "Isn't it cool?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2823.34,
+      "end_time": 2824.18
+    },
+    {
+      "text": "Yeah, it's a lot easier than saying, hey, look at what we did for Red Bull, you know, in an esports tournament.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2824.42,
+      "end_time": 2829.46
+    },
+    {
+      "text": "Sure, yeah, it's cool they want to do another esports tournament, but if they want to do, you know, something else, it's not necessarily that cool.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2829.78,
+      "end_time": 2835.78
+    },
+    {
+      "text": "So having having, you know, a farm bigger archive of projects to be able to build, you know, lean into, to go out there and dev those clients would be so, so useful.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2836.9,
+      "end_time": 2847.04
+    },
+    {
+      "text": "Yeah, well, I don't know.",
+      "speaker_name": "matt",
+      "start_time": 2852.88,
+      "end_time": 2854.72
+    },
+    {
+      "text": "I mean, obviously you're, you're in conversations with Jeff and Travis and we were very curious to kind of just get a chance to meet and talk today, which has been great.",
+      "speaker_name": "matt",
+      "start_time": 2855.92,
+      "end_time": 2865.08
+    },
+    {
+      "text": "But yeah, I don't know, like in general, kind of where you're at in the process with them or, you know, if there's, there's anything insights wise, you know, that, that we can help illuminate in the, in the time we have.",
+      "speaker_name": "matt",
+      "start_time": 2865.08,
+      "end_time": 2884.55
+    },
+    {
+      "text": "Left that There may well be further down the line, I guess, you know, just to give you a brief synopsis of where I'm at with the business.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2884.55,
+      "end_time": 2892.83
+    },
+    {
+      "text": "I've kind of got the business to a certain position where, and I've made this very clear to my senior team.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2894.25,
+      "end_time": 2903.05
+    },
+    {
+      "text": "I want and need to do something.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2903.05,
+      "end_time": 2905.13
+    },
+    {
+      "text": "And that involves, you know, some elements of me de risking, but also, and that could be, you know, either me sort of selling and moving on or me selling in some way, shape or form and staying in.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2906.49,
+      "end_time": 2919.29
+    },
+    {
+      "text": "But I only want to stay in if it's exciting and, you know, if there's a real opportunity to go for significant growth.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2919.29,
+      "end_time": 2925.01
+    },
+    {
+      "text": "What I don't want to do is carry on doing what I'm doing at the moment.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2925.65,
+      "end_time": 2928.61
+    },
+    {
+      "text": "And I've said to the rest of my team that I think one of the things that's holding the business back is, you know, my desire to kind of make that change this year.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2928.61,
+      "end_time": 2943.09
+    },
+    {
+      "text": "You know, I want to do something that is going to change our trajectory.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2943.09,
+      "end_time": 2946.25
+    },
+    {
+      "text": "I've been doing this for 30 odd years.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2946.25,
+      "end_time": 2947.65
+    },
+    {
+      "text": "You know, I'm, I'm 55 years of age.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2948.82,
+      "end_time": 2950.74
+    },
+    {
+      "text": "It's kind of the last roll of the dice to either do something meaningful or to say, do you know what?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2950.74,
+      "end_time": 2954.54
+    },
+    {
+      "text": "I'm going to give up and go and sit in a campsite in France for the rest of my days.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2954.54,
+      "end_time": 2958.18
+    },
+    {
+      "text": "I'm not quite ready to hang up my boots.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2959.86,
+      "end_time": 2961.5
+    },
+    {
+      "text": "So I want to go again, but I only want to go again if it's going to be exciting.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2961.5,
+      "end_time": 2965.62
+    },
+    {
+      "text": "And Jeff and I started talking last year and it, you know, we, we, I, I guess it didn't quite.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2965.78,
+      "end_time": 2972.18
+    },
+    {
+      "text": "They weren't ready.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2972.26,
+      "end_time": 2973.18
+    },
+    {
+      "text": "I wasn't necessarily in that right situation.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2973.18,
+      "end_time": 2975.02
+    },
+    {
+      "text": "And then Jeff came back to me last week and we had a call this week and I have to say, and you know, I'm not just saying this to pump your tires, the thing that really excited me was the work that you guys are doing and the opportunity there and, you know, yeah, I'm very interested in having that conversation and seeing where we could potentially take it.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2975.02,
+      "end_time": 2992.7
+    },
+    {
+      "text": "I am going through a process with my senior team where I've got some consultants coming in to sort of help us all assess individually, you know, the aspirations are for us so that we can kind of align around that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 2994.06,
+      "end_time": 3005.42
+    },
+    {
+      "text": "But again, as I said, I came out of the meeting with Jeff, I told the guys to check your website out and your LinkedIn out and they were like, wow, these guys are cool.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3005.9,
+      "end_time": 3013.34
+    },
+    {
+      "text": "So, yeah, look, you know, the, the devil is in the detail.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3014.14,
+      "end_time": 3017.38
+    },
+    {
+      "text": "And at the moment, you know, I don't know if Jeff is going to come back to us with something, but if he did, I'd definitely talk.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3017.38,
+      "end_time": 3021.98
+    },
+    {
+      "text": "Yeah, but, you know, there's a.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3022.3,
+      "end_time": 3024.9
+    },
+    {
+      "text": "There's a reality, a fiscal reality about that as well, that, you know, we need to make sure.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3024.9,
+      "end_time": 3028.78
+    },
+    {
+      "text": "For me, these sort of things are three things.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3029.58,
+      "end_time": 3031.26
+    },
+    {
+      "text": "It's physics, chemistry, and maths.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3031.26,
+      "end_time": 3033.55
+    },
+    {
+      "text": "You know, the.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3033.79,
+      "end_time": 3034.75
+    },
+    {
+      "text": "The.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3034.75,
+      "end_time": 3035.07
+    },
+    {
+      "text": "And chemistry is probably the biggest and most important one for me.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3035.39,
+      "end_time": 3038.43
+    },
+    {
+      "text": "Maths, you know, can you get the numbers to work?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3039.63,
+      "end_time": 3041.71
+    },
+    {
+      "text": "Does it make sense financially?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3041.71,
+      "end_time": 3043.11
+    },
+    {
+      "text": "Does it make sense mathematically?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3043.11,
+      "end_time": 3044.79
+    },
+    {
+      "text": "Physics, you know, is there going to be the ability physically to.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3044.79,
+      "end_time": 3048.67
+    },
+    {
+      "text": "As you alluded to earlier, you've got the ability to cross.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3048.99,
+      "end_time": 3051.71
+    },
+    {
+      "text": "You know, there's ways that you overlap, but you can typically create a difference to one another.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3051.95,
+      "end_time": 3058.27
+    },
+    {
+      "text": "And the chemistry is all important.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3059.58,
+      "end_time": 3061.58
+    },
+    {
+      "text": "So for me, you know, knowing the type of agency that we're getting into, you know, potentially getting into bed with is really important.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3061.9,
+      "end_time": 3068.86
+    },
+    {
+      "text": "Knowing the people that are leading that and that we, you know, have similar views on what we want to do, that's really important.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3068.86,
+      "end_time": 3074.3
+    },
+    {
+      "text": "And, and the quality of the work is really, really important.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3074.78,
+      "end_time": 3076.94
+    },
+    {
+      "text": "Making sure that, you know, we.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3076.94,
+      "end_time": 3078.22
+    },
+    {
+      "text": "We feel we can go on and we can continue to learn.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3078.54,
+      "end_time": 3080.98
+    },
+    {
+      "text": "I can give my team, you know, the ability to develop, to do better things, to do bigger stuff, to work on, more really cool stuff.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3080.98,
+      "end_time": 3088.06
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3088.77,
+      "end_time": 3088.97
+    },
+    {
+      "text": "Except that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3088.97,
+      "end_time": 3089.49
+    },
+    {
+      "text": "That's very important to me.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3089.49,
+      "end_time": 3090.69
+    },
+    {
+      "text": "Yeah, no, that's well said.",
+      "speaker_name": "matt",
+      "start_time": 3091.97,
+      "end_time": 3093.21
+    },
+    {
+      "text": "I'm not sure if that answers your question, but.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3093.21,
+      "end_time": 3095.09
+    },
+    {
+      "text": "No, it does.",
+      "speaker_name": "matt",
+      "start_time": 3096.13,
+      "end_time": 3096.89
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "matt",
+      "start_time": 3096.89,
+      "end_time": 3097.45
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 3097.45,
+      "end_time": 3097.77
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "matt",
+      "start_time": 3097.77,
+      "end_time": 3098.37
+    },
+    {
+      "text": "Well, again, I think for us, same like we.",
+      "speaker_name": "matt",
+      "start_time": 3099.57,
+      "end_time": 3101.97
+    },
+    {
+      "text": "We know that there have been some conversations in the past, but, you know, admittedly we weren't as familiar with you all as an organization.",
+      "speaker_name": "matt",
+      "start_time": 3102.53,
+      "end_time": 3109.29
+    },
+    {
+      "text": "And so I think, once again, just sort of seeing how things lineup, we see a lot of, like, complimentary elements to the two organizations, but then we also see like, some of the places where we're historically thin or where we actually see opportunity, whether that's through client roster or just being able to sort of extend service offerings sort of to existing clients on both sides just with like, more confidence and like a larger network.",
+      "speaker_name": "matt",
+      "start_time": 3109.29,
+      "end_time": 3142.99
+    },
+    {
+      "text": "So, yeah, there's a lot of.",
+      "speaker_name": "matt",
+      "start_time": 3144.43,
+      "end_time": 3145.67
+    },
+    {
+      "text": "A lot of things to.",
+      "speaker_name": "matt",
+      "start_time": 3145.67,
+      "end_time": 3146.91
+    },
+    {
+      "text": "To kind of chew on, and those all feel pretty exciting to us.",
+      "speaker_name": "matt",
+      "start_time": 3146.91,
+      "end_time": 3151.07
+    },
+    {
+      "text": "I mean, I think we're definitely not looking for like, a project, so to speak.",
+      "speaker_name": "matt",
+      "start_time": 3151.07,
+      "end_time": 3157.87
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "matt",
+      "start_time": 3158.19,
+      "end_time": 3158.59
+    },
+    {
+      "text": "So if people have healthy client relationship, kind of the books are clean, and then we're really excited about, you know, like I said, shared, you know, whether that's shared sort of sentimentality or mind space, whether that's shared clients or project types.",
+      "speaker_name": "matt",
+      "start_time": 3159.55,
+      "end_time": 3177.67
+    },
+    {
+      "text": "That's where we start really seeing, getting excited and seeing opportunities.",
+      "speaker_name": "matt",
+      "start_time": 3177.67,
+      "end_time": 3181.27
+    },
+    {
+      "text": "So this has been a great conversation to just sort of better understand where you're all at and kind of what you're working towards.",
+      "speaker_name": "matt",
+      "start_time": 3181.35,
+      "end_time": 3189.83
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3191.27,
+      "end_time": 3191.75
+    },
+    {
+      "text": "Well, yeah, I can guarantee, you know, we'll, we'll tick all of the other boxes around us, us not being a basket case.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3191.83,
+      "end_time": 3200.19
+    },
+    {
+      "text": "We're in good shape.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3200.27,
+      "end_time": 3202.03
+    },
+    {
+      "text": "The best time having these conversations is when you don't need to.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3204.27,
+      "end_time": 3207.23
+    },
+    {
+      "text": "We could carry on as we are.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3208.27,
+      "end_time": 3209.59
+    },
+    {
+      "text": "We've got, you know, we're doing pretty well, but actually that's not enough for me.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3209.59,
+      "end_time": 3213.95
+    },
+    {
+      "text": "I want to do more, I want to do better, I want to do bigger.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3213.95,
+      "end_time": 3216.11
+    },
+    {
+      "text": "There's no skeletons in our, in our cupboards.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3216.75,
+      "end_time": 3218.79
+    },
+    {
+      "text": "We've got a very clean balance sheet.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3218.79,
+      "end_time": 3220.27
+    },
+    {
+      "text": "We've been very consistent on the delivery of our, of our numbers.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3221.39,
+      "end_time": 3224.63
+    },
+    {
+      "text": "Yeah, it's been like the, I think for Matt and I going yeah, this is, we're, we're new to this side of it.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3224.63,
+      "end_time": 3229.87
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3229.87,
+      "end_time": 3230.15
+    },
+    {
+      "text": "Like, you know, we've just been heads down doing projects and having fun doing that.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3230.15,
+      "end_time": 3237.71
+    },
+    {
+      "text": "So I think, you know, one of the eye opening things like we've, we've had so many discussions and there's.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3238.51,
+      "end_time": 3244.51
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3246.83,
+      "end_time": 3247.11
+    },
+    {
+      "text": "Many companies that are like present and places we look up to and have for years that present so well and then you know, two conversations and you really kind of learning that they've been holding on by a thread for a decade.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3247.11,
+      "end_time": 3262.36
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3262.44,
+      "end_time": 3263.24
+    },
+    {
+      "text": "And not really a sustainable.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3263.56,
+      "end_time": 3265.08
+    },
+    {
+      "text": "Actually it's just a sustainable business like a cool brand name.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3265.08,
+      "end_time": 3268.28
+    },
+    {
+      "text": "But yeah, we've always sort of touted with pride that we're creative first and creative led and now the, the longer we get into this process, the more I realize that actually is kind of a ding for a lot of people.",
+      "speaker_name": "matt",
+      "start_time": 3268.28,
+      "end_time": 3279.4
+    },
+    {
+      "text": "But yeah, you know, we were in a century.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3283.09,
+      "end_time": 3284.45
+    },
+    {
+      "text": "I think when, when Jeff and Travis started Dig in, they were pleasantly surprised that we had our operation.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3284.61,
+      "end_time": 3293.73
+    },
+    {
+      "text": "We were, we're, we're, we didn't realize how tight we were and after a while we thought it was just, you know, trying to woo us and then realize that now we're deep on.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3293.73,
+      "end_time": 3303.81
+    },
+    {
+      "text": "And on this side we are, we've been very dialed.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3303.81,
+      "end_time": 3306.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3306.96,
+      "end_time": 3307.4
+    },
+    {
+      "text": "And that, yeah, I think for us just how to, you know, it was always a game of like how to remain efficient through little stages of growth and, and allow us to like stay focused on creative and not get lost in trying to run the business.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3308.92,
+      "end_time": 3323.64
+    },
+    {
+      "text": "Yeah, yeah, we're, we're the same and you know, the market is exactly so over here.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3324.44,
+      "end_time": 3330.28
+    },
+    {
+      "text": "I confess, I do enjoy looking on Companies House and looking at other companies and you know, companies that you look up to from a brand perspective or the work they do.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3330.28,
+      "end_time": 3338.01
+    },
+    {
+      "text": "And then you look at their, their numbers, you look at their figures and you look at their balance sheet and you think, geez, how the hell are these guys still going?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3338.01,
+      "end_time": 3344.29
+    },
+    {
+      "text": "And, and you know, I'm, I'm, I'm a bit, I'm a bit weird as you know, somebody in this industry and that.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3345.65,
+      "end_time": 3353.65
+    },
+    {
+      "text": "I get numbers, I get figures and I love a spreadsheet and you know, we've, whilst the business is a creative business and, and yeah, I've always wanted to play that, that long game in terms of what we want to achieve.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3353.65,
+      "end_time": 3367.05
+    },
+    {
+      "text": "So it's not running it by a spreadsheet but I'm never far away from a spreadsheet and we've always, we've managed the business very, very well and you know, the guys got my numbers now so hopefully they'll.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3367.05,
+      "end_time": 3380.25
+    },
+    {
+      "text": "Yeah, well, good to know.",
+      "speaker_name": "matt",
+      "start_time": 3380.97,
+      "end_time": 3384.01
+    },
+    {
+      "text": "Definitely appreciate the time, know that you're, you've made it for us out there in the woods.",
+      "speaker_name": "matt",
+      "start_time": 3384.73,
+      "end_time": 3389.79
+    },
+    {
+      "text": "So yeah, it's been a pleasure kind of hearing more about Collider and getting to know you a little bit.",
+      "speaker_name": "matt",
+      "start_time": 3389.79,
+      "end_time": 3396.11
+    },
+    {
+      "text": "You definitely appreciate.",
+      "speaker_name": "matt",
+      "start_time": 3396.11,
+      "end_time": 3397.99
+    },
+    {
+      "text": "I'm actually going to be on.",
+      "speaker_name": "matt",
+      "start_time": 3397.99,
+      "end_time": 3399.43
+    },
+    {
+      "text": "Out on PTO for the next couple of weeks as well so I'm glad we, we're able to make the phones work and get, get a chance to get it in now.",
+      "speaker_name": "matt",
+      "start_time": 3400.15,
+      "end_time": 3409.67
+    },
+    {
+      "text": "It's been really absolutely productive.",
+      "speaker_name": "matt",
+      "start_time": 3409.99,
+      "end_time": 3413.27
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3413.27,
+      "end_time": 3413.67
+    },
+    {
+      "text": "Likewise.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3414.94,
+      "end_time": 3415.5
+    },
+    {
+      "text": "Where, where are you off to?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3415.66,
+      "end_time": 3417.02
+    },
+    {
+      "text": "You, you going anywhere nice?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3417.02,
+      "end_time": 3418.26
+    },
+    {
+      "text": "I'm actually going to Italy, so.",
+      "speaker_name": "matt",
+      "start_time": 3418.26,
+      "end_time": 3421.1
+    },
+    {
+      "text": "Oh, cool.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3421.34,
+      "end_time": 3422.02
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "matt",
+      "start_time": 3422.02,
+      "end_time": 3422.38
+    },
+    {
+      "text": "Well, if you fancy swinging by London on your way back, come, come in and see.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3422.86,
+      "end_time": 3425.98
+    },
+    {
+      "text": "I'll be sure to bring my kids, but yeah.",
+      "speaker_name": "matt",
+      "start_time": 3425.98,
+      "end_time": 3431.18
+    },
+    {
+      "text": "How old are they?",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3432.54,
+      "end_time": 3433.34
+    },
+    {
+      "text": "15 and 12.",
+      "speaker_name": "matt",
+      "start_time": 3433.34,
+      "end_time": 3434.86
+    },
+    {
+      "text": "So.",
+      "speaker_name": "matt",
+      "start_time": 3435.42,
+      "end_time": 3435.82
+    },
+    {
+      "text": "Mine are 19 and 21 now, so it, it goes in a flash.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3437.9,
+      "end_time": 3441.65
+    },
+    {
+      "text": "Enjoy them while you've got.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3442.85,
+      "end_time": 3444.05
+    },
+    {
+      "text": "My 15 year old definitely is aware that the drinking age in Italy is, is very close to the sun for him.",
+      "speaker_name": "matt",
+      "start_time": 3444.21,
+      "end_time": 3450.93
+    },
+    {
+      "text": "So.",
+      "speaker_name": "matt",
+      "start_time": 3450.93,
+      "end_time": 3451.33
+    },
+    {
+      "text": "You have fun then.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3453.65,
+      "end_time": 3454.57
+    },
+    {
+      "text": "Yeah, but yeah, I'm headed out on Monday and I'll be out for two weeks so.",
+      "speaker_name": "matt",
+      "start_time": 3454.57,
+      "end_time": 3459.17
+    },
+    {
+      "text": "Really glad we got a chance to talk today for sure.",
+      "speaker_name": "matt",
+      "start_time": 3459.73,
+      "end_time": 3462.93
+    },
+    {
+      "text": "It was a bit touch and go for a minute, but yeah, this was good.",
+      "speaker_name": "matt",
+      "start_time": 3463.25,
+      "end_time": 3466.47
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3467.51,
+      "end_time": 3467.95
+    },
+    {
+      "text": "Well, it's been lovely to meet you both.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3467.95,
+      "end_time": 3469.31
+    },
+    {
+      "text": "I hope we can carry on the conversation.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3469.31,
+      "end_time": 3470.87
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "matt",
+      "start_time": 3471.03,
+      "end_time": 3471.67
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3471.67,
+      "end_time": 3472.31
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 3473.03,
+      "end_time": 3473.39
+    },
+    {
+      "text": "All right, guys.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3473.39,
+      "end_time": 3473.95
+    },
+    {
+      "text": "Yeah, I'm guessing I'll probably speak.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3473.95,
+      "end_time": 3475.75
+    },
+    {
+      "text": "We'll probably chat while Matt's sipping wine and.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3477.27,
+      "end_time": 3481.989
+    },
+    {
+      "text": "That'S all.",
+      "speaker_name": "matt",
+      "start_time": 3484.71,
+      "end_time": 3485.35
+    },
+    {
+      "text": "Yeah, just sipping wine.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3486.07,
+      "end_time": 3487.15
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3487.15,
+      "end_time": 3487.59
+    },
+    {
+      "text": "But.",
+      "speaker_name": "matt",
+      "start_time": 3492,
+      "end_time": 3492.24
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3493.68,
+      "end_time": 3493.96
+    },
+    {
+      "text": "Well, have a nice long camp trip weekend.",
+      "speaker_name": "Hovercraft",
+      "start_time": 3493.96,
+      "end_time": 3498.72
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3501.6,
+      "end_time": 3502.08
+    },
+    {
+      "text": "Thanks, guys.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3502.08,
+      "end_time": 3502.8
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3503.6,
+      "end_time": 3504
+    },
+    {
+      "text": "Great to meet you.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3504,
+      "end_time": 3504.6
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3504.6,
+      "end_time": 3504.84
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Anton Jerges",
+      "start_time": 3504.84,
+      "end_time": 3505.2
+    }
+  ],
+  "summary": null,
+  "transcript_url": "https://app.fireflies.ai/view/01JVYEP6EBNT3FB407CNRGT7A0",
+  "audio_url": "https://cdn.fireflies.ai/01JVYEP6EBNT3FB407CNRGT7A0/audio.mp3?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlZZRVA2RUJOVDNGQjQwN0NOUkdUN0EwL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=CbWQy1KO5Lwqh4-mBfOn8Sr01fjqqEApmvpzZe-fsECy3E8TWEI~ezWV4xZmhhhm0AfoE5ZhqyRjThCJOGd8M0raAknRKSoL39wFAe6UX~pmypUl~nHRVD-ghw-OXQnFjT16g2SrIHAW415DLIL4XKfvN5MRpiVG5n4hxGJh71sRmj96JeUgQUhTtmLOCIhexvGH1VxJNsFHmCM-MM1LA1GjLSEdvYoT0Tm22BKLuHNKMVxQHMncoxcAzKpnI8i5vnNxRWzd1LlOhufK1JIU-0oHtz2xS~h~blrAYXjgmvsrj1z0GTltfaihHndZOMJJcAagvUuRHnO56n~tqW1SEw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JVYEP6EBNT3FB407CNRGT7A0/video.mp4?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlZZRVA2RUJOVDNGQjQwN0NOUkdUN0EwL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=R2aG2TorUy4IOCrlfIz6LlJBDrYNqmNUCKnmSj-aEoiUL05DmHLTlyGYACPrjccYHRVeOkTSw5gT44eLf8XIgeDb2XSkTlX4gY1rW4rzd27P2AUEEtAd1Sc2jtbsErAbI6q1JR1St4EV-n6SSzkWWcg5Dr7IIay02KuLlvW3t8hPYZ-Z-vBhHGZ5kafwhoLJdvHbcHMOYgB87v74RbBqZDQqUMTQsx1hMapM4WBzW7TnQt95dfK1dcshQpWuJJMm0GXLLNbqYIYevALKxgi5GovcsxHcBUXkbgs9nz5kYLgtrBdvtNh-YoC8YvfuqCL1EHqMN8SZdBJnb8A-VuGhDQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

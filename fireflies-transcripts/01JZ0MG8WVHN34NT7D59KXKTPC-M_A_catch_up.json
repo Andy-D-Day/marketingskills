@@ -1,0 +1,4567 @@
+{
+  "id": "01JZ0MG8WVHN34NT7D59KXKTPC",
+  "title": "M&A catch up",
+  "date": 1751896800000,
+  "dateString": "2025-07-07T14:00:00.000Z",
+  "duration": 40.029998779296875,
+  "participants": [
+    "andrew.day@capitala.co,ahmed.zia@capitala.co,heather.fullerton@capitala.co,daniel.smith@capitala.co,shams.gani@capitala.co,amanda.sapio@capitala.co",
+    "ahmed.zia@capitala.co",
+    "heather.fullerton@capitala.co",
+    "daniel.smith@capitala.co",
+    "shams.gani@capitala.co",
+    "amanda.sapio@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "heather.fullerton@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "daniel.smith@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "shams.gani@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "amanda.sapio@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Amanda, how you doing?",
+      "speaker_name": "Andrew Day",
+      "start_time": 0.08,
+      "end_time": 0.88
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1.28,
+      "end_time": 1.68
+    },
+    {
+      "text": "Wow, it looks so sunny there.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2.96,
+      "end_time": 4.56
+    },
+    {
+      "text": "Sunny over the valley.",
+      "speaker_name": "Andrew Day",
+      "start_time": 11.28,
+      "end_time": 12.4
+    },
+    {
+      "text": "It's been raining here since Wednesday of last week.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 15.52,
+      "end_time": 18.44
+    },
+    {
+      "text": "So do you want me to go?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 18.44,
+      "end_time": 21.36
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "Andrew Day",
+      "start_time": 25.6,
+      "end_time": 25.92
+    },
+    {
+      "text": "In Texas it's raining?",
+      "speaker_name": "Andrew Day",
+      "start_time": 25.92,
+      "end_time": 27.28
+    },
+    {
+      "text": "Jesus.",
+      "speaker_name": "Andrew Day",
+      "start_time": 27.66,
+      "end_time": 28.22
+    },
+    {
+      "text": "Yeah, it's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 28.3,
+      "end_time": 29.26
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Shams Gani",
+      "start_time": 29.26,
+      "end_time": 29.66
+    },
+    {
+      "text": "This is like historic flooding.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 29.66,
+      "end_time": 31.7
+    },
+    {
+      "text": "We never get this kind of weather.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 31.7,
+      "end_time": 33.66
+    },
+    {
+      "text": "It's just been insane.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 34.14,
+      "end_time": 35.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 37.58,
+      "end_time": 38.06
+    },
+    {
+      "text": "And of course, the fourth of July, it was just downpouring the entire day and all the barbecues got canceled.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 38.86,
+      "end_time": 45.34
+    },
+    {
+      "text": "Oh, God.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 46.62,
+      "end_time": 47.18
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "Andrew Day",
+      "start_time": 47.18,
+      "end_time": 47.5
+    },
+    {
+      "text": "Well, Ahmed and Shams, weekends.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 52.3,
+      "end_time": 55.51
+    },
+    {
+      "text": "Yeah, Ahmed and Shams, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 56.39,
+      "end_time": 57.99
+    },
+    {
+      "text": "This is like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 57.99,
+      "end_time": 58.79
+    },
+    {
+      "text": "I mean, I don't.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 63.11,
+      "end_time": 64.11
+    },
+    {
+      "text": "I'm trying to remember what I did, but frankly speaking, I didn't do anything.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 64.11,
+      "end_time": 68.31
+    },
+    {
+      "text": "I was just lying down the hole there.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 68.31,
+      "end_time": 70.15
+    },
+    {
+      "text": "The hole for two days.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 70.63,
+      "end_time": 72.11
+    },
+    {
+      "text": "So, yeah, I went for tricking.",
+      "speaker_name": "Shams Gani",
+      "start_time": 72.11,
+      "end_time": 74.87
+    },
+    {
+      "text": "You went for what?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 75.83,
+      "end_time": 76.87
+    },
+    {
+      "text": "For what, Sorry?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 77.03,
+      "end_time": 77.95
+    },
+    {
+      "text": "Trekking, Tricking.",
+      "speaker_name": "Shams Gani",
+      "start_time": 77.95,
+      "end_time": 78.79
+    },
+    {
+      "text": "Oh, tracking.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 79.33,
+      "end_time": 80.05
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 80.05,
+      "end_time": 80.53
+    },
+    {
+      "text": "Where did you go?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 80.77,
+      "end_time": 81.81
+    },
+    {
+      "text": "Oh, there's a place called Pune over here.",
+      "speaker_name": "Shams Gani",
+      "start_time": 82.13,
+      "end_time": 84.37
+    },
+    {
+      "text": "I bet you might know that.",
+      "speaker_name": "Shams Gani",
+      "start_time": 84.37,
+      "end_time": 86.21
+    },
+    {
+      "text": "Yeah, so I went over there and I had like, nice view from the top of the hill.",
+      "speaker_name": "Shams Gani",
+      "start_time": 86.29,
+      "end_time": 91.49
+    },
+    {
+      "text": "It was like a three hours way.",
+      "speaker_name": "Shams Gani",
+      "start_time": 91.65,
+      "end_time": 94.01
+    },
+    {
+      "text": "Like one way, three hours climb.",
+      "speaker_name": "Shams Gani",
+      "start_time": 94.01,
+      "end_time": 96.29
+    },
+    {
+      "text": "That's great.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 97.73,
+      "end_time": 98.45
+    },
+    {
+      "text": "And then I realized that it took the entire day just to chill out because it was like so exhausting by the end.",
+      "speaker_name": "Shams Gani",
+      "start_time": 99.49,
+      "end_time": 107.65
+    },
+    {
+      "text": "Oh, my gosh.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 109.4,
+      "end_time": 110.28
+    },
+    {
+      "text": "Yeah, that's.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 110.68,
+      "end_time": 111.72
+    },
+    {
+      "text": "Danny's looking so, so, like focused.",
+      "speaker_name": "Shams Gani",
+      "start_time": 114.12,
+      "end_time": 117.96
+    },
+    {
+      "text": "Yeah, sorry.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 121.4,
+      "end_time": 122.36
+    },
+    {
+      "text": "I've got all the tubs open.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 123.24,
+      "end_time": 124.44
+    },
+    {
+      "text": "I'm still doing all the stuff and it just disappeared.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 124.44,
+      "end_time": 132.6
+    },
+    {
+      "text": "He looks like Kratos, if anyone.",
+      "speaker_name": "Shams Gani",
+      "start_time": 133.16,
+      "end_time": 135.67
+    },
+    {
+      "text": "You have played God of war.",
+      "speaker_name": "Shams Gani",
+      "start_time": 135.67,
+      "end_time": 136.95
+    },
+    {
+      "text": "Yeah, yeah, I have.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 137.43,
+      "end_time": 139.63
+    },
+    {
+      "text": "I have.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 139.63,
+      "end_time": 140.15
+    },
+    {
+      "text": "Character.",
+      "speaker_name": "Shams Gani",
+      "start_time": 142.15,
+      "end_time": 142.71
+    },
+    {
+      "text": "Kratos.",
+      "speaker_name": "Shams Gani",
+      "start_time": 142.71,
+      "end_time": 143.35
+    },
+    {
+      "text": "He's a God of war.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 144.63,
+      "end_time": 145.91
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 146.47,
+      "end_time": 147.03
+    },
+    {
+      "text": "Yeah, it's a.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 153.83,
+      "end_time": 154.67
+    },
+    {
+      "text": "It's a game based on like the Greek mythology.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 154.67,
+      "end_time": 157.11
+    },
+    {
+      "text": "So, you know, there's like Zeus, he's a son of Zeus or something, but he kills Zeus or something.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 157.35,
+      "end_time": 162.47
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 162.55,
+      "end_time": 162.95
+    },
+    {
+      "text": "Yeah, it's a very weird game if you look at it, but yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 163.03,
+      "end_time": 167.78
+    },
+    {
+      "text": "How in the world did you get on this topic?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 168.66,
+      "end_time": 170.74
+    },
+    {
+      "text": "Andy?",
+      "speaker_name": "Shams Gani",
+      "start_time": 173.62,
+      "end_time": 174.26
+    },
+    {
+      "text": "Andy looks like God of water, right?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 175.7,
+      "end_time": 177.5
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 177.5,
+      "end_time": 177.94
+    },
+    {
+      "text": "Yeah, Kratos, specifically that character.",
+      "speaker_name": "Shams Gani",
+      "start_time": 177.94,
+      "end_time": 180.34
+    },
+    {
+      "text": "Yeah, you can Google.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 182.5,
+      "end_time": 184.18
+    },
+    {
+      "text": "I'd be well happy if someone said that to me.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 185.54,
+      "end_time": 187.38
+    },
+    {
+      "text": "God of war.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 191.54,
+      "end_time": 192.42
+    },
+    {
+      "text": "Kratos.",
+      "speaker_name": "Shams Gani",
+      "start_time": 193.37,
+      "end_time": 193.89
+    },
+    {
+      "text": "K R A T O S. K.",
+      "speaker_name": "Shams Gani",
+      "start_time": 193.89,
+      "end_time": 196.37
+    },
+    {
+      "text": "R A T O S. Kratos.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 196.37,
+      "end_time": 198.73
+    },
+    {
+      "text": "Just for the record, Amanda, he looks like nothing like Kratos.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 199.21,
+      "end_time": 202.81
+    },
+    {
+      "text": "Oh my God.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 209.21,
+      "end_time": 210.25
+    },
+    {
+      "text": "Remove the tattoo and he's this person.",
+      "speaker_name": "Shams Gani",
+      "start_time": 213.29,
+      "end_time": 217.13
+    },
+    {
+      "text": "Yeah, he's just the tattoos other than the tattoo.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 218.25,
+      "end_time": 220.77
+    },
+    {
+      "text": "Sean, he looks exactly the same, right?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 220.77,
+      "end_time": 229.54
+    },
+    {
+      "text": "I don't.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 229.54,
+      "end_time": 229.9
+    },
+    {
+      "text": "I don't know where Andy's actually gone, but.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 229.9,
+      "end_time": 231.54
+    },
+    {
+      "text": "Yeah, he was in France or something.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 233.54,
+      "end_time": 235.66
+    },
+    {
+      "text": "I. I didn't ask.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 235.66,
+      "end_time": 236.62
+    },
+    {
+      "text": "But you guys Were on the call.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 236.62,
+      "end_time": 238.42
+    },
+    {
+      "text": "Is he somewhere out of France or something?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 238.66,
+      "end_time": 242.58
+    },
+    {
+      "text": "Look.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 242.74,
+      "end_time": 243.14
+    },
+    {
+      "text": "Look like that to me.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 243.22,
+      "end_time": 244.42
+    },
+    {
+      "text": "I talked to Andy about 10 o' clock this morning and he was in his conservatory.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 246.66,
+      "end_time": 251.18
+    },
+    {
+      "text": "So unless he got a very fast flight.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 251.18,
+      "end_time": 255.82
+    },
+    {
+      "text": "The Internet in UK is not that good, I believe.",
+      "speaker_name": "Shams Gani",
+      "start_time": 259.1,
+      "end_time": 262.94
+    },
+    {
+      "text": "Because every time when you guys are on call, either of you guys are either dropping or having some lag in.",
+      "speaker_name": "Shams Gani",
+      "start_time": 263.26,
+      "end_time": 269.1
+    },
+    {
+      "text": "In between, it's mainly Andy.",
+      "speaker_name": "Shams Gani",
+      "start_time": 269.42,
+      "end_time": 272.78
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 273.02,
+      "end_time": 273.5
+    },
+    {
+      "text": "Andy has Elon Musk's whole.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 275.26,
+      "end_time": 277.64
+    },
+    {
+      "text": "What's called Starlink.",
+      "speaker_name": "Shams Gani",
+      "start_time": 278.12,
+      "end_time": 279.56
+    },
+    {
+      "text": "Yeah, occasionally.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 279.56,
+      "end_time": 282.44
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 284.2,
+      "end_time": 284.6
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 285.8,
+      "end_time": 286.2
+    },
+    {
+      "text": "Oh, sorry, I didn't hear.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 287.96,
+      "end_time": 289.32
+    },
+    {
+      "text": "If you want, we could start.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 289.48,
+      "end_time": 290.68
+    },
+    {
+      "text": "I just talked to Darren.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 290.76,
+      "end_time": 292.12
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 292.36,
+      "end_time": 292.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 294.52,
+      "end_time": 295.08
+    },
+    {
+      "text": "So if we want to just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 295.64,
+      "end_time": 296.68
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 296.68,
+      "end_time": 296.96
+    },
+    {
+      "text": "Do Deal Engine.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 296.96,
+      "end_time": 297.88
+    },
+    {
+      "text": "Sorry, Ahmed, I know this is kind of boring for you, but you could just tune out for a second.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 297.88,
+      "end_time": 302.12
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 302.52,
+      "end_time": 302.71
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 303.02,
+      "end_time": 303.26
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 303.98,
+      "end_time": 304.54
+    },
+    {
+      "text": "Or do we want to talk about Ahmed, do we want to talk about your stuff or wait till Andy comes on?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 305.42,
+      "end_time": 310.38
+    },
+    {
+      "text": "I would say we should wait till Andy comes on because it needs Andy.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 311.42,
+      "end_time": 315.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 315.46,
+      "end_time": 315.9
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 316.3,
+      "end_time": 316.66
+    },
+    {
+      "text": "Then I'm going to dive into Deal engine.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 316.66,
+      "end_time": 318.18
+    },
+    {
+      "text": "So I saw the Embrace Investments submitted the onboarding form.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 318.18,
+      "end_time": 324.62
+    },
+    {
+      "text": "Do we.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 324.86,
+      "end_time": 325.42
+    },
+    {
+      "text": "Is it.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 325.42,
+      "end_time": 325.98
+    },
+    {
+      "text": "Does it go to someone's email to.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 326.22,
+      "end_time": 328.24
+    },
+    {
+      "text": "Typically, yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 328.39,
+      "end_time": 330.79
+    },
+    {
+      "text": "So it used to happen like that, but it doesn't do anymore.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 330.95,
+      "end_time": 335.91
+    },
+    {
+      "text": "So what we need.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 335.91,
+      "end_time": 338.71
+    },
+    {
+      "text": "So Andy needs to do this actually because Andy's the guy that kind of controls the new onboarding for him.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 338.95,
+      "end_time": 345.75
+    },
+    {
+      "text": "But Andy needs to create some automations which will send out an email to you and Shams.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 346.39,
+      "end_time": 351.11
+    },
+    {
+      "text": "I don't know where he is actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 355.37,
+      "end_time": 356.33
+    },
+    {
+      "text": "Where is he?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 356.41,
+      "end_time": 357.13
+    },
+    {
+      "text": "Look at him.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 358.33,
+      "end_time": 358.85
+    },
+    {
+      "text": "Looks like he's on his way to a concert.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 358.85,
+      "end_time": 360.57
+    },
+    {
+      "text": "Yeah, that's what he loves it doesn't he loves his life.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 364.57,
+      "end_time": 368.01
+    },
+    {
+      "text": "Is he?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 370.65,
+      "end_time": 371.09
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 371.09,
+      "end_time": 371.37
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 372.97,
+      "end_time": 373.81
+    },
+    {
+      "text": "All right, that sounds good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 373.81,
+      "end_time": 374.97
+    },
+    {
+      "text": "So do we have the.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 375.05,
+      "end_time": 378.09
+    },
+    {
+      "text": "So you don't have their onboarding form yet, right?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 378.41,
+      "end_time": 380.65
+    },
+    {
+      "text": "Well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 381.51,
+      "end_time": 381.75
+    },
+    {
+      "text": "Well no.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 382.23,
+      "end_time": 382.95
+    },
+    {
+      "text": "Well, unless they filled out the onboarding form.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 383.03,
+      "end_time": 384.87
+    },
+    {
+      "text": "The.",
+      "speaker_name": "Andrew Day",
+      "start_time": 384.87,
+      "end_time": 385.19
+    },
+    {
+      "text": "The Google.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 385.27,
+      "end_time": 386.07
+    },
+    {
+      "text": "The Google document.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 386.31,
+      "end_time": 387.43
+    },
+    {
+      "text": "But I've not checked that and there isn't any automation that fires when.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 387.43,
+      "end_time": 393.35
+    },
+    {
+      "text": "So if they have filled it out, just let Shams know because obviously Shams needs access to that so that he can do his thing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 395.43,
+      "end_time": 402.63
+    },
+    {
+      "text": "This morning that they did that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 404.79,
+      "end_time": 406.35
+    },
+    {
+      "text": "They filled it out.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 406.35,
+      "end_time": 407.19
+    },
+    {
+      "text": "Right, Cool.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 407.74,
+      "end_time": 408.54
+    },
+    {
+      "text": "So what is also probably worth mentioning as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 409.58,
+      "end_time": 413.5
+    },
+    {
+      "text": "And Amanda, this is probably where you can step into the mix here.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 413.66,
+      "end_time": 416.54
+    },
+    {
+      "text": "So Shams, this new client, there are a launch pad.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 416.54,
+      "end_time": 420.06
+    },
+    {
+      "text": "So it's basically just lips.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 421.02,
+      "end_time": 422.74
+    },
+    {
+      "text": "It's just lips set up.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 422.74,
+      "end_time": 423.98
+    },
+    {
+      "text": "So what we need to do from here.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 424.22,
+      "end_time": 425.58
+    },
+    {
+      "text": "And again you and Amanda can figure this out all the time, but what we need to do from here is use the Master onboarding checklist that we've recently made.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 425.98,
+      "end_time": 435.51
+    },
+    {
+      "text": "Create, you know, another duplicate of that, obviously call it the client's name, and then just take out the.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 436.07,
+      "end_time": 442.47
+    },
+    {
+      "text": "The not relevant tasks.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 442.87,
+      "end_time": 444.39
+    },
+    {
+      "text": "So, like all of the instantly stuff, like, take out all of that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 444.71,
+      "end_time": 447.59
+    },
+    {
+      "text": "So that obviously everything we need to.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 447.59,
+      "end_time": 449.51
+    },
+    {
+      "text": "To create a Launchpad client is in there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 449.51,
+      "end_time": 451.91
+    },
+    {
+      "text": "And then just start ticking them off as we go.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 452.07,
+      "end_time": 454.07
+    },
+    {
+      "text": "So that between you and Amanda, you both know where that client's up to with whatever it is.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 454.07,
+      "end_time": 459.69
+    },
+    {
+      "text": "Okay, so I'll leave that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 461.53,
+      "end_time": 463.61
+    },
+    {
+      "text": "I'll leave that to you too, but, yeah, that's good.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 463.61,
+      "end_time": 467.49
+    },
+    {
+      "text": "So they're going to call you tomorrow, haven't they?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 467.49,
+      "end_time": 469.77
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 470.65,
+      "end_time": 471.21
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 471.29,
+      "end_time": 471.85
+    },
+    {
+      "text": "And then I should have just waited till the call to have him sign up for the platform, but he wanted the link ahead of time, so I. I know.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 472.17,
+      "end_time": 482.09
+    },
+    {
+      "text": "I'll listen to you next time, I promise.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 482.09,
+      "end_time": 484.01
+    },
+    {
+      "text": "So now he's asking about the username.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 486.75,
+      "end_time": 488.91
+    },
+    {
+      "text": "So that's just the LIPS username, though, right?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 489.55,
+      "end_time": 492.03
+    },
+    {
+      "text": "I don't think he understands.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 492.27,
+      "end_time": 493.51
+    },
+    {
+      "text": "Oh, so.",
+      "speaker_name": "Shams Gani",
+      "start_time": 493.51,
+      "end_time": 494.19
+    },
+    {
+      "text": "So when people.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 494.19,
+      "end_time": 494.83
+    },
+    {
+      "text": "So when somebody signs up, when they get that link, there's a.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 494.83,
+      "end_time": 498.35
+    },
+    {
+      "text": "It's like two steps.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 498.35,
+      "end_time": 499.47
+    },
+    {
+      "text": "The first step is they need to create an account on the LIPS platform.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 499.95,
+      "end_time": 504.51
+    },
+    {
+      "text": "So that's where they create, like, their login information.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 504.91,
+      "end_time": 508.43
+    },
+    {
+      "text": "So like email, phone number, password for lips.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 508.75,
+      "end_time": 512.03
+    },
+    {
+      "text": "So that's step one and then step two, which would be like, the second screen is their LinkedIn logins.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 512.319,
+      "end_time": 518.759
+    },
+    {
+      "text": "So that's obviously whatever they used to log on to LinkedIn with.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 518.759,
+      "end_time": 522.159
+    },
+    {
+      "text": "And then they press submit or validate or whatever it is.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 523.519,
+      "end_time": 526.559
+    },
+    {
+      "text": "And then that's when Lipsen logs onto their profile and synchronizes all the data.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 527.439,
+      "end_time": 531.839
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 533.119,
+      "end_time": 533.759
+    },
+    {
+      "text": "Okay, got it.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 533.759,
+      "end_time": 534.719
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 536.079,
+      "end_time": 536.559
+    },
+    {
+      "text": "Maybe if someone else wants to.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 538.66,
+      "end_time": 540.74
+    },
+    {
+      "text": "Now, Andy and Ahmed, if you guys have things you want to talk about, I don't want to jeopardize the whole.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 541.22,
+      "end_time": 546.22
+    },
+    {
+      "text": "And maybe me, Danny and Choms can talk about Deal engine stuff at the end because it's kind of nuanced.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 546.22,
+      "end_time": 551.5
+    },
+    {
+      "text": "The only thing with Deal engines, Andy, is there's a client asking if they can postpone payment until September.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 551.5,
+      "end_time": 558.02
+    },
+    {
+      "text": "Which client's that?",
+      "speaker_name": "Andrew Day",
+      "start_time": 559.7,
+      "end_time": 560.74
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 561.38,
+      "end_time": 561.86
+    },
+    {
+      "text": "Let me just pull up his name.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 562.5,
+      "end_time": 563.94
+    },
+    {
+      "text": "Oh, is it what's his face?",
+      "speaker_name": "Andrew Day",
+      "start_time": 564.26,
+      "end_time": 565.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 565.98,
+      "end_time": 566.42
+    },
+    {
+      "text": "David Pham with Dreamer Group.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 566.89,
+      "end_time": 568.81
+    },
+    {
+      "text": "Yeah, no, it's fine.",
+      "speaker_name": "Andrew Day",
+      "start_time": 571.77,
+      "end_time": 573.09
+    },
+    {
+      "text": "So basically he.",
+      "speaker_name": "Andrew Day",
+      "start_time": 573.09,
+      "end_time": 574.09
+    },
+    {
+      "text": "Me and Danny have talked about this a few times.",
+      "speaker_name": "Andrew Day",
+      "start_time": 574.49,
+      "end_time": 576.81
+    },
+    {
+      "text": "So basically he did sign up, and he's kind of bullshitted us a little bit, but looking at his account, he hasn't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 576.81,
+      "end_time": 584.29
+    },
+    {
+      "text": "Hasn't used it at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 584.29,
+      "end_time": 585.29
+    },
+    {
+      "text": "So we're just gonna.",
+      "speaker_name": "Andrew Day",
+      "start_time": 585.29,
+      "end_time": 586.61
+    },
+    {
+      "text": "We're just gonna do it for this one time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 586.61,
+      "end_time": 588.41
+    },
+    {
+      "text": "But we need to be clear as a team that we can't because we're stopping, starting, refunding, etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 589.21,
+      "end_time": 597.21
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andrew Day",
+      "start_time": 597.21,
+      "end_time": 597.65
+    },
+    {
+      "text": "So as a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 598.13,
+      "end_time": 598.93
+    },
+    {
+      "text": "Just for now, there's none of that gone through.",
+      "speaker_name": "Andrew Day",
+      "start_time": 605.81,
+      "end_time": 608.69
+    },
+    {
+      "text": "Your, your signal keeps coming and going.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 609.33,
+      "end_time": 611.25
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 612.77,
+      "end_time": 613.33
+    },
+    {
+      "text": "It's okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 613.73,
+      "end_time": 614.33
+    },
+    {
+      "text": "I think I, it's fine for now.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 614.33,
+      "end_time": 615.61
+    },
+    {
+      "text": "It's fine for now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 615.61,
+      "end_time": 616.45
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 616.45,
+      "end_time": 616.85
+    },
+    {
+      "text": "But for now this client is going to get pushed back two months but not, not anybody else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 618.13,
+      "end_time": 622.69
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 623.17,
+      "end_time": 623.49
+    },
+    {
+      "text": "I think what we're going to try and do moving forwards is we're going to try and get some like T's and C's or something like that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 624.85,
+      "end_time": 629.73
+    },
+    {
+      "text": "The people sign before they pay so that it all gets squished before comes.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 630.21,
+      "end_time": 636.17
+    },
+    {
+      "text": "Into and as well I think look, we are very much a startup.",
+      "speaker_name": "Andrew Day",
+      "start_time": 636.17,
+      "end_time": 640.45
+    },
+    {
+      "text": "Even though Capital A has been running for seven years, this sort of productized service business that we're creating is, is very much a startup as deal engine.",
+      "speaker_name": "Andrew Day",
+      "start_time": 640.45,
+      "end_time": 651.13
+    },
+    {
+      "text": "So you know, as Dan was saying before, if there's an automation missing, Amanda, then just, just let me know and keep letting me know until it gets put in in place because yeah, I mean we are building it as we go and we're building it to the client's needs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 651.13,
+      "end_time": 665.41
+    },
+    {
+      "text": "So when we see something that's missing we, we just, we need to fix it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 666.21,
+      "end_time": 669.65
+    },
+    {
+      "text": "But it's not a case of we've created something and it's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 669.73,
+      "end_time": 673.89
+    },
+    {
+      "text": "And it's completely fixed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 674.86,
+      "end_time": 676.14
+    },
+    {
+      "text": "It's not fixed at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 676.86,
+      "end_time": 678.22
+    },
+    {
+      "text": "Yeah, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 678.46,
+      "end_time": 679.34
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 680.06,
+      "end_time": 680.46
+    },
+    {
+      "text": "One thing that Darren brought up on the call this morning which was kind of funny, he said he wants.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 681.1,
+      "end_time": 686.38
+    },
+    {
+      "text": "So he wants to have the connections but he doesn't always want to send the messages because they're not a good fit for vanity purposes.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 686.38,
+      "end_time": 694.46
+    },
+    {
+      "text": "He wants the connections.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 694.46,
+      "end_time": 695.9
+    },
+    {
+      "text": "So I was thinking like, I don't know if that's an option where we, they could just connect but not actually send the messages.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 697.1,
+      "end_time": 704.62
+    },
+    {
+      "text": "Yeah, that is a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 705.74,
+      "end_time": 706.94
+    },
+    {
+      "text": "That is an option, isn't is an option.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 706.94,
+      "end_time": 709.9
+    },
+    {
+      "text": "Yeah, but it's a big mess around for them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 710.14,
+      "end_time": 715.58
+    },
+    {
+      "text": "I mean not really for us, but it is for them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 715.58,
+      "end_time": 717.9
+    },
+    {
+      "text": "So we basically just said to them there's a.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 718.22,
+      "end_time": 723.14
+    },
+    {
+      "text": "So within the lips there's like a queue of tasks.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 723.14,
+      "end_time": 725.34
+    },
+    {
+      "text": "Like a queue of like so they would have to manually go into lips and like click back and get it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 725.66,
+      "end_time": 733.67
+    },
+    {
+      "text": "They would click like the X button on any tasks that they don't want to fire.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 733.75,
+      "end_time": 737.35
+    },
+    {
+      "text": "So like it be.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 738.31,
+      "end_time": 739.27
+    },
+    {
+      "text": "It's possible but it's like a massive up evil for them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 739.27,
+      "end_time": 742.07
+    },
+    {
+      "text": "Yeah, okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 743.91,
+      "end_time": 745.11
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 746.31,
+      "end_time": 746.87
+    },
+    {
+      "text": "Yeah, he has, maybe we can talk about it at the end.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 747.75,
+      "end_time": 752.11
+    },
+    {
+      "text": "But yeah, he has like a bunch of different things that he wants to do now.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 752.11,
+      "end_time": 755.03
+    },
+    {
+      "text": "He's really cool, but.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 755.41,
+      "end_time": 756.49
+    },
+    {
+      "text": "And it's just he's so niche.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 756.49,
+      "end_time": 758.77
+    },
+    {
+      "text": "What he is looking for is just so specific that I think that's why he's not really getting a lot of leads.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 759.17,
+      "end_time": 764.53
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 767.33,
+      "end_time": 767.69
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 767.69,
+      "end_time": 767.93
+    },
+    {
+      "text": "And as well, Amanda, these.",
+      "speaker_name": "Andrew Day",
+      "start_time": 767.93,
+      "end_time": 769.13
+    },
+    {
+      "text": "These calls are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 769.13,
+      "end_time": 770.33
+    },
+    {
+      "text": "Offer the whole M and A buy side process as well as the sell side that I myself.",
+      "speaker_name": "Andrew Day",
+      "start_time": 770.33,
+      "end_time": 776.05
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 777.33,
+      "end_time": 777.89
+    },
+    {
+      "text": "Don't worry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 781.18,
+      "end_time": 781.66
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 782.3,
+      "end_time": 782.86
+    },
+    {
+      "text": "Yeah, I'll come around next.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 784.46,
+      "end_time": 785.66
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 787.82,
+      "end_time": 788.14
+    },
+    {
+      "text": "So what I'd like to do is just work our way through the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 788.14,
+      "end_time": 790.46
+    },
+    {
+      "text": "The list of clients.",
+      "speaker_name": "Andrew Day",
+      "start_time": 790.62,
+      "end_time": 791.9
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "Andrew Day",
+      "start_time": 791.9,
+      "end_time": 792.3
+    },
+    {
+      "text": "That's how I normally do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 792.54,
+      "end_time": 793.78
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 793.78,
+      "end_time": 794.14
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 797.74,
+      "end_time": 798.3
+    },
+    {
+      "text": "Sorry, I've got a really bad signal, guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 799.58,
+      "end_time": 801.98
+    },
+    {
+      "text": "So if we can just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 803.5,
+      "end_time": 804.46
+    },
+    {
+      "text": "Amanda, do you just want to lead us through all of the clients, starting with Jeff Kaplan at the top?",
+      "speaker_name": "Andrew Day",
+      "start_time": 804.46,
+      "end_time": 808.46
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 809.04,
+      "end_time": 809.52
+    },
+    {
+      "text": "And just make sure we're up to date with everybody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 809.52,
+      "end_time": 811.68
+    },
+    {
+      "text": "And if you can lead it, Amanda.",
+      "speaker_name": "Andrew Day",
+      "start_time": 812.24,
+      "end_time": 813.44
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 813.44,
+      "end_time": 813.76
+    },
+    {
+      "text": "Yeah, yeah, no worries.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 815.44,
+      "end_time": 816.56
+    },
+    {
+      "text": "I'll just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 816.96,
+      "end_time": 817.6
+    },
+    {
+      "text": "Yeah, if it cuts out, I'll send you the notes after.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 817.92,
+      "end_time": 820.4
+    },
+    {
+      "text": "So for Jeff, I'm meeting with Raw Serial right after this call, which I'm very excited about.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 821.76,
+      "end_time": 826.96
+    },
+    {
+      "text": "They're awesome.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 829.2,
+      "end_time": 829.96
+    },
+    {
+      "text": "They seem like a really good fit, so hopefully that works out.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 829.96,
+      "end_time": 833.44
+    },
+    {
+      "text": "And then, Andy, if you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 834.25,
+      "end_time": 836.49
+    },
+    {
+      "text": "If this doesn't come through, no worries.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 836.49,
+      "end_time": 838.09
+    },
+    {
+      "text": "But do you happen to remember speaking with Sense Marketing?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 838.09,
+      "end_time": 841.21
+    },
+    {
+      "text": "I can share my screen.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 843.05,
+      "end_time": 844.17
+    },
+    {
+      "text": "It looks like you had a few calls.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 844.17,
+      "end_time": 845.53
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 849.61,
+      "end_time": 850.09
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "Andrew Day",
+      "start_time": 854.81,
+      "end_time": 855.85
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 856.01,
+      "end_time": 856.49
+    },
+    {
+      "text": "Yes, I have spoke Sense locked in a few times.",
+      "speaker_name": "Andrew Day",
+      "start_time": 857.37,
+      "end_time": 859.77
+    },
+    {
+      "text": "They do want to sell, but then they're unsure what they want to do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 860.14,
+      "end_time": 864.02
+    },
+    {
+      "text": "But they are definitely on the list, aren't they?",
+      "speaker_name": "Andrew Day",
+      "start_time": 864.02,
+      "end_time": 865.66
+    },
+    {
+      "text": "For as well?",
+      "speaker_name": "Andrew Day",
+      "start_time": 865.66,
+      "end_time": 870.62
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 871.74,
+      "end_time": 872.3
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 872.62,
+      "end_time": 873.02
+    },
+    {
+      "text": "So I was.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 873.02,
+      "end_time": 873.58
+    },
+    {
+      "text": "I was just looking at their.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 873.66,
+      "end_time": 875.02
+    },
+    {
+      "text": "Yeah, it looks like you spoke with them a few times.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 877.5,
+      "end_time": 879.34
+    },
+    {
+      "text": "So we can just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 879.74,
+      "end_time": 882.06
+    },
+    {
+      "text": "Maybe I'll just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 882.22,
+      "end_time": 883.1
+    },
+    {
+      "text": "I can.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 883.1,
+      "end_time": 883.62
+    },
+    {
+      "text": "We can that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 883.62,
+      "end_time": 885.52
+    },
+    {
+      "text": "Do you think that they would be good for Jeff or.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 885.83,
+      "end_time": 887.71
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 887.71,
+      "end_time": 887.99
+    },
+    {
+      "text": "It looks like they.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 890.07,
+      "end_time": 891.11
+    },
+    {
+      "text": "Yeah, I think they are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 891.11,
+      "end_time": 892.07
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 893.99,
+      "end_time": 894.55
+    },
+    {
+      "text": "They are good for Jeff, but the issue is they're in the uk.",
+      "speaker_name": "Andrew Day",
+      "start_time": 895.35,
+      "end_time": 898.87
+    },
+    {
+      "text": "That's all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 898.87,
+      "end_time": 899.39
+    },
+    {
+      "text": "They're not massive, but they do want to sell.",
+      "speaker_name": "Andrew Day",
+      "start_time": 899.39,
+      "end_time": 901.35
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 902.79,
+      "end_time": 903.35
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 903.43,
+      "end_time": 903.99
+    },
+    {
+      "text": "All right, I'll update that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 904.87,
+      "end_time": 906.71
+    },
+    {
+      "text": "And then I also.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 908.15,
+      "end_time": 909.03
+    },
+    {
+      "text": "Yeah, I have a few other calls booked for Jeff.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 909.11,
+      "end_time": 911.35
+    },
+    {
+      "text": "It's with 75am and a few others that he's excited about.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 912.24,
+      "end_time": 916.32
+    },
+    {
+      "text": "So hopefully those calls go well this week.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 916.48,
+      "end_time": 919.6
+    },
+    {
+      "text": "I have another call with a company that's in Pennsylvania, actually in Philly, but they don't.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 920.24,
+      "end_time": 925.84
+    },
+    {
+      "text": "I don't think that they're going to be a great fit, but maybe they'll want a list or something.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 925.84,
+      "end_time": 930.4
+    },
+    {
+      "text": "So we'll see.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 930.56,
+      "end_time": 931.52
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 933.52,
+      "end_time": 933.96
+    },
+    {
+      "text": "So that's Jeff.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 933.96,
+      "end_time": 934.8
+    },
+    {
+      "text": "Tim.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 935.92,
+      "end_time": 936.32
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 937.77,
+      "end_time": 938.01
+    },
+    {
+      "text": "There was some.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 938.81,
+      "end_time": 940.01
+    },
+    {
+      "text": "They had a question about Tim.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 940.33,
+      "end_time": 942.01
+    },
+    {
+      "text": "Tim.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 943.69,
+      "end_time": 944.09
+    },
+    {
+      "text": "I think we're just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 944.09,
+      "end_time": 944.97
+    },
+    {
+      "text": "I'm just adding the keywords or.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 945.21,
+      "end_time": 948.33
+    },
+    {
+      "text": "No shams.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 948.33,
+      "end_time": 949.13
+    },
+    {
+      "text": "We had something for what was.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 949.13,
+      "end_time": 952.17
+    },
+    {
+      "text": "There was something for Tim.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 952.25,
+      "end_time": 953.37
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Shams Gani",
+      "start_time": 957.53,
+      "end_time": 957.93
+    },
+    {
+      "text": "So for Tim actually we discussed about this the LinkedIn sequence first.",
+      "speaker_name": "Shams Gani",
+      "start_time": 957.93,
+      "end_time": 963.49
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Shams Gani",
+      "start_time": 963.49,
+      "end_time": 963.85
+    },
+    {
+      "text": "So you were supposed to get the approval for the shorter, shorter version, not the bigger one because it will not have a positive outcome.",
+      "speaker_name": "Shams Gani",
+      "start_time": 964.09,
+      "end_time": 972.71
+    },
+    {
+      "text": "So that was what we discussed.",
+      "speaker_name": "Shams Gani",
+      "start_time": 972.71,
+      "end_time": 974.59
+    },
+    {
+      "text": "And other thing is from my side.",
+      "speaker_name": "Shams Gani",
+      "start_time": 975.95,
+      "end_time": 977.39
+    },
+    {
+      "text": "So if you're done then I'll start for Tim's thing.",
+      "speaker_name": "Shams Gani",
+      "start_time": 977.39,
+      "end_time": 980.27
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 981.79,
+      "end_time": 982.27
+    },
+    {
+      "text": "And the other thing was the instantly connector, right?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 982.43,
+      "end_time": 986.83
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 987.31,
+      "end_time": 987.75
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Shams Gani",
+      "start_time": 987.75,
+      "end_time": 988.19
+    },
+    {
+      "text": "So for that I need.",
+      "speaker_name": "Shams Gani",
+      "start_time": 988.19,
+      "end_time": 989.47
+    },
+    {
+      "text": "It is asking for the card details.",
+      "speaker_name": "Shams Gani",
+      "start_time": 991.23,
+      "end_time": 993.11
+    },
+    {
+      "text": "So either he can do it or I can put on his.",
+      "speaker_name": "Shams Gani",
+      "start_time": 993.11,
+      "end_time": 996.19
+    },
+    {
+      "text": "Yeah like and he can tweet or I can do it on his behalf.",
+      "speaker_name": "Shams Gani",
+      "start_time": 996.46,
+      "end_time": 999.94
+    },
+    {
+      "text": "So that's the thing.",
+      "speaker_name": "Shams Gani",
+      "start_time": 999.94,
+      "end_time": 1000.7
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1002.86,
+      "end_time": 1003.5
+    },
+    {
+      "text": "And once I get that approval then I will.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1005.26,
+      "end_time": 1008.22
+    },
+    {
+      "text": "I'll contact Param, the guy who's handling the.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1008.46,
+      "end_time": 1011.58
+    },
+    {
+      "text": "The domains and the mail and with him I'll create the number.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1012.3,
+      "end_time": 1018.38
+    },
+    {
+      "text": "Number of meals for the incendiary sequence.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1018.94,
+      "end_time": 1022.06
+    },
+    {
+      "text": "So it is pending how, how far.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1022.72,
+      "end_time": 1025.64
+    },
+    {
+      "text": "Are we off launching the LinkedIn campaign to that client?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1025.64,
+      "end_time": 1028.72
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1029.52,
+      "end_time": 1029.88
+    },
+    {
+      "text": "So I actually worked the entire day on his thing.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1029.88,
+      "end_time": 1033.52
+    },
+    {
+      "text": "So he is having the, the criteria for 2, 2 location.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1033.68,
+      "end_time": 1038.84
+    },
+    {
+      "text": "The primary one is UAE and GCC.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1038.84,
+      "end_time": 1041.2
+    },
+    {
+      "text": "So for that the LinkedIn search is done.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1041.68,
+      "end_time": 1044.4
+    },
+    {
+      "text": "So like I just, I just needed to upload it the.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1044.64,
+      "end_time": 1049.28
+    },
+    {
+      "text": "The LinkedIn sequence.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1049.44,
+      "end_time": 1050.64
+    },
+    {
+      "text": "But for the UK and Ireland I'm working on it.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1051.39,
+      "end_time": 1054.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1055.23,
+      "end_time": 1055.75
+    },
+    {
+      "text": "So I have close to 740 connects for the GCC and UAE location.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1055.75,
+      "end_time": 1061.39
+    },
+    {
+      "text": "Have you got, have you got a rough ETA on that?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1062.03,
+      "end_time": 1066.43
+    },
+    {
+      "text": "I will try to finish it by tomorrow this time because I have to do everything like for all the campaigns but for a different location.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1068.75,
+      "end_time": 1077.83
+    },
+    {
+      "text": "So that is the only patch.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1077.83,
+      "end_time": 1079.15
+    },
+    {
+      "text": "So at the moment I'm on the second one for the, for the you can Ireland part.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1079.31,
+      "end_time": 1084.3
+    },
+    {
+      "text": "So I should be done with tomorrow noon or evening max.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1084.46,
+      "end_time": 1087.58
+    },
+    {
+      "text": "Say that is because what I think would be good is.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1089.9,
+      "end_time": 1092.62
+    },
+    {
+      "text": "And maybe we can figure this out into like the workflow onboarding.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1092.62,
+      "end_time": 1096.06
+    },
+    {
+      "text": "But we get the LinkedIn campaigns up and running like ASAP because they're slightly easier to.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1096.3,
+      "end_time": 1100.9
+    },
+    {
+      "text": "To create it get those going just so that we can get some kind of deals on the board and then in the background we're doing the email stuff because what even once we've got those domains it's going to take 14 days before we can start to use them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1100.9,
+      "end_time": 1114.39
+    },
+    {
+      "text": "So we just need to make sure that we're if we're not using email, we've got LinkedIn going at least.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1114.39,
+      "end_time": 1119.51
+    },
+    {
+      "text": "I think you're muted.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1123.99,
+      "end_time": 1125.11
+    },
+    {
+      "text": "Yeah, you muted me.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1125.51,
+      "end_time": 1126.55
+    },
+    {
+      "text": "I should be audible now.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1127.43,
+      "end_time": 1128.55
+    },
+    {
+      "text": "Hello?",
+      "speaker_name": "Shams Gani",
+      "start_time": 1128.55,
+      "end_time": 1128.95
+    },
+    {
+      "text": "Yeah, you're good.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1128.95,
+      "end_time": 1129.63
+    },
+    {
+      "text": "Yeah, I'm saying that like, like we can start with the LinkedIn campaigns.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1129.63,
+      "end_time": 1133.91
+    },
+    {
+      "text": "Like, we are just waiting for the approval of the sequences.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1135.59,
+      "end_time": 1138.19
+    },
+    {
+      "text": "So once we get the approval, we can start it more also, so that's not a problem.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1138.19,
+      "end_time": 1142.02
+    },
+    {
+      "text": "Oh, that's good then.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1142.5,
+      "end_time": 1143.7
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1146.1,
+      "end_time": 1146.66
+    },
+    {
+      "text": "And then the other thing for Tim, I created the.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1147.06,
+      "end_time": 1150.9
+    },
+    {
+      "text": "The contract, the strategy document, rather.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1152.5,
+      "end_time": 1156.02
+    },
+    {
+      "text": "I put it in here.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1156.26,
+      "end_time": 1157.46
+    },
+    {
+      "text": "Do we usually send it to them in Doc Send or how do we usually send it?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1158.02,
+      "end_time": 1163.46
+    },
+    {
+      "text": "That's from the.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1163.78,
+      "end_time": 1164.74
+    },
+    {
+      "text": "Yeah, set up in DocSend.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1166.67,
+      "end_time": 1168.83
+    },
+    {
+      "text": "Ahmed can help if you need help, Amanda.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1169.39,
+      "end_time": 1172.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1172.67,
+      "end_time": 1173.23
+    },
+    {
+      "text": "All right, sounds good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1173.23,
+      "end_time": 1174.35
+    },
+    {
+      "text": "It just needs signing off by then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1174.35,
+      "end_time": 1176.83
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1177.87,
+      "end_time": 1178.43
+    },
+    {
+      "text": "All right, so I'll have Tim sign up today.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1178.83,
+      "end_time": 1180.75
+    },
+    {
+      "text": "I'll let him know I revised the LinkedIn sequence for him.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1180.75,
+      "end_time": 1184.43
+    },
+    {
+      "text": "So I'll let him know that that's been changed.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1184.43,
+      "end_time": 1187.03
+    },
+    {
+      "text": "We're going to go.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1187.03,
+      "end_time": 1187.71
+    },
+    {
+      "text": "We're going to do the split testing with shorter messages and longer, see how it goes.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1187.71,
+      "end_time": 1191.79
+    },
+    {
+      "text": "So I'll send him those two things, then I'll let him know that his campaigns will be live by tomorrow, potentially.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1192.72,
+      "end_time": 1198.64
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1199.36,
+      "end_time": 1199.92
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1200.4,
+      "end_time": 1201.04
+    },
+    {
+      "text": "All right, great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1201.2,
+      "end_time": 1202
+    },
+    {
+      "text": "Okay, so that's for that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1204,
+      "end_time": 1205.44
+    },
+    {
+      "text": "And then, Gary, we're just adding.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1205.76,
+      "end_time": 1211.12
+    },
+    {
+      "text": "I had a call with him last week.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1211.12,
+      "end_time": 1212.36
+    },
+    {
+      "text": "He was better, definitely a lot better, but he's still just not getting leads.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1212.36,
+      "end_time": 1217.2
+    },
+    {
+      "text": "But the leads that at least he's not finding companies that want to sell.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1217.36,
+      "end_time": 1220.74
+    },
+    {
+      "text": "So we're doing a new campaign, we're adding a bunch of keywords and we're going to try to beef up the campaign that he has, so hopefully we can get him some stuff.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1221.62,
+      "end_time": 1231.46
+    },
+    {
+      "text": "Ravi, it's not super niche, is it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1233.86,
+      "end_time": 1236.02
+    },
+    {
+      "text": "Mando?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1236.02,
+      "end_time": 1236.74
+    },
+    {
+      "text": "No, he actually brought in, he made it a lot broader, which is good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1237.7,
+      "end_time": 1242.18
+    },
+    {
+      "text": "So now he wants to target dental, construction, H vac, plumbing, any tons and tons of industries, marketing, E commerce.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1242.18,
+      "end_time": 1252.96
+    },
+    {
+      "text": "So we expanded it significantly.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1253.52,
+      "end_time": 1255.68
+    },
+    {
+      "text": "Okay, so is he just not getting owners of businesses?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1256.8,
+      "end_time": 1262.48
+    },
+    {
+      "text": "Because I would say nine out of 10 owners want to discuss selling if they approach.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1262.48,
+      "end_time": 1267.36
+    },
+    {
+      "text": "The messages that he's been getting.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1269.28,
+      "end_time": 1271.04
+    },
+    {
+      "text": "It's a lot of people who either already sold or, or they're not interested in selling right now, or they're just not responding to him at all.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1271.04,
+      "end_time": 1280.01
+    },
+    {
+      "text": "He's kind of getting, but it's mostly been companies that aren't interested in selling.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1280.09,
+      "end_time": 1285.05
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1286.41,
+      "end_time": 1286.97
+    },
+    {
+      "text": "All right, so maybe we need to get some kind of signaling, right, to just see if there's any way we can find certain types of sellers, people that would be motivated to sell.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1287.53,
+      "end_time": 1298.81
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1300.34,
+      "end_time": 1300.9
+    },
+    {
+      "text": "Anyway, we'll have to move on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1300.9,
+      "end_time": 1302.1
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1304.1,
+      "end_time": 1304.74
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1305.78,
+      "end_time": 1306.3
+    },
+    {
+      "text": "Yeah, Ravi, I still haven't heard from.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1306.3,
+      "end_time": 1308.78
+    },
+    {
+      "text": "But Danny.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1308.78,
+      "end_time": 1309.5
+    },
+    {
+      "text": "Did you say he was on vacation or something?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1309.5,
+      "end_time": 1311.46
+    },
+    {
+      "text": "You said that he'd reach out to you today.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1312.1,
+      "end_time": 1313.7
+    },
+    {
+      "text": "Okay, all right, I'll look out for that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1314.58,
+      "end_time": 1317.06
+    },
+    {
+      "text": "David.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1317.86,
+      "end_time": 1318.42
+    },
+    {
+      "text": "I'll just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1318.74,
+      "end_time": 1319.34
+    },
+    {
+      "text": "I'm gonna draft an email, but I'll send it to you guys before I send it to him to make sure I'm ex.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1319.34,
+      "end_time": 1324.34
+    },
+    {
+      "text": "Saying you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1324.74,
+      "end_time": 1325.56
+    },
+    {
+      "text": "Yes, that's fine.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1325.71,
+      "end_time": 1326.39
+    },
+    {
+      "text": "We'll do it till September for now.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1326.39,
+      "end_time": 1328.03
+    },
+    {
+      "text": "Chris, I saw they just emailed or that you just emailed about that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1331.31,
+      "end_time": 1335.43
+    },
+    {
+      "text": "So I'll follow up.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1335.43,
+      "end_time": 1336.71
+    },
+    {
+      "text": "If they don't schedule a call by today, you know, if I don't see a call come through soon, I'll follow up with them to get a call on the books.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1336.71,
+      "end_time": 1345.15
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1345.39,
+      "end_time": 1346.03
+    },
+    {
+      "text": "Juan at Trispire.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1346.83,
+      "end_time": 1348.27
+    },
+    {
+      "text": "I'm meeting with him on Wednesday.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1348.27,
+      "end_time": 1349.55
+    },
+    {
+      "text": "We were supposed to meet last week, but he had to reschedule.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1350.51,
+      "end_time": 1352.83
+    },
+    {
+      "text": "I'm going to touch base with him today just to see if he.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1352.91,
+      "end_time": 1356.49
+    },
+    {
+      "text": "If he wants to make any.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1357.05,
+      "end_time": 1358.33
+    },
+    {
+      "text": "If there's anything basically that we can do between.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1358.73,
+      "end_time": 1360.89
+    },
+    {
+      "text": "Actually, you know what?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1361.37,
+      "end_time": 1362.13
+    },
+    {
+      "text": "I'll just wait till Wednesday.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1362.13,
+      "end_time": 1363.01
+    },
+    {
+      "text": "I don't even want.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1363.01,
+      "end_time": 1363.93
+    },
+    {
+      "text": "I was gonna see if he wants something beforehand, but it's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1364.49,
+      "end_time": 1367.53
+    },
+    {
+      "text": "It's okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1367.53,
+      "end_time": 1368.05
+    },
+    {
+      "text": "We'll just wait till Wednesday.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1368.05,
+      "end_time": 1368.89
+    },
+    {
+      "text": "He's the most difficult, so.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1371.21,
+      "end_time": 1373.21
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1376.09,
+      "end_time": 1376.65
+    },
+    {
+      "text": "And then Perry, I haven't heard anything from Said, so I guess it must be going well.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1376.97,
+      "end_time": 1384.25
+    },
+    {
+      "text": "But I was going to just touch base with him just to see how he's doing, because I haven't spoke.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1384.25,
+      "end_time": 1388.65
+    },
+    {
+      "text": "I spoke with him a little over a week ago, and it seems like the campaign's running better, but I'll just email him and just see if he wants to do another call or how it's going for Perry.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1388.65,
+      "end_time": 1401.25
+    },
+    {
+      "text": "And then, Darren, I just had the call with.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1402.13,
+      "end_time": 1404.61
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1404.85,
+      "end_time": 1405.49
+    },
+    {
+      "text": "He's just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1406.93,
+      "end_time": 1407.73
+    },
+    {
+      "text": "Yeah, just really niche.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1408.88,
+      "end_time": 1410.4
+    },
+    {
+      "text": "Let me see if there was.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1411.04,
+      "end_time": 1412.48
+    },
+    {
+      "text": "I had my.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1414.72,
+      "end_time": 1415.52
+    },
+    {
+      "text": "Oh, here.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1416.72,
+      "end_time": 1417.4
+    },
+    {
+      "text": "This was his question.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1417.4,
+      "end_time": 1418.24
+    },
+    {
+      "text": "So he wanted to know if he can include in the connection message.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1418.4,
+      "end_time": 1422.4
+    },
+    {
+      "text": "Please reply no if this is not relevant.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1424.88,
+      "end_time": 1428.64
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1431.68,
+      "end_time": 1432.12
+    },
+    {
+      "text": "And he.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1432.12,
+      "end_time": 1432.44
+    },
+    {
+      "text": "See he can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1432.44,
+      "end_time": 1433.52
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1433.52,
+      "end_time": 1434.08
+    },
+    {
+      "text": "So if they connect with him except the connection request, then they reply no.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1435.71,
+      "end_time": 1441.51
+    },
+    {
+      "text": "It ends the sequence.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1441.51,
+      "end_time": 1442.87
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1442.87,
+      "end_time": 1443.23
+    },
+    {
+      "text": "They don't get any more messages.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1443.31,
+      "end_time": 1444.67
+    },
+    {
+      "text": "Correct.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1444.99,
+      "end_time": 1445.55
+    },
+    {
+      "text": "Even if it's connected.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1445.95,
+      "end_time": 1447.07
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1447.07,
+      "end_time": 1447.63
+    },
+    {
+      "text": "As soon as.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1448.19,
+      "end_time": 1448.99
+    },
+    {
+      "text": "As soon as somebody responds, the automation stops.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1448.99,
+      "end_time": 1452.19
+    },
+    {
+      "text": "Got it, Got it.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1454.19,
+      "end_time": 1455.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1455.03,
+      "end_time": 1455.51
+    },
+    {
+      "text": "All right, so I'll just tell.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1455.51,
+      "end_time": 1457.23
+    },
+    {
+      "text": "I'm gonna.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1457.87,
+      "end_time": 1458.67
+    },
+    {
+      "text": "He.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1458.67,
+      "end_time": 1459.03
+    },
+    {
+      "text": "He wanted to do that, but I just Wanted to run it by you guys, so I'll just tell him that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1459.03,
+      "end_time": 1462.63
+    },
+    {
+      "text": "We can do that often.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1462.63,
+      "end_time": 1464.04
+    },
+    {
+      "text": "And he said he had sent over a document with keyword, new keywords he wanted to target.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1466.6,
+      "end_time": 1475.56
+    },
+    {
+      "text": "Do you guys happen to have that?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1477,
+      "end_time": 1478.24
+    },
+    {
+      "text": "I don't think he included me.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1478.24,
+      "end_time": 1479.64
+    },
+    {
+      "text": "It's for Darren.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1487.08,
+      "end_time": 1488.12
+    },
+    {
+      "text": "Well, is it Darren Harris or Darren Wilson?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1489.41,
+      "end_time": 1492.33
+    },
+    {
+      "text": "Yeah, Darren Wilson.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1492.33,
+      "end_time": 1493.33
+    },
+    {
+      "text": "Shams.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1494.77,
+      "end_time": 1495.33
+    },
+    {
+      "text": "Have you got that?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1495.33,
+      "end_time": 1495.97
+    },
+    {
+      "text": "Nope.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1496.69,
+      "end_time": 1497.25
+    },
+    {
+      "text": "Okay, I'll have him resend it.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1498.85,
+      "end_time": 1500.45
+    },
+    {
+      "text": "Maybe it went to spam or something, so I'll see what's going on with that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1500.85,
+      "end_time": 1507.29
+    },
+    {
+      "text": "But yeah, he just wanted to add some new keywords to the campaign to expand it since it's so niche.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1507.29,
+      "end_time": 1512.13
+    },
+    {
+      "text": "He came up with some new ones that can be added.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1512.37,
+      "end_time": 1514.85
+    },
+    {
+      "text": "And I'm not on.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1518.03,
+      "end_time": 1520.19
+    },
+    {
+      "text": "I haven't spoken with.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1520.27,
+      "end_time": 1521.55
+    },
+    {
+      "text": "I'm not familiar with these other people.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1521.71,
+      "end_time": 1523.63
+    },
+    {
+      "text": "Adam, Jeff, Robert, Ben, Peter and Paul.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1523.63,
+      "end_time": 1528.75
+    },
+    {
+      "text": "I'm sure.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1529.87,
+      "end_time": 1530.43
+    },
+    {
+      "text": "I'm sure they'll all pop up all the time, Amanda.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1530.43,
+      "end_time": 1533.23
+    },
+    {
+      "text": "Yeah, they always do.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1533.55,
+      "end_time": 1535.79
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1539.15,
+      "end_time": 1539.79
+    },
+    {
+      "text": "And then let's see if there was any other updates.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1540.19,
+      "end_time": 1543.5
+    },
+    {
+      "text": "My only other thing was, is it okay if I schedule.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1544.38,
+      "end_time": 1548.1
+    },
+    {
+      "text": "Should I schedule a call with Heather?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1548.1,
+      "end_time": 1550.38
+    },
+    {
+      "text": "She had said that in an email because I know Jeff was asked just to talk about bui and anything else.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1550.86,
+      "end_time": 1558.94
+    },
+    {
+      "text": "I haven't met her yet and I know.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1559.1,
+      "end_time": 1561.1
+    },
+    {
+      "text": "I don't know if she's like a bit finicky or what the deal is, but what do you think, Candy?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1561.5,
+      "end_time": 1565.98
+    },
+    {
+      "text": "I can just WhatsApp you about that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1569.83,
+      "end_time": 1571.75
+    },
+    {
+      "text": "She's Senecated.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1573.11,
+      "end_time": 1574.35
+    },
+    {
+      "text": "Oh, she.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1574.35,
+      "end_time": 1574.87
+    },
+    {
+      "text": "She's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1574.87,
+      "end_time": 1575.35
+    },
+    {
+      "text": "She's really cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1575.35,
+      "end_time": 1576.23
+    },
+    {
+      "text": "I'm really laid back, I think, on both sides.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1576.39,
+      "end_time": 1579.99
+    },
+    {
+      "text": "Jeff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1579.99,
+      "end_time": 1580.47
+    },
+    {
+      "text": "I'll let Elon Musk let Starlink is Elon moved to Texas, so everyone here works for, like, SpaceX.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1595.28,
+      "end_time": 1607.6
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1610.48,
+      "end_time": 1611.12
+    },
+    {
+      "text": "I'll touch base with Andy after.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1611.44,
+      "end_time": 1613.2
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1616.32,
+      "end_time": 1616.96
+    },
+    {
+      "text": "Do you guys have anything you want to talk about?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1618.25,
+      "end_time": 1620.17
+    },
+    {
+      "text": "Oh, Rob Felters and Chris Dickman.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1622.17,
+      "end_time": 1624.41
+    },
+    {
+      "text": "So they sent me an email this morning saying that for Chris Dickman's campaigns, they also want to add on a campaign where Chris is going to do some acquisitions.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1625.61,
+      "end_time": 1637.45
+    },
+    {
+      "text": "But what I've done is I've actually passed them over to you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1638.41,
+      "end_time": 1641.61
+    },
+    {
+      "text": "Amanda said it's booking a call with Amanda just because obviously she's active, our partnerships manager, you know, let her know what you need and then.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1641.61,
+      "end_time": 1651.05
+    },
+    {
+      "text": "And then we'll sort it out.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1651.05,
+      "end_time": 1652.25
+    },
+    {
+      "text": "So just putting it on a.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1652.33,
+      "end_time": 1654.17
+    },
+    {
+      "text": "Putting it on your radar.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1654.17,
+      "end_time": 1655.13
+    },
+    {
+      "text": "I think I put an email together, actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1655.13,
+      "end_time": 1656.41
+    },
+    {
+      "text": "Amanda, which you should be in.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1656.41,
+      "end_time": 1657.69
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1658.25,
+      "end_time": 1658.73
+    },
+    {
+      "text": "I just saw that right before the call.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1658.73,
+      "end_time": 1660.37
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1660.37,
+      "end_time": 1660.65
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1660.65,
+      "end_time": 1661.05
+    },
+    {
+      "text": "So I sent a new calendar link, so hopefully they'll just book right in.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1661.13,
+      "end_time": 1664.25
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1664.81,
+      "end_time": 1665.37
+    },
+    {
+      "text": "If I Don't hear from them by tomorrow.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1665.93,
+      "end_time": 1667.53
+    },
+    {
+      "text": "I'll.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1667.53,
+      "end_time": 1667.81
+    },
+    {
+      "text": "I'll send them another email.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1667.81,
+      "end_time": 1668.97
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1671.38,
+      "end_time": 1671.78
+    },
+    {
+      "text": "What else, what else, what else, what else, what else?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1674.1,
+      "end_time": 1676.02
+    },
+    {
+      "text": "Oh, there is something, actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1676.74,
+      "end_time": 1678.34
+    },
+    {
+      "text": "So I have just made.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1679.06,
+      "end_time": 1680.9
+    },
+    {
+      "text": "I don't know if anybody's interested in any LinkedIn stuff, but I've got a document that I've made today over LinkedIn, but it specializes in M and A, so I don't know if anybody wants it, if anyone wants to start doing some LinkedIn content.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1681.46,
+      "end_time": 1696.02
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1697.15,
+      "end_time": 1697.47
+    },
+    {
+      "text": "What I'm going to use this for is.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1703.39,
+      "end_time": 1705.55
+    },
+    {
+      "text": "And Amanda, this would be useful for you as well, actually.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1706.11,
+      "end_time": 1708.03
+    },
+    {
+      "text": "When we get a new client, we can give them access to it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1708.27,
+      "end_time": 1711.91
+    },
+    {
+      "text": "It's like a playbook and it's based.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1711.91,
+      "end_time": 1715.35
+    },
+    {
+      "text": "Because if, if they're, if they become More active on LinkedIn, it just makes our stuff better.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1715.35,
+      "end_time": 1722.76
+    },
+    {
+      "text": "So get it up.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1723.56,
+      "end_time": 1726
+    },
+    {
+      "text": "I'll share with everyone.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1726,
+      "end_time": 1726.84
+    },
+    {
+      "text": "So feel free to use it or throw it in the bin.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1731.56,
+      "end_time": 1734.6
+    },
+    {
+      "text": "I think that'll work.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1754.29,
+      "end_time": 1755.17
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1756.21,
+      "end_time": 1756.61
+    },
+    {
+      "text": "I mean, obviously, take it, leave it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1756.61,
+      "end_time": 1757.81
+    },
+    {
+      "text": "But I just think it'd be a good value add for clients, especially people that aren't that active on, on the LinkedIn platform or ones that maybe just want to start using it more and creating content and stuff like that, but don't really know what to do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1757.81,
+      "end_time": 1769.73
+    },
+    {
+      "text": "So we can give them access to that and we can say, listen, this is everything that you should need is a playbook.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1770.05,
+      "end_time": 1775.81
+    },
+    {
+      "text": "If you follow that, you should be sweet because all of our stuff is like behind the scenes, sending people messages.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1775.81,
+      "end_time": 1783.01
+    },
+    {
+      "text": "And that document's more like, update your LinkedIn profile, how to create content, how to come up with ideas, stuff like that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1783.41,
+      "end_time": 1790.77
+    },
+    {
+      "text": "Oh, very cool.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1791.73,
+      "end_time": 1792.69
+    },
+    {
+      "text": "Another thing.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1795.89,
+      "end_time": 1797.33
+    },
+    {
+      "text": "This is great, Danny, thank you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1797.33,
+      "end_time": 1798.93
+    },
+    {
+      "text": "But another thing that Darren mentioned this morning, he didn't know that the sequence stops when the person responds, which.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1800.35,
+      "end_time": 1808.67
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1813.47,
+      "end_time": 1813.75
+    },
+    {
+      "text": "Mean, he's a, like, he's an engineer.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1813.75,
+      "end_time": 1816.03
+    },
+    {
+      "text": "He's like, I'm not a marketing person.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1816.03,
+      "end_time": 1818.91
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1826.04,
+      "end_time": 1826.28
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1827.16,
+      "end_time": 1827.8
+    },
+    {
+      "text": "I don't even know how, how he would have thought that, obviously.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1828.2,
+      "end_time": 1834.4
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1834.4,
+      "end_time": 1834.68
+    },
+    {
+      "text": "Or is that just me?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1835.24,
+      "end_time": 1836.2
+    },
+    {
+      "text": "Surely that's really obvious.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1836.36,
+      "end_time": 1837.72
+    },
+    {
+      "text": "Well, that's like, I think it is to us, but for him, I mean.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1839.08,
+      "end_time": 1843.2
+    },
+    {
+      "text": "Are you sure he's an engineer?",
+      "speaker_name": "Shams Gani",
+      "start_time": 1843.2,
+      "end_time": 1844.6
+    },
+    {
+      "text": "Like, that was such a basic thing.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1845.72,
+      "end_time": 1847.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1847.64,
+      "end_time": 1848
+    },
+    {
+      "text": "Like, can you imagine if the automation didn't stop and it would just keep sending messages?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1848,
+      "end_time": 1852.92
+    },
+    {
+      "text": "Yeah, I know.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1853.32,
+      "end_time": 1855.12
+    },
+    {
+      "text": "So he's been messaging people and saying like, sorry, these are automated emails, you might get some more.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1855.44,
+      "end_time": 1860.72
+    },
+    {
+      "text": "Oh, my.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1861.76,
+      "end_time": 1862.32
+    },
+    {
+      "text": "God.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1866.56,
+      "end_time": 1867.04
+    },
+    {
+      "text": "Not a good engineer.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1867.76,
+      "end_time": 1869.04
+    },
+    {
+      "text": "But it's like, I guess, I don't know, it just made me realize these things.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1871.12,
+      "end_time": 1875.52
+    },
+    {
+      "text": "This is Very obvious to us but to him, to some people it's not like if you work systems, he's basically a plumber.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1875.68,
+      "end_time": 1886.48
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1887.92,
+      "end_time": 1888.4
+    },
+    {
+      "text": "But also that's really concerning.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1889.6,
+      "end_time": 1891.6
+    },
+    {
+      "text": "It was really funny.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1894.8,
+      "end_time": 1896
+    },
+    {
+      "text": "So there was that and there's something else he said, trying to remember what it was.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1896.8,
+      "end_time": 1902.4
+    },
+    {
+      "text": "It was also kind of funny.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1902.4,
+      "end_time": 1903.84
+    },
+    {
+      "text": "But yeah, it just made me realize like people don't really know a whole lot about the.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1903.84,
+      "end_time": 1912.17
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1912.33,
+      "end_time": 1912.97
+    },
+    {
+      "text": "Things that are very obvious to us are not always obvious to others.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1913.13,
+      "end_time": 1916.41
+    },
+    {
+      "text": "I'll find out.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 1921.37,
+      "end_time": 1922.25
+    },
+    {
+      "text": "Who else have we got?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1926.41,
+      "end_time": 1927.53
+    },
+    {
+      "text": "I think that's it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1929.21,
+      "end_time": 1930.17
+    },
+    {
+      "text": "So what will happen next for the instantly thing?",
+      "speaker_name": "Shams Gani",
+      "start_time": 1930.65,
+      "end_time": 1933.98
+    },
+    {
+      "text": "Put them.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1934.54,
+      "end_time": 1935.18
+    },
+    {
+      "text": "Because I don't, I don't know what you're up to with the, with the tasks shams where you are.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1936.86,
+      "end_time": 1944.06
+    },
+    {
+      "text": "I just missed you for a couple.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1946.14,
+      "end_time": 1947.54
+    },
+    {
+      "text": "Of seconds in, in the onboarding checklist.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1947.54,
+      "end_time": 1951.58
+    },
+    {
+      "text": "So what stage you up to?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 1952.62,
+      "end_time": 1954.3
+    },
+    {
+      "text": "So I'm almost done with the lips thing and I'm on and the only thing which is pending is the instantly stuff.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1955.26,
+      "end_time": 1961.8
+    },
+    {
+      "text": "That's it.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1961.8,
+      "end_time": 1962.24
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1962.56,
+      "end_time": 1962.96
+    },
+    {
+      "text": "So for that I need the workspace first of all.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1963.36,
+      "end_time": 1966.24
+    },
+    {
+      "text": "So to get the workspace I need the payment and once the payment is done then I'll approach Karam for the main or like the list of names.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1966.32,
+      "end_time": 1977.52
+    },
+    {
+      "text": "So that is the part where I'm stuck right now.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1977.84,
+      "end_time": 1980.48
+    },
+    {
+      "text": "So once I have that and also revised two names, the ones which he gave in the domain platform so because it included a VC in the name, so was like just try to get an alternative of it.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1981.36,
+      "end_time": 1993.62
+    },
+    {
+      "text": "And the other thing was just off the charts.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1993.62,
+      "end_time": 1995.9
+    },
+    {
+      "text": "So I told him to change but I haven't heard from him yet.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1995.9,
+      "end_time": 1998.38
+    },
+    {
+      "text": "That guy, he really responds once a day and that.",
+      "speaker_name": "Shams Gani",
+      "start_time": 1998.62,
+      "end_time": 2001.74
+    },
+    {
+      "text": "And that is like.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2001.74,
+      "end_time": 2003.22
+    },
+    {
+      "text": "I don't know, like when he just come online he'll just answer the thing and I'll just vanish.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2003.22,
+      "end_time": 2009.66
+    },
+    {
+      "text": "Yeah, he does, he does do that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2011.98,
+      "end_time": 2014.22
+    },
+    {
+      "text": "He does do that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2014.7,
+      "end_time": 2015.54
+    },
+    {
+      "text": "He's not, he's not perfect but he's what we've got for now.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2015.54,
+      "end_time": 2019.39
+    },
+    {
+      "text": "So that's what we've got.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2019.39,
+      "end_time": 2021.79
+    },
+    {
+      "text": "Well, I mean you're doing the right stuff, mate.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2022.43,
+      "end_time": 2024.03
+    },
+    {
+      "text": "So I think what you need to do is maybe just follow up with Andy, just get those card details from.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2024.03,
+      "end_time": 2030.19
+    },
+    {
+      "text": "Him twice in the group, message him again and ignored me like anything like this.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2030.19,
+      "end_time": 2037.87
+    },
+    {
+      "text": "He won't be meaning to, to ignore you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2039.71,
+      "end_time": 2041.87
+    },
+    {
+      "text": "He'll just be busy.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2041.95,
+      "end_time": 2042.99
+    },
+    {
+      "text": "So I'm just saying he just really doesn't.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2043.23,
+      "end_time": 2046.03
+    },
+    {
+      "text": "I don't think he checks like, I don't think he likes slack or he just doesn't have it on his.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2046.03,
+      "end_time": 2050.03
+    },
+    {
+      "text": "He doesn't like slack.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2050.35,
+      "end_time": 2051.43
+    },
+    {
+      "text": "He said that already right now.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2051.43,
+      "end_time": 2054.27
+    },
+    {
+      "text": "If you WhatsApp him or email him, those are usually the best.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2054.67,
+      "end_time": 2058.51
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2059.79,
+      "end_time": 2060.43
+    },
+    {
+      "text": "Email.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2061.47,
+      "end_time": 2061.87
+    },
+    {
+      "text": "Email is always the best for Andy.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2062.03,
+      "end_time": 2063.71
+    },
+    {
+      "text": "He.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2063.71,
+      "end_time": 2063.95
+    },
+    {
+      "text": "He's always come back to every email I've ever sent.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2063.95,
+      "end_time": 2066.19
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2066.99,
+      "end_time": 2067.47
+    },
+    {
+      "text": "And very quickly too.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2068.11,
+      "end_time": 2069.31
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2069.31,
+      "end_time": 2069.57
+    },
+    {
+      "text": "Since he's traveling, so mail would be a good option.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2069.64,
+      "end_time": 2071.8
+    },
+    {
+      "text": "Okay, so that's it.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2072.12,
+      "end_time": 2073.64
+    },
+    {
+      "text": "So tomorrow, hopefully by this time I should be done with all the campaigns for Tim and I'll be good to go.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2073.64,
+      "end_time": 2080.56
+    },
+    {
+      "text": "But meanwhile, we can start the campaigns since we have the UEE list with us, which is ready.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2080.56,
+      "end_time": 2086.28
+    },
+    {
+      "text": "Just get it approved, Amanda.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2086.6,
+      "end_time": 2088.56
+    },
+    {
+      "text": "So once it is approved, we can start the campaigns.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2088.56,
+      "end_time": 2092.36
+    },
+    {
+      "text": "That's it.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2092.44,
+      "end_time": 2093.08
+    },
+    {
+      "text": "From Tim's side.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2093.96,
+      "end_time": 2095
+    },
+    {
+      "text": "And one more thing for Paul.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2095.08,
+      "end_time": 2096.52
+    },
+    {
+      "text": "I have.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2096.52,
+      "end_time": 2096.92
+    },
+    {
+      "text": "I finished all the changes.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2097.16,
+      "end_time": 2099.88
+    },
+    {
+      "text": "What he said.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2099.88,
+      "end_time": 2100.56
+    },
+    {
+      "text": "So his campaign is also live.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2100.56,
+      "end_time": 2101.96
+    },
+    {
+      "text": "Just an FYI.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2102.68,
+      "end_time": 2103.8
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2103.88,
+      "end_time": 2104.24
+    },
+    {
+      "text": "If that guy will come for the third time and he'll do all the changes, then just charge him extra money then that's an advice.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2104.24,
+      "end_time": 2110.76
+    },
+    {
+      "text": "Because he's changing all the campaigns like once a month or like very, like very frequent.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2110.76,
+      "end_time": 2116.76
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2117.88,
+      "end_time": 2118.24
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2118.24,
+      "end_time": 2118.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2120.52,
+      "end_time": 2121.08
+    },
+    {
+      "text": "Well, we'll just keep.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2121.64,
+      "end_time": 2122.4
+    },
+    {
+      "text": "We'll keep it in mind and we'll cross that bridge.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2122.4,
+      "end_time": 2123.68
+    },
+    {
+      "text": "When.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2123.68,
+      "end_time": 2123.8
+    },
+    {
+      "text": "We'll come to it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2123.8,
+      "end_time": 2124.44
+    },
+    {
+      "text": "I say when because we will come to it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2124.97,
+      "end_time": 2126.73
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2127.29,
+      "end_time": 2127.65
+    },
+    {
+      "text": "Because he has done it twice.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2127.65,
+      "end_time": 2128.89
+    },
+    {
+      "text": "Yeah, I don't think that will last.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2129.37,
+      "end_time": 2131.37
+    },
+    {
+      "text": "So that's it from my side.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2134.97,
+      "end_time": 2136.17
+    },
+    {
+      "text": "Nothing else to update on my cool.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2136.17,
+      "end_time": 2139.77
+    },
+    {
+      "text": "Then you can drop.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2144.25,
+      "end_time": 2145.29
+    },
+    {
+      "text": "I think we're all good.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2146.17,
+      "end_time": 2147.05
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2147.05,
+      "end_time": 2147.41
+    },
+    {
+      "text": "We all good?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2147.41,
+      "end_time": 2148.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2148.97,
+      "end_time": 2149.45
+    },
+    {
+      "text": "Andy is with tsg, so he's not going to come on the call call.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2151.05,
+      "end_time": 2155.14
+    },
+    {
+      "text": "I think so.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2155.14,
+      "end_time": 2156.1
+    },
+    {
+      "text": "It's all good.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2156.1,
+      "end_time": 2156.98
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2157.62,
+      "end_time": 2158.26
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2159.06,
+      "end_time": 2159.46
+    },
+    {
+      "text": "Danny, do you want to take a look?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2161.94,
+      "end_time": 2163.54
+    },
+    {
+      "text": "I don't know if my screen.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2163.78,
+      "end_time": 2164.94
+    },
+    {
+      "text": "When I did the screen share, if it worked, but the.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2164.94,
+      "end_time": 2167.7
+    },
+    {
+      "text": "The strategy doc, did that pop up?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2167.86,
+      "end_time": 2170.66
+    },
+    {
+      "text": "You can show me again if you want.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2171.94,
+      "end_time": 2173.38
+    },
+    {
+      "text": "I've got some other tabs open as well whilst I'm in this meeting, so I didn't actually see it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2174.5,
+      "end_time": 2178.18
+    },
+    {
+      "text": "Can join me now.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2180.43,
+      "end_time": 2181.15
+    },
+    {
+      "text": "Here, let me see.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2184.99,
+      "end_time": 2186.03
+    },
+    {
+      "text": "Ahmed, you can shoot off now if you want.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2187.07,
+      "end_time": 2188.83
+    },
+    {
+      "text": "And Shams as well.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2190.35,
+      "end_time": 2191.31
+    },
+    {
+      "text": "You can shoot off too, if you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2191.31,
+      "end_time": 2192.35
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2196.75,
+      "end_time": 2197.15
+    },
+    {
+      "text": "See you guys.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2197.15,
+      "end_time": 2197.87
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2198.51,
+      "end_time": 2198.99
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2199.55,
+      "end_time": 2200.11
+    },
+    {
+      "text": "I don't know why.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2203.07,
+      "end_time": 2204.03
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2204.75,
+      "end_time": 2205.15
+    },
+    {
+      "text": "Just so you know as well, Amanda, this is the first time that I'm doing these two.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2205.31,
+      "end_time": 2208.75
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2210.38,
+      "end_time": 2210.78
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2211.34,
+      "end_time": 2211.9
+    },
+    {
+      "text": "So I think.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2212.78,
+      "end_time": 2213.42
+    },
+    {
+      "text": "I think the main sign off that you'll need is from Andy.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2213.58,
+      "end_time": 2218.22
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2219.98,
+      "end_time": 2220.54
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2222.78,
+      "end_time": 2223.22
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2223.22,
+      "end_time": 2223.82
+    },
+    {
+      "text": "It's not letting me share.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2224.94,
+      "end_time": 2226.22
+    },
+    {
+      "text": "Well, I mean, it's letting me share.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2226.78,
+      "end_time": 2228.14
+    },
+    {
+      "text": "It's just not showing the PDF.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2228.14,
+      "end_time": 2229.58
+    },
+    {
+      "text": "I'm not sure what's the deal.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2230.46,
+      "end_time": 2232.18
+    },
+    {
+      "text": "I. I hate Google Meet so much.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2232.18,
+      "end_time": 2234.1
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2234.1,
+      "end_time": 2234.38
+    },
+    {
+      "text": "All right, whatever.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2234.38,
+      "end_time": 2235.1
+    },
+    {
+      "text": "I'm just gonna tag you in this Slack message, but I'll just have Andy take a look at it too.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2235.46,
+      "end_time": 2242.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2242.58,
+      "end_time": 2243.06
+    },
+    {
+      "text": "Yeah, okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2243.3,
+      "end_time": 2250.66
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2252.5,
+      "end_time": 2252.98
+    },
+    {
+      "text": "I just talked to you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2252.98,
+      "end_time": 2254.26
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2255.78,
+      "end_time": 2256.34
+    },
+    {
+      "text": "Active summary methodology.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2262.11,
+      "end_time": 2264.35
+    },
+    {
+      "text": "Service.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2266.27,
+      "end_time": 2266.67
+    },
+    {
+      "text": "Corn.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2272.51,
+      "end_time": 2273.07
+    },
+    {
+      "text": "Agreed by signed by.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2274.11,
+      "end_time": 2275.55
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2276.75,
+      "end_time": 2277.149
+    },
+    {
+      "text": "I mean on face value, this looks good to me, but run it by, run it by Andy.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2279.07,
+      "end_time": 2283.91
+    },
+    {
+      "text": "Make sure he's sweet with it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2283.91,
+      "end_time": 2284.99
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2285.63,
+      "end_time": 2286.19
+    },
+    {
+      "text": "I mean, I mean, personally I feel like we could flesh this out like so much more.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2286.65,
+      "end_time": 2290.81
+    },
+    {
+      "text": "Like, I also think I've.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2291.53,
+      "end_time": 2294.09
+    },
+    {
+      "text": "I reckon we could very easily make this like a 20 page doc just using AI just.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2294.09,
+      "end_time": 2300.17
+    },
+    {
+      "text": "Just to like really like flesh it out and pad it out.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2300.17,
+      "end_time": 2303.93
+    },
+    {
+      "text": "But I'll let and decide if that's what he wants to do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2304.97,
+      "end_time": 2308.37
+    },
+    {
+      "text": "But that's what I do because I feel like if you just really padded it out, it'd make it look really good.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2308.37,
+      "end_time": 2313.28
+    },
+    {
+      "text": "Yeah, I know, but then they'll take longer to review it and then they might not sign.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2314.56,
+      "end_time": 2319.12
+    },
+    {
+      "text": "True.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2319.76,
+      "end_time": 2320.24
+    },
+    {
+      "text": "True.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2320.4,
+      "end_time": 2320.84
+    },
+    {
+      "text": "Yeah, I think he just.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2320.84,
+      "end_time": 2322.56
+    },
+    {
+      "text": "The only thing that I was thinking we might want to add is I think all the keywords are in there, which is good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2322.72,
+      "end_time": 2328.76
+    },
+    {
+      "text": "And then maybe the LinkedIn sequence, the actual messaging.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2328.76,
+      "end_time": 2331.52
+    },
+    {
+      "text": "So maybe I'll just ask Andy if it's okay to add that in.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2332.56,
+      "end_time": 2335.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2335.76,
+      "end_time": 2336.16
+    },
+    {
+      "text": "LinkedIn sequences.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2336.72,
+      "end_time": 2337.64
+    },
+    {
+      "text": "You also need to add in the email sequences too.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2337.64,
+      "end_time": 2339.84
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2340.77,
+      "end_time": 2341.73
+    },
+    {
+      "text": "Does Sham set up the email sequence or does he just use the same.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2342.77,
+      "end_time": 2346.65
+    },
+    {
+      "text": "Okay, so Sham sets up the email sequences, but he will definitely use ChatGPT to do it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2346.65,
+      "end_time": 2354.85
+    },
+    {
+      "text": "So it will need us to give a glance over it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2354.85,
+      "end_time": 2357.81
+    },
+    {
+      "text": "In my opinion, I think it would be better if you kind of drafted it out, put it on that strategy doc, and then Sham's copy and pasted it from that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2357.81,
+      "end_time": 2365.17
+    },
+    {
+      "text": "I think that would probably be a better room.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2366.15,
+      "end_time": 2369.91
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2370.87,
+      "end_time": 2371.43
+    },
+    {
+      "text": "All right, I'll touch base with him and just ask if.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2371.51,
+      "end_time": 2373.79
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2373.79,
+      "end_time": 2375.27
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2376.87,
+      "end_time": 2377.35
+    },
+    {
+      "text": "Sweet.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 2377.67,
+      "end_time": 2378.11
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2378.11,
+      "end_time": 2378.55
+    },
+    {
+      "text": "Thank you so much.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2378.95,
+      "end_time": 2379.99
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2382.07,
+      "end_time": 2382.59
+    },
+    {
+      "text": "All right, have a good day.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2382.59,
+      "end_time": 2383.67
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 2385.11,
+      "end_time": 2385.59
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Deal Engine",
+      "LinkedIn campaigns",
+      "client onboarding",
+      "M&A acquisitions",
+      "lead generation",
+      "email automation"
+    ],
+    "action_items": "\n**Andrew Day**\nSet up automations for Embrace Investments onboarding form to notify Amanda Sapio and Shams Gani (05:30)\nReview and approve strategy document created by Amanda Sapio for Tim (19:32)\n\n**Amanda Sapio**\nMeet with Raw Serial after current call for Jeff Kaplan opportunity (13:35)\nSet up DocSend for Tim's strategy document and get signature (19:32)\nSend revised LinkedIn sequences to Tim and confirm campaign launch timeline (19:59)\nDraft email to David Pham confirming September payment postponement (22:25)\nFollow up with Chris Dickman if no call scheduled by tomorrow (27:44)\nEmail Perry to check campaign progress and schedule follow-up if needed (24:08)\nContact Darren Wilson about resending keyword document (24:54)\n\n**Shams Gani**\nComplete UK/Ireland LinkedIn campaign setup for Tim by tomorrow noon/evening (18:09)\nEmail Andrew Day for Tim's Instantly connector card details (34:26)\nCoordinate with Param for domain and email setup once payment processed (16:45)\n\n**Daniel Smith**\nShare LinkedIn M&A playbook document with team (28:17)\nReview Amanda Sapio's strategy document for Tim (37:59)\n",
+    "outline": null,
+    "overview": "- Embrace Investments submitted onboarding form; Andrew Day to set up automations for email notifications to Amanda Sapio and Shams Gani.\n- David Pham from Dreamer Group approved for payment postponement until September due to non-usage of the platform.\n- Amanda Sapio is meeting with Raw Serial to explore Sense Marketing as a potential acquisition target for Jeff Kaplan.\n- LinkedIn campaign sequences pending approval for a shorter version, with campaigns ready for UAE/GCC (740 connections) and UK/Ireland in progress.\n- Gary is expanding target industries including dental, construction, HVAC, plumbing, marketing, and e-commerce to improve lead generation.\n- Amanda Sapio to follow up on campaign progress due to reports of better performance.\n- Darren Wilson requested a connection-only option for campaigns; technically feasible but considered cumbersome.\n- Daniel Smith created a LinkedIn M&A playbook to enhance client value and profile optimization.\n- Andrew Day is currently facing connectivity issues with Starlink, impacting technical operations.\n- Instantly domain setup is pending with Param, requiring a 14-day warmup before email campaigns launch.",
+    "short_summary": "Embrace Investments has submitted an onboarding form, and Andrew Day is tasked with automating email notifications for Amanda Sapio and Shams Gani. David Pham from Dreamer Group has received approval for a payment postponement until September due to non-usage of the platform. Amanda Sapio is set to meet with Raw Serial to discuss the potential acquisition of Sense Marketing for Jeff Kaplan. Campaign sequences for LinkedIn are pending approval for a shorter version, with ongoing campaigns for UAE/GCC (740 connections) and the UK/Ireland. Gary is broadening target industries including dental, construction, HVAC, plumbing, marketing, and e-commerce to boost lead generation. Amanda will follow up on campaign performance, while Darren Wilson has proposed a connection-only option for campaigns, which is feasible but cumbersome. Daniel Smith has developed a LinkedIn M&A playbook to enhance client value, and Andrew Day is currently facing Starlink connectivity issues affecting operations. Additionally, the Instantly domain setup is pending with Param, requiring a 14-day warmup before launching email campaigns.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JZ0MG8WVHN34NT7D59KXKTPC",
+  "audio_url": "https://cdn.fireflies.ai/01JZ0MG8WVHN34NT7D59KXKTPC/audio.mp3?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlowTUc4V1ZITjM0TlQ3RDU5S1hLVFBDL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=zUnz1beCL8KER0dI-mLPakJJs9aPc0zI4Gk1MNwXdfZDghrIZwDnmXPTQq8qUDvGMRlVcdJ1wT~PkFq5mtEnuS8ufUqG-DikVyYUbHZCbqkP8rePpb2gisWCzz45aa8d6WKd0XemKFk9EiQj1pHtUpTrUnDq330zPGS4UqPyA9~Ru9QybZpS1~WYGBytmXfJ3zPW0CpLP4huSBhBxYSDkZ7Ost4587NQ583ZLGDwt8IfSA4BnnPoaydJIe33eU8Ym7ftNa8mENpwroFaf9I3HSTlqmRgPTTZsnbMdv~Rf-u9i24VXeO0T5~jlO6pnSjuJxgd~HRq0rn4AMgRHjxfoQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JZ0MG8WVHN34NT7D59KXKTPC/video.mp4?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlowTUc4V1ZITjM0TlQ3RDU5S1hLVFBDL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=zbzRw3tSgiLigCoiNogIhycH9hxuIksXjWybDNaIManHX5iFsUjyOWOJ2JElinjp1XyzJEMQwFd3N7wlnhE-M7y2rOmA8LI~~wvWxo6S6o0rgiyCwMiHt99USg3B6qtMEp9u-sGPY4dvlPPW-tPMFoY4tz0o13AeiIWtbHQn4XZwqi8aQThmKDGWCug1chjvggILrFXHGJgsy2c3Ln~e4A0vIMm9CBK~LnfD30n2BusAW13dV58oN9D32bfIYWJzowMN3YsKUGPI4d0Q4cmlA5kjHbolG5I-xa0o98s86RLeAIT1ZiJZCWYKLAGd7M1wliH-dgbsuMO3LK7adb1pBA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

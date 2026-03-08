@@ -1,0 +1,2124 @@
+{
+  "id": "01JZJV2TDF43KKE74SRKWC7J0Z",
+  "title": "TSG Weekly Update",
+  "date": 1752237000000,
+  "dateString": "2025-07-11T12:30:00.000Z",
+  "duration": 23.719999313354492,
+  "participants": [
+    "andrew.day@capitala.co,stuart.tiedeman@rmi.co,matt.simpson@rmi.co,jon@rmi.co,andy.day@capitala.co",
+    "stuart.tiedeman@rmi.co",
+    "matt.simpson@rmi.co",
+    "jon@rmi.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "stuart.tiedeman@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "matt.simpson@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jon@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hello, guys.",
+      "speaker_name": "jon",
+      "start_time": 3.84,
+      "end_time": 4.8
+    },
+    {
+      "text": "Guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 5.12,
+      "end_time": 5.56
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andrew Day",
+      "start_time": 5.56,
+      "end_time": 6.24
+    },
+    {
+      "text": "Good, thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 6.8,
+      "end_time": 8.08
+    },
+    {
+      "text": "Oh, you've had a big haircut there, Andy.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 8.4,
+      "end_time": 10.6
+    },
+    {
+      "text": "Well done.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 10.6,
+      "end_time": 10.92
+    },
+    {
+      "text": "Looking very sharp.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 10.92,
+      "end_time": 12.08
+    },
+    {
+      "text": "It's just getting too hot, you know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 12.72,
+      "end_time": 14.4
+    },
+    {
+      "text": "Well, actually I did.",
+      "speaker_name": "Andrew Day",
+      "start_time": 14.56,
+      "end_time": 15.68
+    },
+    {
+      "text": "I shaved my.",
+      "speaker_name": "Andrew Day",
+      "start_time": 15.68,
+      "end_time": 16.64
+    },
+    {
+      "text": "Because it was getting too hot and I kept the beard and my wife said I look like Michael Eavis, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 17.04,
+      "end_time": 22
+    },
+    {
+      "text": "Straight out.",
+      "speaker_name": "jon",
+      "start_time": 23.92,
+      "end_time": 24.64
+    },
+    {
+      "text": "But, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 26.65,
+      "end_time": 27.21
+    },
+    {
+      "text": "Anyway, is Matt on or is he away?",
+      "speaker_name": "Andrew Day",
+      "start_time": 27.21,
+      "end_time": 29.85
+    },
+    {
+      "text": "He's traveling today.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 30.41,
+      "end_time": 31.69
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 31.93,
+      "end_time": 32.81
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 34.01,
+      "end_time": 34.65
+    },
+    {
+      "text": "So where are we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 34.89,
+      "end_time": 36.01
+    },
+    {
+      "text": "So, yeah, just plop our pipelines to make sure we're not out of date.",
+      "speaker_name": "Andrew Day",
+      "start_time": 36.01,
+      "end_time": 45.77
+    },
+    {
+      "text": "Let's have a look.",
+      "speaker_name": "Andrew Day",
+      "start_time": 46.01,
+      "end_time": 46.97
+    },
+    {
+      "text": "So I had an interesting call with Cool Cool Co.",
+      "speaker_name": "Andrew Day",
+      "start_time": 50.97,
+      "end_time": 58
+    },
+    {
+      "text": "So that's really the majority of the update today.",
+      "speaker_name": "Andrew Day",
+      "start_time": 60.32,
+      "end_time": 62.48
+    },
+    {
+      "text": "So basis is obviously a meeting that we're getting booked in in a week, about a week and a half that week, next week, the week after.",
+      "speaker_name": "Andrew Day",
+      "start_time": 62.56,
+      "end_time": 72
+    },
+    {
+      "text": "We're going through absolutely every.",
+      "speaker_name": "Andrew Day",
+      "start_time": 74.24,
+      "end_time": 76.08
+    },
+    {
+      "text": "Every single lead we've ever had as well and recontacting them, probably because we are a little bit more certain that you are More like a SaaS business this time around.",
+      "speaker_name": "Andrew Day",
+      "start_time": 76.24,
+      "end_time": 89.61
+    },
+    {
+      "text": "So some of the software companies that we talked to, you know, last year, for instance, were responding with, you know, it's not really a software.",
+      "speaker_name": "Andrew Day",
+      "start_time": 89.77,
+      "end_time": 98.69
+    },
+    {
+      "text": "It's got an agency business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 98.69,
+      "end_time": 99.93
+    },
+    {
+      "text": "But now I think we're.",
+      "speaker_name": "Andrew Day",
+      "start_time": 99.93,
+      "end_time": 101.45
+    },
+    {
+      "text": "We're in that transit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 101.45,
+      "end_time": 102.61
+    },
+    {
+      "text": "We're ahead of that transition there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 102.61,
+      "end_time": 104.33
+    },
+    {
+      "text": "So just with Coolco, so we got our kind of offer on the table type thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 106.14,
+      "end_time": 112.22
+    },
+    {
+      "text": "Quite slippery.",
+      "speaker_name": "Andrew Day",
+      "start_time": 113.82,
+      "end_time": 114.78
+    },
+    {
+      "text": "Didn't really want to commit to anything, so we had to give him a bit of a beating to get it out of him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 115.74,
+      "end_time": 120.26
+    },
+    {
+      "text": "But so what he said is they would make an offer with about 80 to 90% of it being stock.",
+      "speaker_name": "Andrew Day",
+      "start_time": 120.26,
+      "end_time": 126.94
+    },
+    {
+      "text": "So clearly that's not the type of offer that we're looking to get, but we can get an offer from him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 127.58,
+      "end_time": 135.18
+    },
+    {
+      "text": "I've been really clear that John would like to get out as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 135.5,
+      "end_time": 138.94
+    },
+    {
+      "text": "So what he's saying is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 141.9,
+      "end_time": 144.06
+    },
+    {
+      "text": "Hello?",
+      "speaker_name": "Andrew Day",
+      "start_time": 147.98,
+      "end_time": 148.46
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Andrew Day",
+      "start_time": 150.54,
+      "end_time": 151.1
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "jon",
+      "start_time": 154.78,
+      "end_time": 155.74
+    },
+    {
+      "text": "Sorry, I lost you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 157.9,
+      "end_time": 158.7
+    },
+    {
+      "text": "Yeah, so we didn't hear any of that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 159.58,
+      "end_time": 161.7
+    },
+    {
+      "text": "He said what he was saying is.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 161.7,
+      "end_time": 162.98
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 162.98,
+      "end_time": 163.46
+    },
+    {
+      "text": "So what he was saying is it would be 80 to 90% stock offer and that the stock would be in Coolco.",
+      "speaker_name": "Andrew Day",
+      "start_time": 163.46,
+      "end_time": 171.18
+    },
+    {
+      "text": "I asked what his EBITDA was, and he said it was about 3 or 4 million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 172.14,
+      "end_time": 177.18
+    },
+    {
+      "text": "And I said, obviously then this is a substantial growth for your business and we would expect a substantial amount of stuff, stock in the company.",
+      "speaker_name": "Andrew Day",
+      "start_time": 177.9,
+      "end_time": 186.87
+    },
+    {
+      "text": "We would be looking at a third of Coolco.",
+      "speaker_name": "Andrew Day",
+      "start_time": 187.35,
+      "end_time": 189.67
+    },
+    {
+      "text": "And he was like, oh, no, no, no, no, it wouldn't be that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 190.07,
+      "end_time": 192.31
+    },
+    {
+      "text": "So I. I mean, it was.",
+      "speaker_name": "Andrew Day",
+      "start_time": 192.39,
+      "end_time": 194.19
+    },
+    {
+      "text": "It was an interesting call, but it Was tough call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 194.19,
+      "end_time": 196.15
+    },
+    {
+      "text": "It sounds a bit weird.",
+      "speaker_name": "jon",
+      "start_time": 198.31,
+      "end_time": 199.51
+    },
+    {
+      "text": "Well, it's a great company that what he's building, John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 199.91,
+      "end_time": 202.51
+    },
+    {
+      "text": "To be fair to him, it is great.",
+      "speaker_name": "Andrew Day",
+      "start_time": 202.51,
+      "end_time": 203.83
+    },
+    {
+      "text": "I mean Stuart was really impressed with, with what they're doing over at Coolco but obviously it's not really an attractive type of offer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 203.83,
+      "end_time": 213.84
+    },
+    {
+      "text": "Particularly because we'd have to wait.",
+      "speaker_name": "Andrew Day",
+      "start_time": 214.48,
+      "end_time": 215.84
+    },
+    {
+      "text": "Well, you would have to wait Stuart, I guess to build up towards the earn out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 215.84,
+      "end_time": 220.4
+    },
+    {
+      "text": "Sorry, not the earn out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 221.04,
+      "end_time": 222
+    },
+    {
+      "text": "The exit for the whole Cool co business in 2027.",
+      "speaker_name": "Andrew Day",
+      "start_time": 222,
+      "end_time": 225.12
+    },
+    {
+      "text": "So no cash at all?",
+      "speaker_name": "jon",
+      "start_time": 226.72,
+      "end_time": 229.6
+    },
+    {
+      "text": "All stocks?",
+      "speaker_name": "jon",
+      "start_time": 229.76,
+      "end_time": 230.52
+    },
+    {
+      "text": "He said 80 to 90.",
+      "speaker_name": "Andrew Day",
+      "start_time": 230.52,
+      "end_time": 232.08
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 233.6,
+      "end_time": 234.04
+    },
+    {
+      "text": "So I mean there, there is obviously some pushback that we can do and there's a negotiation to be had.",
+      "speaker_name": "Andrew Day",
+      "start_time": 234.04,
+      "end_time": 240.7
+    },
+    {
+      "text": "I mean if it wasn't 30% of CoolCo, which would be fair enough, they were doing three, you would be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 241.02,
+      "end_time": 247.7
+    },
+    {
+      "text": "And they're doing the building.",
+      "speaker_name": "Andrew Day",
+      "start_time": 247.7,
+      "end_time": 248.7
+    },
+    {
+      "text": "You would say you would do at least 20.",
+      "speaker_name": "Andrew Day",
+      "start_time": 249.42,
+      "end_time": 251.34
+    },
+    {
+      "text": "Maybe we're doing one and a half and they're doing three.",
+      "speaker_name": "jon",
+      "start_time": 251.82,
+      "end_time": 254.94
+    },
+    {
+      "text": "And we've got an amazing business.",
+      "speaker_name": "jon",
+      "start_time": 256.22,
+      "end_time": 257.46
+    },
+    {
+      "text": "They've got an amazing business and we're building and they're building and they're not giving us really any cash.",
+      "speaker_name": "jon",
+      "start_time": 257.46,
+      "end_time": 263.15
+    },
+    {
+      "text": "We need some loose change.",
+      "speaker_name": "jon",
+      "start_time": 263.15,
+      "end_time": 264.15
+    },
+    {
+      "text": "So the guy is really.",
+      "speaker_name": "jon",
+      "start_time": 265.03,
+      "end_time": 267.35
+    },
+    {
+      "text": "He's got big balls and he's intelligent or he's got big balls and he's dumb because I don't really think it's an attractive idea.",
+      "speaker_name": "jon",
+      "start_time": 267.59,
+      "end_time": 272.55
+    },
+    {
+      "text": "Big balls and intelligent, I would say.",
+      "speaker_name": "Andrew Day",
+      "start_time": 274.87,
+      "end_time": 277.03
+    },
+    {
+      "text": "I think he is a good guy and they are building something great.",
+      "speaker_name": "Andrew Day",
+      "start_time": 277.03,
+      "end_time": 280.15
+    },
+    {
+      "text": "But obviously, yeah, I mean it's a tough deal for us today because we're looking for some cash and an exit for you, Joe John as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 280.55,
+      "end_time": 289.4
+    },
+    {
+      "text": "So it doesn't, it doesn't make massive sense.",
+      "speaker_name": "Andrew Day",
+      "start_time": 289.4,
+      "end_time": 291.76
+    },
+    {
+      "text": "I don't know whether you want me to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 292.56,
+      "end_time": 294.24
+    },
+    {
+      "text": "So it kind of does now swing on getting that offer as an LOI on us giving him access to the latest data in the data room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 294.24,
+      "end_time": 303.16
+    },
+    {
+      "text": "He's had like a three month old version of it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 303.16,
+      "end_time": 305.52
+    },
+    {
+      "text": "So if you guys are happy with that, we can extract an LOI and then at least we've got it for posterity.",
+      "speaker_name": "Andrew Day",
+      "start_time": 305.92,
+      "end_time": 311.2
+    },
+    {
+      "text": "Than you and Stuart.",
+      "speaker_name": "jon",
+      "start_time": 314.89,
+      "end_time": 315.93
+    },
+    {
+      "text": "I don't mind.",
+      "speaker_name": "jon",
+      "start_time": 315.93,
+      "end_time": 316.65
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "jon",
+      "start_time": 317.77,
+      "end_time": 319.73
+    },
+    {
+      "text": "Let me have a think about it over the weekend.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 319.73,
+      "end_time": 323.45
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 323.85,
+      "end_time": 324.21
+    },
+    {
+      "text": "I mean you've got to show me knickers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 324.21,
+      "end_time": 325.49
+    },
+    {
+      "text": "So it's like do you want to show this guy what you guys are doing under the hood?",
+      "speaker_name": "Andrew Day",
+      "start_time": 325.49,
+      "end_time": 329.73
+    },
+    {
+      "text": "I mean it really is the financial stuff really, but he has access.",
+      "speaker_name": "Andrew Day",
+      "start_time": 329.73,
+      "end_time": 334.49
+    },
+    {
+      "text": "I can't see any point because it's a deal that it's just, it just doesn't look attractive right from the get go.",
+      "speaker_name": "jon",
+      "start_time": 336.65,
+      "end_time": 342.89
+    },
+    {
+      "text": "I said as much to him, John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 345.42,
+      "end_time": 346.54
+    },
+    {
+      "text": "I said look, this isn't a compelling case that you've built.",
+      "speaker_name": "Andrew Day",
+      "start_time": 346.54,
+      "end_time": 349.58
+    },
+    {
+      "text": "It's not a great offer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 349.9,
+      "end_time": 350.86
+    },
+    {
+      "text": "And then he sent me an email about two hours later saying apologize for the tone, but I am really interested in doing a deal with these guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 351.74,
+      "end_time": 358.38
+    },
+    {
+      "text": "If I can have access to the data room or the updated financials, I will give you an offer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 358.54,
+      "end_time": 363.1
+    },
+    {
+      "text": "So yeah, I mean the thing is once we get an offer, John, it's not set in stone, but really it's just whether he's got access to any cash.",
+      "speaker_name": "Andrew Day",
+      "start_time": 364.86,
+      "end_time": 372.66
+    },
+    {
+      "text": "He obviously is trying to do deals with as little debt in them as possible and thinking that's what, that'd be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 372.66,
+      "end_time": 380.02
+    },
+    {
+      "text": "Interesting to see how he's funding it.",
+      "speaker_name": "jon",
+      "start_time": 380.02,
+      "end_time": 382.3
+    },
+    {
+      "text": "That's to me, it was my first thinking question was going, has he been really prudent and saved up a few mil over the last five years from his EBITDA and his net profit or it'd be interesting to see who's actually backing him.",
+      "speaker_name": "jon",
+      "start_time": 383.82,
+      "end_time": 398.46
+    },
+    {
+      "text": "Yeah, well he, I mean I think just off the top of my head here, he's done three or four acquisitions already.",
+      "speaker_name": "Andrew Day",
+      "start_time": 400.07,
+      "end_time": 405.83
+    },
+    {
+      "text": "So they are doing stuff in the space and they are building but really it's a long play.",
+      "speaker_name": "Andrew Day",
+      "start_time": 406.07,
+      "end_time": 411.51
+    },
+    {
+      "text": "But I think there is another conversation behind this.",
+      "speaker_name": "Andrew Day",
+      "start_time": 411.59,
+      "end_time": 414.03
+    },
+    {
+      "text": "Like you know, Banyan said they would come back in 12 months to speak to you once you had a track record.",
+      "speaker_name": "Andrew Day",
+      "start_time": 414.03,
+      "end_time": 419.07
+    },
+    {
+      "text": "They like the business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 419.07,
+      "end_time": 420.07
+    },
+    {
+      "text": "Is there a 12 month pause that you guys would, would do and does that make any sense?",
+      "speaker_name": "Andrew Day",
+      "start_time": 420.55,
+      "end_time": 427.37
+    },
+    {
+      "text": "I know John, you want to get out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 427.37,
+      "end_time": 428.65
+    },
+    {
+      "text": "So I mean it's a fair question because the reason where my head was then, it was that if, if for whatever reason we're not getting the offers and for whatever reason isn't that it's us, it's economy, the world, Trump, whoever, whatever, it's all bit weird and nothing happens in the summer anyway.",
+      "speaker_name": "jon",
+      "start_time": 429.85,
+      "end_time": 448.01
+    },
+    {
+      "text": "So we're looking at September, October, whenever the boys come back from holiday is what I was told about your industry normally.",
+      "speaker_name": "jon",
+      "start_time": 448.01,
+      "end_time": 453.91
+    },
+    {
+      "text": "So you know, you're moving into another two, three, four months, then you got to pick it all up again.",
+      "speaker_name": "jon",
+      "start_time": 455.51,
+      "end_time": 459.51
+    },
+    {
+      "text": "So it's sort of conversation about what is plan B if we can't sell, you know, if we can't sell, what is it?",
+      "speaker_name": "jon",
+      "start_time": 460.87,
+      "end_time": 469.19
+    },
+    {
+      "text": "Maybe, maybe actually finding out how these guys do it.",
+      "speaker_name": "jon",
+      "start_time": 469.19,
+      "end_time": 473.31
+    },
+    {
+      "text": "And Stu, maybe you should try to get funding and maybe go and do the same thing because if you do, I'm just saying if you do 12 months rates and you can pick up a couple companies relatively cheap on a deal like he's doing and if that improves our overall performance on our EBITDA and our valuation.",
+      "speaker_name": "jon",
+      "start_time": 473.31,
+      "end_time": 490.26
+    },
+    {
+      "text": "Maybe it's something you should consider.",
+      "speaker_name": "jon",
+      "start_time": 490.98,
+      "end_time": 492.34
+    },
+    {
+      "text": "It would, it would pick up the valuation multiple for sure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 494.02,
+      "end_time": 498.1
+    },
+    {
+      "text": "However, also what would pick up the valuation multiple is you guys being a pure SaaS business, which is why I'm saying in 12 months we would have a track record, maybe even six months, but we would have a track record of growth.",
+      "speaker_name": "Andrew Day",
+      "start_time": 498.26,
+      "end_time": 511.07
+    },
+    {
+      "text": "And as Banyan was saying, it was more, more about retention as well of customers over a period of time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 512.27,
+      "end_time": 518.11
+    },
+    {
+      "text": "We just, we can't show that with just the pure play SaaS business model because it's the, it's the combined hybrid model that you guys have run, you know, previously.",
+      "speaker_name": "Andrew Day",
+      "start_time": 518.19,
+      "end_time": 529.47
+    },
+    {
+      "text": "So I'm just putting on the table, it doesn't need to be a decision today, but it's just like, you know, it could be that we, we have like a sort of fast track approach.",
+      "speaker_name": "Andrew Day",
+      "start_time": 529.47,
+      "end_time": 538.81
+    },
+    {
+      "text": "Can we get a deal done within the next two or three months or is there a 12 month play as well that we kind of, we know is there and we just kind of leave it to run in the background as the business grows as a SaaS business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 538.81,
+      "end_time": 552.25
+    },
+    {
+      "text": "And if it was a 12 month, and we, we tried to look or identify companies that are in the SaaS that develops and strengthens our position for sale.",
+      "speaker_name": "jon",
+      "start_time": 553.77,
+      "end_time": 564.78
+    },
+    {
+      "text": "Do you know of companies who would fund that sort of activity or was that a totally different game and that's like another painful exercise?",
+      "speaker_name": "jon",
+      "start_time": 566.46,
+      "end_time": 574.14
+    },
+    {
+      "text": "It is another game.",
+      "speaker_name": "Andrew Day",
+      "start_time": 575.5,
+      "end_time": 576.5
+    },
+    {
+      "text": "We are not registered for that kind of activity, raising capital, so we, we don't do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 576.5,
+      "end_time": 581.5
+    },
+    {
+      "text": "Generally there are people that do just that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 581.5,
+      "end_time": 584.94
+    },
+    {
+      "text": "But yeah, it's a, it's a whole new thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 584.94,
+      "end_time": 588.5
+    },
+    {
+      "text": "It is, you know, you've got to go out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 588.66,
+      "end_time": 590.18
+    },
+    {
+      "text": "I mean, it would be a distraction for Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 590.42,
+      "end_time": 592.62
+    },
+    {
+      "text": "I think he would have to go out and pitch and pitch and pitch to potential funders.",
+      "speaker_name": "Andrew Day",
+      "start_time": 592.62,
+      "end_time": 597.14
+    },
+    {
+      "text": "So because of where you are, the size that you're at, you are starting to be of interest to private equity.",
+      "speaker_name": "Andrew Day",
+      "start_time": 599.46,
+      "end_time": 604.58
+    },
+    {
+      "text": "So if a private equity was looking for a platform business, they normally look for a minimum of sort of 2 million EBITDA.",
+      "speaker_name": "Andrew Day",
+      "start_time": 604.82,
+      "end_time": 610.82
+    },
+    {
+      "text": "So you're kind of approaching that private equity area.",
+      "speaker_name": "Andrew Day",
+      "start_time": 611.54,
+      "end_time": 615.65
+    },
+    {
+      "text": "The easiest private equity bank that I know of is Lloyds, because they have a private equity bank and they do fund these types of transactions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 616.29,
+      "end_time": 624.93
+    },
+    {
+      "text": "So basically you go to them, show them what you're building.",
+      "speaker_name": "Andrew Day",
+      "start_time": 624.93,
+      "end_time": 628.13
+    },
+    {
+      "text": "You just need to make a couple of acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 628.29,
+      "end_time": 630.21
+    },
+    {
+      "text": "They basically buy out huge chunk of the company and fund the war chest to expand.",
+      "speaker_name": "Andrew Day",
+      "start_time": 630.45,
+      "end_time": 637.49
+    },
+    {
+      "text": "But it does leave you a lot of freedom because Lloyds don't do, you know, like a Sort of private, private equity company would then take control of all the finance.",
+      "speaker_name": "Andrew Day",
+      "start_time": 637.97,
+      "end_time": 647.47
+    },
+    {
+      "text": "They would tell you what to do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 647.47,
+      "end_time": 648.43
+    },
+    {
+      "text": "They'd be running the board meetings every.",
+      "speaker_name": "Andrew Day",
+      "start_time": 648.43,
+      "end_time": 649.99
+    },
+    {
+      "text": "Every month.",
+      "speaker_name": "Andrew Day",
+      "start_time": 650.15,
+      "end_time": 650.79
+    },
+    {
+      "text": "Lloyds don't really do that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 651.03,
+      "end_time": 652.31
+    },
+    {
+      "text": "They kind of give you the money and check in, but they're assuming that you know what you're doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 652.31,
+      "end_time": 656.63
+    },
+    {
+      "text": "Yeah, but that would be the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 658.23,
+      "end_time": 659.75
+    },
+    {
+      "text": "I mean, that would be a good practice run, John, if you wanted to figure out whether that could be done, Lloyds would be place to go.",
+      "speaker_name": "Andrew Day",
+      "start_time": 659.75,
+      "end_time": 665.59
+    },
+    {
+      "text": "Okay, thank you.",
+      "speaker_name": "jon",
+      "start_time": 665.91,
+      "end_time": 667.44
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 668.8,
+      "end_time": 669.12
+    },
+    {
+      "text": "I'm exploring grants as well.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 669.12,
+      "end_time": 671.52
+    },
+    {
+      "text": "Innovate uk.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 672.16,
+      "end_time": 673.04
+    },
+    {
+      "text": "So I think again, we're quite well placed to maybe pick up some more grants.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 675.44,
+      "end_time": 680.16
+    },
+    {
+      "text": "Looking to extend the one we got in Uruguay as well.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 680.56,
+      "end_time": 683.52
+    },
+    {
+      "text": "Free money would be nice as well as loans.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 684.24,
+      "end_time": 687.36
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 688.48,
+      "end_time": 688.76
+    },
+    {
+      "text": "Okay, yeah, let me just digest that then.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 688.76,
+      "end_time": 691.36
+    },
+    {
+      "text": "And I'm nearing a point where I've updated the deck, the IM pack and I've got some figures back from Chris earlier today just to make sure the graphs at the end, I think Jack Shap did those.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 691.68,
+      "end_time": 706.54
+    },
+    {
+      "text": "So I'll just make sure that those are redrafted just to be reflective of where we currently are.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 706.86,
+      "end_time": 712.18
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 712.18,
+      "end_time": 712.7
+    },
+    {
+      "text": "And then, you know, that that would be what I think we can send out to people.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 713.58,
+      "end_time": 716.78
+    },
+    {
+      "text": "As you're turning over the stones again on the beach.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 716.78,
+      "end_time": 719.02
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 719.58,
+      "end_time": 720.54
+    },
+    {
+      "text": "Ahmed, myself have been discussing this as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 720.62,
+      "end_time": 723.14
+    },
+    {
+      "text": "So we, we feel particularly because of the size of your business or potentially the buyer we have, we have to really consider the investment committees.",
+      "speaker_name": "Andrew Day",
+      "start_time": 723.14,
+      "end_time": 734.7
+    },
+    {
+      "text": "So what we're doing is we're dealing with the people that want to get a deal done.",
+      "speaker_name": "Andrew Day",
+      "start_time": 735.02,
+      "end_time": 737.94
+    },
+    {
+      "text": "They want to buy you, but then they've got to take it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 737.94,
+      "end_time": 740.02
+    },
+    {
+      "text": "And you have these investment committees usually on a weekly basis, like we were having with Ziff Davis.",
+      "speaker_name": "Andrew Day",
+      "start_time": 740.02,
+      "end_time": 745.3
+    },
+    {
+      "text": "They had to present it to the investment committee and they are taking in the old im.",
+      "speaker_name": "Andrew Day",
+      "start_time": 745.3,
+      "end_time": 751.92
+    },
+    {
+      "text": "And this is, you know, easily the last six months we've been presenting this as much more dynamic, software focused business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 752,
+      "end_time": 759.48
+    },
+    {
+      "text": "And I think the IM really doesn't represent that in the way that it needs to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 759.48,
+      "end_time": 763.2
+    },
+    {
+      "text": "So they're probably seeing a bit of disparity between what they're being presented on the im, what they were expecting to talk about, and then, you know, in talking to you, requesting information, are coming with something that's slightly different.",
+      "speaker_name": "Andrew Day",
+      "start_time": 763.68,
+      "end_time": 776.31
+    },
+    {
+      "text": "So we really need to make sure that the IM is more focused on what the business looks like today and going forward than what it's done in the past, because that's what we're trying to sell.",
+      "speaker_name": "Andrew Day",
+      "start_time": 776.31,
+      "end_time": 786.31
+    },
+    {
+      "text": "And Stu, do you agree that you've achieved that today and yesterday when you've been working on it.",
+      "speaker_name": "jon",
+      "start_time": 787.27,
+      "end_time": 791.91
+    },
+    {
+      "text": "I think it's organic, isn't it?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 794.47,
+      "end_time": 795.63
+    },
+    {
+      "text": "So, yes, I think is the answer.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 795.63,
+      "end_time": 797.03
+    },
+    {
+      "text": "I think we should constantly review it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 798.07,
+      "end_time": 800.07
+    },
+    {
+      "text": "Yeah, it's just a slight turn of phrase, the addition of some.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 800.76,
+      "end_time": 805.88
+    },
+    {
+      "text": "Let me see if I've got it on my screen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 806.12,
+      "end_time": 807.48
+    },
+    {
+      "text": "I can maybe just throw it up.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 807.48,
+      "end_time": 808.72
+    },
+    {
+      "text": "Hang on, let me see.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 808.72,
+      "end_time": 809.72
+    },
+    {
+      "text": "I think it's a good point.",
+      "speaker_name": "jon",
+      "start_time": 815.56,
+      "end_time": 816.8
+    },
+    {
+      "text": "And if you.",
+      "speaker_name": "jon",
+      "start_time": 816.8,
+      "end_time": 817.44
+    },
+    {
+      "text": "If you look at it from a lens that says we're a SaaS company, every paragraph, every page needs to represent that.",
+      "speaker_name": "jon",
+      "start_time": 817.44,
+      "end_time": 823.8
+    },
+    {
+      "text": "And it's just purely a lens the author is looking at or looking through, I should say.",
+      "speaker_name": "jon",
+      "start_time": 823.88,
+      "end_time": 829.81
+    },
+    {
+      "text": "Can you see that?",
+      "speaker_name": "Andrew Day",
+      "start_time": 832.93,
+      "end_time": 833.81
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andrew Day",
+      "start_time": 834.13,
+      "end_time": 834.69
+    },
+    {
+      "text": "Okay, let me just double.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 835.41,
+      "end_time": 836.69
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 841.97,
+      "end_time": 842.61
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 843.57,
+      "end_time": 843.97
+    },
+    {
+      "text": "I haven't changed the contents.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 845.89,
+      "end_time": 847.65
+    },
+    {
+      "text": "I'll just change the date down here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 850.77,
+      "end_time": 853.59
+    },
+    {
+      "text": "About Plan Hub, that's pretty similar.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 854.55,
+      "end_time": 860.47
+    },
+    {
+      "text": "I've adjusted this just so we've got churn rate to say the churn is improving.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 861.83,
+      "end_time": 868.349
+    },
+    {
+      "text": "Just so we recognize that We've got an 85% retention rate currently just pulled out retailers and brands here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 868.349,
+      "end_time": 882.72
+    },
+    {
+      "text": "This has been changed slightly.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 885.36,
+      "end_time": 887.6
+    },
+    {
+      "text": "So the overall messaging is about the Plan Hub platform, what our typical models are.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 887.68,
+      "end_time": 897.04
+    },
+    {
+      "text": "So that's far more tech focused now.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 898.24,
+      "end_time": 900.64
+    },
+    {
+      "text": "This has changed to 2028 or 2027 business three year journey.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 905.22,
+      "end_time": 909.62
+    },
+    {
+      "text": "It doesn't look quite so out of date.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 909.78,
+      "end_time": 911.38
+    },
+    {
+      "text": "The addressable market is similar.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 914.26,
+      "end_time": 916.5
+    },
+    {
+      "text": "This I've changed to tech and insights.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 919.459,
+      "end_time": 921.46
+    },
+    {
+      "text": "So that's no longer service driven here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 921.62,
+      "end_time": 924.5
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 924.98,
+      "end_time": 925.54
+    },
+    {
+      "text": "This is just talking about the halo effect of working with retailers to get the 500 suppliers.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 927.94,
+      "end_time": 932.34
+    },
+    {
+      "text": "I've taken out Iceland and I've put in the Endeavour Group ones instead.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 933.29,
+      "end_time": 938.89
+    },
+    {
+      "text": "And referring to the tech platform, just had a bit of a fiddle with those.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 939.77,
+      "end_time": 945.69
+    },
+    {
+      "text": "And those like Natura, the Latin America's equivalent of Unilever.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 946.17,
+      "end_time": 951.21
+    },
+    {
+      "text": "They're absolutely enormous.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 951.21,
+      "end_time": 952.57
+    },
+    {
+      "text": "This has been updated.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 954.49,
+      "end_time": 956.33
+    },
+    {
+      "text": "So I've got Mood Media and M Cube.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 958.66,
+      "end_time": 960.58
+    },
+    {
+      "text": "M Cube got us Co op back.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 960.58,
+      "end_time": 962.14
+    },
+    {
+      "text": "Mood Media got us Endeavor group and nectar.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 962.14,
+      "end_time": 965.1
+    },
+    {
+      "text": "360 pollen, which is very much.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 965.1,
+      "end_time": 966.98
+    },
+    {
+      "text": "That's what they announced at Can Bases, the backbone of the new Nectar pollen system.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 967.78,
+      "end_time": 974.82
+    },
+    {
+      "text": "So we've worked with Accenture to do all of that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 977.86,
+      "end_time": 981.82
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 981.82,
+      "end_time": 982.18
+    },
+    {
+      "text": "And I'm meeting criteia.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 982.98,
+      "end_time": 984.86
+    },
+    {
+      "text": "Did you see that note, Andy?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 984.86,
+      "end_time": 986.38
+    },
+    {
+      "text": "That the founder of Brand Crush.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 986.38,
+      "end_time": 988.66
+    },
+    {
+      "text": "I'm meeting them next week.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 988.9,
+      "end_time": 989.93
+    },
+    {
+      "text": "Week you want to talk to us about.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 990.08,
+      "end_time": 992.64
+    },
+    {
+      "text": "Did you see that?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 993.76,
+      "end_time": 994.64
+    },
+    {
+      "text": "I did, but it didn't hit me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 995.84,
+      "end_time": 998.48
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 998.56,
+      "end_time": 998.92
+    },
+    {
+      "text": "Maybe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 998.92,
+      "end_time": 999.44
+    },
+    {
+      "text": "Well, Kateo bought Brand Crush.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1000.08,
+      "end_time": 1002.24
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "jon",
+      "start_time": 1002.4,
+      "end_time": 1002.96
+    },
+    {
+      "text": "And then sunsetted the business.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1005.6,
+      "end_time": 1007.84
+    },
+    {
+      "text": "So the person that created Brand Crush is.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1008.96,
+      "end_time": 1011.84
+    },
+    {
+      "text": "Is now working for Koteo.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1012.08,
+      "end_time": 1013.76
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1014.08,
+      "end_time": 1014.36
+    },
+    {
+      "text": "And is proactively looking for people to backfill opportunities that Criteo have created.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1014.36,
+      "end_time": 1023.17
+    },
+    {
+      "text": "So anyway, if it goes anywhere, I'll let you know.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1023.49,
+      "end_time": 1025.45
+    },
+    {
+      "text": "But basically it could be quite interesting.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1025.45,
+      "end_time": 1028.69
+    },
+    {
+      "text": "This is the fly throughs.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1030.53,
+      "end_time": 1031.97
+    },
+    {
+      "text": "So just a bit of blur about ssp, a little bit of blur about Fox's Burtons.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1032.21,
+      "end_time": 1037.41
+    },
+    {
+      "text": "And those two videos, the latest ones which are narrated I think does show the credentials pretty well.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1037.73,
+      "end_time": 1045.259
+    },
+    {
+      "text": "No change there.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1048.859,
+      "end_time": 1049.619
+    },
+    {
+      "text": "I mean that, that's effectively what the pollen platform is that we're powering.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1049.619,
+      "end_time": 1054.299
+    },
+    {
+      "text": "No change to that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1056.379,
+      "end_time": 1057.579
+    },
+    {
+      "text": "Very subtle change.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1060.459,
+      "end_time": 1061.979
+    },
+    {
+      "text": "But it's about ecosystems.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1062.619,
+      "end_time": 1066.299
+    },
+    {
+      "text": "We haven't changed our market positioning.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1068.26,
+      "end_time": 1069.94
+    },
+    {
+      "text": "This is all pretty much the same.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1070.26,
+      "end_time": 1071.78
+    },
+    {
+      "text": "I just updated the org structure because we've got circa 25 now put in Tom Cowie who's looking after RMI now.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1072.66,
+      "end_time": 1084.019
+    },
+    {
+      "text": "Ownership structure is the same and the financials.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1086.82,
+      "end_time": 1089.74
+    },
+    {
+      "text": "I've just asked Chris Conway just so that I'll refresh these graphics here just with the latest set of numbers.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1089.74,
+      "end_time": 1098.98
+    },
+    {
+      "text": "Yeah, yeah, it looks great.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1099.22,
+      "end_time": 1101.3
+    },
+    {
+      "text": "Looks great.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1101.86,
+      "end_time": 1102.5
+    },
+    {
+      "text": "I think that's exactly what we were, we were looking for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1102.82,
+      "end_time": 1106.78
+    },
+    {
+      "text": "It's all I think by the looks at Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1106.78,
+      "end_time": 1109.3
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1109.379,
+      "end_time": 1110.02
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1110.66,
+      "end_time": 1111.54
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1111.54,
+      "end_time": 1112.34
+    },
+    {
+      "text": "So I think really for now is to just get this back out to market with the updated image.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1112.34,
+      "end_time": 1122.32
+    },
+    {
+      "text": "That's definitely the immediate thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1122.95,
+      "end_time": 1124.51
+    },
+    {
+      "text": "We're going to go back through all of those software focused companies and really pitch it as a fresh offering.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1124.51,
+      "end_time": 1130.07
+    },
+    {
+      "text": "Something that we hadn't really described to them 12 or 8 months ago whenever they dropped out of the pipeline.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1130.07,
+      "end_time": 1139.07
+    },
+    {
+      "text": "So let's see whether their interest can be there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1139.07,
+      "end_time": 1142.35
+    },
+    {
+      "text": "And I know Ahmed has a strategy of even going into the much larger companies and pitching into the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1142.35,
+      "end_time": 1147.27
+    },
+    {
+      "text": "We lost you again, mate.",
+      "speaker_name": "jon",
+      "start_time": 1156.16,
+      "end_time": 1157.28
+    },
+    {
+      "text": "Yeah, look.",
+      "speaker_name": "jon",
+      "start_time": 1160.48,
+      "end_time": 1161.2
+    },
+    {
+      "text": "Sorry, I was just saying the, I was just saying that Ahmed has a strategy of going back through the much larger companies as well and pitching the, the updated IM to those smaller companies within the holding group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1162.96,
+      "end_time": 1178.25
+    },
+    {
+      "text": "Because quite often they refer acquisitions acquisition targets back to the, to the Holdco.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1178.25,
+      "end_time": 1183.13
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1183.13,
+      "end_time": 1183.53
+    },
+    {
+      "text": "So yeah, I mean it's good to have that then Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1184.25,
+      "end_time": 1186.29
+    },
+    {
+      "text": "So let us know when that's shared with us and we can, we can have a good look through, through it ourselves and then we'll start a new campaign with it just fully focused as a SaaS business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1186.29,
+      "end_time": 1198.41
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1198.41,
+      "end_time": 1198.97
+    },
+    {
+      "text": "Can I just ask a question, Andy?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1199.66,
+      "end_time": 1200.82
+    },
+    {
+      "text": "Did you make contact again with Gideon?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1200.82,
+      "end_time": 1203.82
+    },
+    {
+      "text": "The, the guy who's trying to build up this investment fund.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1204.62,
+      "end_time": 1207.82
+    },
+    {
+      "text": "Was that one that you gave us originally?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1210.14,
+      "end_time": 1213.66
+    },
+    {
+      "text": "He was the, the guy who was.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1213.66,
+      "end_time": 1215.34
+    },
+    {
+      "text": "He's the guy who's very deaf.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1216.22,
+      "end_time": 1217.38
+    },
+    {
+      "text": "Do you remember talking to him?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1217.38,
+      "end_time": 1218.86
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1220.46,
+      "end_time": 1221.06
+    },
+    {
+      "text": "I talked to so many people.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1221.06,
+      "end_time": 1222.06
+    },
+    {
+      "text": "I Texted him this morning, just out of the blue.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1222.14,
+      "end_time": 1224.46
+    },
+    {
+      "text": "I haven't spoken to him for ages.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1224.88,
+      "end_time": 1226.32
+    },
+    {
+      "text": "He might be on holiday, but he was.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1226.56,
+      "end_time": 1229.52
+    },
+    {
+      "text": "He's been trying for the last seven or eight years to actually raise a fund to go out and buy a load of people.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1229.52,
+      "end_time": 1237.04
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1237.52,
+      "end_time": 1238.08
+    },
+    {
+      "text": "Do you know his surname?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1238.8,
+      "end_time": 1239.88
+    },
+    {
+      "text": "Because I've got three Gideon conversations.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1239.88,
+      "end_time": 1242
+    },
+    {
+      "text": "What is his surname anyway?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1244.72,
+      "end_time": 1246.88
+    },
+    {
+      "text": "Was there a pointer?",
+      "speaker_name": "jon",
+      "start_time": 1247.12,
+      "end_time": 1248.32
+    },
+    {
+      "text": "Has he done it?",
+      "speaker_name": "jon",
+      "start_time": 1248.72,
+      "end_time": 1249.52
+    },
+    {
+      "text": "Is he talking to her?",
+      "speaker_name": "jon",
+      "start_time": 1249.76,
+      "end_time": 1250.64
+    },
+    {
+      "text": "I don't know, I don't know.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1250.64,
+      "end_time": 1252.2
+    },
+    {
+      "text": "I mean, Jack Shap was in conversation with him.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1252.2,
+      "end_time": 1256.08
+    },
+    {
+      "text": "It's Gideon Hoffman.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1256.24,
+      "end_time": 1257.6
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1259.76,
+      "end_time": 1260.16
+    },
+    {
+      "text": "I've never spoke to Gideon by looks thing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1260.16,
+      "end_time": 1262.16
+    },
+    {
+      "text": "Jack Shap was, yes, speaking to him but he, he is a bit of a tire kicker.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1262.8,
+      "end_time": 1270.56
+    },
+    {
+      "text": "Talks a great game but hasn't actually got access to any funding or hadn't.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1270.64,
+      "end_time": 1274.96
+    },
+    {
+      "text": "I just thought if he'd got it, he'd have been knocking on our door.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1275.44,
+      "end_time": 1277.8
+    },
+    {
+      "text": "Yeah, I would have thought so.",
+      "speaker_name": "jon",
+      "start_time": 1277.8,
+      "end_time": 1279.1
+    },
+    {
+      "text": "Stu, can you send me through the.",
+      "speaker_name": "jon",
+      "start_time": 1279.9,
+      "end_time": 1281.54
+    },
+    {
+      "text": "When you're finished or the latest I have a look at it as well on the work you've just done.",
+      "speaker_name": "jon",
+      "start_time": 1281.54,
+      "end_time": 1285.5
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "jon",
+      "start_time": 1285.82,
+      "end_time": 1286.38
+    },
+    {
+      "text": "Is there something else I can help?",
+      "speaker_name": "jon",
+      "start_time": 1287.18,
+      "end_time": 1288.94
+    },
+    {
+      "text": "Yeah, yeah, I'll have to send a link because it's quite a big file.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1289.18,
+      "end_time": 1295.66
+    },
+    {
+      "text": "Yeah, send a link, I'll pop into it.",
+      "speaker_name": "jon",
+      "start_time": 1295.66,
+      "end_time": 1298.82
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "jon",
+      "start_time": 1298.82,
+      "end_time": 1299.5
+    },
+    {
+      "text": "I've got a couple of questions on it.",
+      "speaker_name": "jon",
+      "start_time": 1300.94,
+      "end_time": 1302.3
+    },
+    {
+      "text": "I don't want to bore you guys now.",
+      "speaker_name": "jon",
+      "start_time": 1302.3,
+      "end_time": 1303.42
+    },
+    {
+      "text": "That's why I look at it because you may already covered it.",
+      "speaker_name": "jon",
+      "start_time": 1303.42,
+      "end_time": 1305.41
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1305.72,
+      "end_time": 1305.96
+    },
+    {
+      "text": "All right, so let's onwards and upwards as of Monday then.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1307.96,
+      "end_time": 1314.6
+    },
+    {
+      "text": "Andy, thank you for the update.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1314.6,
+      "end_time": 1315.88
+    },
+    {
+      "text": "Yeah, no worries.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1316.12,
+      "end_time": 1316.8
+    },
+    {
+      "text": "And Ahmed's going to get you that list as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1316.8,
+      "end_time": 1318.76
+    },
+    {
+      "text": "He's just emailed you saying that he will do it, so it's on his list of stuff to do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1318.76,
+      "end_time": 1322.36
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1322.36,
+      "end_time": 1322.84
+    },
+    {
+      "text": "Snapshot in time, end of June, mid play point.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1324.44,
+      "end_time": 1328.68
+    },
+    {
+      "text": "Just have a look back over our shoulder and see what we've done.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1329,
+      "end_time": 1331.64
+    },
+    {
+      "text": "Start again.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1334.02,
+      "end_time": 1334.5
+    },
+    {
+      "text": "But yeah, meanwhile it's all about trying to convert, win new business, continue building and yeah, getting, getting attack the tech SaaS income solid.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1334.5,
+      "end_time": 1345.38
+    },
+    {
+      "text": "Yeah, I mean the business looks really, really strong now, Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1345.78,
+      "end_time": 1348.42
+    },
+    {
+      "text": "It look, it looks good, but it is, it's substantially different, I think from what we've been talking about some previous targets.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1348.42,
+      "end_time": 1354.66
+    },
+    {
+      "text": "So yeah, I think the whole reset thing is way to go.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1354.66,
+      "end_time": 1357.86
+    },
+    {
+      "text": "And then let's look at this.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1357.86,
+      "end_time": 1359.3
+    },
+    {
+      "text": "I know, John, I have said July and August is slow as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1359.3,
+      "end_time": 1362.83
+    },
+    {
+      "text": "August is particularly painful in America.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1362.83,
+      "end_time": 1365.11
+    },
+    {
+      "text": "But I think if we reset the campaign and we go at it over the next couple of weeks, we should be able to see a little bit of traction around the software companies.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1365.91,
+      "end_time": 1374.95
+    },
+    {
+      "text": "And then obviously, the big push will come to get a deal closed in September.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1375.27,
+      "end_time": 1379.27
+    },
+    {
+      "text": "Now, I mean, you never know what each month can bring, but generally, August is pain in the ass.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1379.27,
+      "end_time": 1386.43
+    },
+    {
+      "text": "Try and get people nailed down.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1386.43,
+      "end_time": 1388.46
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1388.62,
+      "end_time": 1389.02
+    },
+    {
+      "text": "But let's see, let's see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1389.18,
+      "end_time": 1390.34
+    },
+    {
+      "text": "We'll reset the campaign.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1390.34,
+      "end_time": 1391.26
+    },
+    {
+      "text": "We'll send it back out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1391.26,
+      "end_time": 1392.3
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1393.98,
+      "end_time": 1394.62
+    },
+    {
+      "text": "Somebody will crawl out the woodwork that we would stop thinking about.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1395.42,
+      "end_time": 1398.34
+    },
+    {
+      "text": "No doubt.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1398.34,
+      "end_time": 1399.02
+    },
+    {
+      "text": "Amazing.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1400.3,
+      "end_time": 1400.94
+    },
+    {
+      "text": "All right, then.",
+      "speaker_name": "jon",
+      "start_time": 1401.02,
+      "end_time": 1401.74
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1401.74,
+      "end_time": 1402.38
+    },
+    {
+      "text": "I wish you all a lovely weekend, then.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1402.38,
+      "end_time": 1404.14
+    },
+    {
+      "text": "Enjoy the sunshine.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1404.14,
+      "end_time": 1405.22
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jon",
+      "start_time": 1405.22,
+      "end_time": 1405.58
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1405.58,
+      "end_time": 1405.74
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "jon",
+      "start_time": 1405.74,
+      "end_time": 1405.94
+    },
+    {
+      "text": "See you soon.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1405.94,
+      "end_time": 1406.46
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1406.94,
+      "end_time": 1407.34
+    },
+    {
+      "text": "Good luck.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1407.34,
+      "end_time": 1407.78
+    },
+    {
+      "text": "Have a good weekend.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1407.78,
+      "end_time": 1408.54
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "SaaS",
+      "acquisition",
+      "Cool Cool Co",
+      "EBITDA",
+      "private equity",
+      "Information Memorandum"
+    ],
+    "action_items": "\n**Stuart Tiedeman**\nConsider providing Cool Cool Co with updated data room access over the weekend (05:19)\nComplete final updates to IM graphics with latest financial numbers from Chris Conway (11:59)\nShare updated IM with team once finalized for new campaign launch (18:19)\nSend link to updated IM to Jon for review (21:29)\nMeet with Criteo contact (Brand Crush founder) next week (16:35)\n\n**Andrew Day**\nLaunch new campaign targeting software companies with updated SaaS-focused IM (19:59)\nReset outreach to previously contacted software companies with refreshed positioning (18:19)\nFollow up on Ahmed's strategy for targeting larger holding companies (19:16)\n\n**Ahmed**\nProvide Stuart with requested list (22:02)\nExecute strategy for pitching to smaller companies within larger holding groups (19:16)\n\n**Jon**\nReview updated IM when Stuart shares the link (21:29)\n",
+    "outline": null,
+    "overview": "- Discussion on Cool Cool Co acquisition: proposed 80-90% stock offer with 10-20% cash, requiring wait until 2027 for full exit, with a 3-4 million EBITDA valuation.\n- Challenges noted in negotiations with Cool Cool Co founder, described as 'slippery' and needing pressure to disclose information.\n- Company now fully transitioned to a pure SaaS business model, enabling outreach to previously uninterested software companies and improving market positioning.\n- Banyan to re-engage in 12 months for customer retention metrics review after establishing track record.\n- Company approaching 2 million EBITDA threshold, making it eligible for private equity interest, with Lloyds identified as a potential funding source.\n- Stuart exploring grant opportunities, including Innovate UK and Uruguay grant extension, for additional funding support.\n- Updated Information Memorandum now reflects current SaaS focus, including an 85% client retention rate and notable client updates like Endeavour Group.\n- Organization growth noted, now at approximately 25 employees, with Tom Cowie overseeing RMI and new client wins from Co-op and Mood Media.\n- Meeting scheduled with Brand Crush founder at Criteo for potential backfill opportunities in upcoming strategy.\n- Anticipation of slow M&A activity during July-August, with September targeted for deal closures and a new outreach campaign planned for software companies in the next 2-3 weeks.",
+    "short_summary": "The meeting revolved around a proposed acquisition of Cool Cool Co, suggesting an 80-90% stock offer alongside a 10-20% cash component, with a full exit anticipated by 2027 and a valuation pegged at 3-4 million EBITDA. Challenges were highlighted in negotiations with the founder, described as 'slippery,' necessitating pressure for disclosure. The company has transitioned entirely to a SaaS business model, which is enhancing outreach to previously uninterested software firms and strengthening market positioning. Banyan plans to re-engage in 12 months to review customer retention metrics following a track record establishment. With the company nearing a 2 million EBITDA threshold, private equity interest has emerged, notably with Lloyds as a potential funding source. Stuart is exploring grants from Innovate UK and Uruguay. The updated Information Memorandum reflects an 85% client retention rate and significant client updates, while the organization has grown to about 25 employees, with Tom Cowie leading RMI and new client acquisitions from Co-op and Mood Media. A meeting with Brand Crush founder at Criteo is scheduled for potential backfill opportunities, with a slow M&A activity anticipated during July-August and a new outreach campaign planned within 2-3 weeks.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JZJV2TDF43KKE74SRKWC7J0Z",
+  "audio_url": "https://cdn.fireflies.ai/01JZJV2TDF43KKE74SRKWC7J0Z/audio.mp3?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlpKVjJUREY0M0tLRTc0U1JLV0M3SjBaL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=VFKmnbx9dYTmlN2lFVGcK5HMGPKuDWz-xi4ZOEhRiNX97jZmaWaDLJMUMkv0wALeDM3cIiWClriX9un3azHBlfzYiZYpVOp1yDsvFnNgNQM-euNbhLAYpF~Sekydf3GOB6i5eTNzKT6f4ebejM7~caqNkgS~6qRf9y4MgemqcMWpsXd7NjofBRkXVUxdXJx3-iqkL2TiVX8JoBLW79m~dLOVVosWK4R8Fy4nhQUqsfaqmz24oS0bC-zlX1i-DTWbZ1-ZC9liBclOAJ6XsDLw1HPRufbXwXYsI7TgZ8Ib5eGFEFIxwGwQuAPzcOnNf9cOKVDSHKBX2nkGZTUvdRHRTA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JZJV2TDF43KKE74SRKWC7J0Z/video.mp4?Expires=1773220856&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlpKVjJUREY0M0tLRTc0U1JLV0M3SjBaL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1Nn19fV19&Signature=i~g37tNNQ5pw9KTSCybiB4ummjmuIW8P3dw8WJEN8afclOU4aBVHcofKTzFtq5Ix01P2OhBlA4paE-v--Q344wm~evt3LPBAIhe~Rzt4C~MT25so1OTx8Nzzsl37Xch1ydwnykBqlxRg9ufDiCFJbPoVIaVD3NjnxfrQW6wwJTp-aoc~g~PNjaOsfEx3a3pAhOdHz-5zkw-ETe-R~7VCGDYBUxQihjjkQ-3C1mIdViDT8ktxEbimhcB9ODWxiqyxXHpyzDNV64uR3SZGj7LoUkhOyt6CWyU9h7Td-p1khp8R3RC3NBGflHCailalUyw6o3pAg3fc6KoraN3Z2iPlNQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

@@ -1,0 +1,2213 @@
+{
+  "id": "01JP06K83JY6ZB3WDPNW8HRB9J",
+  "title": "Natalie Leaf and Andy Day",
+  "date": 1741788000000,
+  "dateString": "2025-03-12T14:00:00.000Z",
+  "duration": 18.649999618530273,
+  "participants": [
+    "andrew.day@capitala.co,sian@goodfoot.co.uk,natalie@goodfoot.co.uk,andy.day@capitala.co",
+    "sian@goodfoot.co.uk",
+    "natalie@goodfoot.co.uk",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "sian@goodfoot.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "natalie@goodfoot.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Sian Finn",
+      "start_time": 3.84,
+      "end_time": 5.72
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.88,
+      "end_time": 6.312
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 6.376,
+      "end_time": 7.256
+    },
+    {
+      "text": "Hi, Andy.",
+      "speaker_name": "Sian Finn",
+      "start_time": 7.408,
+      "end_time": 8.344
+    },
+    {
+      "text": "Fine, thank you.",
+      "speaker_name": "Sian Finn",
+      "start_time": 8.392,
+      "end_time": 9.32
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Sian Finn",
+      "start_time": 9.44,
+      "end_time": 10.296
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 10.448,
+      "end_time": 11.78
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Sian Finn",
+      "start_time": 12.16,
+      "end_time": 12.568
+    },
+    {
+      "text": "I apologize if I'm coughing every now and again.",
+      "speaker_name": "Sian Finn",
+      "start_time": 12.624,
+      "end_time": 15
+    },
+    {
+      "text": "I'm at home ill at the minute, so.",
+      "speaker_name": "Sian Finn",
+      "start_time": 15.04,
+      "end_time": 16.648
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 16.704,
+      "end_time": 17.42
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Andy Day",
+      "start_time": 17.92,
+      "end_time": 18.7
+    },
+    {
+      "text": "How are you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 19.12,
+      "end_time": 19.8
+    },
+    {
+      "text": "Natalie.",
+      "speaker_name": "Andy Day",
+      "start_time": 19.84,
+      "end_time": 20.344
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 20.392,
+      "end_time": 21.38
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 23.12,
+      "end_time": 24.248
+    },
+    {
+      "text": "I can.",
+      "speaker_name": "Andy Day",
+      "start_time": 24.384,
+      "end_time": 25.112
+    },
+    {
+      "text": "Yes, we can.",
+      "speaker_name": "Sian Finn",
+      "start_time": 25.216,
+      "end_time": 26.686
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "Andy Day",
+      "start_time": 26.838,
+      "end_time": 27.886
+    },
+    {
+      "text": "You can't hear me?",
+      "speaker_name": "Andy Day",
+      "start_time": 28.038,
+      "end_time": 28.862
+    },
+    {
+      "text": "Yes, I can hear you.",
+      "speaker_name": "Sian Finn",
+      "start_time": 28.886,
+      "end_time": 30.89
+    },
+    {
+      "text": "Sorry, Is it Sean?",
+      "speaker_name": "Andy Day",
+      "start_time": 33.83,
+      "end_time": 35.97
+    },
+    {
+      "text": "Yeah, yeah, Sean's.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 36.47,
+      "end_time": 39.966
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 40.078,
+      "end_time": 40.446
+    },
+    {
+      "text": "I just had my thingy off, so.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 40.478,
+      "end_time": 42.57
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 44.87,
+      "end_time": 45.294
+    },
+    {
+      "text": "Shan's a marketing manager and I thought obviously it was important that she join us today, but she's.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 45.342,
+      "end_time": 50.862
+    },
+    {
+      "text": "She's not well, so she's phoned in, especially just to.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 51.006,
+      "end_time": 54.33
+    },
+    {
+      "text": "Especially.",
+      "speaker_name": "Sian Finn",
+      "start_time": 54.64,
+      "end_time": 55.38
+    },
+    {
+      "text": "Especially as a special.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 55.84,
+      "end_time": 58.18
+    },
+    {
+      "text": "Special guest.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 58.56,
+      "end_time": 59.4
+    },
+    {
+      "text": "Special treat.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 59.48,
+      "end_time": 60.5
+    },
+    {
+      "text": "From Sean.",
+      "speaker_name": "Andy Day",
+      "start_time": 63.28,
+      "end_time": 64.3
+    },
+    {
+      "text": "What illness have you picked up?",
+      "speaker_name": "Andy Day",
+      "start_time": 64.8,
+      "end_time": 66.66
+    },
+    {
+      "text": "I don't.",
+      "speaker_name": "Sian Finn",
+      "start_time": 67.12,
+      "end_time": 67.656
+    },
+    {
+      "text": "I've had flu.",
+      "speaker_name": "Sian Finn",
+      "start_time": 67.688,
+      "end_time": 68.344
+    },
+    {
+      "text": "I've been in bed for a week, so.",
+      "speaker_name": "Sian Finn",
+      "start_time": 68.392,
+      "end_time": 70.184
+    },
+    {
+      "text": "Oh, really?",
+      "speaker_name": "Andy Day",
+      "start_time": 70.352,
+      "end_time": 71.064
+    },
+    {
+      "text": "Yeah, it's going around, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 71.152,
+      "end_time": 72.296
+    },
+    {
+      "text": "I had it a few weeks ago, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 72.328,
+      "end_time": 74.376
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Sian Finn",
+      "start_time": 74.448,
+      "end_time": 74.968
+    },
+    {
+      "text": "I just heard.",
+      "speaker_name": "Andy Day",
+      "start_time": 75.064,
+      "end_time": 75.784
+    },
+    {
+      "text": "I was speaking to a client in.",
+      "speaker_name": "Andy Day",
+      "start_time": 75.832,
+      "end_time": 77.176
+    },
+    {
+      "text": "I was just getting on the train to London.",
+      "speaker_name": "Andy Day",
+      "start_time": 77.248,
+      "end_time": 79.208
+    },
+    {
+      "text": "His entire family had been wiped out with this neurovirus.",
+      "speaker_name": "Andy Day",
+      "start_time": 79.304,
+      "end_time": 82.76
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 82.84,
+      "end_time": 83.46
+    },
+    {
+      "text": "Yeah, I think it's all.",
+      "speaker_name": "Andy Day",
+      "start_time": 84.57,
+      "end_time": 85.57
+    },
+    {
+      "text": "It's all going on, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 85.61,
+      "end_time": 86.834
+    },
+    {
+      "text": "Nasty.",
+      "speaker_name": "Sian Finn",
+      "start_time": 86.922,
+      "end_time": 87.83
+    },
+    {
+      "text": "Warwick in the Midlands is office space.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 90.49,
+      "end_time": 94.91
+    },
+    {
+      "text": "I'm working from home because I've got two ill children at home today as well, so I'm not in the office.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 96.33,
+      "end_time": 102.51
+    },
+    {
+      "text": "Doing really well for the office.",
+      "speaker_name": "Sian Finn",
+      "start_time": 104.33,
+      "end_time": 105.714
+    },
+    {
+      "text": "We're doing.",
+      "speaker_name": "Sian Finn",
+      "start_time": 105.802,
+      "end_time": 106.482
+    },
+    {
+      "text": "Yeah, we're doing really well, aren't we?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 106.586,
+      "end_time": 108.75
+    },
+    {
+      "text": "Not to worry.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 109.78,
+      "end_time": 110.62
+    },
+    {
+      "text": "Anyway.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 110.7,
+      "end_time": 111.36
+    },
+    {
+      "text": "How big is the team in the office?",
+      "speaker_name": "Andy Day",
+      "start_time": 114.02,
+      "end_time": 115.96
+    },
+    {
+      "text": "Well, we've just three of us normally based in the team.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 116.58,
+      "end_time": 120.108
+    },
+    {
+      "text": "Sorry, I'm moving so I can get some better signal.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 120.164,
+      "end_time": 123.76
+    },
+    {
+      "text": "Three of us are in the office, myself, Sian and Martine who supports on marketing.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 124.1,
+      "end_time": 128.22
+    },
+    {
+      "text": "And then we have a team of consultants who are based all over the UK, so there's around 12 of those.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 128.3,
+      "end_time": 135.32
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.89,
+      "end_time": 136.474
+    },
+    {
+      "text": "And you, do you do training?",
+      "speaker_name": "Andy Day",
+      "start_time": 136.522,
+      "end_time": 138.19
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 139.09,
+      "end_time": 139.85
+    },
+    {
+      "text": "So predominantly leadership and management training for.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 140.01,
+      "end_time": 143.59
+    },
+    {
+      "text": "Well, our.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 145.01,
+      "end_time": 146.602
+    },
+    {
+      "text": "We don't work in one specific sector.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 146.706,
+      "end_time": 148.954
+    },
+    {
+      "text": "It's pretty widespread.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 149.042,
+      "end_time": 151.162
+    },
+    {
+      "text": "We've been going for over 20 years.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 151.226,
+      "end_time": 153.194
+    },
+    {
+      "text": "So as you can imagine, the client base is quite diverse.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 153.362,
+      "end_time": 158.35
+    },
+    {
+      "text": "But in terms of, you know, typically, who would want to kind of want us to support them?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 159.41,
+      "end_time": 167.77
+    },
+    {
+      "text": "It tends to be larger corporates.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 167.81,
+      "end_time": 169.95
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 170.53,
+      "end_time": 171.47
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Sian Finn",
+      "start_time": 172.21,
+      "end_time": 172.586
+    },
+    {
+      "text": "So you're shooting for the.",
+      "speaker_name": "Andy Day",
+      "start_time": 172.618,
+      "end_time": 174.506
+    },
+    {
+      "text": "A certain type of manager, is it, within the corporate world, when you're.",
+      "speaker_name": "Andy Day",
+      "start_time": 174.578,
+      "end_time": 178.826
+    },
+    {
+      "text": "You're doing the outreach?",
+      "speaker_name": "Andy Day",
+      "start_time": 178.858,
+      "end_time": 180.19
+    },
+    {
+      "text": "Yeah, well, we tend.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 180.85,
+      "end_time": 181.914
+    },
+    {
+      "text": "The outreach tends to be around L and D, provider professionals, hr, senior managers, that kind of thing.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 181.962,
+      "end_time": 191.52
+    },
+    {
+      "text": "The training that we deliver can be anything from graduates Apprentices right through to exec level, sort of one to one coaching.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 192.14,
+      "end_time": 201.48
+    },
+    {
+      "text": "So we work at all different levels throughout the business.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 202.3,
+      "end_time": 205.92
+    },
+    {
+      "text": "Oh good.",
+      "speaker_name": "Andy Day",
+      "start_time": 206.78,
+      "end_time": 207.428
+    },
+    {
+      "text": "I could do with some of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 207.484,
+      "end_time": 208.42
+    },
+    {
+      "text": "What do you offer?",
+      "speaker_name": "Andy Day",
+      "start_time": 208.46,
+      "end_time": 209.44
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 211.18,
+      "end_time": 212.004
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 212.052,
+      "end_time": 212.532
+    },
+    {
+      "text": "It's good to get a good picture.",
+      "speaker_name": "Andy Day",
+      "start_time": 212.636,
+      "end_time": 214.308
+    },
+    {
+      "text": "So just to let you know who we are.",
+      "speaker_name": "Andy Day",
+      "start_time": 214.404,
+      "end_time": 216.116
+    },
+    {
+      "text": "So we are Capital A group.",
+      "speaker_name": "Andy Day",
+      "start_time": 216.188,
+      "end_time": 219.43
+    },
+    {
+      "text": "Capital A itself is an M and A advisory.",
+      "speaker_name": "Andy Day",
+      "start_time": 220.05,
+      "end_time": 222.842
+    },
+    {
+      "text": "We actually specialize around marketing services mostly but we do go out outside of that and then we have a platform agencies co.",
+      "speaker_name": "Andy Day",
+      "start_time": 222.906,
+      "end_time": 231.818
+    },
+    {
+      "text": "We've just acquired Daniel's business as well which we've rebranded as DLA Engines which is obviously the deal flow that we do for M and A.",
+      "speaker_name": "Andy Day",
+      "start_time": 231.874,
+      "end_time": 241.11
+    },
+    {
+      "text": "So you're one of his clients from the, the marketing engines side of things, which is slightly, slightly different for our poor use.",
+      "speaker_name": "Andy Day",
+      "start_time": 241.65,
+      "end_time": 250.36
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Andy Day",
+      "start_time": 250.82,
+      "end_time": 251.18
+    },
+    {
+      "text": "But still obviously we're, we're happy to have your business.",
+      "speaker_name": "Andy Day",
+      "start_time": 251.22,
+      "end_time": 254.012
+    },
+    {
+      "text": "So we want to continue giving you as good a service as Dan has been doing over the years and just make sure we can continue to improve it as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 254.116,
+      "end_time": 263.48
+    },
+    {
+      "text": "Dan tells me that they don't have any sort of stats that he shares with you, so I just wanted to.",
+      "speaker_name": "Andy Day",
+      "start_time": 263.78,
+      "end_time": 276.658
+    },
+    {
+      "text": "What do you mean?",
+      "speaker_name": "Sian Finn",
+      "start_time": 276.714,
+      "end_time": 277.71
+    },
+    {
+      "text": "Well, so the, the delivery.",
+      "speaker_name": "Andy Day",
+      "start_time": 278.09,
+      "end_time": 279.91
+    },
+    {
+      "text": "Sorry, that's not the right window, is it?",
+      "speaker_name": "Andy Day",
+      "start_time": 281.05,
+      "end_time": 282.562
+    },
+    {
+      "text": "Well, can you see that?",
+      "speaker_name": "Andy Day",
+      "start_time": 282.586,
+      "end_time": 284.882
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 285.066,
+      "end_time": 285.83
+    },
+    {
+      "text": "So the delivery analytics on the emails.",
+      "speaker_name": "Andy Day",
+      "start_time": 287.37,
+      "end_time": 290.898
+    },
+    {
+      "text": "Because I think this is where we've.",
+      "speaker_name": "Andy Day",
+      "start_time": 290.994,
+      "end_time": 292.194
+    },
+    {
+      "text": "We've probably had the, the biggest problem over the last couple.",
+      "speaker_name": "Andy Day",
+      "start_time": 292.242,
+      "end_time": 295.634
+    },
+    {
+      "text": "Oh yes, we.",
+      "speaker_name": "Sian Finn",
+      "start_time": 295.682,
+      "end_time": 296.402
+    },
+    {
+      "text": "He has shown us before.",
+      "speaker_name": "Sian Finn",
+      "start_time": 296.426,
+      "end_time": 297.71
+    },
+    {
+      "text": "Yeah, we have had them that it's.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 298.04,
+      "end_time": 300.992
+    },
+    {
+      "text": "I think the.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 301.056,
+      "end_time": 302.22
+    },
+    {
+      "text": "It's been a bit hit and miss.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 302.84,
+      "end_time": 304.208
+    },
+    {
+      "text": "We asked for kind of a weekly update which is a bit sporadic but I think like I mentioned in my email, Andy, it's important for you to kind of understand that the majority of the replies we get on email is from the second message which I think.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 304.264,
+      "end_time": 321.82
+    },
+    {
+      "text": "I think is a hundred percent.",
+      "speaker_name": "Sian Finn",
+      "start_time": 322.36,
+      "end_time": 324.06
+    },
+    {
+      "text": "Is it Sean?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 325.46,
+      "end_time": 326.716
+    },
+    {
+      "text": "Yeah, Positive responses is a hundred percent from second messaging.",
+      "speaker_name": "Sian Finn",
+      "start_time": 326.908,
+      "end_time": 330.8
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Sian Finn",
+      "start_time": 331.22,
+      "end_time": 331.628
+    },
+    {
+      "text": "Or third or fourth or.",
+      "speaker_name": "Sian Finn",
+      "start_time": 331.684,
+      "end_time": 333.34
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Sian Finn",
+      "start_time": 333.38,
+      "end_time": 335.836
+    },
+    {
+      "text": "Which.",
+      "speaker_name": "Andy Day",
+      "start_time": 335.868,
+      "end_time": 336.156
+    },
+    {
+      "text": "Which is understandable.",
+      "speaker_name": "Andy Day",
+      "start_time": 336.228,
+      "end_time": 337.164
+    },
+    {
+      "text": "So the first one, you know, they kind of see it.",
+      "speaker_name": "Andy Day",
+      "start_time": 337.212,
+      "end_time": 338.94
+    },
+    {
+      "text": "Maybe they just leave it or they read it.",
+      "speaker_name": "Andy Day",
+      "start_time": 338.98,
+      "end_time": 341.644
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 341.732,
+      "end_time": 343.548
+    },
+    {
+      "text": "Well what we offer as well is quite expensive.",
+      "speaker_name": "Sian Finn",
+      "start_time": 343.644,
+      "end_time": 345.964
+    },
+    {
+      "text": "It's not a, you know, immediate buying purchase.",
+      "speaker_name": "Sian Finn",
+      "start_time": 346.012,
+      "end_time": 351.318
+    },
+    {
+      "text": "So it's going to take a lot of weeks to think about what they need and then come back just to buy it.",
+      "speaker_name": "Sian Finn",
+      "start_time": 351.414,
+      "end_time": 357.43
+    },
+    {
+      "text": "So that's a good point.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 357.47,
+      "end_time": 358.998
+    },
+    {
+      "text": "Sian, you mean typically, Andy, our sales funnel or our lead time is around nine months.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 359.054,
+      "end_time": 365.094
+    },
+    {
+      "text": "Cambie.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 365.182,
+      "end_time": 366.09
+    },
+    {
+      "text": "Because it's a high risk purchase for people training.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 366.91,
+      "end_time": 371.27
+    },
+    {
+      "text": "It's expensive price point.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 371.35,
+      "end_time": 373.078
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 373.134,
+      "end_time": 373.366
+    },
+    {
+      "text": "Then they've got a gnome.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 373.398,
+      "end_time": 374.65
+    },
+    {
+      "text": "It's well, we offer such a variety.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 375.46,
+      "end_time": 378.412
+    },
+    {
+      "text": "It starts anything from kind of a £925 for a digital workshop right up through to a coaching program where we.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 378.556,
+      "end_time": 388.38
+    },
+    {
+      "text": "It was 25 grand.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 388.5,
+      "end_time": 390.876
+    },
+    {
+      "text": "So it really varies, you know, a day's training, you're looking at around 1600 pounds.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 391.068,
+      "end_time": 397.868
+    },
+    {
+      "text": "But people, it's not an impulse buy and, and people obviously, you know, they tend to stick with people they know, you know, a lot.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 397.964,
+      "end_time": 411.286
+    },
+    {
+      "text": "Previously the majority of our business came through referrals and the landscape's changed considerably because years ago, you know, it used to be we had a client and they stayed with you and you know, once you got a client, it was your client for 10 years.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 411.358,
+      "end_time": 429.926
+    },
+    {
+      "text": "You know that sadly it is no longer the case.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 429.998,
+      "end_time": 434.122
+    },
+    {
+      "text": "You know, they put everything out to tender.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 434.206,
+      "end_time": 436.082
+    },
+    {
+      "text": "You're often up against many, many different training organizations lot.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 436.146,
+      "end_time": 442.27
+    },
+    {
+      "text": "It's not just about price but you know, it depends on trainers.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 442.65,
+      "end_time": 447.154
+    },
+    {
+      "text": "You know, there's a lot leading up to them making a purchase.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 447.202,
+      "end_time": 451.874
+    },
+    {
+      "text": "But the cost of us getting a client has risen dramatically.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 451.922,
+      "end_time": 456.05
+    },
+    {
+      "text": "You know, that, that cost to acquire a client.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 456.21,
+      "end_time": 459.91
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 461.51,
+      "end_time": 462.046
+    },
+    {
+      "text": "And so besides marketing engines, what.",
+      "speaker_name": "Andy Day",
+      "start_time": 462.078,
+      "end_time": 464.59
+    },
+    {
+      "text": "What is the, what is your other routes to market that you, that you're using to get clients through the door?",
+      "speaker_name": "Andy Day",
+      "start_time": 464.63,
+      "end_time": 471.25
+    },
+    {
+      "text": "So we did always, we started, I came in and started on LinkedIn at a very low level and then we just used Danny to amplify that and that's where we were for quite a while.",
+      "speaker_name": "Sian Finn",
+      "start_time": 471.83,
+      "end_time": 482.734
+    },
+    {
+      "text": "And then he suggested bringing an email and we always wanted another thread and we tried emails separately and it's never really got off the ground until we kind of were getting, you know, a positive responder a day, which was great.",
+      "speaker_name": "Sian Finn",
+      "start_time": 482.902,
+      "end_time": 496.704
+    },
+    {
+      "text": "And that seems to have fallen off again now.",
+      "speaker_name": "Sian Finn",
+      "start_time": 496.872,
+      "end_time": 499.42
+    },
+    {
+      "text": "But we do our own marketing through HubSpot and that gets a few.",
+      "speaker_name": "Sian Finn",
+      "start_time": 499.72,
+      "end_time": 503.68
+    },
+    {
+      "text": "But they're already existing clients or they know us anyway, so it's not as difficult.",
+      "speaker_name": "Sian Finn",
+      "start_time": 503.72,
+      "end_time": 508.5
+    },
+    {
+      "text": "And then we use a lot of LinkedIn outreach, other outreach as well.",
+      "speaker_name": "Sian Finn",
+      "start_time": 509,
+      "end_time": 513.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 515.16,
+      "end_time": 515.856
+    },
+    {
+      "text": "So the two main threads.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 515.968,
+      "end_time": 517.472
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 517.536,
+      "end_time": 517.824
+    },
+    {
+      "text": "Have been kind of email.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 517.872,
+      "end_time": 519.34
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Sian Finn",
+      "start_time": 519.72,
+      "end_time": 520.5
+    },
+    {
+      "text": "No, that's right.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 520.85,
+      "end_time": 521.898
+    },
+    {
+      "text": "We also have forums which we run and that gets a lot of marketing surrounding it and then we use that for follow ups.",
+      "speaker_name": "Sian Finn",
+      "start_time": 522.034,
+      "end_time": 530.51
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 531.01,
+      "end_time": 531.642
+    },
+    {
+      "text": "So it's quite varied.",
+      "speaker_name": "Andy Day",
+      "start_time": 531.706,
+      "end_time": 533.066
+    },
+    {
+      "text": "Sounds really good.",
+      "speaker_name": "Andy Day",
+      "start_time": 533.258,
+      "end_time": 534.47
+    },
+    {
+      "text": "You could, you could probably give a class on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 535.01,
+      "end_time": 537.43
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.05,
+      "end_time": 540.41
+    },
+    {
+      "text": "Well, so, so here's the thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.45,
+      "end_time": 542.09
+    },
+    {
+      "text": "So this is the, the last six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 542.13,
+      "end_time": 543.61
+    },
+    {
+      "text": "This seems to be all that we have in this system.",
+      "speaker_name": "Andy Day",
+      "start_time": 543.65,
+      "end_time": 546.538
+    },
+    {
+      "text": "I don't know whether Danny was in a different system, but this is the, you know, the sort of continuous analytics that we have.",
+      "speaker_name": "Andy Day",
+      "start_time": 546.594,
+      "end_time": 554.898
+    },
+    {
+      "text": "If you go back any further, it's just.",
+      "speaker_name": "Andy Day",
+      "start_time": 554.954,
+      "end_time": 556.498
+    },
+    {
+      "text": "It's just blank.",
+      "speaker_name": "Andy Day",
+      "start_time": 556.554,
+      "end_time": 557.41
+    },
+    {
+      "text": "So, okay, so there from the 1st of November a little bit more.",
+      "speaker_name": "Andy Day",
+      "start_time": 557.49,
+      "end_time": 563.47
+    },
+    {
+      "text": "So the reply rate does seem to be dropping off.",
+      "speaker_name": "Andy Day",
+      "start_time": 565.61,
+      "end_time": 568.59
+    },
+    {
+      "text": "So it's 0.3 for that period.",
+      "speaker_name": "Andy Day",
+      "start_time": 569.13,
+      "end_time": 572.11
+    },
+    {
+      "text": "Three months, 0.2.",
+      "speaker_name": "Andy Day",
+      "start_time": 572.65,
+      "end_time": 576.122
+    },
+    {
+      "text": "And then the past month is 0.1.",
+      "speaker_name": "Andy Day",
+      "start_time": 576.306,
+      "end_time": 580.63
+    },
+    {
+      "text": "Obviously we've had this issues and so I'd expect once we continue through the month that we're going to pick up, pick back up.",
+      "speaker_name": "Andy Day",
+      "start_time": 581.65,
+      "end_time": 588.634
+    },
+    {
+      "text": "So one of the problems seemed to be that we had this kind of throttling here, just over 2,000, which we've opened it up again.",
+      "speaker_name": "Andy Day",
+      "start_time": 588.802,
+      "end_time": 598.31
+    },
+    {
+      "text": "So this is why I think that the second replies are picking up.",
+      "speaker_name": "Andy Day",
+      "start_time": 599.73,
+      "end_time": 602.522
+    },
+    {
+      "text": "But also obviously because it was off and then started again, it didn't get to those second replies until.",
+      "speaker_name": "Andy Day",
+      "start_time": 602.546,
+      "end_time": 608.25
+    },
+    {
+      "text": "Yeah, period as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 608.37,
+      "end_time": 610.106
+    },
+    {
+      "text": "So I think over time it will probably normalize back out.",
+      "speaker_name": "Andy Day",
+      "start_time": 610.258,
+      "end_time": 613.594
+    },
+    {
+      "text": "So hopefully by the time we get to the end of the month it will just pick up to.",
+      "speaker_name": "Andy Day",
+      "start_time": 613.682,
+      "end_time": 618.266
+    },
+    {
+      "text": "Back up to 0.2 or 0.3.",
+      "speaker_name": "Andy Day",
+      "start_time": 618.338,
+      "end_time": 621.03
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 621.33,
+      "end_time": 622.186
+    },
+    {
+      "text": "Again.",
+      "speaker_name": "Andy Day",
+      "start_time": 622.378,
+      "end_time": 622.826
+    },
+    {
+      "text": "Okay, so you think just stick with it how it is now for now.",
+      "speaker_name": "Sian Finn",
+      "start_time": 622.898,
+      "end_time": 626.202
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 626.226,
+      "end_time": 626.83
+    },
+    {
+      "text": "I don't see any other significant changes.",
+      "speaker_name": "Andy Day",
+      "start_time": 627.17,
+      "end_time": 629.306
+    },
+    {
+      "text": "It's just purely like you said, if you're getting the responses on that second email, I'm looking into the replies as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 629.338,
+      "end_time": 634.672
+    },
+    {
+      "text": "So if you go into the.",
+      "speaker_name": "Andy Day",
+      "start_time": 634.696,
+      "end_time": 635.616
+    },
+    {
+      "text": "The inbox, you can see those replies start picking up.",
+      "speaker_name": "Andy Day",
+      "start_time": 635.688,
+      "end_time": 638.832
+    },
+    {
+      "text": "There was a gap.",
+      "speaker_name": "Andy Day",
+      "start_time": 638.856,
+      "end_time": 639.552
+    },
+    {
+      "text": "Oh, brilliant.",
+      "speaker_name": "Sian Finn",
+      "start_time": 639.616,
+      "end_time": 640.624
+    },
+    {
+      "text": "That's the first time I've seen more than.",
+      "speaker_name": "Sian Finn",
+      "start_time": 640.672,
+      "end_time": 642.704
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Sian Finn",
+      "start_time": 642.792,
+      "end_time": 643.744
+    },
+    {
+      "text": "So they're there.",
+      "speaker_name": "Andy Day",
+      "start_time": 643.792,
+      "end_time": 644.7
+    },
+    {
+      "text": "Nothing.",
+      "speaker_name": "Andy Day",
+      "start_time": 646.84,
+      "end_time": 647.216
+    },
+    {
+      "text": "But at least that they are coming back now.",
+      "speaker_name": "Andy Day",
+      "start_time": 647.248,
+      "end_time": 649.088
+    },
+    {
+      "text": "So it is starting to tick over again.",
+      "speaker_name": "Andy Day",
+      "start_time": 649.144,
+      "end_time": 652.608
+    },
+    {
+      "text": "So I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 652.744,
+      "end_time": 653.28
+    },
+    {
+      "text": "Yeah, given that we haven't changed anything else, that it will just come.",
+      "speaker_name": "Andy Day",
+      "start_time": 653.32,
+      "end_time": 657.958
+    },
+    {
+      "text": "Go back to normal as it writes itself.",
+      "speaker_name": "Andy Day",
+      "start_time": 658.014,
+      "end_time": 659.926
+    },
+    {
+      "text": "And purely it was this.",
+      "speaker_name": "Andy Day",
+      "start_time": 660.038,
+      "end_time": 661.494
+    },
+    {
+      "text": "This off period from where it seemed to switch off halfway through the day, which I think was something to do with the number of leads that was.",
+      "speaker_name": "Andy Day",
+      "start_time": 661.582,
+      "end_time": 670.838
+    },
+    {
+      "text": "That was in there.",
+      "speaker_name": "Andy Day",
+      "start_time": 670.974,
+      "end_time": 672.022
+    },
+    {
+      "text": "So once it was top.",
+      "speaker_name": "Andy Day",
+      "start_time": 672.126,
+      "end_time": 673.126
+    },
+    {
+      "text": "Oh, that's in others.",
+      "speaker_name": "Sian Finn",
+      "start_time": 673.198,
+      "end_time": 674.646
+    },
+    {
+      "text": "I see where it is now.",
+      "speaker_name": "Sian Finn",
+      "start_time": 674.718,
+      "end_time": 676.13
+    },
+    {
+      "text": "Oh, in the.",
+      "speaker_name": "Andy Day",
+      "start_time": 678.35,
+      "end_time": 679.81
+    },
+    {
+      "text": "In the.",
+      "speaker_name": "Andy Day",
+      "start_time": 680.51,
+      "end_time": 681.33
+    },
+    {
+      "text": "Those messages are just in the others outbox.",
+      "speaker_name": "Sian Finn",
+      "start_time": 682.68,
+      "end_time": 685.76
+    },
+    {
+      "text": "Like the junk email.",
+      "speaker_name": "Sian Finn",
+      "start_time": 685.84,
+      "end_time": 687.1
+    },
+    {
+      "text": "These ones.",
+      "speaker_name": "Andy Day",
+      "start_time": 688.68,
+      "end_time": 689.392
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 689.456,
+      "end_time": 689.696
+    },
+    {
+      "text": "Because they're not.",
+      "speaker_name": "Andy Day",
+      "start_time": 689.728,
+      "end_time": 690.752
+    },
+    {
+      "text": "Yeah, they're the ones you're looking at.",
+      "speaker_name": "Andy Day",
+      "start_time": 690.936,
+      "end_time": 692.272
+    },
+    {
+      "text": "Why is it saying primary on yours?",
+      "speaker_name": "Sian Finn",
+      "start_time": 692.296,
+      "end_time": 694.1
+    },
+    {
+      "text": "I'm more desperate for com, you know.",
+      "speaker_name": "Andy Day",
+      "start_time": 695.48,
+      "end_time": 697.74
+    },
+    {
+      "text": "Oh, here we go.",
+      "speaker_name": "Sian Finn",
+      "start_time": 698.28,
+      "end_time": 699.58
+    },
+    {
+      "text": "Can you see it now, Sean?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 700.44,
+      "end_time": 701.872
+    },
+    {
+      "text": "I've got it now.",
+      "speaker_name": "Sian Finn",
+      "start_time": 701.936,
+      "end_time": 702.512
+    },
+    {
+      "text": "It's updated on that one.",
+      "speaker_name": "Sian Finn",
+      "start_time": 702.536,
+      "end_time": 704.14
+    },
+    {
+      "text": "I love some of the replies.",
+      "speaker_name": "Sian Finn",
+      "start_time": 706.04,
+      "end_time": 707.7
+    },
+    {
+      "text": "You've got to have thick skin on you to be in this game.",
+      "speaker_name": "Andy Day",
+      "start_time": 708.6,
+      "end_time": 711.42
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 712.12,
+      "end_time": 713.02
+    },
+    {
+      "text": "Fine.",
+      "speaker_name": "Sian Finn",
+      "start_time": 713.78,
+      "end_time": 714.252
+    },
+    {
+      "text": "What's the go.",
+      "speaker_name": "Sian Finn",
+      "start_time": 714.316,
+      "end_time": 715.532
+    },
+    {
+      "text": "I was gonna say I don't touch it, but.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 715.716,
+      "end_time": 717.9
+    },
+    {
+      "text": "Because obviously this is all sian's.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 718.02,
+      "end_time": 719.788
+    },
+    {
+      "text": "Domain.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 719.804,
+      "end_time": 720.204
+    },
+    {
+      "text": "I kind of sit back and let her tell me, you know, if there's a problem and if things are going well.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 720.252,
+      "end_time": 726.204
+    },
+    {
+      "text": "But yeah, I.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 726.292,
+      "end_time": 727.068
+    },
+    {
+      "text": "You mean, remember when you're on holiday, Sean?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 727.124,
+      "end_time": 728.924
+    },
+    {
+      "text": "And I was doing it and I was in a foul mood after doing it for about an hour.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 728.972,
+      "end_time": 732.012
+    },
+    {
+      "text": "I was like, oh, go away.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 732.036,
+      "end_time": 733.48
+    },
+    {
+      "text": "Yeah, they can be extremely horrible.",
+      "speaker_name": "Andy Day",
+      "start_time": 734.02,
+      "end_time": 736.72
+    },
+    {
+      "text": "My favorite one today is, I'm not saying it's a yes, but can you send it over to review?",
+      "speaker_name": "Sian Finn",
+      "start_time": 737.86,
+      "end_time": 743.38
+    },
+    {
+      "text": "So anyway, I think that the good news is that it is back on track.",
+      "speaker_name": "Andy Day",
+      "start_time": 746.64,
+      "end_time": 750.136
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 750.288,
+      "end_time": 750.984
+    },
+    {
+      "text": "Picking up.",
+      "speaker_name": "Andy Day",
+      "start_time": 751.112,
+      "end_time": 751.752
+    },
+    {
+      "text": "And then the other piece of the puzzle was just in lips, wasn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 751.776,
+      "end_time": 756.648
+    },
+    {
+      "text": "Well, what we're calling lips now.",
+      "speaker_name": "Andy Day",
+      "start_time": 756.704,
+      "end_time": 758.58
+    },
+    {
+      "text": "So let me see if I can get that.",
+      "speaker_name": "Andy Day",
+      "start_time": 760,
+      "end_time": 762.5
+    },
+    {
+      "text": "Yeah, that's.",
+      "speaker_name": "Sian Finn",
+      "start_time": 765.93,
+      "end_time": 766.642
+    },
+    {
+      "text": "That's all sorted.",
+      "speaker_name": "Sian Finn",
+      "start_time": 766.706,
+      "end_time": 768.002
+    },
+    {
+      "text": "Yeah, yeah, that's sorted.",
+      "speaker_name": "Andy Day",
+      "start_time": 768.066,
+      "end_time": 769.906
+    },
+    {
+      "text": "It's all being covered across.",
+      "speaker_name": "Andy Day",
+      "start_time": 769.938,
+      "end_time": 771.31
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Sian Finn",
+      "start_time": 771.69,
+      "end_time": 772.29
+    },
+    {
+      "text": "Normally what I do, Andy, is I change it.",
+      "speaker_name": "Sian Finn",
+      "start_time": 772.37,
+      "end_time": 775.09
+    },
+    {
+      "text": "That's why I've got access to both, because I normally just manage the accounts myself, but because there was someone else on it, I didn't want to jump in it and just start editing it.",
+      "speaker_name": "Sian Finn",
+      "start_time": 775.13,
+      "end_time": 784.91
+    },
+    {
+      "text": "Yeah, feel free to.",
+      "speaker_name": "Andy Day",
+      "start_time": 785.21,
+      "end_time": 787.17
+    },
+    {
+      "text": "And then just message.",
+      "speaker_name": "Andy Day",
+      "start_time": 787.21,
+      "end_time": 788.066
+    },
+    {
+      "text": "Do you have contact with us via a Slack channel?",
+      "speaker_name": "Andy Day",
+      "start_time": 788.098,
+      "end_time": 790.546
+    },
+    {
+      "text": "Because that's the group channel that all of us sit in for each client, so you're bound to get picked up by at least one of us within sort of a half hour to an hour period.",
+      "speaker_name": "Andy Day",
+      "start_time": 790.578,
+      "end_time": 801.06
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Sian Finn",
+      "start_time": 801.36,
+      "end_time": 802.12
+    },
+    {
+      "text": "I'll just put it up.",
+      "speaker_name": "Sian Finn",
+      "start_time": 802.16,
+      "end_time": 803.38
+    },
+    {
+      "text": "Yeah, yeah, yeah, we've got our good foot Slack channel, so we can.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 803.68,
+      "end_time": 811.448
+    },
+    {
+      "text": "We can definitely use that.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 811.504,
+      "end_time": 813.16
+    },
+    {
+      "text": "So will you kind of be our point of contact going forward, Andy, or will you bring in someone else for now?",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 813.28,
+      "end_time": 820.58
+    },
+    {
+      "text": "So we do have a team that isn't me that's working on this full time, but yeah, I wanted to meet you guys anyway just to say hello and.",
+      "speaker_name": "Andy Day",
+      "start_time": 821.36,
+      "end_time": 830.724
+    },
+    {
+      "text": "Yeah, it's lovely to put a face to the name when you're, yeah, working with somebody, it's good to know.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 830.812,
+      "end_time": 835.332
+    },
+    {
+      "text": "And look, if there's anything that, you know, you need from us that will help you, you know, just.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 835.356,
+      "end_time": 841.556
+    },
+    {
+      "text": "Just let us know.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 841.628,
+      "end_time": 842.788
+    },
+    {
+      "text": "And we're really open and flexible.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 842.844,
+      "end_time": 845.172
+    },
+    {
+      "text": "We just want it to work, you know, obviously.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 845.236,
+      "end_time": 848.12
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Andy Day",
+      "start_time": 848.86,
+      "end_time": 849.92
+    },
+    {
+      "text": "So, yeah, we're open to any suggestions, ideas, thoughts or anything that you want to throw our way.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 850.5,
+      "end_time": 858.14
+    },
+    {
+      "text": "And I think it would be good to just review again at the end of the month, like you say, and just see if it's gone back to the reply rate that we expect.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 858.26,
+      "end_time": 868.44
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 868.74,
+      "end_time": 869.964
+    },
+    {
+      "text": "And obviously Danny has had his way of working with you previously, but I think that for us, as an organization, the sort of weekly meets are probably a little bit too much.",
+      "speaker_name": "Andy Day",
+      "start_time": 870.012,
+      "end_time": 879.262
+    },
+    {
+      "text": "So if we could communicate via the Slack and then have a monthly update, because the slack is.",
+      "speaker_name": "Andy Day",
+      "start_time": 879.436,
+      "end_time": 885.034
+    },
+    {
+      "text": "Is pretty much immediate, I mean, certainly during office hours.",
+      "speaker_name": "Andy Day",
+      "start_time": 885.122,
+      "end_time": 888.57
+    },
+    {
+      "text": "But our team are located across the world, so we have people in Middle East.",
+      "speaker_name": "Andy Day",
+      "start_time": 888.61,
+      "end_time": 895.242
+    },
+    {
+      "text": "We have obviously us, ourselves based in London and Europe and then we've got a team in New York and one in Los Angeles as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 895.386,
+      "end_time": 905.178
+    },
+    {
+      "text": "So between all of us, if you just put something in the Slack channel, you're bound to be.",
+      "speaker_name": "Andy Day",
+      "start_time": 905.234,
+      "end_time": 910.146
+    },
+    {
+      "text": "One of us is wake.",
+      "speaker_name": "Andy Day",
+      "start_time": 910.218,
+      "end_time": 911.91
+    },
+    {
+      "text": "So it's definitely worth doing it that way.",
+      "speaker_name": "Andy Day",
+      "start_time": 913.53,
+      "end_time": 915.858
+    },
+    {
+      "text": "And then obviously if there is any immediate issues that you need to discuss, then of course we're available.",
+      "speaker_name": "Andy Day",
+      "start_time": 915.914,
+      "end_time": 921.602
+    },
+    {
+      "text": "So you can book straight into my calendar or just call me up, which is absolutely fine with me as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 921.706,
+      "end_time": 927.79
+    },
+    {
+      "text": "Brilliant then.",
+      "speaker_name": "Andy Day",
+      "start_time": 928.09,
+      "end_time": 929.314
+    },
+    {
+      "text": "Yeah, if we have a monthly one, then we can prepare properly.",
+      "speaker_name": "Andy Day",
+      "start_time": 929.402,
+      "end_time": 932.354
+    },
+    {
+      "text": "We can make sure that we have some suggestions as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 932.482,
+      "end_time": 935.93
+    },
+    {
+      "text": "Like you're saying, Natalie, so that we can come to that meeting.",
+      "speaker_name": "Andy Day",
+      "start_time": 935.97,
+      "end_time": 938.954
+    },
+    {
+      "text": "I think on a weekly basis.",
+      "speaker_name": "Andy Day",
+      "start_time": 939.042,
+      "end_time": 940.186
+    },
+    {
+      "text": "It does get a bit difficult to keep coming up with more things to say.",
+      "speaker_name": "Andy Day",
+      "start_time": 940.218,
+      "end_time": 943.386
+    },
+    {
+      "text": "Yeah, no, and I wouldn't.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 943.458,
+      "end_time": 944.634
+    },
+    {
+      "text": "Yeah, we didn't do.",
+      "speaker_name": "Sian Finn",
+      "start_time": 944.682,
+      "end_time": 945.706
+    },
+    {
+      "text": "We didn't want.",
+      "speaker_name": "Sian Finn",
+      "start_time": 945.778,
+      "end_time": 946.874
+    },
+    {
+      "text": "We didn't put them a weekly one in.",
+      "speaker_name": "Sian Finn",
+      "start_time": 946.962,
+      "end_time": 948.906
+    },
+    {
+      "text": "It was more to.",
+      "speaker_name": "Sian Finn",
+      "start_time": 949.058,
+      "end_time": 950.39
+    },
+    {
+      "text": "So Danny had a point of contact to make sure that we spoke that week.",
+      "speaker_name": "Sian Finn",
+      "start_time": 951.65,
+      "end_time": 955.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 956.21,
+      "end_time": 956.634
+    },
+    {
+      "text": "So if we.",
+      "speaker_name": "Andy Day",
+      "start_time": 956.682,
+      "end_time": 957.258
+    },
+    {
+      "text": "Oh, okay, so you didn't always.",
+      "speaker_name": "Andy Day",
+      "start_time": 957.314,
+      "end_time": 958.538
+    },
+    {
+      "text": "You didn't always take them up.",
+      "speaker_name": "Andy Day",
+      "start_time": 958.594,
+      "end_time": 959.514
+    },
+    {
+      "text": "Yeah, my social media girls, like that doesn't always need to speak to me.",
+      "speaker_name": "Andy Day",
+      "start_time": 959.522,
+      "end_time": 963.86
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 964.88,
+      "end_time": 965.144
+    },
+    {
+      "text": "Yeah, if we have a monthly one and then we can just use that one to discuss like strategy going forward and whether there's any updates or changes that we need to go and implement.",
+      "speaker_name": "Andy Day",
+      "start_time": 965.152,
+      "end_time": 975.18
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 975.92,
+      "end_time": 976.92
+    },
+    {
+      "text": "No, that's really great.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 977,
+      "end_time": 978.056
+    },
+    {
+      "text": "Well, thank you for, for that.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 978.128,
+      "end_time": 981.064
+    },
+    {
+      "text": "And if we, if we.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 981.152,
+      "end_time": 984.36
+    },
+    {
+      "text": "I know it won't be monthly, but if we can schedule something for the end of this month.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 984.48,
+      "end_time": 988.8
+    },
+    {
+      "text": "Yes, yeah, of course, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 988.96,
+      "end_time": 990.208
+    },
+    {
+      "text": "To catch up on this and then after that from that.",
+      "speaker_name": "Andy Day",
+      "start_time": 990.224,
+      "end_time": 993.12
+    },
+    {
+      "text": "Yeah, that would be great.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 993.16,
+      "end_time": 995.456
+    },
+    {
+      "text": "So is the best way to do that to book it in through your.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 995.528,
+      "end_time": 998.24
+    },
+    {
+      "text": "Calendar you can do.",
+      "speaker_name": "Andy Day",
+      "start_time": 998.28,
+      "end_time": 1000.4
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1000.44,
+      "end_time": 1001.456
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1001.488,
+      "end_time": 1001.872
+    },
+    {
+      "text": "If you've got.",
+      "speaker_name": "Andy Day",
+      "start_time": 1001.936,
+      "end_time": 1002.4
+    },
+    {
+      "text": "And then I'll just put a note monthly just to check the response rates.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1002.44,
+      "end_time": 1008.016
+    },
+    {
+      "text": "Yeah, I'll put a repeat one on and.",
+      "speaker_name": "Andy Day",
+      "start_time": 1008.208,
+      "end_time": 1009.872
+    },
+    {
+      "text": "Well, not just to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1009.896,
+      "end_time": 1010.992
+    },
+    {
+      "text": "Hopefully we can discuss strategy, you know, and best.",
+      "speaker_name": "Andy Day",
+      "start_time": 1011.016,
+      "end_time": 1013.168
+    },
+    {
+      "text": "Yeah, best practices across all of our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 1013.224,
+      "end_time": 1016.232
+    },
+    {
+      "text": "That's what we usually like to share.",
+      "speaker_name": "Andy Day",
+      "start_time": 1016.296,
+      "end_time": 1017.848
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Sian Finn",
+      "start_time": 1017.984,
+      "end_time": 1018.68
+    },
+    {
+      "text": "See, something that's working, that is different.",
+      "speaker_name": "Andy Day",
+      "start_time": 1018.84,
+      "end_time": 1021.608
+    },
+    {
+      "text": "So obviously these change all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1021.744,
+      "end_time": 1024.34
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1024.88,
+      "end_time": 1025.768
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1025.864,
+      "end_time": 1026.312
+    },
+    {
+      "text": "And look, we know we're not particularly demanding, I don't think.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1026.376,
+      "end_time": 1030.264
+    },
+    {
+      "text": "But now access to the emails that will save.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1030.352,
+      "end_time": 1035.192
+    },
+    {
+      "text": "Because a lot of the time was.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1035.256,
+      "end_time": 1036.872
+    },
+    {
+      "text": "We want.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1036.976,
+      "end_time": 1037.496
+    },
+    {
+      "text": "We were trying to get in touch with Danny because we wanted something changing on the content of the email which we would update regularly.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1037.568,
+      "end_time": 1044.164
+    },
+    {
+      "text": "But now that's been taken away.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1044.212,
+      "end_time": 1046.708
+    },
+    {
+      "text": "That's going to take away a lot of the.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1046.844,
+      "end_time": 1048.548
+    },
+    {
+      "text": "The toing and froing and the hassle factor for you guys.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1048.684,
+      "end_time": 1051.62
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Andy Day",
+      "start_time": 1051.78,
+      "end_time": 1052.58
+    },
+    {
+      "text": "And I mean, if you can self manage stuff, that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1052.62,
+      "end_time": 1056.484
+    },
+    {
+      "text": "That's half the battle, is that we get in your way.",
+      "speaker_name": "Andy Day",
+      "start_time": 1056.532,
+      "end_time": 1058.948
+    },
+    {
+      "text": "So of course, any feedback around that, what you feel like you don't have oversight of and would prefer to have more access.",
+      "speaker_name": "Andy Day",
+      "start_time": 1059.004,
+      "end_time": 1066
+    },
+    {
+      "text": "Because for us, we sort of work on tiered management and this is our lowest tier, so the more sort of self service we can get it, we would be happy anyway.",
+      "speaker_name": "Andy Day",
+      "start_time": 1067.5,
+      "end_time": 1077.39
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1077.55,
+      "end_time": 1078.318
+    },
+    {
+      "text": "Not saying we don't want to see you every month but, but you know.",
+      "speaker_name": "Andy Day",
+      "start_time": 1078.414,
+      "end_time": 1081.086
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1081.158,
+      "end_time": 1081.598
+    },
+    {
+      "text": "If you are, you know, if we're getting in your way and you're a marketer, qualified marketing manager, then why, why wouldn't you be doing it yourself?",
+      "speaker_name": "Andy Day",
+      "start_time": 1081.694,
+      "end_time": 1089.39
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1089.47,
+      "end_time": 1089.806
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1089.878,
+      "end_time": 1090.926
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1091.038,
+      "end_time": 1091.47
+    },
+    {
+      "text": "We're just providing the tools then and making sure that everything's up to date and that it all works.",
+      "speaker_name": "Andy Day",
+      "start_time": 1091.55,
+      "end_time": 1096.53
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Sian Finn",
+      "start_time": 1096.86,
+      "end_time": 1098.12
+    },
+    {
+      "text": "Yeah, perfect.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1098.62,
+      "end_time": 1099.764
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1099.812,
+      "end_time": 1100.436
+    },
+    {
+      "text": "All right then, Andy, well, thanks so much for your time.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1100.508,
+      "end_time": 1102.596
+    },
+    {
+      "text": "Really lovely to meet you.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1102.668,
+      "end_time": 1103.876
+    },
+    {
+      "text": "My pleasure.",
+      "speaker_name": "Andy Day",
+      "start_time": 1103.948,
+      "end_time": 1104.452
+    },
+    {
+      "text": "Good to meet you too.",
+      "speaker_name": "Andy Day",
+      "start_time": 1104.516,
+      "end_time": 1105.444
+    },
+    {
+      "text": "And we'll touch base again in a couple of weeks.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1105.532,
+      "end_time": 1108.516
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1108.668,
+      "end_time": 1109.22
+    },
+    {
+      "text": "All right, lovely.",
+      "speaker_name": "Sian Finn",
+      "start_time": 1109.3,
+      "end_time": 1110.6
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Natalie Leaf - Goodfoot",
+      "start_time": 1111.42,
+      "end_time": 1112.196
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "Sian Finn",
+      "start_time": 1112.268,
+      "end_time": 1112.932
+    },
+    {
+      "text": "You're welcome.",
+      "speaker_name": "Andy Day",
+      "start_time": 1113.036,
+      "end_time": 1113.96
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Sian Finn",
+      "start_time": 1114.62,
+      "end_time": 1115.1
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Email marketing",
+      "Leadership training",
+      "Reply rates",
+      "Sales funnel",
+      "Communication channels",
+      "Client acquisition"
+    ],
+    "action_items": "\n**Natalie Leaf**\nSchedule a monthly meeting for the end of March to review email response rates (16:29)\n\n**Sian Finn**\nUse Slack channel for direct communication with Capital A team for any immediate issues (13:05)\n\n**Andy Day**\nSet up a recurring monthly meeting with Goodfoot team to discuss strategy and best practices (16:48)\n",
+    "outline": null,
+    "overview": "In a recent Client Relationship Management meeting, Sian Finn and Natalie Leaf from Goodfoot engaged with Andy Day from Capital A Group to discuss their ongoing partnership and marketing strategies. Goodfoot, a leadership and management training company with over 20 years of experience, serves a range of corporate clients, while Capital A Group, an M&A advisory firm, aims to enhance the services previously provided by Daniel's business, now rebranded as DLA Engines. The meeting highlighted a review of email marketing performance, revealing declining reply rates that were addressed after fixing a throttling issue. They discussed the potential for improving response rates through Slack communication and a new monthly meeting cadence to align on strategies. Action items included scheduling future meetings and utilizing Slack for real-time communication to streamline collaboration and enhance marketing effectiveness.",
+    "short_summary": "Sian Finn and Natalie Leaf from Goodfoot engaged with Andy Day from Capital A Group in a meeting focusing on their partnership and marketing strategies. Goodfoot, a leadership and management training company with over 20 years of experience, serves diverse corporate clients and is adjusting its marketing tactics. The meeting highlighted a review of email marketing performance, revealing a decline in reply rates from 0.3% to 0.1%, which was attributed to a throttling issue that has since been resolved. They discussed improving response rates through Slack communication and a new monthly meeting schedule to align on strategies. Action items included scheduling future meetings and utilizing Slack for real-time communication to streamline collaboration and enhance marketing effectiveness.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JP06K83JY6ZB3WDPNW8HRB9J",
+  "audio_url": "https://cdn.fireflies.ai/01JP06K83JY6ZB3WDPNW8HRB9J/audio.mp3?Expires=1773220871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlAwNks4M0pZNlpCM1dEUE5XOEhSQjlKL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg3MX19fV19&Signature=NanHbIvMiJiY19mJlxWZZUbSEcImIgNJKlc5sFSH8r7eCePtZXRgQPzGHr-BSFLD7NAx4ETNc-p4sNvVtnpjlHxQ0uoqx5w3FXa4sQ8o5fZ5St9jJPX8557FzpCKt~o1WrBm2MbRkV7QV813Qhr1wulgGHlnWpTjRt8WqL3baMzWE9xbmrMKm4P8ryaIpCQMN5hrhchywx~gSXttqIqLtnTbbQV8EV-gez0k4~sWeJLzmP7-mjhp3xjRZ0mJTDYHLWUfzQKsQasLtOXpFH6i8WksgDoENIuWGk9HBZ7jROKbxsvncAH9lYNIrE45w3VHsoXouqiIesn0vOay04gsWQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

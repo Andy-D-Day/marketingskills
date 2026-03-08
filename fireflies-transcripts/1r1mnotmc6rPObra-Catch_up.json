@@ -1,0 +1,2388 @@
+{
+  "id": "1r1mnotmc6rPObra",
+  "title": "Catch up",
+  "date": 1738076400000,
+  "dateString": "2025-01-28T15:00:00.000Z",
+  "duration": 34,
+  "participants": [
+    "randy@nextnowagency.com,alan@nextnowagency.com,andrew.day@capitala.co,ahmed.zia@capitala.co,andy.day@capitala.co",
+    "alan@nextnowagency.com",
+    "andrew.day@capitala.co",
+    "ahmed.zia@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "randy@nextnowagency.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "alan@nextnowagency.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pencil case.",
+      "speaker_name": "alan",
+      "start_time": 0.24,
+      "end_time": 1.144
+    },
+    {
+      "text": "Pencils.",
+      "speaker_name": "alan",
+      "start_time": 1.312,
+      "end_time": 2.088
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2.184,
+      "end_time": 4.14
+    },
+    {
+      "text": "With lots of paper.",
+      "speaker_name": "alan",
+      "start_time": 7.36,
+      "end_time": 8.94
+    },
+    {
+      "text": "A lunch box.",
+      "speaker_name": "alan",
+      "start_time": 10.64,
+      "end_time": 11.928
+    },
+    {
+      "text": "With some lunch and snacks.",
+      "speaker_name": "alan",
+      "start_time": 12.024,
+      "end_time": 13.928
+    },
+    {
+      "text": "Morning, Randy.",
+      "speaker_name": "alan",
+      "start_time": 14.104,
+      "end_time": 15.5
+    },
+    {
+      "text": "Oh, Al.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 16.56,
+      "end_time": 17.208
+    },
+    {
+      "text": "What's up, dude?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 17.264,
+      "end_time": 18.136
+    },
+    {
+      "text": "Can you hear me?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 18.248,
+      "end_time": 19.336
+    },
+    {
+      "text": "Yeah, I can.",
+      "speaker_name": "alan",
+      "start_time": 19.488,
+      "end_time": 20.248
+    },
+    {
+      "text": "You surviving?",
+      "speaker_name": "alan",
+      "start_time": 20.304,
+      "end_time": 21.26
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 21.6,
+      "end_time": 22.072
+    },
+    {
+      "text": "I'm gonna jump off, though, so you can jump on with him.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 22.136,
+      "end_time": 24.904
+    },
+    {
+      "text": "Yeah, I'll give you a shout after.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 25.072,
+      "end_time": 27.064
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "alan",
+      "start_time": 27.232,
+      "end_time": 27.72
+    },
+    {
+      "text": "Sounds good, man.",
+      "speaker_name": "alan",
+      "start_time": 27.76,
+      "end_time": 28.408
+    },
+    {
+      "text": "All right, tell them your name.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 28.464,
+      "end_time": 31.06
+    },
+    {
+      "text": "Let's sing a song.",
+      "speaker_name": "Andy Day",
+      "start_time": 31.36,
+      "end_time": 32.94
+    },
+    {
+      "text": "Good morning.",
+      "speaker_name": "alan",
+      "start_time": 47.52,
+      "end_time": 48.5
+    },
+    {
+      "text": "Hi, it's Alan.",
+      "speaker_name": "alan",
+      "start_time": 124.83,
+      "end_time": 126.17
+    },
+    {
+      "text": "Check.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 235.04,
+      "end_time": 235.82
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "alan",
+      "start_time": 339.48,
+      "end_time": 340.42
+    },
+    {
+      "text": "Andy, are you there?",
+      "speaker_name": "alan",
+      "start_time": 345.56,
+      "end_time": 347.02
+    },
+    {
+      "text": "Hi, Ellen.",
+      "speaker_name": "Andy Day",
+      "start_time": 347.88,
+      "end_time": 348.656
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 348.688,
+      "end_time": 349.5
+    },
+    {
+      "text": "I doing all right.",
+      "speaker_name": "alan",
+      "start_time": 349.8,
+      "end_time": 350.8
+    },
+    {
+      "text": "Apologies.",
+      "speaker_name": "alan",
+      "start_time": 350.84,
+      "end_time": 351.344
+    },
+    {
+      "text": "I'm in my car futzing around with the.",
+      "speaker_name": "alan",
+      "start_time": 351.392,
+      "end_time": 353.9
+    },
+    {
+      "text": "With the zoom.",
+      "speaker_name": "alan",
+      "start_time": 354.44,
+      "end_time": 355.392
+    },
+    {
+      "text": "How's your day going?",
+      "speaker_name": "alan",
+      "start_time": 355.456,
+      "end_time": 356.7
+    },
+    {
+      "text": "Yeah, not too bad, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 357.24,
+      "end_time": 358.56
+    },
+    {
+      "text": "It's a busy day today.",
+      "speaker_name": "Andy Day",
+      "start_time": 358.6,
+      "end_time": 359.872
+    },
+    {
+      "text": "Strange.",
+      "speaker_name": "Andy Day",
+      "start_time": 359.976,
+      "end_time": 360.384
+    },
+    {
+      "text": "I've got about another 4, 5 meetings to go after this one.",
+      "speaker_name": "Andy Day",
+      "start_time": 360.432,
+      "end_time": 363.746
+    },
+    {
+      "text": "Oh, my gosh.",
+      "speaker_name": "alan",
+      "start_time": 363.818,
+      "end_time": 364.93
+    },
+    {
+      "text": "Yeah, well, that's not a bad thing, I guess.",
+      "speaker_name": "alan",
+      "start_time": 365.09,
+      "end_time": 368.07
+    },
+    {
+      "text": "Well, there's three easy ways to earn money, but, yeah, too bad.",
+      "speaker_name": "Andy Day",
+      "start_time": 369.69,
+      "end_time": 373.378
+    },
+    {
+      "text": "So.",
+      "speaker_name": "alan",
+      "start_time": 373.434,
+      "end_time": 373.986
+    },
+    {
+      "text": "So, Andy, I think we've spoken at least once in the past, but we're curious to hear, you know, what's evolved, what opportunities are you seeing?",
+      "speaker_name": "alan",
+      "start_time": 374.138,
+      "end_time": 383.602
+    },
+    {
+      "text": "I can bring you up to speed on where we're.",
+      "speaker_name": "alan",
+      "start_time": 383.746,
+      "end_time": 385.714
+    },
+    {
+      "text": "We're at in our kind of process.",
+      "speaker_name": "alan",
+      "start_time": 385.762,
+      "end_time": 388.44
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 389.3,
+      "end_time": 390.14
+    },
+    {
+      "text": "I think we.",
+      "speaker_name": "Andy Day",
+      "start_time": 390.26,
+      "end_time": 390.828
+    },
+    {
+      "text": "We spoke several times, actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 390.884,
+      "end_time": 392.284
+    },
+    {
+      "text": "Maybe.",
+      "speaker_name": "Andy Day",
+      "start_time": 392.372,
+      "end_time": 393.04
+    },
+    {
+      "text": "Could be.",
+      "speaker_name": "Andy Day",
+      "start_time": 394.34,
+      "end_time": 395.32
+    },
+    {
+      "text": "Could be that we shared a zoom more often than that as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 395.7,
+      "end_time": 399.052
+    },
+    {
+      "text": "With the Skyview guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 399.076,
+      "end_time": 400.72
+    },
+    {
+      "text": "Yeah, that's right.",
+      "speaker_name": "alan",
+      "start_time": 401.54,
+      "end_time": 402.3
+    },
+    {
+      "text": "That's right.",
+      "speaker_name": "alan",
+      "start_time": 402.34,
+      "end_time": 402.924
+    },
+    {
+      "text": "What are we seeing?",
+      "speaker_name": "Andy Day",
+      "start_time": 403.012,
+      "end_time": 403.836
+    },
+    {
+      "text": "Well, it's been a year since we last spoke.",
+      "speaker_name": "Andy Day",
+      "start_time": 403.868,
+      "end_time": 406.16
+    },
+    {
+      "text": "I think you'll probably be seeing the same sort of thing, but the industry has moved quite quickly since we last spoke.",
+      "speaker_name": "Andy Day",
+      "start_time": 407.06,
+      "end_time": 414.732
+    },
+    {
+      "text": "And also sort of the financial stoppers have come unstopped.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.796,
+      "end_time": 420.62
+    },
+    {
+      "text": "And I think we've seen a lot more investment into the marketplace as well, particularly from private equity, who was suffering from a bunch of different things, and large agencies who were suffering from things like the tech layoffs and the scriptwriters strikes, etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 421.04,
+      "end_time": 440.216
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 440.248,
+      "end_time": 440.6
+    },
+    {
+      "text": "Which was affecting a lot of ad spend across the board.",
+      "speaker_name": "Andy Day",
+      "start_time": 440.68,
+      "end_time": 444.012
+    },
+    {
+      "text": "So, yeah, things have been moving very quickly.",
+      "speaker_name": "Andy Day",
+      "start_time": 444.116,
+      "end_time": 447.404
+    },
+    {
+      "text": "A lot of acquisitions been taking place.",
+      "speaker_name": "Andy Day",
+      "start_time": 447.452,
+      "end_time": 449.64
+    },
+    {
+      "text": "In particular, Skyview have closed two acquisitions.",
+      "speaker_name": "Andy Day",
+      "start_time": 450.18,
+      "end_time": 453.692
+    },
+    {
+      "text": "I don't know if you've seen any of it reported in the press, but they closed the deal with omm, which is sports agency and tech agency based in the uk.",
+      "speaker_name": "Andy Day",
+      "start_time": 453.756,
+      "end_time": 467.24
+    },
+    {
+      "text": "And they also closed the deal with Hovercraft, which is based in the west coast.",
+      "speaker_name": "Andy Day",
+      "start_time": 468.42,
+      "end_time": 474.66
+    },
+    {
+      "text": "Yep, we know them.",
+      "speaker_name": "alan",
+      "start_time": 475.08,
+      "end_time": 476.144
+    },
+    {
+      "text": "We know them fairly well.",
+      "speaker_name": "alan",
+      "start_time": 476.232,
+      "end_time": 477.536
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "alan",
+      "start_time": 477.608,
+      "end_time": 478.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 479.08,
+      "end_time": 479.6
+    },
+    {
+      "text": "I hear that relations are quite intertwined as well, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 479.68,
+      "end_time": 485.792
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 485.896,
+      "end_time": 487.392
+    },
+    {
+      "text": "So the reason why Ahmed was reaching out is because Skyview are still very acquisitive They've closed these two deals, but they're looking for one or two more.",
+      "speaker_name": "Andy Day",
+      "start_time": 487.456,
+      "end_time": 496.46
+    },
+    {
+      "text": "And obviously your name came up again because they were extremely interested and very close to making you an offer last time.",
+      "speaker_name": "Andy Day",
+      "start_time": 496.83,
+      "end_time": 503.382
+    },
+    {
+      "text": "But I think the only thing that held us up was initially just a lack of financials from your side.",
+      "speaker_name": "Andy Day",
+      "start_time": 503.406,
+      "end_time": 508.79
+    },
+    {
+      "text": "And then I think you felt you were too busy to sort of get bogged down with negotiating an offer as you had a few more things that you wanted to do as an agency before you sold.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.83,
+      "end_time": 521.19
+    },
+    {
+      "text": "So, yeah, I'm here again, basically just to see whether things have changed a year later.",
+      "speaker_name": "Andy Day",
+      "start_time": 521.27,
+      "end_time": 526.77
+    },
+    {
+      "text": "And obviously now that they've made two acquisitions, I think there was nerves on your part that they were an unknown quantity and they hadn't acquired any businesses, whereas now they're obviously established with two acquisitions under their belts.",
+      "speaker_name": "Andy Day",
+      "start_time": 527.63,
+      "end_time": 542.342
+    },
+    {
+      "text": "Yeah, 100%.",
+      "speaker_name": "alan",
+      "start_time": 542.486,
+      "end_time": 543.542
+    },
+    {
+      "text": "So, yeah, I think you summed it up pretty well.",
+      "speaker_name": "alan",
+      "start_time": 543.646,
+      "end_time": 545.942
+    },
+    {
+      "text": "I think we're.",
+      "speaker_name": "alan",
+      "start_time": 545.966,
+      "end_time": 546.854
+    },
+    {
+      "text": "Well, I'll bring you up to speed on where we're at.",
+      "speaker_name": "alan",
+      "start_time": 546.982,
+      "end_time": 549.078
+    },
+    {
+      "text": "We're definitely in the mindset to dive deep and explore options right now.",
+      "speaker_name": "alan",
+      "start_time": 549.134,
+      "end_time": 555.01
+    },
+    {
+      "text": "We've got a couple Convos going that are interesting.",
+      "speaker_name": "alan",
+      "start_time": 555.72,
+      "end_time": 559.36
+    },
+    {
+      "text": "The Skyview one, Randy and I were talking about it a few weeks ago and we brought up Skyview and then we saw the Hovercraft acquisition.",
+      "speaker_name": "alan",
+      "start_time": 559.44,
+      "end_time": 566.74
+    },
+    {
+      "text": "So I think it's pretty interesting.",
+      "speaker_name": "alan",
+      "start_time": 568.52,
+      "end_time": 570.5
+    },
+    {
+      "text": "Can you remind me, so, say, with Hovercraft, can you give me any broad brush strokes of how that deal was structured or give me any insight into, you know, what the, how that went?",
+      "speaker_name": "alan",
+      "start_time": 572.04,
+      "end_time": 587.34
+    },
+    {
+      "text": "Well, it's a, it's a private transaction, obviously.",
+      "speaker_name": "Andy Day",
+      "start_time": 588.04,
+      "end_time": 591.232
+    },
+    {
+      "text": "So I, yeah, see, to, to speak for either the founders or for Skyview.",
+      "speaker_name": "Andy Day",
+      "start_time": 591.296,
+      "end_time": 596.9
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "alan",
+      "start_time": 597.4,
+      "end_time": 598.288
+    },
+    {
+      "text": "The, the acquisition, yeah, it was fairly quick.",
+      "speaker_name": "Andy Day",
+      "start_time": 598.464,
+      "end_time": 603.776
+    },
+    {
+      "text": "I think it took about three months, start to finish, to negotiate and get the deal closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 603.848,
+      "end_time": 609.71
+    },
+    {
+      "text": "And then Hovercraft spent another month internally before they released the information.",
+      "speaker_name": "Andy Day",
+      "start_time": 610.21,
+      "end_time": 616.618
+    },
+    {
+      "text": "So it was a quick transaction.",
+      "speaker_name": "Andy Day",
+      "start_time": 616.754,
+      "end_time": 619.79
+    },
+    {
+      "text": "Just generally speaking about the offers that Skyview make, they tend to be half cash up front and then a percentage of equity in the holding company and then a period of earn out, usually three to five years.",
+      "speaker_name": "Andy Day",
+      "start_time": 620.77,
+      "end_time": 639.128
+    },
+    {
+      "text": "In general, when it comes to agencies, they, they follow a pretty standard approach in that sense in terms of multiples each.",
+      "speaker_name": "Andy Day",
+      "start_time": 639.184,
+      "end_time": 648.84
+    },
+    {
+      "text": "Multiples separate, you know, for, for each company.",
+      "speaker_name": "Andy Day",
+      "start_time": 648.88,
+      "end_time": 654.088
+    },
+    {
+      "text": "It depends on lots of factors, quality of clients, length of contracts, type of work they do, et cetera, et cetera.",
+      "speaker_name": "Andy Day",
+      "start_time": 654.144,
+      "end_time": 661.576
+    },
+    {
+      "text": "But they are fairly generous.",
+      "speaker_name": "Andy Day",
+      "start_time": 661.608,
+      "end_time": 665.346
+    },
+    {
+      "text": "They're on the generous side of offers.",
+      "speaker_name": "Andy Day",
+      "start_time": 665.378,
+      "end_time": 667.67
+    },
+    {
+      "text": "So I can't really go into details.",
+      "speaker_name": "Andy Day",
+      "start_time": 668.33,
+      "end_time": 670.706
+    },
+    {
+      "text": "No.",
+      "speaker_name": "alan",
+      "start_time": 670.898,
+      "end_time": 671.442
+    },
+    {
+      "text": "And Andy, I, I, I didn't, I'm sorry.",
+      "speaker_name": "alan",
+      "start_time": 671.546,
+      "end_time": 674.146
+    },
+    {
+      "text": "I probably Asked that wrong, I was more concerned, I was more wondering about how smooth the deal went.",
+      "speaker_name": "alan",
+      "start_time": 674.178,
+      "end_time": 680.146
+    },
+    {
+      "text": "Timeline.",
+      "speaker_name": "alan",
+      "start_time": 680.298,
+      "end_time": 681.074
+    },
+    {
+      "text": "The deal was pretty smooth.",
+      "speaker_name": "Andy Day",
+      "start_time": 681.202,
+      "end_time": 682.418
+    },
+    {
+      "text": "Yeah, the deal was pretty smooth.",
+      "speaker_name": "Andy Day",
+      "start_time": 682.594,
+      "end_time": 684.818
+    },
+    {
+      "text": "I think when I was speaking to you, we, we, we didn't speak to my colleague Heather as well, but Heather was actually very much in sort of control of the relationship with hovercraft.",
+      "speaker_name": "Andy Day",
+      "start_time": 684.914,
+      "end_time": 698.464
+    },
+    {
+      "text": "So early days, I didn't really speak to them when they were making a decision of whether they wanted to hear more or not.",
+      "speaker_name": "Andy Day",
+      "start_time": 698.512,
+      "end_time": 704.4
+    },
+    {
+      "text": "But yeah, like I say, it went very smoothly.",
+      "speaker_name": "Andy Day",
+      "start_time": 704.44,
+      "end_time": 707.744
+    },
+    {
+      "text": "It was very, very quick transaction considering the size of hovercraft as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 707.792,
+      "end_time": 712.3
+    },
+    {
+      "text": "And yeah, as far as I know, nobody's fallen out yet, so that's definitely a good yardstick.",
+      "speaker_name": "Andy Day",
+      "start_time": 713.77,
+      "end_time": 719.43
+    },
+    {
+      "text": "But yeah, it was.",
+      "speaker_name": "Andy Day",
+      "start_time": 719.85,
+      "end_time": 720.994
+    },
+    {
+      "text": "It's gone well.",
+      "speaker_name": "Andy Day",
+      "start_time": 721.162,
+      "end_time": 722.27
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "alan",
+      "start_time": 722.81,
+      "end_time": 723.506
+    },
+    {
+      "text": "Well, I'll kind of give you the broad brush strokes of, of where we're at right now.",
+      "speaker_name": "alan",
+      "start_time": 723.658,
+      "end_time": 728.066
+    },
+    {
+      "text": "So our financials for this last year, we're getting wrapped up, but we're, yeah, I think just over 6 million in billings.",
+      "speaker_name": "alan",
+      "start_time": 728.138,
+      "end_time": 736.098
+    },
+    {
+      "text": "Our EBITDA is nowhere near where we want it to be.",
+      "speaker_name": "alan",
+      "start_time": 736.194,
+      "end_time": 739.31
+    },
+    {
+      "text": "So kind of the deals that we're looking at are we're happy to bake in performance based on set EBITDA in next year and the year after that and the year after that.",
+      "speaker_name": "alan",
+      "start_time": 739.63,
+      "end_time": 753.01
+    },
+    {
+      "text": "We're highly focused now on building our AI AI capabilities and probably two out of three projects that we're working on right now are AI based, which we think is a, is a growth area and a nice thing for us.",
+      "speaker_name": "alan",
+      "start_time": 756.51,
+      "end_time": 778.028
+    },
+    {
+      "text": "So that, that's kind of big picture.",
+      "speaker_name": "alan",
+      "start_time": 778.084,
+      "end_time": 781.244
+    },
+    {
+      "text": "Where we are at is does that sound like something that is worth having further conversations with or are they focused on existing EBITDA right now and assigning a multiple to that?",
+      "speaker_name": "alan",
+      "start_time": 781.292,
+      "end_time": 795.17
+    },
+    {
+      "text": "Yeah, so obviously valuations usually based on multiples and ebitda.",
+      "speaker_name": "Andy Day",
+      "start_time": 795.95,
+      "end_time": 800.806
+    },
+    {
+      "text": "I do know that we have spoken to several agencies where talks have progressed that didn't close, that were based on future ebitda.",
+      "speaker_name": "Andy Day",
+      "start_time": 800.918,
+      "end_time": 811.526
+    },
+    {
+      "text": "And these guys are, you know, they're seasoned experts in M and A and they're very aware that agency businesses do have ups and downs, good years and bad years.",
+      "speaker_name": "Andy Day",
+      "start_time": 811.558,
+      "end_time": 821.854
+    },
+    {
+      "text": "So they are prepared to bake in those kinds of calculations where perhaps there is, you know, sort of introductory deal to get done and then obviously as the year progresses and, and you will be part of a bigger company as well, but the value of the business will grow under, under them and they're happy to help with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 821.942,
+      "end_time": 847.362
+    },
+    {
+      "text": "But obviously your EBITDA margin will grow for that second, third, fourth year as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 847.386,
+      "end_time": 851.39
+    },
+    {
+      "text": "And that will help to get more value out of the deal as you know, you spend longer with.",
+      "speaker_name": "Andy Day",
+      "start_time": 852.09,
+      "end_time": 859.394
+    },
+    {
+      "text": "Within the larger company, so they definitely can accommodate those types of situations.",
+      "speaker_name": "Andy Day",
+      "start_time": 859.562,
+      "end_time": 865.442
+    },
+    {
+      "text": "Just out of interest, what is the margin at the moment on the 6 million for this last financial year?",
+      "speaker_name": "Andy Day",
+      "start_time": 865.586,
+      "end_time": 871.15
+    },
+    {
+      "text": "We were just, just about break even this last year.",
+      "speaker_name": "alan",
+      "start_time": 871.45,
+      "end_time": 875.63
+    },
+    {
+      "text": "So we're right at our point.",
+      "speaker_name": "alan",
+      "start_time": 876.09,
+      "end_time": 878.35
+    },
+    {
+      "text": "We're right at the point where we're projecting to do another million, million and a half, 2 million this year, where that will follow the bottom line, and we're confident with that.",
+      "speaker_name": "alan",
+      "start_time": 879.05,
+      "end_time": 889.47
+    },
+    {
+      "text": "So you think you'll do another 2 million on top of the 6, you mean?",
+      "speaker_name": "Andy Day",
+      "start_time": 890.97,
+      "end_time": 894.85
+    },
+    {
+      "text": "So you're like.",
+      "speaker_name": "Andy Day",
+      "start_time": 894.97,
+      "end_time": 895.698
+    },
+    {
+      "text": "Yeah, I would say safely, we're projecting at least 7 million this year, 7.2, 7.5.",
+      "speaker_name": "alan",
+      "start_time": 895.754,
+      "end_time": 902.36
+    },
+    {
+      "text": "And basically all of that falls, all the additional above the six pretty much falls to ebitda, the way that we're structured right now.",
+      "speaker_name": "alan",
+      "start_time": 903.3,
+      "end_time": 910.6
+    },
+    {
+      "text": "Okay, well, look, these guys really like your work.",
+      "speaker_name": "Andy Day",
+      "start_time": 914.98,
+      "end_time": 918.668
+    },
+    {
+      "text": "Obviously they know there's personal connection across the businesses as well, and that you would be a great business to.",
+      "speaker_name": "Andy Day",
+      "start_time": 918.804,
+      "end_time": 925.64
+    },
+    {
+      "text": "To work alongside the teammates there at Hovercraft.",
+      "speaker_name": "Andy Day",
+      "start_time": 926.33,
+      "end_time": 931.59
+    },
+    {
+      "text": "I think it's definitely worth having a conversation now in terms of the work that you're doing as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 932.49,
+      "end_time": 938.706
+    },
+    {
+      "text": "You know, one of the big things that they're working on at the moment is AI, you know, AI driven, particularly in sort of providing solutions in live scenarios.",
+      "speaker_name": "Andy Day",
+      "start_time": 938.778,
+      "end_time": 949.362
+    },
+    {
+      "text": "I think one of the things that they discuss.",
+      "speaker_name": "Andy Day",
+      "start_time": 949.426,
+      "end_time": 950.946
+    },
+    {
+      "text": "I can't remember who the person is, but it's kind of resurrecting old stars and being able to infuse them with an AI personality that people can communicate.",
+      "speaker_name": "Andy Day",
+      "start_time": 951.018,
+      "end_time": 962.316
+    },
+    {
+      "text": "I don't know if that's what you're thinking of, but certainly some of the work that they're getting at the moment is around that they're very sort of focused on creative strategy as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 962.348,
+      "end_time": 972.14
+    },
+    {
+      "text": "And because of their connection with OMM and the work they do with sports brands as well as sports teams, they're looking at fan engagement and some other stuff as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 972.18,
+      "end_time": 983.214
+    },
+    {
+      "text": "So that kind of fan experience and sports sponsorship and being able to provide sort of immersive environments for the clients is something that they're very keen to provide more of.",
+      "speaker_name": "Andy Day",
+      "start_time": 983.302,
+      "end_time": 995.742
+    },
+    {
+      "text": "And I know you guys have done a lot in this sort of immersive and AI space, so they would be keen and definitely sort of joining forces and seeing how you could work together.",
+      "speaker_name": "Andy Day",
+      "start_time": 995.766,
+      "end_time": 1005.264
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "alan",
+      "start_time": 1005.422,
+      "end_time": 1005.804
+    },
+    {
+      "text": "It's pretty interesting.",
+      "speaker_name": "alan",
+      "start_time": 1005.852,
+      "end_time": 1006.844
+    },
+    {
+      "text": "Andy, are you talking about OMM or are you talking about Hovercraft with the.",
+      "speaker_name": "alan",
+      "start_time": 1006.892,
+      "end_time": 1010.252
+    },
+    {
+      "text": "Sports angle, so is particularly immersed?",
+      "speaker_name": "Andy Day",
+      "start_time": 1010.276,
+      "end_time": 1016.08
+    },
+    {
+      "text": "Yeah, so that's given them a sort of a direction, certainly.",
+      "speaker_name": "Andy Day",
+      "start_time": 1016.5,
+      "end_time": 1021.34
+    },
+    {
+      "text": "But Hovercraft themselves have Lots of sports brands, Nike, the bigger ones that they're working with directly, as well as sports teams.",
+      "speaker_name": "Andy Day",
+      "start_time": 1021.5,
+      "end_time": 1030.06
+    },
+    {
+      "text": "The NFL, for instance, is involved in both with both, including OMM in Europe, where they have some games out in Europe and in the UK as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1030.22,
+      "end_time": 1043.466
+    },
+    {
+      "text": "So, yeah, it covers both businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 1043.538,
+      "end_time": 1049.23
+    },
+    {
+      "text": "Yeah, I mean, it sounds like a generally good fit word.",
+      "speaker_name": "alan",
+      "start_time": 1049.65,
+      "end_time": 1055.194
+    },
+    {
+      "text": "We work with the NBA, we work with a number of sports teams.",
+      "speaker_name": "alan",
+      "start_time": 1055.322,
+      "end_time": 1060.066
+    },
+    {
+      "text": "We love that space as well.",
+      "speaker_name": "alan",
+      "start_time": 1060.178,
+      "end_time": 1061.666
+    },
+    {
+      "text": "So there may be some synergy through that.",
+      "speaker_name": "alan",
+      "start_time": 1061.738,
+      "end_time": 1065.39
+    },
+    {
+      "text": "Hey, can you guys hear me?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1067.29,
+      "end_time": 1068.818
+    },
+    {
+      "text": "Hey, Andy.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1068.954,
+      "end_time": 1069.634
+    },
+    {
+      "text": "Sorry, I was.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1069.682,
+      "end_time": 1070.37
+    },
+    {
+      "text": "It's Randy.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1070.41,
+      "end_time": 1071.202
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1071.266,
+      "end_time": 1071.778
+    },
+    {
+      "text": "I get a newborn from last week, so I'm all over the place right now.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1071.914,
+      "end_time": 1075.87
+    },
+    {
+      "text": "I get a couple questions for you.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1077.45,
+      "end_time": 1079.122
+    },
+    {
+      "text": "You know, when we saw that they did the deal with those two groups, and I'm trying to unpack a little bit about the Skyview group, and I know there were two gentlemen that were involved, but, like, when I look on their website, I only see, I think, one of the guys, like, what's that structure then?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1079.226,
+      "end_time": 1095.26
+    },
+    {
+      "text": "What are they structuring?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1095.3,
+      "end_time": 1096.46
+    },
+    {
+      "text": "Just the overall holding company.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1096.62,
+      "end_time": 1098.316
+    },
+    {
+      "text": "And like, when Hovercraft's coming in, like, what are the roles of their leadership team and is everybody sharing across the business?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1098.388,
+      "end_time": 1105.484
+    },
+    {
+      "text": "Is there a sales team?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1105.572,
+      "end_time": 1106.844
+    },
+    {
+      "text": "Like, what's.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1106.932,
+      "end_time": 1107.484
+    },
+    {
+      "text": "What's that look like?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1107.532,
+      "end_time": 1108.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1109.62,
+      "end_time": 1110.044
+    },
+    {
+      "text": "So obviously, still early days and.",
+      "speaker_name": "Andy Day",
+      "start_time": 1110.092,
+      "end_time": 1111.58
+    },
+    {
+      "text": "And still time to get sort of seats on the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1111.62,
+      "end_time": 1114.108
+    },
+    {
+      "text": "On the bus and get people in different places.",
+      "speaker_name": "Andy Day",
+      "start_time": 1114.164,
+      "end_time": 1115.896
+    },
+    {
+      "text": "But generally speaking, Skyview is the holding company and they are providing the infrastructure and obviously the finance capital and sort of leadership for the group.",
+      "speaker_name": "Andy Day",
+      "start_time": 1115.928,
+      "end_time": 1127.22
+    },
+    {
+      "text": "In terms of the hovercraft team, they are providing a lot of the creative direction, and I think even though they are combining OMM and Hovercraft, that they are leading on the creative side of things.",
+      "speaker_name": "Andy Day",
+      "start_time": 1128.08,
+      "end_time": 1139.08
+    },
+    {
+      "text": "OMM has provided Hovercraft with a UK and European footprint, which is helping them already to win deals with some of their sort of established clients, but now on projects that are based in Europe and led by the existing OMM team, but rebranded under Hovercraft.",
+      "speaker_name": "Andy Day",
+      "start_time": 1139.2,
+      "end_time": 1157.838
+    },
+    {
+      "text": "Okay, then OMM have some other business that's not directly related to that, but they are involved with some smart stadium services in the uk, so the Premiership teams in particular, and some of the European competitions as well, which they provide some of the smart stadium solutions for.",
+      "speaker_name": "Andy Day",
+      "start_time": 1157.934,
+      "end_time": 1184.734
+    },
+    {
+      "text": "And also they're providing a lot of advertising, you know, this sort of letterbox ad slots that you get around the pitches.",
+      "speaker_name": "Andy Day",
+      "start_time": 1184.822,
+      "end_time": 1193.87
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1194.03,
+      "end_time": 1194.93
+    },
+    {
+      "text": "So they provide that technology as well as working directly with the brands on the solutions as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1195.93,
+      "end_time": 1202.83
+    },
+    {
+      "text": "I kind of see them and I wasn't sure when I Looked at their site, but they kind of seem like an octagon a little bit in some capacity.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1204.25,
+      "end_time": 1211.442
+    },
+    {
+      "text": "Is that similar in nature?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1211.506,
+      "end_time": 1214.434
+    },
+    {
+      "text": "Are you familiar with octagon Big sports marketing?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1214.482,
+      "end_time": 1217.83
+    },
+    {
+      "text": "I mean, I couldn't rattle off too much of it, but yeah, that's all right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1220.09,
+      "end_time": 1223.406
+    },
+    {
+      "text": "And discussed OTCON as well as a couple of other of the sort of similar agency businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 1223.498,
+      "end_time": 1231.53
+    },
+    {
+      "text": "You know, their focus really is on the immersive solutions.",
+      "speaker_name": "Andy Day",
+      "start_time": 1232.75,
+      "end_time": 1236.566
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1236.758,
+      "end_time": 1237.61
+    },
+    {
+      "text": "And entertainment in general was one of the directions that they wanted to go in originally where they can build out a lot of capability very quickly, providing solutions in that space.",
+      "speaker_name": "Andy Day",
+      "start_time": 1237.95,
+      "end_time": 1247.97
+    },
+    {
+      "text": "And then as they said, there's a big exit further down the line in terms of.",
+      "speaker_name": "Andy Day",
+      "start_time": 1248.43,
+      "end_time": 1252.502
+    },
+    {
+      "text": "You asked the question about, like, sales and that sort of thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1252.526,
+      "end_time": 1255.142
+    },
+    {
+      "text": "So, yeah, is the CEO is very much the sales guy and is helping to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1255.166,
+      "end_time": 1261.778
+    },
+    {
+      "text": "To expand that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1261.834,
+      "end_time": 1263.202
+    },
+    {
+      "text": "I think Skyview will take on a lot of the sales capacity.",
+      "speaker_name": "Andy Day",
+      "start_time": 1263.386,
+      "end_time": 1268.546
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1268.738,
+      "end_time": 1269.59
+    },
+    {
+      "text": "In general.",
+      "speaker_name": "Andy Day",
+      "start_time": 1270.25,
+      "end_time": 1270.866
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1270.938,
+      "end_time": 1271.618
+    },
+    {
+      "text": "And then just like.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1271.794,
+      "end_time": 1273.202
+    },
+    {
+      "text": "So are they.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1273.306,
+      "end_time": 1274.018
+    },
+    {
+      "text": "Are they operating on their own P and L or is it all.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1274.074,
+      "end_time": 1277.186
+    },
+    {
+      "text": "It was all folded under the holding company.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1277.258,
+      "end_time": 1279.666
+    },
+    {
+      "text": "Like, how's that?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1279.738,
+      "end_time": 1280.87
+    },
+    {
+      "text": "You know, we're just thinking about our agency in general and like, we're, you know, really trending upward after the pandemic, like, going into one of our best from a revenue standpoint.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1281.05,
+      "end_time": 1292.254
+    },
+    {
+      "text": "And like, for us, a big thing that we feel we're missing is capital to be able to hire more account managers and sales folks.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1292.382,
+      "end_time": 1301.47
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1301.63,
+      "end_time": 1301.998
+    },
+    {
+      "text": "We've got a great foundation of what we've done for 15 years.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1302.054,
+      "end_time": 1305.53
+    },
+    {
+      "text": "And, you know, something that we've talked about is just in general, like, us going out and getting, you know, private equity or somebody to fund us to give us, you know, capital, be able to do the things that we can't do necessarily right away.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1305.91,
+      "end_time": 1319.294
+    },
+    {
+      "text": "You know, we've made some adjustments in regards to our staffing, and we were, you know, had just employees that weren't the right fit and we held onto them a little bit too long.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1319.382,
+      "end_time": 1328.43
+    },
+    {
+      "text": "And hence kind of our.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1328.47,
+      "end_time": 1330.126
+    },
+    {
+      "text": "Where our numbers netted out last year and where they should have been, our rent and some other things.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1330.278,
+      "end_time": 1334.798
+    },
+    {
+      "text": "But, you know, that's something that we're kind of just going through and trying to understand.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1334.854,
+      "end_time": 1339.31
+    },
+    {
+      "text": "You know, if we were to come on board with a group, you know, how much of that, you know, we'd be able to do and.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1339.43,
+      "end_time": 1346.74
+    },
+    {
+      "text": "And give direction on what we feel we're missing.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1346.78,
+      "end_time": 1349.332
+    },
+    {
+      "text": "And, you know, how does that financing work?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1349.396,
+      "end_time": 1352.436
+    },
+    {
+      "text": "You know, if we are on P L and how are those things allocated?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1352.508,
+      "end_time": 1356.308
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1356.404,
+      "end_time": 1356.9
+    },
+    {
+      "text": "And then we just wanted to ask you in general, like, you know, I mean, it's something that we're thinking about whether we're acquired or we go out and say, okay, we should get funding ourselves and, and do this.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1356.94,
+      "end_time": 1367.124
+    },
+    {
+      "text": "You know, I went and dove back into your background and what you've been doing, you know, a second time around, and it seems like this is kind of just your wheelhouse and sweet spot and everything like that.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1367.212,
+      "end_time": 1377.88
+    },
+    {
+      "text": "So I just want to understand that from your perspective.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1377.92,
+      "end_time": 1380.968
+    },
+    {
+      "text": "Well, so private equity, you're not ready for private equity, I would say, at this moment in time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1381.144,
+      "end_time": 1388.248
+    },
+    {
+      "text": "So what private equity, generally speaking, are looking for when they make at least the initial acquisition is for a platform business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1388.304,
+      "end_time": 1394.658
+    },
+    {
+      "text": "And they're looking for a couple of million in EBITDAR as a minimum for those types of companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1394.714,
+      "end_time": 1400.258
+    },
+    {
+      "text": "So maybe by the end of next year or the year after, you'll be in a stronger position to go after your own private equity deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1400.394,
+      "end_time": 1406.99
+    },
+    {
+      "text": "But I would say that the Skyview team are very much in the form of what I would see as a classic private equity deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1407.53,
+      "end_time": 1416.066
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1416.218,
+      "end_time": 1417.11
+    },
+    {
+      "text": "They are looking to grow the business in exactly the same way as a private equity business would.",
+      "speaker_name": "Andy Day",
+      "start_time": 1417.53,
+      "end_time": 1423.724
+    },
+    {
+      "text": "However, they have something that's a lot nicer, I think, in that they are sort of heavily involved in the day to day of the group being run.",
+      "speaker_name": "Andy Day",
+      "start_time": 1423.812,
+      "end_time": 1434.236
+    },
+    {
+      "text": "So what tends to happen with private equity is they would, if they were to do this deal, for instance, they would acquire a company like Hovercraft first.",
+      "speaker_name": "Andy Day",
+      "start_time": 1434.308,
+      "end_time": 1443.116
+    },
+    {
+      "text": "They would use that as a platform, and then they would kind of pull, pump some money into that business and they would need the founders to go after more revenue, you know, so they would, they would guide them to some degree, but they would be making them go out and do the actual acquisition process themselves, whereas Jeff and Travis are very much engaged in that part of it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1443.268,
+      "end_time": 1469.164
+    },
+    {
+      "text": "So in the, in that way, the structure that they've set up is, is much more like a holding company, but it's kind of a.",
+      "speaker_name": "Andy Day",
+      "start_time": 1469.252,
+      "end_time": 1475.87
+    },
+    {
+      "text": "A hybrid model that they're sort of running in terms of being able to help you with those types of things with a more investment in things like sales.",
+      "speaker_name": "Andy Day",
+      "start_time": 1475.98,
+      "end_time": 1485.994
+    },
+    {
+      "text": "That's very much what they're looking to do across the group.",
+      "speaker_name": "Andy Day",
+      "start_time": 1486.122,
+      "end_time": 1489.19
+    },
+    {
+      "text": "I'm sure they would be able to do that sort of horizontally and vertically, depending on what was required.",
+      "speaker_name": "Andy Day",
+      "start_time": 1489.65,
+      "end_time": 1496.19
+    },
+    {
+      "text": "But they would be looking to invest in the companies themselves.",
+      "speaker_name": "Andy Day",
+      "start_time": 1496.85,
+      "end_time": 1500.91
+    },
+    {
+      "text": "And they have a holding company structure.",
+      "speaker_name": "Andy Day",
+      "start_time": 1501.66,
+      "end_time": 1503.94
+    },
+    {
+      "text": "So there would be an operating company that was holding the operating company, the smaller ones below it, and there would be a separate business which operates under the holding company above, which would be responsible for all the Back end.",
+      "speaker_name": "Andy Day",
+      "start_time": 1504.02,
+      "end_time": 1523.444
+    },
+    {
+      "text": "So each business would have their own P and L, or at least they would have their own line, depending on how the companies are merged.",
+      "speaker_name": "Andy Day",
+      "start_time": 1523.532,
+      "end_time": 1532.12
+    },
+    {
+      "text": "Obviously each situation is different, but then they would be.",
+      "speaker_name": "Andy Day",
+      "start_time": 1532.2,
+      "end_time": 1536.42
+    },
+    {
+      "text": "They would have their back end sort of processes merged where possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 1537.92,
+      "end_time": 1545.24
+    },
+    {
+      "text": "So one of the things that Travis is extremely big on is not bidding, you know, for suppliers separately in silos, but actually bringing that into the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1545.36,
+      "end_time": 1556.232
+    },
+    {
+      "text": "The Skyview process, you know, into the business centrally so that there will be cost savings right across the group with suppliers or, or whatever else that's helpful.",
+      "speaker_name": "Andy Day",
+      "start_time": 1556.336,
+      "end_time": 1569.064
+    },
+    {
+      "text": "And then thanks for kind of giving more context around that.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1569.112,
+      "end_time": 1572.488
+    },
+    {
+      "text": "And then in regards to kind of as they're bringing on, you know, leadership and founders from these two other organizations, are they building out a board or what's that.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1572.624,
+      "end_time": 1582.85
+    },
+    {
+      "text": "What's that look like in general?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1583,
+      "end_time": 1585.29
+    },
+    {
+      "text": "Yeah, so very much so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1585.59,
+      "end_time": 1587.278
+    },
+    {
+      "text": "Building a board from the founders in the company and the companies they're acquiring.",
+      "speaker_name": "Andy Day",
+      "start_time": 1587.414,
+      "end_time": 1592.67
+    },
+    {
+      "text": "So I think both founders of Hovercraft are obviously quite prominent in the leadership roles at the moment, and certainly one of the OMM directors has got a prominent role as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1592.75,
+      "end_time": 1608.33
+    },
+    {
+      "text": "But it was a very different business actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 1609.44,
+      "end_time": 1611.24
+    },
+    {
+      "text": "OMM was actually a management buyout.",
+      "speaker_name": "Andy Day",
+      "start_time": 1611.28,
+      "end_time": 1613.848
+    },
+    {
+      "text": "So the founders themselves had left the businesses that were acquired.",
+      "speaker_name": "Andy Day",
+      "start_time": 1613.944,
+      "end_time": 1618.7
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1619.28,
+      "end_time": 1619.832
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1619.896,
+      "end_time": 1620.232
+    },
+    {
+      "text": "I mean, there's room, there's room on the bus right now.",
+      "speaker_name": "Andy Day",
+      "start_time": 1620.296,
+      "end_time": 1623.48
+    },
+    {
+      "text": "You know, still very, very early days.",
+      "speaker_name": "Andy Day",
+      "start_time": 1623.52,
+      "end_time": 1626.12
+    },
+    {
+      "text": "We're a year into acquisitions, and obviously the third and fourth acquisition is still very early in a new group like this.",
+      "speaker_name": "Andy Day",
+      "start_time": 1626.16,
+      "end_time": 1635.496
+    },
+    {
+      "text": "So if that's your ambition to be part of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1635.568,
+      "end_time": 1639.254
+    },
+    {
+      "text": "I know the guys from Hovercraft are sort of, how would you say, you know, reluctant in some ways to be too involved in that because they very much enjoy the creative process.",
+      "speaker_name": "Andy Day",
+      "start_time": 1639.422,
+      "end_time": 1651.03
+    },
+    {
+      "text": "So it may be that they opt to have less involvement as the group grows.",
+      "speaker_name": "Andy Day",
+      "start_time": 1651.15,
+      "end_time": 1656.246
+    },
+    {
+      "text": "I mean, I can't speak for them, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 1656.278,
+      "end_time": 1657.942
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1658.126,
+      "end_time": 1658.806
+    },
+    {
+      "text": "No, that's, that's.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1658.918,
+      "end_time": 1659.686
+    },
+    {
+      "text": "I mean, that's helpful.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1659.718,
+      "end_time": 1660.486
+    },
+    {
+      "text": "And I mean, I'll be honest, I think that's what we're hearing from a few of the other groups that are talking to us in a similar nature.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1660.518,
+      "end_time": 1667.13
+    },
+    {
+      "text": "And then I think my last question that I've got top of mind is I believe at the time, you know, based on the holding company they were looking to get, you know, they're raising funds.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1667.65,
+      "end_time": 1679.082
+    },
+    {
+      "text": "Did they land on a specific amount that they were able to raise?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1679.146,
+      "end_time": 1683.754
+    },
+    {
+      "text": "Is that.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1683.882,
+      "end_time": 1684.33
+    },
+    {
+      "text": "Am I correct in.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1684.37,
+      "end_time": 1685.578
+    },
+    {
+      "text": "In that?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1685.714,
+      "end_time": 1686.314
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1686.402,
+      "end_time": 1686.666
+    },
+    {
+      "text": "No, it's not.",
+      "speaker_name": "Andy Day",
+      "start_time": 1686.698,
+      "end_time": 1688.298
+    },
+    {
+      "text": "It's not how it works.",
+      "speaker_name": "Andy Day",
+      "start_time": 1688.354,
+      "end_time": 1689.71
+    },
+    {
+      "text": "So they had raised some initial funds.",
+      "speaker_name": "Andy Day",
+      "start_time": 1690.61,
+      "end_time": 1692.91
+    },
+    {
+      "text": "They had sort of friends and family round, you know, to get the Skyview business up and running and get some initial investment in there that which allowed them to operate.",
+      "speaker_name": "Andy Day",
+      "start_time": 1693.32,
+      "end_time": 1703.888
+    },
+    {
+      "text": "Okay, but, but actually each acquisition is separately funded.",
+      "speaker_name": "Andy Day",
+      "start_time": 1704.064,
+      "end_time": 1710.768
+    },
+    {
+      "text": "But what happens is as you is, you know, it's a snowball effect as you talk to different debt businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 1710.864,
+      "end_time": 1720.846
+    },
+    {
+      "text": "You know, they are keen to get in to bigger and bigger deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 1720.878,
+      "end_time": 1726.37
+    },
+    {
+      "text": "And so actually it becomes much more easier after the first acquisition to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1727.19,
+      "end_time": 1732.27
+    },
+    {
+      "text": "To find more debt.",
+      "speaker_name": "Andy Day",
+      "start_time": 1732.31,
+      "end_time": 1733.65
+    },
+    {
+      "text": "And so they are, they are fully funded for okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1734.87,
+      "end_time": 1737.966
+    },
+    {
+      "text": "Deals that they have.",
+      "speaker_name": "Andy Day",
+      "start_time": 1738.078,
+      "end_time": 1739.198
+    },
+    {
+      "text": "I think from what I remember from my last conversation with Jeff around the funding, they had something like 12 million excess funding that had already been ring fenced by one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1739.334,
+      "end_time": 1749.396
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1749.468,
+      "end_time": 1750.132
+    },
+    {
+      "text": "They've got a ton of cash that they can, they can dip into.",
+      "speaker_name": "Andy Day",
+      "start_time": 1750.276,
+      "end_time": 1754.58
+    },
+    {
+      "text": "You know, they're kind of sort of initial, sort of promises to lend in future.",
+      "speaker_name": "Andy Day",
+      "start_time": 1754.7,
+      "end_time": 1762.004
+    },
+    {
+      "text": "But actually until you have a deal on the table, nobody says yes or no.",
+      "speaker_name": "Andy Day",
+      "start_time": 1762.092,
+      "end_time": 1766.804
+    },
+    {
+      "text": "You have to have the actual offer accepted before you can finalize any of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1766.892,
+      "end_time": 1772.852
+    },
+    {
+      "text": "And that is just the standard way that that finance works for deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 1772.876,
+      "end_time": 1777.058
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1777.154,
+      "end_time": 1777.698
+    },
+    {
+      "text": "And thanks, I mean appreciate the education on that.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1777.794,
+      "end_time": 1780.21
+    },
+    {
+      "text": "And then can you remind me, I know there was a deck that they walked us through and that maybe had some background on Jeff and the other individual.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1780.25,
+      "end_time": 1789.794
+    },
+    {
+      "text": "Is there a way to share that or is there an update?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1789.922,
+      "end_time": 1792.226
+    },
+    {
+      "text": "You know, we were thinking they would be happy to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1792.258,
+      "end_time": 1794.818
+    },
+    {
+      "text": "On the next.",
+      "speaker_name": "Andy Day",
+      "start_time": 1794.874,
+      "end_time": 1795.33
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1795.37,
+      "end_time": 1795.762
+    },
+    {
+      "text": "I mean, okay to go back to that.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1795.826,
+      "end_time": 1797.362
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1797.386,
+      "end_time": 1798.002
+    },
+    {
+      "text": "But their background was in cloud computing if you're.",
+      "speaker_name": "Andy Day",
+      "start_time": 1798.146,
+      "end_time": 1800.37
+    },
+    {
+      "text": "Yeah, that's what.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1800.41,
+      "end_time": 1800.882
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1800.906,
+      "end_time": 1801.606
+    },
+    {
+      "text": "Had multiple exits with some of the, the largest software companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1801.778,
+      "end_time": 1807.054
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1807.222,
+      "end_time": 1807.97
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1808.47,
+      "end_time": 1809.69
+    },
+    {
+      "text": "All right, well that's.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1810.63,
+      "end_time": 1811.406
+    },
+    {
+      "text": "I mean this been helpful, Alan.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1811.438,
+      "end_time": 1813.166
+    },
+    {
+      "text": "I think that's.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1813.198,
+      "end_time": 1813.87
+    },
+    {
+      "text": "Those are my main questions that, that I had now did you have anything else?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1813.95,
+      "end_time": 1819.806
+    },
+    {
+      "text": "I think you're probably driving and.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1819.838,
+      "end_time": 1821.502
+    },
+    {
+      "text": "Sorry, we're not on.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1821.526,
+      "end_time": 1822.478
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1822.614,
+      "end_time": 1823.374
+    },
+    {
+      "text": "No, it's fine, it's fine.",
+      "speaker_name": "Andy Day",
+      "start_time": 1823.502,
+      "end_time": 1824.686
+    },
+    {
+      "text": "Don't worry, I'll get used to it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1824.718,
+      "end_time": 1826.17
+    },
+    {
+      "text": "Do you have any more questions, Alan?",
+      "speaker_name": "Andy Day",
+      "start_time": 1827.76,
+      "end_time": 1829.096
+    },
+    {
+      "text": "I mean what I would like to do is set you up on a call with these guys as soon as possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 1829.128,
+      "end_time": 1832.264
+    },
+    {
+      "text": "If you guys are free later on this afternoon or tomorrow.",
+      "speaker_name": "Andy Day",
+      "start_time": 1832.352,
+      "end_time": 1835.9
+    },
+    {
+      "text": "You know, Jeff is chomping at the bit to speak to you guys again.",
+      "speaker_name": "Andy Day",
+      "start_time": 1836.32,
+      "end_time": 1839.78
+    },
+    {
+      "text": "Obviously very keen if there is a deal to be done and you're in Jeff's words, not tie kick him for a second time, but are actually interested in getting to an offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1840.64,
+      "end_time": 1850.648
+    },
+    {
+      "text": "He is keen to make an offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1850.704,
+      "end_time": 1852.42
+    },
+    {
+      "text": "Andy, here's my thing with me.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1856.57,
+      "end_time": 1858.578
+    },
+    {
+      "text": "Like I'll be honest this week, like I was off last week and I'm kind of off this week with a fourth kid.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1858.634,
+      "end_time": 1865.202
+    },
+    {
+      "text": "So, Alan, I mean, you can definitely do it.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1865.346,
+      "end_time": 1867.842
+    },
+    {
+      "text": "I'd love to be on the call.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1867.866,
+      "end_time": 1869.394
+    },
+    {
+      "text": "So if there's a world.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1869.562,
+      "end_time": 1871.138
+    },
+    {
+      "text": "Andy, let me look at my schedule.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1871.274,
+      "end_time": 1873.074
+    },
+    {
+      "text": "I'm trying to balance this with.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1873.122,
+      "end_time": 1874.434
+    },
+    {
+      "text": "It looks like I'm dropped off.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1874.522,
+      "end_time": 1875.682
+    },
+    {
+      "text": "I'm trying to balance me being home and helping my wife right now.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1875.706,
+      "end_time": 1879.234
+    },
+    {
+      "text": "So let me.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1879.402,
+      "end_time": 1881.712
+    },
+    {
+      "text": "Let me see what I can do on my end and then I can circle back at the entire.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1881.906,
+      "end_time": 1886.884
+    },
+    {
+      "text": "Like, my schedule is just a disaster right now.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1886.932,
+      "end_time": 1889.556
+    },
+    {
+      "text": "So let me.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1889.708,
+      "end_time": 1891.492
+    },
+    {
+      "text": "Let me circle back with you.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1891.596,
+      "end_time": 1893.092
+    },
+    {
+      "text": "We're definitely interested for sure.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1893.196,
+      "end_time": 1895.2
+    },
+    {
+      "text": "And further along than where we were, you know, we were in the middle of the year last year.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1895.66,
+      "end_time": 1899.94
+    },
+    {
+      "text": "Our year ended, like I said, probably close to the top of the revenue that we've.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1900.06,
+      "end_time": 1905.124
+    },
+    {
+      "text": "We've had.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1905.172,
+      "end_time": 1905.94
+    },
+    {
+      "text": "We had some overhead, we re.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1906.06,
+      "end_time": 1908.16
+    },
+    {
+      "text": "Did our lease, got some really favorable terms with our landlord that we'd been in the office for seven years, which was huge for us, and made some other adjustments from a staffing standpoint.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1908.62,
+      "end_time": 1918.804
+    },
+    {
+      "text": "So we're in our mind kind of going into the best case scenario right now, and we just really see, as I said to you, like, we're missing a few pieces.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1918.852,
+      "end_time": 1929.252
+    },
+    {
+      "text": "You know, there's certain investments that we're probably going to make on our own, but also, you know, see that we're in a place that we're getting a lot of interest, so we want to, you know, be smart about, you know, what is the next move.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1929.396,
+      "end_time": 1941.5
+    },
+    {
+      "text": "We're in the.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1941.54,
+      "end_time": 1942.3
+    },
+    {
+      "text": "We're the mindset of growth.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1942.42,
+      "end_time": 1943.628
+    },
+    {
+      "text": "I mean, I'm in a place in my life that I'm going to be doing this for a long time and want to, you know, expand.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1943.684,
+      "end_time": 1950.72
+    },
+    {
+      "text": "And it's just how.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1951.22,
+      "end_time": 1952.428
+    },
+    {
+      "text": "How do we do that and what's the right partner to do that with?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1952.484,
+      "end_time": 1955.596
+    },
+    {
+      "text": "So we're definitely interested for sure.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1955.668,
+      "end_time": 1959.116
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1959.268,
+      "end_time": 1959.644
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Andy Day",
+      "start_time": 1959.692,
+      "end_time": 1959.996
+    },
+    {
+      "text": "Well, you know, these guys are obviously extremely serious about what they're doing, and I think they see NextNow as a really exciting piece of their puzzle as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1960.068,
+      "end_time": 1970.94
+    },
+    {
+      "text": "That's great.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1971.24,
+      "end_time": 1972.176
+    },
+    {
+      "text": "More creatives, more so firsthand solution.",
+      "speaker_name": "Andy Day",
+      "start_time": 1972.328,
+      "end_time": 1977.2
+    },
+    {
+      "text": "Being able to offer the stuff that you do to their clients so they're to be joining forces with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1977.28,
+      "end_time": 1984
+    },
+    {
+      "text": "But the way they see it is they are going to be number one in the US for, for this kind of stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 1984.12,
+      "end_time": 1989.7
+    },
+    {
+      "text": "So, you know, if you guys are looking for a rocket ship to strap yourselves to, then this will be the one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1991.24,
+      "end_time": 1997.584
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1997.752,
+      "end_time": 1998.096
+    },
+    {
+      "text": "And I think.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1998.128,
+      "end_time": 1998.608
+    },
+    {
+      "text": "I think the big thing is, Andy, like you said, like, just really understanding the founders and, you know, how do we make sure that, you know, our vision and what we see and how do we?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 1998.664,
+      "end_time": 2012.32
+    },
+    {
+      "text": "Like I said that growth is key for us.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2012.36,
+      "end_time": 2014.62
+    },
+    {
+      "text": "And it sounds like they're.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2015.94,
+      "end_time": 2017.26
+    },
+    {
+      "text": "They're in that mindset, and they've done this a handful of times, so I think as long as we can make sure.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2017.34,
+      "end_time": 2022.46
+    },
+    {
+      "text": "And then that just is another conversation with them.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2022.5,
+      "end_time": 2024.492
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2024.516,
+      "end_time": 2024.748
+    },
+    {
+      "text": "Like, you know, this is what we see.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2024.804,
+      "end_time": 2026.7
+    },
+    {
+      "text": "And, you know, is there alignment there?",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2026.74,
+      "end_time": 2028.476
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2028.548,
+      "end_time": 2029.116
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2029.268,
+      "end_time": 2030.108
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2030.284,
+      "end_time": 2030.636
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2030.668,
+      "end_time": 2031.324
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2031.452,
+      "end_time": 2031.756
+    },
+    {
+      "text": "I've got to.",
+      "speaker_name": "Andy Day",
+      "start_time": 2031.788,
+      "end_time": 2032.172
+    },
+    {
+      "text": "I've got to jump.",
+      "speaker_name": "Andy Day",
+      "start_time": 2032.196,
+      "end_time": 2032.956
+    },
+    {
+      "text": "I'm six.",
+      "speaker_name": "Andy Day",
+      "start_time": 2032.988,
+      "end_time": 2033.468
+    },
+    {
+      "text": "Okay, Andy, I'll give you.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2033.524,
+      "end_time": 2034.796
+    },
+    {
+      "text": "I'll give you a shot.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2034.868,
+      "end_time": 2035.596
+    },
+    {
+      "text": "I'll let you know on timing and what that looks like.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2035.628,
+      "end_time": 2038.028
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 2038.164,
+      "end_time": 2038.668
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 2038.764,
+      "end_time": 2039.1
+    },
+    {
+      "text": "Thanks for catching up again.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2039.14,
+      "end_time": 2040.108
+    },
+    {
+      "text": "Appreciate it.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2040.164,
+      "end_time": 2040.966
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 2041.068,
+      "end_time": 2041.346
+    },
+    {
+      "text": "Good to speak with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 2041.378,
+      "end_time": 2042.69
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2042.81,
+      "end_time": 2043.202
+    },
+    {
+      "text": "Have a good one.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2043.226,
+      "end_time": 2043.826
+    },
+    {
+      "text": "We'll see you.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2043.898,
+      "end_time": 2044.322
+    },
+    {
+      "text": "Thanks, Anne.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2044.346,
+      "end_time": 2045.138
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Randy Gress (NextNow)",
+      "start_time": 2045.234,
+      "end_time": 2045.91
+    },
+    {
+      "text": "The record.",
+      "speaker_name": "Andy Day",
+      "start_time": 2048.25,
+      "end_time": 2048.65
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Acquisition",
+      "EBITDA",
+      "AI capabilities",
+      "Immersive solutions",
+      "Sports marketing",
+      "Holding company"
+    ],
+    "action_items": "\n**Randy Gress**\nCheck schedule and circle back with Andy regarding availability for a call with Skyview (32:22)\n\n**Alan**\nPrepare for potential call with Skyview team (30:57)\n\n**Andy Day**\nSet up a call between NextNow and Skyview team (30:24)\n",
+    "outline": null,
+    "overview": "During the recent \"Catch Up\" meeting, Andy Day and Alan reviewed the current landscape of business development and potential acquisitions within the industry, noting significant activity from private equity. Skyview has successfully completed two acquisitions—OMM and Hovercraft—and is actively pursuing one to two additional opportunities. NextNow shared its financial performance, reporting over $6 million in billings but expressing a desire to improve EBITDA, with growth projections of $7-7.5 million for the upcoming year, particularly through advancements in AI initiatives. The structure of Skyview was clarified as a hybrid between a private equity firm and a holding company, emphasizing its focus on immersive solutions and entertainment. Skyview discussed its strategic plans, including the formation of a board comprised of founders from acquired companies and a dedicated funding pool of approximately $12 million for acquisitions. Action items were established, including scheduling further discussions between NextNow and Skyview to explore potential partnership opportunities.",
+    "short_summary": "Andy Day and Alan conducted a \"Catch Up\" meeting to discuss the current landscape of business development and potential acquisitions. They highlighted significant private equity activity and noted that Skyview has successfully completed two acquisitions, OMM and Hovercraft, while actively pursuing one or two more opportunities. NextNow shared financial updates, reporting over $6 million in billings and a desire to enhance EBITDA, with growth projections of $7-7.5 million for the next year, particularly through AI initiatives. The meeting clarified Skyview's structure as a hybrid between a private equity firm and a holding company focused on immersive solutions and entertainment. Strategic plans included establishing a board with founders from acquired companies and a dedicated funding pool of approximately $12 million for acquisitions. Action items included scheduling discussions between NextNow and Skyview for potential partnerships.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/1r1mnotmc6rPObra",
+  "audio_url": "https://cdn.fireflies.ai/1r1mnotmc6rPObra/audio.mp3?Expires=1773220880&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzFyMW1ub3RtYzZyUE9icmEvYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjIwODgwfX19XX0_&Signature=M~p4zg8WClsl~cE1Sq62SMHQHscm0Vrqlvw7aa9qidiVMm6tLVEtdLeUJmhGXPHklWZkYqQ48FBI1-7eG5uWkGYfIeSsCdgHT9THa-z6KBbURd7kuY6wM4mJSkqIoaAgSU7cafGryX3vrHHd~MBStAvucnFJoRjMomwLuysi9CqMkfYaQaJMoO-yaQnr0UlHhfe6iprzjDKXjTtoCRpWwa0M2XPeI8qU5-ukcLTRYTs2l4Pdbkv7yRaQSQYJKWlmbVkQ5Jk1tGJnJRV8fU9YdhORRbxZmBYUYuFWBnWBK0H7o9Cs-iWQmhMHe~4~K4VQbgFZd1CSvGXI46r6gvcT2w__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

@@ -1,0 +1,4300 @@
+{
+  "id": "01JX0TSNRVQPHJX5CY7XQG9CHY",
+  "title": "TSG x MPG",
+  "date": 1749646800000,
+  "dateString": "2025-06-11T13:00:00.000Z",
+  "duration": 57.349998474121094,
+  "participants": [
+    "andrew.day@capitala.co,stuart.tiedeman@rmi.co,ahmed.zia@capitala.co,jason.reiser@mpgllc.com,john.hogan@mpgllc.com,george.cleary@mpgllc.com,patrick.peters@mpgllc.com,girard.smith@mpgllc.com,andy.day@capitala.co",
+    "andrew.day@capitala.co",
+    "stuart.tiedeman@rmi.co",
+    "jason.reiser@mpgllc.com",
+    "john.hogan@mpgllc.com",
+    "george.cleary@mpgllc.com",
+    "patrick.peters@mpgllc.com",
+    "girard.smith@mpgllc.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "stuart.tiedeman@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jason.reiser@mpgllc.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "john.hogan@mpgllc.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "george.cleary@mpgllc.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "patrick.peters@mpgllc.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "girard.smith@mpgllc.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi guys, how you doing?",
+      "speaker_name": "Andrew Day",
+      "start_time": 9.68,
+      "end_time": 10.68
+    },
+    {
+      "text": "Hi, John.",
+      "speaker_name": "Andrew Day",
+      "start_time": 10.68,
+      "end_time": 11.28
+    },
+    {
+      "text": "Hi, how are you?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 11.52,
+      "end_time": 12.48
+    },
+    {
+      "text": "Good to see you again.",
+      "speaker_name": "John Hogan",
+      "start_time": 12.48,
+      "end_time": 13.36
+    },
+    {
+      "text": "Yeah, good to see you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 13.92,
+      "end_time": 14.96
+    },
+    {
+      "text": "Good to see everybody else as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 14.96,
+      "end_time": 16.36
+    },
+    {
+      "text": "Thank you for your time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 16.36,
+      "end_time": 17.12
+    },
+    {
+      "text": "Obviously there's quite a few of you, so I'll give you a chance in a sec to introduce yourselves.",
+      "speaker_name": "Andrew Day",
+      "start_time": 20.56,
+      "end_time": 25.52
+    },
+    {
+      "text": "Obviously my role is really to help smooth the introduction of both parties so that we can work our way towards a transaction.",
+      "speaker_name": "Andrew Day",
+      "start_time": 25.52,
+      "end_time": 36
+    },
+    {
+      "text": "This is Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 37.04,
+      "end_time": 38.12
+    },
+    {
+      "text": "He's the founder, one of the founders of the shopper group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 38.12,
+      "end_time": 42
+    },
+    {
+      "text": "And obviously this is kind of mostly about chemistry and making sure there's a good fit between everybody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 43.04,
+      "end_time": 50.04
+    },
+    {
+      "text": "Obviously John and I have already spoken them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 50.04,
+      "end_time": 52
+    },
+    {
+      "text": "They're clearly is some good fit between the two groups.",
+      "speaker_name": "Andrew Day",
+      "start_time": 52.16,
+      "end_time": 57.06
+    },
+    {
+      "text": "So yeah, if you'd like to introduce yourself and then Stuart can answer any questions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 57.94,
+      "end_time": 63.54
+    },
+    {
+      "text": "And if you want to look at the software in more detail, we have a demo that we can send you after.",
+      "speaker_name": "Andrew Day",
+      "start_time": 64.26,
+      "end_time": 70.5
+    },
+    {
+      "text": "But happy to answer questions now as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 70.5,
+      "end_time": 73.7
+    },
+    {
+      "text": "So I'll hand it over to you guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 73.86,
+      "end_time": 75.54
+    },
+    {
+      "text": "John, maybe you can start.",
+      "speaker_name": "Andrew Day",
+      "start_time": 75.86,
+      "end_time": 78.02
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "John Hogan",
+      "start_time": 79.23,
+      "end_time": 79.55
+    },
+    {
+      "text": "Hi, Stuart.",
+      "speaker_name": "John Hogan",
+      "start_time": 80.51,
+      "end_time": 81.23
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "John Hogan",
+      "start_time": 81.23,
+      "end_time": 81.95
+    },
+    {
+      "text": "I'm John Hogan.",
+      "speaker_name": "John Hogan",
+      "start_time": 82.11,
+      "end_time": 83.31
+    },
+    {
+      "text": "I'm on the board of directors for Market Performance Group.",
+      "speaker_name": "John Hogan",
+      "start_time": 83.79,
+      "end_time": 87.47
+    },
+    {
+      "text": "I've been affiliated with them for about 10 years and I also kind of help spearhead some M and A activity on behalf of the company.",
+      "speaker_name": "John Hogan",
+      "start_time": 88.11,
+      "end_time": 96.83
+    },
+    {
+      "text": "Jason, I'll turn it over to you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 98.67,
+      "end_time": 100.03
+    },
+    {
+      "text": "Jason, you're on mute.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 102.67,
+      "end_time": 103.55
+    },
+    {
+      "text": "Jason, you're on mute.",
+      "speaker_name": "John Hogan",
+      "start_time": 103.95,
+      "end_time": 104.91
+    },
+    {
+      "text": "You're on mute.",
+      "speaker_name": "Andrew Day",
+      "start_time": 105.53,
+      "end_time": 106.13
+    },
+    {
+      "text": "Jason.",
+      "speaker_name": "Andrew Day",
+      "start_time": 106.13,
+      "end_time": 106.45
+    },
+    {
+      "text": "Sorry, I just did a glorious intro.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 106.45,
+      "end_time": 108.89
+    },
+    {
+      "text": "Sorry, I'm CEO here.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 109.93,
+      "end_time": 112.33
+    },
+    {
+      "text": "I've been here about four years, spent about 30 years on the retail side.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 113.53,
+      "end_time": 117.05
+    },
+    {
+      "text": "So good to meet you.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 117.13,
+      "end_time": 118.17
+    },
+    {
+      "text": "Gerard.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 118.65,
+      "end_time": 119.21
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 120.97,
+      "end_time": 121.77
+    },
+    {
+      "text": "I'm Gerard Smith.",
+      "speaker_name": "Girard Smith",
+      "start_time": 122.65,
+      "end_time": 123.93
+    },
+    {
+      "text": "I've been with MPG eight years.",
+      "speaker_name": "Girard Smith",
+      "start_time": 123.93,
+      "end_time": 125.61
+    },
+    {
+      "text": "Kind of grew up in the.",
+      "speaker_name": "Girard Smith",
+      "start_time": 126.17,
+      "end_time": 127.13
+    },
+    {
+      "text": "On the opposite side of Jason, on the.",
+      "speaker_name": "Girard Smith",
+      "start_time": 127.13,
+      "end_time": 128.97
+    },
+    {
+      "text": "On the manufacturer side, marketing, sales and lead the marketing and consulting team at mpg.",
+      "speaker_name": "Girard Smith",
+      "start_time": 128.97,
+      "end_time": 135.52
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 135.52,
+      "end_time": 136.28
+    },
+    {
+      "text": "Andy.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 136.92,
+      "end_time": 137.44
+    },
+    {
+      "text": "John.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 137.44,
+      "end_time": 137.72
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 138.36,
+      "end_time": 138.72
+    },
+    {
+      "text": "Stuart.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 138.72,
+      "end_time": 139.12
+    },
+    {
+      "text": "Patrick Peters, our leader, paid media and D2C division.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 139.12,
+      "end_time": 142.52
+    },
+    {
+      "text": "Been helping with some acquisitions in the media space and looking forward to speaking today.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 142.52,
+      "end_time": 147.799
+    },
+    {
+      "text": "Wonderful.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 148.6,
+      "end_time": 149.16
+    },
+    {
+      "text": "Well, it's a pleasure to meet you all.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 149.16,
+      "end_time": 150.36
+    },
+    {
+      "text": "Thank you for your time.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 150.36,
+      "end_time": 151.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 151.96,
+      "end_time": 152.32
+    },
+    {
+      "text": "My name is Stuart tiedemann.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 152.32,
+      "end_time": 153.64
+    },
+    {
+      "text": "I founded TSG probably, oh, nearly 20 years ago, but since COVID we've kind of completely changed, reinvented our strategic direction.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 153.8,
+      "end_time": 165.33
+    },
+    {
+      "text": "Perversely, it was probably one of the most positive things that could have happened to us as a business.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 166.61,
+      "end_time": 170.21
+    },
+    {
+      "text": "I've had a good look around your website, so I feel I've got a good sense of what it is that you provide as a service.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 171.25,
+      "end_time": 177.85
+    },
+    {
+      "text": "I've got to say I'm very excited because I think what we do lends itself to very well to the sector that you cover and I think highly complementary rather than duplicating much of what currently goes on.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 177.85,
+      "end_time": 192.38
+    },
+    {
+      "text": "So, yes, I'd be delighted to be drilled for any particular aspects of the business that you might be interested in finding more about.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 192.46,
+      "end_time": 200.38
+    },
+    {
+      "text": "Stuart, maybe you could just provide a little bit of a broad overview of your services that you provide clients, kind of where you're going to find your clients.",
+      "speaker_name": "John Hogan",
+      "start_time": 202.86,
+      "end_time": 213.34
+    },
+    {
+      "text": "And then we are very interested in the technology piece of your business, so maybe you could talk some about that.",
+      "speaker_name": "John Hogan",
+      "start_time": 215.34,
+      "end_time": 221.34
+    },
+    {
+      "text": "You know, Andrew, when we talked, you said we were going to maybe get a demo today.",
+      "speaker_name": "John Hogan",
+      "start_time": 221.82,
+      "end_time": 225.26
+    },
+    {
+      "text": "I understand you might send something that shows us a demo, but, you know, I really want to make sure that we have some time to really talk through the technology because it's really, I think, what is very attractive to the conversation.",
+      "speaker_name": "John Hogan",
+      "start_time": 226.22,
+      "end_time": 239.3
+    },
+    {
+      "text": "Cool, thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 240.1,
+      "end_time": 241.22
+    },
+    {
+      "text": "So I'm more than happy to share Screens in a moment and show you just a sense of what's going on.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 242.02,
+      "end_time": 247.14
+    },
+    {
+      "text": "But we entered the retail media space at the outset of our business 20 years ago when it wasn't really even a thing.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 247.14,
+      "end_time": 255.78
+    },
+    {
+      "text": "And we realized that there weren't very many systems that were beyond Excel that were fit for purpose.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 256.1,
+      "end_time": 261.78
+    },
+    {
+      "text": "And over the years, people have tried Salesforce, have tried other platforms and trying to sort of fit around, Peg a square hole.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 261.78,
+      "end_time": 268.16
+    },
+    {
+      "text": "We bit the bullet and decided to write our own system, which has been evolved over that time.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 268.16,
+      "end_time": 273.12
+    },
+    {
+      "text": "And it's a bit like the iPhone.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 273.36,
+      "end_time": 274.88
+    },
+    {
+      "text": "The iPhone one came out, it was amazing, and we're onto the iPhone 15.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 274.88,
+      "end_time": 278.64
+    },
+    {
+      "text": "And it's a variation on a theme, but it's just bigger, better, more stable, more features and very exciting.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 278.64,
+      "end_time": 286.64
+    },
+    {
+      "text": "Our kind of jewel in the crown, if you like, is that we've looked after Sainsbury's and Argos for the best part of a decade.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 288.16,
+      "end_time": 295.02
+    },
+    {
+      "text": "Every aspect of their retail media shopper income is done through our platform.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 296.06,
+      "end_time": 302.54
+    },
+    {
+      "text": "It is the system of record central to everything that they do.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 303.02,
+      "end_time": 306.06
+    },
+    {
+      "text": "It handles over £350 million worth of supplier investment each year, and it does it at the most granular level.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 306.38,
+      "end_time": 313.82
+    },
+    {
+      "text": "And it handles everything from planning through to inventory management workflow.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 313.9,
+      "end_time": 319.59
+    },
+    {
+      "text": "It's a repository for storing all of the final artwork, handles status changes, does the billing and importantly, reporting.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 320.31,
+      "end_time": 328.63
+    },
+    {
+      "text": "So because that's a retailer of such global prowess, really, that has enabled us to provide the same platform, but for retailers, by definition are a lot smaller.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 329.19,
+      "end_time": 343.59
+    },
+    {
+      "text": "So, you know, we're currently standing up a retailer in Australia, we've got a division in Australia, we've got a division in Latin America.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 343.99,
+      "end_time": 351.75
+    },
+    {
+      "text": "Two markets we find very buoyant and very exciting.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 351.75,
+      "end_time": 354.35
+    },
+    {
+      "text": "Outside of Europe, of course, which is our stomping ground.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 354.43,
+      "end_time": 356.75
+    },
+    {
+      "text": "And we're working with Endeavour Group in Australia.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 357.79,
+      "end_time": 360.87
+    },
+    {
+      "text": "I don't know if you're aware of them, but they operate two facies.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 360.87,
+      "end_time": 363.87
+    },
+    {
+      "text": "One is called Dan Murphy's and the other is called BWS.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 363.87,
+      "end_time": 366.75
+    },
+    {
+      "text": "Between them they've got about 3,000 liquor stores across Australia and they used to be part of the Woolworths group, but splintered off about 18 months ago.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 367.15,
+      "end_time": 376.75
+    },
+    {
+      "text": "They were using a Koteo platform, but decided that they would prefer to use us, which is very exciting.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 377.79,
+      "end_time": 384.03
+    },
+    {
+      "text": "And so what we've realized is that our system is really strong at meeting a retailer's needs of managing their inventory, setting up their radio touch points.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 386.829,
+      "end_time": 398.19
+    },
+    {
+      "text": "They could be in store, on site, off site, doesn't really matter.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 398.19,
+      "end_time": 401.48
+    },
+    {
+      "text": "But providing a platform for them to easily be able to plan and assemble those different touch points together, such that they can form a cohesive plan, send out an order, get it signed off, have the audit trail and every single element thereafter is captured in a system of record.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 401.88,
+      "end_time": 419.4
+    },
+    {
+      "text": "And we realize over time that our ability to layer up insights on top of that was very powerful as well, because we're very fortunate that we've got access to a lot of EPOS data, of course, and over that time we've managed to evaluate, well, tens of thousands of individual campaigns and establish what we call an industry benchmark, which is essentially an effectiveness study that knows exactly what level of likely uplift and ROI you're going to get from any combination of touch points in any category.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 419.88,
+      "end_time": 454.89
+    },
+    {
+      "text": "So that's very exciting, not only for a retailer, because obviously it means that they're able to start to charge fairly and properly for their individual touch points.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 454.89,
+      "end_time": 464.22
+    },
+    {
+      "text": "Importantly, you could argue that some people have overcharged for something that's really not going to yield much of a return at all.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 464.46,
+      "end_time": 470.38
+    },
+    {
+      "text": "But we have experienced examples where people are just grossly undercharged because they have no real understanding themselves about how effective their media actually is at driving incremental sales beyond a baseline that can be monitored through EPOS sales.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 470.7,
+      "end_time": 484.14
+    },
+    {
+      "text": "Now, perversely, we've realized strategically that working with retailers is great, but they just cycle.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 484.79,
+      "end_time": 492.87
+    },
+    {
+      "text": "You have five good years with them and then somebody waltzes in and decides they want a new broom and they tend to have a bit of a clear out and choose somebody else to do half as good a job for twice as much of the cost.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 493.43,
+      "end_time": 503.19
+    },
+    {
+      "text": "So we recognize that there's a cyclical nature to working with retailers.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 504.23,
+      "end_time": 508.95
+    },
+    {
+      "text": "So we've started to turn our attention as well to working with brand owners because we realize that the industry benchmark that we've created is very well suited to helping them understand, you know, from a retail tax, I'll call it retail tax perspective, you know, we all need.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 509.43,
+      "end_time": 525.34
+    },
+    {
+      "text": "We've seen a million articles like it, right, where brand owners are feeling like they're being bent over backwards and asked to find yet more money year on year, above and beyond joint business plan money, why and where should they be investing more?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 525.66,
+      "end_time": 539.1
+    },
+    {
+      "text": "And it's just a bit of a money grab.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 539.56,
+      "end_time": 540.92
+    },
+    {
+      "text": "And so our system works equally well from a retailer's perspective.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 541,
+      "end_time": 544.48
+    },
+    {
+      "text": "You pivot it 180 degrees and we provide brand owners with a system of record to be able to help plan out and assess all of their shopper marketing investment.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 544.48,
+      "end_time": 553.32
+    },
+    {
+      "text": "And importantly, it means that we can give them a line of sight as to most likely outcome of an activation before they've even had to pay for it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 553.88,
+      "end_time": 563.4
+    },
+    {
+      "text": "And importantly, give them a little bit of leverage to start to push back to the retailers to say, look, I don't mind giving you $75,000.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 563.72,
+      "end_time": 570.65
+    },
+    {
+      "text": "What I do mind is giving you $75,000 for that, that and that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 570.65,
+      "end_time": 574.09
+    },
+    {
+      "text": "What I prefer to do is this, this and this in those particular stores for this length of time for this much money.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 574.49,
+      "end_time": 580.17
+    },
+    {
+      "text": "Why?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 580.17,
+      "end_time": 580.57
+    },
+    {
+      "text": "Well, because I know my feature, SKU sales, my brand sales, my halo sales, the effect of the promotion.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 580.57,
+      "end_time": 586.01
+    },
+    {
+      "text": "And therefore, I think that that $75,000 is going to be very well invested if I put it there, as opposed to where you're trying to get me to support it, which frankly doesn't work for us.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 586.33,
+      "end_time": 595.36
+    },
+    {
+      "text": "And so the platform that we've built has been deliberately done so with scalability in mind.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 597.28,
+      "end_time": 604.32
+    },
+    {
+      "text": "So technically we're able to do it in any language, in any market, for any retailer anywhere.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 604.4,
+      "end_time": 609.12
+    },
+    {
+      "text": "And we've demonstrated that there is an appetite for that to be grown in markets outside of Europe and Australia.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 609.999,
+      "end_time": 620.24
+    },
+    {
+      "text": "As I said, I mentioned that we have a footprint in Latin America.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 620.32,
+      "end_time": 623.68
+    },
+    {
+      "text": "We have a country manager in Uruguay, we got a government grant, they have a huge sort of free trade zone down there.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 624.35,
+      "end_time": 632.03
+    },
+    {
+      "text": "And I've got people down there at the moment doing retailer audits for two of the largest.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 632.11,
+      "end_time": 636.07
+    },
+    {
+      "text": "So we've got one with Pharma Shop and one with Grupo Disco, which is a Colombian retailer, but they've got a footprint all over Latin America, are in the process of getting signed up and jumping on board.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 636.07,
+      "end_time": 645.71
+    },
+    {
+      "text": "So we are effectively being paid by the Latin American government to evolve retail media and their capability.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 646.99,
+      "end_time": 654.57
+    },
+    {
+      "text": "Because our platform, over the years, we've spent millions in terms of developing it and making it the best award winning platform, completely bespoke and fit for purpose in this growing area, not least in store.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 655.13,
+      "end_time": 669.249
+    },
+    {
+      "text": "In store seems to be an incredibly challenging place for people to operate effectively.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 669.249,
+      "end_time": 674.73
+    },
+    {
+      "text": "Lucky for us because we've managed to absolutely nail that as well as the digital channels as well.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 675.45,
+      "end_time": 680.49
+    },
+    {
+      "text": "So being able to offer a retailer a platform that they've not had to spend money on but can be licensed at a very competitive rate is pretty compelling.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 681.29,
+      "end_time": 693.05
+    },
+    {
+      "text": "So that's really the growth trajectory that we see and hence the reason why we're excited to find investment and partner with somebody who's already well connected globally to brands and because we literally have got something where we're about to light the blue touch paper and off to the stars.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 693.45,
+      "end_time": 710.82
+    },
+    {
+      "text": "That was a very long, long intro to it, wasn't it?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 711.38,
+      "end_time": 713.74
+    },
+    {
+      "text": "I apologize.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 713.74,
+      "end_time": 714.42
+    },
+    {
+      "text": "Any questions?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 714.9,
+      "end_time": 715.78
+    },
+    {
+      "text": "That was very helpful.",
+      "speaker_name": "John Hogan",
+      "start_time": 716.02,
+      "end_time": 716.98
+    },
+    {
+      "text": "I think you're on mute.",
+      "speaker_name": "Girard Smith",
+      "start_time": 717.06,
+      "end_time": 718.18
+    },
+    {
+      "text": "I'm kidding.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 718.26,
+      "end_time": 718.98
+    },
+    {
+      "text": "I have one question.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 725.139,
+      "end_time": 725.94
+    },
+    {
+      "text": "When I wrote this down, like so the predicting outcomes before something runs, obviously that's the holy grail.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 726.1,
+      "end_time": 735.38
+    },
+    {
+      "text": "How accurate?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 736.25,
+      "end_time": 737.05
+    },
+    {
+      "text": "How accurate?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 737.21,
+      "end_time": 737.93
+    },
+    {
+      "text": "Like you know, when you pitch the business to somebody, how, at what, what accuracy do you boast?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 737.93,
+      "end_time": 742.81
+    },
+    {
+      "text": "Well, I mean, based on the, the thousands and thousands of examples that we've had that they are very accurate because we've got that kind of economies of scale, of volume, volume of information.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 744.81,
+      "end_time": 755.85
+    },
+    {
+      "text": "What's really interesting, we won an award a couple of years ago for work that we did with BP four courts.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 756.09,
+      "end_time": 760.41
+    },
+    {
+      "text": "So we've done it in grocery convenience, four courts, a lot of verticals.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 760.41,
+      "end_time": 764.34
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 764.34,
+      "end_time": 764.62
+    },
+    {
+      "text": "And it doesn't seem to matter where the, where the activation takes place.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 765.98,
+      "end_time": 770.22
+    },
+    {
+      "text": "The outcome is incredibly similar no matter what the market is.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 770.78,
+      "end_time": 774.06
+    },
+    {
+      "text": "So I'll be perfectly transparent.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 774.46,
+      "end_time": 776.22
+    },
+    {
+      "text": "We don't have anywhere near as much data that relates to North America or South America or places outside of Europe.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 776.22,
+      "end_time": 784.14
+    },
+    {
+      "text": "The BP examples was for Red Bull in Poland and we did dozens and dozens of activations for them.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 785.98,
+      "end_time": 791.67
+    },
+    {
+      "text": "But all of all the time that we come back and reassess and evaluate it, the individual touch point, importantly Jason, the combination of touch points.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 792.47,
+      "end_time": 801.99
+    },
+    {
+      "text": "So we know that Pareto curve really of effectiveness.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 802.39,
+      "end_time": 805.99
+    },
+    {
+      "text": "You can combine a shelf talker with a floor graphic with a digital screen and you reach a point where the uplift doesn't actually kick more out.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 805.99,
+      "end_time": 814.95
+    },
+    {
+      "text": "So there's no point in continuous investing because it's not a straight line relationship.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 815.56,
+      "end_time": 819.32
+    },
+    {
+      "text": "So Stuart, how are you doing that analysis?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 819.88,
+      "end_time": 823.8
+    },
+    {
+      "text": "Do you have in your own tech, do you have outside tech?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 824.28,
+      "end_time": 828.36
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 828.36,
+      "end_time": 828.84
+    },
+    {
+      "text": "So for retailers that we've represented, we offer two services.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 828.92,
+      "end_time": 835.16
+    },
+    {
+      "text": "One is ongoing individual analysis.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 835.32,
+      "end_time": 839.48
+    },
+    {
+      "text": "For each touchpoint within each campaign.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 839.72,
+      "end_time": 842.88
+    },
+    {
+      "text": "So for Iceland for the last seven years, for example, every time there's been a supplier investment and they've been doing a mix of three or four touch points across a thousand stores, we will provide every single time a bespoke evaluation report for that based on selected stores featured skus brand category, combination of touch points and effect on sales.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 843.68,
+      "end_time": 869.42
+    },
+    {
+      "text": "So we've built that up across multiple years, across multiple categories and then that's what gets aggregated.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 869.74,
+      "end_time": 876.46
+    },
+    {
+      "text": "And we've done that over the past for people like Sainsbury's, Iceland, W.H.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 876.46,
+      "end_time": 880.54
+    },
+    {
+      "text": "smith, Waitrose, Tesco's and the list goes on and on because not only is it based on the people that we, we represent and are lucky enough to have data for, of course, it's also people of scale like Heineken.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 880.62,
+      "end_time": 896.4
+    },
+    {
+      "text": "So Heineken have worked with us now for seven years and we, when we took them on.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 896.4,
+      "end_time": 902.52
+    },
+    {
+      "text": "This is a great statistic.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 902.52,
+      "end_time": 903.48
+    },
+    {
+      "text": "Patrick, you'll love this.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 903.48,
+      "end_time": 904.48
+    },
+    {
+      "text": "They were getting about £1 80 back for every pound that they invested on shopper marketing.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 905.6,
+      "end_time": 913.6
+    },
+    {
+      "text": "Fast forward to now with the work that we've done with them.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 914.72,
+      "end_time": 917.44
+    },
+    {
+      "text": "They now get eight pounds back for every pound they invest Shopper marketing.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 917.68,
+      "end_time": 921.96
+    },
+    {
+      "text": "So our system has effectively taught them globally what they call the golden rules of investment, which has transformed the way that they approach their relationships and conversations with retailers about what they are going to put behind their investment, where they would like to be.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 922.6,
+      "end_time": 938.12
+    },
+    {
+      "text": "They really invest in off site if they've got at shelf presence as well, et cetera.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 938.12,
+      "end_time": 942.48
+    },
+    {
+      "text": "So they've got a whole playbook now which has been determined through seven consecutive years of, of insights and feedback.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 942.48,
+      "end_time": 950.12
+    },
+    {
+      "text": "So it's a.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 950.2,
+      "end_time": 951.24
+    },
+    {
+      "text": "Do you have examples of how you actually do that?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 951.96,
+      "end_time": 955.16
+    },
+    {
+      "text": "Meaning like the process, the tools, the tech?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 956.2,
+      "end_time": 959
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 959.4,
+      "end_time": 960.2
+    },
+    {
+      "text": "So we have something called the brain, which is the base reporting AI network.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 960.28,
+      "end_time": 964.12
+    },
+    {
+      "text": "I'm sorry if I'm hogging this by the way.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 965.8,
+      "end_time": 967.64
+    },
+    {
+      "text": "No, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 967.8,
+      "end_time": 969.44
+    },
+    {
+      "text": "So it's proprietary tech.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 969.44,
+      "end_time": 970.6
+    },
+    {
+      "text": "So you know, ultimately our system of record brings in the metadata that says we know exactly the stores, exactly the touch points, exactly the rates, exactly the timings, exactly the SKUs, we combine that with the EPOS data pre, during and post campaign and we are able to feed it through.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 970.76,
+      "end_time": 988.96
+    },
+    {
+      "text": "We have a sequence of about 38 algorithms that spits out a big CSV at the end of every campaign because it's literally a press of the button and that gets fed into a template PowerPoint template which effectively graphs out all of the deviation curves between.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 988.96,
+      "end_time": 1006.5
+    },
+    {
+      "text": "This was the stores where there wasn't a promotion and here are the stores that had the promotion.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1006.5,
+      "end_time": 1010.46
+    },
+    {
+      "text": "And the variance between the two can be calculated as demonstrable matter.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1010.46,
+      "end_time": 1013.5
+    },
+    {
+      "text": "What was going on above the line?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1013.5,
+      "end_time": 1014.38
+    },
+    {
+      "text": "They could have been doing tv, press, cinema, doesn't matter.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1014.38,
+      "end_time": 1018.22
+    },
+    {
+      "text": "It's the pure effects that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1018.22,
+      "end_time": 1020.1
+    },
+    {
+      "text": "What is that?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1021.7,
+      "end_time": 1022.26
+    },
+    {
+      "text": "This is my last question and I want to hide this because there's some important people on this call.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1022.26,
+      "end_time": 1025.94
+    },
+    {
+      "text": "What is it built on?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1026.58,
+      "end_time": 1027.62
+    },
+    {
+      "text": "Like what, what Tech stack?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1027.86,
+      "end_time": 1030.85
+    },
+    {
+      "text": "So we're on, we've got several really.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1032.37,
+      "end_time": 1036.37
+    },
+    {
+      "text": "It's, it's a proprietary tech stack, the framework.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1037.09,
+      "end_time": 1041.33
+    },
+    {
+      "text": "Gosh, my mind's gone blank.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1043.01,
+      "end_time": 1044.45
+    },
+    {
+      "text": "I'll come back to you on that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1045.01,
+      "end_time": 1046.41
+    },
+    {
+      "text": "Yeah, I don't know, but mine's gone blank because it's racing all over the place.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1046.41,
+      "end_time": 1049.89
+    },
+    {
+      "text": "It'll come back to me during the conversation even.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1049.89,
+      "end_time": 1051.65
+    },
+    {
+      "text": "That's fine.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1051.73,
+      "end_time": 1052.29
+    },
+    {
+      "text": "I would just like to, to know what it's built on.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1052.29,
+      "end_time": 1054.33
+    },
+    {
+      "text": "If you could send that afterwards.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1054.33,
+      "end_time": 1055.49
+    },
+    {
+      "text": "Yeah, that would be important, John and Jason, for us to take a look at and I'm going to be quiet now.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1055.93,
+      "end_time": 1061.21
+    },
+    {
+      "text": "That's okay.",
+      "speaker_name": "John Hogan",
+      "start_time": 1062.17,
+      "end_time": 1062.97
+    },
+    {
+      "text": "One of the things is, I know that might be important people on this call.",
+      "speaker_name": "John Hogan",
+      "start_time": 1063.29,
+      "end_time": 1066.65
+    },
+    {
+      "text": "I don't know how they're important, but they're not as smart, so.",
+      "speaker_name": "John Hogan",
+      "start_time": 1066.65,
+      "end_time": 1069.29
+    },
+    {
+      "text": "Hey, Stuart, is there any way you can show a little bit of the, of the technology?",
+      "speaker_name": "John Hogan",
+      "start_time": 1071.13,
+      "end_time": 1075.61
+    },
+    {
+      "text": "I know you're going to send something, but I think it's important for us to kind of be able to just visualize it a bit.",
+      "speaker_name": "John Hogan",
+      "start_time": 1076.65,
+      "end_time": 1081.572
+    },
+    {
+      "text": "Little bit.",
+      "speaker_name": "John Hogan",
+      "start_time": 1081.572,
+      "end_time": 1082.07
+    },
+    {
+      "text": "Of course, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1082.07,
+      "end_time": 1082.95
+    },
+    {
+      "text": "Well, let me, let me share screens.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1082.95,
+      "end_time": 1084.35
+    },
+    {
+      "text": "I'm sure I can show the entire screen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1084.35,
+      "end_time": 1087.95
+    },
+    {
+      "text": "Here we go.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1087.95,
+      "end_time": 1088.59
+    },
+    {
+      "text": "Can you see that?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1091.95,
+      "end_time": 1093.23
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 1093.55,
+      "end_time": 1094.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1094.67,
+      "end_time": 1095.31
+    },
+    {
+      "text": "All right, so there's, there's several kind of routes into the, the data.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1095.31,
+      "end_time": 1101.63
+    },
+    {
+      "text": "This is the sort of the, the tip of the spear, if you like, which is, we call it Plan Hub.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1102.91,
+      "end_time": 1107.71
+    },
+    {
+      "text": "Live in this particular area, you, you have a, a portfolio of basically every single company that's involved in retail media in any market.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1108.19,
+      "end_time": 1118.35
+    },
+    {
+      "text": "So I, I'm registered on the uk, of course, but it's all over the world.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1118.43,
+      "end_time": 1123.51
+    },
+    {
+      "text": "So every company, be you, a manufacturer, a brand owner, a retailer, packaging supplier, data evaluation partner, sampling agency, anybody who's, anybody who's part of the, the industry has an opportunity to sort of be involved in being part of the community because it's a community driven system.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1123.51,
+      "end_time": 1144.31
+    },
+    {
+      "text": "And that's important because it means that people sort of register and then they can use it a little bit like LinkedIn because frankly we felt that LinkedIn wasn't necessarily something that served our sector particularly well.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1145.27,
+      "end_time": 1156.71
+    },
+    {
+      "text": "Coupled with that is a list of media hosts.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1158.47,
+      "end_time": 1160.63
+    },
+    {
+      "text": "So again, where are There opportunities to invest money.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1160.79,
+      "end_time": 1165.14
+    },
+    {
+      "text": "So for example, if I go to the letter I in the UK market and I look at Iceland and so here's an example of Iceland as a retailer.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1165.78,
+      "end_time": 1181.7
+    },
+    {
+      "text": "It holds examples of things that have happened.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1182.18,
+      "end_time": 1185.06
+    },
+    {
+      "text": "So in this particular example, this is Mars, Twix and Galaxy.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1185.06,
+      "end_time": 1188.58
+    },
+    {
+      "text": "These are Mars related products.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1188.58,
+      "end_time": 1191.14
+    },
+    {
+      "text": "For Mars Inc.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1191.22,
+      "end_time": 1192.18
+    },
+    {
+      "text": "It's Foxes, Burton's company, who are the advertiser in that particular case.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1192.34,
+      "end_time": 1197
+    },
+    {
+      "text": "So that's an example of something that's been uploaded by a community member.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1197,
+      "end_time": 1201.92
+    },
+    {
+      "text": "So, you know, people get to see what's online in store, things that are connected, digital screens, point of sale, so on and so forth.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1201.92,
+      "end_time": 1213.2
+    },
+    {
+      "text": "So it's just like a repository, but then you've got access to all of the stores.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1213.2,
+      "end_time": 1218.8
+    },
+    {
+      "text": "So for example, if you wanted to see a particular store, this is Park Tower, I think that's in North Wales.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1219.2,
+      "end_time": 1225.02
+    },
+    {
+      "text": "You've got these things like a 10x3 which is available, so point of sale, a 12x4 which is a different size barker, a 4 insert cards for 4 stacks.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1226.62,
+      "end_time": 1238.3
+    },
+    {
+      "text": "All of these things are available for purchasing within this particular store.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1238.38,
+      "end_time": 1244.3
+    },
+    {
+      "text": "So if you wanted to go to Floor Vinyls as an example, it's a repository and a database, if you like, of everything that you could hope to buy within a particular retailer.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1244.78,
+      "end_time": 1259.67
+    },
+    {
+      "text": "So this Floor Vinyl is particularly good at being a round store.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1259.67,
+      "end_time": 1263.27
+    },
+    {
+      "text": "At Fixture in aisle, its engagement is about closing, shouting and stopping.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1263.27,
+      "end_time": 1267.75
+    },
+    {
+      "text": "Its conversion is awareness, consideration, education, interruption.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1267.91,
+      "end_time": 1271.39
+    },
+    {
+      "text": "Its compliance is very good.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1271.39,
+      "end_time": 1272.71
+    },
+    {
+      "text": "You can download specification details, obtain costs, you can see where it's sold to obtain a store list and then you've got the list of available locations where you can purchase it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1273.37,
+      "end_time": 1285.13
+    },
+    {
+      "text": "So as a just a process of holding these things together, we assemble that and put it into a platform where people can use it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1285.21,
+      "end_time": 1296.65
+    },
+    {
+      "text": "So this particular example that I've got Here is for WHSmith and we look after WHSMITH in Australia, for example.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1296.65,
+      "end_time": 1305.59
+    },
+    {
+      "text": "So if we bring all of those things together, we have something called a ramp, which is a retail activation, media planning system.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1306.63,
+      "end_time": 1313.99
+    },
+    {
+      "text": "So I'll show you now how a retailer would use this system to effectively bring their stuff into place.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1314.31,
+      "end_time": 1324.39
+    },
+    {
+      "text": "So this is Nestle Allen's.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1324.39,
+      "end_time": 1328.77
+    },
+    {
+      "text": "If I look at this, let's see what they've got here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1328.85,
+      "end_time": 1330.69
+    },
+    {
+      "text": "M M's kitkats.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1331.97,
+      "end_time": 1334.05
+    },
+    {
+      "text": "Let me look for.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1337.73,
+      "end_time": 1338.41
+    },
+    {
+      "text": "I'll look for a brand.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1338.41,
+      "end_time": 1339.33
+    },
+    {
+      "text": "Stuart, while you keep going here, just a background question.",
+      "speaker_name": "Girard Smith",
+      "start_time": 1339.65,
+      "end_time": 1342.05
+    },
+    {
+      "text": "Is this system in the US anywhere or is this all outside the us?",
+      "speaker_name": "Girard Smith",
+      "start_time": 1342.05,
+      "end_time": 1345.97
+    },
+    {
+      "text": "It's all outside the us.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1346.61,
+      "end_time": 1347.69
+    },
+    {
+      "text": "I'm very, very excited.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1347.69,
+      "end_time": 1348.69
+    },
+    {
+      "text": "That's one of the things I think would land incredibly well to, to be in the US market.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1348.69,
+      "end_time": 1353.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1353.4,
+      "end_time": 1353.88
+    },
+    {
+      "text": "And, and Stuart, Stuart, per.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1355.96,
+      "end_time": 1357.72
+    },
+    {
+      "text": "So like per client, you know, per portal.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1357.96,
+      "end_time": 1361.56
+    },
+    {
+      "text": "Does your team help manage that or, or is this self service or how does that work?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1362.12,
+      "end_time": 1366.52
+    },
+    {
+      "text": "Yeah, so it can be self service.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1366.52,
+      "end_time": 1367.96
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1367.96,
+      "end_time": 1368.68
+    },
+    {
+      "text": "So I mean for example within here, once you've got the, the Plan Hub system, I'll show you what we're currently doing for Endeavor Group.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1368.68,
+      "end_time": 1379.17
+    },
+    {
+      "text": "Who are the people in Australia?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1379.17,
+      "end_time": 1380.53
+    },
+    {
+      "text": "So if I go to the app section, it's got a whole apps section.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1380.85,
+      "end_time": 1384.61
+    },
+    {
+      "text": "It's like a comms portal.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1384.93,
+      "end_time": 1386.13
+    },
+    {
+      "text": "If you imagine Microsoft Teams where people can have group chats, one on one chat, you know, so we've got you know, all of these, these chats that are going on between various groups and things getting moved backwards and forwards.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1386.13,
+      "end_time": 1399.29
+    },
+    {
+      "text": "So this is the, the sort of the, the workhorse if you like because it's all about communication and passing files around and having that real time stuff.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1399.29,
+      "end_time": 1407.46
+    },
+    {
+      "text": "But we've got several apps.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1407.46,
+      "end_time": 1409.02
+    },
+    {
+      "text": "One of them is called Admin Pro.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1409.18,
+      "end_time": 1410.46
+    },
+    {
+      "text": "So for example this is where we give a dashboard for bws which is an example of one of the retailers of many where they can see who are the permitted users who are using the system, how many touch points have they got, their key dates, you know, are they all up to date or are there ones that are expiring soon?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1410.62,
+      "end_time": 1433.08
+    },
+    {
+      "text": "So that dashboard is done through here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1433.48,
+      "end_time": 1436.44
+    },
+    {
+      "text": "So for example all of the mediahost touch points that they would leverage.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1436.52,
+      "end_time": 1441.88
+    },
+    {
+      "text": "So if it's about digiscreen front of store there is a ability to curate all this information to upload pictures of it and set up specifications.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1442.84,
+      "end_time": 1452.68
+    },
+    {
+      "text": "It sold stores per in charge date or pages per issue or samples per day, they can all be configured, matched with stores and you know there's other information that sits in here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1453.48,
+      "end_time": 1467.61
+    },
+    {
+      "text": "So from that perspective as soon as we've helped them set it up it becomes a self serve environment.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1467.61,
+      "end_time": 1472.73
+    },
+    {
+      "text": "So not only for all their touch points, it does their workflows, it does their key dates.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1472.89,
+      "end_time": 1477.17
+    },
+    {
+      "text": "There might be financial years, promo charge dates in charge dates, trading weeks, the categorization.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1477.17,
+      "end_time": 1482.36
+    },
+    {
+      "text": "So the whole sort of taxonomy of departments, categories, subcategories in terms of how their money is distributed out stockist data.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1483.48,
+      "end_time": 1491.56
+    },
+    {
+      "text": "So it holds all the details of their, for example suppliers.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1491.56,
+      "end_time": 1494.52
+    },
+    {
+      "text": "So again if it's doing heavy lifting for billing, you know Proxima Australia, who are a big wine dealer, you know, we know their unique supplier id, billing id, alternative names, payment terms, dates, all of this is self managed within this Admin Pro area.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1494.52,
+      "end_time": 1515.61
+    },
+    {
+      "text": "So we don't have to touch it, it's all there and also we can take feeds through APIs and ingest that automatically and populate it from.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1516.17,
+      "end_time": 1524.81
+    },
+    {
+      "text": "Are people actually making payments directly on the platform or is it just reminds us?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1525.85,
+      "end_time": 1529.81
+    },
+    {
+      "text": "Not currently, no.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1529.81,
+      "end_time": 1530.65
+    },
+    {
+      "text": "I mean we have got stripe enabled payments but no, we're talking about exporting typically to Oracle PeopleSoft so going at scale into a billing platform.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1530.65,
+      "end_time": 1541
+    },
+    {
+      "text": "We do ingest from citrus ads for Sainsbury's so we take in all of their billings as well because we know that most large retailers are now in housing.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1541.32,
+      "end_time": 1552.2
+    },
+    {
+      "text": "So you know, as I say, we've witnessed large retailers like Albert Hein which is part of Ahold, Delheze Network, Kroger, Walmart, you know they're all stuck but there's dozens and dozens of dozens of retailers who can't necessarily afford to have a system of this quality where we can license it out very cheaply for them.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1552.6,
+      "end_time": 1576.5
+    },
+    {
+      "text": "Because once we've built the campaigns, as I said to you here, here's an example of one where I mean I'll show you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1577.3,
+      "end_time": 1586.1
+    },
+    {
+      "text": "That's why I think that the, the videos that we'll send you that follow up from this will say in more detail but you can dictate the source of investment.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1586.58,
+      "end_time": 1594.22
+    },
+    {
+      "text": "So it might be jbp, might be from a shopper budget might be a brand, it could be from the agency.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1594.3,
+      "end_time": 1598.62
+    },
+    {
+      "text": "It goes through a workflow of being a proposal to being booked, different form statuses, they can be shared amongst subscribers to the platform.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1599.18,
+      "end_time": 1608.86
+    },
+    {
+      "text": "There are various pro features that sit behind a paywall.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1609.58,
+      "end_time": 1613.5
+    },
+    {
+      "text": "You can do events, objectives so you don't have to have everything.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1614.18,
+      "end_time": 1617.18
+    },
+    {
+      "text": "It's sort of like a thin end of the wedge.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1617.18,
+      "end_time": 1620.02
+    },
+    {
+      "text": "You get people to adopt more and more functionalities over time.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1620.26,
+      "end_time": 1624.1
+    },
+    {
+      "text": "But touch point wise here's an example of things that are digital screen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1625.46,
+      "end_time": 1630.5
+    },
+    {
+      "text": "What's this one?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1631.22,
+      "end_time": 1632.02
+    },
+    {
+      "text": "Okay, that's a screen in Melbourne International Airport in the arrivals.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1633.7,
+      "end_time": 1640.38
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1640.38,
+      "end_time": 1641.06
+    },
+    {
+      "text": "So if I look at that screen they're charging 541 bucks.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1641.06,
+      "end_time": 1646.22
+    },
+    {
+      "text": "I think you're not sharing.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1646.22,
+      "end_time": 1648.18
+    },
+    {
+      "text": "Oh we're on the original, we're on the plan hub live screen.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1650.58,
+      "end_time": 1656.74
+    },
+    {
+      "text": "Oh sorry, maybe I should have done.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1657.06,
+      "end_time": 1660.9
+    },
+    {
+      "text": "So don't know how much of that you saw or not then.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1662.98,
+      "end_time": 1664.9
+    },
+    {
+      "text": "So entire screen, this one share.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1665.14,
+      "end_time": 1668.58
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1669.44,
+      "end_time": 1669.68
+    },
+    {
+      "text": "While you're doing that how do you link this to any kind of, you know a media mix modeling that's more upper funnel.",
+      "speaker_name": "Girard Smith",
+      "start_time": 1670.08,
+      "end_time": 1678.88
+    },
+    {
+      "text": "Is it connected to any or is it sort of a standalone in store activities?",
+      "speaker_name": "Girard Smith",
+      "start_time": 1678.88,
+      "end_time": 1683.04
+    },
+    {
+      "text": "I mean in principle because it's all data driven we could do.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1683.44,
+      "end_time": 1686.72
+    },
+    {
+      "text": "I'll show you, I'll show you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1687.28,
+      "end_time": 1688.76
+    },
+    {
+      "text": "I'll show you something in a moment which is probably not visible.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1688.76,
+      "end_time": 1691.32
+    },
+    {
+      "text": "So can you see this now?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1691.32,
+      "end_time": 1692.88
+    },
+    {
+      "text": "I'm scrolling down, I'm looking at inventory.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1693.12,
+      "end_time": 1694.88
+    },
+    {
+      "text": "So here's an example of where we take a live feed in for inventory where there's four of ten slots available.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1694.88,
+      "end_time": 1701.35
+    },
+    {
+      "text": "So this particular screen in Melbourne Airport for the 8th of July, which is coming up, they've booked Remedy, Dare, Body Science, Carmen's Emma and Toms and Signet.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1701.59,
+      "end_time": 1712.83
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1712.83,
+      "end_time": 1713.19
+    },
+    {
+      "text": "So it ranges from $618 for that screen for that week all the way down to $54.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1713.19,
+      "end_time": 1718.15
+    },
+    {
+      "text": "So the yield is $1,541 for that screen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1718.87,
+      "end_time": 1722.47
+    },
+    {
+      "text": "And they've got four left that they can sell.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1723.19,
+      "end_time": 1724.95
+    },
+    {
+      "text": "So it helps them understand and so they don't overbook.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1725.34,
+      "end_time": 1727.82
+    },
+    {
+      "text": "And yeah, I mean the feature SKUs that are part of that are Lipton Peach, 500 mil and so on and so forth.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1729.58,
+      "end_time": 1737.46
+    },
+    {
+      "text": "So that builds up into a kind of overview of what's being available, where they can build that up.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1737.46,
+      "end_time": 1749.34
+    },
+    {
+      "text": "And then ultimately, you know, this is coming out at $10,000 versus a rate card of 22,700.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1749.42,
+      "end_time": 1754.22
+    },
+    {
+      "text": "It holds final artwork, takes them through all sorts of workflow mechanics.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1755.52,
+      "end_time": 1764.32
+    },
+    {
+      "text": "If they wanted to adjust the package value, you know, if they want to charge 15,000, they can do that as a oner.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1764.48,
+      "end_time": 1769.6
+    },
+    {
+      "text": "They can either offer a blanket discount or apply a single cost to it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1769.6,
+      "end_time": 1772.96
+    },
+    {
+      "text": "There are guardrails.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1774.16,
+      "end_time": 1775.24
+    },
+    {
+      "text": "That means that it wouldn't get changed to a order form until it meets certain criteria, which might require six digit code from a, an authorized member of the team that says I'm happy to authorize that level of discount, full audit trail, so on and so forth.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1775.24,
+      "end_time": 1792.15
+    },
+    {
+      "text": "What I was going to say was from a, here's one for Eiffel for example, so Jammie Dodgers, which is a sort of cookie, where it starts to be interesting from a brand owner's perspective is that, you know, a brand owner who's using this on a self serve basis would know exactly what their campaign ROI metrics are.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1792.87,
+      "end_time": 1811.94
+    },
+    {
+      "text": "So for example, you know, they might want to say that stock replenishment is lower than average in that retailer, slightly, moderately or significantly, or that the act of activation coincides with some consumer facing activity which might slightly affect things.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1811.94,
+      "end_time": 1829.1
+    },
+    {
+      "text": "So they can sort of stipulate what's happening at the same time as their proposal.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1829.1,
+      "end_time": 1833.7
+    },
+    {
+      "text": "They can load in models of their sales.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1834.34,
+      "end_time": 1836.18
+    },
+    {
+      "text": "So if this was a feed that's coming in or whether they're putting it in automatic, they just have to say online, I'm selling 271,000 units a week in store I'm ranged in 792 stores.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1836.18,
+      "end_time": 1847.86
+    },
+    {
+      "text": "I'm selling £300,000 worth of product, 300,000 units a week.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1847.86,
+      "end_time": 1851.5
+    },
+    {
+      "text": "So they just put in their current sales and what that does is that once you've selected the touch points, it can start to contextualize what the spend is going to do.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1852.38,
+      "end_time": 1864.3
+    },
+    {
+      "text": "So in this particular case it's seven and a half, six and four and a half.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1864.3,
+      "end_time": 1867.02
+    },
+    {
+      "text": "It's about $50,000 worth of activation there.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1868.32,
+      "end_time": 1872.08
+    },
+    {
+      "text": "They can look at the benchmark optimization tool and go, right, okay, the digi screens, the floor, graphics and online.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1872.24,
+      "end_time": 1878.96
+    },
+    {
+      "text": "If I'm being asked to invest 6,000 bucks on a digi screen, what is that actually going to do for me?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1880.16,
+      "end_time": 1887.92
+    },
+    {
+      "text": "So during post and after.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1887.92,
+      "end_time": 1889.84
+    },
+    {
+      "text": "So there's a 28.53% uplift associated with a digital screen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1889.92,
+      "end_time": 1895.87
+    },
+    {
+      "text": "If I'm selling 39,000 in my 109 stores, that's where the screens occur.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1896.03,
+      "end_time": 1900.99
+    },
+    {
+      "text": "It's going to drive an extra 11,000 SKU sales worth £1,300.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1902.19,
+      "end_time": 1908.989
+    },
+    {
+      "text": "What's the accuracy on that, Stuart?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 1908.989,
+      "end_time": 1910.83
+    },
+    {
+      "text": "Like what?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 1910.83,
+      "end_time": 1911.23
+    },
+    {
+      "text": "That was my question.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 1911.23,
+      "end_time": 1912.11
+    },
+    {
+      "text": "When you tell that to a client, how close do you get?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 1913.55,
+      "end_time": 1916.67
+    },
+    {
+      "text": "Yes, we get very close.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1917.39,
+      "end_time": 1918.75
+    },
+    {
+      "text": "How do you confirm that?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1919.98,
+      "end_time": 1921.02
+    },
+    {
+      "text": "Well, if they get their own, their own report back post campaign that we've not been involved with, what they would actually do is they go from the industry benchmark, they go to the company benchmark and then they can basically put their own figures in.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1922.7,
+      "end_time": 1937.62
+    },
+    {
+      "text": "So when they're using the company benchmark over time they will replace our industry benchmark with their own figures because in each case they can actually unlock this.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1937.62,
+      "end_time": 1949.01
+    },
+    {
+      "text": "Sorry to interrupt you.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1951.09,
+      "end_time": 1952.21
+    },
+    {
+      "text": "This is an important point.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1952.69,
+      "end_time": 1953.81
+    },
+    {
+      "text": "Do you have any use cases you can show us where the benchmark aligned with the company benchmark aligned with the projection?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1954.53,
+      "end_time": 1963.97
+    },
+    {
+      "text": "Well, they all do because they're the results that we've compiled.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1965.57,
+      "end_time": 1970.21
+    },
+    {
+      "text": "So yes.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1970.69,
+      "end_time": 1971.33
+    },
+    {
+      "text": "Okay, yeah, I would just like to see how that works from the projection to the actual output.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1972.45,
+      "end_time": 1982.05
+    },
+    {
+      "text": "Yeah, right this moment.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1982.45,
+      "end_time": 1984.73
+    },
+    {
+      "text": "But I would like to see those.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 1984.73,
+      "end_time": 1985.73
+    },
+    {
+      "text": "Yeah, so that's kind of what we do.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1986.29,
+      "end_time": 1990.05
+    },
+    {
+      "text": "And then basically if I go back to the other portals, when you've got all of your activations into one place, you can start to run some pretty good reports.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1990.05,
+      "end_time": 1999.89
+    },
+    {
+      "text": "So this is WH Smith, which are sort of 40% of the way through their budgetary year.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2000.99,
+      "end_time": 2007.55
+    },
+    {
+      "text": "This is starting to aggregate all of the money that they've done.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2008.03,
+      "end_time": 2010.67
+    },
+    {
+      "text": "So there's seven.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2010.67,
+      "end_time": 2011.55
+    },
+    {
+      "text": "Well, they've got a target of $11.3 million.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2011.63,
+      "end_time": 2014.27
+    },
+    {
+      "text": "They've contracted 9.9 million and of that 9.9 million 7.4 has already been gone live.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2014.67,
+      "end_time": 2022.35
+    },
+    {
+      "text": "It means they've already, they're waiting on 2.5 million to continue.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2023.23,
+      "end_time": 2026.35
+    },
+    {
+      "text": "So if they wanted to start to break that down by department.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2026.43,
+      "end_time": 2029.19
+    },
+    {
+      "text": "So if I wanted to look at a department, let's say it was confectionary, they can drill into gums and mints for example, and then they can even look at individual companies.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2029.91,
+      "end_time": 2042.15
+    },
+    {
+      "text": "So if they're looking at Ferrero, they've gone live with $3,000.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2042.31,
+      "end_time": 2049.87
+    },
+    {
+      "text": "So you can get it down to individual campaign if need be.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2049.87,
+      "end_time": 2052.95
+    },
+    {
+      "text": "So they know.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2053.27,
+      "end_time": 2053.83
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2053.83,
+      "end_time": 2054.27
+    },
+    {
+      "text": "So this is what a lot of retailers don't understand is at any one point in time, what is it that their yield is by category, by department, by company.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2054.27,
+      "end_time": 2063.519
+    },
+    {
+      "text": "And we then go and this is really, really high level.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2065.199,
+      "end_time": 2067.759
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2067.759,
+      "end_time": 2067.959
+    },
+    {
+      "text": "So if we wanted to drill down into other reports that the system can kick out, there's no edge case in the last 20 years that retailers have presented us with that they can't actually answer and utilize.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2067.959,
+      "end_time": 2079.759
+    },
+    {
+      "text": "So Stuart, I know we're running a little over here and I don't know what Jason and Patrick have, but can you just pivot for a second and talk through how you monetize this and how your revenue stream today is generated, who's paying you, how the contracts look, you know, how do you, how do you make money?",
+      "speaker_name": "John Hogan",
+      "start_time": 2080.719,
+      "end_time": 2100.339
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2100.659,
+      "end_time": 2101.299
+    },
+    {
+      "text": "So we license that software to Sainsbury's and argos for around £700,000 a year.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2101.299,
+      "end_time": 2108.899
+    },
+    {
+      "text": "We provide the same tech to Endeavour Group in Australia for the equivalent of 150,000 pounds a year because they are, we scale the license fee based on the volume of activations that go through it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2111.63,
+      "end_time": 2127.629
+    },
+    {
+      "text": "So the bigger the retailer, the more they're likely to pay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2127.79,
+      "end_time": 2129.83
+    },
+    {
+      "text": "But that's obviously subject to negotiation.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2129.83,
+      "end_time": 2131.71
+    },
+    {
+      "text": "Iceland use it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2132.59,
+      "end_time": 2133.71
+    },
+    {
+      "text": "SSP use it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2133.71,
+      "end_time": 2134.91
+    },
+    {
+      "text": "Lagadhera about to use it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2135.87,
+      "end_time": 2137.63
+    },
+    {
+      "text": "Co op are using it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2137.87,
+      "end_time": 2139.15
+    },
+    {
+      "text": "So yeah, lots of retailers are paying a license fee to use the software that otherwise they would have had to invest millions of their own to utilize.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2139.88,
+      "end_time": 2149.4
+    },
+    {
+      "text": "Meanwhile, what percentage of your revenue is license fee?",
+      "speaker_name": "John Hogan",
+      "start_time": 2150.76,
+      "end_time": 2153.88
+    },
+    {
+      "text": "Well, historically not as much as we would be projecting moving forward, but in the region of about 30% to answer your question, that will increase.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2154.92,
+      "end_time": 2164.52
+    },
+    {
+      "text": "We believe that our kind of tech non service led income is going to increase to more like 80 or 85% of our overall mix income mix if we look at brand owners who pay us for our tech.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2164.6,
+      "end_time": 2179.56
+    },
+    {
+      "text": "So Heineken pay us £200,000 a year in the last week, sorry, the last month we've expanded out to work with Heineken in Belgium who saw the UK system decided they wanted it, so they're spending half, £100,000 licensing it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2180.04,
+      "end_time": 2197.7
+    },
+    {
+      "text": "Bird's Eye, Nomad Foods use it, Fox's Burtons use it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2198.18,
+      "end_time": 2202.86
+    },
+    {
+      "text": "And again, birdseye give us £90,000.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2202.86,
+      "end_time": 2205.66
+    },
+    {
+      "text": "Foxes give us £65,000.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2205.66,
+      "end_time": 2208.34
+    },
+    {
+      "text": "We're about to sign up Brit Vic Carlsberg.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2208.66,
+      "end_time": 2212.66
+    },
+    {
+      "text": "They are.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2213.14,
+      "end_time": 2213.78
+    },
+    {
+      "text": "That's another £200,000.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2214.74,
+      "end_time": 2216.38
+    },
+    {
+      "text": "So it's in that realms year year contracts paid monthly.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2216.38,
+      "end_time": 2220.74
+    },
+    {
+      "text": "Yes, yes, but we haven't even started yet because this is what we've been building.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2221.71,
+      "end_time": 2227.39
+    },
+    {
+      "text": "I mean it serves our core business but the purpose really is for us to be able to easily now syndicate this and start to take this out.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2229.15,
+      "end_time": 2236.91
+    },
+    {
+      "text": "So we've got a go to market proposition which is now literally about two weeks into operating.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2236.989,
+      "end_time": 2242.55
+    },
+    {
+      "text": "I've got a network of brand experts all over the world, in every market or covering every market, or in the process of presenting it to C suite level personnel to take on a modest, I would say subscription model.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2242.55,
+      "end_time": 2260.07
+    },
+    {
+      "text": "So we're aiming for £100,000 but able to settle at 35 or more.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2260.15,
+      "end_time": 2264.87
+    },
+    {
+      "text": "So they've got quite a degree of flexibility to sign people up.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2265.11,
+      "end_time": 2269.43
+    },
+    {
+      "text": "And what are your other revenue streams today?",
+      "speaker_name": "John Hogan",
+      "start_time": 2269.67,
+      "end_time": 2272.31
+    },
+    {
+      "text": "You're switching to where you think it's going to be more tech driven in the future.",
+      "speaker_name": "John Hogan",
+      "start_time": 2273.05,
+      "end_time": 2276.25
+    },
+    {
+      "text": "But what is it today?",
+      "speaker_name": "John Hogan",
+      "start_time": 2276.25,
+      "end_time": 2277.45
+    },
+    {
+      "text": "Yeah, so because we are in such close proximity to working with so many brands, we get money for insights, so providing insights and evaluation services.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2277.77,
+      "end_time": 2289.049
+    },
+    {
+      "text": "We get money for doing some creative work.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2289.85,
+      "end_time": 2294.25
+    },
+    {
+      "text": "So we do thousands of pieces of creative historically each year.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2294.89,
+      "end_time": 2299.45
+    },
+    {
+      "text": "But you know, it's just a margin, it's just a, an opportunity to make a bit of money with a few designers sat in a corner to do some final creative for digital screens or some printed point of sale, something like that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2299.45,
+      "end_time": 2309.8
+    },
+    {
+      "text": "We actually.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2310.84,
+      "end_time": 2311.48
+    },
+    {
+      "text": "Quick question about creative, how much is that in terms of your revenue?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2313,
+      "end_time": 2317.8
+    },
+    {
+      "text": "Like dollar wise it's about £350,000.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2318.12,
+      "end_time": 2321.16
+    },
+    {
+      "text": "Is that paid monthly or is it one time fees, one off projects?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2321.72,
+      "end_time": 2327
+    },
+    {
+      "text": "Combination of.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2327.16,
+      "end_time": 2328.04
+    },
+    {
+      "text": "It's probably split down the middle.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2328.48,
+      "end_time": 2329.52
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2330.56,
+      "end_time": 2330.92
+    },
+    {
+      "text": "It's end of year billing for retailers, it's pay as you go for brand owners.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2330.92,
+      "end_time": 2334
+    },
+    {
+      "text": "And that's mostly like digital in store.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2334.64,
+      "end_time": 2336.72
+    },
+    {
+      "text": "Digital, I mean shell in store.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2337.36,
+      "end_time": 2339.12
+    },
+    {
+      "text": "Like shelf design.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2339.12,
+      "end_time": 2340.4
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2341.92,
+      "end_time": 2342.8
+    },
+    {
+      "text": "What's your margin on that?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2343.28,
+      "end_time": 2344.72
+    },
+    {
+      "text": "Oh, it's about 60%.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2345.52,
+      "end_time": 2348
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2349.2,
+      "end_time": 2349.6
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2349.6,
+      "end_time": 2350
+    },
+    {
+      "text": "And then we move into placement of stuff.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2351.36,
+      "end_time": 2354.92
+    },
+    {
+      "text": "So because of our relationships we've got with brand owners and retailers, we introduced brands, so we just picked up $3 billion businesses in Latin America.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2354.92,
+      "end_time": 2364.39
+    },
+    {
+      "text": "I say just in the last 12 months we're working with Natura Balduco and Arcor, three enormous businesses in the region.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2364.39,
+      "end_time": 2371.35
+    },
+    {
+      "text": "We've helped them get into retailers in the travel sector.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2371.91,
+      "end_time": 2374.83
+    },
+    {
+      "text": "So Lagadaire, Avolta, W.H.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2374.83,
+      "end_time": 2377.35
+    },
+    {
+      "text": "smith.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2377.43,
+      "end_time": 2377.99
+    },
+    {
+      "text": "We've got them into Spain, Germany, Australia, North America.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2378.07,
+      "end_time": 2381.47
+    },
+    {
+      "text": "In fact, we just won vendor of the year for one of those clients in North America for WHSmith because we managed to get them a listing that they didn't previously have.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2381.47,
+      "end_time": 2390.47
+    },
+    {
+      "text": "We take from two sides of the table.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2390.79,
+      "end_time": 2392.35
+    },
+    {
+      "text": "So basically, if they invest, say $250,000 in a listing fee and launch package, we get somewhere between 10 and 15% of that back from the retailer and we also get an ongoing commission of somewhere between 10 and 15% of the value of the stock that is thereafter bought.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2392.35,
+      "end_time": 2408.23
+    },
+    {
+      "text": "So if we got Balduco massive wafer business into North America and, you know, if they order a million dollars worth of wafers over the next 12 months, we'll get $150,000 of that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2408.23,
+      "end_time": 2419.78
+    },
+    {
+      "text": "So we never even saw that one coming.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2420.1,
+      "end_time": 2421.7
+    },
+    {
+      "text": "I mean, that's just a kind of land and expand opportunity for us.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2421.7,
+      "end_time": 2425.18
+    },
+    {
+      "text": "We went in with the tech, but are able to leverage other income streams, be it media planning, buying, creative commission.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2425.18,
+      "end_time": 2434.02
+    },
+    {
+      "text": "If there's money there, we'll take it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2435.22,
+      "end_time": 2436.74
+    },
+    {
+      "text": "Stuart, why are you looking to an exit at this time?",
+      "speaker_name": "John Hogan",
+      "start_time": 2438.28,
+      "end_time": 2441.64
+    },
+    {
+      "text": "I'm not looking to exit.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2442.28,
+      "end_time": 2443.56
+    },
+    {
+      "text": "My business partner at the point of COVID striking, literally the week one of COVID was diagnosed as having prostate cancer.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2444.92,
+      "end_time": 2454.2
+    },
+    {
+      "text": "He's older than me, thank goodness.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2454.279,
+      "end_time": 2456.96
+    },
+    {
+      "text": "It's now five years on.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2456.96,
+      "end_time": 2458.24
+    },
+    {
+      "text": "He hasn't been in the business.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2458.24,
+      "end_time": 2459.24
+    },
+    {
+      "text": "He is in full remission, which is great, but he's taken a bit of a different perspective on life since that's happened.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2459.88,
+      "end_time": 2467.07
+    },
+    {
+      "text": "And no, he would just like to see a return on his investment for the last 20 years.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2467.47,
+      "end_time": 2475.63
+    },
+    {
+      "text": "Myself, I'm 54, I've got a great team who I'm very proud of and I've done well financially, thanks very much.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2476.43,
+      "end_time": 2486.23
+    },
+    {
+      "text": "But the reality is this is my absolute passion and I want to see it grow and scale and become a legacy, really.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2486.23,
+      "end_time": 2495.38
+    },
+    {
+      "text": "It has the right and should be the system of record globally for every retailer and every brand owner.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2496.26,
+      "end_time": 2502.98
+    },
+    {
+      "text": "I want it to be up there with the citrus ads and grateos, and I'm very driven to see that happen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2503.06,
+      "end_time": 2509.06
+    },
+    {
+      "text": "Stuart, who do you normally sell this to?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2509.54,
+      "end_time": 2513.14
+    },
+    {
+      "text": "Like, do you go to a chief marketing officer of a retailer?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2513.94,
+      "end_time": 2516.86
+    },
+    {
+      "text": "Like who.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2516.86,
+      "end_time": 2517.26
+    },
+    {
+      "text": "Who's a decision maker at these retailers?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2517.26,
+      "end_time": 2519.3
+    },
+    {
+      "text": "It's not really our business to.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2519.3,
+      "end_time": 2520.82
+    },
+    {
+      "text": "To do this.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2521.13,
+      "end_time": 2521.61
+    },
+    {
+      "text": "It doesn't mean couldn't be.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2521.61,
+      "end_time": 2522.89
+    },
+    {
+      "text": "I'm just trying to get in the Game like who would the person that you try to sell this to and what's the sales cycle look like?",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2523.29,
+      "end_time": 2530.57
+    },
+    {
+      "text": "So it's obviously an answer in two parts is the retailer answer and there's the brand owner answer and the retailer.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2531.69,
+      "end_time": 2536.37
+    },
+    {
+      "text": "In this sector, generally, we're pretty well known, right?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2536.37,
+      "end_time": 2538.97
+    },
+    {
+      "text": "Retailers are quite cyclical, so every time there is an rfp, we tend to be invited.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2540.17,
+      "end_time": 2544.09
+    },
+    {
+      "text": "So that would be through a procurement route and then we would be shortlisted, then we'd present and then we'd be chosen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2545.05,
+      "end_time": 2550.01
+    },
+    {
+      "text": "We have two strategic sales partners for retailers.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2551.58,
+      "end_time": 2555.26
+    },
+    {
+      "text": "We're operating with two of the world's biggest digital signage operators.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2555.5,
+      "end_time": 2558.86
+    },
+    {
+      "text": "One is called M Cube, the other is called Mood Media.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2558.86,
+      "end_time": 2562.22
+    },
+    {
+      "text": "So Mood Media were responsible for introducing us and winning us the business with Endeavour Group.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2562.78,
+      "end_time": 2568.9
+    },
+    {
+      "text": "That's one of about 200 retailers that they represent globally.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2568.9,
+      "end_time": 2573.94
+    },
+    {
+      "text": "This is the first one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2573.94,
+      "end_time": 2574.94
+    },
+    {
+      "text": "They went bank straight in for the Bullseye and we got it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2575.02,
+      "end_time": 2578.05
+    },
+    {
+      "text": "So they're now very excited and they're introducing us to other people that they work with so that we can.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2578.61,
+      "end_time": 2583.41
+    },
+    {
+      "text": "Because they get a small revenue share, but importantly they.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2583.81,
+      "end_time": 2586.05
+    },
+    {
+      "text": "They get to talk about something different that other digital signage providers can't talk because they're highly commoditized.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2586.13,
+      "end_time": 2590.93
+    },
+    {
+      "text": "We've got the best screen, how much?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2590.93,
+      "end_time": 2592.65
+    },
+    {
+      "text": "We've got the best media player, what is it per month?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2592.65,
+      "end_time": 2594.93
+    },
+    {
+      "text": "They haven't got much place to go after that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2595.01,
+      "end_time": 2597.29
+    },
+    {
+      "text": "But when they say we've got the best operating system that can actually help you optimize your supplier income and double it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2597.29,
+      "end_time": 2603.57
+    },
+    {
+      "text": "That's what we've done for other retailers.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2603.86,
+      "end_time": 2605.02
+    },
+    {
+      "text": "They're very excited to talk about it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2605.02,
+      "end_time": 2606.82
+    },
+    {
+      "text": "So we tend to go in via RFPs and.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2607.06,
+      "end_time": 2610.02
+    },
+    {
+      "text": "Or strategic partners.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2610.02,
+      "end_time": 2611.62
+    },
+    {
+      "text": "By the way, MQ, we just got us the co op, so it's contracted for three years for independent cultural societies.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2611.78,
+      "end_time": 2617.62
+    },
+    {
+      "text": "They've got over three and a half thousand stores across the UK.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2617.62,
+      "end_time": 2619.62
+    },
+    {
+      "text": "We're getting £5 per screen per month for our software.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2620.58,
+      "end_time": 2623.62
+    },
+    {
+      "text": "But it's not about screens, it's about all the other touch points as well.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2623.62,
+      "end_time": 2628.1
+    },
+    {
+      "text": "When it comes to brand owners, it tends to be CMO level.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2628.74,
+      "end_time": 2631.94
+    },
+    {
+      "text": "No, you're absolutely right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2632.08,
+      "end_time": 2632.92
+    },
+    {
+      "text": "It's either head of brand or head of shopper.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2632.92,
+      "end_time": 2636.56
+    },
+    {
+      "text": "And again, they just take one look at what we've got and what we're capable of doing and they seem to get pretty excited and on board.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2637.44,
+      "end_time": 2643.36
+    },
+    {
+      "text": "But our struggle is to just sort of hit the right person at the right time, because we're a relatively small team.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2644.16,
+      "end_time": 2649.36
+    },
+    {
+      "text": "You know, there's 30 of us, so we are.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2649.36,
+      "end_time": 2653.44
+    },
+    {
+      "text": "Our growth to date has only ever been achieved through our own cash flow.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2654.56,
+      "end_time": 2657.52
+    },
+    {
+      "text": "So we're ready and capable of scaling.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2659.03,
+      "end_time": 2662.11
+    },
+    {
+      "text": "So hence the.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2662.11,
+      "end_time": 2662.95
+    },
+    {
+      "text": "To answer your question, John, it's not about wanting to exit, it's about wanting to grow.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2663.11,
+      "end_time": 2667.83
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "John Hogan",
+      "start_time": 2670.47,
+      "end_time": 2671.03
+    },
+    {
+      "text": "Helpful.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2671.03,
+      "end_time": 2671.67
+    },
+    {
+      "text": "Jason.",
+      "speaker_name": "John Hogan",
+      "start_time": 2674.95,
+      "end_time": 2675.51
+    },
+    {
+      "text": "Patrick, anything else?",
+      "speaker_name": "John Hogan",
+      "start_time": 2675.67,
+      "end_time": 2677.19
+    },
+    {
+      "text": "I know we're over here a little bit.",
+      "speaker_name": "John Hogan",
+      "start_time": 2677.19,
+      "end_time": 2678.95
+    },
+    {
+      "text": "That's all I can think of right now.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2680.07,
+      "end_time": 2681.83
+    },
+    {
+      "text": "Yeah, I guess.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2681.83,
+      "end_time": 2683.07
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2683.07,
+      "end_time": 2683.35
+    },
+    {
+      "text": "Really helpful, thank you.",
+      "speaker_name": "Jason Reiser",
+      "start_time": 2684.83,
+      "end_time": 2686.63
+    },
+    {
+      "text": "So there's two videos that we're going to send you, Andrew.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2686.63,
+      "end_time": 2690.11
+    },
+    {
+      "text": "We'll stay on the line.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2690.27,
+      "end_time": 2691.03
+    },
+    {
+      "text": "We can do that afterwards.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2691.03,
+      "end_time": 2691.91
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2691.91,
+      "end_time": 2692.19
+    },
+    {
+      "text": "There's a kind of a retailer flavor and there's the brand owner flavor.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2692.99,
+      "end_time": 2696.59
+    },
+    {
+      "text": "You'll just see it through the same platform, two different lenses, and you'll see a slightly broader element of what the system's capabilities are within those two videos.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2696.83,
+      "end_time": 2706.99
+    },
+    {
+      "text": "Stuart, my last question.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2707.63,
+      "end_time": 2709.88
+    },
+    {
+      "text": "Sorry, John.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2709.88,
+      "end_time": 2710.44
+    },
+    {
+      "text": "When was the.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2710.44,
+      "end_time": 2711.28
+    },
+    {
+      "text": "The platform actually built?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2711.36,
+      "end_time": 2713.36
+    },
+    {
+      "text": "It's been built over the last 15 years and it's in various situations, as I say, moves from the iPhone One to the iPhone 15 scenario plan hub, as you've seen, actually it's got started building in 2020.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2714.4,
+      "end_time": 2728.564
+    },
+    {
+      "text": "2020.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2728.796,
+      "end_time": 2729.84
+    },
+    {
+      "text": "So that's, that's been built since 2020.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2730.08,
+      "end_time": 2731.84
+    },
+    {
+      "text": "Can you get us information?",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2731.92,
+      "end_time": 2733.04
+    },
+    {
+      "text": "Doesn't have to be today on what it was.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2733.2,
+      "end_time": 2734.84
+    },
+    {
+      "text": "What, what it was built on the Tech stack.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2734.84,
+      "end_time": 2736.75
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2737.71,
+      "end_time": 2738.19
+    },
+    {
+      "text": "So I mean, it uses, for example, that, that front end is using bubble.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2738.27,
+      "end_time": 2741.47
+    },
+    {
+      "text": "So it's a low code, no code environment, but it's linked to a Supabase backend, the framework that the rest of this platform's done in the APIs and the OAuth2 stuff.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2742.03,
+      "end_time": 2751.43
+    },
+    {
+      "text": "It's, it's.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2751.43,
+      "end_time": 2752.11
+    },
+    {
+      "text": "We've got a tech stack document, so I can share that with you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2752.75,
+      "end_time": 2755.43
+    },
+    {
+      "text": "I said in the data.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2755.43,
+      "end_time": 2756.19
+    },
+    {
+      "text": "I think it's got, it's got it all listed out in there.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2756.27,
+      "end_time": 2758.83
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Patrick Peters III",
+      "start_time": 2759.31,
+      "end_time": 2759.87
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2761.72,
+      "end_time": 2762.08
+    },
+    {
+      "text": "Hey, Andrew Stewart, we really appreciate your time.",
+      "speaker_name": "John Hogan",
+      "start_time": 2762.08,
+      "end_time": 2764.2
+    },
+    {
+      "text": "Why don't you let us get the videos, get this information from you on the tech stack and then give us a chance to kind of digest it, have a little conversation internally and then, Andrew, I'll come back to you with kind of maybe our level of interest.",
+      "speaker_name": "John Hogan",
+      "start_time": 2764.2,
+      "end_time": 2777.44
+    },
+    {
+      "text": "Next steps.",
+      "speaker_name": "John Hogan",
+      "start_time": 2777.44,
+      "end_time": 2778.2
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2779,
+      "end_time": 2779.48
+    },
+    {
+      "text": "All right, thank you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2779.56,
+      "end_time": 2780.6
+    },
+    {
+      "text": "Thank you very much.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2780.68,
+      "end_time": 2781.52
+    },
+    {
+      "text": "Patrick, do it again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2781.52,
+      "end_time": 2783.52
+    },
+    {
+      "text": "Thank you very much.",
+      "speaker_name": "John Hogan",
+      "start_time": 2783.52,
+      "end_time": 2784.28
+    },
+    {
+      "text": "You're very welcome.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2785.24,
+      "end_time": 2785.96
+    },
+    {
+      "text": "It's nice to spend time with you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2785.96,
+      "end_time": 2787.32
+    },
+    {
+      "text": "Have a good day.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2787.42,
+      "end_time": 2787.98
+    },
+    {
+      "text": "Take care, guys.",
+      "speaker_name": "John Hogan",
+      "start_time": 2788.22,
+      "end_time": 2789.1
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2789.58,
+      "end_time": 2789.98
+    },
+    {
+      "text": "Well, that went well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2792.14,
+      "end_time": 2793.1
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2794.46,
+      "end_time": 2794.78
+    },
+    {
+      "text": "Yeah, I think so.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2794.78,
+      "end_time": 2795.5
+    },
+    {
+      "text": "Nice people.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2796.06,
+      "end_time": 2796.78
+    },
+    {
+      "text": "You've only met John, as a result of this particular conversation.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2797.26,
+      "end_time": 2799.86
+    },
+    {
+      "text": "You not met him before?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2799.86,
+      "end_time": 2800.58
+    },
+    {
+      "text": "No, no, I haven't met him before, no.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2800.58,
+      "end_time": 2803.74
+    },
+    {
+      "text": "But very affable.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2803.74,
+      "end_time": 2805.18
+    },
+    {
+      "text": "A really nice guy and yeah, he's grown a Huge business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2805.34,
+      "end_time": 2809.9
+    },
+    {
+      "text": "Very clever.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2810.14,
+      "end_time": 2810.94
+    },
+    {
+      "text": "Smart fella.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2811.18,
+      "end_time": 2812.14
+    },
+    {
+      "text": "He's done two turns of the pe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2814.31,
+      "end_time": 2815.67
+    },
+    {
+      "text": "I told you about it, didn't I?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2815.67,
+      "end_time": 2817.35
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2817.43,
+      "end_time": 2817.91
+    },
+    {
+      "text": "To retain his equity and keep going.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2819.35,
+      "end_time": 2821.43
+    },
+    {
+      "text": "Yeah, again, tough.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2822.15,
+      "end_time": 2824.55
+    },
+    {
+      "text": "Oh, what's his name?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2824.95,
+      "end_time": 2825.83
+    },
+    {
+      "text": "Patrick Peters.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2826.23,
+      "end_time": 2827.15
+    },
+    {
+      "text": "Goodness me, he's cracking a whip there.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2827.15,
+      "end_time": 2831.23
+    },
+    {
+      "text": "And he on the.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2831.23,
+      "end_time": 2831.91
+    },
+    {
+      "text": "Yeah, we will see.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2833.99,
+      "end_time": 2835.99
+    },
+    {
+      "text": "So let's dig out the links.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2836.15,
+      "end_time": 2838.43
+    },
+    {
+      "text": "Yeah, I've got one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2838.43,
+      "end_time": 2840.36
+    },
+    {
+      "text": "I've got the TSG plan Hub that was came with the following message.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2840.36,
+      "end_time": 2845.12
+    },
+    {
+      "text": "This is probably the one to share with Coolco.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2845.12,
+      "end_time": 2847.44
+    },
+    {
+      "text": "So is that, is that the one or is there a different version?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2848.48,
+      "end_time": 2851.76
+    },
+    {
+      "text": "Because you mentioned two flavors.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2851.76,
+      "end_time": 2853.36
+    },
+    {
+      "text": "I did.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2853.52,
+      "end_time": 2854.08
+    },
+    {
+      "text": "When did I send that one to you, Andy?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2856,
+      "end_time": 2857.76
+    },
+    {
+      "text": "You sent that on April 25th.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2858.72,
+      "end_time": 2861.68
+    },
+    {
+      "text": "It alternative fly through SSP.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2864.57,
+      "end_time": 2898.86
+    },
+    {
+      "text": "This is the one show with cool code.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2898.86,
+      "end_time": 2900.18
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2900.18,
+      "end_time": 2900.38
+    },
+    {
+      "text": "Let me double check.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2900.38,
+      "end_time": 2901.22
+    },
+    {
+      "text": "Yeah, okay, so that's, that's the one that is.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2906.019,
+      "end_time": 2908.9
+    },
+    {
+      "text": "Yeah, I'm happy with that one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2908.9,
+      "end_time": 2910.02
+    },
+    {
+      "text": "So let me now find the one which is the brand owner one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2910.34,
+      "end_time": 2914.02
+    },
+    {
+      "text": "Yeah, that's this one here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2914.5,
+      "end_time": 2916.34
+    },
+    {
+      "text": "I'll go and find it in our file server.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2928.84,
+      "end_time": 2931.64
+    },
+    {
+      "text": "I've got the tech stack overview which was mentioned just at the end there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2963.89,
+      "end_time": 2967.97
+    },
+    {
+      "text": "So is that the other document that they need to get with this?",
+      "speaker_name": "Andrew Day",
+      "start_time": 2967.97,
+      "end_time": 2971.54
+    },
+    {
+      "text": "Yes, yes please.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2971.86,
+      "end_time": 2975.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2977.7,
+      "end_time": 2978.26
+    },
+    {
+      "text": "I cannot see the brand version of the fly through.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2978.26,
+      "end_time": 2981.22
+    },
+    {
+      "text": "So that's the only thing that I'm sure on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2981.3,
+      "end_time": 2983.78
+    },
+    {
+      "text": "Okay, I'll get the link from here and then send it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 2993.7,
+      "end_time": 3003.27
+    },
+    {
+      "text": "I found a deck to accompany it and yeah, I wasn't quite sure to lean in on to the retailers or to the brand owners.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3003.27,
+      "end_time": 3029.24
+    },
+    {
+      "text": "It's a bit hard to know where they both sit.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3029.24,
+      "end_time": 3032.2
+    },
+    {
+      "text": "Yeah, I think they are seeing the opportunity with both sides.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3033.24,
+      "end_time": 3037.8
+    },
+    {
+      "text": "Obviously they're selling to brands because they're, you know, they're doing media spend across different networks or maybe they're going direct to agencies, I don't know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3037.88,
+      "end_time": 3049.17
+    },
+    {
+      "text": "But I discussed it with John and he, I mean he definitely sees the whole retail space thing but they're very digital oriented as well and I think that would be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3052.85,
+      "end_time": 3063.33
+    },
+    {
+      "text": "I think it was quite, it is quite interesting the way that you can book those campaigns via a system but they're physical campaigns in every store, which is great.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3063.73,
+      "end_time": 3071.41
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3072.46,
+      "end_time": 3074.18
+    },
+    {
+      "text": "So this is a plan Hub video and deck.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3074.18,
+      "end_time": 3078.7
+    },
+    {
+      "text": "It's gonna be in the distribute about the things that we send after we've signed an NDA.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3079.66,
+      "end_time": 3084.74
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3084.74,
+      "end_time": 3085.1
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3087.5,
+      "end_time": 3088.3
+    },
+    {
+      "text": "That should be with you any second now, Andrew.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3091.26,
+      "end_time": 3093.34
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3094.38,
+      "end_time": 3097.52
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3105.03,
+      "end_time": 3105.27
+    },
+    {
+      "text": "So those are the three things we're going to send.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3105.27,
+      "end_time": 3107.67
+    },
+    {
+      "text": "First, you want an NDA before you share them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3107.67,
+      "end_time": 3109.75
+    },
+    {
+      "text": "I'll get Ahmed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3110.15,
+      "end_time": 3111.27
+    },
+    {
+      "text": "Yeah, I kind of assumed that we were already under NDA.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3112.71,
+      "end_time": 3114.79
+    },
+    {
+      "text": "I thought it was part of the process.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3114.79,
+      "end_time": 3115.83
+    },
+    {
+      "text": "Now we have an NDA.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3115.91,
+      "end_time": 3117.91
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3117.91,
+      "end_time": 3118.31
+    },
+    {
+      "text": "Which is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3118.31,
+      "end_time": 3118.87
+    },
+    {
+      "text": "They sign first before they download the image.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3119.03,
+      "end_time": 3123.05
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3123.12,
+      "end_time": 3123.4
+    },
+    {
+      "text": "Some clients like to have a three way NDA as well, which I can ask Ahmed to prepare.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3123.4,
+      "end_time": 3129.72
+    },
+    {
+      "text": "If you're worried that there's no.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3129.72,
+      "end_time": 3132.28
+    },
+    {
+      "text": "If they've already signed an NDA, then that's fine.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3132.28,
+      "end_time": 3134.28
+    },
+    {
+      "text": "I just don't, you know, I don't.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3134.28,
+      "end_time": 3135.36
+    },
+    {
+      "text": "If I'm sending them that, I just want to make sure that we're covered, that they're not going to copy it, share it around or start publishing it on.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3135.36,
+      "end_time": 3141.92
+    },
+    {
+      "text": "Yeah, the NDA covers that, but it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3142.08,
+      "end_time": 3143.84
+    },
+    {
+      "text": "But the NDA is with us, obviously, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3143.84,
+      "end_time": 3146
+    },
+    {
+      "text": "Yeah, but it covers you as our client.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3146.08,
+      "end_time": 3148.08
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3148.08,
+      "end_time": 3148.68
+    },
+    {
+      "text": "I'm happy with that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3148.68,
+      "end_time": 3149.44
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3149.74,
+      "end_time": 3150.02
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3150.02,
+      "end_time": 3150.7
+    },
+    {
+      "text": "Your emails to me are always really slow for some reason.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3153.82,
+      "end_time": 3156.46
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3157.5,
+      "end_time": 3157.82
+    },
+    {
+      "text": "So I've got the link and the PDF.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3157.82,
+      "end_time": 3161.66
+    },
+    {
+      "text": "So the easiest way to share these is to send the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3161.66,
+      "end_time": 3165.26
+    },
+    {
+      "text": "This one is not the same format as the other one is to send the link.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3165.579,
+      "end_time": 3171.1
+    },
+    {
+      "text": "Send the two PDFs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3171.34,
+      "end_time": 3172.66
+    },
+    {
+      "text": "One has a link in the PDF, doesn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 3172.66,
+      "end_time": 3175.06
+    },
+    {
+      "text": "A watch link.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3175.06,
+      "end_time": 3175.9
+    },
+    {
+      "text": "I send them both with the other.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3181.85,
+      "end_time": 3183.13
+    },
+    {
+      "text": "So you should have a PDF, which is the SSP one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3183.13,
+      "end_time": 3185.69
+    },
+    {
+      "text": "The other PDF is the overview of PlanHub and the link is the video for PlanHub, which is the brand.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3187.13,
+      "end_time": 3193.29
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3194.41,
+      "end_time": 3194.97
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3194.97,
+      "end_time": 3195.25
+    },
+    {
+      "text": "I've got all three things to send them on and then we'll give them a few days.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3195.25,
+      "end_time": 3200.89
+    },
+    {
+      "text": "I'll chase John Friday in two days.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3200.89,
+      "end_time": 3206.02
+    },
+    {
+      "text": "I'll chase him early next week and see how far he's got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3207.94,
+      "end_time": 3210.82
+    },
+    {
+      "text": "What was the other company that we almost had a chance to speak to last Friday but didn't come back?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3211.22,
+      "end_time": 3216.1
+    },
+    {
+      "text": "Are they not getting back to you yet?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3216.1,
+      "end_time": 3218.26
+    },
+    {
+      "text": "Good question.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3219.7,
+      "end_time": 3220.34
+    },
+    {
+      "text": "I don't know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3223.14,
+      "end_time": 3223.82
+    },
+    {
+      "text": "I was kind of stepping in for Ahmed because it was eid.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3223.82,
+      "end_time": 3226.5
+    },
+    {
+      "text": "So I will chase up with Ahmed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3229.63,
+      "end_time": 3230.99
+    },
+    {
+      "text": "He's got the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3230.99,
+      "end_time": 3231.63
+    },
+    {
+      "text": "He's got the full list.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3231.63,
+      "end_time": 3232.63
+    },
+    {
+      "text": "I only get the internal digital one where it's automated, but he.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3232.63,
+      "end_time": 3237.87
+    },
+    {
+      "text": "He's got the master list somewhere.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3237.95,
+      "end_time": 3239.71
+    },
+    {
+      "text": "Well, being our CRM, but it just means waiting while I.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3241.87,
+      "end_time": 3245.31
+    },
+    {
+      "text": "Do you have any constructive feedback in terms of that session?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3248.83,
+      "end_time": 3253.94
+    },
+    {
+      "text": "It's been a while since we've done one, so.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3253.94,
+      "end_time": 3255.74
+    },
+    {
+      "text": "Not really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3262.86,
+      "end_time": 3263.42
+    },
+    {
+      "text": "I think it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3263.42,
+      "end_time": 3263.98
+    },
+    {
+      "text": "I think it is structured quite well the way you do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3264.14,
+      "end_time": 3266.42
+    },
+    {
+      "text": "Obviously there's a lot of talking at the start, but I was monitoring everybody to see if there was yawns or boredom and there isn't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3266.42,
+      "end_time": 3273.58
+    },
+    {
+      "text": "So it's clearly riveting stuff for them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3273.66,
+      "end_time": 3277.5
+    },
+    {
+      "text": "I think it probably Demonstrates that there's a level of domain expertise within the company because it's about saying enough.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3278.38,
+      "end_time": 3288.35
+    },
+    {
+      "text": "I saw Jason doing quite a lot of nodding, actually.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3288.67,
+      "end_time": 3291.47
+    },
+    {
+      "text": "It just means hopefully everything else that you say thereafter is anchored to a point that, you know, you do have a common interest in what the subject matter is.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3292.75,
+      "end_time": 3302.15
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3302.15,
+      "end_time": 3302.51
+    },
+    {
+      "text": "Yeah, yeah, I think it comes across that you genuinely care about the subject as well and that you're.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3302.99,
+      "end_time": 3310.05
+    },
+    {
+      "text": "You're really into it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3310.05,
+      "end_time": 3311.01
+    },
+    {
+      "text": "So I.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3312.77,
+      "end_time": 3313.17
+    },
+    {
+      "text": "I think overall is a good impression.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3313.17,
+      "end_time": 3314.93
+    },
+    {
+      "text": "I will.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3314.93,
+      "end_time": 3315.89
+    },
+    {
+      "text": "I'll.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3316.21,
+      "end_time": 3317.17
+    },
+    {
+      "text": "Maybe I'll read through all of the stuff again because we spit out a Fireflies as well and see if I can spot anything else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3317.17,
+      "end_time": 3326.45
+    },
+    {
+      "text": "But as far as I could tell, it seemed to be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3326.45,
+      "end_time": 3328.85
+    },
+    {
+      "text": "It seemed to go really well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3328.93,
+      "end_time": 3330.21
+    },
+    {
+      "text": "Yeah, everybody was engaged and, yeah, it wasn't all demo heavy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3330.37,
+      "end_time": 3337.84
+    },
+    {
+      "text": "I think if we just jumped in and said, right, here's the demo, it wouldn't be anywhere near as good as getting.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3337.84,
+      "end_time": 3343
+    },
+    {
+      "text": "I think it's important for chemistry, see if there's chemistry between the two teams.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3343.4,
+      "end_time": 3348.4
+    },
+    {
+      "text": "And that's what these calls really are for, for us, is to see if you like them as a group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3348.4,
+      "end_time": 3352.76
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3353.08,
+      "end_time": 3353.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3353.96,
+      "end_time": 3354.36
+    },
+    {
+      "text": "Which.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3354.36,
+      "end_time": 3354.68
+    },
+    {
+      "text": "Which I feel we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3354.68,
+      "end_time": 3355.68
+    },
+    {
+      "text": "We get from.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3355.68,
+      "end_time": 3356.52
+    },
+    {
+      "text": "From it usually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3356.6,
+      "end_time": 3357.64
+    },
+    {
+      "text": "And then obviously, yeah, he brought all those people on to get the demo side of things, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3358.52,
+      "end_time": 3363.24
+    },
+    {
+      "text": "Yeah, okay, good.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3363.64,
+      "end_time": 3366.12
+    },
+    {
+      "text": "I mean, you saw that we did the work with Jammy Dodges and what we did for Omnicom, and that was an exact match in terms of what we thought the uplift would be associated versus what it was.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3367.8,
+      "end_time": 3382.84
+    },
+    {
+      "text": "So within a few quid.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3383.96,
+      "end_time": 3385.08
+    },
+    {
+      "text": "So that should shut Patrick up if he.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3385.16,
+      "end_time": 3388.76
+    },
+    {
+      "text": "It kicks, that one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3389.22,
+      "end_time": 3390.18
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3390.58,
+      "end_time": 3391.14
+    },
+    {
+      "text": "All right, thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3392.42,
+      "end_time": 3393.94
+    },
+    {
+      "text": "Well, yeah, keep.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3394.18,
+      "end_time": 3395.34
+    },
+    {
+      "text": "Keep us posted.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3395.34,
+      "end_time": 3396.26
+    },
+    {
+      "text": "Yeah, we'll.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3396.42,
+      "end_time": 3397.22
+    },
+    {
+      "text": "Let's see how it goes next week.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3397.22,
+      "end_time": 3398.58
+    },
+    {
+      "text": "And I'll follow up with the other ones.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3398.58,
+      "end_time": 3400.74
+    },
+    {
+      "text": "Their name escapes me, but I'll see where we are in the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3400.9,
+      "end_time": 3404.14
+    },
+    {
+      "text": "The pipeline with Ahmed in one and a half minutes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3404.14,
+      "end_time": 3408.18
+    },
+    {
+      "text": "And I'm hoping that tomorrow morning we'll have the figures from Chris ready to share.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3408.9,
+      "end_time": 3416.11
+    },
+    {
+      "text": "So you'll have that lift tomorrow at some point.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3416.27,
+      "end_time": 3418.55
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3418.55,
+      "end_time": 3419.15
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3419.15,
+      "end_time": 3419.63
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3419.71,
+      "end_time": 3420.07
+    },
+    {
+      "text": "Ready to text?",
+      "speaker_name": "Andrew Day",
+      "start_time": 3420.07,
+      "end_time": 3420.71
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3420.71,
+      "end_time": 3420.95
+    },
+    {
+      "text": "Thanks for that then, Stuart.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3420.95,
+      "end_time": 3421.87
+    },
+    {
+      "text": "All right, enjoy the rest of your day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 3421.87,
+      "end_time": 3423.03
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3423.03,
+      "end_time": 3423.55
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 3423.71,
+      "end_time": 3424.19
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "retail media",
+      "platform technology",
+      "ROI prediction",
+      "shopper marketing",
+      "acquisition discussion",
+      "SaaS licensing"
+    ],
+    "action_items": "\n**Andrew Day**\nSend demo videos (retailer and brand owner versions) to MPG team for review (45:07)\nFollow up with John Hogan on MPG's interest level and next steps (53:14)\n\n**Stuart Tiedeman**\nProvide technical stack documentation and platform architecture details (45:37)\nProvide financial figures from Chris for sharing with potential investors (56:56)\n\n**John Hogan**\nReview demo materials and technical documentation, then provide feedback on level of interest and next steps (46:02)\n",
+    "outline": null,
+    "overview": "- TSG has evolved its platform over 20 years, now managing over £350 million in supplier investments annually through advanced technology for retail media.\n- TSG's global reach includes successful operations in Australia and Latin America, with significant partnerships like Endeavour Group, demonstrating system scalability.\n- Industry benchmark developed from tens of thousands of campaigns provides valuable insights on media effectiveness and ROI, enabling retailers to optimize revenue.\n- Shift in focus from retailers to brand owners allows for better negotiation strategies and investment understanding, reflecting the cyclical nature of retailer relationships.\n- Platform aids brand owners in assessing activation outcomes, enabling data-driven decisions for investment allocation.\n- Technical infrastructure includes a proprietary 'BRAIN' system facilitating robust data processing, crucial for evaluating campaign effectiveness and predictive accuracy.\n- Significant ROI improvements observed in partnerships, such as Heineken's investment strategies, showcasing practical application of platform insights.\n- Revenue model is transitioning from reliance on license fees to tech-driven revenues, with projections indicating a shift from 30% to 80-85% of total revenue.\n- Recent successes in Latin America have resulted in securing $3 billion in business contracts, enhancing the platform's credibility and market position.\n- Growth vision centers on establishing TSG as the global standard for retail media solutions, enhancing operational capabilities across various markets.",
+    "short_summary": "Over the past 20 years, TSG has developed a sophisticated platform that manages over £350 million in supplier investments annually, leveraging advanced technology for retail media. The company's global operations extend to Australia and Latin America, where partnerships like Endeavour Group highlight the scalability of its systems. TSG has established an industry benchmark from tens of thousands of campaigns, providing retailers crucial insights on media effectiveness and ROI. A strategic shift from focusing on retailers to brand owners has improved negotiation strategies and investment comprehension. The proprietary 'BRAIN' system enhances data processing for campaign evaluation, leading to significant ROI improvements, as seen in partnerships like that with Heineken. TSG's revenue model is pivoting from license fees to tech-driven revenues, anticipating a shift from 30% to 80-85% of total revenue, while recent successes in Latin America have secured $3 billion in contracts, reinforcing the company's market position and vision of becoming the global standard for retail media solutions.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JX0TSNRVQPHJX5CY7XQG9CHY",
+  "audio_url": "https://cdn.fireflies.ai/01JX0TSNRVQPHJX5CY7XQG9CHY/audio.mp3?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlgwVFNOUlZRUEhKWDVDWTdYUUc5Q0hZL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=U3EbfHUP-iBLn65tScnbnhQM~r~lzQXvyyp0AFX-6e1q8tz3lXy22n02PBa0AWSu26gTEIvNyJJVG7S7r9Z0XxUOdOyfrbdaiMDEmTr9ZmjwovH~X0Yok4mV076U2wRyx3wmWf1~EFODV1GzqCLMwh4cIYLflwj9rpfNwzaXFb--uRnaMWbqcIjKgRV26AI0ct8R6hVbgsj2UR5bzojiFDVQFkx9HG-hO3~2Eya-~zeoV6NOE1sGrmzQ3KhnQAl~kyvfO-4jQVJmMkpyQfNhUhdG5jU~YcQcARv-HteaIxJ9Y44LH3UuI4hcuL9-g6lOvwVbJG~toOpW6cevkVfonA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JX0TSNRVQPHJX5CY7XQG9CHY/video.mp4?Expires=1773220858&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlgwVFNOUlZRUEhKWDVDWTdYUUc5Q0hZL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg1OH19fV19&Signature=coySPrXJnONJRdU9E3WdfYp1f3GRDY94fFVUBp9iYppfPjLoUCUATz2-Dama7pcFAfTQVYXWkTdanIxj1etpFgHJsBWPi2b7gT6rDro6EqPjswYDaU45KobKRN8XpjZN~rCArpt4jL13e1VPbD7k3foVysROFxxtCfhTReVCs4cqGkZ0qEiNrBeQRHSpBCfkXwpYECm-W7heX~L6NH2jWsF0iMZRy3~WQznNultyU-76IPOrqCiYpujYGYGHGF0R5JpSJHLvfGLzXHDiSS5o5EYMNPSrWthVF7dJAo0ZGjhQr~ML0a8v-f9wqOcWKSrN3anirsMFg6Np8IQ4TyNqUg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

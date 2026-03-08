@@ -1,0 +1,2326 @@
+{
+  "id": "01JP0FXVAZZFGEVZJBTA1AT7MM",
+  "title": "Vardot | Capital A",
+  "date": 1741888800000,
+  "dateString": "2025-03-13T18:00:00.000Z",
+  "duration": 28.940000534057617,
+  "participants": [
+    "andrew.day@capitala.co,m.razem@vardot.com,andy.day@capitala.co",
+    "m.razem@vardot.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Mohammed Razem",
+      "email": "m.razem@vardot.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Andy.",
+      "speaker_name": "Razem",
+      "start_time": 0.24,
+      "end_time": 0.672
+    },
+    {
+      "text": "I'm doing good.",
+      "speaker_name": "Razem",
+      "start_time": 0.696,
+      "end_time": 1.32
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Razem",
+      "start_time": 1.36,
+      "end_time": 2.18
+    },
+    {
+      "text": "This meeting is being recorded and.",
+      "speaker_name": "Razem",
+      "start_time": 3.12,
+      "end_time": 7.032
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Andy Day",
+      "start_time": 7.056,
+      "end_time": 7.24
+    },
+    {
+      "text": "Whereabouts are you based?",
+      "speaker_name": "Andy Day",
+      "start_time": 7.28,
+      "end_time": 8.2
+    },
+    {
+      "text": "You're in San Francisco.",
+      "speaker_name": "Andy Day",
+      "start_time": 8.24,
+      "end_time": 9.74
+    },
+    {
+      "text": "I'm in Santa Clara.",
+      "speaker_name": "Razem",
+      "start_time": 10.32,
+      "end_time": 11.864
+    },
+    {
+      "text": "Yeah, in the bay area, about 80 miles south of San Francisco.",
+      "speaker_name": "Razem",
+      "start_time": 11.912,
+      "end_time": 16.3
+    },
+    {
+      "text": "Ah, okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 17.68,
+      "end_time": 18.52
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 18.6,
+      "end_time": 18.904
+    },
+    {
+      "text": "Santa Clara.",
+      "speaker_name": "Andy Day",
+      "start_time": 18.952,
+      "end_time": 19.704
+    },
+    {
+      "text": "There's a TV show based there.",
+      "speaker_name": "Andy Day",
+      "start_time": 19.752,
+      "end_time": 21.8
+    },
+    {
+      "text": "They're all vampires, I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 21.92,
+      "end_time": 23.54
+    },
+    {
+      "text": "Oh, that's.",
+      "speaker_name": "Razem",
+      "start_time": 24.48,
+      "end_time": 25.9
+    },
+    {
+      "text": "Do you mean Buffy the Vampire Slayer?",
+      "speaker_name": "Razem",
+      "start_time": 26.65,
+      "end_time": 29.426
+    },
+    {
+      "text": "No, there's a.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.618,
+      "end_time": 30.83
+    },
+    {
+      "text": "I don't know whether that's based there as well, but there's another TV show called Santa Clara and it's something to do with like a family of vampires or something like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 31.29,
+      "end_time": 38.882
+    },
+    {
+      "text": "I've never watched it, but I've just seen my kids watching or somebody.",
+      "speaker_name": "Andy Day",
+      "start_time": 39.066,
+      "end_time": 42.258
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Razem",
+      "start_time": 42.354,
+      "end_time": 42.77
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 42.85,
+      "end_time": 43.442
+    },
+    {
+      "text": "No, it's.",
+      "speaker_name": "Razem",
+      "start_time": 43.586,
+      "end_time": 44.482
+    },
+    {
+      "text": "Yeah, I don't know.",
+      "speaker_name": "Razem",
+      "start_time": 44.626,
+      "end_time": 46.146
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Razem",
+      "start_time": 46.218,
+      "end_time": 46.642
+    },
+    {
+      "text": "We're very close to a city called Sunnyvale, and I've always.",
+      "speaker_name": "Razem",
+      "start_time": 46.746,
+      "end_time": 51.15
+    },
+    {
+      "text": "I've always confused it with Sunny Dale, which is the.",
+      "speaker_name": "Razem",
+      "start_time": 52.7,
+      "end_time": 55.668
+    },
+    {
+      "text": "The Buffy the Vampire Slayer.",
+      "speaker_name": "Razem",
+      "start_time": 55.724,
+      "end_time": 57.668
+    },
+    {
+      "text": "I don't know if you.",
+      "speaker_name": "Andy Day",
+      "start_time": 57.844,
+      "end_time": 59.172
+    },
+    {
+      "text": "You're showing your age now.",
+      "speaker_name": "Andy Day",
+      "start_time": 59.356,
+      "end_time": 60.96
+    },
+    {
+      "text": "Yeah, you're showing your age.",
+      "speaker_name": "Andy Day",
+      "start_time": 62.62,
+      "end_time": 64.58
+    },
+    {
+      "text": "I said if you know Buffy.",
+      "speaker_name": "Andy Day",
+      "start_time": 64.62,
+      "end_time": 66.5
+    },
+    {
+      "text": "Oh, exactly.",
+      "speaker_name": "Razem",
+      "start_time": 66.58,
+      "end_time": 67.64
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 69.66,
+      "end_time": 70.52
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 72.86,
+      "end_time": 73.78
+    },
+    {
+      "text": "I don't want to waste loads of your time, so I just wanted to catch up because I know we've spoken to you in a couple of different capacities.",
+      "speaker_name": "Andy Day",
+      "start_time": 73.82,
+      "end_time": 81.538
+    },
+    {
+      "text": "So we reached out to you first because we had.",
+      "speaker_name": "Andy Day",
+      "start_time": 81.634,
+      "end_time": 84.882
+    },
+    {
+      "text": "We had a client that was buying web developers, web developer companies, but he was particularly focused on WordPress.",
+      "speaker_name": "Andy Day",
+      "start_time": 85.066,
+      "end_time": 92.674
+    },
+    {
+      "text": "And I think you're in another area, aren't you, on different platforms.",
+      "speaker_name": "Andy Day",
+      "start_time": 92.722,
+      "end_time": 98.242
+    },
+    {
+      "text": "So Drupal is it.",
+      "speaker_name": "Andy Day",
+      "start_time": 98.306,
+      "end_time": 100.402
+    },
+    {
+      "text": "I think you guys are developing.",
+      "speaker_name": "Andy Day",
+      "start_time": 100.426,
+      "end_time": 102.562
+    },
+    {
+      "text": "So it didn't result in anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 102.626,
+      "end_time": 105.362
+    },
+    {
+      "text": "And then Ramon got in touch, I think, discussed that opportunity which he was working on.",
+      "speaker_name": "Andy Day",
+      "start_time": 105.426,
+      "end_time": 110.124
+    },
+    {
+      "text": "But also we.",
+      "speaker_name": "Andy Day",
+      "start_time": 110.322,
+      "end_time": 111.4
+    },
+    {
+      "text": "We sort of said, you know, whereabouts are you on your.",
+      "speaker_name": "Andy Day",
+      "start_time": 111.44,
+      "end_time": 115.704
+    },
+    {
+      "text": "Your journey?",
+      "speaker_name": "Andy Day",
+      "start_time": 115.792,
+      "end_time": 116.712
+    },
+    {
+      "text": "Are you looking to exit at the moment?",
+      "speaker_name": "Andy Day",
+      "start_time": 116.856,
+      "end_time": 118.632
+    },
+    {
+      "text": "Because obviously we have the agencies co platform as well for.",
+      "speaker_name": "Andy Day",
+      "start_time": 118.696,
+      "end_time": 124.008
+    },
+    {
+      "text": "For companies like you.",
+      "speaker_name": "Andy Day",
+      "start_time": 124.144,
+      "end_time": 125.208
+    },
+    {
+      "text": "So basically it's a.",
+      "speaker_name": "Andy Day",
+      "start_time": 125.264,
+      "end_time": 126.456
+    },
+    {
+      "text": "A marketplace for agency owners to buy and sell.",
+      "speaker_name": "Andy Day",
+      "start_time": 126.608,
+      "end_time": 131.06
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 131.76,
+      "end_time": 132.216
+    },
+    {
+      "text": "So I think that's kind of like the three different things that we've.",
+      "speaker_name": "Andy Day",
+      "start_time": 132.288,
+      "end_time": 135.278
+    },
+    {
+      "text": "We've been talking about.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.424,
+      "end_time": 136.802
+    },
+    {
+      "text": "So just give you a bit of background.",
+      "speaker_name": "Andy Day",
+      "start_time": 136.986,
+      "end_time": 138.482
+    },
+    {
+      "text": "So Capital A is a M and A advisory, and we work with marketing services exclusively, so both on the buy and the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 138.546,
+      "end_time": 146.578
+    },
+    {
+      "text": "So it'd be good to get to know you a bit better because I work with the buyers in particular.",
+      "speaker_name": "Andy Day",
+      "start_time": 146.714,
+      "end_time": 151.79
+    },
+    {
+      "text": "So, you know, if.",
+      "speaker_name": "Andy Day",
+      "start_time": 152.81,
+      "end_time": 153.89
+    },
+    {
+      "text": "If.",
+      "speaker_name": "Andy Day",
+      "start_time": 153.93,
+      "end_time": 154.322
+    },
+    {
+      "text": "Depending on where your head is at at the moment, if it comes up in future that there's a good fit with a Drupal development shop, then we would be interested in talking.",
+      "speaker_name": "Andy Day",
+      "start_time": 154.426,
+      "end_time": 163.154
+    },
+    {
+      "text": "But obviously, by by that point, I would know you a little bit better as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 163.202,
+      "end_time": 167.346
+    },
+    {
+      "text": "So, so whereabouts are you guys at the moment?",
+      "speaker_name": "Andy Day",
+      "start_time": 167.418,
+      "end_time": 170.098
+    },
+    {
+      "text": "Where is your head at?",
+      "speaker_name": "Andy Day",
+      "start_time": 170.194,
+      "end_time": 171.362
+    },
+    {
+      "text": "Are you looking to, to sell or are you in growth mode?",
+      "speaker_name": "Andy Day",
+      "start_time": 171.386,
+      "end_time": 175.35
+    },
+    {
+      "text": "Yeah, we are.",
+      "speaker_name": "Razem",
+      "start_time": 175.93,
+      "end_time": 177.95
+    },
+    {
+      "text": "You know, Vardot has been in existence since 2011, so.",
+      "speaker_name": "Razem",
+      "start_time": 178.81,
+      "end_time": 184.11
+    },
+    {
+      "text": "And it's always been kind of bootstrapped, so there's no, you know, investment or private equity in, in our journey and we've been profitable but growing slowly.",
+      "speaker_name": "Razem",
+      "start_time": 185.45,
+      "end_time": 199.816
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Razem",
+      "start_time": 199.928,
+      "end_time": 200.296
+    },
+    {
+      "text": "So yeah, I would say we are at a point where we're interested in, you know, getting or exiting in a way in, as an, as an agency at this point.",
+      "speaker_name": "Razem",
+      "start_time": 200.368,
+      "end_time": 214.18
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Razem",
+      "start_time": 214.72,
+      "end_time": 215.46
+    },
+    {
+      "text": "But we are not.",
+      "speaker_name": "Razem",
+      "start_time": 216.4,
+      "end_time": 217.496
+    },
+    {
+      "text": "I wouldn't say that this is like the goal that we're, you know, we're operating and, and our operations and services and business is going, but at the same time, we're part.",
+      "speaker_name": "Razem",
+      "start_time": 217.568,
+      "end_time": 232.104
+    },
+    {
+      "text": "Parallel to that, we're exploring some, some of the opportunities.",
+      "speaker_name": "Razem",
+      "start_time": 232.192,
+      "end_time": 235.496
+    },
+    {
+      "text": "I haven't been having conversations with M and A in terms of like sell side or, or even proactively establishing the, the, the business and, and you know, getting our books and everything ready to be to have those conversations.",
+      "speaker_name": "Razem",
+      "start_time": 235.688,
+      "end_time": 256.738
+    },
+    {
+      "text": "This is actually one of the first conversations that I'm having with you.",
+      "speaker_name": "Razem",
+      "start_time": 256.834,
+      "end_time": 260.386
+    },
+    {
+      "text": "And when I had with Ramon, he sent me an email.",
+      "speaker_name": "Razem",
+      "start_time": 260.538,
+      "end_time": 263.218
+    },
+    {
+      "text": "He's like, what are you are looking to.",
+      "speaker_name": "Razem",
+      "start_time": 263.274,
+      "end_time": 264.642
+    },
+    {
+      "text": "And I said, yeah, you know what, let's, let's consider that.",
+      "speaker_name": "Razem",
+      "start_time": 264.666,
+      "end_time": 267.57
+    },
+    {
+      "text": "So maybe we, you know, I feel like it could be a good exercise for us to take a deeper look at our, you know, business, our numbers at the same time for me as a founder.",
+      "speaker_name": "Razem",
+      "start_time": 267.69,
+      "end_time": 283.996
+    },
+    {
+      "text": "And by the way, you know, Vardot is founded by me and my wife, so we're a husband and wife that we own the company.",
+      "speaker_name": "Razem",
+      "start_time": 284.028,
+      "end_time": 289.996
+    },
+    {
+      "text": "50 50.",
+      "speaker_name": "Razem",
+      "start_time": 290.068,
+      "end_time": 290.892
+    },
+    {
+      "text": "So I did discuss it with my wife and we're like, you know what, it might be if we got a good deal, why not?",
+      "speaker_name": "Razem",
+      "start_time": 290.996,
+      "end_time": 298.29
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 299.55,
+      "end_time": 300.022
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 300.086,
+      "end_time": 300.406
+    },
+    {
+      "text": "We've got quite a bit in common.",
+      "speaker_name": "Andy Day",
+      "start_time": 300.438,
+      "end_time": 301.606
+    },
+    {
+      "text": "So I, I co own ours with my wife as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 301.638,
+      "end_time": 304.79
+    },
+    {
+      "text": "50 50.",
+      "speaker_name": "Andy Day",
+      "start_time": 304.83,
+      "end_time": 305.35
+    },
+    {
+      "text": "But also I exited my business after 14 years as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 305.39,
+      "end_time": 309.558
+    },
+    {
+      "text": "So if, if you managed to sell this year, that would be 14 years of Varda.",
+      "speaker_name": "Andy Day",
+      "start_time": 309.614,
+      "end_time": 315.366
+    },
+    {
+      "text": "Oh, wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 315.478,
+      "end_time": 316.262
+    },
+    {
+      "text": "But, but I know how that feels as well when you get to 14, the 14th year, obviously still as ambitious as ever, but obviously, you know, you've done the same thing for a long time at that point.",
+      "speaker_name": "Andy Day",
+      "start_time": 316.406,
+      "end_time": 326.758
+    },
+    {
+      "text": "And you know, you don't.",
+      "speaker_name": "Andy Day",
+      "start_time": 326.814,
+      "end_time": 328.326
+    },
+    {
+      "text": "Nobody's getting any younger if you're a Buffy the Vampire Slayer fans.",
+      "speaker_name": "Andy Day",
+      "start_time": 328.358,
+      "end_time": 332.41
+    },
+    {
+      "text": "So, you know, at some point you've got to step out and step into something else.",
+      "speaker_name": "Andy Day",
+      "start_time": 333.63,
+      "end_time": 338.47
+    },
+    {
+      "text": "Otherwise you just feel like you're doing the same rat race as everybody else.",
+      "speaker_name": "Andy Day",
+      "start_time": 338.55,
+      "end_time": 344.01
+    },
+    {
+      "text": "So yeah, obviously good, good opportunity to at least have a practice run and discuss where you're at.",
+      "speaker_name": "Andy Day",
+      "start_time": 344.51,
+      "end_time": 350.53
+    },
+    {
+      "text": "So can you give me a little bit more detail about, you know, maybe what we know what Vardo is doing and obviously know your, your core skill set is the, the development side of things.",
+      "speaker_name": "Andy Day",
+      "start_time": 351.95,
+      "end_time": 364.966
+    },
+    {
+      "text": "Do you do, is there anything else that you, you guys are doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 365.038,
+      "end_time": 368.21
+    },
+    {
+      "text": "So we, we're a full service agency when it comes to enterprise digital solutions or specifically websites, but enterprise websites we have in house teams that do discovery, ui, UX design and development.",
+      "speaker_name": "Razem",
+      "start_time": 368.67,
+      "end_time": 388.634
+    },
+    {
+      "text": "We primarily do like I would say 99% of the of what we do is on Drupal, but we do 1% or 2% on WordPress for our existing customers.",
+      "speaker_name": "Razem",
+      "start_time": 388.802,
+      "end_time": 400.65
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Razem",
+      "start_time": 400.73,
+      "end_time": 401.162
+    },
+    {
+      "text": "So, and we, yeah, so our ideal projects we would get enterprise customers.",
+      "speaker_name": "Razem",
+      "start_time": 401.266,
+      "end_time": 410.92
+    },
+    {
+      "text": "We're pretty much, we can work with any industry but we, throughout the year we're really good and we have built a great portfolio with international organizations, nonprofits, the UN specifically, almost all of the UN agencies, higher ed and media organizations and commercial sector a little bit from here and there, you know, different sectors, technology, financial and even healthcare as well.",
+      "speaker_name": "Razem",
+      "start_time": 411.98,
+      "end_time": 441.65
+    },
+    {
+      "text": "So the reason why I'm saying that we're working with enterprise is because we, you know, Drupal as a technology, it's more geared towards the enterprises.",
+      "speaker_name": "Razem",
+      "start_time": 442.19,
+      "end_time": 453.21
+    },
+    {
+      "text": "So our team, we have in house teams that do design, development and also support and maintenance for those customers.",
+      "speaker_name": "Razem",
+      "start_time": 453.79,
+      "end_time": 461.99
+    },
+    {
+      "text": "So our ideal project would be an initial build or revamp or an upgrade and then continuous support and maintenance and retainer based on annual or multi year contracts.",
+      "speaker_name": "Razem",
+      "start_time": 462.07,
+      "end_time": 474.47
+    },
+    {
+      "text": "And yeah, that's primarily Drupal.",
+      "speaker_name": "Razem",
+      "start_time": 475.05,
+      "end_time": 478.802
+    },
+    {
+      "text": "We're also exploring, expanding within our existing customer base with some marketing solutions and partnering with different marketing platforms out there like HubSpot.",
+      "speaker_name": "Razem",
+      "start_time": 478.946,
+      "end_time": 491.794
+    },
+    {
+      "text": "We've established a partnership with HubSpot to do some kind of marketing software for our existing customers and so on.",
+      "speaker_name": "Razem",
+      "start_time": 491.842,
+      "end_time": 499.682
+    },
+    {
+      "text": "So yeah, that's, that's about it.",
+      "speaker_name": "Razem",
+      "start_time": 499.786,
+      "end_time": 501.618
+    },
+    {
+      "text": "And we're, we're located in two locations so we actually have two legal entities, one in Jordan and one in the U.S.",
+      "speaker_name": "Razem",
+      "start_time": 501.674,
+      "end_time": 508.27
+    },
+    {
+      "text": "i'm primarily based out of the U.S.",
+      "speaker_name": "Razem",
+      "start_time": 509.21,
+      "end_time": 511.378
+    },
+    {
+      "text": "it's a California LLC and but, but the company was started in Jordan.",
+      "speaker_name": "Razem",
+      "start_time": 511.434,
+      "end_time": 516.55
+    },
+    {
+      "text": "So we are about 70 team members at this point.",
+      "speaker_name": "Razem",
+      "start_time": 516.89,
+      "end_time": 521.438
+    },
+    {
+      "text": "The majority of them are in Jordan.",
+      "speaker_name": "Razem",
+      "start_time": 521.594,
+      "end_time": 523.846
+    },
+    {
+      "text": "We have also some remote staff, mostly contractors and also US based stuff.",
+      "speaker_name": "Razem",
+      "start_time": 523.958,
+      "end_time": 531.35
+    },
+    {
+      "text": "And because of that we have, we're covering two regions.",
+      "speaker_name": "Razem",
+      "start_time": 531.51,
+      "end_time": 535.286
+    },
+    {
+      "text": "The U.S.",
+      "speaker_name": "Razem",
+      "start_time": 535.478,
+      "end_time": 536.31
+    },
+    {
+      "text": "as a region and the, I want to say Mina, which is Middle east and North Africa, primarily Saudi, Qatar, United Arab Emirates.",
+      "speaker_name": "Razem",
+      "start_time": 536.43,
+      "end_time": 547.862
+    },
+    {
+      "text": "So the Gulf Market and since we also work with the un.",
+      "speaker_name": "Razem",
+      "start_time": 547.926,
+      "end_time": 552.76
+    },
+    {
+      "text": "UN is its own market.",
+      "speaker_name": "Razem",
+      "start_time": 553.14,
+      "end_time": 555.292
+    },
+    {
+      "text": "We, you know, we, we don't, we don't put it on a specific geography.",
+      "speaker_name": "Razem",
+      "start_time": 555.396,
+      "end_time": 559.564
+    },
+    {
+      "text": "We just say that the UN its own market.",
+      "speaker_name": "Razem",
+      "start_time": 559.612,
+      "end_time": 561.564
+    },
+    {
+      "text": "Yeah, right, okay, that's quite interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 561.652,
+      "end_time": 564.972
+    },
+    {
+      "text": "So are you, you Jordanian or have you naturalized in the US Now?",
+      "speaker_name": "Andy Day",
+      "start_time": 565.036,
+      "end_time": 569.34
+    },
+    {
+      "text": "Yeah, I have dual citizenship.",
+      "speaker_name": "Razem",
+      "start_time": 569.46,
+      "end_time": 571.244
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 571.372,
+      "end_time": 571.82
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 571.9,
+      "end_time": 573.04
+    },
+    {
+      "text": "God, that's pain to get to get that, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 573.94,
+      "end_time": 576.52
+    },
+    {
+      "text": "Y.",
+      "speaker_name": "Andy Day",
+      "start_time": 577.22,
+      "end_time": 577.96
+    },
+    {
+      "text": "I've just, we, we just got five year visas.",
+      "speaker_name": "Andy Day",
+      "start_time": 578.82,
+      "end_time": 581.724
+    },
+    {
+      "text": "But the, the process is just so long.",
+      "speaker_name": "Andy Day",
+      "start_time": 581.772,
+      "end_time": 584.12
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 584.74,
+      "end_time": 585.164
+    },
+    {
+      "text": "Not easy.",
+      "speaker_name": "Andy Day",
+      "start_time": 585.212,
+      "end_time": 586.16
+    },
+    {
+      "text": "Okay, that's really interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 586.5,
+      "end_time": 587.964
+    },
+    {
+      "text": "What would you say the per.",
+      "speaker_name": "Andy Day",
+      "start_time": 588.012,
+      "end_time": 589.116
+    },
+    {
+      "text": "Percentages of the Jordanian staff is that like 90% there and pro 80%.",
+      "speaker_name": "Andy Day",
+      "start_time": 589.188,
+      "end_time": 599.036
+    },
+    {
+      "text": "Almost 80%.",
+      "speaker_name": "Andy Day",
+      "start_time": 599.108,
+      "end_time": 600.252
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 600.356,
+      "end_time": 600.834
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 600.932,
+      "end_time": 601.766
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 601.958,
+      "end_time": 602.93
+    },
+    {
+      "text": "I mean there's a lot going on in the Middle east now and a lot of people from the UK in particular have all gone out to the uae, you know, for the tax.",
+      "speaker_name": "Andy Day",
+      "start_time": 603.31,
+      "end_time": 613.638
+    },
+    {
+      "text": "So you've gone to the wrong state.",
+      "speaker_name": "Andy Day",
+      "start_time": 613.774,
+      "end_time": 615.158
+    },
+    {
+      "text": "You've gone to the most taxed state on the planet.",
+      "speaker_name": "Andy Day",
+      "start_time": 615.214,
+      "end_time": 617.494
+    },
+    {
+      "text": "I know, I know.",
+      "speaker_name": "Razem",
+      "start_time": 617.542,
+      "end_time": 618.598
+    },
+    {
+      "text": "I, I keep telling my wife like, why, why are we here?",
+      "speaker_name": "Razem",
+      "start_time": 618.654,
+      "end_time": 622.07
+    },
+    {
+      "text": "And then we're also 10 hours difference between, you know, California and Jordan, which is the majority of our operations.",
+      "speaker_name": "Razem",
+      "start_time": 622.11,
+      "end_time": 630.288
+    },
+    {
+      "text": "So it's like, you know, why don't we just move to the east coast?",
+      "speaker_name": "Razem",
+      "start_time": 630.384,
+      "end_time": 633.344
+    },
+    {
+      "text": "But yeah, my in laws are based here and we have a three year old baby girl now.",
+      "speaker_name": "Razem",
+      "start_time": 633.472,
+      "end_time": 639.152
+    },
+    {
+      "text": "So it just helps a lot when you have, you know, family to support you.",
+      "speaker_name": "Razem",
+      "start_time": 639.336,
+      "end_time": 642.64
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Razem",
+      "start_time": 642.68,
+      "end_time": 642.832
+    },
+    {
+      "text": "Yeah, and we like California, so.",
+      "speaker_name": "Razem",
+      "start_time": 642.856,
+      "end_time": 644.4
+    },
+    {
+      "text": "Oh, California is amazing.",
+      "speaker_name": "Andy Day",
+      "start_time": 644.44,
+      "end_time": 645.776
+    },
+    {
+      "text": "Yeah, I wish it was a lot cheaper, but it's, it's an absolutely beautiful place.",
+      "speaker_name": "Andy Day",
+      "start_time": 645.808,
+      "end_time": 649.12
+    },
+    {
+      "text": "I love it.",
+      "speaker_name": "Andy Day",
+      "start_time": 649.16,
+      "end_time": 649.648
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 649.704,
+      "end_time": 650.34
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 651,
+      "end_time": 651.904
+    },
+    {
+      "text": "And then in terms of like.",
+      "speaker_name": "Andy Day",
+      "start_time": 651.952,
+      "end_time": 653.472
+    },
+    {
+      "text": "So you're talking about typical clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 653.656,
+      "end_time": 655.392
+    },
+    {
+      "text": "What do those project fees look like?",
+      "speaker_name": "Andy Day",
+      "start_time": 655.456,
+      "end_time": 657.504
+    },
+    {
+      "text": "Do you have like a, a sort of a common size that your enterprise clients?",
+      "speaker_name": "Andy Day",
+      "start_time": 657.592,
+      "end_time": 664.52
+    },
+    {
+      "text": "So on average, I want to say 100k is the average project.",
+      "speaker_name": "Razem",
+      "start_time": 665.26,
+      "end_time": 670.56
+    },
+    {
+      "text": "We got some projects, you know, as big as 800k and projects but typically starting from 50k.",
+      "speaker_name": "Razem",
+      "start_time": 672.38,
+      "end_time": 682.5
+    },
+    {
+      "text": "So 50 all the way up to 800, but the average is 100.",
+      "speaker_name": "Razem",
+      "start_time": 682.54,
+      "end_time": 686.24
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 686.99,
+      "end_time": 687.862
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 688.006,
+      "end_time": 688.662
+    },
+    {
+      "text": "Brim.",
+      "speaker_name": "Andy Day",
+      "start_time": 688.806,
+      "end_time": 689.61
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 691.87,
+      "end_time": 692.342
+    },
+    {
+      "text": "And then in terms of your, so the business, you've got headcount about 70.",
+      "speaker_name": "Andy Day",
+      "start_time": 692.366,
+      "end_time": 696.69
+    },
+    {
+      "text": "Do you mind me?",
+      "speaker_name": "Andy Day",
+      "start_time": 697.15,
+      "end_time": 697.862
+    },
+    {
+      "text": "I mean we can get an NDA in place, but do you mind me asking like roughly what the ballpark revenue is for a year?",
+      "speaker_name": "Andy Day",
+      "start_time": 697.886,
+      "end_time": 704.374
+    },
+    {
+      "text": "Yeah, yeah, sure.",
+      "speaker_name": "Razem",
+      "start_time": 704.542,
+      "end_time": 706.006
+    },
+    {
+      "text": "So last year we, we got about $4 million.",
+      "speaker_name": "Razem",
+      "start_time": 706.078,
+      "end_time": 709.61
+    },
+    {
+      "text": "And you know, if you, if you compare that with the headcount, it's not a lot, but a lot of our headcount are based out of Jordan and yeah, that's why we're profitable.",
+      "speaker_name": "Razem",
+      "start_time": 710.03,
+      "end_time": 721.74
+    },
+    {
+      "text": "And I want to say we're, we end up with like 20% net income.",
+      "speaker_name": "Razem",
+      "start_time": 721.82,
+      "end_time": 726.64
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 727.14,
+      "end_time": 727.564
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 727.612,
+      "end_time": 727.964
+    },
+    {
+      "text": "Pretty good.",
+      "speaker_name": "Andy Day",
+      "start_time": 728.012,
+      "end_time": 728.84
+    },
+    {
+      "text": "Yeah, that's good.",
+      "speaker_name": "Andy Day",
+      "start_time": 729.22,
+      "end_time": 730.44
+    },
+    {
+      "text": "So would you say that there's a layer of management outside you and your wife and if there is, are they based in Jordan too?",
+      "speaker_name": "Andy Day",
+      "start_time": 730.98,
+      "end_time": 738.36
+    },
+    {
+      "text": "There is a layer of management.",
+      "speaker_name": "Razem",
+      "start_time": 739.05,
+      "end_time": 740.91
+    },
+    {
+      "text": "One, one thing that my wife and I worked on starting Covid actually is reduce reliance on us as much as possible.",
+      "speaker_name": "Razem",
+      "start_time": 741.53,
+      "end_time": 750.75
+    },
+    {
+      "text": "And yeah, I want to say we have a very healthy layer of management and processes everything in place.",
+      "speaker_name": "Razem",
+      "start_time": 751.37,
+      "end_time": 758.274
+    },
+    {
+      "text": "So it's not totally dependent on us.",
+      "speaker_name": "Razem",
+      "start_time": 758.362,
+      "end_time": 760.51
+    },
+    {
+      "text": "We're, you know, I feel, we feel very good about that since we achieved that milestone now.",
+      "speaker_name": "Razem",
+      "start_time": 760.81,
+      "end_time": 769
+    },
+    {
+      "text": "They're, they're not all in Jordan.",
+      "speaker_name": "Razem",
+      "start_time": 769.46,
+      "end_time": 771.916
+    },
+    {
+      "text": "Some are in Jordan, some are one in the US and yeah, so actually only one in the US and the.",
+      "speaker_name": "Razem",
+      "start_time": 772.028,
+      "end_time": 784.572
+    },
+    {
+      "text": "About three in Jordan.",
+      "speaker_name": "Razem",
+      "start_time": 784.676,
+      "end_time": 786.32
+    },
+    {
+      "text": "As a middle.",
+      "speaker_name": "Razem",
+      "start_time": 786.9,
+      "end_time": 787.9
+    },
+    {
+      "text": "Yeah, as management.",
+      "speaker_name": "Razem",
+      "start_time": 787.98,
+      "end_time": 789.4
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 790.43,
+      "end_time": 791.69
+    },
+    {
+      "text": "All right, so just sort of ballpark numbers.",
+      "speaker_name": "Andy Day",
+      "start_time": 792.35,
+      "end_time": 796.01
+    },
+    {
+      "text": "So if we're looking at around 800k EBITDA, you would be able to expect, you know, something like it's between a 4 and 6x I would say.",
+      "speaker_name": "Andy Day",
+      "start_time": 797.55,
+      "end_time": 807.03
+    },
+    {
+      "text": "So on average, let's say a 5x for a marketing agency of your size and that's just plucked out, plucked out the sky.",
+      "speaker_name": "Andy Day",
+      "start_time": 807.07,
+      "end_time": 816.758
+    },
+    {
+      "text": "So don't hold me to that.",
+      "speaker_name": "Andy Day",
+      "start_time": 816.774,
+      "end_time": 817.622
+    },
+    {
+      "text": "But I would say, you know, you could be looking at something like a four million dollar valuation if that, if that's what you're looking at.",
+      "speaker_name": "Andy Day",
+      "start_time": 817.646,
+      "end_time": 826.37
+    },
+    {
+      "text": "And again, very generally speaking, but what we see in the marketplace most often is 50% of that in cash up front or cash and equity, depending on who the buyer is and what the deal is and then the rest is spread out over a three year earnout.",
+      "speaker_name": "Andy Day",
+      "start_time": 827.79,
+      "end_time": 842.054
+    },
+    {
+      "text": "So that's like a very typical agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 842.102,
+      "end_time": 844.77
+    },
+    {
+      "text": "Now in terms of you and your wife, what is your sort of aspirations going forward?",
+      "speaker_name": "Andy Day",
+      "start_time": 845.35,
+      "end_time": 850.606
+    },
+    {
+      "text": "Is your goal to get out of the business or are you looking for a larger acquirer to help you grow and then exit?",
+      "speaker_name": "Andy Day",
+      "start_time": 850.678,
+      "end_time": 858.19
+    },
+    {
+      "text": "Or you know, what, what's the deal with you guys?",
+      "speaker_name": "Andy Day",
+      "start_time": 858.27,
+      "end_time": 860.286
+    },
+    {
+      "text": "What are you looking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 860.318,
+      "end_time": 861.61
+    },
+    {
+      "text": "So for me personally, I am more leaning on getting a larger acquirer or maybe merge with a larger company that, that wants to expand where I would continue to do what I do.",
+      "speaker_name": "Razem",
+      "start_time": 862.47,
+      "end_time": 876.454
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Razem",
+      "start_time": 876.542,
+      "end_time": 876.934
+    },
+    {
+      "text": "So I don't look for me personally to fully exit and just start something from scratch, let's say.",
+      "speaker_name": "Razem",
+      "start_time": 877.022,
+      "end_time": 884.37
+    },
+    {
+      "text": "Yep, for my wife probably she, it might be, she might be on.",
+      "speaker_name": "Razem",
+      "start_time": 886.03,
+      "end_time": 891.638
+    },
+    {
+      "text": "No, she wants to exit.",
+      "speaker_name": "Razem",
+      "start_time": 891.694,
+      "end_time": 892.95
+    },
+    {
+      "text": "So yeah, that's, you know, how it goes.",
+      "speaker_name": "Razem",
+      "start_time": 893.03,
+      "end_time": 897.43
+    },
+    {
+      "text": "We've, we've, we've worked together for 14 years and we managed to.",
+      "speaker_name": "Razem",
+      "start_time": 897.51,
+      "end_time": 901.526
+    },
+    {
+      "text": "Can't believe you're still married.",
+      "speaker_name": "Andy Day",
+      "start_time": 901.678,
+      "end_time": 903.318
+    },
+    {
+      "text": "I know, exactly.",
+      "speaker_name": "Razem",
+      "start_time": 903.494,
+      "end_time": 904.582
+    },
+    {
+      "text": "We're like, yeah, you know, luckily, luckily we, we, we get along and we're, you know, able to manage life and business together effectively.",
+      "speaker_name": "Razem",
+      "start_time": 904.646,
+      "end_time": 914.274
+    },
+    {
+      "text": "But I think it's, you know, for her, it would be better for her to exit.",
+      "speaker_name": "Razem",
+      "start_time": 914.402,
+      "end_time": 922.386
+    },
+    {
+      "text": "And if I want to continue now, if, if, if, if I was a deal where I would also exit, I don't mind if it's a good deal, but I don't mind.",
+      "speaker_name": "Razem",
+      "start_time": 922.418,
+      "end_time": 930.018
+    },
+    {
+      "text": "I'm actually, you know, I'm, I love what I do and I want to continue to do what I do.",
+      "speaker_name": "Razem",
+      "start_time": 930.074,
+      "end_time": 934.114
+    },
+    {
+      "text": "And I do feel like there's a me to continue or maybe become part of a larger team.",
+      "speaker_name": "Razem",
+      "start_time": 934.202,
+      "end_time": 940.462
+    },
+    {
+      "text": "Yeah, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 940.646,
+      "end_time": 941.374
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 941.422,
+      "end_time": 941.774
+    },
+    {
+      "text": "So most acquirers, they want the founders to stay in.",
+      "speaker_name": "Andy Day",
+      "start_time": 941.822,
+      "end_time": 945.13
+    },
+    {
+      "text": "But obviously, very typically with husband and wife teams, the wife, maybe she does the books or the HR or something else that keeps the business running and she can step, maybe if she's not involved in the creative direction of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 945.59,
+      "end_time": 958.766
+    },
+    {
+      "text": "So yeah, very commonly that would be kind of really okay with the buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 958.838,
+      "end_time": 964.37
+    },
+    {
+      "text": "And then in terms of you staying in, usually they have like a journey mapped out for themselves.",
+      "speaker_name": "Andy Day",
+      "start_time": 965.27,
+      "end_time": 969.742
+    },
+    {
+      "text": "They're looking for a three to five year plan.",
+      "speaker_name": "Andy Day",
+      "start_time": 969.806,
+      "end_time": 972.398
+    },
+    {
+      "text": "They might be somewhere along the line of that already by the time they get to acquire you.",
+      "speaker_name": "Andy Day",
+      "start_time": 972.454,
+      "end_time": 977.438
+    },
+    {
+      "text": "So they might be two years away from an exit.",
+      "speaker_name": "Andy Day",
+      "start_time": 977.494,
+      "end_time": 979.47
+    },
+    {
+      "text": "We actually sold one company and the, the company that bought them was.",
+      "speaker_name": "Andy Day",
+      "start_time": 979.55,
+      "end_time": 985.47
+    },
+    {
+      "text": "Bought themselves a month later.",
+      "speaker_name": "Andy Day",
+      "start_time": 985.51,
+      "end_time": 987.006
+    },
+    {
+      "text": "It was crazy.",
+      "speaker_name": "Andy Day",
+      "start_time": 987.078,
+      "end_time": 988.608
+    },
+    {
+      "text": "Oh, wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 988.774,
+      "end_time": 989.76
+    },
+    {
+      "text": "So you can never, you know, 100 tell what the, the journey is, but it's a very acquisitive market.",
+      "speaker_name": "Andy Day",
+      "start_time": 990.5,
+      "end_time": 996.556
+    },
+    {
+      "text": "The marketing services space, everybody is acquiring all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 996.628,
+      "end_time": 1001.932
+    },
+    {
+      "text": "So it, it means you can often end up in a really dynamic, growing company.",
+      "speaker_name": "Andy Day",
+      "start_time": 1002.116,
+      "end_time": 1007.08
+    },
+    {
+      "text": "But usually if they exit in sort of the two to five year sort of target exit for themselves and you have an equity swap at the top.",
+      "speaker_name": "Andy Day",
+      "start_time": 1007.46,
+      "end_time": 1019.65
+    },
+    {
+      "text": "So you might carry 20% of the business into the holding company, for instance, then they sell for an even bigger figure down the road and you get to have that second bite of the apple.",
+      "speaker_name": "Andy Day",
+      "start_time": 1019.95,
+      "end_time": 1031.526
+    },
+    {
+      "text": "So that's kind of the interaction.",
+      "speaker_name": "Andy Day",
+      "start_time": 1031.638,
+      "end_time": 1034.09
+    },
+    {
+      "text": "And you said typically it's a 50.",
+      "speaker_name": "Razem",
+      "start_time": 1034.59,
+      "end_time": 1037.457
+    },
+    {
+      "text": "50.",
+      "speaker_name": "Razem",
+      "start_time": 1037.522,
+      "end_time": 1037.814
+    },
+    {
+      "text": "So 50 cash and 50 equity.",
+      "speaker_name": "Razem",
+      "start_time": 1037.902,
+      "end_time": 1039.734
+    },
+    {
+      "text": "Is that how it's.",
+      "speaker_name": "Razem",
+      "start_time": 1039.782,
+      "end_time": 1040.89
+    },
+    {
+      "text": "So usually it's 50 of the, the overall valuation of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1042.5,
+      "end_time": 1046.924
+    },
+    {
+      "text": "So let's say you were worth 4 million, that they would pay you in 2 million in cash.",
+      "speaker_name": "Andy Day",
+      "start_time": 1047.012,
+      "end_time": 1052.316
+    },
+    {
+      "text": "If they were to buy 100% of the business, they would pay 2 million in cash on day one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1052.348,
+      "end_time": 1057.116
+    },
+    {
+      "text": "And then every year for three years they would pay you 33% of the other 2 million that was left of the valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1057.268,
+      "end_time": 1064.492
+    },
+    {
+      "text": "That's how, that's how it's normally structured.",
+      "speaker_name": "Andy Day",
+      "start_time": 1064.636,
+      "end_time": 1067.03
+    },
+    {
+      "text": "And then it keeps everybody aligned.",
+      "speaker_name": "Andy Day",
+      "start_time": 1067.14,
+      "end_time": 1069.026
+    },
+    {
+      "text": "Obviously you want to get the rest of the money so you stay in the business for three years.",
+      "speaker_name": "Andy Day",
+      "start_time": 1069.138,
+      "end_time": 1073.106
+    },
+    {
+      "text": "Yeah, but, but if we were talking about an equity swap, then it might be 80% of the company was cash and 20% was equity.",
+      "speaker_name": "Andy Day",
+      "start_time": 1073.258,
+      "end_time": 1081.33
+    },
+    {
+      "text": "So quite likely you would get 20% of your equity on day one and you would get 40% in cash on day one and then the 40% that was left would be earned out over the three year period or something.",
+      "speaker_name": "Andy Day",
+      "start_time": 1081.49,
+      "end_time": 1092.738
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Razem",
+      "start_time": 1092.794,
+      "end_time": 1093.446
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Razem",
+      "start_time": 1093.578,
+      "end_time": 1093.982
+    },
+    {
+      "text": "So I mean, I can't speak for all acquirers and every deal is different, but that's usually kind of like the vanilla deal that's on the table or something close to that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1094.046,
+      "end_time": 1104.126
+    },
+    {
+      "text": "And then the idea really is for us to help you negotiate the better terms for what you want.",
+      "speaker_name": "Andy Day",
+      "start_time": 1104.198,
+      "end_time": 1109.39
+    },
+    {
+      "text": "So you know, it would be obviously for your wife to step away, we would be negotiating obviously for a package for you as well to stay in the business, etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 1109.51,
+      "end_time": 1119.806
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 1119.838,
+      "end_time": 1120.19
+    },
+    {
+      "text": "So then for us, so we work in three different flavors.",
+      "speaker_name": "Andy Day",
+      "start_time": 1120.27,
+      "end_time": 1126.034
+    },
+    {
+      "text": "I think because of the size of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1126.082,
+      "end_time": 1127.87
+    },
+    {
+      "text": "We do have a option where you just list for free on agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1128.25,
+      "end_time": 1133.554
+    },
+    {
+      "text": "So it's always free to list on the agencies co platform.",
+      "speaker_name": "Andy Day",
+      "start_time": 1133.602,
+      "end_time": 1136.87
+    },
+    {
+      "text": "And then the next step up from that is where we give you evaluation for the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1137.69,
+      "end_time": 1143.266
+    },
+    {
+      "text": "So we do full valuation where we go through your books, you know, work out exactly what your EBITDA could be because there's some add backs that maybe we could put in there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1143.338,
+      "end_time": 1153.834
+    },
+    {
+      "text": "And then we can get a multiple based on other businesses that have sold recently in the market.",
+      "speaker_name": "Andy Day",
+      "start_time": 1153.922,
+      "end_time": 1159.178
+    },
+    {
+      "text": "And then we put all of your marketing materials and we list on the agency's website, send out to the agency's mailing list with 20,000 subscribers on there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1159.314,
+      "end_time": 1169.21
+    },
+    {
+      "text": "And then obviously we're marketing agencies going forward and my M and A team, as soon as we get a bite, they step in and we get the deal done.",
+      "speaker_name": "Andy Day",
+      "start_time": 1169.25,
+      "end_time": 1178.662
+    },
+    {
+      "text": "You know, we go into bat for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1178.846,
+      "end_time": 1181.17
+    },
+    {
+      "text": "So that's just $5,000 to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1182.43,
+      "end_time": 1185.302
+    },
+    {
+      "text": "And obviously if you're not committed to getting the deal done immediately, that's a good option because it's relatively low risk.",
+      "speaker_name": "Andy Day",
+      "start_time": 1185.486,
+      "end_time": 1194.45
+    },
+    {
+      "text": "Then the full package is $30,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 1194.91,
+      "end_time": 1198.038
+    },
+    {
+      "text": "And this is a process where we handle the entire M and a process that gets your business sold within six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1198.134,
+      "end_time": 1206.108
+    },
+    {
+      "text": "So if we went to market say at the start of April, we'd be lying on the beach in November sipping cocktails.",
+      "speaker_name": "Andy Day",
+      "start_time": 1206.164,
+      "end_time": 1215.36
+    },
+    {
+      "text": "So that process is kind of more of a guarantee process.",
+      "speaker_name": "Andy Day",
+      "start_time": 1217.3,
+      "end_time": 1220.444
+    },
+    {
+      "text": "But also my team are out every single day making sure we're bringing new buyers to the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 1220.612,
+      "end_time": 1225.36
+    },
+    {
+      "text": "And when we do have a deal, we continue to go out and get more, more buyers as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1225.83,
+      "end_time": 1230.99
+    },
+    {
+      "text": "So that we, we're really sort of generating what we like to have, like a contentious process so that the buyers understand that they're not the only buyer in the process and we have, we have better leverage to get the best valuation.",
+      "speaker_name": "Andy Day",
+      "start_time": 1231.03,
+      "end_time": 1244.83
+    },
+    {
+      "text": "But nine times out of 10, in all honesty, when you find, when we get a buyer at the table who you really like based on like a good cultural fit of your team and their team, then that's when we can really get a negotiation started.",
+      "speaker_name": "Andy Day",
+      "start_time": 1244.99,
+      "end_time": 1259.746
+    },
+    {
+      "text": "And it always ends, you know, price becomes secondary if you can find a really great buyer that you just want to sell into, you know, when you're talking about longevity of your own career in a bigger organization.",
+      "speaker_name": "Andy Day",
+      "start_time": 1259.818,
+      "end_time": 1270.07
+    },
+    {
+      "text": "So that's what we're looking for, that as well, where there's a good cultural fit for you as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1270.97,
+      "end_time": 1275.63
+    },
+    {
+      "text": "So like I say that's 30,000, then we always take 5% on the deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1276.01,
+      "end_time": 1279.77
+    },
+    {
+      "text": "That's net of any fees that you paid.",
+      "speaker_name": "Andy Day",
+      "start_time": 1280.63,
+      "end_time": 1282.814
+    },
+    {
+      "text": "So if you paid us 30 grand up front and our final fee was 100K, it would be net of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1282.862,
+      "end_time": 1287.87
+    },
+    {
+      "text": "It'd just be 70K net.",
+      "speaker_name": "Andy Day",
+      "start_time": 1287.91,
+      "end_time": 1289.854
+    },
+    {
+      "text": "So, yeah, that, that's kind of the three, the, the three different flavors.",
+      "speaker_name": "Andy Day",
+      "start_time": 1290.022,
+      "end_time": 1293.486
+    },
+    {
+      "text": "And obviously we just want to get you guys sold as quickly as possible.",
+      "speaker_name": "Andy Day",
+      "start_time": 1293.518,
+      "end_time": 1298.17
+    },
+    {
+      "text": "But it really, it's about where you are on this journey and whether you just want to dip your toe in, into the water or whether you're like, really keen to get it sold before the end of the year.",
+      "speaker_name": "Andy Day",
+      "start_time": 1298.55,
+      "end_time": 1307.986
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Razem",
+      "start_time": 1308.138,
+      "end_time": 1308.882
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Razem",
+      "start_time": 1308.946,
+      "end_time": 1309.25
+    },
+    {
+      "text": "All right, that makes sense.",
+      "speaker_name": "Razem",
+      "start_time": 1309.29,
+      "end_time": 1310.53
+    },
+    {
+      "text": "Have you.",
+      "speaker_name": "Razem",
+      "start_time": 1310.61,
+      "end_time": 1311.47
+    },
+    {
+      "text": "Well, I got a couple of questions.",
+      "speaker_name": "Razem",
+      "start_time": 1312.89,
+      "end_time": 1314.93
+    },
+    {
+      "text": "So the first one is based on our team and where we are.",
+      "speaker_name": "Razem",
+      "start_time": 1315.01,
+      "end_time": 1321.71
+    },
+    {
+      "text": "I will, I'm considering probably two potential markets for a buyer.",
+      "speaker_name": "Razem",
+      "start_time": 1322.25,
+      "end_time": 1327.97
+    },
+    {
+      "text": "So Saudi Arabia would be one.",
+      "speaker_name": "Razem",
+      "start_time": 1328.05,
+      "end_time": 1330.284
+    },
+    {
+      "text": "You know, it's booming and there's a lot of, you know, economy, economy growth there.",
+      "speaker_name": "Razem",
+      "start_time": 1330.482,
+      "end_time": 1337.848
+    },
+    {
+      "text": "But we're also, we have the advantage of proximity because we're, you know, in Jordan and at the same time, the culture as well, you know, the team in Jordan, 80 of our team in Jordan, they speak Arabic and they can be culturally fit with a, you know, with Saudi Arabian buyer, let's say that's one thing.",
+      "speaker_name": "Razem",
+      "start_time": 1337.984,
+      "end_time": 1357.68
+    },
+    {
+      "text": "The other thing would be the U.S.",
+      "speaker_name": "Razem",
+      "start_time": 1358.78,
+      "end_time": 1360.453
+    },
+    {
+      "text": "however, being in the U.S.",
+      "speaker_name": "Razem",
+      "start_time": 1360.554,
+      "end_time": 1362.289
+    },
+    {
+      "text": "and we're like five employees in the U.S.",
+      "speaker_name": "Razem",
+      "start_time": 1362.411,
+      "end_time": 1365.652
+    },
+    {
+      "text": "like full time employees and the majority are in Jordan and also different parts of the World.",
+      "speaker_name": "Razem",
+      "start_time": 1365.756,
+      "end_time": 1373.492
+    },
+    {
+      "text": "So because of that, would you say that we have better chances in the US or in Saudi as a market?",
+      "speaker_name": "Razem",
+      "start_time": 1373.596,
+      "end_time": 1382.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1383.83,
+      "end_time": 1384.35
+    },
+    {
+      "text": "So it's a good question because I would say you probably have a good chance of being bought out by a US Company.",
+      "speaker_name": "Andy Day",
+      "start_time": 1384.43,
+      "end_time": 1391.07
+    },
+    {
+      "text": "I don't think the whole Jordan thing would, would really affect anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 1391.11,
+      "end_time": 1396.53
+    },
+    {
+      "text": "A lot of larger companies are looking to offshore the, the creative teams.",
+      "speaker_name": "Andy Day",
+      "start_time": 1396.95,
+      "end_time": 1401.582
+    },
+    {
+      "text": "It is cheaper to run better margins salaries, particularly in California, as you know that they, the, the code around hiring employees in California particularly is difficult.",
+      "speaker_name": "Andy Day",
+      "start_time": 1401.646,
+      "end_time": 1412.9
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1412.98,
+      "end_time": 1413.316
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1413.388,
+      "end_time": 1414.052
+    },
+    {
+      "text": "So nobody is too worried about the fact that there are offshored teams, to be honest with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1414.236,
+      "end_time": 1421.6
+    },
+    {
+      "text": "And you know, vice versa.",
+      "speaker_name": "Andy Day",
+      "start_time": 1422.14,
+      "end_time": 1424.244
+    },
+    {
+      "text": "I would should imagine that also if there were marketing companies based in the Middle east, that they would be looking to get a footprint in the US as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1424.292,
+      "end_time": 1432.58
+    },
+    {
+      "text": "So I would say you're not really going to put any, anybody off, but really you're doubling your chances to find a buyer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1432.7,
+      "end_time": 1439.65
+    },
+    {
+      "text": "So some of my team are based in the Middle east too.",
+      "speaker_name": "Andy Day",
+      "start_time": 1440.47,
+      "end_time": 1443.53
+    },
+    {
+      "text": "So it's not a problem that you're out there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1444.15,
+      "end_time": 1446.462
+    },
+    {
+      "text": "I don't speak Arabic, but some of our team do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1446.486,
+      "end_time": 1450.734
+    },
+    {
+      "text": "And so potentially that's, that's kind of a good fit with us in particular.",
+      "speaker_name": "Andy Day",
+      "start_time": 1450.822,
+      "end_time": 1454.81
+    },
+    {
+      "text": "But I would say the Americans have a really strong market.",
+      "speaker_name": "Andy Day",
+      "start_time": 1455.43,
+      "end_time": 1459.614
+    },
+    {
+      "text": "They've got a tradition of buying marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1459.702,
+      "end_time": 1462.568
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Razem",
+      "start_time": 1462.694,
+      "end_time": 1463.364
+    },
+    {
+      "text": "And actually the, the whole web development thing, I mean, you will know this anyway because you've got a great, you know, solid business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1463.492,
+      "end_time": 1470.32
+    },
+    {
+      "text": "But we have a lot of interest when we have web development web design companies listed on agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1470.78,
+      "end_time": 1476.42
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1476.5,
+      "end_time": 1477.12
+    },
+    {
+      "text": "So yeah, I mean, it's a strong market and it doesn't look to be weakening, I think, particularly with Dream, like you say, there's so many corporates that are on that platform.",
+      "speaker_name": "Andy Day",
+      "start_time": 1478.22,
+      "end_time": 1488.28
+    },
+    {
+      "text": "It doesn't seem to be going anywhere fast, does it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1488.83,
+      "end_time": 1491.414
+    },
+    {
+      "text": "Oh yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1491.502,
+      "end_time": 1493.158
+    },
+    {
+      "text": "So I think you're just broadening your market to two whole different spheres.",
+      "speaker_name": "Andy Day",
+      "start_time": 1493.254,
+      "end_time": 1499.37
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1500.51,
+      "end_time": 1501.062
+    },
+    {
+      "text": "Which is good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1501.126,
+      "end_time": 1501.75
+    },
+    {
+      "text": "And there's nothing to stop Europeans buying into the US Market either.",
+      "speaker_name": "Andy Day",
+      "start_time": 1501.79,
+      "end_time": 1504.742
+    },
+    {
+      "text": "So probably pretty much the whole planet except South Asia.",
+      "speaker_name": "Andy Day",
+      "start_time": 1504.806,
+      "end_time": 1509.926
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Razem",
+      "start_time": 1510.038,
+      "end_time": 1510.518
+    },
+    {
+      "text": "And when it comes to the potential buyers, do you typically, you know, if we go with the full, the full plan, would you have a, some kind of like a named list of potential buyers for our specific niche and then you go after them or do you just go by the existing contacts that you have?",
+      "speaker_name": "Razem",
+      "start_time": 1510.614,
+      "end_time": 1535.83
+    },
+    {
+      "text": "Yeah, so that's how we differ from a lot of M and A teams.",
+      "speaker_name": "Andy Day",
+      "start_time": 1536.13,
+      "end_time": 1540.442
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1540.506,
+      "end_time": 1541.11
+    },
+    {
+      "text": "So what we do have is we have the agency's platform and our mailing list there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1541.54,
+      "end_time": 1545.26
+    },
+    {
+      "text": "We also have our own CRM database of 130,000 marketing agencies as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1545.38,
+      "end_time": 1552.748
+    },
+    {
+      "text": "So we match against that for buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1552.884,
+      "end_time": 1556.4
+    },
+    {
+      "text": "So that's the easy work that we've got there.",
+      "speaker_name": "Andy Day",
+      "start_time": 1556.82,
+      "end_time": 1559.164
+    },
+    {
+      "text": "And then we've got our team who will then go out and find from third party databases as well where we will look for new matches for, for our particular client.",
+      "speaker_name": "Andy Day",
+      "start_time": 1559.252,
+      "end_time": 1572.97
+    },
+    {
+      "text": "So we're always building a bespoke list of buyers and that, that list, you know, it could be 10,000 or more, I would say, because it's such a broad market for what you're doing where we'll be able to find agencies that are looking for this type of fit.",
+      "speaker_name": "Andy Day",
+      "start_time": 1573.47,
+      "end_time": 1589.126
+    },
+    {
+      "text": "But yeah, we tend to just, we keep going until we find the buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1589.238,
+      "end_time": 1592.566
+    },
+    {
+      "text": "We don't just say we're going to give this client 10,000 leads, you know, it's, it's until we find it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1592.598,
+      "end_time": 1599.376
+    },
+    {
+      "text": "So quite often if there isn't a great match within our own database, then our analysts will continue to build those lists and try and find more and more.",
+      "speaker_name": "Andy Day",
+      "start_time": 1599.448,
+      "end_time": 1610.06
+    },
+    {
+      "text": "We actually have acquired our own systems as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1610.52,
+      "end_time": 1613.696
+    },
+    {
+      "text": "So we have a fantastic tool called deal engines where we're able to reach out through people's LinkedIn accounts as well to find a match, which is massively effective.",
+      "speaker_name": "Andy Day",
+      "start_time": 1613.768,
+      "end_time": 1627.246
+    },
+    {
+      "text": "We get a really high response rate.",
+      "speaker_name": "Andy Day",
+      "start_time": 1627.358,
+      "end_time": 1629.598
+    },
+    {
+      "text": "You know, 30 to 40% of our outreach via LinkedIn is match.",
+      "speaker_name": "Andy Day",
+      "start_time": 1629.654,
+      "end_time": 1634.798
+    },
+    {
+      "text": "It's a little bit slower because you're limited by LinkedIn.",
+      "speaker_name": "Andy Day",
+      "start_time": 1634.854,
+      "end_time": 1638.126
+    },
+    {
+      "text": "And then we do cold email outreach as well for our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 1638.318,
+      "end_time": 1642.718
+    },
+    {
+      "text": "So yeah, if there's anything that we find, then we're constantly reaching out.",
+      "speaker_name": "Andy Day",
+      "start_time": 1642.814,
+      "end_time": 1646.666
+    },
+    {
+      "text": "And finally, phone calls, the old school way of phoning up anything that we can see that's a good match in the database that isn't responding.",
+      "speaker_name": "Andy Day",
+      "start_time": 1646.758,
+      "end_time": 1654.61
+    },
+    {
+      "text": "We'll just give them a call and try and get the deal moving.",
+      "speaker_name": "Andy Day",
+      "start_time": 1654.69,
+      "end_time": 1658.178
+    },
+    {
+      "text": "So, yeah, we're all over it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1658.274,
+      "end_time": 1659.87
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Razem",
+      "start_time": 1661.05,
+      "end_time": 1662.034
+    },
+    {
+      "text": "All right, so I can put the rest in an email and you and your wife can discuss.",
+      "speaker_name": "Andy Day",
+      "start_time": 1662.202,
+      "end_time": 1669.07
+    },
+    {
+      "text": "Is there any time to speak next week where we can see where you're at?",
+      "speaker_name": "Andy Day",
+      "start_time": 1669.53,
+      "end_time": 1674.03
+    },
+    {
+      "text": "Yeah, sure, let's do, Let me see.",
+      "speaker_name": "Razem",
+      "start_time": 1674.63,
+      "end_time": 1678.318
+    },
+    {
+      "text": "Next week actually might be tough.",
+      "speaker_name": "Razem",
+      "start_time": 1678.374,
+      "end_time": 1680.93
+    },
+    {
+      "text": "We got a big presentation coming up, so maybe we do it the week after, the week of the 24th.",
+      "speaker_name": "Razem",
+      "start_time": 1681.43,
+      "end_time": 1687.71
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 1687.87,
+      "end_time": 1688.654
+    },
+    {
+      "text": "So what about Tuesday?",
+      "speaker_name": "Andy Day",
+      "start_time": 1688.742,
+      "end_time": 1692.302
+    },
+    {
+      "text": "Can you do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1692.406,
+      "end_time": 1693.37
+    },
+    {
+      "text": "God, where are you two?",
+      "speaker_name": "Andy Day",
+      "start_time": 1693.83,
+      "end_time": 1696.158
+    },
+    {
+      "text": "Eastern is 11:00am, 11:00am Pacific.",
+      "speaker_name": "Andy Day",
+      "start_time": 1696.214,
+      "end_time": 1703.87
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Razem",
+      "start_time": 1704.03,
+      "end_time": 1704.446
+    },
+    {
+      "text": "So my time.",
+      "speaker_name": "Razem",
+      "start_time": 1704.518,
+      "end_time": 1705.61
+    },
+    {
+      "text": "Yeah, similar to this time.",
+      "speaker_name": "Razem",
+      "start_time": 1706.63,
+      "end_time": 1708.65
+    },
+    {
+      "text": "Yeah, yeah, yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1709.03,
+      "end_time": 1710.334
+    },
+    {
+      "text": "On Tuesday.",
+      "speaker_name": "Razem",
+      "start_time": 1710.382,
+      "end_time": 1710.894
+    },
+    {
+      "text": "Yeah, that would be good.",
+      "speaker_name": "Razem",
+      "start_time": 1710.982,
+      "end_time": 1712.25
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1712.55,
+      "end_time": 1713.79
+    },
+    {
+      "text": "All right, I'll stick a note in there and I'll send an invite when we jump off the call.",
+      "speaker_name": "Andy Day",
+      "start_time": 1713.95,
+      "end_time": 1717.822
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "Razem",
+      "start_time": 1717.926,
+      "end_time": 1718.43
+    },
+    {
+      "text": "Yeah, I'll keep an eye for your email.",
+      "speaker_name": "Razem",
+      "start_time": 1718.47,
+      "end_time": 1721.69
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1721.99,
+      "end_time": 1722.59
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1722.67,
+      "end_time": 1722.942
+    },
+    {
+      "text": "Lovely to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1722.966,
+      "end_time": 1723.742
+    },
+    {
+      "text": "Anyway, good to catch up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1723.766,
+      "end_time": 1725.172
+    },
+    {
+      "text": "Yeah, good to meet you, too.",
+      "speaker_name": "Razem",
+      "start_time": 1725.326,
+      "end_time": 1727.192
+    },
+    {
+      "text": "And have a good one.",
+      "speaker_name": "Razem",
+      "start_time": 1727.216,
+      "end_time": 1728.74
+    },
+    {
+      "text": "Enjoy the rest of your day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1729.12,
+      "end_time": 1730.712
+    },
+    {
+      "text": "All right, you too.",
+      "speaker_name": "Razem",
+      "start_time": 1730.896,
+      "end_time": 1731.72
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Razem",
+      "start_time": 1731.76,
+      "end_time": 1731.928
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A",
+      "Drupal",
+      "Agency Acquisition",
+      "Valuation",
+      "Enterprise Development",
+      "Digital Services"
+    ],
+    "action_items": "\n**Andy Day**\nSend email with more information about M&A services and options (27:41)\nSend calendar invite for next meeting on Tuesday at 11:00am Pacific (28:38)\n\n**Razem**\nReview email information and discuss options with wife (27:55)\nAttend follow-up meeting on Tuesday, April 23rd at 11:00am Pacific (28:30)\n",
+    "outline": null,
+    "overview": "The Business Development Discussion meeting between Vardot and Capital A focused on potential exit opportunities and M&A strategies for Vardot, a Drupal-focused development agency based in Santa Clara, California, founded by Razem and his wife. Key highlights included Vardot's robust operational structure, with 70 team members predominantly in Jordan and an annual revenue of approximately $4 million, including a 20% net income. Andy Day of Capital A provided insights into valuation estimates ranging from 4-6 times EBITDA and discussed preferred deal structures involving upfront cash and earnout periods. The conversation also identified potential buyer markets, particularly in Saudi Arabia and the US, and outlined the M&A services offered by Capital A, which range from free listings to comprehensive transaction support. The meeting concluded with action items for both parties, including a follow-up scheduled for April 23rd.",
+    "short_summary": "Vardot, a Drupal-focused development agency founded by Razem and his wife in Santa Clara, California, is exploring exit opportunities with Capital A, a specialized M&A advisory firm. The discussion highlighted Vardot's robust operational structure, employing 70 team members, predominantly based in Jordan, and generating approximately $4 million in annual revenue with a 20% net income. Valuation estimates from Andy Day of Capital A suggest Vardot could be valued at 4-6 times EBITDA, with preferred deal structures involving 50% cash upfront and 50% paid over a 3-year earnout period. The meeting identified potential buyer markets in Saudi Arabia and the US, with a scheduled follow-up on April 23rd to further discuss M&A services offered by Capital A.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JP0FXVAZZFGEVZJBTA1AT7MM",
+  "audio_url": "https://cdn.fireflies.ai/01JP0FXVAZZFGEVZJBTA1AT7MM/audio.mp3?Expires=1773220871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlAwRlhWQVpaRkdFVlpKQlRBMUFUN01NL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg3MX19fV19&Signature=Bp-xisINuN7GeQxcdDMDkAAk5UOo8YeHZSH3-lxXP4J6Xr6QlHAfuAPyfNg8JV3glcFt4VPYPr4ZdmQHQoyAuJNa8sztZ2xFb3h82KK0OUwLEWvCjXq9k13GJPl2k05llILt9X6kfJwz6gn5lTkxsS-vLp2BSD~dO2SzSitxgCqEymhV-V8VZoVh8D8Oa3KstQRKME7WvRx143tml4LBPYmhBfIFXMif1Civ8EsR602yUT88qVTFwoHduDkweQgehDRmnV0a5PzcKq7rc~OnD9w3KCxcth7rJUjUNp1UBRKZkcN2s4T1DbbRWX~2KTNlVAzghGSfpGwj4I5yXv33nw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

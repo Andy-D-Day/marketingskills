@@ -1,0 +1,2027 @@
+{
+  "id": "01KHR5DNCT1NCWZBXYVQXFRGJC",
+  "title": "Communimed x Portrait Capital",
+  "date": 1772049600000,
+  "dateString": "2026-02-25T20:00:00.000Z",
+  "duration": 26.700000762939453,
+  "participants": [
+    "mwarda@communimed.ca,ahmed.zia@capitala.co,rday@communimed.ca,justin@portraitcap.com",
+    "mwarda@communimed.ca",
+    "rday@communimed.ca",
+    "justin@portraitcap.com"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "mwarda@communimed.ca",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "rday@communimed.ca",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "justin@portraitcap.com",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "How's it going?",
+      "speaker_name": "RobinDay",
+      "start_time": 0.16,
+      "end_time": 0.64
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "RobinDay",
+      "start_time": 1.6,
+      "end_time": 3.44
+    },
+    {
+      "text": "We have Justin as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 5.12,
+      "end_time": 6.4
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 6.56,
+      "end_time": 7.12
+    },
+    {
+      "text": "Bruce, nice to meet you.",
+      "speaker_name": "RobinDay",
+      "start_time": 8.48,
+      "end_time": 10.2
+    },
+    {
+      "text": "Hi, Justin.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 10.2,
+      "end_time": 10.96
+    },
+    {
+      "text": "Hello, Justin.",
+      "speaker_name": "RobinDay",
+      "start_time": 12.16,
+      "end_time": 12.92
+    },
+    {
+      "text": "Hey, guys.",
+      "speaker_name": "Justin Burris",
+      "start_time": 12.92,
+      "end_time": 13.44
+    },
+    {
+      "text": "Hey.",
+      "speaker_name": "Justin Burris",
+      "start_time": 13.92,
+      "end_time": 14.36
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "Justin Burris",
+      "start_time": 14.36,
+      "end_time": 15.08
+    },
+    {
+      "text": "Hi, Justin.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 15.08,
+      "end_time": 15.92
+    },
+    {
+      "text": "How's it going?",
+      "speaker_name": "Justin Burris",
+      "start_time": 16.64,
+      "end_time": 17.28
+    },
+    {
+      "text": "Good to meet you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 17.28,
+      "end_time": 18
+    },
+    {
+      "text": "Good to meet you finally.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 18.16,
+      "end_time": 19.44
+    },
+    {
+      "text": "There's been a lot of back and forth, but so glad this call is happening.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 19.84,
+      "end_time": 23.92
+    },
+    {
+      "text": "Thank you everyone for joining.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 24.24,
+      "end_time": 25.6
+    },
+    {
+      "text": "So, Justin, this call is really to connect you with Communimed founder Robin and for you to tell us a little bit more about Portrait Capital and your interest in Communimed.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 26.18,
+      "end_time": 36.74
+    },
+    {
+      "text": "So if you would like to start and tell us about your business and your interest in Communimed, then Robin can tell you more about Communimed.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 37.14,
+      "end_time": 44.5
+    },
+    {
+      "text": "Sure, that sounds good.",
+      "speaker_name": "Justin Burris",
+      "start_time": 45.94,
+      "end_time": 47.94
+    },
+    {
+      "text": "Good to meet you guys.",
+      "speaker_name": "Justin Burris",
+      "start_time": 48.1,
+      "end_time": 49.1
+    },
+    {
+      "text": "I'm Justin Burris.",
+      "speaker_name": "Justin Burris",
+      "start_time": 49.1,
+      "end_time": 50.3
+    },
+    {
+      "text": "I'm one of the co founders at Portrait.",
+      "speaker_name": "Justin Burris",
+      "start_time": 50.3,
+      "end_time": 51.78
+    },
+    {
+      "text": "We're a private investment firm.",
+      "speaker_name": "Justin Burris",
+      "start_time": 52.78,
+      "end_time": 54.3
+    },
+    {
+      "text": "Started the firm about five years ago now along with my partner Tim Ludwig, based in New York, but previously was with a larger investment firm, invested in founder and family owned companies really all over the world.",
+      "speaker_name": "Justin Burris",
+      "start_time": 54.46,
+      "end_time": 67.98
+    },
+    {
+      "text": "When we started the firm, it was pretty specifically with a thesis on supporting founder and family owned companies typically instead of niche essential service industries and really trying to build platforms for the long term.",
+      "speaker_name": "Justin Burris",
+      "start_time": 69.66,
+      "end_time": 81.75
+    },
+    {
+      "text": "So trying to roll up our sleeves and support growth.",
+      "speaker_name": "Justin Burris",
+      "start_time": 81.75,
+      "end_time": 85.19
+    },
+    {
+      "text": "We own six businesses right now.",
+      "speaker_name": "Justin Burris",
+      "start_time": 85.83,
+      "end_time": 88.87
+    },
+    {
+      "text": "Five of the six are in the U.S. one of them's up in Canada and they're in sort of smaller niche markets where we're typically kind of an early mover and professionalizing and laying the groundwork for growth.",
+      "speaker_name": "Justin Burris",
+      "start_time": 90.07,
+      "end_time": 102.87
+    },
+    {
+      "text": "You know, four of us on the team here in New York.",
+      "speaker_name": "Justin Burris",
+      "start_time": 104.36,
+      "end_time": 106.68
+    },
+    {
+      "text": "Here in California actually.",
+      "speaker_name": "Justin Burris",
+      "start_time": 107.08,
+      "end_time": 109.32
+    },
+    {
+      "text": "Sorry, my numbers are old.",
+      "speaker_name": "Justin Burris",
+      "start_time": 109.32,
+      "end_time": 111.56
+    },
+    {
+      "text": "Three of us on the team and one of us in New York, two in California",
+      "speaker_name": "Justin Burris",
+      "start_time": 111.8,
+      "end_time": 116.2
+    },
+    {
+      "text": "and",
+      "speaker_name": "RobinDay",
+      "start_time": 118.12,
+      "end_time": 118.52
+    },
+    {
+      "text": "my colleague Bruce is online.",
+      "speaker_name": "Justin Burris",
+      "start_time": 120.28,
+      "end_time": 123
+    },
+    {
+      "text": "He was in New York, but unfortunately has moved to the darker west coast, so.",
+      "speaker_name": "Justin Burris",
+      "start_time": 123.08,
+      "end_time": 128.04
+    },
+    {
+      "text": "Hi all.",
+      "speaker_name": "RobinDay",
+      "start_time": 128.829,
+      "end_time": 129.189
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Bruce Eskesen",
+      "start_time": 129.189,
+      "end_time": 130.029
+    },
+    {
+      "text": "Yeah, my name is Bruce.",
+      "speaker_name": "Bruce Eskesen",
+      "start_time": 130.109,
+      "end_time": 131.069
+    },
+    {
+      "text": "I did just move to Los Angeles from New York, but I've been on the team with Justin for about three years and excited to learn a little bit more about the business.",
+      "speaker_name": "Bruce Eskesen",
+      "start_time": 131.069,
+      "end_time": 137.869
+    },
+    {
+      "text": "Nice to meet you, Bruce.",
+      "speaker_name": "RobinDay",
+      "start_time": 139.949,
+      "end_time": 141.149
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Justin Burris",
+      "start_time": 142.909,
+      "end_time": 143.389
+    },
+    {
+      "text": "Well, that's awesome.",
+      "speaker_name": "Justin Burris",
+      "start_time": 143.869,
+      "end_time": 145.149
+    },
+    {
+      "text": "In a nutshell, Robin, it'd be great to hear a little bit of the background of building the business and where you guys are today.",
+      "speaker_name": "Justin Burris",
+      "start_time": 145.149,
+      "end_time": 153.389
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "RobinDay",
+      "start_time": 154.36,
+      "end_time": 154.6
+    },
+    {
+      "text": "I mean, where we started this business 35 years ago, but prior to that.",
+      "speaker_name": "RobinDay",
+      "start_time": 154.68,
+      "end_time": 161.48
+    },
+    {
+      "text": "So it's it, it's a family owned business.",
+      "speaker_name": "RobinDay",
+      "start_time": 161.72,
+      "end_time": 164.2
+    },
+    {
+      "text": "It's myself and my wife who founded the business and we're equal shareholders in it.",
+      "speaker_name": "RobinDay",
+      "start_time": 164.2,
+      "end_time": 168.44
+    },
+    {
+      "text": "Our, our background is we have, we're university graduates with science degrees and then with that we moved into pharmaceutical industry, so in various capacities, sales and marketing, et cetera.",
+      "speaker_name": "RobinDay",
+      "start_time": 169.8,
+      "end_time": 182.28
+    },
+    {
+      "text": "And then from there went on to the.",
+      "speaker_name": "RobinDay",
+      "start_time": 182.28,
+      "end_time": 183.8
+    },
+    {
+      "text": "The supplier side in the publishing and communication segments.",
+      "speaker_name": "RobinDay",
+      "start_time": 184.28,
+      "end_time": 189.56
+    },
+    {
+      "text": "And then we, we met along that path.",
+      "speaker_name": "RobinDay",
+      "start_time": 189.8,
+      "end_time": 194.8
+    },
+    {
+      "text": "And then after we got married, we decided that, you know, we really wanted to do something on our own.",
+      "speaker_name": "RobinDay",
+      "start_time": 194.8,
+      "end_time": 201.72
+    },
+    {
+      "text": "So we actually started the business as a point of care.",
+      "speaker_name": "RobinDay",
+      "start_time": 202.28,
+      "end_time": 205.8
+    },
+    {
+      "text": "You know, exactly the core of what you see now in the business.",
+      "speaker_name": "RobinDay",
+      "start_time": 206.76,
+      "end_time": 209.64
+    },
+    {
+      "text": "This is how it actually started.",
+      "speaker_name": "RobinDay",
+      "start_time": 209.72,
+      "end_time": 211.16
+    },
+    {
+      "text": "You know, poster printed poster programs that are fitted into dedicated frames, you know, within pharmacies.",
+      "speaker_name": "RobinDay",
+      "start_time": 211.32,
+      "end_time": 219.67
+    },
+    {
+      "text": "That's how we started it.",
+      "speaker_name": "RobinDay",
+      "start_time": 219.67,
+      "end_time": 220.87
+    },
+    {
+      "text": "And, you know, that expanded into clinics.",
+      "speaker_name": "RobinDay",
+      "start_time": 221.83,
+      "end_time": 224.51
+    },
+    {
+      "text": "And we had various partners along the way that helped us sort of achieve growth across the country.",
+      "speaker_name": "RobinDay",
+      "start_time": 224.51,
+      "end_time": 230.07
+    },
+    {
+      "text": "And then we sort of got into a lot of other things, medical education, and we were sort of spreading ourselves in a.",
+      "speaker_name": "RobinDay",
+      "start_time": 231.11,
+      "end_time": 238.15
+    },
+    {
+      "text": "A lot of different areas.",
+      "speaker_name": "RobinDay",
+      "start_time": 238.45,
+      "end_time": 239.49
+    },
+    {
+      "text": "And around 2016, we decided that we really needed to consolidate our efforts around the point of care.",
+      "speaker_name": "RobinDay",
+      "start_time": 240.45,
+      "end_time": 246.53
+    },
+    {
+      "text": "And this was around the time point of care marketing, let's say this is really around the time that the point of care marketing channel in the US Is really starting to get rolling.",
+      "speaker_name": "RobinDay",
+      "start_time": 246.53,
+      "end_time": 258.37
+    },
+    {
+      "text": "So really since then, we've just.",
+      "speaker_name": "RobinDay",
+      "start_time": 260.45,
+      "end_time": 262.81
+    },
+    {
+      "text": "We sort of divested ourselves of all these other engagements that people still seem to want us to do.",
+      "speaker_name": "RobinDay",
+      "start_time": 262.81,
+      "end_time": 268.34
+    },
+    {
+      "text": "But all of our efforts are focused on growing this network and developing expertise in that niche and dominating that particular segment, which is where we stand today.",
+      "speaker_name": "RobinDay",
+      "start_time": 269.38,
+      "end_time": 280.58
+    },
+    {
+      "text": "We're really sort of standalone in Canada as being the most important player in that market.",
+      "speaker_name": "RobinDay",
+      "start_time": 280.58,
+      "end_time": 288.1
+    },
+    {
+      "text": "So this is where we're at and happy to chat about details.",
+      "speaker_name": "RobinDay",
+      "start_time": 289.3,
+      "end_time": 293.87
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Justin Burris",
+      "start_time": 294.75,
+      "end_time": 295.31
+    },
+    {
+      "text": "I'm just curious, like, some of the differences between point of care marketing in Canada versus the U.S. like, any differences in terms of regulation or what works or doesn't work or anything to be mindful of?",
+      "speaker_name": "Justin Burris",
+      "start_time": 295.31,
+      "end_time": 308.79
+    },
+    {
+      "text": "Yeah, yeah, sure.",
+      "speaker_name": "RobinDay",
+      "start_time": 308.79,
+      "end_time": 310.27
+    },
+    {
+      "text": "There's.",
+      "speaker_name": "RobinDay",
+      "start_time": 310.27,
+      "end_time": 310.71
+    },
+    {
+      "text": "There is some.",
+      "speaker_name": "RobinDay",
+      "start_time": 310.71,
+      "end_time": 311.63
+    },
+    {
+      "text": "I guess there's three areas where they're very different.",
+      "speaker_name": "RobinDay",
+      "start_time": 313.07,
+      "end_time": 315.15
+    },
+    {
+      "text": "One is the size.",
+      "speaker_name": "RobinDay",
+      "start_time": 315.39,
+      "end_time": 316.99
+    },
+    {
+      "text": "So in the US you can get to a critical mass much more easily with different players in the US Than you can in Canada.",
+      "speaker_name": "RobinDay",
+      "start_time": 317.7,
+      "end_time": 325.06
+    },
+    {
+      "text": "In the US you're allowed to advertise prescription drugs.",
+      "speaker_name": "RobinDay",
+      "start_time": 327.22,
+      "end_time": 330.42
+    },
+    {
+      "text": "So I don't know, I'm sure you've seen them, right?",
+      "speaker_name": "RobinDay",
+      "start_time": 332.1,
+      "end_time": 334.9
+    },
+    {
+      "text": "They're everywhere.",
+      "speaker_name": "RobinDay",
+      "start_time": 335.06,
+      "end_time": 336.02
+    },
+    {
+      "text": "So you're.",
+      "speaker_name": "RobinDay",
+      "start_time": 336.66,
+      "end_time": 337.34
+    },
+    {
+      "text": "You're bombarded with these prescription drug ads which, which.",
+      "speaker_name": "RobinDay",
+      "start_time": 337.34,
+      "end_time": 343.06
+    },
+    {
+      "text": "So this opens up a whole.",
+      "speaker_name": "RobinDay",
+      "start_time": 344.91,
+      "end_time": 346.35
+    },
+    {
+      "text": "A lot of opportunities in the US that we don't have in Canada.",
+      "speaker_name": "RobinDay",
+      "start_time": 346.99,
+      "end_time": 350.11
+    },
+    {
+      "text": "In Canada, we have to be much more nuanced in terms of how we market pharmaceuticals.",
+      "speaker_name": "RobinDay",
+      "start_time": 351.71,
+      "end_time": 358.91
+    },
+    {
+      "text": "We have to use a more indirect approach.",
+      "speaker_name": "RobinDay",
+      "start_time": 358.91,
+      "end_time": 360.83
+    },
+    {
+      "text": "So companies would, let's say, see value in creating awareness about a particular condition that there was no treatment for or they would want the patients to look play a role in being more activated about knowing about other options that they may not have heard about.",
+      "speaker_name": "RobinDay",
+      "start_time": 361.15,
+      "end_time": 377.99
+    },
+    {
+      "text": "There's various ways that you can achieve this objective here, but even though you're not speaking about branded medications, having said that, branded advertising performance for prescription drugs is allowed as long as you limit it to the name of the drug and, and its price, which no one talks about.",
+      "speaker_name": "RobinDay",
+      "start_time": 379.83,
+      "end_time": 403.88
+    },
+    {
+      "text": "So you can kind of.",
+      "speaker_name": "RobinDay",
+      "start_time": 404.44,
+      "end_time": 405.52
+    },
+    {
+      "text": "In Canada we have Ozempic, you know, ask your doctor about it and variations of that.",
+      "speaker_name": "RobinDay",
+      "start_time": 405.52,
+      "end_time": 412.6
+    },
+    {
+      "text": "And if you're going to, you can't say Ozempic for diabetes or something for some stuff like this.",
+      "speaker_name": "RobinDay",
+      "start_time": 413.72,
+      "end_time": 419.8
+    },
+    {
+      "text": "That's the big difference.",
+      "speaker_name": "RobinDay",
+      "start_time": 419.88,
+      "end_time": 421.16
+    },
+    {
+      "text": "There are ways to support it indirectly without talking about what it's for, which is something we do.",
+      "speaker_name": "RobinDay",
+      "start_time": 421.88,
+      "end_time": 428.2
+    },
+    {
+      "text": "But you know, that's the way it's being done here.",
+      "speaker_name": "RobinDay",
+      "start_time": 429.24,
+      "end_time": 431.8
+    },
+    {
+      "text": "And pharma is putting.",
+      "speaker_name": "RobinDay",
+      "start_time": 432.04,
+      "end_time": 433.96
+    },
+    {
+      "text": "Is doing a lot of this right now, this branded but no context type advertising.",
+      "speaker_name": "RobinDay",
+      "start_time": 434.44,
+      "end_time": 442.04
+    },
+    {
+      "text": "And we're actually trying to create a narrative with them that there's a benefit to having the unbranded coupled with branded elsewhere.",
+      "speaker_name": "RobinDay",
+      "start_time": 442.92,
+      "end_time": 449.88
+    },
+    {
+      "text": "But that's just one the things we do.",
+      "speaker_name": "RobinDay",
+      "start_time": 449.88,
+      "end_time": 451.78
+    },
+    {
+      "text": "So those are the differences.",
+      "speaker_name": "RobinDay",
+      "start_time": 454.1,
+      "end_time": 455.22
+    },
+    {
+      "text": "Very different regulatory environment here compared to",
+      "speaker_name": "RobinDay",
+      "start_time": 455.3,
+      "end_time": 457.62
+    },
+    {
+      "text": "the U.S. yeah, no, that, that makes sense.",
+      "speaker_name": "Justin Burris",
+      "start_time": 457.62,
+      "end_time": 460.42
+    },
+    {
+      "text": "That's very interesting.",
+      "speaker_name": "Justin Burris",
+      "start_time": 460.42,
+      "end_time": 461.78
+    },
+    {
+      "text": "And right now, just to understand.",
+      "speaker_name": "Justin Burris",
+      "start_time": 462.18,
+      "end_time": 463.7
+    },
+    {
+      "text": "So there's.",
+      "speaker_name": "Justin Burris",
+      "start_time": 463.94,
+      "end_time": 465.38
+    },
+    {
+      "text": "Well, I.",
+      "speaker_name": "Justin Burris",
+      "start_time": 465.86,
+      "end_time": 466.5
+    },
+    {
+      "text": "It might happen here.",
+      "speaker_name": "Justin Burris",
+      "start_time": 466.819,
+      "end_time": 467.78
+    },
+    {
+      "text": "The split between printed materials and screen is.",
+      "speaker_name": "Justin Burris",
+      "start_time": 467.78,
+      "end_time": 473.7
+    },
+    {
+      "text": "Screen is growing faster and it's becoming a larger portion of the business or how should I think about.",
+      "speaker_name": "Justin Burris",
+      "start_time": 473.78,
+      "end_time": 477.94
+    },
+    {
+      "text": "But they're, I mean, right now digital or let's say in recent years digital has had a kind of a surge.",
+      "speaker_name": "RobinDay",
+      "start_time": 478.38,
+      "end_time": 485.66
+    },
+    {
+      "text": "And I say digital, I mean the screens.",
+      "speaker_name": "RobinDay",
+      "start_time": 486.78,
+      "end_time": 488.62
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 488.7,
+      "end_time": 489.02
+    },
+    {
+      "text": "I'm talking about social media here.",
+      "speaker_name": "RobinDay",
+      "start_time": 489.02,
+      "end_time": 490.86
+    },
+    {
+      "text": "Screens have had a surge in popularity because pharma has been very big on these branded ads.",
+      "speaker_name": "RobinDay",
+      "start_time": 490.86,
+      "end_time": 498.46
+    },
+    {
+      "text": "So what tends to happen in pharma is, you know, let's say there's a new category of drug available.",
+      "speaker_name": "RobinDay",
+      "start_time": 499.1,
+      "end_time": 503.98
+    },
+    {
+      "text": "There's usually two or three companies that happen to be coming along with these things in a similar time frame.",
+      "speaker_name": "RobinDay",
+      "start_time": 505.24,
+      "end_time": 511.88
+    },
+    {
+      "text": "And they tend to get.",
+      "speaker_name": "RobinDay",
+      "start_time": 512.84,
+      "end_time": 514.68
+    },
+    {
+      "text": "They feel that they've got to create awareness for the brand above all else and they don't want to develop the market if someone else stands to benefit.",
+      "speaker_name": "RobinDay",
+      "start_time": 514.76,
+      "end_time": 522.92
+    },
+    {
+      "text": "So there is this issue which is popular right now.",
+      "speaker_name": "RobinDay",
+      "start_time": 523.32,
+      "end_time": 528.2
+    },
+    {
+      "text": "You know, there's reason to believe that that may not be as popular in the future and that unbranded campaigns may start to take their role again.",
+      "speaker_name": "RobinDay",
+      "start_time": 530.29,
+      "end_time": 540.05
+    },
+    {
+      "text": "But in this particular channel, I think it's important to Be able to be agile and to be able to do whatever the market is demanding of us.",
+      "speaker_name": "RobinDay",
+      "start_time": 540.77,
+      "end_time": 550.05
+    },
+    {
+      "text": "Obviously, when you're in the point of care, when you're in the waiting room, you have an advantage over the same information that will be, that will be disclosed in social media or somewhere else where someone's passively sort of looking at their feed versus being in the office and actually being in the moment when you're thinking about your health and having this opportunity to actually talk about whatever you've been exposed to.",
+      "speaker_name": "RobinDay",
+      "start_time": 550.93,
+      "end_time": 577.42
+    },
+    {
+      "text": "So that's where there's an advantage.",
+      "speaker_name": "RobinDay",
+      "start_time": 578.78,
+      "end_time": 581.34
+    },
+    {
+      "text": "And we just feel, just, we know this is going to, it's growing in the US and we know it's going to get more traction here as we expand our influence.",
+      "speaker_name": "RobinDay",
+      "start_time": 581.34,
+      "end_time": 589.4
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Justin Burris",
+      "start_time": 590.12,
+      "end_time": 590.52
+    },
+    {
+      "text": "No, that makes sense.",
+      "speaker_name": "Justin Burris",
+      "start_time": 591,
+      "end_time": 592.68
+    },
+    {
+      "text": "And just to understand the screens right now, like get screen in the waiting room or in a pharmacy, those are actually owned by the clinic or the pharmacy, not by you all.",
+      "speaker_name": "Justin Burris",
+      "start_time": 592.68,
+      "end_time": 601.92
+    },
+    {
+      "text": "Is that right?",
+      "speaker_name": "Justin Burris",
+      "start_time": 601.92,
+      "end_time": 602.6
+    },
+    {
+      "text": "They're not owned by us.",
+      "speaker_name": "RobinDay",
+      "start_time": 602.6,
+      "end_time": 603.8
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Justin Burris",
+      "start_time": 604.52,
+      "end_time": 605
+    },
+    {
+      "text": "They may be, they may be operated by the clinic or they may be operated by an independent, say, vendor that the clinic has.",
+      "speaker_name": "RobinDay",
+      "start_time": 605,
+      "end_time": 614.63
+    },
+    {
+      "text": "Let's say there's a network of clinics and this is one of the things they offer.",
+      "speaker_name": "RobinDay",
+      "start_time": 614.63,
+      "end_time": 618.15
+    },
+    {
+      "text": "We are not allowed to pay doctors or pharmacists to make use of that space.",
+      "speaker_name": "RobinDay",
+      "start_time": 619.11,
+      "end_time": 624.95
+    },
+    {
+      "text": "Fortunately, because it would be a lot less profitable, probably wouldn't be viable, but fortunately, for ethical reasons, we're not allowed to do it.",
+      "speaker_name": "RobinDay",
+      "start_time": 625.11,
+      "end_time": 635.27
+    },
+    {
+      "text": "So pharma, certainly pharma would not be allowed to indirectly be seen putting money into a doctor's pocket through, you know, through what we're doing.",
+      "speaker_name": "RobinDay",
+      "start_time": 636.48,
+      "end_time": 648.4
+    },
+    {
+      "text": "So strictly not allowed.",
+      "speaker_name": "RobinDay",
+      "start_time": 648.4,
+      "end_time": 649.92
+    },
+    {
+      "text": "So it's value, value based alone.",
+      "speaker_name": "RobinDay",
+      "start_time": 651.2,
+      "end_time": 653.72
+    },
+    {
+      "text": "They can, they can sign up for the program, they can get out of the program.",
+      "speaker_name": "RobinDay",
+      "start_time": 653.72,
+      "end_time": 657.76
+    },
+    {
+      "text": "It's strictly voluntary",
+      "speaker_name": "RobinDay",
+      "start_time": 657.84,
+      "end_time": 659.36
+    },
+    {
+      "text": "and they choose like.",
+      "speaker_name": "Justin Burris",
+      "start_time": 661.69,
+      "end_time": 663.69
+    },
+    {
+      "text": "Well, if you look at the overall number of clinics and pharmacies, for example, what percent of them do you think have point of care marketing today?",
+      "speaker_name": "Justin Burris",
+      "start_time": 663.69,
+      "end_time": 673.05
+    },
+    {
+      "text": "Well, in this, in the.",
+      "speaker_name": "RobinDay",
+      "start_time": 676.73,
+      "end_time": 678.13
+    },
+    {
+      "text": "You mean of the entire network of clinics in Canada?",
+      "speaker_name": "RobinDay",
+      "start_time": 678.13,
+      "end_time": 682.33
+    },
+    {
+      "text": "Yeah, I mean, we have 4,000 placements.",
+      "speaker_name": "RobinDay",
+      "start_time": 682.81,
+      "end_time": 686.97
+    },
+    {
+      "text": "Maybe there is more.",
+      "speaker_name": "RobinDay",
+      "start_time": 687.05,
+      "end_time": 688.27
+    },
+    {
+      "text": "Maybe that would be 15% or something like this.",
+      "speaker_name": "RobinDay",
+      "start_time": 688.34,
+      "end_time": 691.02
+    },
+    {
+      "text": "I, I'd have to, I'd have to look at it more closely of the entire, you know, available market.",
+      "speaker_name": "RobinDay",
+      "start_time": 691.02,
+      "end_time": 697.62
+    },
+    {
+      "text": "You know, that is a, that is a, that is a reach.",
+      "speaker_name": "RobinDay",
+      "start_time": 701.3,
+      "end_time": 704.18
+    },
+    {
+      "text": "That's, that's, that's reaches that's big enough, you know, to get people to really pay attention to it because of its efficiency, you know.",
+      "speaker_name": "RobinDay",
+      "start_time": 704.26,
+      "end_time": 711.7
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Justin Burris",
+      "start_time": 711.86,
+      "end_time": 712.26
+    },
+    {
+      "text": "But it's not like, I mean, I guess like what I'm asking, for example, Is like is point of care marketing presently under penetrated in Canada?",
+      "speaker_name": "Justin Burris",
+      "start_time": 713.54,
+      "end_time": 721.83
+    },
+    {
+      "text": "Meaning that there are lots of clinics that probably would consider beginning point of care marketing that don't currently.",
+      "speaker_name": "Justin Burris",
+      "start_time": 721.91,
+      "end_time": 729.51
+    },
+    {
+      "text": "Well, one thing maybe I think should be clear is that in the U, like, unlike the U.S. canadian doctors don't have to.",
+      "speaker_name": "RobinDay",
+      "start_time": 730.55,
+      "end_time": 739.63
+    },
+    {
+      "text": "Don't advertise their clinics to the public and they don't have to sort of recruit a patient base.",
+      "speaker_name": "RobinDay",
+      "start_time": 739.63,
+      "end_time": 745.03
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "RobinDay",
+      "start_time": 745.72,
+      "end_time": 745.96
+    },
+    {
+      "text": "Because it's a public system.",
+      "speaker_name": "RobinDay",
+      "start_time": 746.28,
+      "end_time": 748.04
+    },
+    {
+      "text": "They have patients who are lining up to see them and there's a shortage of doctors.",
+      "speaker_name": "RobinDay",
+      "start_time": 749.88,
+      "end_time": 755.8
+    },
+    {
+      "text": "So the clinics themselves are simply responding.",
+      "speaker_name": "RobinDay",
+      "start_time": 756.92,
+      "end_time": 759.92
+    },
+    {
+      "text": "Let's say we go to a conference and we have a booth there.",
+      "speaker_name": "RobinDay",
+      "start_time": 759.92,
+      "end_time": 762.72
+    },
+    {
+      "text": "We go to a medical conference and we have our booth there and we say this is what we offer.",
+      "speaker_name": "RobinDay",
+      "start_time": 762.72,
+      "end_time": 766.6
+    },
+    {
+      "text": "It's sponsored education that satisfies patient needs.",
+      "speaker_name": "RobinDay",
+      "start_time": 768.52,
+      "end_time": 772.12
+    },
+    {
+      "text": "It's good for you because it's helping to support you and your efforts.",
+      "speaker_name": "RobinDay",
+      "start_time": 772.12,
+      "end_time": 775.56
+    },
+    {
+      "text": "But we control the content of that to make sure that pharma doesn't come across just doing whatever they want to do.",
+      "speaker_name": "RobinDay",
+      "start_time": 778.34,
+      "end_time": 784.3
+    },
+    {
+      "text": "It has to actually be responsive to them.",
+      "speaker_name": "RobinDay",
+      "start_time": 784.3,
+      "end_time": 786.5
+    },
+    {
+      "text": "And that's the value proposition.",
+      "speaker_name": "RobinDay",
+      "start_time": 786.98,
+      "end_time": 788.74
+    },
+    {
+      "text": "And on the basis of that, they say yes or no.",
+      "speaker_name": "RobinDay",
+      "start_time": 788.9,
+      "end_time": 791.7
+    },
+    {
+      "text": "And ultimately they still do that when they decide 10 years down the road, do we still want this?",
+      "speaker_name": "RobinDay",
+      "start_time": 793.14,
+      "end_time": 799.06
+    },
+    {
+      "text": "So it's an ongoing thing.",
+      "speaker_name": "RobinDay",
+      "start_time": 799.54,
+      "end_time": 800.98
+    },
+    {
+      "text": "We have to show value year after year after year to retain those sites.",
+      "speaker_name": "RobinDay",
+      "start_time": 800.98,
+      "end_time": 806.73
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Justin Burris",
+      "start_time": 807.05,
+      "end_time": 807.45
+    },
+    {
+      "text": "And I mean, typically there's no financial incentive for them.",
+      "speaker_name": "Justin Burris",
+      "start_time": 807.69,
+      "end_time": 811.13
+    },
+    {
+      "text": "It's purely educational for their patients.",
+      "speaker_name": "Justin Burris",
+      "start_time": 811.45,
+      "end_time": 814.01
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "RobinDay",
+      "start_time": 814.73,
+      "end_time": 815.45
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Justin Burris",
+      "start_time": 816.17,
+      "end_time": 816.81
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Justin Burris",
+      "start_time": 816.89,
+      "end_time": 817.41
+    },
+    {
+      "text": "That makes sense.",
+      "speaker_name": "Justin Burris",
+      "start_time": 817.41,
+      "end_time": 818.33
+    },
+    {
+      "text": "If you had to guess your market share presently in Canada, what do you guess it looks like?",
+      "speaker_name": "Justin Burris",
+      "start_time": 820.09,
+      "end_time": 828.01
+    },
+    {
+      "text": "You mean a total spend of.",
+      "speaker_name": "RobinDay",
+      "start_time": 828.66,
+      "end_time": 830.26
+    },
+    {
+      "text": "Total marketing spend?",
+      "speaker_name": "RobinDay",
+      "start_time": 830.26,
+      "end_time": 831.62
+    },
+    {
+      "text": "Well, in the U.S. you know, where, where you have data available, it's 2.2%.",
+      "speaker_name": "RobinDay",
+      "start_time": 832.02,
+      "end_time": 836.58
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 836.74,
+      "end_time": 837.02
+    },
+    {
+      "text": "And it's worth a billion dollars in Canada.",
+      "speaker_name": "RobinDay",
+      "start_time": 837.02,
+      "end_time": 840.58
+    },
+    {
+      "text": "We just feel that it's more than that, you know, and it would vary by client.",
+      "speaker_name": "RobinDay",
+      "start_time": 841.54,
+      "end_time": 848.1
+    },
+    {
+      "text": "I mean, the clients that we work with and have been working with year over year, you know, you can start to think in terms of 6%, 10, 10%, sometimes even more if it's a small client.",
+      "speaker_name": "RobinDay",
+      "start_time": 848.74,
+      "end_time": 860.75
+    },
+    {
+      "text": "And this is strictly a guess.",
+      "speaker_name": "RobinDay",
+      "start_time": 862.35,
+      "end_time": 863.87
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "RobinDay",
+      "start_time": 864.03,
+      "end_time": 864.43
+    },
+    {
+      "text": "But you know, and obviously in clients that we don't have a history with, it's.",
+      "speaker_name": "RobinDay",
+      "start_time": 866.27,
+      "end_time": 870.15
+    },
+    {
+      "text": "It's zero percent.",
+      "speaker_name": "RobinDay",
+      "start_time": 870.15,
+      "end_time": 871.15
+    },
+    {
+      "text": "You know, we're still working on developing a relation with them and establishing value of the channel with them.",
+      "speaker_name": "RobinDay",
+      "start_time": 871.15,
+      "end_time": 876.91
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "RobinDay",
+      "start_time": 877.39,
+      "end_time": 877.79
+    },
+    {
+      "text": "But I guess one way to think about it maybe would be that presently, if you look at the overall channel in Canada, which I think you guys estimated to be roughly 40 million US of revenue, and you guys do roughly pick a number say 4 million of revenue.",
+      "speaker_name": "Justin Burris",
+      "start_time": 878.19,
+      "end_time": 895.38
+    },
+    {
+      "text": "So like 3 million US roughly.",
+      "speaker_name": "Justin Burris",
+      "start_time": 895.38,
+      "end_time": 897.14
+    },
+    {
+      "text": "Then you guys are probably only 8% or so of the market right now.",
+      "speaker_name": "Justin Burris",
+      "start_time": 897.3,
+      "end_time": 905.06
+    },
+    {
+      "text": "There are competitors out there that are also meaningful market share.",
+      "speaker_name": "Justin Burris",
+      "start_time": 905.06,
+      "end_time": 908.82
+    },
+    {
+      "text": "Is that the right takeaway or.",
+      "speaker_name": "Justin Burris",
+      "start_time": 908.99,
+      "end_time": 911.23
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "RobinDay",
+      "start_time": 911.79,
+      "end_time": 912.63
+    },
+    {
+      "text": "I mean those numbers are those numbers, right?",
+      "speaker_name": "RobinDay",
+      "start_time": 912.63,
+      "end_time": 915.03
+    },
+    {
+      "text": "We have a certain volume.",
+      "speaker_name": "RobinDay",
+      "start_time": 915.03,
+      "end_time": 916.51
+    },
+    {
+      "text": "We estimate the market size.",
+      "speaker_name": "RobinDay",
+      "start_time": 916.51,
+      "end_time": 918.51
+    },
+    {
+      "text": "It is the players that are in there.",
+      "speaker_name": "RobinDay",
+      "start_time": 918.51,
+      "end_time": 921.15
+    },
+    {
+      "text": "There's very few direct competitors.",
+      "speaker_name": "RobinDay",
+      "start_time": 922.19,
+      "end_time": 924.67
+    },
+    {
+      "text": "There's a lot of them that fall into what we call the patient support group.",
+      "speaker_name": "RobinDay",
+      "start_time": 924.67,
+      "end_time": 928.83
+    },
+    {
+      "text": "So this group provides, this is pharma companies holding a price point but subsidizing the cost of the, of the drug to the patients through a, through another mechanism.",
+      "speaker_name": "RobinDay",
+      "start_time": 929.71,
+      "end_time": 945.23
+    },
+    {
+      "text": "This, the way, this way they're able to hold the price point without reducing it.",
+      "speaker_name": "RobinDay",
+      "start_time": 945.23,
+      "end_time": 949.15
+    },
+    {
+      "text": "So it becomes a pricing method that they have while they wait for reimbursement.",
+      "speaker_name": "RobinDay",
+      "start_time": 949.15,
+      "end_time": 955.55
+    },
+    {
+      "text": "And this is the, this is the biggest segment, but I don't think it's growing as much as our segment is or has as much potential to growth as it is what it is.",
+      "speaker_name": "RobinDay",
+      "start_time": 955.79,
+      "end_time": 965.15
+    },
+    {
+      "text": "And kind of everybody, everybody's already in there.",
+      "speaker_name": "RobinDay",
+      "start_time": 965.15,
+      "end_time": 967.87
+    },
+    {
+      "text": "And that part I think is more stagnant.",
+      "speaker_name": "RobinDay",
+      "start_time": 967.87,
+      "end_time": 971.55
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Justin Burris",
+      "start_time": 972.27,
+      "end_time": 972.67
+    },
+    {
+      "text": "No, that makes sense.",
+      "speaker_name": "Justin Burris",
+      "start_time": 973.15,
+      "end_time": 974.51
+    },
+    {
+      "text": "And then I just want to make sure I understand a couple things.",
+      "speaker_name": "Justin Burris",
+      "start_time": 975.15,
+      "end_time": 977.99
+    },
+    {
+      "text": "So I think the sin mentioned that there are 15 clients right now.",
+      "speaker_name": "Justin Burris",
+      "start_time": 977.99,
+      "end_time": 984.75
+    },
+    {
+      "text": "Could you give me a sense of what the breakdown looks like?",
+      "speaker_name": "Justin Burris",
+      "start_time": 985.71,
+      "end_time": 988.27
+    },
+    {
+      "text": "Is there any one client that's like a more meaningful portion of overall revenue?",
+      "speaker_name": "Justin Burris",
+      "start_time": 988.35,
+      "end_time": 992.67
+    },
+    {
+      "text": "Yeah, there always is.",
+      "speaker_name": "RobinDay",
+      "start_time": 994.32,
+      "end_time": 995.48
+    },
+    {
+      "text": "Like right now we have a lot of business or have had a lot of business with one particular client.",
+      "speaker_name": "RobinDay",
+      "start_time": 995.48,
+      "end_time": 1000.56
+    },
+    {
+      "text": "And what tends, so what tends to happen with us is we have, we offer what we call category exclusivity.",
+      "speaker_name": "RobinDay",
+      "start_time": 1001.12,
+      "end_time": 1007.6
+    },
+    {
+      "text": "So that means if YN A has a drug in a class that a certain class and they purchase space from us this blocks, we will not sort of take a, have a, have a client, a direct competitor with, with material appearing at the same time, the same places.",
+      "speaker_name": "RobinDay",
+      "start_time": 1007.6,
+      "end_time": 1028.49
+    },
+    {
+      "text": "So it's one way to block the competition.",
+      "speaker_name": "RobinDay",
+      "start_time": 1029.53,
+      "end_time": 1031.93
+    },
+    {
+      "text": "The other thing is that we give them first rate of refusal.",
+      "speaker_name": "RobinDay",
+      "start_time": 1032.49,
+      "end_time": 1037.05
+    },
+    {
+      "text": "So this leads to our year over year sort of repeats and particular client that's that we've, that's had the, the largest share of our business thus far has been with us for the past, at least the past five years, year over year, booking this space right up front, partly because they think it's very effective and partly just to keep the competitors away.",
+      "speaker_name": "RobinDay",
+      "start_time": 1037.69,
+      "end_time": 1058.64
+    },
+    {
+      "text": "But you know, products go through life cycles and eventually, you know, we have to pivot and, and ramp up our, our recruitment of other clients.",
+      "speaker_name": "RobinDay",
+      "start_time": 1059.44,
+      "end_time": 1068.8
+    },
+    {
+      "text": "You know, this is, this you're going to see this in the coming years.",
+      "speaker_name": "RobinDay",
+      "start_time": 1069.04,
+      "end_time": 1072.33
+    },
+    {
+      "text": "This client shift is going to move.",
+      "speaker_name": "RobinDay",
+      "start_time": 1072.89,
+      "end_time": 1074.97
+    },
+    {
+      "text": "But we've been through this a few times before.",
+      "speaker_name": "RobinDay",
+      "start_time": 1075.85,
+      "end_time": 1079.05
+    },
+    {
+      "text": "It's very typical for pharma.",
+      "speaker_name": "RobinDay",
+      "start_time": 1079.13,
+      "end_time": 1080.85
+    },
+    {
+      "text": "One company does really well for a certain period and then another company starts doing really well and it's like this typical cycle.",
+      "speaker_name": "RobinDay",
+      "start_time": 1080.85,
+      "end_time": 1088.81
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "RobinDay",
+      "start_time": 1089.37,
+      "end_time": 1089.77
+    },
+    {
+      "text": "And like right now, if you had to guess that largest client, like what percent of the overall revenue base do you think they are?",
+      "speaker_name": "Justin Burris",
+      "start_time": 1090.01,
+      "end_time": 1096.41
+    },
+    {
+      "text": "I think last year they were close to 65%.",
+      "speaker_name": "RobinDay",
+      "start_time": 1099.26,
+      "end_time": 1101.82
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1102.78,
+      "end_time": 1103.3
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1103.3,
+      "end_time": 1103.74
+    },
+    {
+      "text": "It's a big chunk, but it won't be this, it won't be this going forward.",
+      "speaker_name": "RobinDay",
+      "start_time": 1106.54,
+      "end_time": 1109.98
+    },
+    {
+      "text": "We know that because of the situation they were in with their product life cycle.",
+      "speaker_name": "RobinDay",
+      "start_time": 1110.62,
+      "end_time": 1114.78
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1115.74,
+      "end_time": 1116.26
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1116.26,
+      "end_time": 1116.66
+    },
+    {
+      "text": "And then so they're, they're losing, they're losing patent.",
+      "speaker_name": "RobinDay",
+      "start_time": 1116.66,
+      "end_time": 1121.02
+    },
+    {
+      "text": "So when that happens, you know, that's, that's what affects it.",
+      "speaker_name": "RobinDay",
+      "start_time": 1121.5,
+      "end_time": 1124.92
+    },
+    {
+      "text": "Sorry to interrupt.",
+      "speaker_name": "RobinDay",
+      "start_time": 1125.39,
+      "end_time": 1126.19
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "RobinDay",
+      "start_time": 1126.75,
+      "end_time": 1127.19
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1127.19,
+      "end_time": 1127.55
+    },
+    {
+      "text": "So then at that given point, there's probably one client that's a larger chunk.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1127.55,
+      "end_time": 1132.99
+    },
+    {
+      "text": "Like, have there been instances in the past where like, there hasn't like been that natural moment for like one, one company to like step up and really be a large portion or it's always like you're going to expect, based on whatever the drug life cycle is that somebody's going to want to be more in market at that moment?",
+      "speaker_name": "Justin Burris",
+      "start_time": 1133.31,
+      "end_time": 1152.99
+    },
+    {
+      "text": "Well, it very much coincides with the, the opportunity that the company sees in the drug they have.",
+      "speaker_name": "RobinDay",
+      "start_time": 1154.43,
+      "end_time": 1160.51
+    },
+    {
+      "text": "And every company has what they call their flagship product.",
+      "speaker_name": "RobinDay",
+      "start_time": 1161.15,
+      "end_time": 1165.39
+    },
+    {
+      "text": "And you know, if you can get, if you can, if you can be part of their strategy.",
+      "speaker_name": "RobinDay",
+      "start_time": 1166.27,
+      "end_time": 1172.19
+    },
+    {
+      "text": "So there's big budgets associated with those flagship products.",
+      "speaker_name": "RobinDay",
+      "start_time": 1172.27,
+      "end_time": 1175.47
+    },
+    {
+      "text": "It just becomes very easy, basically get funding, you know, getting your share of the spending with them.",
+      "speaker_name": "RobinDay",
+      "start_time": 1176.11,
+      "end_time": 1184.19
+    },
+    {
+      "text": "But you know, the, there's lots of, there are lots of, let's say secondary tertiary products that are also invested in the program.",
+      "speaker_name": "RobinDay",
+      "start_time": 1186.43,
+      "end_time": 1195.47
+    },
+    {
+      "text": "We appeal to the, to the big, the big spenders because they, you know, they want to make a big splash.",
+      "speaker_name": "RobinDay",
+      "start_time": 1195.87,
+      "end_time": 1202.19
+    },
+    {
+      "text": "They want to sort of have, they want to have the largest share of voice.",
+      "speaker_name": "RobinDay",
+      "start_time": 1202.19,
+      "end_time": 1206.69
+    },
+    {
+      "text": "But in some cases, you know, we have some small players and they don't have a lot of money, but they want to spend it in the most efficient way possible.",
+      "speaker_name": "RobinDay",
+      "start_time": 1207.65,
+      "end_time": 1215.01
+    },
+    {
+      "text": "And spending at the point of care is much more efficient than any other media tactics.",
+      "speaker_name": "RobinDay",
+      "start_time": 1215.97,
+      "end_time": 1222.77
+    },
+    {
+      "text": "So they tend to channel, you know, a lot of their money into the point of care.",
+      "speaker_name": "RobinDay",
+      "start_time": 1222.77,
+      "end_time": 1227.65
+    },
+    {
+      "text": "This how it works.",
+      "speaker_name": "RobinDay",
+      "start_time": 1227.65,
+      "end_time": 1228.61
+    },
+    {
+      "text": "So you have to appeal to them on different, for different reasons, you know.",
+      "speaker_name": "RobinDay",
+      "start_time": 1229.09,
+      "end_time": 1232.6
+    },
+    {
+      "text": "Yeah, that makes sense.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1233.16,
+      "end_time": 1234.72
+    },
+    {
+      "text": "And curious on pricing, like, how do you set the pricing?",
+      "speaker_name": "Justin Burris",
+      "start_time": 1234.72,
+      "end_time": 1238.84
+    },
+    {
+      "text": "Well, that is a bit of, you know, it's a little bit of.",
+      "speaker_name": "RobinDay",
+      "start_time": 1241.56,
+      "end_time": 1245.48
+    },
+    {
+      "text": "There's a number of things that influence the decision.",
+      "speaker_name": "RobinDay",
+      "start_time": 1246.04,
+      "end_time": 1248.44
+    },
+    {
+      "text": "I mean, you're, you know, we certainly look at impressions that we provide and we have to calculate cost per thousand impressions and see how that.",
+      "speaker_name": "RobinDay",
+      "start_time": 1249,
+      "end_time": 1256.92
+    },
+    {
+      "text": "Benchmarks against all other possible tactics.",
+      "speaker_name": "RobinDay",
+      "start_time": 1256.92,
+      "end_time": 1260.42
+    },
+    {
+      "text": "We weigh that against, you know, the value that we have relative to those other things.",
+      "speaker_name": "RobinDay",
+      "start_time": 1261.46,
+      "end_time": 1267.7
+    },
+    {
+      "text": "We consider, you know, we could, we consider a number of things.",
+      "speaker_name": "RobinDay",
+      "start_time": 1269.14,
+      "end_time": 1272.42
+    },
+    {
+      "text": "The client's ability to pay seems to be a.",
+      "speaker_name": "RobinDay",
+      "start_time": 1272.42,
+      "end_time": 1275.38
+    },
+    {
+      "text": "There's an inherent ceiling to budgets.",
+      "speaker_name": "RobinDay",
+      "start_time": 1275.38,
+      "end_time": 1277.62
+    },
+    {
+      "text": "You know, they.",
+      "speaker_name": "RobinDay",
+      "start_time": 1277.62,
+      "end_time": 1278.42
+    },
+    {
+      "text": "And you sort of find the ceiling just by working with the industry for a while.",
+      "speaker_name": "RobinDay",
+      "start_time": 1279.06,
+      "end_time": 1283.94
+    },
+    {
+      "text": "Well, you know, if you go beyond that, they just won't look at you.",
+      "speaker_name": "RobinDay",
+      "start_time": 1284.45,
+      "end_time": 1287.13
+    },
+    {
+      "text": "So you sort of.",
+      "speaker_name": "RobinDay",
+      "start_time": 1287.13,
+      "end_time": 1287.93
+    },
+    {
+      "text": "There's a little bit of a feel to it.",
+      "speaker_name": "RobinDay",
+      "start_time": 1287.93,
+      "end_time": 1289.73
+    },
+    {
+      "text": "But once you establish this framework which we have, it becomes, it allows you to have sort of like a price book, if you will, to say, for this many clinics, we sell it for this much.",
+      "speaker_name": "RobinDay",
+      "start_time": 1289.73,
+      "end_time": 1304.21
+    },
+    {
+      "text": "For this many pharmacies, we sell it at this much.",
+      "speaker_name": "RobinDay",
+      "start_time": 1304.21,
+      "end_time": 1306.53
+    },
+    {
+      "text": "It's a premium if you want fewer clinics than that.",
+      "speaker_name": "RobinDay",
+      "start_time": 1307.09,
+      "end_time": 1309.81
+    },
+    {
+      "text": "There's a premium if you want just a certain select group of those clinics, etc.",
+      "speaker_name": "RobinDay",
+      "start_time": 1309.81,
+      "end_time": 1315.25
+    },
+    {
+      "text": "So it's a.",
+      "speaker_name": "RobinDay",
+      "start_time": 1316.21,
+      "end_time": 1317.09
+    },
+    {
+      "text": "And there is a little bit of negotiating that we have to do to, you know, to get to close the sale sometimes.",
+      "speaker_name": "RobinDay",
+      "start_time": 1317.57,
+      "end_time": 1323.57
+    },
+    {
+      "text": "Yep, got it.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1324.53,
+      "end_time": 1325.73
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1325.73,
+      "end_time": 1326.13
+    },
+    {
+      "text": "Well, that makes sense.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1326.13,
+      "end_time": 1327.25
+    },
+    {
+      "text": "And so from a go toward perspective, you know, it'd be helpful to hear a little bit what you and Maggie are hoping for.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1327.73,
+      "end_time": 1336.69
+    },
+    {
+      "text": "Hoping to remain with the business transition or where is your hand generally?",
+      "speaker_name": "Justin Burris",
+      "start_time": 1338.44,
+      "end_time": 1342.04
+    },
+    {
+      "text": "Well, I, I'm 70 years old and Maggie's 69, but we don't really feel like we're 70, 69, but, you know, we feel, we're very energetic and we, we, we like working and rather unfortunate that, you know, we all have to confront, confront advancing age, you know, but here we are.",
+      "speaker_name": "RobinDay",
+      "start_time": 1343.24,
+      "end_time": 1365.16
+    },
+    {
+      "text": "We're not looking to run away from anything.",
+      "speaker_name": "RobinDay",
+      "start_time": 1366.32,
+      "end_time": 1368.72
+    },
+    {
+      "text": "We actually, I think the legacy of the business is important to us.",
+      "speaker_name": "RobinDay",
+      "start_time": 1369.12,
+      "end_time": 1373.04
+    },
+    {
+      "text": "We want the company.",
+      "speaker_name": "RobinDay",
+      "start_time": 1373.2,
+      "end_time": 1374.4
+    },
+    {
+      "text": "We understand the company has to transition at some point, and we would like that to be done with someone that could make it grow and do something with it so that it, so that it becomes, it continues to prosper and it continues to be something important in the market.",
+      "speaker_name": "RobinDay",
+      "start_time": 1375.04,
+      "end_time": 1394.44
+    },
+    {
+      "text": "And for as long as we're healthy and interested and get along with whoever the people are who take it over, you know, we're, we're happy to, we're happy to stay engaged.",
+      "speaker_name": "RobinDay",
+      "start_time": 1394.92,
+      "end_time": 1407.4
+    },
+    {
+      "text": "It may not be going at the pace we are now.",
+      "speaker_name": "RobinDay",
+      "start_time": 1407.48,
+      "end_time": 1409.88
+    },
+    {
+      "text": "Maybe we'll pull back a bit, but Maggie in particular is not Looking forward to transitioning business.",
+      "speaker_name": "RobinDay",
+      "start_time": 1409.88,
+      "end_time": 1416.04
+    },
+    {
+      "text": "She really sort of.",
+      "speaker_name": "RobinDay",
+      "start_time": 1416.04,
+      "end_time": 1417.4
+    },
+    {
+      "text": "Her identity is very much locked into what she does for a living.",
+      "speaker_name": "RobinDay",
+      "start_time": 1417.69,
+      "end_time": 1421.93
+    },
+    {
+      "text": "That makes sense and the like.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1423.77,
+      "end_time": 1426.77
+    },
+    {
+      "text": "Right now, is there anybody internal, besides you guys, that you think would want to step up, to leave the business, say, five years down the road or.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1426.77,
+      "end_time": 1434.81
+    },
+    {
+      "text": "Well, I wouldn't say anybody internally would be in a position to do it, but there are.",
+      "speaker_name": "RobinDay",
+      "start_time": 1435.85,
+      "end_time": 1442.57
+    },
+    {
+      "text": "There are executives out there who could target to.",
+      "speaker_name": "RobinDay",
+      "start_time": 1442.81,
+      "end_time": 1447.29
+    },
+    {
+      "text": "To come in and run the business and to take over our respective roles.",
+      "speaker_name": "RobinDay",
+      "start_time": 1449.85,
+      "end_time": 1454.81
+    },
+    {
+      "text": "Maggie is the.",
+      "speaker_name": "RobinDay",
+      "start_time": 1455.37,
+      "end_time": 1456.41
+    },
+    {
+      "text": "You know, she's really responsible for generating the business not only from, you know, getting the paying clients, but also generating partnerships with various health associations or with clinic groups or pharmacy chains, whatever.",
+      "speaker_name": "RobinDay",
+      "start_time": 1456.57,
+      "end_time": 1472.89
+    },
+    {
+      "text": "That's what she does.",
+      "speaker_name": "RobinDay",
+      "start_time": 1472.89,
+      "end_time": 1473.77
+    },
+    {
+      "text": "And I'm more focused on making sure the content meets certain criteria, working with content development team and developing the computerized infrastructure that we use for deployment.",
+      "speaker_name": "RobinDay",
+      "start_time": 1475.11,
+      "end_time": 1487.83
+    },
+    {
+      "text": "We have to be very.",
+      "speaker_name": "RobinDay",
+      "start_time": 1488.07,
+      "end_time": 1489.03
+    },
+    {
+      "text": "We have to manage which.",
+      "speaker_name": "RobinDay",
+      "start_time": 1489.03,
+      "end_time": 1490.79
+    },
+    {
+      "text": "Not just which clinic gets what material, but which display frame gets which item based on clinic preferences, based on constraints on the clinic or pharmacy side which compete sometimes with what the clients want.",
+      "speaker_name": "RobinDay",
+      "start_time": 1490.95,
+      "end_time": 1506.58
+    },
+    {
+      "text": "We need a computerized system to optimize all that.",
+      "speaker_name": "RobinDay",
+      "start_time": 1506.66,
+      "end_time": 1509.46
+    },
+    {
+      "text": "So we have a very sophisticated, customized system built on Salesforce architecture to do this.",
+      "speaker_name": "RobinDay",
+      "start_time": 1509.46,
+      "end_time": 1516.82
+    },
+    {
+      "text": "That's what I do.",
+      "speaker_name": "RobinDay",
+      "start_time": 1520.66,
+      "end_time": 1521.54
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1522.18,
+      "end_time": 1522.62
+    },
+    {
+      "text": "So that's helpful.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1522.62,
+      "end_time": 1523.5
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1523.5,
+      "end_time": 1524.1
+    },
+    {
+      "text": "I think those are the questions that I have, Bruce.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1525.89,
+      "end_time": 1527.81
+    },
+    {
+      "text": "Any others that you have, Bruce?",
+      "speaker_name": "Justin Burris",
+      "start_time": 1527.89,
+      "end_time": 1533.41
+    },
+    {
+      "text": "Sorry, I was trying to unmute there.",
+      "speaker_name": "Bruce Eskesen",
+      "start_time": 1533.57,
+      "end_time": 1534.81
+    },
+    {
+      "text": "Yeah, no, I'm good.",
+      "speaker_name": "Bruce Eskesen",
+      "start_time": 1534.81,
+      "end_time": 1535.69
+    },
+    {
+      "text": "Appreciate it, Justin.",
+      "speaker_name": "Bruce Eskesen",
+      "start_time": 1535.69,
+      "end_time": 1536.69
+    },
+    {
+      "text": "Okay, well, this has been very helpful.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1537.25,
+      "end_time": 1541.809
+    },
+    {
+      "text": "Let me, as a next step, circle up internally on our end and then can come back to you guys shortly.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1541.89,
+      "end_time": 1547.97
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "RobinDay",
+      "start_time": 1548.93,
+      "end_time": 1549.49
+    },
+    {
+      "text": "Theo's type of mask.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1549.57,
+      "end_time": 1551.16
+    },
+    {
+      "text": "Oh, more questions.",
+      "speaker_name": "RobinDay",
+      "start_time": 1554.83,
+      "end_time": 1556.19
+    },
+    {
+      "text": "No questions from me.",
+      "speaker_name": "RobinDay",
+      "start_time": 1556.27,
+      "end_time": 1557.27
+    },
+    {
+      "text": "Thank you both for your time.",
+      "speaker_name": "RobinDay",
+      "start_time": 1557.27,
+      "end_time": 1558.35
+    },
+    {
+      "text": "Likewise.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1559.15,
+      "end_time": 1559.71
+    },
+    {
+      "text": "This is great.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1559.71,
+      "end_time": 1560.43
+    },
+    {
+      "text": "All right, thanks, guys.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1560.43,
+      "end_time": 1561.55
+    },
+    {
+      "text": "We'll talk soon.",
+      "speaker_name": "Justin Burris",
+      "start_time": 1561.55,
+      "end_time": 1562.15
+    },
+    {
+      "text": "Okay, thank you.",
+      "speaker_name": "RobinDay",
+      "start_time": 1562.15,
+      "end_time": 1562.95
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "RobinDay",
+      "start_time": 1562.95,
+      "end_time": 1563.55
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "RobinDay",
+      "start_time": 1567.15,
+      "end_time": 1567.79
+    },
+    {
+      "text": "So not expecting much there.",
+      "speaker_name": "RobinDay",
+      "start_time": 1568.19,
+      "end_time": 1570.99
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Point of Care Marketing",
+      "Pharmaceutical Marketing",
+      "Canadian Healthcare",
+      "Digital Screens",
+      "Private Investment",
+      "Business Succession"
+    ],
+    "action_items": "\n**Justin Burris**\nFollow up internally within Portrait Capital regarding strategic interest and next steps with Communimed (25:37)\n",
+    "outline": null,
+    "overview": "- **Investment Focus:** Portrait Capital values founder-owned niche businesses, currently managing six companies across the U.S. and Canada.  \n- **Communimed’s Legacy:** Established 35 years ago, Communimed is focused on point-of-care marketing, dominating the Canadian market.  \n- **Market Compliance:** Canada’s stricter pharma advertising rules shape Communimed's marketing, allowing for indirect educational campaigns.  \n- **Growth Potential:** Communimed holds 15% market penetration in Canadian clinics, with a market size of about $40 million.  \n- **Client Dependency:** One client contributes 65% of revenue; company plans to diversify as patents expire.  \n- **Leadership Transition:** Founders aim for gradual transition, valuing legacy and seeking to maintain business importance.",
+    "short_summary": "The discussion highlighted Portrait Capital's strategic investment approach, emphasizing founder-owned niche businesses for long-term growth, with a portfolio of six companies in North America. Communimed's 35-year legacy as a family-owned healthcare marketing business was underscored, particularly its focus on point-of-care marketing, which dominates the Canadian market. Key differences between Canadian and U.S. pharmaceutical advertising regulations were addressed, illustrating the challenges Communimed navigates in its marketing strategies. The company's significant market penetration of 15% in Canadian clinics, reliance on a dominant client contributing 65% of revenue, and plans for diversification as patents expire were also discussed. The founders’ vision for a gradual transition of leadership that ensures the company's legacy underscores the collaborative nature of the meeting.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01KHR5DNCT1NCWZBXYVQXFRGJC",
+  "audio_url": "https://cdn.fireflies.ai/01KHR5DNCT1NCWZBXYVQXFRGJC/audio.mp3?Expires=1773220820&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0hSNUROQ1QxTkNXWkJYWVZRWEZSR0pDL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgyMH19fV19&Signature=ZSYjdza3Y0rpyjUGZAlQKlk60Km043vaZcJRa1Peh-DiA5sGDeCfwpHSUyslSMvtzTSovglHNwRYp1jeXMG-b~40w5sxKnwM2bxoJww0WZKjcWVZxYno80m~2oJfvrntW4fg~8P6qTRdVqQuldWG0q2c-AT8dNwc2iKODx1CFmyaV69DIrLBRDgQQMRb89xONqHgMVH4mttmkcmQl85W2nkRxghI-ybidSxC0UzVL5jztOK0erQJYR5M0UtXh6mjl2ozHswiOtErUTWTUIDOfb8ZEKspFPBf6T34J5SEYzB5CfFcTqmVGIxgjYhi2RVkoNOH8PMo4GS2u3qHu~Jznw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01KHR5DNCT1NCWZBXYVQXFRGJC/video.mp4?Expires=1773220820&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxS0hSNUROQ1QxTkNXWkJYWVZRWEZSR0pDL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDgyMH19fV19&Signature=iH8CGo0HCtCLyfrDcv322a-ce4EwswMtQwGMt4kJxoytzAuPKLXFQHmO~6mOsPqXnmip0d5AbV~-JYUevZSwNeXkd1bCQ9hWKCqr5J6WXUT0OIuCEzruzIoNBViDqbNlicCoTeBU~AW9MYhju96waVqfnFYrG~-c3Jm7bmaxycAtwvp~U8LgnwM2ivjnNxbPOeLUDJYhFXZbdaGnWyCqISbNdNTPsrOFfu0LLn3AZsy08y3-noN1GPw08MYyHWtZxKJkrCND0j7FPReXua1LdIWfH-9sE77dFQc5ECM7MhNqFshAdLS8kADD92o~hCmdyhvTQkZvNFhdfQs~AIJBAQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

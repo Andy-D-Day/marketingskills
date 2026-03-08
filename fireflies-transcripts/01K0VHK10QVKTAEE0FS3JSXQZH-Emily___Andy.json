@@ -1,0 +1,1839 @@
+{
+  "id": "01K0VHK10QVKTAEE0FS3JSXQZH",
+  "title": "Emily | Andy",
+  "date": 1753281000000,
+  "dateString": "2025-07-23T14:30:00.000Z",
+  "duration": 23.1299991607666,
+  "participants": [
+    "andrew.day@capitala.co,andy.day@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 2.96,
+      "end_time": 4.64
+    },
+    {
+      "text": "Hi, Emily.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.04,
+      "end_time": 5.68
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 5.68,
+      "end_time": 6.24
+    },
+    {
+      "text": "Hi, how are you?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 6.48,
+      "end_time": 7.44
+    },
+    {
+      "text": "I'm good, I'm good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 7.44,
+      "end_time": 9.52
+    },
+    {
+      "text": "Whereabouts are you today?",
+      "speaker_name": "Andy Day",
+      "start_time": 10.64,
+      "end_time": 11.92
+    },
+    {
+      "text": "I'm in New Jersey.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 13.2,
+      "end_time": 15.4
+    },
+    {
+      "text": "I'm right outside New York City.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 15.4,
+      "end_time": 16.88
+    },
+    {
+      "text": "Ah, nice.",
+      "speaker_name": "Andy Day",
+      "start_time": 17.44,
+      "end_time": 19.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 20.08,
+      "end_time": 20.56
+    },
+    {
+      "text": "How about you?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 20.72,
+      "end_time": 21.52
+    },
+    {
+      "text": "I'm in Somerset.",
+      "speaker_name": "Andy Day",
+      "start_time": 22.64,
+      "end_time": 23.76
+    },
+    {
+      "text": "Oh, cool.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 24.08,
+      "end_time": 24.72
+    },
+    {
+      "text": "In England.",
+      "speaker_name": "Andy Day",
+      "start_time": 24.8,
+      "end_time": 25.52
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Andy Day",
+      "start_time": 27.07,
+      "end_time": 27.31
+    },
+    {
+      "text": "For some reason I thought you were English.",
+      "speaker_name": "Andy Day",
+      "start_time": 27.39,
+      "end_time": 29.03
+    },
+    {
+      "text": "An English girl.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.03,
+      "end_time": 29.95
+    },
+    {
+      "text": "I don't know why I did think that, but there you go.",
+      "speaker_name": "Andy Day",
+      "start_time": 32.11,
+      "end_time": 34.35
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 35.39,
+      "end_time": 36.19
+    },
+    {
+      "text": "So you are from New Jersey?",
+      "speaker_name": "Andy Day",
+      "start_time": 36.19,
+      "end_time": 38.03
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 38.19,
+      "end_time": 38.67
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 39.71,
+      "end_time": 40.27
+    },
+    {
+      "text": "I love the New Jersey accent.",
+      "speaker_name": "Andy Day",
+      "start_time": 41.23,
+      "end_time": 42.67
+    },
+    {
+      "text": "Are you good at it or.",
+      "speaker_name": "Andy Day",
+      "start_time": 42.67,
+      "end_time": 43.59
+    },
+    {
+      "text": "You sound like you might be a bit posher.",
+      "speaker_name": "Andy Day",
+      "start_time": 43.59,
+      "end_time": 45.95
+    },
+    {
+      "text": "The New Jersey action is usually like a New York accent.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 48.59,
+      "end_time": 51.47
+    },
+    {
+      "text": "Yeah, I guess.",
+      "speaker_name": "Andy Day",
+      "start_time": 52.87,
+      "end_time": 53.91
+    },
+    {
+      "text": "Like a really broad one.",
+      "speaker_name": "Andy Day",
+      "start_time": 53.99,
+      "end_time": 55.43
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 55.59,
+      "end_time": 56.07
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 57.51,
+      "end_time": 57.91
+    },
+    {
+      "text": "All right, well, thank you for coming today and thank you for your time.",
+      "speaker_name": "Andy Day",
+      "start_time": 57.91,
+      "end_time": 60.47
+    },
+    {
+      "text": "I do appreciate.",
+      "speaker_name": "Andy Day",
+      "start_time": 60.47,
+      "end_time": 61.59
+    },
+    {
+      "text": "I don't know how it works with upwork normally, whether you have to do interviews or whether you just get paid to sit on a laptop or whatever.",
+      "speaker_name": "Andy Day",
+      "start_time": 61.99,
+      "end_time": 72.39
+    },
+    {
+      "text": "Have you done much previous work on work?",
+      "speaker_name": "Andy Day",
+      "start_time": 73.59,
+      "end_time": 77.19
+    },
+    {
+      "text": "Yeah, so I've been working with a few clients since maybe.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 78.15,
+      "end_time": 82.69
+    },
+    {
+      "text": "So I have a little bit of experience with upwork, but I'm always open to learning new things.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 83.8,
+      "end_time": 90.52
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 90.76,
+      "end_time": 91.16
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 91.16,
+      "end_time": 91.48
+    },
+    {
+      "text": "All right, well, we'll get to that and I'll go through what it is that we're doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 91.48,
+      "end_time": 94.6
+    },
+    {
+      "text": "I guess what I'm keen to find out is just more about you and how you work and what work experience you've had so far.",
+      "speaker_name": "Andy Day",
+      "start_time": 95.48,
+      "end_time": 103
+    },
+    {
+      "text": "So be great if you could tell me a little bit maybe from your time at college or university, if you went onwards and tell me, Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 103,
+      "end_time": 112.7
+    },
+    {
+      "text": "A bit about your experience.",
+      "speaker_name": "Andy Day",
+      "start_time": 112.7,
+      "end_time": 113.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 114.42,
+      "end_time": 114.86
+    },
+    {
+      "text": "So I was a communications and public relations major.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 114.86,
+      "end_time": 118.74
+    },
+    {
+      "text": "I went to a college in New Jersey.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 119.06,
+      "end_time": 121.26
+    },
+    {
+      "text": "It's called William Patterson.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 121.26,
+      "end_time": 123.06
+    },
+    {
+      "text": "And ever since I graduated, I had contract roles and internships in social media management, digital marketing and admin support.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 123.86,
+      "end_time": 133.06
+    },
+    {
+      "text": "And since I started freelancing on upwork, I've.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 134.83,
+      "end_time": 137.63
+    },
+    {
+      "text": "Oh, I'm sorry, your screen froze.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 137.63,
+      "end_time": 138.99
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 147.79,
+      "end_time": 148.23
+    },
+    {
+      "text": "Yeah, I got you.",
+      "speaker_name": "Andy Day",
+      "start_time": 148.23,
+      "end_time": 149.07
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 149.15,
+      "end_time": 149.79
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 150.43,
+      "end_time": 150.83
+    },
+    {
+      "text": "So ever since I started freelancing, I've been working with a few clients.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 150.83,
+      "end_time": 155.39
+    },
+    {
+      "text": "One of them is actually lead generation for a medical supplies company.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 157.31,
+      "end_time": 163.31
+    },
+    {
+      "text": "They purchase expired access or dead stock medical supplies.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 163.31,
+      "end_time": 168.61
+    },
+    {
+      "text": "So my role is to do outreach for their company and gather potential leads for them to purchase the expired supplies.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 168.61,
+      "end_time": 179.37
+    },
+    {
+      "text": "So I reach out to hospitals and healthcare facilities.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 179.45,
+      "end_time": 182.41
+    },
+    {
+      "text": "So that's I.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 183.53,
+      "end_time": 184.57
+    },
+    {
+      "text": "And I use Apollo to build lists of potential leads and send up email campaigns.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 184.57,
+      "end_time": 190.97
+    },
+    {
+      "text": "So that's one of the roles I'm working on right now.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 192.42,
+      "end_time": 196.5
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 197.38,
+      "end_time": 198.02
+    },
+    {
+      "text": "How many hours a week are you working with that client?",
+      "speaker_name": "Andy Day",
+      "start_time": 198.02,
+      "end_time": 201.3
+    },
+    {
+      "text": "So right now I'm Looking for at least 10 to 15 hours.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 202.98,
+      "end_time": 206.42
+    },
+    {
+      "text": "Should you look for another 10 to 15.",
+      "speaker_name": "Andy Day",
+      "start_time": 209.3,
+      "end_time": 211.06
+    },
+    {
+      "text": "Or possibly more?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 212.9,
+      "end_time": 214.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 214.98,
+      "end_time": 215.46
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 215.86,
+      "end_time": 216.74
+    },
+    {
+      "text": "All right, that's interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 217.23,
+      "end_time": 218.03
+    },
+    {
+      "text": "So you're using Apollo already and how are you doing the actual outreach?",
+      "speaker_name": "Andy Day",
+      "start_time": 218.03,
+      "end_time": 224.43
+    },
+    {
+      "text": "What are you using the sequence?",
+      "speaker_name": "Andy Day",
+      "start_time": 224.67,
+      "end_time": 227.23
+    },
+    {
+      "text": "Yes, so it's.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 228.27,
+      "end_time": 229.39
+    },
+    {
+      "text": "I use the sequence.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 229.55,
+      "end_time": 230.59
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 232.989,
+      "end_time": 233.39
+    },
+    {
+      "text": "It's a mix of emails and phone calls.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 234.03,
+      "end_time": 236.15
+    },
+    {
+      "text": "So yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 236.15,
+      "end_time": 237.87
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 244.2,
+      "end_time": 244.92
+    },
+    {
+      "text": "And okay, so are you writing those emails or are you just putting campaigns together?",
+      "speaker_name": "Andy Day",
+      "start_time": 246.28,
+      "end_time": 250.36
+    },
+    {
+      "text": "How does that part of it work?",
+      "speaker_name": "Andy Day",
+      "start_time": 250.6,
+      "end_time": 251.88
+    },
+    {
+      "text": "So I create templates and then I use those templates to send out the emails.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 252.12,
+      "end_time": 256.76
+    },
+    {
+      "text": "So I have templates for everything.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 257.88,
+      "end_time": 259.84
+    },
+    {
+      "text": "Like I have one for outreach, one for follow up, one for interested clients.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 259.84,
+      "end_time": 267.8
+    },
+    {
+      "text": "I'm not interested, I guess.",
+      "speaker_name": "Andy Day",
+      "start_time": 272.12,
+      "end_time": 273.36
+    },
+    {
+      "text": "Or do you just ignore them?",
+      "speaker_name": "Andy Day",
+      "start_time": 273.36,
+      "end_time": 274.44
+    },
+    {
+      "text": "I'm not interested.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 275.64,
+      "end_time": 276.84
+    },
+    {
+      "text": "I, I just say thank you for your time.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 276.84,
+      "end_time": 278.52
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 279.56,
+      "end_time": 280.24
+    },
+    {
+      "text": "So you send that templates.",
+      "speaker_name": "Andy Day",
+      "start_time": 280.24,
+      "end_time": 281.64
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 283,
+      "end_time": 283.4
+    },
+    {
+      "text": "But you're used to putting all of that together, basically building a campaign from scratch.",
+      "speaker_name": "Andy Day",
+      "start_time": 283.4,
+      "end_time": 287.96
+    },
+    {
+      "text": "So now that's up and running.",
+      "speaker_name": "Andy Day",
+      "start_time": 288.68,
+      "end_time": 290.2
+    },
+    {
+      "text": "Is that the only time that you've done it for that medical suppliers company?",
+      "speaker_name": "Andy Day",
+      "start_time": 291.48,
+      "end_time": 294.93
+    },
+    {
+      "text": "Or do you, are you constantly building new campaigns to try and find different places for them to, to contact?",
+      "speaker_name": "Andy Day",
+      "start_time": 294.93,
+      "end_time": 300.37
+    },
+    {
+      "text": "I'm sorry, what?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 303.81,
+      "end_time": 304.69
+    },
+    {
+      "text": "Well, so, so for us, we have every single client that comes in, they will have a campaign that's built for them.",
+      "speaker_name": "Andy Day",
+      "start_time": 305.33,
+      "end_time": 313.81
+    },
+    {
+      "text": "So one person might be, in fact, it could be the same client might be looking to, to acquire companies that supply medical supplies, but they also looking at IT companies, they might be looking at wood shops, they could be looking at like five or six different things.",
+      "speaker_name": "Andy Day",
+      "start_time": 314.93,
+      "end_time": 331.77
+    },
+    {
+      "text": "Each one we'd set up like a fresh campaign for them, you know, so we would have to find the leads, we'd have to find the leads with, with all of the buy box stuff in there, whatever it is, and then we'd have to, and, and send it out.",
+      "speaker_name": "Andy Day",
+      "start_time": 331.77,
+      "end_time": 347.53
+    },
+    {
+      "text": "And then, then we manage those campaigns obviously, and we get results coming in and then we're responding to those leads as they come in and setting them up into the clients or one of our team members calendars to be screened as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 347.53,
+      "end_time": 365.31
+    },
+    {
+      "text": "So there's sort of a constant flow of campaign setup and management.",
+      "speaker_name": "Andy Day",
+      "start_time": 366.59,
+      "end_time": 374.03
+    },
+    {
+      "text": "So I'm just asking you, do you, do you get to do a lot of that or have you just set it up the once and you're kind of just running that one campaign?",
+      "speaker_name": "Andy Day",
+      "start_time": 374.51,
+      "end_time": 382.69
+    },
+    {
+      "text": "So so far my experience has been in the healthcare space, so pharmaceutical companies, hospitals, any healthcare facilities.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 383.57,
+      "end_time": 392.89
+    },
+    {
+      "text": "But I'm always open to learning about new industries and generating leads in other areas.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 392.89,
+      "end_time": 400.85
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 413.9,
+      "end_time": 414.54
+    },
+    {
+      "text": "Your screen froze for a second.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 414.62,
+      "end_time": 415.98
+    },
+    {
+      "text": "Yeah, no, it Does.",
+      "speaker_name": "Andy Day",
+      "start_time": 416.3,
+      "end_time": 417.26
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 443.109,
+      "end_time": 443.309
+    },
+    {
+      "text": "That was definitely my, my connection.",
+      "speaker_name": "Andy Day",
+      "start_time": 443.309,
+      "end_time": 444.87
+    },
+    {
+      "text": "I've got a satellite dish out in a field over there.",
+      "speaker_name": "Andy Day",
+      "start_time": 445.99,
+      "end_time": 449.11
+    },
+    {
+      "text": "So I'm just.",
+      "speaker_name": "Andy Day",
+      "start_time": 449.11,
+      "end_time": 451.55
+    },
+    {
+      "text": "I'm on top of a hill in the middle of nowhere.",
+      "speaker_name": "Andy Day",
+      "start_time": 451.55,
+      "end_time": 453.67
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 453.67,
+      "end_time": 453.99
+    },
+    {
+      "text": "Okay, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 456.19,
+      "end_time": 456.79
+    },
+    {
+      "text": "Yeah, so I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 456.79,
+      "end_time": 460.27
+    },
+    {
+      "text": "So what I'm saying is have you, have you had to set up lots of these campaigns or have you just built the one for this healthcare client and you have to just keep maintaining the campaign to keep it going?",
+      "speaker_name": "Andy Day",
+      "start_time": 460.35,
+      "end_time": 473.47
+    },
+    {
+      "text": "So right now I've only used the one campaign for this client.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 474.19,
+      "end_time": 477.95
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 478.67,
+      "end_time": 479.11
+    },
+    {
+      "text": "All right, no worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 479.11,
+      "end_time": 479.95
+    },
+    {
+      "text": "And then in terms of like the other stuff that you're doing, so I mean, the social media management and digital marketing stuff that you've done is.",
+      "speaker_name": "Andy Day",
+      "start_time": 480.19,
+      "end_time": 489.01
+    },
+    {
+      "text": "Is that kind of now your skill set to basically do that for each client that you're.",
+      "speaker_name": "Andy Day",
+      "start_time": 489.01,
+      "end_time": 492.97
+    },
+    {
+      "text": "You're looking to work with is sort of build them a marketing sort of process?",
+      "speaker_name": "Andy Day",
+      "start_time": 492.97,
+      "end_time": 499.69
+    },
+    {
+      "text": "Yeah, I would love to gain more experience in digital marketing and social media.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 500.49,
+      "end_time": 505.69
+    },
+    {
+      "text": "I've had a few internships in it.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 506.17,
+      "end_time": 509.61
+    },
+    {
+      "text": "So, um, I managed the social media accounts.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 509.69,
+      "end_time": 516
+    },
+    {
+      "text": "I would generate content for them and I created an editorial calendar where I would plan out what I was going to post for the week and I would use tools like hootsuite to track the metrics.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 516.4,
+      "end_time": 529.84
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 531.2,
+      "end_time": 532.16
+    },
+    {
+      "text": "So I don't know what it shows on my profile for upwork or anything that I've talked about, actually, but we are a company called Capital A and so the majority of our clients are actually marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 533.76,
+      "end_time": 548.42
+    },
+    {
+      "text": "So we buy and sell marketing agencies for our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 548.42,
+      "end_time": 551.22
+    },
+    {
+      "text": "So this role in particular is not quite that, but the majority of work that Capital A does as a business is marketing agency related.",
+      "speaker_name": "Andy Day",
+      "start_time": 553.38,
+      "end_time": 561.38
+    },
+    {
+      "text": "So the fact that you've got knowledge of that is pretty good because some clients are only looking to buy marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 561.54,
+      "end_time": 571.28
+    },
+    {
+      "text": "The fact that you've worked within an agency and would know the difference between hootsuite and something else is definitely good, but it won't make up the majority of the work that we're doing at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 572.08,
+      "end_time": 583.119
+    },
+    {
+      "text": "But it's a skill set that I'm really keen to get into our business.",
+      "speaker_name": "Andy Day",
+      "start_time": 583.12,
+      "end_time": 587.36
+    },
+    {
+      "text": "I would say probably 90% of the people who work in our company are marketing agency people and a lot of them quite senior as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 589.52,
+      "end_time": 598.72
+    },
+    {
+      "text": "So they've owned their own marketing agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 598.72,
+      "end_time": 601
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 601.48,
+      "end_time": 601.88
+    },
+    {
+      "text": "Or they've been the CEO of a big agency themselves and they work with us to help buy and sell stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 602.12,
+      "end_time": 609.08
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 609.16,
+      "end_time": 609.56
+    },
+    {
+      "text": "So yeah, that, that is definitely of interest as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 610.36,
+      "end_time": 613.08
+    },
+    {
+      "text": "The actual role that we're looking to, to fill is with a service that we have called Deal Engines.",
+      "speaker_name": "Andy Day",
+      "start_time": 613.4,
+      "end_time": 619.96
+    },
+    {
+      "text": "And so what we're doing is we are building a deal flow system for our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 621.32,
+      "end_time": 629
+    },
+    {
+      "text": "So because we're so good at it.",
+      "speaker_name": "Andy Day",
+      "start_time": 629,
+      "end_time": 630.76
+    },
+    {
+      "text": "My background is marketing myself, but I've got into the world of M and A, which is mergers and acquisitions.",
+      "speaker_name": "Andy Day",
+      "start_time": 630.84,
+      "end_time": 638.36
+    },
+    {
+      "text": "And my specialism has been around the stuff that I'm good at, the stuff that I know, which is marketing and medium, record labels and TV companies, stuff like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 639.8,
+      "end_time": 648.87
+    },
+    {
+      "text": "That's what historically we've sold.",
+      "speaker_name": "Andy Day",
+      "start_time": 648.87,
+      "end_time": 651.51
+    },
+    {
+      "text": "We have like a real focus on marketing agencies, but as we've grown, we've become really good at doing what we do for ourselves and for our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 651.75,
+      "end_time": 660.79
+    },
+    {
+      "text": "So deal engines really is a platform where other companies that are doing what we do can now have a deal flow engine built for them.",
+      "speaker_name": "Andy Day",
+      "start_time": 661.35,
+      "end_time": 670.31
+    },
+    {
+      "text": "We get them up and running.",
+      "speaker_name": "Andy Day",
+      "start_time": 671.35,
+      "end_time": 673.07
+    },
+    {
+      "text": "So we build the campaigns, we find leads and we put everything inside the deal engine and then give it them to run on their own.",
+      "speaker_name": "Andy Day",
+      "start_time": 673.07,
+      "end_time": 682.84
+    },
+    {
+      "text": "After a three month period, either they run it on their own or we carry on working with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 682.84,
+      "end_time": 687.12
+    },
+    {
+      "text": "But we work as an M and a advisory almost inside that.",
+      "speaker_name": "Andy Day",
+      "start_time": 687.12,
+      "end_time": 692.28
+    },
+    {
+      "text": "So your role would be helping us get each of these campaigns set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 694.68,
+      "end_time": 699.12
+    },
+    {
+      "text": "So we're finding the leads, we're building all of the copy.",
+      "speaker_name": "Andy Day",
+      "start_time": 699.12,
+      "end_time": 703.24
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 704.47,
+      "end_time": 704.71
+    },
+    {
+      "text": "And getting the whole system set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 705.27,
+      "end_time": 708.31
+    },
+    {
+      "text": "We've got a piece of kit that runs through LinkedIn and cold email.",
+      "speaker_name": "Andy Day",
+      "start_time": 708.31,
+      "end_time": 715.03
+    },
+    {
+      "text": "We're going to add in SMS and WhatsApp as well at some point.",
+      "speaker_name": "Andy Day",
+      "start_time": 715.03,
+      "end_time": 720.55
+    },
+    {
+      "text": "But basically we'll be able to run a marketing campaign for each of our clients through several steps.",
+      "speaker_name": "Andy Day",
+      "start_time": 720.55,
+      "end_time": 726.91
+    },
+    {
+      "text": "You know, trying to get them on LinkedIn, trying to get them on, on email, LinkedIn.",
+      "speaker_name": "Andy Day",
+      "start_time": 726.91,
+      "end_time": 731.94
+    },
+    {
+      "text": "We already do.",
+      "speaker_name": "Andy Day",
+      "start_time": 731.94,
+      "end_time": 732.62
+    },
+    {
+      "text": "We have a, I think a 30% response rate which is pretty high for our clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 732.62,
+      "end_time": 737.34
+    },
+    {
+      "text": "So they, they do get lots of responses.",
+      "speaker_name": "Andy Day",
+      "start_time": 738.54,
+      "end_time": 741.06
+    },
+    {
+      "text": "But then we have to, we have to filter through them as well and make sure that they're not psychopaths, basically because you get people saying, oh yeah, I want that.",
+      "speaker_name": "Andy Day",
+      "start_time": 741.06,
+      "end_time": 751.42
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 751.58,
+      "end_time": 751.98
+    },
+    {
+      "text": "But our clients might not necessarily even want to speak to them.",
+      "speaker_name": "Andy Day",
+      "start_time": 752.54,
+      "end_time": 756.02
+    },
+    {
+      "text": "So we have to make sure that they're qualified to sell their company and that they have a decent company and that it matches what our client is looking to buy as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 756.02,
+      "end_time": 765.85
+    },
+    {
+      "text": "So basically that's kind of the role.",
+      "speaker_name": "Andy Day",
+      "start_time": 767.29,
+      "end_time": 770.73
+    },
+    {
+      "text": "Does that sound like something that you're looking to get involved in?",
+      "speaker_name": "Andy Day",
+      "start_time": 770.73,
+      "end_time": 774.73
+    },
+    {
+      "text": "Yeah, that sounds great.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 775.37,
+      "end_time": 777.33
+    },
+    {
+      "text": "I would love to gain more experience in lead generation and marketing areas.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 777.33,
+      "end_time": 783.37
+    },
+    {
+      "text": "So that sounds like a perfect fit for my background.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 783.53,
+      "end_time": 786.86
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 787.9,
+      "end_time": 788.7
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 788.7,
+      "end_time": 789.38
+    },
+    {
+      "text": "Is there any other questions around that or have I made it sound pretty straightforward?",
+      "speaker_name": "Andy Day",
+      "start_time": 789.38,
+      "end_time": 793.58
+    },
+    {
+      "text": "So I have a few questions.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 794.22,
+      "end_time": 796.06
+    },
+    {
+      "text": "So what would a typical day in the role look like and is there, would there be a training period for it?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 796.06,
+      "end_time": 805.74
+    },
+    {
+      "text": "Sorry, I did miss your first question.",
+      "speaker_name": "Andy Day",
+      "start_time": 806.7,
+      "end_time": 808.14
+    },
+    {
+      "text": "So you have a few questions.",
+      "speaker_name": "Andy Day",
+      "start_time": 808.14,
+      "end_time": 809.3
+    },
+    {
+      "text": "Go on.",
+      "speaker_name": "Andy Day",
+      "start_time": 809.3,
+      "end_time": 809.74
+    },
+    {
+      "text": "So, so I had a few questions.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 810.7,
+      "end_time": 811.74
+    },
+    {
+      "text": "So I, I was just wondering what does a typical day look like in the role and would there be a training period for it?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 811.74,
+      "end_time": 821.66
+    },
+    {
+      "text": "Okay, good question.",
+      "speaker_name": "Andy Day",
+      "start_time": 823.98,
+      "end_time": 824.94
+    },
+    {
+      "text": "So a typical day would, would possibly be fairly varied.",
+      "speaker_name": "Andy Day",
+      "start_time": 827.66,
+      "end_time": 831.02
+    },
+    {
+      "text": "We don't differentiate any of our team members as separate departments.",
+      "speaker_name": "Andy Day",
+      "start_time": 831.5,
+      "end_time": 836.82
+    },
+    {
+      "text": "We are a fairly small team of about six, seven and everybody basically gets to work on the deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 836.82,
+      "end_time": 845.92
+    },
+    {
+      "text": "We're looking for people to, who want to get their hands dirty, who are passionate about results for their, for their clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 846,
+      "end_time": 851.84
+    },
+    {
+      "text": "I'm really, and we have suffered from this previously, we're not looking for, for people to kind of just go through the motions of ticking the boxes and follow our instructions.",
+      "speaker_name": "Andy Day",
+      "start_time": 853.12,
+      "end_time": 863.92
+    },
+    {
+      "text": "What we're looking for is people that understand that the client wants to get a result.",
+      "speaker_name": "Andy Day",
+      "start_time": 865.1,
+      "end_time": 869.42
+    },
+    {
+      "text": "We're marketing an opportunity to sell a company to targets and we get a lot of nutcases, like I say, responding.",
+      "speaker_name": "Andy Day",
+      "start_time": 869.42,
+      "end_time": 880.26
+    },
+    {
+      "text": "Really what our client wants is somebody that is a bona fide business owner that can sell their business and that they have a great business.",
+      "speaker_name": "Andy Day",
+      "start_time": 880.26,
+      "end_time": 887.82
+    },
+    {
+      "text": "And so everybody sits in the same team and that includes the people that go out and negotiate as well on behalf of our buyers or sellers and help them to get a deal done.",
+      "speaker_name": "Andy Day",
+      "start_time": 888.22,
+      "end_time": 898.73
+    },
+    {
+      "text": "And so the opportunity is there for everybody to be involved in that process.",
+      "speaker_name": "Andy Day",
+      "start_time": 899.69,
+      "end_time": 904.81
+    },
+    {
+      "text": "And if you are to be involved, particularly directly with helping somebody close a deal when it's one of our retained clients on the buy or the sell side and help them get a deal closed, then you get a piece of the commission as well, which can sometimes be hundreds of thousands of dollars, not the commission percentage, but certainly the whole commission that the company would get could be, you know, $250,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 905.21,
+      "end_time": 931.86
+    },
+    {
+      "text": "And so you would get a 5% on that as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 931.86,
+      "end_time": 935.42
+    },
+    {
+      "text": "If you can get the deal, help us get the deal closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 935.42,
+      "end_time": 937.66
+    },
+    {
+      "text": "So there's a much bigger opportunity.",
+      "speaker_name": "Andy Day",
+      "start_time": 937.66,
+      "end_time": 940.74
+    },
+    {
+      "text": "But really like I say, I'm looking for somebody who's self sufficient and is able to handle a very, very day.",
+      "speaker_name": "Andy Day",
+      "start_time": 940.74,
+      "end_time": 950.32
+    },
+    {
+      "text": "So obviously, you know, start the day we're looking to catch up on everybody's inboxes, make sure that, you know, any leads or deals that have come in that they've been responded to, if somebody's not a good fit, then we're able to get rid of them nicely.",
+      "speaker_name": "Andy Day",
+      "start_time": 950.4,
+      "end_time": 966.32
+    },
+    {
+      "text": "And if somebody is a great fit, that we can qualify them as a potential seller.",
+      "speaker_name": "Andy Day",
+      "start_time": 966.88,
+      "end_time": 971.36
+    },
+    {
+      "text": "And depending on what tier they are on, it would Also be potentially to have a call with that company as well and to just get some basic details from them, make sure that they're a human being that can breathe, you know, find out what the value of their business is, etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 971.84,
+      "end_time": 988.6
+    },
+    {
+      "text": "Etc.",
+      "speaker_name": "Andy Day",
+      "start_time": 988.6,
+      "end_time": 988.92
+    },
+    {
+      "text": "And then we can put that into a document that then gets booked into our client's calendar and they get that document on their, you know, in their inbox so they can attend that call without having to do any research.",
+      "speaker_name": "Andy Day",
+      "start_time": 988.92,
+      "end_time": 1000.53
+    },
+    {
+      "text": "That's kind of it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1001.57,
+      "end_time": 1002.61
+    },
+    {
+      "text": "So like I say, you could be involved all the way to getting the deal closed at some point.",
+      "speaker_name": "Andy Day",
+      "start_time": 1003.17,
+      "end_time": 1008.69
+    },
+    {
+      "text": "I think initially the larger focus would be on making sure that we've got everybody's inboxes up to date.",
+      "speaker_name": "Andy Day",
+      "start_time": 1008.69,
+      "end_time": 1017.53
+    },
+    {
+      "text": "But certainly as we get more experienced and you get a closer experience with the clients, and especially if you're, you know, phone in targets and qualifying them as sellers, then the potential is to work alongside the clients to help them get deals closed as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1017.53,
+      "end_time": 1036.54
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1036.7,
+      "end_time": 1037.34
+    },
+    {
+      "text": "So, yeah, so it could become more interesting, it could become more about the M and A side of things over time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1037.66,
+      "end_time": 1044.22
+    },
+    {
+      "text": "And like I say, the majority of our clients are actually marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 1044.22,
+      "end_time": 1047.26
+    },
+    {
+      "text": "So the fact that you've got insight into that could be really interesting as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1047.74,
+      "end_time": 1052.35
+    },
+    {
+      "text": "I know it's obviously not your passion.",
+      "speaker_name": "Andy Day",
+      "start_time": 1052.35,
+      "end_time": 1053.75
+    },
+    {
+      "text": "It's probably doing, doing the marketing itself, but it would be talking to, you know, sometimes we talk to CEOs of, of companies that are doing like, you know, 20, 30, 50 million in revenue.",
+      "speaker_name": "Andy Day",
+      "start_time": 1053.75,
+      "end_time": 1065.31
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1065.39,
+      "end_time": 1065.87
+    },
+    {
+      "text": "So that, you know, they're successful marketing agency founders that we're talking to as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1066.19,
+      "end_time": 1070.67
+    },
+    {
+      "text": "So, so it can be very, very fun.",
+      "speaker_name": "Andy Day",
+      "start_time": 1070.67,
+      "end_time": 1074.11
+    },
+    {
+      "text": "My team is based in, mostly in the UK and the us.",
+      "speaker_name": "Andy Day",
+      "start_time": 1074.11,
+      "end_time": 1077.87
+    },
+    {
+      "text": "We do have a couple of team members in the Middle east or Asia as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1078.19,
+      "end_time": 1082.1
+    },
+    {
+      "text": "But it's a, an international team and our business is completely international.",
+      "speaker_name": "Andy Day",
+      "start_time": 1082.82,
+      "end_time": 1087.14
+    },
+    {
+      "text": "Oh, wow.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1087.7,
+      "end_time": 1088.42
+    },
+    {
+      "text": "So I mean a lot of it is in the U.S. but you know, for instance we, we've got clients in Turkey and Hong Kong, Australia.",
+      "speaker_name": "Andy Day",
+      "start_time": 1088.98,
+      "end_time": 1098.58
+    },
+    {
+      "text": "We sold an agency that was in Israel to an American company.",
+      "speaker_name": "Andy Day",
+      "start_time": 1098.98,
+      "end_time": 1103.06
+    },
+    {
+      "text": "So we're kind of all over.",
+      "speaker_name": "Andy Day",
+      "start_time": 1104.5,
+      "end_time": 1106.52
+    },
+    {
+      "text": "Wow.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1106.84,
+      "end_time": 1107.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1108.04,
+      "end_time": 1108.52
+    },
+    {
+      "text": "So actually I had a question.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1108.84,
+      "end_time": 1110.04
+    },
+    {
+      "text": "So I was wondering, are your clients mostly in UK or US or is it worldwide?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1110.04,
+      "end_time": 1116.04
+    },
+    {
+      "text": "Yeah, so a lot of the deal engine clients are UK based because we actually acquired a company that was in the UK that already did this.",
+      "speaker_name": "Andy Day",
+      "start_time": 1116.68,
+      "end_time": 1125.56
+    },
+    {
+      "text": "So basically we acquired a marketing agency that already did it and then we rebranded it as deal engines.",
+      "speaker_name": "Andy Day",
+      "start_time": 1125.88,
+      "end_time": 1133.08
+    },
+    {
+      "text": "So a lot of the clients and the marketing, the way it's all set up is quite UK focused list, but the majority of capital a's clients are actually in the U.S. okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1133.24,
+      "end_time": 1144.1
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1145.46,
+      "end_time": 1145.9
+    },
+    {
+      "text": "So it, it will be a mix, it will be a mix of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1145.9,
+      "end_time": 1148.42
+    },
+    {
+      "text": "So the fact you're on the east coast is good for us because it's only a five hour difference.",
+      "speaker_name": "Andy Day",
+      "start_time": 1148.5,
+      "end_time": 1152.86
+    },
+    {
+      "text": "There's a, a lot of an easier crossover.",
+      "speaker_name": "Andy Day",
+      "start_time": 1152.86,
+      "end_time": 1155.38
+    },
+    {
+      "text": "But we have a lot of clients in California as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1156.82,
+      "end_time": 1159.42
+    },
+    {
+      "text": "And actually Amanda, who is our partnerships director is in Texas as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1159.42,
+      "end_time": 1164.74
+    },
+    {
+      "text": "She announced in Texas, which is in Dallas today, but she normally lives in Austin, although she's a New York New Yorker, I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 1164.74,
+      "end_time": 1172.92
+    },
+    {
+      "text": "And she did live in LA not so long ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 1173.32,
+      "end_time": 1175.36
+    },
+    {
+      "text": "So she's all over.",
+      "speaker_name": "Andy Day",
+      "start_time": 1175.36,
+      "end_time": 1176.36
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1177.4,
+      "end_time": 1177.96
+    },
+    {
+      "text": "But we do have other team members in, in New York as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1178.44,
+      "end_time": 1183.96
+    },
+    {
+      "text": "So Heather is in New York and John is in Denver.",
+      "speaker_name": "Andy Day",
+      "start_time": 1184.2,
+      "end_time": 1187.4
+    },
+    {
+      "text": "So all over the place.",
+      "speaker_name": "Andy Day",
+      "start_time": 1188.12,
+      "end_time": 1191.32
+    },
+    {
+      "text": "So actually I have one more question.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1193.81,
+      "end_time": 1195.21
+    },
+    {
+      "text": "So I know you mentioned Apollo.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1195.21,
+      "end_time": 1196.61
+    },
+    {
+      "text": "Are there any other programs that you use?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1196.61,
+      "end_time": 1198.61
+    },
+    {
+      "text": "Yes, we have our own platform that we use that is completely rebranded as DL engines.",
+      "speaker_name": "Andy Day",
+      "start_time": 1199.33,
+      "end_time": 1204.53
+    },
+    {
+      "text": "It does have a similar system where it is that system basically the same as Apollo.",
+      "speaker_name": "Andy Day",
+      "start_time": 1205.57,
+      "end_time": 1210.49
+    },
+    {
+      "text": "It's not as corporate looking as Apollo, should I say.",
+      "speaker_name": "Andy Day",
+      "start_time": 1210.49,
+      "end_time": 1216.53
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1216.53,
+      "end_time": 1216.93
+    },
+    {
+      "text": "It's a bit more of a simplified version of Apollo which has all of the tools and sequences and everything built in.",
+      "speaker_name": "Andy Day",
+      "start_time": 1217.57,
+      "end_time": 1226.05
+    },
+    {
+      "text": "So it's a platform that we set up and run for our clients like a simplified version of it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1226.77,
+      "end_time": 1232.93
+    },
+    {
+      "text": "But we do also use Apollo a lot.",
+      "speaker_name": "Andy Day",
+      "start_time": 1234.69,
+      "end_time": 1236.69
+    },
+    {
+      "text": "We use Apollo because it's actually better.",
+      "speaker_name": "Andy Day",
+      "start_time": 1237.57,
+      "end_time": 1239.53
+    },
+    {
+      "text": "They've got cleaner data than our proprietary.",
+      "speaker_name": "Andy Day",
+      "start_time": 1239.53,
+      "end_time": 1243.66
+    },
+    {
+      "text": "So what we tend to do is get the data from Apollo, clean it up and then put it into a campaign and let it run rather than use our own data, which is not as good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1245.34,
+      "end_time": 1257.1
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1257.58,
+      "end_time": 1257.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1259.18,
+      "end_time": 1259.66
+    },
+    {
+      "text": "So yeah, Apollo.",
+      "speaker_name": "Andy Day",
+      "start_time": 1259.82,
+      "end_time": 1260.94
+    },
+    {
+      "text": "What else do we use?",
+      "speaker_name": "Andy Day",
+      "start_time": 1261.34,
+      "end_time": 1262.34
+    },
+    {
+      "text": "We have used Clay, we also use wizard, we use LinkedIn, Sales Navigator as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1262.34,
+      "end_time": 1273.91
+    },
+    {
+      "text": "We use wherever we can get it, basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 1273.91,
+      "end_time": 1275.99
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1276.55,
+      "end_time": 1277.11
+    },
+    {
+      "text": "And we've also got our own CRM which, which is a platform called Close, which is not public facing at all.",
+      "speaker_name": "Andy Day",
+      "start_time": 1277.11,
+      "end_time": 1284.349
+    },
+    {
+      "text": "But we've got 130,000 marketing agencies in there as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1284.349,
+      "end_time": 1288.15
+    },
+    {
+      "text": "So we've got a lot of our own data already that we, we sometimes use.",
+      "speaker_name": "Andy Day",
+      "start_time": 1288.63,
+      "end_time": 1292.83
+    },
+    {
+      "text": "So it's private.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1292.83,
+      "end_time": 1294.15
+    },
+    {
+      "text": "Yeah, it's all private here.",
+      "speaker_name": "Andy Day",
+      "start_time": 1294.95,
+      "end_time": 1296.15
+    },
+    {
+      "text": "So yeah, there's a lot of platforms to, to learn.",
+      "speaker_name": "Andy Day",
+      "start_time": 1297.99,
+      "end_time": 1300.91
+    },
+    {
+      "text": "I mean we are basically a tech layer for other M and A advice, not advisors.",
+      "speaker_name": "Andy Day",
+      "start_time": 1300.91,
+      "end_time": 1307.51
+    },
+    {
+      "text": "How would I put it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1307.83,
+      "end_time": 1308.79
+    },
+    {
+      "text": "We're a tech layer for other business buyers and sellers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1308.87,
+      "end_time": 1314.63
+    },
+    {
+      "text": "So yeah, there's, there's, there's probably not a lot to learn because you've already got Apollo as a skill.",
+      "speaker_name": "Andy Day",
+      "start_time": 1316.39,
+      "end_time": 1323.08
+    },
+    {
+      "text": "So it's very.",
+      "speaker_name": "Andy Day",
+      "start_time": 1323.08,
+      "end_time": 1323.92
+    },
+    {
+      "text": "Yeah, okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1326.48,
+      "end_time": 1327.64
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1327.64,
+      "end_time": 1328
+    },
+    {
+      "text": "I've got to hop on to my next call in five minutes, so I think that's probably everything I need, Emily, if you're happy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1328,
+      "end_time": 1333.36
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1334.48,
+      "end_time": 1334.96
+    },
+    {
+      "text": "So that's all the questions I have right now, but it was great meeting you and learning more about the role, and I would love to be considered for it.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1334.96,
+      "end_time": 1344
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 1345.2,
+      "end_time": 1345.68
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1345.68,
+      "end_time": 1346.08
+    },
+    {
+      "text": "And an absolute pleasure meeting you, Emily, and thank you for your time, and I will.",
+      "speaker_name": "Andy Day",
+      "start_time": 1346.08,
+      "end_time": 1349.88
+    },
+    {
+      "text": "Yeah, I. I've obviously got a couple more.",
+      "speaker_name": "Andy Day",
+      "start_time": 1349.88,
+      "end_time": 1351.76
+    },
+    {
+      "text": "More people to speak to, but I'll make a decision over the next day or so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1352.04,
+      "end_time": 1357
+    },
+    {
+      "text": "Would you be up for maybe doing a.",
+      "speaker_name": "Andy Day",
+      "start_time": 1357.8,
+      "end_time": 1363.48
+    },
+    {
+      "text": "Like a trial?",
+      "speaker_name": "Andy Day",
+      "start_time": 1363.48,
+      "end_time": 1364.28
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1365.08,
+      "end_time": 1365.4
+    },
+    {
+      "text": "Yeah, that's.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1365.4,
+      "end_time": 1365.88
+    },
+    {
+      "text": "That would be great.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1365.88,
+      "end_time": 1366.44
+    },
+    {
+      "text": "That sounds great.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1366.44,
+      "end_time": 1367.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1367.48,
+      "end_time": 1367.96
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1369.88,
+      "end_time": 1370.48
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1370.48,
+      "end_time": 1371.08
+    },
+    {
+      "text": "All right, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1371.08,
+      "end_time": 1372
+    },
+    {
+      "text": "Enjoy the rest of your day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1372,
+      "end_time": 1372.84
+    },
+    {
+      "text": "I know it's still early where you are, so you got a whole day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1372.84,
+      "end_time": 1375.24
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1377,
+      "end_time": 1377.44
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1377.44,
+      "end_time": 1377.96
+    },
+    {
+      "text": "Have a good one.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1377.96,
+      "end_time": 1378.68
+    },
+    {
+      "text": "Have a good one, too.",
+      "speaker_name": "Andy Day",
+      "start_time": 1379.32,
+      "end_time": 1380.2
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Emily Hubbard",
+      "start_time": 1380.36,
+      "end_time": 1380.84
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andy Day",
+      "start_time": 1381,
+      "end_time": 1381.48
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "lead-generation",
+      "marketing-agencies",
+      "mergers-acquisitions",
+      "apollo-platform",
+      "deal-engines",
+      "interview"
+    ],
+    "action_items": "\n**Andy Day**\nMake hiring decision after completing remaining candidate interviews (22:45)\nSet up trial period if Emily is selected for the role (22:45)\n\n**Emily Hubbard**\nAwait decision on role consideration and potential trial opportunity (22:25)\n",
+    "outline": null,
+    "overview": "- Emily Hubbard brings relevant experience from Upwork, specializing in contract roles in social media management and digital marketing for healthcare clients.\n- Currently managing lead generation for a medical supplies company, Emily works 10-15 hours weekly, seeking an additional 10-15 hours.\n- Uses Apollo sequences combining emails and phone outreach for client engagement, creating custom templates for various client responses.\n- Strong campaign management experience in healthcare, having maintained one campaign focused on pharmaceutical and healthcare facilities.\n- Previous internship involved social media management, using Hootsuite for analytics tracking and content scheduling.\n- Capital A operates as a marketing agency acquisition specialist, with a team comprised of 90% industry professionals, many being former agency leaders.\n- Deal Engines is Capital A's M&A service, achieving a 30% response rate on LinkedIn campaigns and focusing on lead qualification for optimized prospecting.\n- Role offers potential commission based on closing deals, estimating earnings up to $250,000, with growth towards M&A advisory work with high-revenue clients.\n- The international team spans the UK, US, and Asia, enhancing operational reach and aligning with a geographically diverse client base.\n- Capital A's client base is predominantly US-focused, benefiting from Emily's East Coast location due to time zone alignment with UK operations.",
+    "short_summary": "Emily Hubbard brings extensive experience in social media management and digital marketing, particularly in the healthcare sector, from her previous role at Upwork. Currently, she manages lead generation for a medical supplies company, dedicating 10-15 hours weekly and seeking to expand her workload by another 10-15 hours. Emily utilizes Apollo sequences for client engagement, employing custom templates for effective outreach. Her strong campaign management experience is highlighted by her focus on pharmaceutical facilities. Additionally, Emily's internship provided her with skills in social media management, including analytics tracking using Hootsuite. Capital A, a marketing agency acquisition specialist, benefits from a team of 90% industry professionals, with Deal Engines achieving a 30% response rate on LinkedIn campaigns. The role offers potential commissions up to $250,000, with opportunities for growth in M&A advisory, supported by an international team and a US-centric client base.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K0VHK10QVKTAEE0FS3JSXQZH",
+  "audio_url": "https://cdn.fireflies.ai/01K0VHK10QVKTAEE0FS3JSXQZH/audio.mp3?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzBWSEsxMFFWS1RBRUUwRlMzSlNYUVpIL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=lTvtdmq40poF7BbZW50BtK3NVFtnJiPHyfOM2OC6Tq-lbCaF1InoCoG-YDJ0pxUlGLjiEFclqseNKMIg1LPdv-JAxT7PxOPb7HEyOuMEg2ZB4BY-B77aidfaEmsxgZ9oOTJDkhKuR1vhtmKnb3A5uw2GwNDERcny5Fd2o0U4JNCcz8tOqWBdunHiut00nQWbemXo~GcMjJOmT~1J3eGHNH8MI5tnkRe6fbYCsfADA3gHvuTjmD54jMFhTDpvIv~unbM7JIkzpofM8F65anY7aTc8BsYoax6QFumEfjJyF1lX-XfD84sRVtUHKpk0jZ7Cd8opD6COsRLlHOshsyzDZg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K0VHK10QVKTAEE0FS3JSXQZH/video.mp4?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzBWSEsxMFFWS1RBRUUwRlMzSlNYUVpIL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=aXx0xT0Nmwona9fRu96ERUVzni4N6zAvHIcMFT41ZYSz90FwOslWK6rI93tA717YsPrVo8fULGgz2jYsOSMrJvX163MpnKoedQ3XDMXJsW3AMyBX484v6A51sFDnsyQAgpK4W5iTLPKFmxl7CauE7Lq5WSEB0ReQNVvLT-YeYHsfZcZOAyRM~kxdVRn~5UKo8rf8PbI2XZlZO~~5zJFjq75NKh5TQDAytUOCQ4K5Ye0abqraTQhfLtyGQxgXJArRGy9YFa6lTNhm8PCZ7bxu-9~-aD1rVn7onlJG1v8JpJUSEHN0ndi~FV6BESytDD9H8iRp88RD9KKIibMqHA9tSQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

@@ -1,0 +1,2388 @@
+{
+  "id": "01K4YHZJR5RFHE1VZPRJD37PZJ",
+  "title": "Capital A x LFPR - Catch up",
+  "date": 1757943000000,
+  "dateString": "2025-09-15T13:30:00.000Z",
+  "duration": 27.65999984741211,
+  "participants": [
+    "carl@francis.com,andrew.day@capitala.co,ahmed.zia@capitala.co,lesley@lesleyfrancispr.com,andy.day@capitala.co",
+    "carl@francis.com",
+    "andrew.day@capitala.co",
+    "lesley@lesleyfrancispr.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "carl@francis.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "lesley@lesleyfrancispr.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Instance, I don't use Google and I signed up for Google back in the 1990s that before people really use their real names.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 0.16,
+      "end_time": 9.68
+    },
+    {
+      "text": "And so that was the, that was what I signed up for.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 10.08,
+      "end_time": 13.28
+    },
+    {
+      "text": "And still, it's still the only time it ever pops up is when I use Google Meet.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 13.52,
+      "end_time": 18.08
+    },
+    {
+      "text": "Meet, yeah, yeah, we actually use Zoom as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 18.4,
+      "end_time": 21.64
+    },
+    {
+      "text": "But you know, it's like default video call modes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 21.64,
+      "end_time": 25.6
+    },
+    {
+      "text": "Sometimes this automatically changes to Google Meet.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 26.06,
+      "end_time": 28.46
+    },
+    {
+      "text": "But yeah, it's amazing.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 28.46,
+      "end_time": 30.26
+    },
+    {
+      "text": "So was it called Google back then?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 30.26,
+      "end_time": 32.06
+    },
+    {
+      "text": "Like when you signed up?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 32.06,
+      "end_time": 33.38
+    },
+    {
+      "text": "It was, yeah, yeah.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 33.38,
+      "end_time": 35.46
+    },
+    {
+      "text": "A million years ago.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 35.46,
+      "end_time": 36.54
+    },
+    {
+      "text": "You have Leslie as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 41.5,
+      "end_time": 42.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 48.78,
+      "end_time": 49.34
+    },
+    {
+      "text": "Hi Leslie.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 49.9,
+      "end_time": 50.86
+    },
+    {
+      "text": "Can't, can't hear you.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 52.71,
+      "end_time": 53.63
+    },
+    {
+      "text": "Leslie.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 53.63,
+      "end_time": 54.07
+    },
+    {
+      "text": "You're on mute.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 54.07,
+      "end_time": 54.71
+    },
+    {
+      "text": "Yep, that's good.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 60.79,
+      "end_time": 61.91
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 61.91,
+      "end_time": 62.51
+    },
+    {
+      "text": "I'm struggling with technology.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 62.51,
+      "end_time": 63.91
+    },
+    {
+      "text": "Hi, good morning.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 64.31,
+      "end_time": 65.19
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 65.27,
+      "end_time": 65.83
+    },
+    {
+      "text": "Hi, good morning.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 66.07,
+      "end_time": 67.03
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 68.47,
+      "end_time": 69.19
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 69.75,
+      "end_time": 70.75
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 70.75,
+      "end_time": 71.43
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 71.83,
+      "end_time": 72.95
+    },
+    {
+      "text": "Monday morning here.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 72.95,
+      "end_time": 73.95
+    },
+    {
+      "text": "But it'll all be fine.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 73.95,
+      "end_time": 75.43
+    },
+    {
+      "text": "Yeah, Monday morning are the hardest to be honest.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 78.06,
+      "end_time": 80.7
+    },
+    {
+      "text": "Yeah, it's true.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 81.18,
+      "end_time": 82.46
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 83.34,
+      "end_time": 83.74
+    },
+    {
+      "text": "So just wanted to have a catch up because obviously it's been on the market about six months now and I just wondered what you would normally recommend at this point.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 83.9,
+      "end_time": 93.02
+    },
+    {
+      "text": "Yeah, I mean, sure, happy to.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 94.3,
+      "end_time": 96.14
+    },
+    {
+      "text": "I just, I think we, we should have Andy on the call as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 96.14,
+      "end_time": 99.02
+    },
+    {
+      "text": "Oh, okay, great.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 99.1,
+      "end_time": 100.22
+    },
+    {
+      "text": "I wasn't sure.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 100.22,
+      "end_time": 100.94
+    },
+    {
+      "text": "Yeah, I think, yeah, he's annoyed it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 102.14,
+      "end_time": 105.68
+    },
+    {
+      "text": "Oh, here, here's Andy as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 105.92,
+      "end_time": 108
+    },
+    {
+      "text": "Hey Andy.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 108.08,
+      "end_time": 108.96
+    },
+    {
+      "text": "Hey, Andy.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 109.68,
+      "end_time": 110.28
+    },
+    {
+      "text": "Hi, Leslie.",
+      "speaker_name": "Andrew Day",
+      "start_time": 110.28,
+      "end_time": 110.76
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andrew Day",
+      "start_time": 110.76,
+      "end_time": 111.28
+    },
+    {
+      "text": "Good, how are you?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 111.52,
+      "end_time": 112.56
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 112.96,
+      "end_time": 114.16
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 114.48,
+      "end_time": 114.88
+    },
+    {
+      "text": "Just wanted to quick, don't want to take up too much of your time.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 116.16,
+      "end_time": 118.72
+    },
+    {
+      "text": "Just wanted a quick update now I'm back and we're well into September and I just really wanted to know what you normally recommend.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 118.72,
+      "end_time": 125.88
+    },
+    {
+      "text": "You know when something's been on the market six months and not, you know, not much going.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 125.88,
+      "end_time": 130.51
+    },
+    {
+      "text": "I know you've done a lot of follow up and work and sending out, but the interest doesn't really seem to be there.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 130.51,
+      "end_time": 136.63
+    },
+    {
+      "text": "So just really wanted to have a conversation about that.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 136.63,
+      "end_time": 139.15
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 140.43,
+      "end_time": 141.23
+    },
+    {
+      "text": "So where are we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 142.99,
+      "end_time": 146.87
+    },
+    {
+      "text": "Let's have a look.",
+      "speaker_name": "Andrew Day",
+      "start_time": 146.87,
+      "end_time": 147.71
+    },
+    {
+      "text": "So, so Overall we've had 12 signed NDAs, which is okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 147.79,
+      "end_time": 156.95
+    },
+    {
+      "text": "It's not loads.",
+      "speaker_name": "Andrew Day",
+      "start_time": 156.95,
+      "end_time": 158.03
+    },
+    {
+      "text": "I would say typically for the six month period probably the average is about double that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 158.91,
+      "end_time": 166.39
+    },
+    {
+      "text": "I would say usually a bit more.",
+      "speaker_name": "Andrew Day",
+      "start_time": 166.39,
+      "end_time": 170.19
+    },
+    {
+      "text": "But I would say there's a couple of factors.",
+      "speaker_name": "Andrew Day",
+      "start_time": 171.55,
+      "end_time": 174.35
+    },
+    {
+      "text": "Possibly the main one just being the regionalness of it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 176.51,
+      "end_time": 182.03
+    },
+    {
+      "text": "I wouldn't say that that's reduced where the buyers have been because we've had buyers from all over, haven't we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 183.97,
+      "end_time": 189.65
+    },
+    {
+      "text": "But just, I guess that just closes down the sort of Broader buyers that tend to be in the major cities across the US So just being a little bit smaller because of that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 191.09,
+      "end_time": 206.13
+    },
+    {
+      "text": "And I would say all of the other factors are on a huge influence.",
+      "speaker_name": "Andrew Day",
+      "start_time": 206.85,
+      "end_time": 210.61
+    },
+    {
+      "text": "Just the, the size and the type of agency is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 210.85,
+      "end_time": 215.77
+    },
+    {
+      "text": "I don't think those have been a massive influence because we see those types of agencies sometimes move quite quickly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 215.77,
+      "end_time": 221.97
+    },
+    {
+      "text": "I think it's just where the agency is that's possibly reducing the pool of buyers to a bit smaller than normal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 222.61,
+      "end_time": 230.37
+    },
+    {
+      "text": "And then where we have had interest, it just hasn't been an exact fit for whatever reason with the buyer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 231.81,
+      "end_time": 239.9
+    },
+    {
+      "text": "But I wouldn't say that there is anything particularly wrong with what you're doing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 239.9,
+      "end_time": 244.62
+    },
+    {
+      "text": "It's, you know, it's a, in a lot of ways it's a very typical business in the PR space, you know, fairly, fairly small, founder led, those types of things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 244.62,
+      "end_time": 255.94
+    },
+    {
+      "text": "And that shouldn't really, I don't think that really changes anything drastically.",
+      "speaker_name": "Andrew Day",
+      "start_time": 255.94,
+      "end_time": 260.94
+    },
+    {
+      "text": "I just think at this stage we haven't been lucky enough to find the buyer where it's an exact fit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 261.9,
+      "end_time": 269.94
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 270.34,
+      "end_time": 270.9
+    },
+    {
+      "text": "And that's the only real issue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 271.46,
+      "end_time": 273.14
+    },
+    {
+      "text": "I think all of the other personal factors as well, you know, whether you want to stay on the market or not, will influence our next moves.",
+      "speaker_name": "Andrew Day",
+      "start_time": 273.46,
+      "end_time": 280.66
+    },
+    {
+      "text": "So what normally happens, Leslie, is we just keep the business listed until we get a buyer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 280.98,
+      "end_time": 289.18
+    },
+    {
+      "text": "I would say more often than not at this stage, it kind of is almost just random.",
+      "speaker_name": "Andrew Day",
+      "start_time": 289.18,
+      "end_time": 295.25
+    },
+    {
+      "text": "I mean, we've tried every avenue that we would normally try to get a business sold.",
+      "speaker_name": "Andrew Day",
+      "start_time": 295.25,
+      "end_time": 300.13
+    },
+    {
+      "text": "And so now it's just, can we just get that perfect match?",
+      "speaker_name": "Andrew Day",
+      "start_time": 301.81,
+      "end_time": 305.49
+    },
+    {
+      "text": "So what we would continue to do is we're now just going to continue to market along with all of our listings.",
+      "speaker_name": "Andrew Day",
+      "start_time": 306.69,
+      "end_time": 313.53
+    },
+    {
+      "text": "So usually we'll go on a roundup listing now over a, over a period of time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 313.53,
+      "end_time": 318.38
+    },
+    {
+      "text": "Usually we send one or two of those a month, sometimes a few more, depending on whether we've got new listings in or not, just to see if we're going to get a perfect buyer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 318.94,
+      "end_time": 329.94
+    },
+    {
+      "text": "And obviously if it's listed on the site as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 329.94,
+      "end_time": 332.5
+    },
+    {
+      "text": "We get quite a lot of traffic to the site, thousands a month and hopefully we're going to find a match that way.",
+      "speaker_name": "Andrew Day",
+      "start_time": 332.5,
+      "end_time": 341.14
+    },
+    {
+      "text": "But there isn't a huge amount that we can, we can do apart from just keep sending to the list that we've tried already, which we will do as part of the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 341.14,
+      "end_time": 352.92
+    },
+    {
+      "text": "But just there is very little that we can do that's new.",
+      "speaker_name": "Andrew Day",
+      "start_time": 353.88,
+      "end_time": 357.72
+    },
+    {
+      "text": "On top of that, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 357.72,
+      "end_time": 358.84
+    },
+    {
+      "text": "Sorry, go on, Carl.",
+      "speaker_name": "Andrew Day",
+      "start_time": 361.72,
+      "end_time": 362.84
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 362.84,
+      "end_time": 363.24
+    },
+    {
+      "text": "Two questions, Andy.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 363.24,
+      "end_time": 364.6
+    },
+    {
+      "text": "One, so there was a NDA recently, just in the last week or Two, but it sounds like we don't have any active prospects now.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 366.2,
+      "end_time": 376.78
+    },
+    {
+      "text": "The two or three that there are two or three that were interested but have just kind of drifted away.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 376.78,
+      "end_time": 381.54
+    },
+    {
+      "text": "Yeah, so we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 382.18,
+      "end_time": 383.3
+    },
+    {
+      "text": "So we had an initial sort of 10 that's all signed together, didn't we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 383.94,
+      "end_time": 387.62
+    },
+    {
+      "text": "And yeah, we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 387.62,
+      "end_time": 390.06
+    },
+    {
+      "text": "I mean, we've.",
+      "speaker_name": "Andrew Day",
+      "start_time": 390.06,
+      "end_time": 390.58
+    },
+    {
+      "text": "We've worked our way through those.",
+      "speaker_name": "Andrew Day",
+      "start_time": 390.58,
+      "end_time": 392.58
+    },
+    {
+      "text": "Well, nine, I think, actually, we've worked our way through those and come to the end of the process with them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 394.1,
+      "end_time": 402.53
+    },
+    {
+      "text": "So, yeah, I would say now, Carl, what typically happens is we have this situation like we do with Square Root Marketing, where we haven't marketed to them directly, but they've come to the site and signed an NDA.",
+      "speaker_name": "Andrew Day",
+      "start_time": 404.45,
+      "end_time": 417.09
+    },
+    {
+      "text": "So I would say that that is probably the core focus for us going forward now, apart from, like I say, the additional mailing list listings that we send out, where it's part of a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 417.17,
+      "end_time": 429.73
+    },
+    {
+      "text": "It might be five or so listings grouped on a mail app and that we do continually send to lists that we've built for you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 430.64,
+      "end_time": 441.68
+    },
+    {
+      "text": "But beyond that, there's not really much we can do to stay targeted.",
+      "speaker_name": "Andrew Day",
+      "start_time": 442.56,
+      "end_time": 447.52
+    },
+    {
+      "text": "So, yeah, Carl, we will get sort of.",
+      "speaker_name": "Andrew Day",
+      "start_time": 448.4,
+      "end_time": 452
+    },
+    {
+      "text": "I hate to use the word random, but it's like untargeted signers where the process is exactly the same.",
+      "speaker_name": "Andrew Day",
+      "start_time": 452.32,
+      "end_time": 462.59
+    },
+    {
+      "text": "I mean, so we are obviously keen to move things forward with square root marketing, so we're looking to do that right now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 462.59,
+      "end_time": 473.15
+    },
+    {
+      "text": "We've actually emailed them a couple of times, haven't got anything back yet.",
+      "speaker_name": "Andrew Day",
+      "start_time": 473.15,
+      "end_time": 476.43
+    },
+    {
+      "text": "But, you know, as soon as they respond, we will move something forward.",
+      "speaker_name": "Andrew Day",
+      "start_time": 476.43,
+      "end_time": 481.55
+    },
+    {
+      "text": "But I would say that probably we're going to sort of tick over every week or so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 481.55,
+      "end_time": 487.71
+    },
+    {
+      "text": "We're going to get assigned mba just, you know, from Untargeted Marketing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 487.71,
+      "end_time": 493.47
+    },
+    {
+      "text": "And I had sent over a list of about 20.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 494.11,
+      "end_time": 500.43
+    },
+    {
+      "text": "I can't remember, I think it was about 20 large southeastern US agencies, including several in Atlanta and including to Travino Keller, who we, we, Leslie, had had some warm interactions with in the past.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 500.75,
+      "end_time": 519.75
+    },
+    {
+      "text": "I think we discussed that and I think they just didn't.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 520.15,
+      "end_time": 522.67
+    },
+    {
+      "text": "Weren't interested, I think.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 522.67,
+      "end_time": 523.95
+    },
+    {
+      "text": "And that was my note that Andy, they just weren't biting, I believe.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 523.95,
+      "end_time": 527.51
+    },
+    {
+      "text": "Yeah, we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 528.79,
+      "end_time": 529.35
+    },
+    {
+      "text": "We've marketed to those guys as well, Carl.",
+      "speaker_name": "Andrew Day",
+      "start_time": 529.35,
+      "end_time": 531.63
+    },
+    {
+      "text": "Yeah, so we've sent them the, the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 531.63,
+      "end_time": 534.63
+    },
+    {
+      "text": "We just haven't had anything back from them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 534.95,
+      "end_time": 536.71
+    },
+    {
+      "text": "A couple of quick questions.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 537.11,
+      "end_time": 538.47
+    },
+    {
+      "text": "Was there any.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 539.27,
+      "end_time": 540.07
+    },
+    {
+      "text": "I mean, did Larry ever.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 540.15,
+      "end_time": 542.23
+    },
+    {
+      "text": "Did he just ghost you or did he ever give a reason for going away?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 542.31,
+      "end_time": 545.75
+    },
+    {
+      "text": "Because, you know, if there's something I can learn from any of this that please be constructive criticism.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 546.15,
+      "end_time": 552.23
+    },
+    {
+      "text": "If I'm doing Something wrong in these meetings, let me know.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 552.23,
+      "end_time": 554.63
+    },
+    {
+      "text": "I don't think there's any direct constructive criticism at all, Leslie.",
+      "speaker_name": "Andrew Day",
+      "start_time": 555.91,
+      "end_time": 559.47
+    },
+    {
+      "text": "I think we've.",
+      "speaker_name": "Andrew Day",
+      "start_time": 559.47,
+      "end_time": 560.07
+    },
+    {
+      "text": "We've had really good calls and I think Larry, in all truth, is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 560.07,
+      "end_time": 565
+    },
+    {
+      "text": "Is still interested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 565,
+      "end_time": 566.32
+    },
+    {
+      "text": "Ahmed, what's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 566.72,
+      "end_time": 567.68
+    },
+    {
+      "text": "What's your take on that?",
+      "speaker_name": "Andrew Day",
+      "start_time": 567.68,
+      "end_time": 568.72
+    },
+    {
+      "text": "He is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 568.72,
+      "end_time": 569.64
+    },
+    {
+      "text": "He's not ghosting his per se, is he?",
+      "speaker_name": "Andrew Day",
+      "start_time": 569.64,
+      "end_time": 571.44
+    },
+    {
+      "text": "But he's just very gappy in his communications.",
+      "speaker_name": "Andrew Day",
+      "start_time": 571.44,
+      "end_time": 574.4
+    },
+    {
+      "text": "Yeah, he sees.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 574.72,
+      "end_time": 575.8
+    },
+    {
+      "text": "Yeah, it's just a communication gap.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 575.8,
+      "end_time": 577.84
+    },
+    {
+      "text": "So I think that's where he kind of lacks.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 577.92,
+      "end_time": 581.44
+    },
+    {
+      "text": "It's been like two times we had a call with him.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 582.08,
+      "end_time": 584.72
+    },
+    {
+      "text": "Right, Leslie?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 584.96,
+      "end_time": 586.08
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 586.08,
+      "end_time": 586.6
+    },
+    {
+      "text": "Yeah, he just.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 586.6,
+      "end_time": 587.28
+    },
+    {
+      "text": "Yeah, it's.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 587.93,
+      "end_time": 588.49
+    },
+    {
+      "text": "It's like he forgets or he just gets so busy with his life, he just never responds back.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 588.49,
+      "end_time": 595.81
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 595.81,
+      "end_time": 596.25
+    },
+    {
+      "text": "Yeah, it's like going to him all over again.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 596.25,
+      "end_time": 598.49
+    },
+    {
+      "text": "So I think we can.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 599.93,
+      "end_time": 602.57
+    },
+    {
+      "text": "We can try reaching out to him again.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 602.57,
+      "end_time": 604.33
+    },
+    {
+      "text": "Yeah, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 606.17,
+      "end_time": 606.77
+    },
+    {
+      "text": "I think we probably will reach out to Larry again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 606.77,
+      "end_time": 610.17
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 610.65,
+      "end_time": 611.13
+    },
+    {
+      "text": "What.",
+      "speaker_name": "Andrew Day",
+      "start_time": 611.13,
+      "end_time": 611.37
+    },
+    {
+      "text": "What, like Ahmed has said, we've.",
+      "speaker_name": "Andrew Day",
+      "start_time": 611.37,
+      "end_time": 613.37
+    },
+    {
+      "text": "We've had a few sort of batches of communication with him where he's been engaged, and then he seems to, as Ahmed said, forget.",
+      "speaker_name": "Andrew Day",
+      "start_time": 613.49,
+      "end_time": 621.57
+    },
+    {
+      "text": "But he's already requested a bunch of things that we thought that he'd already looked at.",
+      "speaker_name": "Andrew Day",
+      "start_time": 621.97,
+      "end_time": 627.01
+    },
+    {
+      "text": "And then he comes back almost like a fresh sheet, and we've got to start again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 628.53,
+      "end_time": 632.37
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 632.61,
+      "end_time": 633.09
+    },
+    {
+      "text": "I mean, it was all like, well, you know, I want to meet you and everything, and that's fine.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 633.73,
+      "end_time": 636.73
+    },
+    {
+      "text": "I mean, he might have just been being polite.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 636.73,
+      "end_time": 638.57
+    },
+    {
+      "text": "I'd rather people weren't and didn't waste their time and my time and your time, but, you know, it just seemed very odd.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 638.57,
+      "end_time": 644.61
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 646.05,
+      "end_time": 646.29
+    },
+    {
+      "text": "But he does seem a bit scatty in a way.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 646.53,
+      "end_time": 650.61
+    },
+    {
+      "text": "I mean, he's obviously very talented, and I'm sure he's got people in his business that, you know, across the T's and dot the I.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 651.17,
+      "end_time": 658.21
+    },
+    {
+      "text": "But in this, he sort of, you know, just out there and he gets busy, as you say.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 658.21,
+      "end_time": 663.41
+    },
+    {
+      "text": "Well, he also made the comment to you, Leslie, that when you were showing some of your processes and the way you do things, he said something like, oh, well, you guys are much more buttoned up than we are.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 663.97,
+      "end_time": 675.57
+    },
+    {
+      "text": "So probably a bit of a.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 676.13,
+      "end_time": 678.19
+    },
+    {
+      "text": "Even though it's larger, it's probably a bit of a seat of your pants type culture there would be my guess, maybe.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 679.07,
+      "end_time": 685.87
+    },
+    {
+      "text": "Yeah, that's not necessarily a bad, Bad thing with buyers, though, because they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 686.91,
+      "end_time": 692.31
+    },
+    {
+      "text": "They tend to, you know, have less strategy in where they buy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 692.31,
+      "end_time": 696.11
+    },
+    {
+      "text": "So it's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 696.51,
+      "end_time": 697.07
+    },
+    {
+      "text": "It's more emotional led, which.",
+      "speaker_name": "Andrew Day",
+      "start_time": 697.07,
+      "end_time": 698.91
+    },
+    {
+      "text": "Which could be what it needs to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 698.91,
+      "end_time": 700.59
+    },
+    {
+      "text": "To get this over the line, but yeah, it's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 700.59,
+      "end_time": 703.87
+    },
+    {
+      "text": "It does seem a bit scattergum with Larry.",
+      "speaker_name": "Andrew Day",
+      "start_time": 704.61,
+      "end_time": 706.77
+    },
+    {
+      "text": "And what about the.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 706.85,
+      "end_time": 708.45
+    },
+    {
+      "text": "There was.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 708.53,
+      "end_time": 709.09
+    },
+    {
+      "text": "You talked early on about a small business loan buyer pool.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 709.81,
+      "end_time": 717.57
+    },
+    {
+      "text": "You know, okay, there are groups that would see this as a bolt on or a geographic expansion or expansion of PR into their marketing mix.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 717.81,
+      "end_time": 729.49
+    },
+    {
+      "text": "But there was also a buyer pool of, you know, bright young sparks that want to buy an agency that would go out and borrow, you know, a million or two on a, on a SBA loan and see this as like a.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 730.62,
+      "end_time": 747.42
+    },
+    {
+      "text": "Their big opportunity.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 748.54,
+      "end_time": 750.3
+    },
+    {
+      "text": "I know there's been a.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 752.3,
+      "end_time": 753.46
+    },
+    {
+      "text": "Since.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 753.46,
+      "end_time": 753.82
+    },
+    {
+      "text": "I know since we started our discussions, there's been a.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 754.78,
+      "end_time": 757.66
+    },
+    {
+      "text": "A few changes in the US Federal government, but so what.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 758.27,
+      "end_time": 764.03
+    },
+    {
+      "text": "I mean, what about that strand?",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 764.83,
+      "end_time": 766.83
+    },
+    {
+      "text": "Yeah, so we don't have a huge pool of those types of buyers, but we do have them in our database, for sure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 767.95,
+      "end_time": 775.27
+    },
+    {
+      "text": "I mean, they are certainly attractive buyers because again, they're not usually strategic buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 775.27,
+      "end_time": 780.67
+    },
+    {
+      "text": "They are private buyers looking to make those types of acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 780.67,
+      "end_time": 784.83
+    },
+    {
+      "text": "We're actually going through a buy process with a company in New York that's being bought by one of these types of buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 787.47,
+      "end_time": 793.43
+    },
+    {
+      "text": "And it has been a massive pain in the ass, if I'm honest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 793.43,
+      "end_time": 797.23
+    },
+    {
+      "text": "It's been full of emotion on both sides, which has been not great for the process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 798.03,
+      "end_time": 803.71
+    },
+    {
+      "text": "But of those types, Carl, we have had Noel, who is a small agency owner, and she was looking at SBA funding.",
+      "speaker_name": "Andrew Day",
+      "start_time": 805.23,
+      "end_time": 814.03
+    },
+    {
+      "text": "We have.",
+      "speaker_name": "Andrew Day",
+      "start_time": 814.51,
+      "end_time": 814.99
+    },
+    {
+      "text": "We are in touch with Noel.",
+      "speaker_name": "Andrew Day",
+      "start_time": 814.99,
+      "end_time": 816.35
+    },
+    {
+      "text": "Actually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 816.35,
+      "end_time": 816.67
+    },
+    {
+      "text": "She's buying someone else, isn't she?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 817.95,
+      "end_time": 819.67
+    },
+    {
+      "text": "I think you said she's looking at.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 819.67,
+      "end_time": 821.55
+    },
+    {
+      "text": "She's looked at a couple of other different things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 821.55,
+      "end_time": 823.83
+    },
+    {
+      "text": "Yeah, the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 823.83,
+      "end_time": 824.59
+    },
+    {
+      "text": "So the one that you've got, that's, that's sort of full of angst right now.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 825.47,
+      "end_time": 829.79
+    },
+    {
+      "text": "How much of that is due to changes in the SBA loan system and how much.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 831.15,
+      "end_time": 837.79
+    },
+    {
+      "text": "I mean, some of it'll just be emotion of the buyer and seller.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 837.79,
+      "end_time": 840.91
+    },
+    {
+      "text": "No, it's just emotion of the buyers and sellers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 840.91,
+      "end_time": 843.23
+    },
+    {
+      "text": "So you haven't noticed any changes in the, in the way Small Business Administration loans work?",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 844.11,
+      "end_time": 850.33
+    },
+    {
+      "text": "I don't know exactly what you're referring to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 852.97,
+      "end_time": 854.85
+    },
+    {
+      "text": "There has been change that I'm aware of probably in the last year, I think, where it actually made it easier for SBA loans to buy these types of businesses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 854.85,
+      "end_time": 866.89
+    },
+    {
+      "text": "Previously, the rule was that you had to buy like 100% of the business and get the founder out in day one, pretty much.",
+      "speaker_name": "Andrew Day",
+      "start_time": 867.21,
+      "end_time": 872.81
+    },
+    {
+      "text": "And so founders used to stay on as consultants so they could stay part of the business for a bit longer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 873.13,
+      "end_time": 880.54
+    },
+    {
+      "text": "But that's changed now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 880.54,
+      "end_time": 882.22
+    },
+    {
+      "text": "So you don't actually have to do that, you don't have to pay 100% on day one either.",
+      "speaker_name": "Andrew Day",
+      "start_time": 882.22,
+      "end_time": 887.38
+    },
+    {
+      "text": "So we've seen different structures in that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 887.38,
+      "end_time": 891.14
+    },
+    {
+      "text": "They, you know, there's seller notes.",
+      "speaker_name": "Andrew Day",
+      "start_time": 891.14,
+      "end_time": 893.14
+    },
+    {
+      "text": "I don't think they were legal before, but now they are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 893.62,
+      "end_time": 897.1
+    },
+    {
+      "text": "This sort of process that they were doing to go round the technicalities of certain things that has become more legal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 897.1,
+      "end_time": 905.54
+    },
+    {
+      "text": "But what is it exactly you're referring to, Carl, such as sign there?",
+      "speaker_name": "Andrew Day",
+      "start_time": 905.54,
+      "end_time": 909.3
+    },
+    {
+      "text": "No, I just.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 909.46,
+      "end_time": 910.26
+    },
+    {
+      "text": "There have been a lot of changes in all things federal government related and I was just wondering if the process of, if, if that pool of Small Business Administration loan buyers was bigger or lower or whether it had gone away or whether it was now a hotter, a hotter perspective pool of buyers.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 911.78,
+      "end_time": 938.56
+    },
+    {
+      "text": "I just wonder if it's changed.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 938.64,
+      "end_time": 940.4
+    },
+    {
+      "text": "Well, we don't keep numbers on it, I'll be honest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 940.88,
+      "end_time": 943
+    },
+    {
+      "text": "We don't.",
+      "speaker_name": "Andrew Day",
+      "start_time": 943,
+      "end_time": 943.44
+    },
+    {
+      "text": "But I would say sort of a gut check on that question.",
+      "speaker_name": "Andrew Day",
+      "start_time": 943.44,
+      "end_time": 946.72
+    },
+    {
+      "text": "I would say we're getting less, we're getting less of those types of buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 946.72,
+      "end_time": 950.48
+    },
+    {
+      "text": "I certainly haven't as many of those types of buyers engaging with the business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 951.76,
+      "end_time": 958.63
+    },
+    {
+      "text": "Whereas I would say in 23 in particular.",
+      "speaker_name": "Andrew Day",
+      "start_time": 959.19,
+      "end_time": 961.43
+    },
+    {
+      "text": "Sorry, I just picked out there.",
+      "speaker_name": "Andrew Day",
+      "start_time": 961.83,
+      "end_time": 963.43
+    },
+    {
+      "text": "I would say in 23 in particular, we had maybe a peak of those types of buyers where, you know, I'd get one every few weeks, whereas we're not getting them as much right now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 963.75,
+      "end_time": 974.07
+    },
+    {
+      "text": "So I don't know whether that is just, you know, just natural variation in the types of agencies we're listing or whether it is less, but it does feel like less.",
+      "speaker_name": "Andrew Day",
+      "start_time": 974.31,
+      "end_time": 985.79
+    },
+    {
+      "text": "Yeah, certainly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 985.79,
+      "end_time": 987.31
+    },
+    {
+      "text": "I don't know what would change that, whether Trump's making it harder or easier or what's going on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 987.31,
+      "end_time": 992.23
+    },
+    {
+      "text": "But I would say that there's a lot of other factors though.",
+      "speaker_name": "Andrew Day",
+      "start_time": 992.23,
+      "end_time": 996.909
+    },
+    {
+      "text": "AI is a huge factor right now in marketing services.",
+      "speaker_name": "Andrew Day",
+      "start_time": 997.07,
+      "end_time": 1000.99
+    },
+    {
+      "text": "I think investors are maybe slightly more wary of these types of businesses because they know that, you know, I don't think it's particularly true of yours, Leslie, but you know, when you've got a business that has a lot of staff in it, that most of those staffs are going to go away after you've made the acquisition just simply because they're doing jobs that can be taken by AIs.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1002.19,
+      "end_time": 1026.74
+    },
+    {
+      "text": "It really is.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1027.62,
+      "end_time": 1028.26
+    },
+    {
+      "text": "It keeps me awake at night, I mean.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1028.26,
+      "end_time": 1030.02
+    },
+    {
+      "text": "Yeah, yeah, exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1030.02,
+      "end_time": 1031.7
+    },
+    {
+      "text": "I think it's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1031.7,
+      "end_time": 1032.42
+    },
+    {
+      "text": "The thing is, I think PR companies that are founder led like yours, Leslie, are probably something that's more robust in the long term.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1032.9,
+      "end_time": 1040.22
+    },
+    {
+      "text": "What you would probably see in the future is a founder with lots of AI support.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1041.42,
+      "end_time": 1045.58
+    },
+    {
+      "text": "I don't know whether that means you would have to learn more of it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1047.1,
+      "end_time": 1049.3
+    },
+    {
+      "text": "You're probably using quite a lot of AI already.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1049.3,
+      "end_time": 1051.66
+    },
+    {
+      "text": "But I mean, more agentic AI, where you would have agents that are actually doing, I mean, they're a pain as well, aren't they, agents?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1051.66,
+      "end_time": 1058.62
+    },
+    {
+      "text": "So you give them a job to do and they're rubbish at it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1058.62,
+      "end_time": 1060.7
+    },
+    {
+      "text": "So you just got to watch, you've got to watch them do the work that you would have done on your own and much more efficiently.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1060.7,
+      "end_time": 1067.63
+    },
+    {
+      "text": "But at some point in the future they will be able to churn out results and I think that's the risk.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1068.35,
+      "end_time": 1075.11
+    },
+    {
+      "text": "Why?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1075.11,
+      "end_time": 1075.47
+    },
+    {
+      "text": "We're probably seeing a little bit of slowdown from investors that were a little bit more sort of gung ho about making acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1076.35,
+      "end_time": 1085.39
+    },
+    {
+      "text": "But I do think PR is maybe a hotspot that's going to survive because it is so founder led, it's personality led and it's trust led led relationship.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1086.03,
+      "end_time": 1095.88
+    },
+    {
+      "text": "And it's, it's a taste thing, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1095.88,
+      "end_time": 1097.6
+    },
+    {
+      "text": "You know, you can get an AI to churn out loads of press releases, but if it isn't done by somebody who knows what they're talking, he's got a bit of swagger, who's got a network, then it doesn't come across as authentic or as exciting to get those types of things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1097.6,
+      "end_time": 1114.64
+    },
+    {
+      "text": "So, yeah, I think it will survive, but just with smaller teams.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1114.64,
+      "end_time": 1118.76
+    },
+    {
+      "text": "Yeah, it's a tough call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1119.29,
+      "end_time": 1121.61
+    },
+    {
+      "text": "I mean, you don't have a bloated team at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1121.61,
+      "end_time": 1123.93
+    },
+    {
+      "text": "So it's not necessarily that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1123.93,
+      "end_time": 1125.93
+    },
+    {
+      "text": "I think we just need to find the right type of founder.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1126.25,
+      "end_time": 1129.29
+    },
+    {
+      "text": "It does seem, just given where we are and particularly with Noel's interest with other stuff, that it probably is that we're looking at a female led business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1129.45,
+      "end_time": 1139.13
+    },
+    {
+      "text": "And just statistically there is less of them, not particularly in pr, but just statistically there's less female owned businesses that are mature enough to make acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1140.33,
+      "end_time": 1152.58
+    },
+    {
+      "text": "There's just less of it going on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1152.58,
+      "end_time": 1153.98
+    },
+    {
+      "text": "I would hate to say that it's more of a man thing, but it is just statistically you've got kind of a.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1154.54,
+      "end_time": 1159.58
+    },
+    {
+      "text": "You've got kind of two different things at work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1160.7,
+      "end_time": 1162.86
+    },
+    {
+      "text": "One are just less female founders that are looking to sell and then less female founders that are looking to buy as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1162.94,
+      "end_time": 1169.5
+    },
+    {
+      "text": "But I think that might be the thing because it really has got a few buyers excited when they find other female led businesses.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1170.06,
+      "end_time": 1180.33
+    },
+    {
+      "text": "That seems to be what they want to pull the trigger on more than anything else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1180.33,
+      "end_time": 1183.69
+    },
+    {
+      "text": "But it's just a case of eking out this right buyer now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1184.97,
+      "end_time": 1188.49
+    },
+    {
+      "text": "Okay, so Andy, what's the average length of time that a business will Hang out on your agency's website.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 1188.81,
+      "end_time": 1203.08
+    },
+    {
+      "text": "I mean, at what point does it start to look shop worn because it's been there too long?",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 1203.56,
+      "end_time": 1208.04
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1209,
+      "end_time": 1209.48
+    },
+    {
+      "text": "So we've had agencies not get closed within six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1211.8,
+      "end_time": 1217.72
+    },
+    {
+      "text": "And I would say generally, it probably, generally bar one or two is that we do get an off within the next two, two or three months after the six month period.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1218.36,
+      "end_time": 1232.04
+    },
+    {
+      "text": "Usually something like two or three months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1232.36,
+      "end_time": 1234.48
+    },
+    {
+      "text": "We do usually get an offer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1234.48,
+      "end_time": 1236.28
+    },
+    {
+      "text": "But we do have some agencies that haven't sold at all for various reasons.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1236.92,
+      "end_time": 1240.4
+    },
+    {
+      "text": "Sometimes we've had buyers and just the deal hasn't closed for whatever reason.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1240.4,
+      "end_time": 1245.4
+    },
+    {
+      "text": "And those, excuse me, those types of founders usually have to make a decision.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1246.44,
+      "end_time": 1252.48
+    },
+    {
+      "text": "Do we take it off for a small while and just recalibrate what it is that we want to do before we come back on the market?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1252.48,
+      "end_time": 1261.61
+    },
+    {
+      "text": "Actually, this agency that we're selling at the moment, it's the third time they've listed with us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1262.57,
+      "end_time": 1266.89
+    },
+    {
+      "text": "Not because we haven't found them buyers every single time, but just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1268.25,
+      "end_time": 1273.61
+    },
+    {
+      "text": "It's just a highly, I would say probably roughly the same age as you, Leslie.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1274.57,
+      "end_time": 1280.01
+    },
+    {
+      "text": "Highly personal experience.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1281.18,
+      "end_time": 1283.58
+    },
+    {
+      "text": "It's a husband and wife team and they want different things from each other.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1283.9,
+      "end_time": 1290.86
+    },
+    {
+      "text": "Husband would like to stay in the business and be part of a bigger agency.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1292.06,
+      "end_time": 1295.86
+    },
+    {
+      "text": "The wife just wants to get out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1295.86,
+      "end_time": 1297.26
+    },
+    {
+      "text": "They're both mid to late 50s and she wants all the money up front.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1297.42,
+      "end_time": 1302.54
+    },
+    {
+      "text": "He doesn't need it all up front because he's have to stay in the business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1302.86,
+      "end_time": 1305.26
+    },
+    {
+      "text": "So we've had this impossible situation to find it, the exact right buyer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1305.26,
+      "end_time": 1309.5
+    },
+    {
+      "text": "And right now we have 80% of the cash upfront on the, on the table.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1309.5,
+      "end_time": 1314.02
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1314.1,
+      "end_time": 1314.5
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1316.34,
+      "end_time": 1316.74
+    },
+    {
+      "text": "But yeah, I mean, every time we've found a deal from.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1316.74,
+      "end_time": 1319.02
+    },
+    {
+      "text": "They found a problem why they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1319.02,
+      "end_time": 1320.82
+    },
+    {
+      "text": "They didn't want to close it and they've spent the time just re sort of calibrating what it is that they're looking for when they've come back.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1320.82,
+      "end_time": 1329.38
+    },
+    {
+      "text": "So it just makes it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1329.78,
+      "end_time": 1331.22
+    },
+    {
+      "text": "I mean, obviously we are very experienced in this and we can put together lists of the types of buyers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1331.22,
+      "end_time": 1336.34
+    },
+    {
+      "text": "It's exhausting, isn't it, Leslie?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1337.15,
+      "end_time": 1339.11
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1339.11,
+      "end_time": 1339.63
+    },
+    {
+      "text": "I mean, the thing is about people like myself who have been in M and A for a while is you just have to have completely no emotion on any deal because no matter how close we get to the line, even when we've had offers and we've had contracts, actually contracts put on the table, we've had buyers walk away.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1339.71,
+      "end_time": 1357.87
+    },
+    {
+      "text": "You know, even though they spent money on having a contract drafted, they walked away.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1358.19,
+      "end_time": 1362.67
+    },
+    {
+      "text": "Mm.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1363.15,
+      "end_time": 1363.55
+    },
+    {
+      "text": "It's like new business.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1364.35,
+      "end_time": 1365.47
+    },
+    {
+      "text": "I mean, I've got, you know, I. I don't take it personally anymore because.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1365.71,
+      "end_time": 1369.71
+    },
+    {
+      "text": "Happens.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1370.99,
+      "end_time": 1371.51
+    },
+    {
+      "text": "Excuse me.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1371.51,
+      "end_time": 1372.11
+    },
+    {
+      "text": "Or the world changes or something changes in there, you know, and they make.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1372.11,
+      "end_time": 1375.75
+    },
+    {
+      "text": "And they.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1375.75,
+      "end_time": 1376.27
+    },
+    {
+      "text": "They panic about spending the money or whatever, you know, and it's not.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1376.51,
+      "end_time": 1379.47
+    },
+    {
+      "text": "They go with someone else, but it's.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1379.47,
+      "end_time": 1381.87
+    },
+    {
+      "text": "It's a similar thing, I guess.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1381.87,
+      "end_time": 1383.71
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1383.71,
+      "end_time": 1384.11
+    },
+    {
+      "text": "My feeling is that we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1384.83,
+      "end_time": 1385.95
+    },
+    {
+      "text": "We will find a buyer for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1385.95,
+      "end_time": 1387.43
+    },
+    {
+      "text": "For lfpr.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1387.43,
+      "end_time": 1388.91
+    },
+    {
+      "text": "I just feel that when we've had buyers interested, because what happens statistically more than with your company is when people do request the im, that they just ghost us.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1389.23,
+      "end_time": 1400.49
+    },
+    {
+      "text": "I would say for the larger businesses that we list, we have more trouble getting people engaged in the conversation after they've actually seen the im.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1400.49,
+      "end_time": 1410.29
+    },
+    {
+      "text": "Whereas with the eu, I would say that we haven't really had people, like, interested in moving forward.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1410.61,
+      "end_time": 1416.61
+    },
+    {
+      "text": "It's just that it's the size of the pool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1418.07,
+      "end_time": 1419.99
+    },
+    {
+      "text": "So we just haven't had, you know, if you think statistically 1 in 10 deals close in M and A across the M and A industry, and we've only had 12 signed IMs, so statistically, we're close to the line of where that mathematically can even shake out as a deal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1420.07,
+      "end_time": 1438.63
+    },
+    {
+      "text": "So, you know, I think we've done okay to get the buyers in sort of engaged conversations where it looked like, make an offer or.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1438.79,
+      "end_time": 1448.14
+    },
+    {
+      "text": "Like Stan.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1448.46,
+      "end_time": 1449.18
+    },
+    {
+      "text": "Yeah, yeah, like Stan, for instance.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1449.26,
+      "end_time": 1451.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1451.34,
+      "end_time": 1451.58
+    },
+    {
+      "text": "Where he came to see you and stuff, all that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1451.58,
+      "end_time": 1453.58
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1454.38,
+      "end_time": 1454.78
+    },
+    {
+      "text": "So it's slow, Leslie.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1454.78,
+      "end_time": 1456.98
+    },
+    {
+      "text": "Yeah, it's slow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1456.98,
+      "end_time": 1457.98
+    },
+    {
+      "text": "Is.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1458.38,
+      "end_time": 1458.74
+    },
+    {
+      "text": "Is the market a little slow at the moment, or is it more just specific to, you know, my particular niche?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1458.74,
+      "end_time": 1463.9
+    },
+    {
+      "text": "So the market isn't slow right now.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1465.1,
+      "end_time": 1467.5
+    },
+    {
+      "text": "I would say the last week, but only, like, recently, since the end of August, first week of September was still horrifically slow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1467.5,
+      "end_time": 1474.3
+    },
+    {
+      "text": "We thought it would pick up almost immediately, but that Labor Day week didn't pick up at all.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1474.3,
+      "end_time": 1480.5
+    },
+    {
+      "text": "So last week, I think we saw the first real week back at work, and we've had assigned NDA for you in that period as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1480.98,
+      "end_time": 1489.22
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1489.22,
+      "end_time": 1489.54
+    },
+    {
+      "text": "Andy, Andy, apologies, I've got to drop off.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 1490.26,
+      "end_time": 1492.98
+    },
+    {
+      "text": "But anyway, thanks.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 1492.98,
+      "end_time": 1493.98
+    },
+    {
+      "text": "Thanks for the update.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 1493.98,
+      "end_time": 1494.98
+    },
+    {
+      "text": "Yeah, thanks, Ahmed.",
+      "speaker_name": "Sicnarfer Sicnarfer",
+      "start_time": 1495.14,
+      "end_time": 1496.58
+    },
+    {
+      "text": "I've just got one last.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1496.74,
+      "end_time": 1498.18
+    },
+    {
+      "text": "Bye, Carl.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1499.06,
+      "end_time": 1499.74
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1499.74,
+      "end_time": 1500.18
+    },
+    {
+      "text": "So would it be worth me reaching out personally to Larry?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1501.54,
+      "end_time": 1504.82
+    },
+    {
+      "text": "I think you would, actually.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1506.89,
+      "end_time": 1507.77
+    },
+    {
+      "text": "And I. I am back from a trip, you know, and like you say, it is that post Labor Day.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1508.09,
+      "end_time": 1513.13
+    },
+    {
+      "text": "Hey, we better get some stuff done before Thanksgiving over here.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1513.53,
+      "end_time": 1516.73
+    },
+    {
+      "text": "You know, clients are doing the same.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1516.73,
+      "end_time": 1518.41
+    },
+    {
+      "text": "I think that would.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1519.93,
+      "end_time": 1520.65
+    },
+    {
+      "text": "That would chime nicely, Leslie.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1520.65,
+      "end_time": 1522.29
+    },
+    {
+      "text": "I think, you know, we have been backwards and forwards with him and.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1522.29,
+      "end_time": 1525.21
+    },
+    {
+      "text": "And Obviously, he's probably got a list of things in his inbox he needs to engage with, but because it's us, we're just.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1525.45,
+      "end_time": 1532.3
+    },
+    {
+      "text": "We're a commodity, aren't we?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1532.3,
+      "end_time": 1533.62
+    },
+    {
+      "text": "I think if it came from you, it would be more personal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1533.78,
+      "end_time": 1536.18
+    },
+    {
+      "text": "Yeah, I will do that.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1536.58,
+      "end_time": 1537.66
+    },
+    {
+      "text": "I'll copy.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1537.66,
+      "end_time": 1538.38
+    },
+    {
+      "text": "I'll copy you guys.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1538.38,
+      "end_time": 1539.34
+    },
+    {
+      "text": "I mean, it can't hurt, can it?",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1539.34,
+      "end_time": 1540.74
+    },
+    {
+      "text": "No, I think he is interested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1540.9,
+      "end_time": 1542.42
+    },
+    {
+      "text": "It's just the way that he engages with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1542.5,
+      "end_time": 1544.5
+    },
+    {
+      "text": "With us, it's so patchy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1544.82,
+      "end_time": 1547.22
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1547.46,
+      "end_time": 1547.94
+    },
+    {
+      "text": "We can't maintain a conversation with him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1548.34,
+      "end_time": 1550.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1550.58,
+      "end_time": 1550.98
+    },
+    {
+      "text": "And I mean, I remember that time we had a call and he was.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1550.98,
+      "end_time": 1553.62
+    },
+    {
+      "text": "He sent questions, like, three minutes before the call, you know, because it had just popped into his mind.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1553.62,
+      "end_time": 1558.74
+    },
+    {
+      "text": "So, you know, I think he does a lot on charisma rather than organization.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1560.36,
+      "end_time": 1563.32
+    },
+    {
+      "text": "And I like him, you know, but anyway, he's not necessarily a bad buyer.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1563.72,
+      "end_time": 1568.24
+    },
+    {
+      "text": "For this type of business because.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1568.24,
+      "end_time": 1570.2
+    },
+    {
+      "text": "Yeah, I mean, it is sort of me.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1570.28,
+      "end_time": 1573
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1573.24,
+      "end_time": 1573.72
+    },
+    {
+      "text": "Trust me.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1573.96,
+      "end_time": 1574.68
+    },
+    {
+      "text": "But look, I think the overall message is we are definitely back from September.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1576.36,
+      "end_time": 1579.96
+    },
+    {
+      "text": "We've had a signed NDA without.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1579.96,
+      "end_time": 1581.28
+    },
+    {
+      "text": "Without us doing anything.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1581.28,
+      "end_time": 1582.52
+    },
+    {
+      "text": "So I. I think we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1582.6,
+      "end_time": 1583.84
+    },
+    {
+      "text": "We just need to go.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1583.84,
+      "end_time": 1585.49
+    },
+    {
+      "text": "Keep going through the process, including you in our.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1585.49,
+      "end_time": 1588.45
+    },
+    {
+      "text": "In our outreach.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1588.45,
+      "end_time": 1589.45
+    },
+    {
+      "text": "And it will.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1589.53,
+      "end_time": 1590.21
+    },
+    {
+      "text": "It will tick along now, but there's not any newness that we can create.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1590.21,
+      "end_time": 1594.81
+    },
+    {
+      "text": "We'll just keep chugging along through the end of the year, is what you're saying.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1597.21,
+      "end_time": 1600.41
+    },
+    {
+      "text": "Well, yeah, I think so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1601.37,
+      "end_time": 1602.73
+    },
+    {
+      "text": "And then I think what we need to do at the start of January, if we've got no traction then is then I think we need to sit down and say, okay, is there something that we need to change about the way this looks or the way that the company works to make it more attractive?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1602.73,
+      "end_time": 1618.25
+    },
+    {
+      "text": "Sure.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1618.41,
+      "end_time": 1618.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1618.81,
+      "end_time": 1619.17
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1619.17,
+      "end_time": 1619.61
+    },
+    {
+      "text": "That sounds like a good game plan.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1619.77,
+      "end_time": 1621.45
+    },
+    {
+      "text": "And we're at the 30 minutes.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1621.61,
+      "end_time": 1623.05
+    },
+    {
+      "text": "I really appreciate your time.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1623.05,
+      "end_time": 1624.49
+    },
+    {
+      "text": "I will reach out to Larry and copy you guys and, you know, let's.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1625.13,
+      "end_time": 1629.329
+    },
+    {
+      "text": "Let's just see what happens as things are sort of post summer holidays.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1629.329,
+      "end_time": 1634.01
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1634.81,
+      "end_time": 1635.37
+    },
+    {
+      "text": "All right, thank you both.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1637.13,
+      "end_time": 1638.41
+    },
+    {
+      "text": "Good to see you again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1639.38,
+      "end_time": 1640.1
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Lesley Francis",
+      "start_time": 1641.3,
+      "end_time": 1641.78
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "NDAs",
+      "Buyer engagement",
+      "SBA loans",
+      "AI impact",
+      "Female-led businesses",
+      "Marketing strategy"
+    ],
+    "action_items": "\n**Lesley Francis**\nPersonally reach out to Larry to re-engage and copy in Andy and Ahmed (25:06)\n\n**Andrew Day**\nContinue regular marketing efforts including sending group listings and maintaining website presence for LFPR (05:55)\nFollow up with Square Root Marketing on progressing discussions (07:54)\nRe-engage Larry with outreach to attempt better communication flow (10:06)\nMonitor market activity and buyer interest into early 2024, prepare a strategy session if no progress (26:35)\n\n**Ahmed Zia**\nSupport communication efforts with Larry and other buyers as needed (09:34)\n",
+    "outline": null,
+    "overview": "- 12 NDAs signed over six months; interest levels are at 50% of the usual average, indicating limited engagement from buyers.  \n- Buyer fit issues arise as interest does not convert into deals; LFPR's model and operations are not the problem.  \n- Ongoing marketing will rely on monthly roundups and website exposure; no new strategies introduced.  \n- No active prospects currently; past interested parties have disengaged, with sporadic untargeted inbound NDAs still coming in.  \n- Previous outreach to approximately 20 large southeastern US agencies, including Travino Keller, yielded no success.  \n- Larry's interest continues but is hindered by inconsistent communication, complicating discussions.  \n- Decrease in SBA loan buyers despite relaxed loan rules in the past year; buyer activity remains low.  \n- AI's impact on marketing agencies is a concern; founder-led firms like LFPR maintain an edge due to trust and relationships.  \n- Statistically, fewer female-led buyers exist, but those interested are more inclined towards female-led businesses like LFPR.  \n- Overall market conditions saw a slowdown in late August and early September, but there are recent signs of recovery.",
+    "short_summary": "The discussion centered on sales and buyer engagement metrics, revealing a total of 12 signed NDAs over six months, significantly below the average of 24 due to regional limitations. While buyer interest was noted, it did not result in suitable matches, with no active prospects currently. Marketing strategies involve regular outreach to a mailing list, yet responses from targeted agencies were lacking. The buyer pool includes strategic and private buyers, with a noted decline in SBA loan interest and caution from buyers regarding AI's impact on agency jobs. Communication gaps were identified with a key buyer, Larry, highlighting the need for personal follow-ups. The meeting concluded with a plan to continue outreach efforts and reassess the business listing in early 2024 if no progress is made by year-end.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K4YHZJR5RFHE1VZPRJD37PZJ",
+  "audio_url": "https://cdn.fireflies.ai/01K4YHZJR5RFHE1VZPRJD37PZJ/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRZSFpKUjVSRkhFMVZaUFJKRDM3UFpKL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=oMAhGNNcsT1sBH34MCn5wKumjakD9iu2MHQK0YeZtDhxvXcs5oBCjnULDJADm~rCKMME8oE51GfNFuZXX6VEJWY1mB2KDi5~9A4ymECySu9X4e9mHCfjL~S6WrTJwTM2gmVr-xcDSq-xGAPDbMz1DJOk3yLhUnxt9Fjq0mxcD0nXpqVjPRGj79QKycXgJJjwYzH8T3Ila2d46WjFGBiyu4RvB1ajNAs~gm3R0w4Yw7VHc7RrKKdSl~ZxGWczNntYwqxhKjzJ6JC6a8xIrGDTnH8DMmHrNVU57-194LHjxSZVkm-Qa90UnI71kTRjP5qWxL5tdCmhzmXK26-nGCYw-Q__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K4YHZJR5RFHE1VZPRJD37PZJ/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRZSFpKUjVSRkhFMVZaUFJKRDM3UFpKL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=OEmn~KtQwJ7hJ5DArJFo7OsfD6RxuOufChri5LWxJisk2SofFzUhvsUBgERS1z1z55cSMHcoqZB8gHnjQD2VEx9z-ZlkWcLbktwYGjprmP8O4fu-W3G2M0h2KVZbnaz~TSlQqGMtcN7GzRHfB-Duet99isUtyymVvHZqkghHzzgR2aBEGfLgu~WM2dy2ZC-jv4bMYyJz81Rjc0EByFnjQqFNdHvX8TJIfmNGCEx5b~ts0yb-GOVy8mOqbhmssiQq~tBPVq4V9~reri1M8lABD1ePLWQusDyIAqC8FaLx2w~OogZqWAMFttWsMScbDHqEEZce4kmb-2a0KScIldS3Cg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

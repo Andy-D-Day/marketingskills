@@ -1,0 +1,1880 @@
+{
+  "id": "01JKRE0CXAGPS04ZDZD30035EX",
+  "title": "M&A catch up",
+  "date": 1739543400000,
+  "dateString": "2025-02-14T14:30:00.000Z",
+  "duration": 15,
+  "participants": [
+    "ahmed.zia@capitala.co,andrew.day@capitala.co,jack.chiappe@capitala.co,heather.fullerton@capitala.co,daniel.smith@capitala.co,shams.gani@capitala.co,andy.day@capitala.co",
+    "ahmed.zia@capitala.co",
+    "jack.chiappe@capitala.co",
+    "heather.fullerton@capitala.co",
+    "daniel.smith@capitala.co",
+    "shams.gani@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Jack Chiappe",
+      "email": "jack.chiappe@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "heather.fullerton@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "daniel.smith@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "shams.gani@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi, Shams.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 0.4,
+      "end_time": 1.428
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Shams Gani",
+      "start_time": 2.88,
+      "end_time": 3.66
+    },
+    {
+      "text": "Hi, Jack.",
+      "speaker_name": "Shams Gani",
+      "start_time": 4.08,
+      "end_time": 4.744
+    },
+    {
+      "text": "How are you doing?",
+      "speaker_name": "Shams Gani",
+      "start_time": 4.792,
+      "end_time": 5.448
+    },
+    {
+      "text": "Long time.",
+      "speaker_name": "Shams Gani",
+      "start_time": 5.504,
+      "end_time": 6.34
+    },
+    {
+      "text": "Yeah, it has been a long time.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 7.04,
+      "end_time": 8.44
+    },
+    {
+      "text": "How's it going?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 8.48,
+      "end_time": 9.336
+    },
+    {
+      "text": "Amazing, amazing.",
+      "speaker_name": "Shams Gani",
+      "start_time": 9.488,
+      "end_time": 10.584
+    },
+    {
+      "text": "What about you?",
+      "speaker_name": "Shams Gani",
+      "start_time": 10.632,
+      "end_time": 11.336
+    },
+    {
+      "text": "How's everything at your end?",
+      "speaker_name": "Shams Gani",
+      "start_time": 11.408,
+      "end_time": 13.06
+    },
+    {
+      "text": "Yeah, not too bad, thanks.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 13.84,
+      "end_time": 15.704
+    },
+    {
+      "text": "The sun is out for the first.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 15.832,
+      "end_time": 17.08
+    },
+    {
+      "text": "Time this year, which is good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 17.12,
+      "end_time": 20.344
+    },
+    {
+      "text": "Never seen the sun?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 20.512,
+      "end_time": 21.86
+    },
+    {
+      "text": "Yeah, things are all right.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 23.92,
+      "end_time": 25.454
+    },
+    {
+      "text": "Busy.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 25.592,
+      "end_time": 26.47
+    },
+    {
+      "text": "How about you?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 27.45,
+      "end_time": 28.67
+    },
+    {
+      "text": "Same old thing.",
+      "speaker_name": "Shams Gani",
+      "start_time": 29.69,
+      "end_time": 30.83
+    },
+    {
+      "text": "Busy working.",
+      "speaker_name": "Shams Gani",
+      "start_time": 32.17,
+      "end_time": 33.39
+    },
+    {
+      "text": "Where are you based?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 34.25,
+      "end_time": 35.39
+    },
+    {
+      "text": "I'm based in Mumbai, India.",
+      "speaker_name": "Shams Gani",
+      "start_time": 36.01,
+      "end_time": 37.714
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 37.882,
+      "end_time": 38.79
+    },
+    {
+      "text": "So it's pretty hot over here at the moment for you guys.",
+      "speaker_name": "Shams Gani",
+      "start_time": 41.21,
+      "end_time": 45.026
+    },
+    {
+      "text": "It might be snowing or like peak winter.",
+      "speaker_name": "Shams Gani",
+      "start_time": 45.058,
+      "end_time": 47.99
+    },
+    {
+      "text": "It's not.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 48.97,
+      "end_time": 49.618
+    },
+    {
+      "text": "It's not snowing, but it has been horrible.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 49.674,
+      "end_time": 51.714
+    },
+    {
+      "text": "And it's been very cold.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 51.762,
+      "end_time": 53.482
+    },
+    {
+      "text": "Colder than usual this year.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 53.666,
+      "end_time": 55.562
+    },
+    {
+      "text": "It's like.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 55.586,
+      "end_time": 56.47
+    },
+    {
+      "text": "I'd say it's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 56.77,
+      "end_time": 57.95
+    },
+    {
+      "text": "Yeah, it's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 59.09,
+      "end_time": 60.154
+    },
+    {
+      "text": "It's pretty much been the worst it's been in terms of temperature.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 60.202,
+      "end_time": 65.114
+    },
+    {
+      "text": "But the sun's out now, which I'm happy about.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 65.242,
+      "end_time": 67.658
+    },
+    {
+      "text": "It's supposed to stay out all weekend.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 67.714,
+      "end_time": 69.63
+    },
+    {
+      "text": "Just can't wait for the heat.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 70.85,
+      "end_time": 72.026
+    },
+    {
+      "text": "You know, it comes in like March, April time.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 72.058,
+      "end_time": 76.058
+    },
+    {
+      "text": "I mean, it's never as warm as.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 76.114,
+      "end_time": 77.37
+    },
+    {
+      "text": "Mumbai is now, but.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 77.41,
+      "end_time": 78.87
+    },
+    {
+      "text": "For us it is around 33 degrees Celsius.",
+      "speaker_name": "Shams Gani",
+      "start_time": 81.9,
+      "end_time": 84.884
+    },
+    {
+      "text": "It's like we're burning hot.",
+      "speaker_name": "Shams Gani",
+      "start_time": 85.012,
+      "end_time": 86.88
+    },
+    {
+      "text": "Cannot survive without 33 degrees over here.",
+      "speaker_name": "Shams Gani",
+      "start_time": 89.82,
+      "end_time": 94.996
+    },
+    {
+      "text": "Yeah, that's hotter than it ever gets here, even in London.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 95.068,
+      "end_time": 98.948
+    },
+    {
+      "text": "We should switch.",
+      "speaker_name": "Shams Gani",
+      "start_time": 99.124,
+      "end_time": 100.28
+    },
+    {
+      "text": "Yeah, we should swap.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 100.78,
+      "end_time": 102.084
+    },
+    {
+      "text": "I'm not sure I could hack it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 102.212,
+      "end_time": 103.84
+    },
+    {
+      "text": "I'm not sure my.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 105.35,
+      "end_time": 106.65
+    },
+    {
+      "text": "My body could take it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 108.07,
+      "end_time": 109.77
+    },
+    {
+      "text": "Where exactly are based in uk?",
+      "speaker_name": "Shams Gani",
+      "start_time": 110.79,
+      "end_time": 112.558
+    },
+    {
+      "text": "Are you based in London or somewhere else?",
+      "speaker_name": "Shams Gani",
+      "start_time": 112.614,
+      "end_time": 114.206
+    },
+    {
+      "text": "I'm in London, yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 114.238,
+      "end_time": 115.49
+    },
+    {
+      "text": "Like the central London?",
+      "speaker_name": "Shams Gani",
+      "start_time": 116.15,
+      "end_time": 117.73
+    },
+    {
+      "text": "Camden.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 118.39,
+      "end_time": 119.246
+    },
+    {
+      "text": "Do you know Camden?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 119.358,
+      "end_time": 120.59
+    },
+    {
+      "text": "Camden.",
+      "speaker_name": "Shams Gani",
+      "start_time": 120.75,
+      "end_time": 121.342
+    },
+    {
+      "text": "Oh, because one of my.",
+      "speaker_name": "Shams Gani",
+      "start_time": 121.406,
+      "end_time": 122.622
+    },
+    {
+      "text": "Little bit north, but it's pretty central.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 122.726,
+      "end_time": 125.022
+    },
+    {
+      "text": "I'm like.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 125.206,
+      "end_time": 126.17
+    },
+    {
+      "text": "I'm like 15 minutes from Central London.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 126.87,
+      "end_time": 131.41
+    },
+    {
+      "text": "Like Oxford street or Mayfair or something.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 132.35,
+      "end_time": 134.902
+    },
+    {
+      "text": "Oh, that's.",
+      "speaker_name": "Shams Gani",
+      "start_time": 135.086,
+      "end_time": 135.766
+    },
+    {
+      "text": "That's pretty close.",
+      "speaker_name": "Shams Gani",
+      "start_time": 135.798,
+      "end_time": 136.806
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 136.958,
+      "end_time": 137.286
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 137.318,
+      "end_time": 138.09
+    },
+    {
+      "text": "Well, one of my cousin, actually, my.",
+      "speaker_name": "Shams Gani",
+      "start_time": 138.59,
+      "end_time": 141.382
+    },
+    {
+      "text": "My cousin and my real sister.",
+      "speaker_name": "Shams Gani",
+      "start_time": 141.486,
+      "end_time": 143.542
+    },
+    {
+      "text": "So these two people, they stay in Liverpool.",
+      "speaker_name": "Shams Gani",
+      "start_time": 143.606,
+      "end_time": 145.526
+    },
+    {
+      "text": "I don't know how far is it from your place?",
+      "speaker_name": "Shams Gani",
+      "start_time": 145.558,
+      "end_time": 147.65
+    },
+    {
+      "text": "It's probably a few hours by the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 149.55,
+      "end_time": 151.81
+    },
+    {
+      "text": "In Liverpool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 152.83,
+      "end_time": 153.878
+    },
+    {
+      "text": "In.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 153.974,
+      "end_time": 154.278
+    },
+    {
+      "text": "In the city of Liverpool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 154.334,
+      "end_time": 155.414
+    },
+    {
+      "text": "Is it?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 155.462,
+      "end_time": 156.246
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Shams Gani",
+      "start_time": 156.398,
+      "end_time": 157.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 157.11,
+      "end_time": 157.386
+    },
+    {
+      "text": "So one of my friends lives in Liverpool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 157.418,
+      "end_time": 158.826
+    },
+    {
+      "text": "It's about.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 158.858,
+      "end_time": 159.674
+    },
+    {
+      "text": "I actually have no idea.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 159.842,
+      "end_time": 160.986
+    },
+    {
+      "text": "Maybe three hours on the train, something like that.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 161.018,
+      "end_time": 163.85
+    },
+    {
+      "text": "I've never been to Liverpool, but I.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 163.89,
+      "end_time": 166.682
+    },
+    {
+      "text": "Would like to go.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 166.706,
+      "end_time": 167.29
+    },
+    {
+      "text": "I should go really.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 167.33,
+      "end_time": 168.71
+    },
+    {
+      "text": "But yeah, it's good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 171.25,
+      "end_time": 172.954
+    },
+    {
+      "text": "Liverpool's a good city.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 173.122,
+      "end_time": 174.362
+    },
+    {
+      "text": "People have fun there.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 174.466,
+      "end_time": 175.75
+    },
+    {
+      "text": "I went to uni in Birmingham, which is kind of.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 177.17,
+      "end_time": 180.378
+    },
+    {
+      "text": "Birmingham is in my wish list because I have seen Peaky Blinders.",
+      "speaker_name": "Shams Gani",
+      "start_time": 180.514,
+      "end_time": 183.674
+    },
+    {
+      "text": "So that's the.",
+      "speaker_name": "Shams Gani",
+      "start_time": 183.722,
+      "end_time": 184.698
+    },
+    {
+      "text": "Oh yeah, that's what you Imagine it's going to be like.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 184.834,
+      "end_time": 188.07
+    },
+    {
+      "text": "Yeah, well, I went to university there.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 189.37,
+      "end_time": 191.426
+    },
+    {
+      "text": "And it wasn't like Peaky Blinders, let me tell you that.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 191.578,
+      "end_time": 194.51
+    },
+    {
+      "text": "The old London and retro vibe.",
+      "speaker_name": "Shams Gani",
+      "start_time": 200.01,
+      "end_time": 202.082
+    },
+    {
+      "text": "It was like one of my best TV series I've ever seen.",
+      "speaker_name": "Shams Gani",
+      "start_time": 202.146,
+      "end_time": 205.522
+    },
+    {
+      "text": "Peaky Blinders, it's.",
+      "speaker_name": "Shams Gani",
+      "start_time": 205.626,
+      "end_time": 206.786
+    },
+    {
+      "text": "It's Rank One is great.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 206.818,
+      "end_time": 208.546
+    },
+    {
+      "text": "There's a film coming out this year, isn't there?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 208.618,
+      "end_time": 210.37
+    },
+    {
+      "text": "Yeah, I'm very excited for that.",
+      "speaker_name": "Shams Gani",
+      "start_time": 210.49,
+      "end_time": 212.898
+    },
+    {
+      "text": "Yeah, it's a.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 213.034,
+      "end_time": 213.938
+    },
+    {
+      "text": "It is great.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 213.994,
+      "end_time": 214.874
+    },
+    {
+      "text": "You really kind of get into it, don't you?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 215.002,
+      "end_time": 217.27
+    },
+    {
+      "text": "Yeah, I get obsessed with it, to be honest.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 217.73,
+      "end_time": 219.658
+    },
+    {
+      "text": "I probably watch it every couple of years, all the way through start to finish.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 219.754,
+      "end_time": 227.15
+    },
+    {
+      "text": "Where is everybody else?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 227.89,
+      "end_time": 230.106
+    },
+    {
+      "text": "Let me double check where everyone is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 230.218,
+      "end_time": 232.31
+    },
+    {
+      "text": "I was just having a chat with Daniel, speaking to.",
+      "speaker_name": "Shams Gani",
+      "start_time": 233.25,
+      "end_time": 235.802
+    },
+    {
+      "text": "We group with a client, so.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 235.826,
+      "end_time": 240.272
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Shams Gani",
+      "start_time": 240.426,
+      "end_time": 241.56
+    },
+    {
+      "text": "Who you were speaking to Daniel, were you?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 242.46,
+      "end_time": 244.932
+    },
+    {
+      "text": "Like five minutes back and he was like, yeah, I'll join the call, blah, blah, blah.",
+      "speaker_name": "Shams Gani",
+      "start_time": 245.116,
+      "end_time": 249.316
+    },
+    {
+      "text": "And then he got distracted with something else.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 249.508,
+      "end_time": 252.2
+    },
+    {
+      "text": "Yeah, classic.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 253.5,
+      "end_time": 255
+    },
+    {
+      "text": "So you guys, obviously we've, we haven't.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 258.46,
+      "end_time": 261.556
+    },
+    {
+      "text": "Had a proper chat since she.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 261.588,
+      "end_time": 263.14
+    },
+    {
+      "text": "Since she joined fully.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 263.18,
+      "end_time": 264.676
+    },
+    {
+      "text": "But what are you, what are you kind of helping with at the moment?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 264.708,
+      "end_time": 268.814
+    },
+    {
+      "text": "What's your.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 268.862,
+      "end_time": 269.69
+    },
+    {
+      "text": "Oh, good.",
+      "speaker_name": "Shams Gani",
+      "start_time": 270.79,
+      "end_time": 272.27
+    },
+    {
+      "text": "It's a.",
+      "speaker_name": "Shams Gani",
+      "start_time": 272.31,
+      "end_time": 272.718
+    },
+    {
+      "text": "It's a great chance that I'll introduce myself formally.",
+      "speaker_name": "Shams Gani",
+      "start_time": 272.774,
+      "end_time": 275.182
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 275.246,
+      "end_time": 275.85
+    },
+    {
+      "text": "Yeah, so my full name is Shams.",
+      "speaker_name": "Shams Gani",
+      "start_time": 276.47,
+      "end_time": 278.334
+    },
+    {
+      "text": "I'm based in Mumbai, India.",
+      "speaker_name": "Shams Gani",
+      "start_time": 278.462,
+      "end_time": 279.998
+    },
+    {
+      "text": "Obviously, the basic thing which you know.",
+      "speaker_name": "Shams Gani",
+      "start_time": 280.134,
+      "end_time": 282.59
+    },
+    {
+      "text": "So apart from that, I have done my MBA in finance and electrical engineering.",
+      "speaker_name": "Shams Gani",
+      "start_time": 282.63,
+      "end_time": 287.022
+    },
+    {
+      "text": "I was working as an investment banker in the past, so I had worked with Barclays, Morgan, Sandy and MCI for these three companies.",
+      "speaker_name": "Shams Gani",
+      "start_time": 287.166,
+      "end_time": 294.764
+    },
+    {
+      "text": "And I was, I was like.",
+      "speaker_name": "Shams Gani",
+      "start_time": 294.942,
+      "end_time": 297.152
+    },
+    {
+      "text": "For Barclays, I was there in London.",
+      "speaker_name": "Shams Gani",
+      "start_time": 297.176,
+      "end_time": 299.152
+    },
+    {
+      "text": "For Morgan Stanley, it was New York.",
+      "speaker_name": "Shams Gani",
+      "start_time": 299.296,
+      "end_time": 301.888
+    },
+    {
+      "text": "And msci, it was Manila, which is in Philippines.",
+      "speaker_name": "Shams Gani",
+      "start_time": 301.944,
+      "end_time": 304.896
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Shams Gani",
+      "start_time": 305.088,
+      "end_time": 305.488
+    },
+    {
+      "text": "So I have a rich experience in terms of investment banking side buy side and sell side, both.",
+      "speaker_name": "Shams Gani",
+      "start_time": 305.544,
+      "end_time": 311.1
+    },
+    {
+      "text": "After that I pivoted to ESG a bit and then I came back to India, started my own freelancing venture and yeah, I'm doing great.",
+      "speaker_name": "Shams Gani",
+      "start_time": 311.8,
+      "end_time": 320.24
+    },
+    {
+      "text": "We are.",
+      "speaker_name": "Shams Gani",
+      "start_time": 320.28,
+      "end_time": 321.1
+    },
+    {
+      "text": "So you were in London?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 321.49,
+      "end_time": 323.226
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Shams Gani",
+      "start_time": 323.418,
+      "end_time": 324.15
+    },
+    {
+      "text": "No, no, actually the, the, the office was based in London.",
+      "speaker_name": "Shams Gani",
+      "start_time": 324.61,
+      "end_time": 327.71
+    },
+    {
+      "text": "I don't know this near the street, but we were working remotely.",
+      "speaker_name": "Shams Gani",
+      "start_time": 328.21,
+      "end_time": 331.402
+    },
+    {
+      "text": "So I was reporting in the Indian office, which is in Mumbai, but the entire staff was in London, so I was working.",
+      "speaker_name": "Shams Gani",
+      "start_time": 331.546,
+      "end_time": 338.314
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 338.402,
+      "end_time": 338.666
+    },
+    {
+      "text": "So it was like you had.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 338.698,
+      "end_time": 340.074
+    },
+    {
+      "text": "You were part of the Indian office for Barclays, was it?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 340.162,
+      "end_time": 343.21
+    },
+    {
+      "text": "Yeah, but none of my colleagues were Indian.",
+      "speaker_name": "Shams Gani",
+      "start_time": 343.33,
+      "end_time": 345.19
+    },
+    {
+      "text": "All my colleagues were based in Ukraine.",
+      "speaker_name": "Shams Gani",
+      "start_time": 345.49,
+      "end_time": 348.54
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Shams Gani",
+      "start_time": 348.57,
+      "end_time": 349.368
+    },
+    {
+      "text": "And I was the one who was remotely connected in India.",
+      "speaker_name": "Shams Gani",
+      "start_time": 349.544,
+      "end_time": 352.98
+    },
+    {
+      "text": "And what, what sort of work did you do for them?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 353.6,
+      "end_time": 356.152
+    },
+    {
+      "text": "So I started off as an esg.",
+      "speaker_name": "Shams Gani",
+      "start_time": 356.336,
+      "end_time": 358.696
+    },
+    {
+      "text": "Sorry, I started off as an equity research analyst and then I, I went up.",
+      "speaker_name": "Shams Gani",
+      "start_time": 358.808,
+      "end_time": 364.088
+    },
+    {
+      "text": "So my initial work was conducting secondary research on companies helping out like working on various databases including FactSet, Factor, PitchBook, so on and so forth.",
+      "speaker_name": "Shams Gani",
+      "start_time": 364.224,
+      "end_time": 375.928
+    },
+    {
+      "text": "So I have a good hand on 13 + research databases and like doing the initial research, helping out the lead analyst over there like the lead manager with all the information which they need, writing reports, performing financial analysis on and so forth and then pivoting to the ESG side of the company.",
+      "speaker_name": "Shams Gani",
+      "start_time": 375.944,
+      "end_time": 398.57
+    },
+    {
+      "text": "Cool, cool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 399.03,
+      "end_time": 400.654
+    },
+    {
+      "text": "What about.",
+      "speaker_name": "Shams Gani",
+      "start_time": 400.782,
+      "end_time": 401.182
+    },
+    {
+      "text": "You have got a big ESG aspect.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 401.206,
+      "end_time": 403.73
+    },
+    {
+      "text": "Yeah, it's true.",
+      "speaker_name": "Shams Gani",
+      "start_time": 404.12,
+      "end_time": 405.104
+    },
+    {
+      "text": "And I love the work culture over there.",
+      "speaker_name": "Shams Gani",
+      "start_time": 405.152,
+      "end_time": 407.072
+    },
+    {
+      "text": "To be very frank though, it was a bit hectic at times specifically on weekends.",
+      "speaker_name": "Shams Gani",
+      "start_time": 407.176,
+      "end_time": 410.976
+    },
+    {
+      "text": "They used to just come up with some random as well.",
+      "speaker_name": "Shams Gani",
+      "start_time": 411.008,
+      "end_time": 414.272
+    },
+    {
+      "text": "But most of the time.",
+      "speaker_name": "Shams Gani",
+      "start_time": 414.376,
+      "end_time": 415.82
+    },
+    {
+      "text": "How about you?",
+      "speaker_name": "Shams Gani",
+      "start_time": 417.08,
+      "end_time": 418.22
+    },
+    {
+      "text": "Yeah, so I've got a background in M A done 5 years now working.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 419.4,
+      "end_time": 427.696
+    },
+    {
+      "text": "For a number of different corporate finance firms.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 427.768,
+      "end_time": 429.808
+    },
+    {
+      "text": "Been working with Andy for two years.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 429.904,
+      "end_time": 433.442
+    },
+    {
+      "text": "Predominantly sell side work.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 433.546,
+      "end_time": 435.39
+    },
+    {
+      "text": "Kind of manage the client relationship and, and, and assist with kind of deal flow and things like that.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 436.49,
+      "end_time": 443.95
+    },
+    {
+      "text": "At the moment the process is, is pretty varied in terms of what, what, what I'm doing um, on a, on a day to day with Andy but.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 445.29,
+      "end_time": 456.27
+    },
+    {
+      "text": "But yeah it's, but primary focus is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 457.07,
+      "end_time": 460.182
+    },
+    {
+      "text": "To drive deals forward really on the sell side to, to, to get us to a point where we're closing things and, and that's kind of my responsibility.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 460.206,
+      "end_time": 468.17
+    },
+    {
+      "text": "Background corporate finance.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 469.55,
+      "end_time": 471.062
+    },
+    {
+      "text": "Did a year a boutique corporate finance firm in, in London in kind of the city.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 471.126,
+      "end_time": 477.33
+    },
+    {
+      "text": "Didn't mind it, thought it was good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 479.47,
+      "end_time": 481.83
+    },
+    {
+      "text": "It was great learning experience.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 481.87,
+      "end_time": 483.014
+    },
+    {
+      "text": "The, the deal sizes were kind of somewhere between 5 and 60 million.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 483.102,
+      "end_time": 489.662
+    },
+    {
+      "text": "They had one that was a bit bigger.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 489.846,
+      "end_time": 491.47
+    },
+    {
+      "text": "They'd done 60 million EBITDAR one year so it was kind of 200 million EV but generally speaking EVS between 1 and 100 million is kind of what I'm, I'm used to and my sweet.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 491.55,
+      "end_time": 502.606
+    },
+    {
+      "text": "Spot is kind of the small mid cap firms or low mid market I think is what they call it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 502.638,
+      "end_time": 509.61
+    },
+    {
+      "text": "Yeah, can, can do financial modeling, can do that sort of stuff.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 511.48,
+      "end_time": 515.14
+    },
+    {
+      "text": "Don't do a lot of it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 515.8,
+      "end_time": 516.88
+    },
+    {
+      "text": "Well I review the valuations and do the valuation pieces for, for, for Capital A as well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 516.92,
+      "end_time": 524.78
+    },
+    {
+      "text": "Oh that's amazing you know how to do financial modeling.",
+      "speaker_name": "Shams Gani",
+      "start_time": 525.08,
+      "end_time": 528.096
+    },
+    {
+      "text": "So that's a big plus because when I was in Barclays they never encouraged us to do financial modeling because everything was automated.",
+      "speaker_name": "Shams Gani",
+      "start_time": 528.128,
+      "end_time": 534.854
+    },
+    {
+      "text": "I mean you don't, you don't really need it I don't think.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 535.032,
+      "end_time": 538.682
+    },
+    {
+      "text": "I think financial modeling is a dying.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 538.866,
+      "end_time": 541.07
+    },
+    {
+      "text": "And specifically with the, with the rise of the artificial intelligence that will vanish in a couple of years.",
+      "speaker_name": "Shams Gani",
+      "start_time": 542.69,
+      "end_time": 548.266
+    },
+    {
+      "text": "That's my forte on this.",
+      "speaker_name": "Shams Gani",
+      "start_time": 548.338,
+      "end_time": 550.31
+    },
+    {
+      "text": "Yeah, we slowly moving away from the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 551.01,
+      "end_time": 554.01
+    },
+    {
+      "text": "Analytical aspects of banking and moving towards the people based aspects of banking which is to be honest, where I'd.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 554.13,
+      "end_time": 561.768
+    },
+    {
+      "text": "Well, I'm better anyway.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 561.954,
+      "end_time": 563.036
+    },
+    {
+      "text": "I mean I'm not, I'm not stupid but I'm never going to be the best financial modeler in the, in the pack.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 563.068,
+      "end_time": 570.012
+    },
+    {
+      "text": "So I'm happy for a computer to take over that, that role and, and we'll kind of move on.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 570.076,
+      "end_time": 574.94
+    },
+    {
+      "text": "But at the moment our valuations are.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 574.98,
+      "end_time": 576.652
+    },
+    {
+      "text": "Still a bit qualitative.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 576.676,
+      "end_time": 577.66
+    },
+    {
+      "text": "We have a model, I try and refine it and improve it as much as possible.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 577.74,
+      "end_time": 581.96
+    },
+    {
+      "text": "We are, yeah, we're in a position where companies will say how much are we worth?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 584.58,
+      "end_time": 590.232
+    },
+    {
+      "text": "Before we list them?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 590.296,
+      "end_time": 591.336
+    },
+    {
+      "text": "And we'll put, we'll tell them you.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 591.408,
+      "end_time": 593.032
+    },
+    {
+      "text": "Could probably list for this amount based on comparables, a dcf, comparable transactions and then we go to market with that.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 593.056,
+      "end_time": 601.272
+    },
+    {
+      "text": "And there's a decision to be made when we get offers as to whether or not we were right with our.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 601.296,
+      "end_time": 606.584
+    },
+    {
+      "text": "Market and we should push back or if actually the offers we've got are more accurate relative to what people are willing to pay for this business.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 606.592,
+      "end_time": 614.66
+    },
+    {
+      "text": "The singular focus means that we can be very knowledgeable in the sector where other companies can't.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 616.62,
+      "end_time": 622.92
+    },
+    {
+      "text": "We know who's buying in marketing agencies, other M and A firms, Barclays, they might have a marketing department where they have a partner who's in marketing but they won't know who's buying marketing agencies like we do.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 623.66,
+      "end_time": 637.84
+    },
+    {
+      "text": "So you guys only focus on the UK market or you guys focus on UK and us?",
+      "speaker_name": "Shams Gani",
+      "start_time": 638.78,
+      "end_time": 645.368
+    },
+    {
+      "text": "Oh okay.",
+      "speaker_name": "Shams Gani",
+      "start_time": 645.424,
+      "end_time": 646.168
+    },
+    {
+      "text": "We are, we have had clients in.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 646.264,
+      "end_time": 648.232
+    },
+    {
+      "text": "Other areas but it's UK and us.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 648.256,
+      "end_time": 649.656
+    },
+    {
+      "text": "Yeah, we'll, we'll search for buyers elsewhere but.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 649.728,
+      "end_time": 652.904
+    },
+    {
+      "text": "And for sellers elsewhere but.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 653.072,
+      "end_time": 654.98
+    },
+    {
+      "text": "Yeah, I mean architects are 100 either.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 656.16,
+      "end_time": 660.616
+    },
+    {
+      "text": "Based in the UK or in the US.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 660.648,
+      "end_time": 662.296
+    },
+    {
+      "text": "There's nothing else?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 662.368,
+      "end_time": 663.58
+    },
+    {
+      "text": "Not that I can think of anyway.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 664,
+      "end_time": 665.82
+    },
+    {
+      "text": "Jump soon.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 667.76,
+      "end_time": 668.456
+    },
+    {
+      "text": "We've got to call it 3:30.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 668.528,
+      "end_time": 670.69
+    },
+    {
+      "text": "Where, where are the rest of the guys?",
+      "speaker_name": "Shams Gani",
+      "start_time": 672.11,
+      "end_time": 674.09
+    },
+    {
+      "text": "They are, they're in a call with a client.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 674.51,
+      "end_time": 677.21
+    },
+    {
+      "text": "They'll join when they, when they're off that call.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 680.75,
+      "end_time": 685.49
+    },
+    {
+      "text": "We've got another client call at 3:30.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 688.67,
+      "end_time": 691.158
+    },
+    {
+      "text": "So have you, have you kind of got your feet under the, under the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 691.294,
+      "end_time": 696.342
+    },
+    {
+      "text": "Table if you will, with Capsule at the moment.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 696.366,
+      "end_time": 698.566
+    },
+    {
+      "text": "Have you been having conversations with Ahmed and things?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 698.598,
+      "end_time": 702.17
+    },
+    {
+      "text": "So at the moment I'm in constant touch with Daniel because he helped me to set up all the accounts and he walked me through the procedure.",
+      "speaker_name": "Shams Gani",
+      "start_time": 702.95,
+      "end_time": 711.358
+    },
+    {
+      "text": "So I'm just really getting off from there.",
+      "speaker_name": "Shams Gani",
+      "start_time": 711.534,
+      "end_time": 714.798
+    },
+    {
+      "text": "Let's see how it goes.",
+      "speaker_name": "Shams Gani",
+      "start_time": 714.934,
+      "end_time": 716.174
+    },
+    {
+      "text": "Because today is the first week.",
+      "speaker_name": "Shams Gani",
+      "start_time": 716.222,
+      "end_time": 718.43
+    },
+    {
+      "text": "Like, I'll finish my first week now.",
+      "speaker_name": "Shams Gani",
+      "start_time": 718.47,
+      "end_time": 720.398
+    },
+    {
+      "text": "And the thing is, it was basically a review call for me.",
+      "speaker_name": "Shams Gani",
+      "start_time": 720.534,
+      "end_time": 725.084
+    },
+    {
+      "text": "Like, what I have done, I would have explained.",
+      "speaker_name": "Shams Gani",
+      "start_time": 725.182,
+      "end_time": 726.96
+    },
+    {
+      "text": "And the next task.",
+      "speaker_name": "Shams Gani",
+      "start_time": 727.04,
+      "end_time": 729.104
+    },
+    {
+      "text": "So I'm actually handing one client, which is Pete.",
+      "speaker_name": "Shams Gani",
+      "start_time": 729.152,
+      "end_time": 732.18
+    },
+    {
+      "text": "Pete Scrum.",
+      "speaker_name": "Shams Gani",
+      "start_time": 732.68,
+      "end_time": 733.84
+    },
+    {
+      "text": "Some Pete s.",
+      "speaker_name": "Shams Gani",
+      "start_time": 733.92,
+      "end_time": 735.008
+    },
+    {
+      "text": "I don't know the full name.",
+      "speaker_name": "Shams Gani",
+      "start_time": 735.064,
+      "end_time": 736.224
+    },
+    {
+      "text": "Are you on Deal Engines?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 736.312,
+      "end_time": 737.632
+    },
+    {
+      "text": "Is that what you're doing at the moment?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 737.696,
+      "end_time": 739.216
+    },
+    {
+      "text": "Yep, yep, I'm on Deal Engines, but the name has changed to Marketing Engines.",
+      "speaker_name": "Shams Gani",
+      "start_time": 739.328,
+      "end_time": 744.096
+    },
+    {
+      "text": "I don't know, like, whether Deal Engine or this Marketing Engine.",
+      "speaker_name": "Shams Gani",
+      "start_time": 744.128,
+      "end_time": 746.8
+    },
+    {
+      "text": "It's Deal Engines now.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 746.96,
+      "end_time": 748.512
+    },
+    {
+      "text": "It was Marketing Engines, but now Steel Engines.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 748.616,
+      "end_time": 751.38
+    },
+    {
+      "text": "Gotcha.",
+      "speaker_name": "Shams Gani",
+      "start_time": 751.7,
+      "end_time": 752.716
+    },
+    {
+      "text": "So I'm handling one LinkedIn client, which is Pete, and I'm in constant touch with him.",
+      "speaker_name": "Shams Gani",
+      "start_time": 752.908,
+      "end_time": 759.4
+    },
+    {
+      "text": "Let's see how it goes.",
+      "speaker_name": "Shams Gani",
+      "start_time": 760.02,
+      "end_time": 761.164
+    },
+    {
+      "text": "It's cool.",
+      "speaker_name": "Shams Gani",
+      "start_time": 761.292,
+      "end_time": 762.24
+    },
+    {
+      "text": "Till now.",
+      "speaker_name": "Shams Gani",
+      "start_time": 762.58,
+      "end_time": 763.132
+    },
+    {
+      "text": "It's all under control.",
+      "speaker_name": "Shams Gani",
+      "start_time": 763.156,
+      "end_time": 765.48
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 766.66,
+      "end_time": 767.4
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 767.7,
+      "end_time": 768.48
+    },
+    {
+      "text": "Maybe we catch up with the others when they're done.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 768.9,
+      "end_time": 772.52
+    },
+    {
+      "text": "I'll message Andy.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 773.86,
+      "end_time": 775.356
+    },
+    {
+      "text": "We can drop off for a minute and come back.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 775.468,
+      "end_time": 777.53
+    },
+    {
+      "text": "You're gonna have to do this intro all over again, I'd imagine.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 777.66,
+      "end_time": 780.93
+    },
+    {
+      "text": "It sounds like you met everyone else, but.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 781.75,
+      "end_time": 783.982
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Shams Gani",
+      "start_time": 784.166,
+      "end_time": 784.526
+    },
+    {
+      "text": "So typically, how many guys are there in this call?",
+      "speaker_name": "Shams Gani",
+      "start_time": 784.558,
+      "end_time": 786.766
+    },
+    {
+      "text": "So it's you, Andy, Ahmed and Daniel.",
+      "speaker_name": "Shams Gani",
+      "start_time": 786.838,
+      "end_time": 790.942
+    },
+    {
+      "text": "At the moment, but it depends.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 791.006,
+      "end_time": 796.27
+    },
+    {
+      "text": "I think at the moment, that's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 796.35,
+      "end_time": 797.694
+    },
+    {
+      "text": "That's where we're at.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 797.742,
+      "end_time": 798.97
+    },
+    {
+      "text": "That's the team for the core team, but can fluctuate depending on the deals we've got involved.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 799.27,
+      "end_time": 806.14
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 809.04,
+      "end_time": 809.464
+    },
+    {
+      "text": "So Dan, Daniel is new.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 809.512,
+      "end_time": 811.86
+    },
+    {
+      "text": "His company, Marketing Engines, was acquired by Capital A.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 813.36,
+      "end_time": 816.74
+    },
+    {
+      "text": "And so he's now working with us to drive new business.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 817.2,
+      "end_time": 821.86
+    },
+    {
+      "text": "But also he's still got Deal Engines, as you can see, that's working and operating as a fully independent business.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 822.4,
+      "end_time": 830.66
+    },
+    {
+      "text": "Ahmed is focused 100% on analyst work for us.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 832.39,
+      "end_time": 839.566
+    },
+    {
+      "text": "He builds.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 839.638,
+      "end_time": 840.93
+    },
+    {
+      "text": "He helps build the ims, helps build the valuations, helps with outreach.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 841.43,
+      "end_time": 848.718
+    },
+    {
+      "text": "That's his core focus, really, the outreach.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 848.814,
+      "end_time": 851.246
+    },
+    {
+      "text": "He owns the mass outreach engines in Camp Sale, but he's also involved in the building of prep sheets, that sort of thing as well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 851.438,
+      "end_time": 863.46
+    },
+    {
+      "text": "And then I'm.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 863.84,
+      "end_time": 864.92
+    },
+    {
+      "text": "I'm kind of dealing with kind of client relationships, client management, and driving.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 865,
+      "end_time": 871.992
+    },
+    {
+      "text": "Kind of pushing forward with the deal side of things, as well as overseeing the iron.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 872.136,
+      "end_time": 876.664
+    },
+    {
+      "text": "The valuation piece.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 876.712,
+      "end_time": 878.7
+    },
+    {
+      "text": "But, yeah, that's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 880.88,
+      "end_time": 881.912
+    },
+    {
+      "text": "That's us.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 881.976,
+      "end_time": 882.536
+    },
+    {
+      "text": "So I've actually done a relatively good job of summarizing the team there, which is good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 882.608,
+      "end_time": 889.87
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 890.65,
+      "end_time": 891.106
+    },
+    {
+      "text": "Should we.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 891.138,
+      "end_time": 891.73
+    },
+    {
+      "text": "Should we reconvene?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 891.85,
+      "end_time": 893.394
+    },
+    {
+      "text": "Are you on the Slack channel?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 893.522,
+      "end_time": 895.27
+    },
+    {
+      "text": "Yes, I am.",
+      "speaker_name": "Shams Gani",
+      "start_time": 895.69,
+      "end_time": 896.786
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 896.938,
+      "end_time": 897.442
+    },
+    {
+      "text": "I'll drop them a message.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 897.506,
+      "end_time": 898.594
+    },
+    {
+      "text": "Just saying we've dropped off.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 898.642,
+      "end_time": 901.362
+    },
+    {
+      "text": "Let us know when you're on.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 901.466,
+      "end_time": 902.99
+    },
+    {
+      "text": "I am on slack, but I don't know which channel you're talking about.",
+      "speaker_name": "Shams Gani",
+      "start_time": 907.45,
+      "end_time": 910.906
+    },
+    {
+      "text": "I'll put it on this one.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 911.098,
+      "end_time": 912.71
+    },
+    {
+      "text": "Did you get that agencies hyphen leads?",
+      "speaker_name": "Shams Gani",
+      "start_time": 916.61,
+      "end_time": 920.49
+    },
+    {
+      "text": "Are you talking about that one, General?",
+      "speaker_name": "Shams Gani",
+      "start_time": 920.57,
+      "end_time": 923.35
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Shams Gani",
+      "start_time": 925.09,
+      "end_time": 925.546
+    },
+    {
+      "text": "We are dropping off.",
+      "speaker_name": "Shams Gani",
+      "start_time": 925.578,
+      "end_time": 926.282
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Shams Gani",
+      "start_time": 926.306,
+      "end_time": 926.49
+    },
+    {
+      "text": "I got that.",
+      "speaker_name": "Shams Gani",
+      "start_time": 926.53,
+      "end_time": 927.35
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 927.81,
+      "end_time": 928.426
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 928.538,
+      "end_time": 929.19
+    },
+    {
+      "text": "I'll speak to you in a bit.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 929.81,
+      "end_time": 931.418
+    },
+    {
+      "text": "If they finish their call on time.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 931.554,
+      "end_time": 933.67
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Shams Gani",
+      "start_time": 933.97,
+      "end_time": 934.666
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Shams Gani",
+      "start_time": 934.778,
+      "end_time": 935.45
+    },
+    {
+      "text": "Fix him.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 935.61,
+      "end_time": 936.218
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 936.274,
+      "end_time": 936.632
+    },
+    {
+      "text": "Speak soon.",
+      "speaker_name": "Shams Gani",
+      "start_time": 936.706,
+      "end_time": 937.18
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Shams Gani",
+      "start_time": 937.22,
+      "end_time": 937.388
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A",
+      "Investment Banking",
+      "Corporate Finance",
+      "Deal Flow",
+      "Valuation",
+      "Marketing Agencies"
+    ],
+    "action_items": "\n**Jack**\nJack to message Andy about reconvening the call (14:57)\n\n**Shams**\nShams to continue working with Daniel on setting up accounts and procedures (11:43)\nShams to handle LinkedIn client Pete for Deal Engines (12:19)\n",
+    "outline": null,
+    "overview": "The Informal Team Catch-up and Introduction meeting focused on creating rapport among team members and discussing their varying backgrounds and current roles within the Capital A organization, particularly in the context of M&A activities. The meeting began with light-hearted commentary on the weather in London and Mumbai, before transitioning into personal introductions where Shams shared his extensive experience in finance and investment banking and Jack detailed his five years of expertise in M&A and corporate finance. They outlined their respective responsibilities, including Jack's management of client relationships and sell-side deal flow, and Shams’ work on the Deal Engines project. The discussion also highlighted the company's specialization in the UK and US markets, especially with marketing agencies, and included clarifications of the team's structure. Action items were assigned, with Jack planning to follow up with Andy for a future call and Shams focusing on operational aspects with Daniel and client engagement on LinkedIn.",
+    "short_summary": "The Informal Team Catch-up and Introduction meeting aimed to foster relationships among team members while discussing their diverse backgrounds and current positions in Capital A, particularly regarding M&A activities. It began with light-hearted exchanges about the weather in London and Mumbai, leading into personal introductions where Shams shared his extensive background in finance and investment banking, while Jack highlighted his five years of experience in M&A and corporate finance. Both discussed their responsibilities, including Jack's focus on client relationships and sell-side deal flow, and Shams' involvement in the Deal Engines project. The conversation underscored the company's specialization in the UK and US markets, especially concerning marketing agencies, and clarified the team's structure. Action items were assigned, with Jack planning a follow-up call with Andy and Shams focusing on operational aspects with Daniel and enhancing client engagement through LinkedIn.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JKRE0CXAGPS04ZDZD30035EX",
+  "audio_url": "https://cdn.fireflies.ai/01JKRE0CXAGPS04ZDZD30035EX/audio.mp3?Expires=1773220880&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSktSRTBDWEFHUFMwNFpEWkQzMDAzNUVYL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg4MH19fV19&Signature=Lu3dgLfAFrI21wt5mDyI3QEOugyYUTGeWp2k~ntLy~6-u4gkpXNQVcE1lb3-bpX3isC7dBb40XOVAGzahwgcO3-icIqTm-fXlFZEEj9WwXQVdQKXKDdLlLWamtdsogutc7l2mqTaXLrzIQjNyIle24hC3oU0Ek8BMIEH0WfubSCERxYge7xKlYDMZtDRCJ7mKJBsZQ8KlheWKtRJ1TIp4pyqWSR-8LPhBHDygVSTeQejY0KoBGsuR8NSTY6ClvGfTnfKa2Dh6BhF7byJhIDm6bPGSIROJ4h6MG91bVHVgbYmIo3Us0FJejaAKjEuvvc61cFf31xGx37mryahvvFOpQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JKRE0CXAGPS04ZDZD30035EX/video.mp4?Expires=1773220880&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSktSRTBDWEFHUFMwNFpEWkQzMDAzNUVYL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg4MH19fV19&Signature=lhOo-Sw~ZzOdTY~F0kEmJ5z9TeMCz0QPKm5c6-7574unY5iiSZpo406OrGj83CCd6c-Lb10mJIcD0Vifn0jlR6rlJ8iCnvvLdo-PTvTgixoCTkrJLC91NaI1EaLPGlz-kwrqeJqIxdAdwWYedunABRAWpoPYjlLGa8UcghBvJs8sognCreHboRVV960Xih5j-yqB6fZeLx8HhwC-5q5boSRjKvJYtyhNCMj0tTlLv8jPD-22uT9mvbrGymL40bYjGRcpQubLIPpAAuMbktDteZvgPoGFTjIvy-~OAJRuFa4RWwiCHGvUVzE99v60RkSVWtYG3MFvq3rLnvpZ4R~xnQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

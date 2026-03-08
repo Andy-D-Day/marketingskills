@@ -1,0 +1,1425 @@
+{
+  "id": "7yr7mpGpILzvxC3d",
+  "title": "Jeff | Andy",
+  "date": 1733848200000,
+  "dateString": "2024-12-10T16:30:00.000Z",
+  "duration": 13,
+  "participants": [
+    "andrew.day@capitala.co,jeff.spanbauer@relevatehealth.com",
+    "jeff.spanbauer@relevatehealth.com"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jeff.spanbauer@relevatehealth.com",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hey, Andy.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 4.56,
+      "end_time": 5.448
+    },
+    {
+      "text": "Hi, Jeff.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.529,
+      "end_time": 6.121
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 6.153,
+      "end_time": 6.977
+    },
+    {
+      "text": "I'm well.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 7.161,
+      "end_time": 7.953
+    },
+    {
+      "text": "How about you?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 8.049,
+      "end_time": 9.005
+    },
+    {
+      "text": "Not well.",
+      "speaker_name": "Andy Day",
+      "start_time": 9.705,
+      "end_time": 10.633
+    },
+    {
+      "text": "Not well.",
+      "speaker_name": "Andy Day",
+      "start_time": 10.689,
+      "end_time": 11.489
+    },
+    {
+      "text": "No, I'm good.",
+      "speaker_name": "Andy Day",
+      "start_time": 11.657,
+      "end_time": 12.353
+    },
+    {
+      "text": "What's going on?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 12.449,
+      "end_time": 13.473
+    },
+    {
+      "text": "I'm on.",
+      "speaker_name": "Andy Day",
+      "start_time": 13.649,
+      "end_time": 14.409
+    },
+    {
+      "text": "I'm about day three of flu, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 14.537,
+      "end_time": 19.305
+    },
+    {
+      "text": "Oh, man.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 19.385,
+      "end_time": 20.245
+    },
+    {
+      "text": "You want to reschedule?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 21.945,
+      "end_time": 23.405
+    },
+    {
+      "text": "No, I feel good.",
+      "speaker_name": "Andy Day",
+      "start_time": 23.985,
+      "end_time": 25.017
+    },
+    {
+      "text": "I feel all right, but I just got sore throat, that's all.",
+      "speaker_name": "Andy Day",
+      "start_time": 25.081,
+      "end_time": 27.527
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 27.641,
+      "end_time": 28.251
+    },
+    {
+      "text": "Yeah, if I start coughing or choking to death, then that'll be the reason why, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 28.403,
+      "end_time": 32.787
+    },
+    {
+      "text": "Where are you at?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 32.891,
+      "end_time": 33.935
+    },
+    {
+      "text": "Well, I'm based in the uk, so I don't know how well you know, but we were about an hour and a half outside of London.",
+      "speaker_name": "Andy Day",
+      "start_time": 35.635,
+      "end_time": 44.535
+    },
+    {
+      "text": "Somerset.",
+      "speaker_name": "Andy Day",
+      "start_time": 45.515,
+      "end_time": 46.575
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 47.075,
+      "end_time": 47.895
+    },
+    {
+      "text": "That's beautiful place, huh?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 48.275,
+      "end_time": 50.015
+    },
+    {
+      "text": "It is.",
+      "speaker_name": "Andy Day",
+      "start_time": 50.515,
+      "end_time": 50.971
+    },
+    {
+      "text": "It's the countryside, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 51.003,
+      "end_time": 52.427
+    },
+    {
+      "text": "Yeah, that's great.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 52.451,
+      "end_time": 54.251
+    },
+    {
+      "text": "A lot of cows.",
+      "speaker_name": "Andy Day",
+      "start_time": 54.403,
+      "end_time": 55.455
+    },
+    {
+      "text": "It's almost nighttime over there, huh?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 56.315,
+      "end_time": 58.535
+    },
+    {
+      "text": "It is, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 59.355,
+      "end_time": 60.139
+    },
+    {
+      "text": "We're.",
+      "speaker_name": "Andy Day",
+      "start_time": 60.187,
+      "end_time": 60.507
+    },
+    {
+      "text": "It's about half full.",
+      "speaker_name": "Andy Day",
+      "start_time": 60.571,
+      "end_time": 61.815
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 62.475,
+      "end_time": 62.787
+    },
+    {
+      "text": "I've got a.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 62.811,
+      "end_time": 63.227
+    },
+    {
+      "text": "I got a daughter in Spain, so.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 63.251,
+      "end_time": 65.395
+    },
+    {
+      "text": "Oh, wow.",
+      "speaker_name": "Andy Day",
+      "start_time": 65.555,
+      "end_time": 66.035
+    },
+    {
+      "text": "She's probably.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 66.075,
+      "end_time": 66.699
+    },
+    {
+      "text": "Probably on your time timeline, you know, so.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 66.787,
+      "end_time": 69.371
+    },
+    {
+      "text": "Six hours ahead of us.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 69.483,
+      "end_time": 70.815
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 71.595,
+      "end_time": 72.375
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 72.995,
+      "end_time": 73.387
+    },
+    {
+      "text": "Another hour ahead.",
+      "speaker_name": "Andy Day",
+      "start_time": 73.411,
+      "end_time": 73.995
+    },
+    {
+      "text": "So you're on the east coast somewhere?",
+      "speaker_name": "Andy Day",
+      "start_time": 74.035,
+      "end_time": 75.855
+    },
+    {
+      "text": "Yeah, east.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 76.195,
+      "end_time": 76.731
+    },
+    {
+      "text": "I'm in Cincinnati, but Eastern time zone.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 76.763,
+      "end_time": 78.975
+    },
+    {
+      "text": "See.",
+      "speaker_name": "Andy Day",
+      "start_time": 81.035,
+      "end_time": 81.775
+    },
+    {
+      "text": "So you're based in Cincinnati.",
+      "speaker_name": "Andy Day",
+      "start_time": 82.395,
+      "end_time": 84.091
+    },
+    {
+      "text": "You're calling from Cincinnati, are you?",
+      "speaker_name": "Andy Day",
+      "start_time": 84.123,
+      "end_time": 86.139
+    },
+    {
+      "text": "Yeah, today I am, yep.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 86.307,
+      "end_time": 87.747
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 87.811,
+      "end_time": 88.051
+    },
+    {
+      "text": "We've got offices on, you know, New Jersey and in Boston as well, so.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 88.083,
+      "end_time": 91.855
+    },
+    {
+      "text": "But yeah, well, it's good to meet you.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 92.675,
+      "end_time": 94.523
+    },
+    {
+      "text": "So you're.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 94.659,
+      "end_time": 95.051
+    },
+    {
+      "text": "You sound like you're in the space helping find companies and both buying and selling.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 95.083,
+      "end_time": 100.175
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 100.755,
+      "end_time": 101.195
+    },
+    {
+      "text": "So I don't know how much you know about us, but yeah, capital A is an M and A advisory.",
+      "speaker_name": "Andy Day",
+      "start_time": 101.235,
+      "end_time": 106.979
+    },
+    {
+      "text": "We work both buy and sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 107.027,
+      "end_time": 108.795
+    },
+    {
+      "text": "We have a.",
+      "speaker_name": "Andy Day",
+      "start_time": 108.835,
+      "end_time": 109.631
+    },
+    {
+      "text": "A sell side platform.",
+      "speaker_name": "Andy Day",
+      "start_time": 109.763,
+      "end_time": 111.103
+    },
+    {
+      "text": "Agencies co.",
+      "speaker_name": "Andy Day",
+      "start_time": 111.199,
+      "end_time": 112.239
+    },
+    {
+      "text": "So marketplace for agency owners to buy and sell.",
+      "speaker_name": "Andy Day",
+      "start_time": 112.287,
+      "end_time": 116.315
+    },
+    {
+      "text": "Oh, very cool.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 116.655,
+      "end_time": 117.631
+    },
+    {
+      "text": "We represent buyers as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 117.743,
+      "end_time": 119.839
+    },
+    {
+      "text": "Working with agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 119.927,
+      "end_time": 121.995
+    },
+    {
+      "text": "Agencies co.",
+      "speaker_name": "Andy Day",
+      "start_time": 122.535,
+      "end_time": 124.155
+    },
+    {
+      "text": "Very cool.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 129.575,
+      "end_time": 130.071
+    },
+    {
+      "text": "I'll check it out.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 130.103,
+      "end_time": 131.111
+    },
+    {
+      "text": "Yeah, well, we should.",
+      "speaker_name": "Andy Day",
+      "start_time": 131.263,
+      "end_time": 132.591
+    },
+    {
+      "text": "I mean, if anything fits the bill for you, then.",
+      "speaker_name": "Andy Day",
+      "start_time": 132.663,
+      "end_time": 136.727
+    },
+    {
+      "text": "Yeah, it's quite an easy process from there.",
+      "speaker_name": "Andy Day",
+      "start_time": 136.751,
+      "end_time": 138.455
+    },
+    {
+      "text": "Just sign an NDA and one of my team will be in touch to sort of get an introduction going.",
+      "speaker_name": "Andy Day",
+      "start_time": 138.495,
+      "end_time": 146.005
+    },
+    {
+      "text": "Yeah, we're more in the buy space right now.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 146.425,
+      "end_time": 148.217
+    },
+    {
+      "text": "I've got a PE partner.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 148.241,
+      "end_time": 149.457
+    },
+    {
+      "text": "We bought four companies over the last two and a half, three years and very focused on kind of Dr.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 149.561,
+      "end_time": 156.865
+    },
+    {
+      "text": "Marketing.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 156.905,
+      "end_time": 157.289
+    },
+    {
+      "text": "HCP marketing in the pharmaceutical space is kind of our area of expertise.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 157.337,
+      "end_time": 162.045
+    },
+    {
+      "text": "So we've looked at some companies in London and Europe.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 162.665,
+      "end_time": 168.649
+    },
+    {
+      "text": "Do you guys do stuff in the US as well?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 168.777,
+      "end_time": 170.873
+    },
+    {
+      "text": "We're mostly us, actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 171.049,
+      "end_time": 172.561
+    },
+    {
+      "text": "Most of my teams in the US as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 172.593,
+      "end_time": 174.201
+    },
+    {
+      "text": "Yeah, we started in the UK, but it's a much bigger market, obviously.",
+      "speaker_name": "Andy Day",
+      "start_time": 174.233,
+      "end_time": 178.297
+    },
+    {
+      "text": "In the US so yeah, 5% of what we're doing is for American clients, both buy and sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 178.321,
+      "end_time": 185.485
+    },
+    {
+      "text": "Very cool.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 185.865,
+      "end_time": 186.845
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 187.585,
+      "end_time": 188.033
+    },
+    {
+      "text": "So I'll take a look at your agency co and I mean do you typically, is that the best way to kind of figure out what you guys.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 188.089,
+      "end_time": 194.441
+    },
+    {
+      "text": "Have available on the sell side?",
+      "speaker_name": "Andy Day",
+      "start_time": 194.473,
+      "end_time": 196.947
+    },
+    {
+      "text": "Yeah, most of it will eventually, we'll eventually get into the agencies platform but obviously we speak to agency owners all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 197.011,
+      "end_time": 206.371
+    },
+    {
+      "text": "We probably speak to about 100 new agencies each month.",
+      "speaker_name": "Andy Day",
+      "start_time": 206.403,
+      "end_time": 209.375
+    },
+    {
+      "text": "We're working with buy side clients as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 211.315,
+      "end_time": 213.771
+    },
+    {
+      "text": "So we're obviously screening a lot of buy side clients, buy side targets as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 213.803,
+      "end_time": 219.699
+    },
+    {
+      "text": "So we speak to a lot.",
+      "speaker_name": "Andy Day",
+      "start_time": 219.747,
+      "end_time": 221.033
+    },
+    {
+      "text": "Be good really to sort of have an understanding of what it is that you're looking for and then we can add that to our CRM.",
+      "speaker_name": "Andy Day",
+      "start_time": 221.219,
+      "end_time": 229.693
+    },
+    {
+      "text": "So anything that comes along that's a match, we'll be able to join the dots if it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 229.749,
+      "end_time": 235.813
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 235.869,
+      "end_time": 236.077
+    },
+    {
+      "text": "So anything that's in, you know, HCP marketing.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 236.101,
+      "end_time": 238.605
+    },
+    {
+      "text": "So healthcare professional marketing relevate is we'll probably do about 80, 80 to 83 million this year in revenue and looking to continue to scale the business.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 238.645,
+      "end_time": 250.521
+    },
+    {
+      "text": "The kind of the life science pharmaceutical marketing space is very fragmented so a lot of opportunities to continue to build out.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 250.713,
+      "end_time": 258.045
+    },
+    {
+      "text": "Kind of our area of expertise is we've developed operationalized solutions that we can deploy on behalf of our clients in more of an omnichannel way.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 258.545,
+      "end_time": 269.017
+    },
+    {
+      "text": "So we built a really strong data platform to help US understand about 1.4 million doctors behaviors and how to reach them.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 269.121,
+      "end_time": 278.299
+    },
+    {
+      "text": "And then we have about 15 different solutions that we offer our clients to engage that, that audience.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 278.387,
+      "end_time": 285.535
+    },
+    {
+      "text": "So you know, we also do have some agency business but we're trying to be more of a kind of a solutions business just with everywhere the way AI is going and everything else.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 286.475,
+      "end_time": 296.443
+    },
+    {
+      "text": "Not looking to be, you know, people heavy, we're looking to be more tech enabled.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 296.499,
+      "end_time": 301.015
+    },
+    {
+      "text": "So anything that kind of comes across your desk that you know, has pharmaceutical clients either in the, you know, the big ones or the, or the, you know, small to mid size, we work with all of them and really specializes in doctor marketing and ideally has some level of, you know, tech enablement to their business.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 301.435,
+      "end_time": 318.737
+    },
+    {
+      "text": "We'd love to keep adding to our solution set.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 318.921,
+      "end_time": 322.045
+    },
+    {
+      "text": "Right now we've focused primarily in four areas.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 322.745,
+      "end_time": 325.665
+    },
+    {
+      "text": "One is non personal promotion.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 325.745,
+      "end_time": 328.045
+    },
+    {
+      "text": "Second one is in peer to peer marketing.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 329.065,
+      "end_time": 331.137
+    },
+    {
+      "text": "So using doctors to help, you know, educate other doctors.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 331.201,
+      "end_time": 334.205
+    },
+    {
+      "text": "And then the third one is helping the reps, the sales reps that go into these offices as well as the medical science liaisons have tools to better you Know, provide more value for physicians as they work with them.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 334.365,
+      "end_time": 346.825
+    },
+    {
+      "text": "And the most recent area we've been really building out is it's called market access.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 347.405,
+      "end_time": 351.645
+    },
+    {
+      "text": "So kind of insurance company marketing.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 351.725,
+      "end_time": 353.869
+    },
+    {
+      "text": "So understanding, you know, really strongly kind of, you know, the coverage in the US and then helping to create ways to drive more prescription volume for our clients by pulling that through.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 353.917,
+      "end_time": 367.195
+    },
+    {
+      "text": "Most of our, you know, the client, most, almost all of our business goes through the HCP marketers.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 368.335,
+      "end_time": 374.095
+    },
+    {
+      "text": "There's three types of marketers that most companies most pharmaceutical brands, HCP insurance and consumer.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 374.135,
+      "end_time": 382.275
+    },
+    {
+      "text": "So at some point we'll probably want to get in the consumer space, but we're not there.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 383.055,
+      "end_time": 386.871
+    },
+    {
+      "text": "So it's pretty much HCP marketing is probably 95% of our, the HCP marketer spent.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 386.903,
+      "end_time": 392.735
+    },
+    {
+      "text": "You know, that's where our budgets come from.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 392.775,
+      "end_time": 394.519
+    },
+    {
+      "text": "And maybe, you know, a smaller amount right now is coming through the insurance marketer.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 394.647,
+      "end_time": 398.631
+    },
+    {
+      "text": "So anything that kind of hits those two marketers and the line items they have in their budgets, that, that's something we'd be interested in talking to that partner and you know, talking to that agency and, or you know, technology enabled solution and you know, see if they want to join the relevant family.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 398.783,
+      "end_time": 413.835
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.185,
+      "end_time": 414.649
+    },
+    {
+      "text": "Yeah, so it's, it's fairly niche mind.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.697,
+      "end_time": 416.497
+    },
+    {
+      "text": "You've made it into a big niche with 82 million in revenue.",
+      "speaker_name": "Andy Day",
+      "start_time": 416.521,
+      "end_time": 419.089
+    },
+    {
+      "text": "So congratulations on that.",
+      "speaker_name": "Andy Day",
+      "start_time": 419.137,
+      "end_time": 420.537
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 420.561,
+      "end_time": 420.769
+    },
+    {
+      "text": "And we're like, you know, there's the companies that are doing, you know, five times, 10 times bigger than us.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 420.817,
+      "end_time": 425.529
+    },
+    {
+      "text": "It's pretty funny, you know, how niche it is.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 425.617,
+      "end_time": 427.785
+    },
+    {
+      "text": "But to me now, $30 billion market with consumer market, you know, with both HCP and consumer in the h, in the pharmaceutical space.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 427.825,
+      "end_time": 435.977
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 436.041,
+      "end_time": 436.645
+    },
+    {
+      "text": "We do have, we do have something on the consumer side actually it works with a big pharma company.",
+      "speaker_name": "Andy Day",
+      "start_time": 439.385,
+      "end_time": 444.465
+    },
+    {
+      "text": "They were a British company but are now mostly based in Los Angeles.",
+      "speaker_name": "Andy Day",
+      "start_time": 445.325,
+      "end_time": 450.865
+    },
+    {
+      "text": "So what would you be looking for in terms of skill sets?",
+      "speaker_name": "Andy Day",
+      "start_time": 452.485,
+      "end_time": 454.885
+    },
+    {
+      "text": "What services are you looking for?",
+      "speaker_name": "Andy Day",
+      "start_time": 454.925,
+      "end_time": 457.565
+    },
+    {
+      "text": "Is it.",
+      "speaker_name": "Andy Day",
+      "start_time": 457.605,
+      "end_time": 458.117
+    },
+    {
+      "text": "Well, consumers probably we probably are going to have to shake hands with our current financial sponsor because they're thinking, you know, probably end of 25, 26, we're going to go to market and find our next partner.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 458.221,
+      "end_time": 471.235
+    },
+    {
+      "text": "So I would, I think they're going to be very focused and I would agree, like we should really continue to focus on HCP marketing at this point.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 472.135,
+      "end_time": 478.887
+    },
+    {
+      "text": "But post 26, you know, when we have a new partner then we want to probably get like, I would say a 5 to $10 million EBITDA company in the consumer space that focuses on pharma.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 479.031,
+      "end_time": 488.927
+    },
+    {
+      "text": "I'd want it to be big Enough that we're not, you know, we're not trying to teach them how to do it.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 489.071,
+      "end_time": 494.083
+    },
+    {
+      "text": "Like they already have a really solid model.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 494.139,
+      "end_time": 496.375
+    },
+    {
+      "text": "But in the short term, anything between 2 to 5 million of EBITDA would probably be a good fit for us on the HCP marketing side.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 497.395,
+      "end_time": 507.099
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 507.227,
+      "end_time": 507.787
+    },
+    {
+      "text": "So it's very niche, but that's brilliant because anything that we come across, think about it, 100%.",
+      "speaker_name": "Andy Day",
+      "start_time": 507.891,
+      "end_time": 514.859
+    },
+    {
+      "text": "Okay, so it's 2 to 5 million.",
+      "speaker_name": "Andy Day",
+      "start_time": 514.987,
+      "end_time": 517.563
+    },
+    {
+      "text": "EBITDA HCP marketing, ideally a little more tech enabled data and tech enabled than just a typical agency.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 517.619,
+      "end_time": 525.745
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 528.045,
+      "end_time": 528.797
+    },
+    {
+      "text": "All right, that's brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 528.941,
+      "end_time": 529.813
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 529.869,
+      "end_time": 530.149
+    },
+    {
+      "text": "All right, I'll get one of our guys to go through our CRM and see what we've got.",
+      "speaker_name": "Andy Day",
+      "start_time": 530.197,
+      "end_time": 536.985
+    },
+    {
+      "text": "We have been working on a couple of health care things, so we should have some leads in there that could be a fit.",
+      "speaker_name": "Andy Day",
+      "start_time": 537.325,
+      "end_time": 544.557
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 544.741,
+      "end_time": 545.149
+    },
+    {
+      "text": "And you know, and then once we, if you add some leads, I'd, you know, tee up a meeting with us, our PE firm and our management team to kind of evaluate what you got and see if there's an opportunity to kind of partner with those guys and move this thing forward.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 545.197,
+      "end_time": 556.909
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 556.997,
+      "end_time": 557.557
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 557.701,
+      "end_time": 558.173
+    },
+    {
+      "text": "Okay, that sounds great.",
+      "speaker_name": "Andy Day",
+      "start_time": 558.229,
+      "end_time": 559.421
+    },
+    {
+      "text": "All right, well, that was less an uncomplicated meeting.",
+      "speaker_name": "Andy Day",
+      "start_time": 559.533,
+      "end_time": 563.345
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 563.685,
+      "end_time": 564.037
+    },
+    {
+      "text": "Well, I got one other one I'm working on too is do you have anything in the sports marketing space?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 564.061,
+      "end_time": 568.625
+    },
+    {
+      "text": "We do.",
+      "speaker_name": "Andy Day",
+      "start_time": 569.525,
+      "end_time": 570.477
+    },
+    {
+      "text": "We've got a few different things in sports marketing for sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 570.661,
+      "end_time": 573.501
+    },
+    {
+      "text": "What is your interest in that space?",
+      "speaker_name": "Andy Day",
+      "start_time": 573.613,
+      "end_time": 575.505
+    },
+    {
+      "text": "So I'm spinning up a company like I bought part of a minor league, a couple minor league baseball teams.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 575.645,
+      "end_time": 581.525
+    },
+    {
+      "text": "So probably not a sport you're super excited about, but it's pretty, you know, it's pretty nice sport here in the US and it's become really clear to me kind of being a part owner, these teams have very little marketing acumen and are just basically spraying and praying with, you know, different media and social and email campaigns.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 582.345,
+      "end_time": 601.925
+    },
+    {
+      "text": "So I've found a few people that are willing to come help me spin up kind of a marketing firm that focuses on sports.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 602.645,
+      "end_time": 612.025
+    },
+    {
+      "text": "And really how do you activate, how do you use data to then surround sound of consumer and get them to remember there's opportunities to go to these venues on a regular basis.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 612.325,
+      "end_time": 624.285
+    },
+    {
+      "text": "So it's probably, I mean there's probably a little bit of media in it with social and display.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 624.365,
+      "end_time": 629.705
+    },
+    {
+      "text": "But also, you know, we're building the data spine, you know, similar to relevate, building the data spine.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 630.105,
+      "end_time": 635.057
+    },
+    {
+      "text": "This is called Revelocity Sports.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 635.241,
+      "end_time": 637.769
+    },
+    {
+      "text": "And yeah, so you know, if they have clients in the minor league space, whether it's baseball, hockey, soccer, Like, I'd be interested in kind of taking that and helping us, you know, purchase it and then scale it.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 637.897,
+      "end_time": 652.005
+    },
+    {
+      "text": "Because it seems like there's this, especially with all the PE money rolling into sports now in the US there's.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 652.305,
+      "end_time": 657.041
+    },
+    {
+      "text": "There's going to be a lot of professionalization that happens in this space and so.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 657.153,
+      "end_time": 660.765
+    },
+    {
+      "text": "And my teams could really use it, so that's good.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 661.105,
+      "end_time": 663.545
+    },
+    {
+      "text": "And then on top of that, I think there's very little marketing acumen right now in the, kind of.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 663.585,
+      "end_time": 668.353
+    },
+    {
+      "text": "At least in the minor leagues.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 668.369,
+      "end_time": 669.441
+    },
+    {
+      "text": "I'm not seeing a ton of the major leagues either around data and tech.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 669.513,
+      "end_time": 672.441
+    },
+    {
+      "text": "A lot of creativity, but not a lot of.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 672.593,
+      "end_time": 674.537
+    },
+    {
+      "text": "Kind of what I call activation capabilities.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 674.601,
+      "end_time": 677.085
+    },
+    {
+      "text": "Does that make sense?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 684.835,
+      "end_time": 686.055
+    },
+    {
+      "text": "Yeah, we, we do.",
+      "speaker_name": "Andy Day",
+      "start_time": 687.155,
+      "end_time": 688.259
+    },
+    {
+      "text": "We do have something actually on the west coast, so I see a film and production.",
+      "speaker_name": "Andy Day",
+      "start_time": 688.307,
+      "end_time": 693.067
+    },
+    {
+      "text": "Well, is it around military and sports media marketing?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 693.131,
+      "end_time": 696.571
+    },
+    {
+      "text": "That one.",
+      "speaker_name": "Andy Day",
+      "start_time": 696.683,
+      "end_time": 697.131
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 697.163,
+      "end_time": 697.815
+    },
+    {
+      "text": "I mean, they do have a military thing as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 698.755,
+      "end_time": 700.787
+    },
+    {
+      "text": "They've got an audience with a lot of military families, but they have this sports media part of it.",
+      "speaker_name": "Andy Day",
+      "start_time": 700.811,
+      "end_time": 708.011
+    },
+    {
+      "text": "Let me do some digging around and see if that's going to be a fit.",
+      "speaker_name": "Andy Day",
+      "start_time": 708.163,
+      "end_time": 711.203
+    },
+    {
+      "text": "I mean, they, I, I know they are creating content for that market that you're talking about.",
+      "speaker_name": "Andy Day",
+      "start_time": 711.259,
+      "end_time": 716.715
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 717.015,
+      "end_time": 717.743
+    },
+    {
+      "text": "So it's like college football and things like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 717.879,
+      "end_time": 720.319
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 720.487,
+      "end_time": 720.951
+    },
+    {
+      "text": "I mean, I'd definitely be interested in taking a look.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 721.023,
+      "end_time": 722.847
+    },
+    {
+      "text": "Like, how big are they?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 722.911,
+      "end_time": 723.847
+    },
+    {
+      "text": "They're asking five and a half and they got an EID of a million, so.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 723.911,
+      "end_time": 727.175
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 727.295,
+      "end_time": 727.911
+    },
+    {
+      "text": "Is that the one you're talking about?",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 728.063,
+      "end_time": 729.511
+    },
+    {
+      "text": "Yeah, that's the one.",
+      "speaker_name": "Andy Day",
+      "start_time": 729.663,
+      "end_time": 730.487
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 730.511,
+      "end_time": 731.115
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 731.415,
+      "end_time": 731.887
+    },
+    {
+      "text": "I mean, I'm not sure if that's exactly what we're looking for, because it's got.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 731.951,
+      "end_time": 735.015
+    },
+    {
+      "text": "The military thing isn't.",
+      "speaker_name": "Andy Day",
+      "start_time": 735.175,
+      "end_time": 736.415
+    },
+    {
+      "text": "It's not a fit, and it is a big part of what they do, but they do have this sports thing that is a fit with what you.",
+      "speaker_name": "Andy Day",
+      "start_time": 736.535,
+      "end_time": 742.137
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 742.201,
+      "end_time": 742.825
+    },
+    {
+      "text": "All right, well, I'd be great.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 742.985,
+      "end_time": 744.009
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 744.057,
+      "end_time": 744.257
+    },
+    {
+      "text": "So I'll.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 744.281,
+      "end_time": 744.649
+    },
+    {
+      "text": "And I'll run this by my team and on the Revelocity side, but my main focus is relevate right now because that.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 744.697,
+      "end_time": 750.625
+    },
+    {
+      "text": "I got a lot of.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 750.665,
+      "end_time": 751.537
+    },
+    {
+      "text": "A lot of financial interest there and it's, you know, one of my babies, so.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 751.641,
+      "end_time": 755.753
+    },
+    {
+      "text": "But yeah, I mean, if you see anything in the sports, you know, just keep that in the back of your mind.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 755.929,
+      "end_time": 759.241
+    },
+    {
+      "text": "That's something else I'm trying to build out as well.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 759.273,
+      "end_time": 761.485
+    },
+    {
+      "text": "Okay, perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 761.785,
+      "end_time": 762.721
+    },
+    {
+      "text": "I will do.",
+      "speaker_name": "Andy Day",
+      "start_time": 762.793,
+      "end_time": 763.465
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 763.545,
+      "end_time": 763.881
+    },
+    {
+      "text": "I've got a meeting with my team tomorrow, and when I catch up with them, I will go through all of the stuff that you're looking at at the moment, see where there's a fit that we've got on the.",
+      "speaker_name": "Andy Day",
+      "start_time": 763.913,
+      "end_time": 772.829
+    },
+    {
+      "text": "Sounds great, Andy.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 772.877,
+      "end_time": 773.517
+    },
+    {
+      "text": "Well, appreciate you reaching out.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 773.541,
+      "end_time": 774.773
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 774.829,
+      "end_time": 775.021
+    },
+    {
+      "text": "And I hope you.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 775.053,
+      "end_time": 775.677
+    },
+    {
+      "text": "I hope you recover here quickly.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 775.701,
+      "end_time": 777.625
+    },
+    {
+      "text": "I'm sure I will.",
+      "speaker_name": "Andy Day",
+      "start_time": 777.925,
+      "end_time": 778.853
+    },
+    {
+      "text": "I'm on the last day, but I'm sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 778.949,
+      "end_time": 780.749
+    },
+    {
+      "text": "That sounds great.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 780.917,
+      "end_time": 781.581
+    },
+    {
+      "text": "Well, nice meeting you.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 781.613,
+      "end_time": 782.325
+    },
+    {
+      "text": "Looking forward.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 782.365,
+      "end_time": 782.749
+    },
+    {
+      "text": "Yeah, pleasure.",
+      "speaker_name": "Andy Day",
+      "start_time": 782.797,
+      "end_time": 783.725
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 783.885,
+      "end_time": 784.205
+    },
+    {
+      "text": "Looking forward to working together.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 784.245,
+      "end_time": 785.425
+    },
+    {
+      "text": "Me, too.",
+      "speaker_name": "Andy Day",
+      "start_time": 785.765,
+      "end_time": 786.493
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 786.589,
+      "end_time": 786.877
+    },
+    {
+      "text": "Enjoy the rest of your day, Jeff.",
+      "speaker_name": "Andy Day",
+      "start_time": 786.901,
+      "end_time": 788.189
+    },
+    {
+      "text": "Thanks a lot.",
+      "speaker_name": "Andy Day",
+      "start_time": 788.237,
+      "end_time": 788.909
+    },
+    {
+      "text": "We'll speak soon.",
+      "speaker_name": "Andy Day",
+      "start_time": 788.997,
+      "end_time": 790.061
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 790.253,
+      "end_time": 790.661
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Jeff Spanbauer",
+      "start_time": 790.693,
+      "end_time": 790.837
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "HCP marketing",
+      "pharmaceutical",
+      "M&A",
+      "tech-enabled solutions",
+      "sports marketing",
+      "data-driven"
+    ],
+    "action_items": "\n**Andy Day**\nReview CRM for potential matches in HCP marketing space (02:56)\nSet up a meeting with Jeff, PE firm, and management team to evaluate potential leads (09:05)\nResearch and provide more information on the west coast sports media company (11:37)\nDiscuss Jeff's interests with team in upcoming meeting (12:42)\n\n**Jeff Spanbauer**\nReview information on west coast sports media company with Revelocity team (12:24)\n",
+    "outline": null,
+    "overview": "In a Business Development and Potential Partnership Discussion meeting, Andy from Capital A and Jeff from Relevate engaged in an introductory exchange, discussing their backgrounds and locations. Andy outlined Capital A's services as a sell-side M&A advisory, while Jeff provided insights into Relevate's focus on healthcare professional marketing, emphasizing their strong revenue and active acquisition strategy. They explored Jeff's criteria for potential acquisitions, highlighting an interest in tech-enabled companies within the healthcare sector, and discussed opportunities in sports marketing through Jeff's involvement in minor league baseball and his new venture, Revelocity Sports. They identified potential matches for collaboration, particularly in the health marketing and sports sectors, and agreed on next steps, including follow-up meetings and further research on potential partnership opportunities.",
+    "short_summary": "In a meeting between Andy from Capital A and Jeff from Relevate, both participants introduced themselves and discussed their respective companies. Andy outlined Capital A's role as a sell-side M&A advisory firm, primarily serving the US market, while Jeff highlighted Relevate's focus on healthcare professional marketing, reporting projected revenues between $80-83 million and a strong acquisition strategy. Jeff shared his criteria for acquisitions, including a preference for tech-enabled companies in the healthcare sector with $2-5 million EBITDA. The conversation also touched on Jeff's involvement in minor league baseball and his new venture, Revelocity Sports, indicating a potential interest in sports marketing. They concluded with a plan for follow-up discussions and further exploration of partnership opportunities in health marketing and sports sectors.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/7yr7mpGpILzvxC3d",
+  "audio_url": "https://cdn.fireflies.ai/7yr7mpGpILzvxC3d/audio.mp3?Expires=1773225079&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzd5cjdtcEdwSUx6dnhDM2QvYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDc5fX19XX0_&Signature=XSNLz1uutz3u-MaamDAA8ZtwKbUKJyARh-srjX5FbG24y~eSQRuKvi4ywvdINkGn3Coo9tJy2k6DKlzTLDkeV11-D8P2jn6HPHUoEBSV~SaVnrI41gPOQmpP6MDs4cpSAoHfWFAGP4bXZ~IVlTDNkYoixy0hmqr09bljt~b-PfBo1M7HMLeWosbDXMeL9g9-Hel-IQQS-j1EuagjAJos0Ji8eJU7618eGRBwjAwfrYL0VsucLz8E1GfnFIhGzkxtrkO7dSnQpaWgo2O-XyCbttq2F1ijnNR6l18eOVXtA6onK7tUpKNJ6CMrKu9qg46uJTqQEm74lLnj6mktsOC~Lg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/7yr7mpGpILzvxC3d/video.mp4?Expires=1773225079&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzd5cjdtcEdwSUx6dnhDM2QvdmlkZW8ubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MDc5fX19XX0_&Signature=Oo7npsp5q9~aQT25zAUR2zN4F~jR~EnO5VSGnjETShhaAJ-MBM4wkkLLYT0-Y6jzBZscC7QTNStYF1gyRibjN-ZMjfB-8G~adK7t35bBquavpmDRw1FoRIX-GSSGHgg7CLh~Y5uqwmFu561FacPTpq3nneEys8GLa4LydKpOIVhpIbcQJxKN3zkdzH44i4ZFA7Qcs678Gj2NQBMnYsoEvsdzha7385Ht0RSwdP59MFgO~zM7upY5oH7EDXbX7BE1~lam1ysGHOErAHuQEVvqQ35p9iGBOz4dYzxU9l053VFpTVC78OYxad1JPmjhCTOid5sEUrkpuUekJvH3C1TM~w__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

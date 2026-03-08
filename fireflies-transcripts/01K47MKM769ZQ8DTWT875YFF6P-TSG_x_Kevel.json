@@ -1,0 +1,3823 @@
+{
+  "id": "01K47MKM769ZQ8DTWT875YFF6P",
+  "title": "TSG x Kevel",
+  "date": 1757005200000,
+  "dateString": "2025-09-04T17:00:00.000Z",
+  "duration": 51.060001373291016,
+  "participants": [
+    "mnewcomb@kevel.com,andrew.day@capitala.co,stuart.tiedeman@rmi.co,ahmed.zia@capitala.co,matt.simpson@rmi.co,andy.day@capitala.co",
+    "mnewcomb@kevel.com",
+    "andrew.day@capitala.co",
+    "stuart.tiedeman@rmi.co",
+    "matt.simpson@rmi.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "mnewcomb@kevel.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "stuart.tiedeman@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "matt.simpson@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Yeah, I was working in London today.",
+      "speaker_name": "stuart",
+      "start_time": 0.16,
+      "end_time": 1.68
+    },
+    {
+      "text": "Came back so this meeting is being recorded.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1.92,
+      "end_time": 5.44
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 8,
+      "end_time": 8.4
+    },
+    {
+      "text": "So who?",
+      "speaker_name": "stuart",
+      "start_time": 10.56,
+      "end_time": 11.36
+    },
+    {
+      "text": "Matthew.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 13.44,
+      "end_time": 14
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 17.04,
+      "end_time": 17.52
+    },
+    {
+      "text": "Hello Matthew.",
+      "speaker_name": "stuart",
+      "start_time": 20.32,
+      "end_time": 21.2
+    },
+    {
+      "text": "Hi, how you doing?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 21.6,
+      "end_time": 22.8
+    },
+    {
+      "text": "Very well, thank you.",
+      "speaker_name": "stuart",
+      "start_time": 23.28,
+      "end_time": 24.64
+    },
+    {
+      "text": "Hi Matt, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 25.77,
+      "end_time": 27.05
+    },
+    {
+      "text": "Yeah, I'm good, thanks Andy, how are you?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 27.45,
+      "end_time": 29.21
+    },
+    {
+      "text": "Yeah, not too bad, not too bad.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.93,
+      "end_time": 31.77
+    },
+    {
+      "text": "Looking forward to my dinner.",
+      "speaker_name": "Andy Day",
+      "start_time": 31.77,
+      "end_time": 33.13
+    },
+    {
+      "text": "So hopefully this now along as it.",
+      "speaker_name": "Andy Day",
+      "start_time": 33.21,
+      "end_time": 37.29
+    },
+    {
+      "text": "As it turns out my previous call moved so.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 37.29,
+      "end_time": 39.85
+    },
+    {
+      "text": "But it was a bit late at that point to.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 39.93,
+      "end_time": 41.61
+    },
+    {
+      "text": "To let you know.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 42.17,
+      "end_time": 42.89
+    },
+    {
+      "text": "But thanks for mnewcomb.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 42.89,
+      "end_time": 44.33
+    },
+    {
+      "text": "Where are you based, Matthew?",
+      "speaker_name": "stuart",
+      "start_time": 45.53,
+      "end_time": 46.89
+    },
+    {
+      "text": "I'm in London right now, so yeah, I assume you guys are somewhere.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 47.77,
+      "end_time": 52.09
+    },
+    {
+      "text": "Somewhere.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 52.17,
+      "end_time": 52.73
+    },
+    {
+      "text": "Somewhere in the vicinity.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 53.57,
+      "end_time": 54.77
+    },
+    {
+      "text": "Indeed.",
+      "speaker_name": "stuart",
+      "start_time": 55.17,
+      "end_time": 55.69
+    },
+    {
+      "text": "Yeah, I was actually in town today.",
+      "speaker_name": "stuart",
+      "start_time": 55.69,
+      "end_time": 56.93
+    },
+    {
+      "text": "We got some office space near Holborn, but I came back.",
+      "speaker_name": "stuart",
+      "start_time": 56.93,
+      "end_time": 60.29
+    },
+    {
+      "text": "I live near Hampton Court actually South West London.",
+      "speaker_name": "stuart",
+      "start_time": 60.37,
+      "end_time": 63.45
+    },
+    {
+      "text": "Oh, okay, look, I'm.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 63.45,
+      "end_time": 64.93
+    },
+    {
+      "text": "I'm in Richmond so there you go.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 65.73,
+      "end_time": 68.61
+    },
+    {
+      "text": "Open the window and shout probably.",
+      "speaker_name": "stuart",
+      "start_time": 70.21,
+      "end_time": 72.37
+    },
+    {
+      "text": "Well, thank.",
+      "speaker_name": "Andy Day",
+      "start_time": 74.77,
+      "end_time": 75.49
+    },
+    {
+      "text": "Thanks for coming Matt.",
+      "speaker_name": "Andy Day",
+      "start_time": 75.49,
+      "end_time": 77.29
+    },
+    {
+      "text": "And yeah, really keen to get this discussion started.",
+      "speaker_name": "Andy Day",
+      "start_time": 77.29,
+      "end_time": 80.93
+    },
+    {
+      "text": "Actually having looked at the range of products and services that you guys do is kind of an uncanny fit really with tsg.",
+      "speaker_name": "Andy Day",
+      "start_time": 81.01,
+      "end_time": 92.35
+    },
+    {
+      "text": "You've got some, I wouldn't say they quite overlap, but you have some services that are very closely aligned particularly around the ad server stuff that you're doing with supermarkets and your client network.",
+      "speaker_name": "Andy Day",
+      "start_time": 93.31,
+      "end_time": 108.51
+    },
+    {
+      "text": "So I'll allow you guys to introduce yourself and hopefully if I'm right, Stuart has a small demo as well of the software platform that they have which I think will get you extremely excited with some ideas of how you guys can fit together.",
+      "speaker_name": "Andy Day",
+      "start_time": 109.55,
+      "end_time": 126.98
+    },
+    {
+      "text": "So over to you Stuart.",
+      "speaker_name": "Andy Day",
+      "start_time": 127.86,
+      "end_time": 129.06
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "stuart",
+      "start_time": 130.1,
+      "end_time": 130.58
+    },
+    {
+      "text": "I mean we thought it might be useful for you to have a look at just a little bit behind the curtain, Matthew, just at what our platform does because we've only sort of got limited stuff out in the public domain because we're kind of rebranding and relaunching as we speak.",
+      "speaker_name": "stuart",
+      "start_time": 130.58,
+      "end_time": 144.66
+    },
+    {
+      "text": "What would be really super is if you maybe just gave a 60 second synopsis about what you're expecting to see or hoping to have from a kind of partnership and or investment opportunity with us, just so I can maybe tick some of the boxes as I spend 15, 20 minutes showing you.",
+      "speaker_name": "stuart",
+      "start_time": 145.88,
+      "end_time": 163.32
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 164.2,
+      "end_time": 164.92
+    },
+    {
+      "text": "So I'm comparatively new to kevel.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 165.4,
+      "end_time": 168.04
+    },
+    {
+      "text": "I came from a business called Azerian.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 168.52,
+      "end_time": 170.68
+    },
+    {
+      "text": "I was previously running a business called Inskin Media.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 172.11,
+      "end_time": 174.67
+    },
+    {
+      "text": "We sold that business to Azeria and it did a three year run out.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 174.91,
+      "end_time": 177.63
+    },
+    {
+      "text": "Spent three years running their UK US operation.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 178.59,
+      "end_time": 181.39
+    },
+    {
+      "text": "Anyway, the reason I'm raising it is as part of that we made a number of sort of acquisitions.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 181.39,
+      "end_time": 186.55
+    },
+    {
+      "text": "I wasn't really involved in the divestments that happened, but certainly Sort of a number of acquisitions.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 186.55,
+      "end_time": 192.99
+    },
+    {
+      "text": "Sometimes they started off, you're right, as conversations that turn into partnership conversations and sometimes there were partnerships that turned into M and a conversation.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 193.39,
+      "end_time": 201.79
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 201.79,
+      "end_time": 202.19
+    },
+    {
+      "text": "kevel is a business I joined three months ago.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 203.97,
+      "end_time": 207.13
+    },
+    {
+      "text": "Basically I was a kevel customer in one day back in the past and the CEO of kevel was a shareholder in the business that I sold.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 207.13,
+      "end_time": 220.85
+    },
+    {
+      "text": "So got quite a long history but never really worked for each other.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 220.85,
+      "end_time": 224.61
+    },
+    {
+      "text": "So that's just a little bit of background.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 224.85,
+      "end_time": 227.73
+    },
+    {
+      "text": "There's sort of a couple of things here.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 229.75,
+      "end_time": 231.11
+    },
+    {
+      "text": "I think, you know, kevel has been on a really strong growth journey over the last three years.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 231.11,
+      "end_time": 238.15
+    },
+    {
+      "text": "In particular, I've come into the business really to help, let's say, drive liquidity for the retail media networks that we power.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 238.15,
+      "end_time": 247.67
+    },
+    {
+      "text": "In other words, you know, ultimately the proof of the pudding is in how much money flows through the P and L rather than just having, you know, we have great tech, but ultimately ad programs kind of stand or fail on the, on the revenues they deliver to the end user.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 248.55,
+      "end_time": 264.6
+    },
+    {
+      "text": "So that's a little bit sort of the context that, that I've sort of come in at.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 264.6,
+      "end_time": 269.6
+    },
+    {
+      "text": "We are quite open minded about how we're going to sort of approach that and one of the possibilities is to start to work with and, or acquire, you know, a business that's kind of operating in sort of similar space.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 271.92,
+      "end_time": 283.6
+    },
+    {
+      "text": "But so yeah, that's, that's, that's a, I suppose a little bit of the context, if that's helpful.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 283.68,
+      "end_time": 288.82
+    },
+    {
+      "text": "It is.",
+      "speaker_name": "stuart",
+      "start_time": 289.46,
+      "end_time": 290.02
+    },
+    {
+      "text": "I, I'm just, just gone.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 290.82,
+      "end_time": 293.02
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "stuart",
+      "start_time": 293.02,
+      "end_time": 293.3
+    },
+    {
+      "text": "Your point about hitting the high notes.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 293.3,
+      "end_time": 295.06
+    },
+    {
+      "text": "I think I'm, I'm more interested in, you know, most interested in, you know, your description of the business, you know, kind of size, what it's up to, what the P L looks like and maybe do kind of, maybe less on the platform demo in this call, but possibly in a subsequent call.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 295.38,
+      "end_time": 312.1
+    },
+    {
+      "text": "So unless, I mean, I'm not, let's.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 312.82,
+      "end_time": 315.5
+    },
+    {
+      "text": "Say.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 315.5,
+      "end_time": 315.78
+    },
+    {
+      "text": "Not trying to be too prescriptive but just understanding the, you know, having a stronger sense of the fit first up and then we can kind of go from there.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 317.54,
+      "end_time": 326.42
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "stuart",
+      "start_time": 326.98,
+      "end_time": 327.5
+    },
+    {
+      "text": "That's perfect.",
+      "speaker_name": "stuart",
+      "start_time": 327.5,
+      "end_time": 328.02
+    },
+    {
+      "text": "Thank you, Matthew.",
+      "speaker_name": "stuart",
+      "start_time": 328.02,
+      "end_time": 328.739
+    },
+    {
+      "text": "So, yeah, look, we are essentially a tech company.",
+      "speaker_name": "stuart",
+      "start_time": 328.739,
+      "end_time": 333.62
+    },
+    {
+      "text": "That was not necessarily how we started.",
+      "speaker_name": "stuart",
+      "start_time": 334.26,
+      "end_time": 337.22
+    },
+    {
+      "text": "We started about 18 years ago and it was Covid actually Matthew, that really changed things for us.",
+      "speaker_name": "stuart",
+      "start_time": 337.86,
+      "end_time": 344.34
+    },
+    {
+      "text": "You know, we were at this sort of outset at the heart of retail media.",
+      "speaker_name": "stuart",
+      "start_time": 344.34,
+      "end_time": 348.58
+    },
+    {
+      "text": "We represented retailers primarily at the time and essentially came about finding ourselves developing a platform because there was nothing else in the market at the time that could do anything Remotely close.",
+      "speaker_name": "stuart",
+      "start_time": 349.62,
+      "end_time": 359.14
+    },
+    {
+      "text": "I still don't think there is actually, you know, people have tried to fit Salesforce into that space and you know, ultimately there is no real operating system that is existing now for retailers and or brand owners to really get them most out of the retail media investments.",
+      "speaker_name": "stuart",
+      "start_time": 359.14,
+      "end_time": 373.28
+    },
+    {
+      "text": "Clearly there's been a lot of digitization on site stuff.",
+      "speaker_name": "stuart",
+      "start_time": 373.44,
+      "end_time": 376.32
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "stuart",
+      "start_time": 376.32,
+      "end_time": 376.72
+    },
+    {
+      "text": "You know, off site stuff.",
+      "speaker_name": "stuart",
+      "start_time": 376.72,
+      "end_time": 377.76
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "stuart",
+      "start_time": 377.76,
+      "end_time": 378.12
+    },
+    {
+      "text": "There's digitization of in store as well of course.",
+      "speaker_name": "stuart",
+      "start_time": 378.12,
+      "end_time": 380.32
+    },
+    {
+      "text": "But you know we, we grew up with understanding the store environment which is clearly where still a lot of the addressable market actually is because you can influence people when they're in store.",
+      "speaker_name": "stuart",
+      "start_time": 381.44,
+      "end_time": 391.36
+    },
+    {
+      "text": "Increasingly agentic AI is going to make it increasingly harder and harder for ad servers to kind of reach people or influence them while they're shopping.",
+      "speaker_name": "stuart",
+      "start_time": 391.6,
+      "end_time": 398.96
+    },
+    {
+      "text": "So we found ourselves seven or eight years ago working very closely with NECT TSG.",
+      "speaker_name": "stuart",
+      "start_time": 399.04,
+      "end_time": 403.98
+    },
+    {
+      "text": "So we still to this day look after Sainsbury's and Argos.",
+      "speaker_name": "stuart",
+      "start_time": 403.98,
+      "end_time": 406.46
+    },
+    {
+      "text": "We are the backbone of their operating system.",
+      "speaker_name": "stuart",
+      "start_time": 406.62,
+      "end_time": 408.58
+    },
+    {
+      "text": "We're powering Pollen which they're making a big song and dance about having launched that recently in can.",
+      "speaker_name": "stuart",
+      "start_time": 408.58,
+      "end_time": 413.1
+    },
+    {
+      "text": "But we have had a model where we've been looking after large retailers for that.",
+      "speaker_name": "stuart",
+      "start_time": 414.14,
+      "end_time": 417.34
+    },
+    {
+      "text": "CWH Smith, Iceland, Morrisons and you know, they've all used our operating system and we have had a commission based structure which meant that we kind of, if we were successful in growing their retail media income we would share in the upside.",
+      "speaker_name": "stuart",
+      "start_time": 417.34,
+      "end_time": 433.82
+    },
+    {
+      "text": "And what happened was, is that we're bloody good at what we do.",
+      "speaker_name": "stuart",
+      "start_time": 434.75,
+      "end_time": 437.83
+    },
+    {
+      "text": "Matthew we went in and we've doubled like revenue with next360 we start when they're doing 26 million pound a year.",
+      "speaker_name": "stuart",
+      "start_time": 437.83,
+      "end_time": 446.03
+    },
+    {
+      "text": "They're now doing closer to 350 million pound a year.",
+      "speaker_name": "stuart",
+      "start_time": 446.03,
+      "end_time": 449.23
+    },
+    {
+      "text": "So we've seen that trajectory and it's pretty massive now when we've doubled Iceland's income and WH Smith's income they've realized that that's actually very expensive and we've had to pivot to now becoming a tech only business because for example our latest client was in Australia, EGL Endeavour Group.",
+      "speaker_name": "stuart",
+      "start_time": 449.39,
+      "end_time": 467.43
+    },
+    {
+      "text": "They run Dan Murphy's and bws, the largest liquor store chain over in Australia.",
+      "speaker_name": "stuart",
+      "start_time": 467.67,
+      "end_time": 472.95
+    },
+    {
+      "text": "And they were sunsetted from a system called BrandCrush which was owned and operated by Ko.",
+      "speaker_name": "stuart",
+      "start_time": 474.55,
+      "end_time": 481.19
+    },
+    {
+      "text": "They decided to use our system we're up running and it does really interesting things.",
+      "speaker_name": "stuart",
+      "start_time": 481.19,
+      "end_time": 485.99
+    },
+    {
+      "text": "So for example I had a look at kevel and what you guys do.",
+      "speaker_name": "stuart",
+      "start_time": 485.99,
+      "end_time": 489.43
+    },
+    {
+      "text": "I think the crossover is really good because you seem to be doing really sort of targeted demographic, targeted digital campaigns for consumers who are shopping in an environment we do that but within this kind of store environment as well.",
+      "speaker_name": "stuart",
+      "start_time": 489.99,
+      "end_time": 501.59
+    },
+    {
+      "text": "So we can actually drill right down to say, right, what stores out?",
+      "speaker_name": "stuart",
+      "start_time": 501.59,
+      "end_time": 505.43
+    },
+    {
+      "text": "3,000 stores stock these four products.",
+      "speaker_name": "stuart",
+      "start_time": 505.43,
+      "end_time": 507.75
+    },
+    {
+      "text": "The answer is 1,820 stores.",
+      "speaker_name": "stuart",
+      "start_time": 508.71,
+      "end_time": 511.27
+    },
+    {
+      "text": "Out of those 1,180 stores.",
+      "speaker_name": "stuart",
+      "start_time": 511.35,
+      "end_time": 513.35
+    },
+    {
+      "text": "If we start to apply geodegraphic profiling, like what's the share of proportion of sales?",
+      "speaker_name": "stuart",
+      "start_time": 513.35,
+      "end_time": 517.83
+    },
+    {
+      "text": "What's the geodemographic profiling?",
+      "speaker_name": "stuart",
+      "start_time": 517.83,
+      "end_time": 519.59
+    },
+    {
+      "text": "We take that down into a funnel and say, say, right, we've actually got probably 350 stores which really fit the customer demographic that you're looking to target.",
+      "speaker_name": "stuart",
+      "start_time": 519.75,
+      "end_time": 528.29
+    },
+    {
+      "text": "Then the next question is, what have you got available in those stores?",
+      "speaker_name": "stuart",
+      "start_time": 528.77,
+      "end_time": 531.89
+    },
+    {
+      "text": "Has there, is there available inventory?",
+      "speaker_name": "stuart",
+      "start_time": 532.53,
+      "end_time": 534.53
+    },
+    {
+      "text": "What should I plan?",
+      "speaker_name": "stuart",
+      "start_time": 534.77,
+      "end_time": 535.73
+    },
+    {
+      "text": "Now that cycle sounds very simple but it took hours for people to kind of get to that money shop, which is right stores, right brands, right targeting is there, availability, shall I book it?",
+      "speaker_name": "stuart",
+      "start_time": 536.13,
+      "end_time": 547.49
+    },
+    {
+      "text": "And we've done it.",
+      "speaker_name": "stuart",
+      "start_time": 547.93,
+      "end_time": 548.45
+    },
+    {
+      "text": "So we've really solved the complexity of retailers who've got scale operation.",
+      "speaker_name": "stuart",
+      "start_time": 548.45,
+      "end_time": 552.73
+    },
+    {
+      "text": "Our platform deploys content to the incumbent mood media who do the audio, tech media who do the screens.",
+      "speaker_name": "stuart",
+      "start_time": 553.37,
+      "end_time": 562.17
+    },
+    {
+      "text": "We could easily deploy print content to a printer, sampling lists, a store sampling people.",
+      "speaker_name": "stuart",
+      "start_time": 562.73,
+      "end_time": 567.93
+    },
+    {
+      "text": "So it's a real boxed end to end operating system which is perfect for retailers.",
+      "speaker_name": "stuart",
+      "start_time": 568.73,
+      "end_time": 574.17
+    },
+    {
+      "text": "Now what we've planned is that, you know, we've also now got a product which is equally as powerful for brand owners because brand owners have obviously got the same problem.",
+      "speaker_name": "stuart",
+      "start_time": 574.87,
+      "end_time": 582.71
+    },
+    {
+      "text": "They've got hundreds of retailers, thousands of different touch points and trying to keep hold of that complexity is bloody hard.",
+      "speaker_name": "stuart",
+      "start_time": 582.71,
+      "end_time": 589.59
+    },
+    {
+      "text": "But with our operating system and for that, see people like Heineken, Heineken uk, Heineken Belgium are our clients.",
+      "speaker_name": "stuart",
+      "start_time": 589.99,
+      "end_time": 597.91
+    },
+    {
+      "text": "Britvit, Carlsberg, Merrison, who do Kanderel, they're using this to keep a track of all of their media spend.",
+      "speaker_name": "stuart",
+      "start_time": 598.23,
+      "end_time": 606.29
+    },
+    {
+      "text": "And importantly Matthew, what's very exciting is that we've got this pedigree of being able to do really, really strong independent insights.",
+      "speaker_name": "stuart",
+      "start_time": 606.29,
+      "end_time": 614.89
+    },
+    {
+      "text": "So because we've got all that data honed in a really strong way, we can undertake PCRs, post campaign reporting really effectively.",
+      "speaker_name": "stuart",
+      "start_time": 614.89,
+      "end_time": 624.37
+    },
+    {
+      "text": "And we've anonymized the data set.",
+      "speaker_name": "stuart",
+      "start_time": 624.77,
+      "end_time": 626.61
+    },
+    {
+      "text": "So we've got tens of thousands of examples which has contributed to a benchmark data set.",
+      "speaker_name": "stuart",
+      "start_time": 626.69,
+      "end_time": 631.49
+    },
+    {
+      "text": "So that's really our sort of AI fuel if you like.",
+      "speaker_name": "stuart",
+      "start_time": 631.89,
+      "end_time": 634.33
+    },
+    {
+      "text": "Because now we can give a subscription to a brand owner and say, right, if you're about to spend £30,000 with Tesco, Asda, Carrefour, Walmart, Coles, Woolworths, doesn't matter, we can actually give them an indication of exactly what kind of return on investment they can expect before they've had to part with the money.",
+      "speaker_name": "stuart",
+      "start_time": 634.33,
+      "end_time": 651.89
+    },
+    {
+      "text": "And so that really puts the ball back in the court, the brand owners, to be able to say, you know what, I don't mind giving you £40,000, but I don't want to do it for this, I'd rather do it for that, because in that context that's what's going to work for me.",
+      "speaker_name": "stuart",
+      "start_time": 652.37,
+      "end_time": 665.61
+    },
+    {
+      "text": "So it's really exciting that we can sort of play both sides, have a product out the box, which we know that the larger tier, you look at people like Ahold, Dalhayes, Walmart, cvs, those kind of people, they can afford to invest millions and millions and millions of pounds developing their own internal house system.",
+      "speaker_name": "stuart",
+      "start_time": 666.17,
+      "end_time": 686.25
+    },
+    {
+      "text": "There are thousands of retailers that would bypass all of that just by adopting our system, which we can get them operational on in under eight weeks.",
+      "speaker_name": "stuart",
+      "start_time": 687.28,
+      "end_time": 696.64
+    },
+    {
+      "text": "So we've really worked hard, Matthew, since COVID to put our system onto a new look, new look platform.",
+      "speaker_name": "stuart",
+      "start_time": 697.52,
+      "end_time": 704.8
+    },
+    {
+      "text": "It's scalable, it's community driven and frankly the ability to come together with an ad server that's got the digital stuff nailed as well and deploy content, it just sounds to me like the dream come true for every media owner and operator that's out there.",
+      "speaker_name": "stuart",
+      "start_time": 705.76,
+      "end_time": 723.96
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 726.12,
+      "end_time": 726.76
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 727.8,
+      "end_time": 728.2
+    },
+    {
+      "text": "Get myself a new pen.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 728.2,
+      "end_time": 729.2
+    },
+    {
+      "text": "Third pen of the day.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 729.2,
+      "end_time": 730.12
+    },
+    {
+      "text": "How does the.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 733.16,
+      "end_time": 733.92
+    },
+    {
+      "text": "Can you, can you give me a sense of how the platform differs from say a sky or a pack view?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 733.92,
+      "end_time": 738.12
+    },
+    {
+      "text": "Yeah, so if, if.",
+      "speaker_name": "stuart",
+      "start_time": 739.84,
+      "end_time": 742.08
+    },
+    {
+      "text": "Let's take it from a retailer perspective.",
+      "speaker_name": "stuart",
+      "start_time": 742.24,
+      "end_time": 745.04
+    },
+    {
+      "text": "So what we will do is we'll help a retailer say, right, what's your store list, what's your different touch points, what's your rate card, what's your suppliers?",
+      "speaker_name": "stuart",
+      "start_time": 745.04,
+      "end_time": 754.96
+    },
+    {
+      "text": "So we've got the things in the platform.",
+      "speaker_name": "stuart",
+      "start_time": 754.96,
+      "end_time": 756.36
+    },
+    {
+      "text": "It doesn't take long to stand all that up because typically they've got feeds and then they say, right, okay, we're going to start doing a plan for Smirnoff.",
+      "speaker_name": "stuart",
+      "start_time": 756.36,
+      "end_time": 763.44
+    },
+    {
+      "text": "So smirnoff have got £40,000 worth of joint business plan money.",
+      "speaker_name": "stuart",
+      "start_time": 764.4,
+      "end_time": 767.83
+    },
+    {
+      "text": "How are we going to pull a platform together or a campaign together for them that's going to meet the needs of the crowd?",
+      "speaker_name": "stuart",
+      "start_time": 768.07,
+      "end_time": 778.91
+    },
+    {
+      "text": "So if it's about driving awareness or is it about driving footfall or whatever the objectives are, we can kind of help them layer up and say, right, we're going to very quickly assemble a lay down, if you like that, spending that £40,000 so they can see exactly the store locations, exactly the amount of money and then migrate it through the funnel to say as soon as that they might want to push a button, send the Order, get it signed off.",
+      "speaker_name": "stuart",
+      "start_time": 778.91,
+      "end_time": 802.16
+    },
+    {
+      "text": "So it's got in the audit trail.",
+      "speaker_name": "stuart",
+      "start_time": 802.16,
+      "end_time": 803.32
+    },
+    {
+      "text": "Once it's signed off, it goes into a job bag.",
+      "speaker_name": "stuart",
+      "start_time": 803.4,
+      "end_time": 805.36
+    },
+    {
+      "text": "Once it's in the job bag, you can start to upload creative.",
+      "speaker_name": "stuart",
+      "start_time": 805.36,
+      "end_time": 807.56
+    },
+    {
+      "text": "You can go through the workflow step by step by step until you sort of launch the thing and it goes live and everybody gets the right final creative.",
+      "speaker_name": "stuart",
+      "start_time": 807.56,
+      "end_time": 816.28
+    },
+    {
+      "text": "And at the end of the campaign, it also ticks off and says, right, that's now campaign completed.",
+      "speaker_name": "stuart",
+      "start_time": 816.44,
+      "end_time": 820.6
+    },
+    {
+      "text": "The metadata packet that's from.",
+      "speaker_name": "stuart",
+      "start_time": 820.84,
+      "end_time": 822.64
+    },
+    {
+      "text": "That goes into what we call the brain, which the base reporting AI network.",
+      "speaker_name": "stuart",
+      "start_time": 822.64,
+      "end_time": 826.18
+    },
+    {
+      "text": "Basically, it's a big black box that takes all of that information and goes, right, I know exactly the stores, when it started, when it finished, the amount, what was on promotion, what tactics were used, and we can compare and contrast with test and control, or base versus uplift, depends what algorithm we're using, and deliver an automated PDF report at the end of that, for the benefit of the retailers, to go back to the Smirnoff and say, right, that £40,000 drove £68.4K worth of incremental Smirnoff sales in these stores for those tactics.",
+      "speaker_name": "stuart",
+      "start_time": 826.58,
+      "end_time": 861.4
+    },
+    {
+      "text": "So it's isolating the effectiveness of the media and justifying the ROI and allowing retailers to effectively justify the rate cards that they're charging because it will allow them to push it to the ceiling of what their media is worth, because ultimately the media is only worth what people are prepared to spend on it if they feel they're getting value from it.",
+      "speaker_name": "stuart",
+      "start_time": 861.8,
+      "end_time": 882.12
+    },
+    {
+      "text": "So even though it does incorporate digital, because people can just as easily book a Facebook campaign or TikTok or on site or search terms or shelf talk or floor graphic or trolley ad or front of store digital screen.",
+      "speaker_name": "stuart",
+      "start_time": 883.01,
+      "end_time": 894.21
+    },
+    {
+      "text": "It just doesn't matter because it's just assembling all of the touch points into a campaign and then assessing it and evaluating it based on the data, which is the EPOS data that comes out the tilt.",
+      "speaker_name": "stuart",
+      "start_time": 894.21,
+      "end_time": 905.97
+    },
+    {
+      "text": "Okay, got it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 906.29,
+      "end_time": 907.41
+    },
+    {
+      "text": "All right, did you want to, did you want to give me a glimpse into the platform?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 907.82,
+      "end_time": 911.98
+    },
+    {
+      "text": "Yeah, if you'd like to see it, I can share screens.",
+      "speaker_name": "stuart",
+      "start_time": 912.62,
+      "end_time": 914.46
+    },
+    {
+      "text": "Let's have a quick look.",
+      "speaker_name": "stuart",
+      "start_time": 914.46,
+      "end_time": 915.5
+    },
+    {
+      "text": "I can do it probably in under 5, 10 minutes.",
+      "speaker_name": "stuart",
+      "start_time": 916.3,
+      "end_time": 919.1
+    },
+    {
+      "text": "Let's have a look.",
+      "speaker_name": "stuart",
+      "start_time": 919.1,
+      "end_time": 919.94
+    },
+    {
+      "text": "So what's, what's the commercial model that you take to a retailer?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 919.94,
+      "end_time": 923.22
+    },
+    {
+      "text": "I mean, you obviously mentioned pivoted off rev share into a sort of tech fee.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 923.22,
+      "end_time": 926.9
+    },
+    {
+      "text": "Is it.",
+      "speaker_name": "stuart",
+      "start_time": 926.9,
+      "end_time": 927.42
+    },
+    {
+      "text": "What's that based on?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 928.22,
+      "end_time": 929.34
+    },
+    {
+      "text": "So it is based on the amount of stores and the volume of campaigns that they think are going to need to go through it.",
+      "speaker_name": "stuart",
+      "start_time": 930.78,
+      "end_time": 938.88
+    },
+    {
+      "text": "So and at the top end of the spectrum with Sainsbury's and Argos, you know, we're getting around about 750,000 pounds a year from them.",
+      "speaker_name": "stuart",
+      "start_time": 938.96,
+      "end_time": 946.56
+    },
+    {
+      "text": "If you go to our latest client, who I mentioned before, Endeavor group, they're spending £150,000.",
+      "speaker_name": "stuart",
+      "start_time": 946.96,
+      "end_time": 953.08
+    },
+    {
+      "text": "You know, they're putting a lot less activity through the platform.",
+      "speaker_name": "stuart",
+      "start_time": 953.08,
+      "end_time": 956.32
+    },
+    {
+      "text": "So, you know, it's, it's six figure sums for something that otherwise they would have spent a lot more developing and doing themselves.",
+      "speaker_name": "stuart",
+      "start_time": 957.04,
+      "end_time": 966.22
+    },
+    {
+      "text": "Yeah, I got it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 966.54,
+      "end_time": 967.42
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 967.5,
+      "end_time": 967.98
+    },
+    {
+      "text": "It says I am screen sharing.",
+      "speaker_name": "stuart",
+      "start_time": 968.54,
+      "end_time": 970.46
+    },
+    {
+      "text": "I've got.",
+      "speaker_name": "stuart",
+      "start_time": 972.3,
+      "end_time": 972.94
+    },
+    {
+      "text": "Can you see?",
+      "speaker_name": "stuart",
+      "start_time": 975.5,
+      "end_time": 976.46
+    },
+    {
+      "text": "Can you see that?",
+      "speaker_name": "stuart",
+      "start_time": 976.86,
+      "end_time": 977.74
+    },
+    {
+      "text": "I can see.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 978.86,
+      "end_time": 979.74
+    },
+    {
+      "text": "Plan hub.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 979.74,
+      "end_time": 980.54
+    },
+    {
+      "text": "Okay, so this is just a marketing site that we're about.",
+      "speaker_name": "stuart",
+      "start_time": 981.1,
+      "end_time": 985.75
+    },
+    {
+      "text": "So for brands or for retailers.",
+      "speaker_name": "stuart",
+      "start_time": 985.75,
+      "end_time": 987.63
+    },
+    {
+      "text": "So essentially it's app driven.",
+      "speaker_name": "stuart",
+      "start_time": 987.63,
+      "end_time": 990.39
+    },
+    {
+      "text": "So I'll show you all this, but there's a sort of landing place where people can come and just get.",
+      "speaker_name": "stuart",
+      "start_time": 991.59,
+      "end_time": 998.39
+    },
+    {
+      "text": "So it's, it's very much positioned as kind of tech.",
+      "speaker_name": "stuart",
+      "start_time": 998.39,
+      "end_time": 1001.11
+    },
+    {
+      "text": "But once you're in and you're logged into the platform, it's essentially a hub of it's got anything to do with retail media.",
+      "speaker_name": "stuart",
+      "start_time": 1001.99,
+      "end_time": 1010.71
+    },
+    {
+      "text": "If you're a retailer or a supplier or a printer or a digital signage agency or whatever it is, you've got a home here.",
+      "speaker_name": "stuart",
+      "start_time": 1010.79,
+      "end_time": 1019.21
+    },
+    {
+      "text": "And we've got things where, you know, for example, you know, if somebody's gone out because it's a community driven system, somebody might have gone, in this case have gone into B and Q.",
+      "speaker_name": "stuart",
+      "start_time": 1019.21,
+      "end_time": 1027.57
+    },
+    {
+      "text": "They've seen an FSDU for personal, you know, that's, that's just been logged as something which is there in the market, which is, is something that's happening.",
+      "speaker_name": "stuart",
+      "start_time": 1027.89,
+      "end_time": 1036.97
+    },
+    {
+      "text": "So A, that means that you know that there is A, an FSDU available in B and Q.",
+      "speaker_name": "stuart",
+      "start_time": 1036.97,
+      "end_time": 1041.73
+    },
+    {
+      "text": "So it builds up a kind of portfolio of what's available when and where and all that kind of stuff.",
+      "speaker_name": "stuart",
+      "start_time": 1041.73,
+      "end_time": 1046.8
+    },
+    {
+      "text": "We've got touchpoint sections.",
+      "speaker_name": "stuart",
+      "start_time": 1048.32,
+      "end_time": 1049.92
+    },
+    {
+      "text": "So it's not just the uk, I mean it's like literally every market all over the world.",
+      "speaker_name": "stuart",
+      "start_time": 1049.92,
+      "end_time": 1054.8
+    },
+    {
+      "text": "So in terms of bp, if you want to do a pump topper or a bulk stack header, you know, all of these things are linked to effectively a listing of things that are available.",
+      "speaker_name": "stuart",
+      "start_time": 1054.88,
+      "end_time": 1065.2
+    },
+    {
+      "text": "So you would have a rate card, you might have a store list, you might have indicative things of what's the store.",
+      "speaker_name": "stuart",
+      "start_time": 1065.28,
+      "end_time": 1074.13
+    },
+    {
+      "text": "So you know, this is about the shopper journey being display, shouting about your thing as people walk in promoting some Walker's Crisps, all that kind of stuff.",
+      "speaker_name": "stuart",
+      "start_time": 1074.13,
+      "end_time": 1083.77
+    },
+    {
+      "text": "So those are examples of in there.",
+      "speaker_name": "stuart",
+      "start_time": 1083.77,
+      "end_time": 1087.49
+    },
+    {
+      "text": "And then you've got media hosts.",
+      "speaker_name": "stuart",
+      "start_time": 1087.49,
+      "end_time": 1088.77
+    },
+    {
+      "text": "So for example, this is B in Australia.",
+      "speaker_name": "stuart",
+      "start_time": 1088.77,
+      "end_time": 1090.73
+    },
+    {
+      "text": "So BWS as a, as a media host, this is one of the endeavor group things.",
+      "speaker_name": "stuart",
+      "start_time": 1090.81,
+      "end_time": 1095.37
+    },
+    {
+      "text": "They've got 1000, I can't remember 1452 locations.",
+      "speaker_name": "stuart",
+      "start_time": 1095.69,
+      "end_time": 1101.69
+    },
+    {
+      "text": "So you know they've got all of their locations, all of their touch points that they own and operate across their network.",
+      "speaker_name": "stuart",
+      "start_time": 1102.41,
+      "end_time": 1111.3
+    },
+    {
+      "text": "So you know, for example if you went into any one of their, their stores to say, you know, if I was interested in Elston Wick Drive in, in Australia, you know you can do audio bus stops, cool room decals, mini aisle fins and so you get examples of all of these things which can be done in that particular store.",
+      "speaker_name": "stuart",
+      "start_time": 1111.3,
+      "end_time": 1134.05
+    },
+    {
+      "text": "And of course we've got that detail across all the other locations.",
+      "speaker_name": "stuart",
+      "start_time": 1134.21,
+      "end_time": 1136.93
+    },
+    {
+      "text": "So with all of that information in situ Matthew we bring that into effectively the planning engine and we call that the ramp which is the retail activation media planner.",
+      "speaker_name": "stuart",
+      "start_time": 1137.09,
+      "end_time": 1148.29
+    },
+    {
+      "text": "So this is the tool that really allows them to build up their, their campaign.",
+      "speaker_name": "stuart",
+      "start_time": 1148.449,
+      "end_time": 1152.69
+    },
+    {
+      "text": "So if I went to, we mentioned it for let's, let's stick with Smirnoff.",
+      "speaker_name": "stuart",
+      "start_time": 1152.85,
+      "end_time": 1156.81
+    },
+    {
+      "text": "So Smirnoff, here's a load of Smirnoff activations that have taken place in a listed way.",
+      "speaker_name": "stuart",
+      "start_time": 1156.81,
+      "end_time": 1162.42
+    },
+    {
+      "text": "You can view that either as a lay down view.",
+      "speaker_name": "stuart",
+      "start_time": 1162.42,
+      "end_time": 1164.62
+    },
+    {
+      "text": "So you get to see it in terms of across a timescale of where we are now.",
+      "speaker_name": "stuart",
+      "start_time": 1164.86,
+      "end_time": 1170.62
+    },
+    {
+      "text": "So the, the vertical yellow line is the week that we're in.",
+      "speaker_name": "stuart",
+      "start_time": 1170.62,
+      "end_time": 1174.299
+    },
+    {
+      "text": "So first week of September some things have just finished, other things are about to start.",
+      "speaker_name": "stuart",
+      "start_time": 1174.3,
+      "end_time": 1178.7
+    },
+    {
+      "text": "You know they've got coming up as a, as a point in time.",
+      "speaker_name": "stuart",
+      "start_time": 1179.58,
+      "end_time": 1183.74
+    },
+    {
+      "text": "So let's have a look at one of these things here.",
+      "speaker_name": "stuart",
+      "start_time": 1184.46,
+      "end_time": 1187.34
+    },
+    {
+      "text": "Cross launch, I'll go.",
+      "speaker_name": "stuart",
+      "start_time": 1188.22,
+      "end_time": 1189.66
+    },
+    {
+      "text": "This is a ramp form which is saying it's Omnicom.",
+      "speaker_name": "stuart",
+      "start_time": 1189.96,
+      "end_time": 1195.2
+    },
+    {
+      "text": "So it's their agency that they've prepared this for in Australia for bws the company.",
+      "speaker_name": "stuart",
+      "start_time": 1195.2,
+      "end_time": 1201.16
+    },
+    {
+      "text": "Yeah, it's being signed off by Omnicom.",
+      "speaker_name": "stuart",
+      "start_time": 1202.12,
+      "end_time": 1203.64
+    },
+    {
+      "text": "The brand is Smirnoff.",
+      "speaker_name": "stuart",
+      "start_time": 1203.64,
+      "end_time": 1205.64
+    },
+    {
+      "text": "The Skus are a Smoff crush passion guava can.",
+      "speaker_name": "stuart",
+      "start_time": 1206.28,
+      "end_time": 1210.84
+    },
+    {
+      "text": "So it's as an NPD for a.",
+      "speaker_name": "stuart",
+      "start_time": 1210.84,
+      "end_time": 1213.16
+    },
+    {
+      "text": "So it's got all of their listings in here.",
+      "speaker_name": "stuart",
+      "start_time": 1213.32,
+      "end_time": 1215.56
+    },
+    {
+      "text": "The promotional overview is an npd.",
+      "speaker_name": "stuart",
+      "start_time": 1216.81,
+      "end_time": 1219.13
+    },
+    {
+      "text": "It could be a price promo gift with purchase.",
+      "speaker_name": "stuart",
+      "start_time": 1219.37,
+      "end_time": 1222.61
+    },
+    {
+      "text": "Could be anything I suppose really the plan part, this is the one I think I mentioned which is like really quite cool.",
+      "speaker_name": "stuart",
+      "start_time": 1222.61,
+      "end_time": 1226.93
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "stuart",
+      "start_time": 1226.93,
+      "end_time": 1227.21
+    },
+    {
+      "text": "So for this product Here it's listing 531 BWS outlets across Australia.",
+      "speaker_name": "stuart",
+      "start_time": 1227.21,
+      "end_time": 1234.49
+    },
+    {
+      "text": "In this case, if we're looking at this by sales proportion, Ready to drink spirits category for pre mixed VOD drinks we're now ranking those 532 stores from Best to worst.",
+      "speaker_name": "stuart",
+      "start_time": 1234.49,
+      "end_time": 1247.6
+    },
+    {
+      "text": "In this particular case we're saying, right, we want Inner metropolitan and outer metropolitan stores.",
+      "speaker_name": "stuart",
+      "start_time": 1247.99,
+      "end_time": 1253.35
+    },
+    {
+      "text": "So they're the store types which bring the countdown in New South Wales, Victoria and Queensland.",
+      "speaker_name": "stuart",
+      "start_time": 1253.35,
+      "end_time": 1258.43
+    },
+    {
+      "text": "So that's where they would like to target these vodka drinkers.",
+      "speaker_name": "stuart",
+      "start_time": 1258.43,
+      "end_time": 1262.31
+    },
+    {
+      "text": "That's brought the list down to 170 and out of those 170, we've.",
+      "speaker_name": "stuart",
+      "start_time": 1262.79,
+      "end_time": 1269.15
+    },
+    {
+      "text": "We've added some screens from the 27th of August to the 2nd and 3rd to 9th of September.",
+      "speaker_name": "stuart",
+      "start_time": 1269.15,
+      "end_time": 1274.15
+    },
+    {
+      "text": "Now these are available in 36 stores.",
+      "speaker_name": "stuart",
+      "start_time": 1274.15,
+      "end_time": 1276.79
+    },
+    {
+      "text": "There's 33 of those available.",
+      "speaker_name": "stuart",
+      "start_time": 1277.03,
+      "end_time": 1278.43
+    },
+    {
+      "text": "There's 35 of them.",
+      "speaker_name": "stuart",
+      "start_time": 1278.43,
+      "end_time": 1279.5
+    },
+    {
+      "text": "Those available.",
+      "speaker_name": "stuart",
+      "start_time": 1279.57,
+      "end_time": 1280.05
+    },
+    {
+      "text": "So it brings back the actual stores that have got availability.",
+      "speaker_name": "stuart",
+      "start_time": 1280.93,
+      "end_time": 1283.89
+    },
+    {
+      "text": "It will look them up and pop them in here.",
+      "speaker_name": "stuart",
+      "start_time": 1283.97,
+      "end_time": 1285.97
+    },
+    {
+      "text": "It's just sort of gathering all the information.",
+      "speaker_name": "stuart",
+      "start_time": 1285.97,
+      "end_time": 1287.77
+    },
+    {
+      "text": "You can either view it as a.",
+      "speaker_name": "stuart",
+      "start_time": 1287.77,
+      "end_time": 1289.01
+    },
+    {
+      "text": "A numbered list or a full list.",
+      "speaker_name": "stuart",
+      "start_time": 1289.01,
+      "end_time": 1291.01
+    },
+    {
+      "text": "You can see here in terms of stores that have been got availability are excluded from being able to be promoted in.",
+      "speaker_name": "stuart",
+      "start_time": 1291.33,
+      "end_time": 1296.53
+    },
+    {
+      "text": "In that particular time.",
+      "speaker_name": "stuart",
+      "start_time": 1296.69,
+      "end_time": 1297.73
+    },
+    {
+      "text": "So your full store list of where that is and then that can be added to.",
+      "speaker_name": "stuart",
+      "start_time": 1297.73,
+      "end_time": 1304.29
+    },
+    {
+      "text": "By the way, if you wanted to do the common ones, it's 33 stores.",
+      "speaker_name": "stuart",
+      "start_time": 1305.79,
+      "end_time": 1310.79
+    },
+    {
+      "text": "So you can just book them as a one and just pop them into the plan.",
+      "speaker_name": "stuart",
+      "start_time": 1310.79,
+      "end_time": 1313.55
+    },
+    {
+      "text": "Touch points.",
+      "speaker_name": "stuart",
+      "start_time": 1313.55,
+      "end_time": 1314.19
+    },
+    {
+      "text": "This is actually one that's already underway.",
+      "speaker_name": "stuart",
+      "start_time": 1314.67,
+      "end_time": 1316.39
+    },
+    {
+      "text": "So they're just about to finish their first week and they're about to start the second week for 8,400.",
+      "speaker_name": "stuart",
+      "start_time": 1316.39,
+      "end_time": 1322.99
+    },
+    {
+      "text": "So that is something which has got a full audit trail that has effectively been passed out into the operational side of it now.",
+      "speaker_name": "stuart",
+      "start_time": 1323.31,
+      "end_time": 1334.7
+    },
+    {
+      "text": "Matthew.",
+      "speaker_name": "stuart",
+      "start_time": 1334.7,
+      "end_time": 1335.18
+    },
+    {
+      "text": "So that's now underway in.",
+      "speaker_name": "stuart",
+      "start_time": 1335.5,
+      "end_time": 1338.06
+    },
+    {
+      "text": "In the operational system.",
+      "speaker_name": "stuart",
+      "start_time": 1338.46,
+      "end_time": 1339.66
+    },
+    {
+      "text": "So all of the.",
+      "speaker_name": "stuart",
+      "start_time": 1339.66,
+      "end_time": 1340.46
+    },
+    {
+      "text": "We could track it through actually.",
+      "speaker_name": "stuart",
+      "start_time": 1341.1,
+      "end_time": 1342.22
+    },
+    {
+      "text": "I suppose because if you wanted to, we could see the actual final creative that that's playing out on those screens in real time right now.",
+      "speaker_name": "stuart",
+      "start_time": 1342.22,
+      "end_time": 1350.02
+    },
+    {
+      "text": "But yeah, that's broadly.",
+      "speaker_name": "stuart",
+      "start_time": 1350.02,
+      "end_time": 1351.98
+    },
+    {
+      "text": "You know what it would provide them with the ability to do is just keep track of all of those investments in.",
+      "speaker_name": "stuart",
+      "start_time": 1351.98,
+      "end_time": 1357.82
+    },
+    {
+      "text": "In this one place.",
+      "speaker_name": "stuart",
+      "start_time": 1358.39,
+      "end_time": 1359.27
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1359.83,
+      "end_time": 1360.47
+    },
+    {
+      "text": "Nice.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1360.71,
+      "end_time": 1361.19
+    },
+    {
+      "text": "Congratulations.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1363.11,
+      "end_time": 1364.23
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "stuart",
+      "start_time": 1364.79,
+      "end_time": 1365.43
+    },
+    {
+      "text": "I mean I'll just go into the operational side of it just very, very quickly.",
+      "speaker_name": "stuart",
+      "start_time": 1365.91,
+      "end_time": 1369.43
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "stuart",
+      "start_time": 1370.31,
+      "end_time": 1370.71
+    },
+    {
+      "text": "Just give you a sense of it.",
+      "speaker_name": "stuart",
+      "start_time": 1371.51,
+      "end_time": 1372.55
+    },
+    {
+      "text": "So I'll go into mixing.",
+      "speaker_name": "stuart",
+      "start_time": 1372.55,
+      "end_time": 1373.55
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1373.55,
+      "end_time": 1374.07
+    },
+    {
+      "text": "So going to job bags.",
+      "speaker_name": "stuart",
+      "start_time": 1375.99,
+      "end_time": 1377.43
+    },
+    {
+      "text": "I'll find Smirnoff.",
+      "speaker_name": "stuart",
+      "start_time": 1378.07,
+      "end_time": 1381.51
+    },
+    {
+      "text": "There it is.",
+      "speaker_name": "stuart",
+      "start_time": 1383.6,
+      "end_time": 1384.24
+    },
+    {
+      "text": "Because this is where all the final artwork and stuff go gets put in there.",
+      "speaker_name": "stuart",
+      "start_time": 1386,
+      "end_time": 1389.56
+    },
+    {
+      "text": "And let's have a look.",
+      "speaker_name": "stuart",
+      "start_time": 1389.56,
+      "end_time": 1392.96
+    },
+    {
+      "text": "Sampling crash launch.",
+      "speaker_name": "stuart",
+      "start_time": 1392.96,
+      "end_time": 1396.52
+    },
+    {
+      "text": "This is underway.",
+      "speaker_name": "stuart",
+      "start_time": 1396.52,
+      "end_time": 1397.44
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1397.52,
+      "end_time": 1397.92
+    },
+    {
+      "text": "Associated assets.",
+      "speaker_name": "stuart",
+      "start_time": 1401.6,
+      "end_time": 1402.88
+    },
+    {
+      "text": "So screens.",
+      "speaker_name": "stuart",
+      "start_time": 1403.68,
+      "end_time": 1404.72
+    },
+    {
+      "text": "Yeah, they're here.",
+      "speaker_name": "stuart",
+      "start_time": 1405.6,
+      "end_time": 1406.88
+    },
+    {
+      "text": "These are the 28 stores that they're in.",
+      "speaker_name": "stuart",
+      "start_time": 1406.96,
+      "end_time": 1408.72
+    },
+    {
+      "text": "So you get to see exactly where they are.",
+      "speaker_name": "stuart",
+      "start_time": 1410.92,
+      "end_time": 1412.24
+    },
+    {
+      "text": "And from this the reporting becomes like really, really super cool.",
+      "speaker_name": "stuart",
+      "start_time": 1412.24,
+      "end_time": 1415.28
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "stuart",
+      "start_time": 1415.28,
+      "end_time": 1415.56
+    },
+    {
+      "text": "So we've got things like.",
+      "speaker_name": "stuart",
+      "start_time": 1415.56,
+      "end_time": 1416.6
+    },
+    {
+      "text": "It's called the.",
+      "speaker_name": "stuart",
+      "start_time": 1416.6,
+      "end_time": 1417.32
+    },
+    {
+      "text": "The pipeline interrogator so if we wanted to have a quick look at a weighted forecast this fiscal year, we might want to see the media hosts and also the company and the brand and let's look at revenue channel.",
+      "speaker_name": "stuart",
+      "start_time": 1417.48,
+      "end_time": 1436.28
+    },
+    {
+      "text": "So I'll just drag that down there.",
+      "speaker_name": "stuart",
+      "start_time": 1436.28,
+      "end_time": 1439.92
+    },
+    {
+      "text": "You can save these, you build up these, these reports and you just basically save them.",
+      "speaker_name": "stuart",
+      "start_time": 1440.16,
+      "end_time": 1446.88
+    },
+    {
+      "text": "So here's, here's the, the amount of money that's something in the way there.",
+      "speaker_name": "stuart",
+      "start_time": 1448,
+      "end_time": 1454.56
+    },
+    {
+      "text": "So let's put a, a quick heat map over that.",
+      "speaker_name": "stuart",
+      "start_time": 1454.56,
+      "end_time": 1460.4
+    },
+    {
+      "text": "So you know if we wanted to start to, to drill down into Dan Murphy's.",
+      "speaker_name": "stuart",
+      "start_time": 1460.4,
+      "end_time": 1464.37
+    },
+    {
+      "text": "Dan Murphy's a bit like Majestic Wine Warehouse.",
+      "speaker_name": "stuart",
+      "start_time": 1464.37,
+      "end_time": 1467.97
+    },
+    {
+      "text": "You know if we wanted to see what Pernod Ricard is doing for Jacob's Creek, they've got this promotion here which is underway for sampling.",
+      "speaker_name": "stuart",
+      "start_time": 1468.61,
+      "end_time": 1481.45
+    },
+    {
+      "text": "So they're doing sampling activations in these 16 stores right this second.",
+      "speaker_name": "stuart",
+      "start_time": 1481.45,
+      "end_time": 1485.25
+    },
+    {
+      "text": "So you know all of those stores are where the sampling activity is happening.",
+      "speaker_name": "stuart",
+      "start_time": 1485.41,
+      "end_time": 1489.25
+    },
+    {
+      "text": "So you know we will be able to help them compile all of that at the end of the campaign.",
+      "speaker_name": "stuart",
+      "start_time": 1490.17,
+      "end_time": 1494.45
+    },
+    {
+      "text": "It gets sent automatically into their system.",
+      "speaker_name": "stuart",
+      "start_time": 1494.45,
+      "end_time": 1496.73
+    },
+    {
+      "text": "Oh, it's automatic automating, the invoicing.",
+      "speaker_name": "stuart",
+      "start_time": 1497.13,
+      "end_time": 1499.53
+    },
+    {
+      "text": "It's automating the reports over to them.",
+      "speaker_name": "stuart",
+      "start_time": 1499.53,
+      "end_time": 1501.93
+    },
+    {
+      "text": "It just goes on.",
+      "speaker_name": "stuart",
+      "start_time": 1501.93,
+      "end_time": 1502.69
+    },
+    {
+      "text": "It's like wheels within wheels.",
+      "speaker_name": "stuart",
+      "start_time": 1502.69,
+      "end_time": 1503.69
+    },
+    {
+      "text": "Matthew?",
+      "speaker_name": "stuart",
+      "start_time": 1503.69,
+      "end_time": 1504.09
+    },
+    {
+      "text": "Yeah, got it.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1505.05,
+      "end_time": 1506.01
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1507.21,
+      "end_time": 1507.93
+    },
+    {
+      "text": "Who are you typically selling into, Stuart?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1509.05,
+      "end_time": 1511.13
+    },
+    {
+      "text": "Well, increasingly heads of Retail Media, CMOs.",
+      "speaker_name": "stuart",
+      "start_time": 1512.89,
+      "end_time": 1515.77
+    },
+    {
+      "text": "It's, it's C suite level.",
+      "speaker_name": "stuart",
+      "start_time": 1516.25,
+      "end_time": 1517.77
+    },
+    {
+      "text": "You know the fact that we can help help them make sense of the noise really it's about the ability for us to, with, with matt to TSG.",
+      "speaker_name": "stuart",
+      "start_time": 1518.41,
+      "end_time": 1527.92
+    },
+    {
+      "text": "You know we are passing everything out into Oracle, PeopleSoft that so it doesn't accounting systems or incumbent Systems.",
+      "speaker_name": "stuart",
+      "start_time": 1527.92,
+      "end_time": 1537.44
+    },
+    {
+      "text": "It's just APIs are effectively allowing us to.",
+      "speaker_name": "stuart",
+      "start_time": 1537.44,
+      "end_time": 1540.72
+    },
+    {
+      "text": "I think we've got about 72 connections into Sainsbury's in one way shape or another.",
+      "speaker_name": "stuart",
+      "start_time": 1540.72,
+      "end_time": 1544.4
+    },
+    {
+      "text": "That either takes data in or passes data out.",
+      "speaker_name": "stuart",
+      "start_time": 1545.68,
+      "end_time": 1548
+    },
+    {
+      "text": "It's just like a bit of a data exchange because it becomes the single version the truth.",
+      "speaker_name": "stuart",
+      "start_time": 1548,
+      "end_time": 1552.28
+    },
+    {
+      "text": "So it requ.",
+      "speaker_name": "stuart",
+      "start_time": 1552.28,
+      "end_time": 1552.72
+    },
+    {
+      "text": "C suite level kind of buy in.",
+      "speaker_name": "stuart",
+      "start_time": 1553.18,
+      "end_time": 1556.94
+    },
+    {
+      "text": "There we go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1557.74,
+      "end_time": 1558.26
+    },
+    {
+      "text": "And presumably these are multi year contracts.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1558.26,
+      "end_time": 1560.02
+    },
+    {
+      "text": "Can you just give me a feel for that?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1560.02,
+      "end_time": 1561.42
+    },
+    {
+      "text": "Yeah, we've been working with Sainsbury's now for well nine years.",
+      "speaker_name": "stuart",
+      "start_time": 1562.14,
+      "end_time": 1566.3
+    },
+    {
+      "text": "Heineken for four years, five years I think Heineken.",
+      "speaker_name": "stuart",
+      "start_time": 1566.86,
+      "end_time": 1572.3
+    },
+    {
+      "text": "So actually since we started working with Heineken because they've got that like this but they do it for, for the brands rather than for the retailer.",
+      "speaker_name": "stuart",
+      "start_time": 1572.3,
+      "end_time": 1578.62
+    },
+    {
+      "text": "But they've quadrupled their ROI by using our system.",
+      "speaker_name": "stuart",
+      "start_time": 1578.62,
+      "end_time": 1582.38
+    },
+    {
+      "text": "What does that mean?",
+      "speaker_name": "stuart",
+      "start_time": 1582.7,
+      "end_time": 1583.38
+    },
+    {
+      "text": "It means that when they started really knowing what they were doing, you know, they're now getting eight pound eighty back for every pound that they invest in retail media.",
+      "speaker_name": "stuart",
+      "start_time": 1583.38,
+      "end_time": 1591.68
+    },
+    {
+      "text": "And that's astonishing, right?",
+      "speaker_name": "stuart",
+      "start_time": 1591.68,
+      "end_time": 1592.92
+    },
+    {
+      "text": "Astonishing.",
+      "speaker_name": "stuart",
+      "start_time": 1593.08,
+      "end_time": 1593.96
+    },
+    {
+      "text": "They were going to get double their money 2 to 1 when they started with us.",
+      "speaker_name": "stuart",
+      "start_time": 1594.2,
+      "end_time": 1597
+    },
+    {
+      "text": "You know, it's rewritten their rule book globally in terms of how they invest in retail media, because they know what works, what doesn't, what to do, what to avoid and which retailers are more effective than others online, off site and in store, which is really great.",
+      "speaker_name": "stuart",
+      "start_time": 1597,
+      "end_time": 1609.08
+    },
+    {
+      "text": "So, yeah, I think for us, the next trajectory curve is we're going to light the blue touch paper, sell subscriptions to brand owners, empower them to become masters of their own destiny.",
+      "speaker_name": "stuart",
+      "start_time": 1610.77,
+      "end_time": 1620.69
+    },
+    {
+      "text": "I think we can basically now offer an amazingly good value product to retailers who don't want to invest multiple millions in their own system of record, bypass the need to ditch the clunky erps, the spreadsheet systems that they've got.",
+      "speaker_name": "stuart",
+      "start_time": 1621.25,
+      "end_time": 1636.61
+    },
+    {
+      "text": "But more importantly, get, get on top of doing a lot more digital ad serving, which is something that we've just not had to do, but makes a lot of sense for it to be again, just deployed directly from our hub.",
+      "speaker_name": "stuart",
+      "start_time": 1637.32,
+      "end_time": 1650.28
+    },
+    {
+      "text": "You know, we've ingested and worked with Citrus Ad by virtue of working with Sainsbury's.",
+      "speaker_name": "stuart",
+      "start_time": 1650.44,
+      "end_time": 1655.68
+    },
+    {
+      "text": "We're going to be working with Critio shortly because, you know, they're the incumbent over in Endeavour Group, but we can work with any, anyone.",
+      "speaker_name": "stuart",
+      "start_time": 1655.68,
+      "end_time": 1663.59
+    },
+    {
+      "text": "We're effectively agnostic when it comes to those API plugins.",
+      "speaker_name": "stuart",
+      "start_time": 1663.59,
+      "end_time": 1668.03
+    },
+    {
+      "text": "Do you see that segueing into, you know, the KEVL business?",
+      "speaker_name": "stuart",
+      "start_time": 1669.63,
+      "end_time": 1672.35
+    },
+    {
+      "text": "Because I, I thought I did.",
+      "speaker_name": "stuart",
+      "start_time": 1672.83,
+      "end_time": 1674.35
+    },
+    {
+      "text": "What in the way that sort of Citrus and Critio do?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1676.19,
+      "end_time": 1678.35
+    },
+    {
+      "text": "No, what, what you've just seen there with, with Plan Hub as an operation.",
+      "speaker_name": "stuart",
+      "start_time": 1678.83,
+      "end_time": 1682.03
+    },
+    {
+      "text": "System, you know, with sort of, you know, we've really been the, the digital tech on site and off site, but as far as anything in store, especially, especially something that's.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1682.03,
+      "end_time": 1693.84
+    },
+    {
+      "text": "What's the right word?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1695.28,
+      "end_time": 1696.32
+    },
+    {
+      "text": "I was going to say linear, but that's not really the word that I'm looking for.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1696.32,
+      "end_time": 1699.04
+    },
+    {
+      "text": "Something that's offline.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1699.36,
+      "end_time": 1700.4
+    },
+    {
+      "text": "Let's just use that.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1700.48,
+      "end_time": 1701.4
+    },
+    {
+      "text": "I mean, we don't really sort of, kind of do any of that, if you see what I mean.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1701.4,
+      "end_time": 1704.16
+    },
+    {
+      "text": "So, so from that point of view, I think there's, you know, there's, there's an interesting fit.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1704.48,
+      "end_time": 1709.04
+    },
+    {
+      "text": "Can you just, just touch on it briefly from the perspective of a brand rather than a retailer?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1710.08,
+      "end_time": 1714.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "stuart",
+      "start_time": 1715.72,
+      "end_time": 1716.12
+    },
+    {
+      "text": "So a brand would effectively come along and say, right, I happen to be planning today for Sainsbury's or Iceland or whatever.",
+      "speaker_name": "stuart",
+      "start_time": 1716.12,
+      "end_time": 1724.84
+    },
+    {
+      "text": "And I know exactly what my sales are for my brand portfolio, my brand and my featured SKUs.",
+      "speaker_name": "stuart",
+      "start_time": 1724.92,
+      "end_time": 1730.84
+    },
+    {
+      "text": "So we allow them to put in their own value sales and when they're using the same ramp form, Matthew, but basically when their output from, from their planning process is getting an indicative kind of ROI, if they said they need a 4 to 1 ROI or a 2 to 1 ROI, you're saying, well then that, that's not going to work.",
+      "speaker_name": "stuart",
+      "start_time": 1731.32,
+      "end_time": 1754.61
+    },
+    {
+      "text": "You need to change your media mix or ask for longer or, or negotiate the price down, whatever it is.",
+      "speaker_name": "stuart",
+      "start_time": 1754.61,
+      "end_time": 1760.57
+    },
+    {
+      "text": "Because it then means that they can justify that their, their metrics stack up because for every brand owner, you know, they're only interested in their own margin and their own rate of sale.",
+      "speaker_name": "stuart",
+      "start_time": 1760.57,
+      "end_time": 1771.31
+    },
+    {
+      "text": "So by empowering them to put that in, it allows them to calculate what kind of ROI they're going to get.",
+      "speaker_name": "stuart",
+      "start_time": 1772.58,
+      "end_time": 1778.02
+    },
+    {
+      "text": "Oh, and so for example, somebody like Heineken.",
+      "speaker_name": "stuart",
+      "start_time": 1779.62,
+      "end_time": 1781.46
+    },
+    {
+      "text": "Sorry to talk over there Matthew, but you know they will upload, they will download all their sales figures from ASDA or whatever and they'll upload them so it retains them so that they, they start to understand, you know, without having to plug K in manually, they can actually start to automate the volume and value of weekly trading that goes on.",
+      "speaker_name": "stuart",
+      "start_time": 1781.46,
+      "end_time": 1799.57
+    },
+    {
+      "text": "There we go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1801.01,
+      "end_time": 1801.73
+    },
+    {
+      "text": "Just a quick couple other questions.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1802.21,
+      "end_time": 1803.69
+    },
+    {
+      "text": "I'm conscious of time, I mean I can run over for a few minutes if, if you can just, just remind me how big the team is.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1803.69,
+      "end_time": 1809.73
+    },
+    {
+      "text": "So there's about 25 of us.",
+      "speaker_name": "stuart",
+      "start_time": 1810.53,
+      "end_time": 1812.29
+    },
+    {
+      "text": "Yeah, there we go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1814.29,
+      "end_time": 1815.85
+    },
+    {
+      "text": "We've been running at about a 1.4 million EBITDA.",
+      "speaker_name": "stuart",
+      "start_time": 1815.85,
+      "end_time": 1818.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1819.33,
+      "end_time": 1819.89
+    },
+    {
+      "text": "And we're, we're, we're literally on the cusp of like as I say, light the blue touch paper and, and now really sort of set for super growth.",
+      "speaker_name": "stuart",
+      "start_time": 1822.85,
+      "end_time": 1831.05
+    },
+    {
+      "text": "All of the last sort of four or five years has been about us getting to this point where we can actually now start to scale very quickly because it's cookie cutter territory now.",
+      "speaker_name": "stuart",
+      "start_time": 1831.85,
+      "end_time": 1839.53
+    },
+    {
+      "text": "The platform's there, it's done, we've proven it, that it, it can just sort of now exponentially grow.",
+      "speaker_name": "stuart",
+      "start_time": 1840.01,
+      "end_time": 1846.73
+    },
+    {
+      "text": "So I've got a network of people, we've got an office in Sydney, we've got an office in Montevideo in Uruguay.",
+      "speaker_name": "stuart",
+      "start_time": 1847.93,
+      "end_time": 1853.78
+    },
+    {
+      "text": "So we're targeting the Latam market.",
+      "speaker_name": "stuart",
+      "start_time": 1853.78,
+      "end_time": 1855.46
+    },
+    {
+      "text": "We've got only one person each of those territories but again we've got a bit of a, a grant from the Uruguayan government because we're massively kind of exploding retail media in, in that Latam region because as a Spanish speaking continent, you know, they're paying us.",
+      "speaker_name": "stuart",
+      "start_time": 1855.7,
+      "end_time": 1868.9
+    },
+    {
+      "text": "All of this exists in Spanish and it works over there.",
+      "speaker_name": "stuart",
+      "start_time": 1869.54,
+      "end_time": 1872.94
+    },
+    {
+      "text": "We're populating the system with all of those big retailers over there.",
+      "speaker_name": "stuart",
+      "start_time": 1872.94,
+      "end_time": 1875.94
+    },
+    {
+      "text": "We've got a multi billion pound company in Brazil, Pet Care, that's we're in an RFP process with at the moment.",
+      "speaker_name": "stuart",
+      "start_time": 1877.66,
+      "end_time": 1886.3
+    },
+    {
+      "text": "So it's, it's just we, we've validated it and resonating with all the people.",
+      "speaker_name": "stuart",
+      "start_time": 1886.3,
+      "end_time": 1889.9
+    },
+    {
+      "text": "I'm going down to Australia myself actually the end of the month because I've got, I meet with Coles, Woolworths, Bunnings, Metcash, Lagadair clients over there already.",
+      "speaker_name": "stuart",
+      "start_time": 1889.9,
+      "end_time": 1900.3
+    },
+    {
+      "text": "Of course it's going to be pretty, pretty full on.",
+      "speaker_name": "stuart",
+      "start_time": 1900.3,
+      "end_time": 1902.65
+    },
+    {
+      "text": "Very exciting.",
+      "speaker_name": "stuart",
+      "start_time": 1902.8,
+      "end_time": 1903.44
+    },
+    {
+      "text": "There we go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1904.56,
+      "end_time": 1905.16
+    },
+    {
+      "text": "No, it's great.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1905.16,
+      "end_time": 1906
+    },
+    {
+      "text": "So a couple other questions.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1906.64,
+      "end_time": 1907.92
+    },
+    {
+      "text": "Cap table.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1908.08,
+      "end_time": 1908.88
+    },
+    {
+      "text": "I don't know, don't know what that means.",
+      "speaker_name": "stuart",
+      "start_time": 1910.96,
+      "end_time": 1914.24
+    },
+    {
+      "text": "As in what does the cap table look like?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1914.64,
+      "end_time": 1916.88
+    },
+    {
+      "text": "Andy, you might have to help me out there, mate.",
+      "speaker_name": "stuart",
+      "start_time": 1920.24,
+      "end_time": 1922
+    },
+    {
+      "text": "Sorry Stu, that's just the, the shareholders.",
+      "speaker_name": "Andy Day",
+      "start_time": 1922.24,
+      "end_time": 1924.48
+    },
+    {
+      "text": "So the, the ownership of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1924.64,
+      "end_time": 1926.48
+    },
+    {
+      "text": "Oh, sorry, never heard it called that.",
+      "speaker_name": "stuart",
+      "start_time": 1926.88,
+      "end_time": 1929.2
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "stuart",
+      "start_time": 1929.2,
+      "end_time": 1929.52
+    },
+    {
+      "text": "Matthew.",
+      "speaker_name": "stuart",
+      "start_time": 1929.52,
+      "end_time": 1930
+    },
+    {
+      "text": "It's myself and my business partner.",
+      "speaker_name": "stuart",
+      "start_time": 1930.32,
+      "end_time": 1932.68
+    },
+    {
+      "text": "My business partner, prostate cancer five years ago.",
+      "speaker_name": "stuart",
+      "start_time": 1932.68,
+      "end_time": 1936.38
+    },
+    {
+      "text": "He stepped away from the business so he's, he's my partner.",
+      "speaker_name": "stuart",
+      "start_time": 1936.38,
+      "end_time": 1939.62
+    },
+    {
+      "text": "He has been for 20 years but he hasn't been in the business for five years.",
+      "speaker_name": "stuart",
+      "start_time": 1939.62,
+      "end_time": 1942.54
+    },
+    {
+      "text": "So I took it on pretty much myself since COVID But he and I own half the business actually.",
+      "speaker_name": "stuart",
+      "start_time": 1942.78,
+      "end_time": 1949.98
+    },
+    {
+      "text": "40% each and our wives has got 10% each.",
+      "speaker_name": "stuart",
+      "start_time": 1949.98,
+      "end_time": 1952.02
+    },
+    {
+      "text": "So it's, it's four of us.",
+      "speaker_name": "stuart",
+      "start_time": 1952.02,
+      "end_time": 1953.14
+    },
+    {
+      "text": "The senior leadership team, Matthew, is consisting of three very key people.",
+      "speaker_name": "stuart",
+      "start_time": 1953.14,
+      "end_time": 1957.3
+    },
+    {
+      "text": "We've, we've got a, a grant scheme, EMI option scheme for them because they're, you know, tied in and incentivized to help with the growth.",
+      "speaker_name": "stuart",
+      "start_time": 1957.3,
+      "end_time": 1966.07
+    },
+    {
+      "text": "Therehere we go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 1967.11,
+      "end_time": 1967.91
+    },
+    {
+      "text": "Two last questions.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1968.79,
+      "end_time": 1969.99
+    },
+    {
+      "text": "If, if, if this went anywhere as a transaction and I do think you're right that there is possibly a partnership discussion as well or first, I don't know.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1970.39,
+      "end_time": 1977.51
+    },
+    {
+      "text": "But anyway, just putting that to one side for a second.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1977.51,
+      "end_time": 1979.75
+    },
+    {
+      "text": "What does the leadership team want to do in the event of an event?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1981.27,
+      "end_time": 1984.55
+    },
+    {
+      "text": "You know, does it want to stay?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1985.03,
+      "end_time": 1986.47
+    },
+    {
+      "text": "Obviously, you know, you talked about, you know, your partner who's, who's been out of the business but about everyone else, what do they want to do?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 1986.63,
+      "end_time": 1992.85
+    },
+    {
+      "text": "Well, you know, myself included, we all want to stick around and grow.",
+      "speaker_name": "stuart",
+      "start_time": 1993.65,
+      "end_time": 1997.41
+    },
+    {
+      "text": "That's what it's about.",
+      "speaker_name": "stuart",
+      "start_time": 1997.81,
+      "end_time": 1998.69
+    },
+    {
+      "text": "My business partner, you know, he, he's thankfully, thank goodness, in remission fully.",
+      "speaker_name": "stuart",
+      "start_time": 1999.49,
+      "end_time": 2003.21
+    },
+    {
+      "text": "So he's just wanting to disappear a stage fright and you know, enjoy time with his wife and children.",
+      "speaker_name": "stuart",
+      "start_time": 2003.21,
+      "end_time": 2008.85
+    },
+    {
+      "text": "I'm 54, you know, I, I'm wanting to, to get this to the scale that I know it can be.",
+      "speaker_name": "stuart",
+      "start_time": 2009.97,
+      "end_time": 2017.25
+    },
+    {
+      "text": "I'm, you know, I've been doing this to get to this point because with myself, my MDs, you know, this is all about actually now making this a global reality which I'm very excited about.",
+      "speaker_name": "stuart",
+      "start_time": 2017.25,
+      "end_time": 2028.89
+    },
+    {
+      "text": "And again in the event, not necessarily in the event of a, of a transaction, but hypothetically, if there was kind of more resource at your disposal, what would you be doing that you're not doing today and what might the value of that be?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2029.69,
+      "end_time": 2044.09
+    },
+    {
+      "text": "Great question.",
+      "speaker_name": "stuart",
+      "start_time": 2045.05,
+      "end_time": 2045.69
+    },
+    {
+      "text": "So it would be to accelerate the integration with digital ad service.",
+      "speaker_name": "stuart",
+      "start_time": 2045.85,
+      "end_time": 2050.73
+    },
+    {
+      "text": "So you know, integrating the ability to just as easily book and deploy a TikTok ad in platform and, or meta, whatever, you know, just be able to have that seamless one stop shot experience because at the moment it's, I have to do a bit of passing out to do that operational piece.",
+      "speaker_name": "stuart",
+      "start_time": 2052.39,
+      "end_time": 2070.95
+    },
+    {
+      "text": "You know, I'm used to doing all the operations within the own platform so that's where I would invest a bit of time and effort just to you know, really shore up on the on site, off site stuff and the value of that which I mean it's, I mean there's just thousands and thousands of brand owners and thousands of retailers across the planet that would, would, would they need this.",
+      "speaker_name": "stuart",
+      "start_time": 2071.11,
+      "end_time": 2091.05
+    },
+    {
+      "text": "There isn't anything else like it.",
+      "speaker_name": "stuart",
+      "start_time": 2091.21,
+      "end_time": 2092.65
+    },
+    {
+      "text": "So you know, if you pick up 5% of that, it's an incredibly powerful big business.",
+      "speaker_name": "stuart",
+      "start_time": 2093.93,
+      "end_time": 2098.81
+    },
+    {
+      "text": "I mean the on site, off site piece, I mean we, we have a solve that's kind of like a, you know, single booking engine for deploying campaigns across, you know, Meta and TikTok and Open web and this and the other.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2099.61,
+      "end_time": 2110.21
+    },
+    {
+      "text": "I mean so that's that and the kind of the self service platform that goes with that, that exists today.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2110.21,
+      "end_time": 2116.53
+    },
+    {
+      "text": "And I mean that came from a previous acquisition that's now getting integrated into, well in effect two separate platforms getting integrated into one front end or one, you know, user interface so that it doesn't appear like two completely disconnected things.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2116.53,
+      "end_time": 2130.81
+    },
+    {
+      "text": "Which of course it was you know, sort of six months ago before the transaction.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2131.13,
+      "end_time": 2134.49
+    },
+    {
+      "text": "Anything else sort of in relation to that?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2135.05,
+      "end_time": 2137.44
+    },
+    {
+      "text": "I think AI, I mean so generative AI and things that I think there's an expectation that we could probably, if people are uploading artwork and final creative and they need to just repurpose it.",
+      "speaker_name": "stuart",
+      "start_time": 2138.87,
+      "end_time": 2147.83
+    },
+    {
+      "text": "So right, I've got a shelf strip or a shelf talker or a banner ad.",
+      "speaker_name": "stuart",
+      "start_time": 2147.83,
+      "end_time": 2151.99
+    },
+    {
+      "text": "Can I change the dimensions on the fly in platform?",
+      "speaker_name": "stuart",
+      "start_time": 2152.15,
+      "end_time": 2154.95
+    },
+    {
+      "text": "Again I think that's probably nice to have but again what we've built is a collaborative thing so it's like real time chat and file exchange and all that kind of thing.",
+      "speaker_name": "stuart",
+      "start_time": 2156.39,
+      "end_time": 2166.1
+    },
+    {
+      "text": "So that ability to keep them in platform for longer, doing more stuff, again I see that as an ability to like cross charge and upsell.",
+      "speaker_name": "stuart",
+      "start_time": 2166.1,
+      "end_time": 2175.18
+    },
+    {
+      "text": "It's like in app purchases apply.",
+      "speaker_name": "stuart",
+      "start_time": 2175.18,
+      "end_time": 2176.66
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "stuart",
+      "start_time": 2176.66,
+      "end_time": 2176.9
+    },
+    {
+      "text": "The more services that you can provide them once they're in and they're in that ecosystem, that's where I think it starts to really ramp up.",
+      "speaker_name": "stuart",
+      "start_time": 2176.9,
+      "end_time": 2183.46
+    },
+    {
+      "text": "Because for those few extra thousand dollars a month, you know, and you scale that up, you start to get residual fees coming in very, very significantly.",
+      "speaker_name": "stuart",
+      "start_time": 2183.46,
+      "end_time": 2192.69
+    },
+    {
+      "text": "Can you talk briefly about.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2193.97,
+      "end_time": 2195.13
+    },
+    {
+      "text": "Is that there's a part of a business that's helping retailers monetize inventory, is that right?",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2195.13,
+      "end_time": 2200.93
+    },
+    {
+      "text": "You know, more of a kind of sales unit.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2201.01,
+      "end_time": 2202.85
+    },
+    {
+      "text": "Yeah, that's what we're, we're victims of our own success then that's not something that I strategically think we're going to be continuing to do.",
+      "speaker_name": "stuart",
+      "start_time": 2203.57,
+      "end_time": 2210.65
+    },
+    {
+      "text": "We offer it as a kind of managed service but that's where we were leaving ourselves exposed because it came to the end of the year, you know, they would pay for it like four or five implants.",
+      "speaker_name": "stuart",
+      "start_time": 2210.65,
+      "end_time": 2223.18
+    },
+    {
+      "text": "You know, I had Iceland, I had, I had actually I had seven people implanted at Iceland.",
+      "speaker_name": "stuart",
+      "start_time": 2224.38,
+      "end_time": 2228.38
+    },
+    {
+      "text": "And you know the bill that we generated at the end of the year was like 1.4 million.",
+      "speaker_name": "stuart",
+      "start_time": 2228.7,
+      "end_time": 2233.42
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2233.9,
+      "end_time": 2234.38
+    },
+    {
+      "text": "And they're like, so they, that's not, it's just it, it.",
+      "speaker_name": "stuart",
+      "start_time": 2234.62,
+      "end_time": 2241.22
+    },
+    {
+      "text": "Retailers are retailers and the margins are the margins.",
+      "speaker_name": "stuart",
+      "start_time": 2241.22,
+      "end_time": 2243.66
+    },
+    {
+      "text": "It's better just to have the, the 4,500,000 for tech and not be greedy because ultimately you just get, you don't get that renewed at the end of the three year term.",
+      "speaker_name": "stuart",
+      "start_time": 2243.66,
+      "end_time": 2255.96
+    },
+    {
+      "text": "But you know, retailer churn, you know, over the years they come, they go.",
+      "speaker_name": "stuart",
+      "start_time": 2255.96,
+      "end_time": 2261.96
+    },
+    {
+      "text": "The nature of the game I think.",
+      "speaker_name": "stuart",
+      "start_time": 2264.279,
+      "end_time": 2265.52
+    },
+    {
+      "text": "So that's why I want to be really sticky at the heart of the business like I am with, with matt 316 and Sainsbury.",
+      "speaker_name": "stuart",
+      "start_time": 2265.52,
+      "end_time": 2271.68
+    },
+    {
+      "text": "Because you know, at the time it was really funny because I thought, oh, I felt a bit bad that we hadn't negotiated an annual commission on top of the fee.",
+      "speaker_name": "stuart",
+      "start_time": 2271.68,
+      "end_time": 2281.4
+    },
+    {
+      "text": "But the number of users and the platform and the level it gets embedded, it's just like milk and tea, you can't get it out.",
+      "speaker_name": "stuart",
+      "start_time": 2281.8,
+      "end_time": 2287.96
+    },
+    {
+      "text": "And that's transpired to be the model that we're now pursuing.",
+      "speaker_name": "stuart",
+      "start_time": 2289.24,
+      "end_time": 2291.64
+    },
+    {
+      "text": "So yes, we have retail expertise in the business.",
+      "speaker_name": "stuart",
+      "start_time": 2292.44,
+      "end_time": 2294.52
+    },
+    {
+      "text": "We know exactly how to help them monetize and get more out of their service.",
+      "speaker_name": "stuart",
+      "start_time": 2294.76,
+      "end_time": 2299.08
+    },
+    {
+      "text": "But I'm wanting to do it more on a kind of pay as you go service.",
+      "speaker_name": "stuart",
+      "start_time": 2299.16,
+      "end_time": 2302.6
+    },
+    {
+      "text": "So like a rolling three or six month contract rather than a three year contract because I them to feel comfortable that they can just let go of the ropes, do it themselves once they know the three card trick and just keep using the platform.",
+      "speaker_name": "stuart",
+      "start_time": 2302.6,
+      "end_time": 2313.54
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2313.78,
+      "end_time": 2314.42
+    },
+    {
+      "text": "And if you just kind of normalize the headline revenue by kind of taking out anything that's you know, sales for example related and is, is kind of, you know, just not likely to be part of the future in a meaningful way at any rate.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2314.9,
+      "end_time": 2331.7
+    },
+    {
+      "text": "What, what does, I mean what does revenue look like on that, that kind of basis and how much does it impact ebitda, you know, as a kind of just tech only kind of play, which sounds like the direction you're going in.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2331.94,
+      "end_time": 2343.68
+    },
+    {
+      "text": "I'm just wondering if you're at that point or whether still sort of washed into, you know, the EBITDA and whatever the headline revenue is.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2343.68,
+      "end_time": 2351.639
+    },
+    {
+      "text": "Obviously there was quite a bit of pass through stuff because we originally we were invoicing on behalf of retailers and so pre Covid we were invoicing sort of like 12 to 15 million but then passing that straight back.",
+      "speaker_name": "stuart",
+      "start_time": 2352.44,
+      "end_time": 2364.79
+    },
+    {
+      "text": "So the partial, it's been constantly at about 3.4 to 4 million is, is the kind of underlying revenues that's helpful.",
+      "speaker_name": "stuart",
+      "start_time": 2364.79,
+      "end_time": 2375.67
+    },
+    {
+      "text": "There we go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2376.39,
+      "end_time": 2377.11
+    },
+    {
+      "text": "And presumably after enough, not too long, the retailers started pushing back on that kind of pass through revenue.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2377.51,
+      "end_time": 2383.35
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2383.91,
+      "end_time": 2385.39
+    },
+    {
+      "text": "Because they'd rather have the cash in their bank quicker and blah, blah, blah, blah blah.",
+      "speaker_name": "stuart",
+      "start_time": 2385.39,
+      "end_time": 2389.35
+    },
+    {
+      "text": "So yeah, well I found a way to navigate it quite successfully which is great.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2389.35,
+      "end_time": 2395.22
+    },
+    {
+      "text": "And build something that's probably a bit more longevity.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2395.54,
+      "end_time": 2397.78
+    },
+    {
+      "text": "So yeah, happy.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2397.86,
+      "end_time": 2400.42
+    },
+    {
+      "text": "I think so.",
+      "speaker_name": "stuart",
+      "start_time": 2401.14,
+      "end_time": 2401.86
+    },
+    {
+      "text": "That's a really good point at least from my perspective.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2402.18,
+      "end_time": 2405.14
+    },
+    {
+      "text": "To get to is, is there anything that, you know, you kind of, you, you want to ask me for what Of a better way of putting it.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2405.14,
+      "end_time": 2412.34
+    },
+    {
+      "text": "What I can tell you is what I'm going to do next, which is that that James is coming over next week because it's ATS and retail media pioneers and I'll spend some time with him on Mondays, the CEO.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2414.5,
+      "end_time": 2426.12
+    },
+    {
+      "text": "I sort.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2428.04,
+      "end_time": 2428.52
+    },
+    {
+      "text": "Of walk him through what we've done.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2428.52,
+      "end_time": 2429.64
+    },
+    {
+      "text": "He's actually on, he's actually on annual leave this week or at least as of, as of yesterday.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2429.64,
+      "end_time": 2436.76
+    },
+    {
+      "text": "So I can't really do anything until Monday but I can walk him through that on Monday and I don't know, maybe get a late call suggesting we have another conversation at some point in the middle of next week.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2437,
+      "end_time": 2448.66
+    },
+    {
+      "text": "So if you're around at any rate.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2450.66,
+      "end_time": 2452.26
+    },
+    {
+      "text": "No, I'm, of course I am.",
+      "speaker_name": "stuart",
+      "start_time": 2453.7,
+      "end_time": 2454.98
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "stuart",
+      "start_time": 2454.98,
+      "end_time": 2455.62
+    },
+    {
+      "text": "I do have a question actually Matthew.",
+      "speaker_name": "stuart",
+      "start_time": 2455.94,
+      "end_time": 2457.3
+    },
+    {
+      "text": "I mean I'd love to know that, you know, with with things like agentic AI and those kind of things that are going to be very disruptive to the kind of ad serving digital space for retail.",
+      "speaker_name": "stuart",
+      "start_time": 2457.3,
+      "end_time": 2466.18
+    },
+    {
+      "text": "I think you know, there's a lot of talk about you know, still being able to influence the shopper in store.",
+      "speaker_name": "stuart",
+      "start_time": 2466.18,
+      "end_time": 2470.58
+    },
+    {
+      "text": "I'm very excited about the long term digitization of stores and, and the addressable advertising that you can sen stores with profile messaging and the digital shelf.",
+      "speaker_name": "stuart",
+      "start_time": 2470.98,
+      "end_time": 2480.24
+    },
+    {
+      "text": "I think it would be amazing to be working with somebody in your position and space to have the ability to a kind of segue into a store level conversation whilst taking ownership over all the digital assets and really embedding yourself in there.",
+      "speaker_name": "stuart",
+      "start_time": 2480.88,
+      "end_time": 2495.88
+    },
+    {
+      "text": "So I couldn't do that alone because I don't have the credentials for the digital stuff and conversely there's no real need for you to get involved with the store stuff if that's not your shtick.",
+      "speaker_name": "stuart",
+      "start_time": 2495.88,
+      "end_time": 2504.48
+    },
+    {
+      "text": "So I think one on one certainly.",
+      "speaker_name": "stuart",
+      "start_time": 2504.88,
+      "end_time": 2506.32
+    },
+    {
+      "text": "But I guess the, the, the question that I have which is fundamental is is has kevel got an appetite to start to integrate with non digital stuff?",
+      "speaker_name": "stuart",
+      "start_time": 2507.91,
+      "end_time": 2518.07
+    },
+    {
+      "text": "Well, I certainly think in store screens is, is kind of higher on our list of stuff we're interested in but.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2519.27,
+      "end_time": 2529.31
+    },
+    {
+      "text": "What better way of putting it.",
+      "speaker_name": "stuart",
+      "start_time": 2529.31,
+      "end_time": 2530.87
+    },
+    {
+      "text": "Lost all my eloquence at 6:40 on a, on a Thursday night.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2531.51,
+      "end_time": 2534.82
+    },
+    {
+      "text": "I need to talk to James really about everything that's not digital really.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2536.17,
+      "end_time": 2540.77
+    },
+    {
+      "text": "You know, I mean just, just being transparent.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2540.77,
+      "end_time": 2542.65
+    },
+    {
+      "text": "I can see if you put those things together then you're sort of retail media in a box, you know, which for many vendors would be attractive particularly if it was a transparent box and probably not quite as greedy as a sort of critio box or a citrus box or you know, what have you.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2543.69,
+      "end_time": 2560.56
+    },
+    {
+      "text": "But I mean I think he's the best place person to answer that really.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2562.15,
+      "end_time": 2565.43
+    },
+    {
+      "text": "I mean I've known him a long time but I can't say I've been in the business long enough to give you a view on that.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2565.91,
+      "end_time": 2570.47
+    },
+    {
+      "text": "But certainly as say the, the sort of the in store signage part of it.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2570.63,
+      "end_time": 2574.35
+    },
+    {
+      "text": "Absolutely, absolutely.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2574.35,
+      "end_time": 2576.07
+    },
+    {
+      "text": "Well that's where a lot of our conversations are stemming from because I've got a strategic partnership with M Cube.",
+      "speaker_name": "stuart",
+      "start_time": 2576.39,
+      "end_time": 2581.27
+    },
+    {
+      "text": "They've got us into the, the co op.",
+      "speaker_name": "stuart",
+      "start_time": 2582.07,
+      "end_time": 2583.83
+    },
+    {
+      "text": "We've just run a load of work with the regional co ops.",
+      "speaker_name": "stuart",
+      "start_time": 2583.83,
+      "end_time": 2586.19
+    },
+    {
+      "text": "We used to represent them years ago but they've come full circle, you know, so we're, we're with that engine that is powering the deployment of planned screen activations through Plan Hub.",
+      "speaker_name": "stuart",
+      "start_time": 2586.19,
+      "end_time": 2596.45
+    },
+    {
+      "text": "They're actually paying us on a per screen per month basis but we've been invited in already to start to say, well what else could you do?",
+      "speaker_name": "stuart",
+      "start_time": 2596.53,
+      "end_time": 2602.57
+    },
+    {
+      "text": "Can you do all the other stuff as well?",
+      "speaker_name": "stuart",
+      "start_time": 2602.57,
+      "end_time": 2604.29
+    },
+    {
+      "text": "So that's really good because obviously M Cube have got hundreds of clients all over the world.",
+      "speaker_name": "stuart",
+      "start_time": 2604.37,
+      "end_time": 2608.05
+    },
+    {
+      "text": "Mood Media, they were the ones who got us into, they're the audio and digital signage people.",
+      "speaker_name": "stuart",
+      "start_time": 2608.61,
+      "end_time": 2613.73
+    },
+    {
+      "text": "They got us into the conversations with Endeavour Group and that was our first successful partnership by them representing us.",
+      "speaker_name": "stuart",
+      "start_time": 2613.73,
+      "end_time": 2619.57
+    },
+    {
+      "text": "And we've got two other digital signage companies as well who they're all seeming, they are just commodity driven.",
+      "speaker_name": "stuart",
+      "start_time": 2619.73,
+      "end_time": 2624.11
+    },
+    {
+      "text": "You know, it's a race to the bottom, the cheapest screen, the cheapest media player.",
+      "speaker_name": "stuart",
+      "start_time": 2624.11,
+      "end_time": 2627.47
+    },
+    {
+      "text": "What they're struggling to is differentiate themselves so suddenly with our ability to say as a bolt on if you like, not only can you take advantage of deploying content in a planned, strategic manner and plan it by the way through a self serve platform.",
+      "speaker_name": "stuart",
+      "start_time": 2627.79,
+      "end_time": 2641.31
+    },
+    {
+      "text": "So our plan hub can easily just be pivoted to be self serve as well.",
+      "speaker_name": "stuart",
+      "start_time": 2641.31,
+      "end_time": 2645.23
+    },
+    {
+      "text": "So it doesn't have to be the retailer using it, they can just open the box and say, right, come on, if you want to plan something, you can plan it and then deploy it to us and we'll okay it or not.",
+      "speaker_name": "stuart",
+      "start_time": 2645.31,
+      "end_time": 2655.12
+    },
+    {
+      "text": "So yeah, that's been really interesting because none of these digital signage people have any way of really doing the part that we do.",
+      "speaker_name": "stuart",
+      "start_time": 2656.24,
+      "end_time": 2663.68
+    },
+    {
+      "text": "They can schedule content but they can't plan it, upload the content through a platform of their own and deploy it, which is a unique space that I think we're filling, which is really good because more and more retailers as you know, are just spending that money.",
+      "speaker_name": "stuart",
+      "start_time": 2664.32,
+      "end_time": 2678.56
+    },
+    {
+      "text": "20,000 screens were deployed in Coles and Woolworths and you know, just massive.",
+      "speaker_name": "stuart",
+      "start_time": 2680.11,
+      "end_time": 2684.43
+    },
+    {
+      "text": "Right, so, but there's, it's, not everything is going to be digital.",
+      "speaker_name": "stuart",
+      "start_time": 2684.43,
+      "end_time": 2689.19
+    },
+    {
+      "text": "It's still going to have posters and window posters and floor graphics and trolley assets.",
+      "speaker_name": "stuart",
+      "start_time": 2689.19,
+      "end_time": 2692.83
+    },
+    {
+      "text": "So being in that place is brilliant because even though everybody's attracted like the moth to the flame to the digital piece, there's still a load of analog stuff that needs to be taken care of, needs to be printed, put up pictures, proof of execution, evaluated, you know, and at the end of the day retailers do want to encourage people into their stores because it's less expensive for them to deploy it or deliver it or whatever they're doing.",
+      "speaker_name": "stuart",
+      "start_time": 2692.91,
+      "end_time": 2715.65
+    },
+    {
+      "text": "Yeah, continues, which it will.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2715.65,
+      "end_time": 2718.85
+    },
+    {
+      "text": "It's going to be the lion's share of the, of the money that's knocking around.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2719.65,
+      "end_time": 2722.77
+    },
+    {
+      "text": "So yeah, no, so I just want.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2722.85,
+      "end_time": 2725.65
+    },
+    {
+      "text": "Plan Hub to be the, the definitive global operating system for retail media.",
+      "speaker_name": "stuart",
+      "start_time": 2725.65,
+      "end_time": 2730.29
+    },
+    {
+      "text": "That's all I want.",
+      "speaker_name": "stuart",
+      "start_time": 2731.05,
+      "end_time": 2731.69
+    },
+    {
+      "text": "Matthew, I don't ask much.",
+      "speaker_name": "stuart",
+      "start_time": 2731.69,
+      "end_time": 2733.29
+    },
+    {
+      "text": "No, no, exactly.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2733.61,
+      "end_time": 2734.73
+    },
+    {
+      "text": "Small goals.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2735.77,
+      "end_time": 2736.49
+    },
+    {
+      "text": "Small goals.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2736.49,
+      "end_time": 2737.21
+    },
+    {
+      "text": "You're going to speak to James and it sounds like you're going to be relatively upbeat about it.",
+      "speaker_name": "stuart",
+      "start_time": 2739.21,
+      "end_time": 2743.53
+    },
+    {
+      "text": "Assuming James wants to either meet andor have one of these sessions again, I mean, what would you think is a kind of logical trajectory thereafter?",
+      "speaker_name": "stuart",
+      "start_time": 2745.05,
+      "end_time": 2753.13
+    },
+    {
+      "text": "Good question.",
+      "speaker_name": "stuart",
+      "start_time": 2757.3,
+      "end_time": 2757.78
+    },
+    {
+      "text": "Sort of in my old world I would have said let's start working on a pilot that shows that we can actually work together effectively.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2757.78,
+      "end_time": 2765.38
+    },
+    {
+      "text": "You know, fit together, pitch for something together, see some money, flow together, whatever it might be as a sort of a precursor to something more substantial.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2765.38,
+      "end_time": 2776.5
+    },
+    {
+      "text": "I, I don't know what James and the board's view would be on that here.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2776.74,
+      "end_time": 2780.98
+    },
+    {
+      "text": "I mean, I've been.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2781.78,
+      "end_time": 2783.36
+    },
+    {
+      "text": "I mean, I think I was in touch with Andy first week that I was.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2784,
+      "end_time": 2786.72
+    },
+    {
+      "text": "I sort of, kind of came into the role because I know there is appetite, but I don't know what their thinking would be.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2787.12,
+      "end_time": 2793.64
+    },
+    {
+      "text": "I haven't really come across anything until this where you sort of think, okay, this is.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2793.64,
+      "end_time": 2797.56
+    },
+    {
+      "text": "This, this could be an interesting fit.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2797.56,
+      "end_time": 2799.28
+    },
+    {
+      "text": "So I don't know whether certainly with the.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2799.84,
+      "end_time": 2803.84
+    },
+    {
+      "text": "What.",
+      "speaker_name": "stuart",
+      "start_time": 2804.08,
+      "end_time": 2804.4
+    },
+    {
+      "text": "Actually, what I can add that's a bit more specific with the nexter acquisition out of Denmark, it was just a straight acquisition.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2804.4,
+      "end_time": 2812.18
+    },
+    {
+      "text": "It just agreed a deal.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2812.18,
+      "end_time": 2813.54
+    },
+    {
+      "text": "It was, you know, certain amount up front, certain amount of earn out.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2813.62,
+      "end_time": 2817.46
+    },
+    {
+      "text": "It was, it wasn't complicated like that.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2817.94,
+      "end_time": 2819.94
+    },
+    {
+      "text": "There was no sort of pre partnership kind of piece, if you see what I mean.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2820.66,
+      "end_time": 2825.1
+    },
+    {
+      "text": "But I, I don't know more broadly, I don't know the reasons for, for that.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2825.1,
+      "end_time": 2829.14
+    },
+    {
+      "text": "So I'd need, I'd need sort of chat to him really.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2829.22,
+      "end_time": 2832.74
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2833.94,
+      "end_time": 2834.26
+    },
+    {
+      "text": "All right, thank you, Matthew.",
+      "speaker_name": "stuart",
+      "start_time": 2835.05,
+      "end_time": 2836.89
+    },
+    {
+      "text": "It's been lovely to talk to you about my business and hear about yours.",
+      "speaker_name": "stuart",
+      "start_time": 2836.89,
+      "end_time": 2842.33
+    },
+    {
+      "text": "Well, you know, yeah, good to chat.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2842.65,
+      "end_time": 2844.77
+    },
+    {
+      "text": "And I mean the worst case there is some sort of partnership there, I would say and best case maybe there's, there's something more.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2844.77,
+      "end_time": 2851.89
+    },
+    {
+      "text": "But let me, let me talk to him on Monday afternoon and I'll circle back with, with kind of Andy and you know, we can just go from there there but say, you know, we're obviously not that far from each other and you know, he is in town, James is in town next week, so pending diaries.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2851.89,
+      "end_time": 2868.78
+    },
+    {
+      "text": "Maybe.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2868.78,
+      "end_time": 2869.14
+    },
+    {
+      "text": "Maybe we have another call or a meet.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2869.14,
+      "end_time": 2870.98
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2871.62,
+      "end_time": 2872.26
+    },
+    {
+      "text": "Wonderful.",
+      "speaker_name": "stuart",
+      "start_time": 2872.5,
+      "end_time": 2873.06
+    },
+    {
+      "text": "Look forward to it.",
+      "speaker_name": "stuart",
+      "start_time": 2873.06,
+      "end_time": 2873.94
+    },
+    {
+      "text": "Righty.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2874.42,
+      "end_time": 2875.1
+    },
+    {
+      "text": "Good stuff.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2875.1,
+      "end_time": 2875.58
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2875.58,
+      "end_time": 2875.94
+    },
+    {
+      "text": "Thanks for running over.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2876.1,
+      "end_time": 2877.06
+    },
+    {
+      "text": "I appreciate it.",
+      "speaker_name": "matthew newcomb",
+      "start_time": 2877.06,
+      "end_time": 2877.74
+    },
+    {
+      "text": "Slate.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2877.74,
+      "end_time": 2878.18
+    },
+    {
+      "text": "No problem at all.",
+      "speaker_name": "stuart",
+      "start_time": 2878.34,
+      "end_time": 2879.3
+    },
+    {
+      "text": "Have a good evening.",
+      "speaker_name": "Andy Day",
+      "start_time": 2880.82,
+      "end_time": 2881.7
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Andy Day",
+      "start_time": 2890.43,
+      "end_time": 2890.67
+    },
+    {
+      "text": "It was good.",
+      "speaker_name": "Andy Day",
+      "start_time": 2890.83,
+      "end_time": 2891.55
+    },
+    {
+      "text": "It was good.",
+      "speaker_name": "stuart",
+      "start_time": 2892.83,
+      "end_time": 2893.47
+    },
+    {
+      "text": "I, I feel, I feel like he's really interested but he, he's not in a position to say much until he Speaks to his boss.",
+      "speaker_name": "Andy Day",
+      "start_time": 2893.47,
+      "end_time": 2899.71
+    },
+    {
+      "text": "Yeah, but.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2900.19,
+      "end_time": 2901.91
+    },
+    {
+      "text": "But I think.",
+      "speaker_name": "stuart",
+      "start_time": 2901.91,
+      "end_time": 2902.51
+    },
+    {
+      "text": "I think it went well.",
+      "speaker_name": "Andy Day",
+      "start_time": 2903.39,
+      "end_time": 2904.27
+    },
+    {
+      "text": "He did.",
+      "speaker_name": "Andy Day",
+      "start_time": 2904.27,
+      "end_time": 2904.67
+    },
+    {
+      "text": "He did call me and he's fair.",
+      "speaker_name": "Andy Day",
+      "start_time": 2904.67,
+      "end_time": 2905.87
+    },
+    {
+      "text": "He just got hired.",
+      "speaker_name": "Andy Day",
+      "start_time": 2905.87,
+      "end_time": 2906.83
+    },
+    {
+      "text": "I kind of knew him a little bit from his previous role or in Skins.",
+      "speaker_name": "Andy Day",
+      "start_time": 2908.43,
+      "end_time": 2914.22
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 2916.22,
+      "end_time": 2916.58
+    },
+    {
+      "text": "But I think he can see that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2916.58,
+      "end_time": 2917.86
+    },
+    {
+      "text": "It's obvious, isn't it, Stuart?",
+      "speaker_name": "Andy Day",
+      "start_time": 2917.86,
+      "end_time": 2919.22
+    },
+    {
+      "text": "It's obvious that that could work.",
+      "speaker_name": "Andy Day",
+      "start_time": 2919.22,
+      "end_time": 2921.58
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "stuart",
+      "start_time": 2922.22,
+      "end_time": 2924.62
+    },
+    {
+      "text": "So, well, let's hope that James, I mean, he needs a win.",
+      "speaker_name": "stuart",
+      "start_time": 2924.62,
+      "end_time": 2927.5
+    },
+    {
+      "text": "He's got to be a bit careful because he's only three months in.",
+      "speaker_name": "stuart",
+      "start_time": 2927.5,
+      "end_time": 2929.38
+    },
+    {
+      "text": "He doesn't want to score a known goal too quickly.",
+      "speaker_name": "stuart",
+      "start_time": 2929.38,
+      "end_time": 2932.1
+    },
+    {
+      "text": "But I think, yeah, he could be the golden child who's.",
+      "speaker_name": "stuart",
+      "start_time": 2932.1,
+      "end_time": 2935.42
+    },
+    {
+      "text": "Who's unearthed the diamond in the rough and, you know, they would accelerate their position in this space.",
+      "speaker_name": "stuart",
+      "start_time": 2935.42,
+      "end_time": 2943.27
+    },
+    {
+      "text": "My God, A point where we're just about to press go.",
+      "speaker_name": "stuart",
+      "start_time": 2943.67,
+      "end_time": 2946.39
+    },
+    {
+      "text": "And I mean, genuinely, the ability for us to tap into their digital side of things and just get that into Plan Hub.",
+      "speaker_name": "stuart",
+      "start_time": 2946.39,
+      "end_time": 2956.59
+    },
+    {
+      "text": "So you can book a Facebook ad just as easy as you can a shelf talker and deploy it.",
+      "speaker_name": "stuart",
+      "start_time": 2956.59,
+      "end_time": 2962.79
+    },
+    {
+      "text": "That's so powerful as well.",
+      "speaker_name": "stuart",
+      "start_time": 2963.43,
+      "end_time": 2964.87
+    },
+    {
+      "text": "From the same login.",
+      "speaker_name": "Andy Day",
+      "start_time": 2964.87,
+      "end_time": 2967.52
+    },
+    {
+      "text": "Yeah, just log in, build your campaign, put it out across everything.",
+      "speaker_name": "Andy Day",
+      "start_time": 2967.52,
+      "end_time": 2970.92
+    },
+    {
+      "text": "I mean, that's mental, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 2970.92,
+      "end_time": 2972.4
+    },
+    {
+      "text": "So, yeah, that.",
+      "speaker_name": "stuart",
+      "start_time": 2973.68,
+      "end_time": 2974.56
+    },
+    {
+      "text": "That new website that I showed at the start, that's gonna be public domain very soon.",
+      "speaker_name": "stuart",
+      "start_time": 2974.56,
+      "end_time": 2979.04
+    },
+    {
+      "text": "Yeah, it looks really good.",
+      "speaker_name": "Andy Day",
+      "start_time": 2979.04,
+      "end_time": 2980.12
+    },
+    {
+      "text": "Everything's really slick now.",
+      "speaker_name": "Andy Day",
+      "start_time": 2980.12,
+      "end_time": 2981.44
+    },
+    {
+      "text": "We've come so far in 12 months.",
+      "speaker_name": "Andy Day",
+      "start_time": 2981.599,
+      "end_time": 2983.52
+    },
+    {
+      "text": "Jesus.",
+      "speaker_name": "Andy Day",
+      "start_time": 2983.52,
+      "end_time": 2984.16
+    },
+    {
+      "text": "Yeah, yeah, yeah, I think so.",
+      "speaker_name": "stuart",
+      "start_time": 2984.16,
+      "end_time": 2986.32
+    },
+    {
+      "text": "So.",
+      "speaker_name": "stuart",
+      "start_time": 2986.56,
+      "end_time": 2986.96
+    },
+    {
+      "text": "All right, well, let's see.",
+      "speaker_name": "stuart",
+      "start_time": 2987.84,
+      "end_time": 2989.16
+    },
+    {
+      "text": "So I think.",
+      "speaker_name": "stuart",
+      "start_time": 2989.16,
+      "end_time": 2989.68
+    },
+    {
+      "text": "I think he was playing a little bit coy.",
+      "speaker_name": "stuart",
+      "start_time": 2989.68,
+      "end_time": 2991.28
+    },
+    {
+      "text": "I think he was probably just trying to not look too excited.",
+      "speaker_name": "stuart",
+      "start_time": 2991.52,
+      "end_time": 2994.24
+    },
+    {
+      "text": "That's what I'd like to think.",
+      "speaker_name": "stuart",
+      "start_time": 2994.4,
+      "end_time": 2995.32
+    },
+    {
+      "text": "Anyway, I. I genuinely think that he was quite.",
+      "speaker_name": "Andy Day",
+      "start_time": 2995.32,
+      "end_time": 3000.58
+    },
+    {
+      "text": "He was really surprised at how good it is, and I think he can.",
+      "speaker_name": "Andy Day",
+      "start_time": 3000.82,
+      "end_time": 3004.94
+    },
+    {
+      "text": "I mean, it's obvious that there is.",
+      "speaker_name": "Andy Day",
+      "start_time": 3004.94,
+      "end_time": 3006.58
+    },
+    {
+      "text": "Well, like you were saying, worst case, there's definitely a partnership.",
+      "speaker_name": "Andy Day",
+      "start_time": 3007.22,
+      "end_time": 3010.1
+    },
+    {
+      "text": "There's no reason not to do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 3010.1,
+      "end_time": 3012.1
+    },
+    {
+      "text": "But I think if we.",
+      "speaker_name": "Andy Day",
+      "start_time": 3012.34,
+      "end_time": 3013.34
+    },
+    {
+      "text": "If we show his boss next week and he's.",
+      "speaker_name": "Andy Day",
+      "start_time": 3013.34,
+      "end_time": 3015.3
+    },
+    {
+      "text": "Because I think he's going to at least think, well, let's get a demo and see what he's talking about.",
+      "speaker_name": "Andy Day",
+      "start_time": 3015.3,
+      "end_time": 3019.54
+    },
+    {
+      "text": "I think he'll be excited, knowing the entire universe of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 3020.74,
+      "end_time": 3023.86
+    },
+    {
+      "text": "So I think it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 3024.9,
+      "end_time": 3026.22
+    },
+    {
+      "text": "It's all down to next week, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 3026.22,
+      "end_time": 3028.06
+    },
+    {
+      "text": "And that show to do with him.",
+      "speaker_name": "Andy Day",
+      "start_time": 3028.06,
+      "end_time": 3030.34
+    },
+    {
+      "text": "But I'm excited.",
+      "speaker_name": "Andy Day",
+      "start_time": 3031.3,
+      "end_time": 3032.26
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "stuart",
+      "start_time": 3033.62,
+      "end_time": 3034.26
+    },
+    {
+      "text": "Yeah, definitely.",
+      "speaker_name": "Andy Day",
+      "start_time": 3034.5,
+      "end_time": 3035.14
+    },
+    {
+      "text": "Thanks for organizing it, Ahmed.",
+      "speaker_name": "stuart",
+      "start_time": 3035.14,
+      "end_time": 3036.74
+    },
+    {
+      "text": "Really good.",
+      "speaker_name": "stuart",
+      "start_time": 3037.06,
+      "end_time": 3037.58
+    },
+    {
+      "text": "And thank you, Andy, for obviously plugging away there and cross.",
+      "speaker_name": "stuart",
+      "start_time": 3037.58,
+      "end_time": 3041.5
+    },
+    {
+      "text": "Fingers crossed.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3041.5,
+      "end_time": 3043.7
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 3044.18,
+      "end_time": 3044.9
+    },
+    {
+      "text": "Right, speak soon.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3044.98,
+      "end_time": 3046.02
+    },
+    {
+      "text": "Enjoy your evening.",
+      "speaker_name": "Andy Day",
+      "start_time": 3046.18,
+      "end_time": 3047.22
+    },
+    {
+      "text": "Yeah, cheerio, guys.",
+      "speaker_name": "stuart",
+      "start_time": 3047.3,
+      "end_time": 3048.58
+    },
+    {
+      "text": "Okay, goodbye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3052.82,
+      "end_time": 3054.02
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Retail Media",
+      "Platform Integration",
+      "Digital Advertising",
+      "In-Store Marketing",
+      "Partnership Acquisition",
+      "Revenue Operations"
+    ],
+    "action_items": "\n**Matthew Newcomb**\nDiscuss TSG partnership opportunity with CEO James during Monday meeting at ATS and Retail Media Pioneers event (40:28)\nSchedule follow-up call with Stuart and Andy for middle of next week pending James's feedback (40:53)\nDetermine Kevel's appetite for integrating non-digital retail media components (41:59)\n\n**Stuart Tiedeman**\nPrepare for potential demo session with Kevel CEO James if requested following Matthew's briefing (47:22)\nContinue Australia business trip planning for end-of-month meetings with major retailers (31:30)\n\n**Andy Day**\nCoordinate follow-up meeting logistics between TSG and Kevel teams based on Matthew's feedback from James (47:22)\n",
+    "outline": null,
+    "overview": "- Strong synergy identified between TSG's retail media tech and Kevel's ad server capabilities, particularly for supermarkets.\n- TSG transitioned from a commission model to a tech licensing model, achieving £1.4 million EBITDA with 25 employees.\n- Major clients boosting revenue include Sainsbury's/Argos (£750,000/year) and Endeavour Group Australia (£150,000/year).\n- TSG's Plan Hub platform supports diverse retail media campaigns, showing Next360 revenue growth from £26M to £350M annually.\n- Heineken realized a 4x ROI improvement through TSG's platform, generating £8.80 for every £1 invested in retail media.\n- TSG integrates with 72 APIs into existing systems like Oracle and PeopleSoft, enhancing campaign management and reporting.\n- International growth includes offices in Sydney and Montevideo, with support from the Uruguayan government for Spanish platform deployment.\n- Kevel's digital expertise noted; potential integration with TSG's offline capabilities to create 'retail media in a box' solution.\n- Matthew's recent hire at Kevel enhances partnership opportunities due to prior experience at Inskin Media and Azerian.\n- TSG's leadership structure involves significant equity stakes, with plans for potential exit and revenue of £3.4-4 million post invoicing adjustments.",
+    "short_summary": "The meeting highlighted the strong synergy between TSG's retail media technology and Kevel's ad server capabilities, particularly beneficial for supermarkets. TSG successfully transitioned from a commission model to a tech licensing model, achieving £1.4 million EBITDA with a lean team of 25 employees. Major clients, such as Sainsbury's/Argos and Endeavour Group Australia, significantly contribute to TSG's revenue. The Plan Hub platform has shown remarkable growth in Next360 revenue, increasing from £26M to £350M annually. Notably, Heineken experienced a 4x ROI improvement through TSG's platform. TSG's integration capabilities with 72 APIs into systems like Oracle enhance campaign management. Additionally, TSG is expanding internationally, supported by the Uruguayan government, while Kevel's digital expertise could lead to a comprehensive retail media solution. Matthew's recent addition to Kevel is expected to bolster partnership opportunities due to his relevant experience.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K47MKM769ZQ8DTWT875YFF6P",
+  "audio_url": "https://cdn.fireflies.ai/01K47MKM769ZQ8DTWT875YFF6P/audio.mp3?Expires=1773220845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzQ3TUtNNzY5WlE4RFRXVDg3NVlGRjZQL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0NX19fV19&Signature=Zpi0LimBVcCYtbk9pZXzUycm6dW1bNfCuDhMqcCIMvd8AikL4TSBJODIrbsYXXNdxvoCQzB6gH0YnxyN709Ile3546avCUUVwEkEmXHNjBMELdHhp3~t487uEeyayth4EgS83CE8gp2TtS6aQTkJ3i1xnHc0Fh7muOxmnaFssqa47oTA4RN18mAK-4xT-RyuWK6y5l-aSyKSbO35yrXUeC8xLt5KBFxXM~jXJ8Fwulw6Oq2U8kmpxjDSCcWGSfbY6DaF7XoG7Ub5PP9v2L1DTn3yGAYMqWbgl~lRCzFcT-eEjkA2-oBRtIffEW1T2uQrufDM0SQyb1HqPx~5fk1RkQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K47MKM769ZQ8DTWT875YFF6P/video.mp4?Expires=1773220845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzQ3TUtNNzY5WlE4RFRXVDg3NVlGRjZQL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0NX19fV19&Signature=x7o8mO05xmfShvQYJL1zg9whBZQAyo~49qOjpiTxhejIhfkr1nW4PEVKHEMLLvHhWUgRmMw-n0joAZQ0v2kSlHuwJyDdqMW2S7GaJ9sHEVLn5lQRQuZ59bohMNr7qYJCe470W84e1zF4pGS917LgXiJXGX9iLzCsfiornXqTXv-0MUMNEIqmcKs4q89e1ykJhVRzkbvTWbbQsKx4nR2oAzNfS5VDOh2gku2~YQi59kprqW-SdZKkuPRyHMqqLdFJywnswyZKM2KS5XbbhUqvgByXcTn308iYKP~OsSSj4qnabI8Jxr66UM1XUhfR-5kPELuHhTFy6-t8nUCUqDU4Mw__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

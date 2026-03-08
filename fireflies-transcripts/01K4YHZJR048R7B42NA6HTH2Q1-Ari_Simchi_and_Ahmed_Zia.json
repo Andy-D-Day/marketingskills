@@ -1,0 +1,1420 @@
+{
+  "id": "01K4YHZJR048R7B42NA6HTH2Q1",
+  "title": "Ari Simchi and Ahmed Zia",
+  "date": 1758117600000,
+  "dateString": "2025-09-17T14:00:00.000Z",
+  "duration": 16.34000015258789,
+  "participants": [
+    "ahmed.zia@capitala.co,ari@group8a.com,amanda.sapio@capitala.co",
+    "ari@group8a.com",
+    "amanda.sapio@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "ari@group8a.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "amanda.sapio@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hey, sorry about that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 0.4,
+      "end_time": 1.52
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 3.12,
+      "end_time": 3.92
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 3.92,
+      "end_time": 4.64
+    },
+    {
+      "text": "Good, how are you?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 4.88,
+      "end_time": 6
+    },
+    {
+      "text": "I'm doing really well.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 7.12,
+      "end_time": 8.24
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 9.04,
+      "end_time": 9.44
+    },
+    {
+      "text": "I'm sorry, I'm just going to turn.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 9.92,
+      "end_time": 13.28
+    },
+    {
+      "text": "I don't know why my volume is not.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 13.36,
+      "end_time": 15.52
+    },
+    {
+      "text": "Let me just go over having technical difficulties this morning.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 16.88,
+      "end_time": 20.72
+    },
+    {
+      "text": "There we go.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 20.72,
+      "end_time": 21.28
+    },
+    {
+      "text": "Are you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 22.72,
+      "end_time": 23.2
+    },
+    {
+      "text": "You're based in New York?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 23.2,
+      "end_time": 24.48
+    },
+    {
+      "text": "Yeah, I'm in New Jersey.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 26.41,
+      "end_time": 27.65
+    },
+    {
+      "text": "I'm like 10 minutes away from New York.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 27.65,
+      "end_time": 29.29
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 29.29,
+      "end_time": 30.17
+    },
+    {
+      "text": "Yeah, I lived in the city for about 10 years or so and I'm down in Austin now, which has been nice.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 30.49,
+      "end_time": 37.93
+    },
+    {
+      "text": "So it's early for you.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 37.93,
+      "end_time": 39.05
+    },
+    {
+      "text": "Yeah, yeah, it's 9:04.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 39.61,
+      "end_time": 41.45
+    },
+    {
+      "text": "Oh, you're only one hour.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 42.33,
+      "end_time": 43.33
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 43.33,
+      "end_time": 43.53
+    },
+    {
+      "text": "I thought it was two hours.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 43.53,
+      "end_time": 44.29
+    },
+    {
+      "text": "904 is not terrible.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 44.29,
+      "end_time": 45.45
+    },
+    {
+      "text": "Yeah, yeah, not too bad.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 45.69,
+      "end_time": 47.05
+    },
+    {
+      "text": "So, yeah, I was just on the call.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 47.21,
+      "end_time": 49.21
+    },
+    {
+      "text": "I had a 9 o' clock with the UK and they were like 6.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 49.21,
+      "end_time": 52.27
+    },
+    {
+      "text": "So apologetic.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 52.42,
+      "end_time": 53.46
+    },
+    {
+      "text": "I was like, it's not that bad.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 53.86,
+      "end_time": 54.98
+    },
+    {
+      "text": "It's nine o' clock or you know, my kids went to school at like 7 o', clock, so I've been up.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 54.98,
+      "end_time": 58.74
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 59.14,
+      "end_time": 61.82
+    },
+    {
+      "text": "Our team is in the uk so they're always kind of.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 61.82,
+      "end_time": 64.9
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 65.3,
+      "end_time": 65.78
+    },
+    {
+      "text": "So they're.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 65.78,
+      "end_time": 67.14
+    },
+    {
+      "text": "I'm used to the morning calls.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 68.02,
+      "end_time": 69.34
+    },
+    {
+      "text": "Usually my.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 69.34,
+      "end_time": 69.86
+    },
+    {
+      "text": "My day starts early, so.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 69.86,
+      "end_time": 71.38
+    },
+    {
+      "text": "But thank you for taking the time to connect.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 72.9,
+      "end_time": 76.1
+    },
+    {
+      "text": "If we want to start off, it would be great to just learn.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 76.9,
+      "end_time": 79.02
+    },
+    {
+      "text": "I took a look at Ahmed's website.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 79.02,
+      "end_time": 81.54
+    },
+    {
+      "text": "It looks great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 81.54,
+      "end_time": 82.27
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 82.42,
+      "end_time": 82.66
+    },
+    {
+      "text": "But would love to just hear a little bit more about the work that you're doing and kind of what drew you to Ahmed's email and then we can dive in a little bit.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 83.14,
+      "end_time": 92.7
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 92.7,
+      "end_time": 93.14
+    },
+    {
+      "text": "So we're a performance digital marketing agency.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 93.3,
+      "end_time": 96.1
+    },
+    {
+      "text": "I'm sure you've come across digital marketing agencies before.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 96.1,
+      "end_time": 99.46
+    },
+    {
+      "text": "We're based in the U.S. primarily, we're remote.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 101.06,
+      "end_time": 104.98
+    },
+    {
+      "text": "So we had.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 105.06,
+      "end_time": 105.78
+    },
+    {
+      "text": "We've been around for years in different structures.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 105.86,
+      "end_time": 109.14
+    },
+    {
+      "text": "I'd say under the current structure for the last like 10 years.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 109.14,
+      "end_time": 111.78
+    },
+    {
+      "text": "We had an office in the city for many years.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 113.49,
+      "end_time": 116.53
+    },
+    {
+      "text": "We are now remote.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 116.69,
+      "end_time": 118.77
+    },
+    {
+      "text": "Since COVID Covid started, we got out of our lease.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 118.77,
+      "end_time": 121.09
+    },
+    {
+      "text": "We've been remote ever since.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 121.09,
+      "end_time": 122.21
+    },
+    {
+      "text": "And now because of that we have employees all over the country.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 122.21,
+      "end_time": 126.29
+    },
+    {
+      "text": "The main services we do are Google marketing, Facebook marketing, email marketing, SMS marketing, affiliate marketing and influencer marketing.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 129.01,
+      "end_time": 139.21
+    },
+    {
+      "text": "And that kind of ties into the part of the interest for.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 139.21,
+      "end_time": 143.05
+    },
+    {
+      "text": "For this conversation.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 143.05,
+      "end_time": 144.25
+    },
+    {
+      "text": "What else?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 146.65,
+      "end_time": 147.37
+    },
+    {
+      "text": "Yeah, I mean that's super high level.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 147.85,
+      "end_time": 149.29
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 149.77,
+      "end_time": 150.33
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 150.41,
+      "end_time": 151.13
+    },
+    {
+      "text": "And have you acquired companies in the past or would this be your first acquisition?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 151.61,
+      "end_time": 156.33
+    },
+    {
+      "text": "This would be our first acquisition.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 157.21,
+      "end_time": 159.53
+    },
+    {
+      "text": "We've taken investment in the past.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 159.61,
+      "end_time": 161.69
+    },
+    {
+      "text": "So kind of opposite side.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 161.77,
+      "end_time": 164.49
+    },
+    {
+      "text": "We are now looking at certain strategic acquisition opportunities.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 165.45,
+      "end_time": 170.89
+    },
+    {
+      "text": "The two main ones we're looking at, and this could be maybe an extended conversation beyond just this opportunity, if you have other opportunities are sales funnel, so looking at acquiring similar sized, maybe even a little bigger because we could get outside funding or smaller agencies that have similar business models but have strong inbound or outbound sales funnels.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 172.21,
+      "end_time": 202.48
+    },
+    {
+      "text": "We have a decent sales engine, but we're looking to supplement it or grow it along with our operations.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 202.48,
+      "end_time": 212.72
+    },
+    {
+      "text": "We're a little unique in the way we started as an agency.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 213.199,
+      "end_time": 215.76
+    },
+    {
+      "text": "We started operationally first and then expanded into sales later where it's like, oh, let's do a really good job.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 215.76,
+      "end_time": 225.67
+    },
+    {
+      "text": "Let's use word of mouth, let's use relationships to support clients.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 225.67,
+      "end_time": 229.07
+    },
+    {
+      "text": "We have a business model where we get retainer plus commission if we do well.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 229.47,
+      "end_time": 233.15
+    },
+    {
+      "text": "So we could always sustain ourselves with our own performance.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 233.23,
+      "end_time": 235.87
+    },
+    {
+      "text": "But now we want to really grow sales.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 235.87,
+      "end_time": 237.43
+    },
+    {
+      "text": "So if there are any opportunities at all with similar types of businesses that are looking to sell because whatever reason, and they already have a strong sales engine in place, would love to talk to those if they're.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 237.43,
+      "end_time": 250.31
+    },
+    {
+      "text": "If you think they might be a fit.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 250.31,
+      "end_time": 251.71
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 252.19,
+      "end_time": 252.67
+    },
+    {
+      "text": "That said, this specific opportunity was uniquely interesting to us for similar but also different reasons.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 253.15,
+      "end_time": 260.91
+    },
+    {
+      "text": "I don't know how much high level knowledge you have or need, but affiliate marketing is one of our main channels.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 262.27,
+      "end_time": 268.35
+    },
+    {
+      "text": "We do a great job in affiliate marketing and one of the key components to the way we do affiliate marketing is we get content earned media, things like that.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 268.35,
+      "end_time": 278.92
+    },
+    {
+      "text": "So we basically position ourselves and have a content led affiliate approach.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 278.92,
+      "end_time": 285.24
+    },
+    {
+      "text": "PR is very overlapped with that mentality.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 286.52,
+      "end_time": 290.68
+    },
+    {
+      "text": "So we saw this and we saw an opportunity to seamlessly grow our content footprint and maybe also our sales footprint if they have strong sales, which is why this was very interesting to us and their size.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 291.56,
+      "end_time": 305.24
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 306.11,
+      "end_time": 306.35
+    },
+    {
+      "text": "Okay, that sounds great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 306.91,
+      "end_time": 308.51
+    },
+    {
+      "text": "And then last question.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 309.87,
+      "end_time": 311.87
+    },
+    {
+      "text": "How would you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 312.11,
+      "end_time": 313.03
+    },
+    {
+      "text": "How would the acquisition be funded?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 313.03,
+      "end_time": 315.15
+    },
+    {
+      "text": "You said that you have funding in.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 315.87,
+      "end_time": 317.11
+    },
+    {
+      "text": "Place, so I. I don't know.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 317.11,
+      "end_time": 319.27
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 319.27,
+      "end_time": 319.63
+    },
+    {
+      "text": "Long story short is I don't know.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 320.35,
+      "end_time": 321.79
+    },
+    {
+      "text": "I'm our VP of strategy.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 324.51,
+      "end_time": 325.99
+    },
+    {
+      "text": "Our CEO would handle that.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 325.99,
+      "end_time": 327.55
+    },
+    {
+      "text": "He mentioned to me that we could get outside funding.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 327.87,
+      "end_time": 330.71
+    },
+    {
+      "text": "We might be able to fund it ourselves.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 330.71,
+      "end_time": 332.27
+    },
+    {
+      "text": "That we probably could.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 332.27,
+      "end_time": 333.31
+    },
+    {
+      "text": "So I think there's numerous opportunities.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 334.21,
+      "end_time": 336.13
+    },
+    {
+      "text": "It would just depend on what made the most sense in order to structure it.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 336.21,
+      "end_time": 340.29
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 340.53,
+      "end_time": 340.93
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 341.09,
+      "end_time": 341.65
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 341.89,
+      "end_time": 342.61
+    },
+    {
+      "text": "Okay, well that sounds good.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 343.81,
+      "end_time": 345.73
+    },
+    {
+      "text": "And yeah, I actually have a marketing background.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 346.05,
+      "end_time": 349.13
+    },
+    {
+      "text": "I owned an affiliate marketing website for a couple years.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 349.13,
+      "end_time": 352.21
+    },
+    {
+      "text": "So yeah, very familiar with that whole world.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 352.29,
+      "end_time": 355.57
+    },
+    {
+      "text": "So the company is called the Last Layer.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 357.01,
+      "end_time": 359.33
+    },
+    {
+      "text": "I'm going to put the her website in the chat, it's owned by someone named Katie Hammond.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 359.71,
+      "end_time": 367.15
+    },
+    {
+      "text": "She's great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 367.47,
+      "end_time": 368.19
+    },
+    {
+      "text": "She lives in LA currently, but is in the process of moving to the UK actually, which is why she is looking to sell.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 368.75,
+      "end_time": 378.31
+    },
+    {
+      "text": "So I'm going to put this in the chat and then after this call, send over the information memorandum and that will have more details, details around the financials and it'll show, you know, the employees and all of that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 378.31,
+      "end_time": 391.66
+    },
+    {
+      "text": "So she is, you know, it's definitely a PR company, but she is more focused on the parenting space.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 393.58,
+      "end_time": 401.1
+    },
+    {
+      "text": "That's her niche.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 401.579,
+      "end_time": 403.02
+    },
+    {
+      "text": "I think she can, she can kind of do everything, but parenting has sort of become her.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 404.06,
+      "end_time": 410.54
+    },
+    {
+      "text": "Her niche that she focuses on.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 411.27,
+      "end_time": 412.79
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 413.59,
+      "end_time": 414.07
+    },
+    {
+      "text": "I mean, we've done a lot of, we've done a lot of parenting as well, and I saw that in the original email, so I don't foresee there being any issues.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 414.07,
+      "end_time": 426.55
+    },
+    {
+      "text": "What's she looking for in terms of her involvement?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 428.87,
+      "end_time": 432.23
+    },
+    {
+      "text": "Post sale?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 432.31,
+      "end_time": 434.47
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 434.95,
+      "end_time": 435.51
+    },
+    {
+      "text": "So with this move to the uk, I think she, you know, she definitely wants to make it this.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 435.59,
+      "end_time": 442
+    },
+    {
+      "text": "She's very, very, very invested in her clients.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 442,
+      "end_time": 444.44
+    },
+    {
+      "text": "Just like all companies, she wants to make a smooth transition for the clients.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 444.44,
+      "end_time": 448.84
+    },
+    {
+      "text": "Of course, I think her plan is to stay on kind of as long as she needs to to help make it a smooth transition and then that way she can just, you know, go and live in the UK and kind of start her next venture, whatever she ends up doing.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 448.84,
+      "end_time": 464.4
+    },
+    {
+      "text": "So I, I don't think she is looking to kind of, you know, join a larger entity and stay on.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 465.38,
+      "end_time": 471.86
+    },
+    {
+      "text": "Would that be of interest or are you hoping for, for the founder stay on?",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 472.26,
+      "end_time": 477.14
+    },
+    {
+      "text": "I think as, as long as necessary to support what we're trying to get out of it.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 478.74,
+      "end_time": 483.02
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 483.02,
+      "end_time": 483.3
+    },
+    {
+      "text": "So we're, we have a few key questions, right?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 483.3,
+      "end_time": 487.7
+    },
+    {
+      "text": "So like, for example, would this help us supporting and getting a lot more placements either for our existing brands or for new brands in this category that we could onboard and we can pitch them as, hey, we have deep connections in this space and they become clients and we could get a lot more placements.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 487.7,
+      "end_time": 506.39
+    },
+    {
+      "text": "So what the nature of the ability for us to continue doing that would be.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 506.39,
+      "end_time": 513.31
+    },
+    {
+      "text": "Or if she is the way to get it right, like, if she's the way to get it, then that's, that's a question mark.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 513.31,
+      "end_time": 519.94
+    },
+    {
+      "text": "We already have like a strong, strong foundation, so she might be able to impart that information and give us those relationships in the course of three, six months or she might not be able to.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 520.34,
+      "end_time": 532.42
+    },
+    {
+      "text": "So we need to understand, A, is she generating these types of placements and B, could they be Passed on to us.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 532.42,
+      "end_time": 539.14
+    },
+    {
+      "text": "What's the volume and value of those placements as she get them?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 539.62,
+      "end_time": 544.26
+    },
+    {
+      "text": "How is she getting clients?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 545.4,
+      "end_time": 546.6
+    },
+    {
+      "text": "Is there a system in place where she has, that she can impart to us of oh, this is how I get my 1 to 2 to 3 or however many clients per quarter per year.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 546.68,
+      "end_time": 556.84
+    },
+    {
+      "text": "How they're charging, is it something that translates over to us for their current charge and then what's their retention?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 558.52,
+      "end_time": 565.72
+    },
+    {
+      "text": "So if we can sort out all of these answers and probably more and she doesn't need to stay on long term for that, then we don't need her long term.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 565.8,
+      "end_time": 577.26
+    },
+    {
+      "text": "It's only a matter of eight of these answers fit with or without her for a business model.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 577.5,
+      "end_time": 581.94
+    },
+    {
+      "text": "And then can they, can they translate if she's gone?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 581.94,
+      "end_time": 585.34
+    },
+    {
+      "text": "Absolutely, yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 585.82,
+      "end_time": 587.38
+    },
+    {
+      "text": "No, that makes complete sense.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 587.38,
+      "end_time": 589.26
+    },
+    {
+      "text": "So her team, I believe there's 15 employees total and so the company sort of runs without her for the most part.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 589.66,
+      "end_time": 597.42
+    },
+    {
+      "text": "She set it up in a way where, you know, everyone is very good at their job and they can kind of operate without her.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 597.82,
+      "end_time": 604.78
+    },
+    {
+      "text": "I think she has taken a very sort of high level approach and she is just kind of managing from, from, from there.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 605.34,
+      "end_time": 612.54
+    },
+    {
+      "text": "But she really, she's been more focused on just kind of building her, her new life in the uk.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 612.54,
+      "end_time": 619.02
+    },
+    {
+      "text": "She's, she's there right now looking at places and you know, she's, she's kind of been able to take a step away from the business and the business is still running and profitable and doing well despite that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 619.02,
+      "end_time": 629.42
+    },
+    {
+      "text": "And then so, and she can probably speak to, you know, if you, if you and the team were interested, I will definitely set up a call between Katie and you and you can meet her because she could definitely speak a little bit more as to the PR placements and then how she's generating the leads and she'd be able to go into that in more detail.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 631.18,
+      "end_time": 653.42
+    },
+    {
+      "text": "Cause she does have kind of her own process on how I know that she has a marketing team and they have different processes in place on how they started off.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 653.99,
+      "end_time": 662.95
+    },
+    {
+      "text": "Similar to you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 662.95,
+      "end_time": 663.55
+    },
+    {
+      "text": "It was just word of mouth and it was kind of small.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 663.55,
+      "end_time": 666.19
+    },
+    {
+      "text": "And then she's built it over the last.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 666.19,
+      "end_time": 668.71
+    },
+    {
+      "text": "I think the company's been around for.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 669.19,
+      "end_time": 670.91
+    },
+    {
+      "text": "It's been over 10 years.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 670.91,
+      "end_time": 671.99
+    },
+    {
+      "text": "I can't remember what year it was founded, but they've been around.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 671.99,
+      "end_time": 675.27
+    },
+    {
+      "text": "So yeah, so she's built it into quite a company.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 675.59,
+      "end_time": 678.87
+    },
+    {
+      "text": "How many clients do they have now?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 679.84,
+      "end_time": 681.32
+    },
+    {
+      "text": "Do you know?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 681.32,
+      "end_time": 681.92
+    },
+    {
+      "text": "They're.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 682.8,
+      "end_time": 683.36
+    },
+    {
+      "text": "I can ask Ahmed and I believe it should be, it might be in the information memorandum which I thought I had it pulled up but Let me just double check with Ahmed and then I can include that in my email when I send over the IM.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 685.6,
+      "end_time": 698.72
+    },
+    {
+      "text": "But I know it says here 50 plus category defining brand supported.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 699.36,
+      "end_time": 704.56
+    },
+    {
+      "text": "I don't know if what that means.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 704.56,
+      "end_time": 705.91
+    },
+    {
+      "text": "But yeah, I think those, I don't know if that's.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 705.91,
+      "end_time": 710.67
+    },
+    {
+      "text": "Let me just see if I'm not seeing it in here.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 711.55,
+      "end_time": 714.51
+    },
+    {
+      "text": "Okay, I'll check with Ahmed just to see.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 714.83,
+      "end_time": 716.91
+    },
+    {
+      "text": "But yeah, on, on her website she has a few of the, of the clients listed, you know, Baby list and Canopy and, and in the im, there's, she has some case studies where she breaks down a little bit more information about the work that she did with them and the results and all that.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 717.07,
+      "end_time": 736.7
+    },
+    {
+      "text": "That'll all be in there.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 738.14,
+      "end_time": 739.02
+    },
+    {
+      "text": "But, but yeah, I'll just get back to you when I, when I send over the email.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 739.02,
+      "end_time": 742.3
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 743.02,
+      "end_time": 743.7
+    },
+    {
+      "text": "Yeah, I would, I would love to talk to her as a next step.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 743.7,
+      "end_time": 746.7
+    },
+    {
+      "text": "For me, this could go in a lot of different directions, but I kind of see this as like absorbing a PR arm that supports our total business, but also lives autonomously and can hopefully grow autonomously.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 748.78,
+      "end_time": 760.62
+    },
+    {
+      "text": "Um, so I think it, it has a lot of opportunity from both.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 761.06,
+      "end_time": 763.78
+    },
+    {
+      "text": "So any, like, before I speak to her, any like high level call outs of like, you know, transparently, there's this.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 763.78,
+      "end_time": 773.06
+    },
+    {
+      "text": "Or just so, you know, don't do this on the call, like just anything to point out.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 773.14,
+      "end_time": 778.9
+    },
+    {
+      "text": "That's a good question.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 780.58,
+      "end_time": 781.62
+    },
+    {
+      "text": "No, I mean she's, she has a great personality.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 782.26,
+      "end_time": 784.26
+    },
+    {
+      "text": "She's very bubbly, she's really talkative.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 784.26,
+      "end_time": 786.74
+    },
+    {
+      "text": "So she'll probably, you know, if you ask her question, she gets very, she's very engaging and she'll probably get like, you know, she, she'll give you a lot of information because, because she, she's just super passionate and you know, she, she loves this, this brand.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 786.82,
+      "end_time": 802.08
+    },
+    {
+      "text": "I would say another thing, she'll definitely speak, talk about this.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 802.08,
+      "end_time": 805.36
+    },
+    {
+      "text": "She's, she's burnt out.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 805.52,
+      "end_time": 806.84
+    },
+    {
+      "text": "That's another thing where she's just, she's kind of.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 806.84,
+      "end_time": 809.68
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 810.32,
+      "end_time": 811.28
+    },
+    {
+      "text": "We're all there.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 812.64,
+      "end_time": 813.52
+    },
+    {
+      "text": "But you know, she's been running this business for a while.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 814.24,
+      "end_time": 817.04
+    },
+    {
+      "text": "She's, she's young, I think.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 817.36,
+      "end_time": 818.96
+    },
+    {
+      "text": "I don't know how old she is, but she's pretty, probably in her late 30s.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 818.96,
+      "end_time": 821.86
+    },
+    {
+      "text": "And she's just, I think she's just very burnt out and just ready to kind of move into the next phase of her life.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 822.58,
+      "end_time": 828.9
+    },
+    {
+      "text": "She, like I said at the beginning of the call, she's very, very.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 829.7,
+      "end_time": 832.66
+    },
+    {
+      "text": "She really wants this to be a seamless transition for the clients, for her employees.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 833.54,
+      "end_time": 838.34
+    },
+    {
+      "text": "She's very, that's been the most important thing to her by far, but she's also just kind of ready once that process is done, I think she, she's ready to move on into different things.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 838.34,
+      "end_time": 849.54
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 849.6,
+      "end_time": 849.76
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 849.99,
+      "end_time": 850.23
+    },
+    {
+      "text": "Okay, perfect.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 850.95,
+      "end_time": 851.99
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 852.07,
+      "end_time": 852.55
+    },
+    {
+      "text": "If she's interested, we are interested.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 852.63,
+      "end_time": 855.27
+    },
+    {
+      "text": "You know, I think it could be a good fit.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 856.95,
+      "end_time": 858.79
+    },
+    {
+      "text": "And then like I said at the beginning of the call, if you have other opportunities, this one's unique because of the affiliate PR component.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 859.67,
+      "end_time": 869.31
+    },
+    {
+      "text": "But if you have other agencies similar ish size that have specifically strong sales engines, that could be supplemental.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 869.31,
+      "end_time": 880.83
+    },
+    {
+      "text": "We'd also love to look at those as well.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 880.83,
+      "end_time": 883.47
+    },
+    {
+      "text": "Okay, yeah, that would be great.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 883.79,
+      "end_time": 885.47
+    },
+    {
+      "text": "And then Capitala A also has, you know, if, if you, if you and the team actually wanted to do like a full on process, we would bring you down the line.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 885.87,
+      "end_time": 895.59
+    },
+    {
+      "text": "If you wanted to, we could, you know, bring you on as clients and do a formal buy side search for you.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 895.59,
+      "end_time": 900.83
+    },
+    {
+      "text": "And that would involve me and the team screening the prospective site sellers.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 901.23,
+      "end_time": 906.55
+    },
+    {
+      "text": "We go through that process and then we would send you the information and then set up calls.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 906.63,
+      "end_time": 910.31
+    },
+    {
+      "text": "So we kind of have a formalized process.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 910.87,
+      "end_time": 913.23
+    },
+    {
+      "text": "But in the meantime we'll definitely, we'll kind of set, you know, we'll send you, and I know we send out the email blast, but we'll send you individual emails as well with, with companies that could be a good fit because there's a lot that are coming through now.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 913.23,
+      "end_time": 925.87
+    },
+    {
+      "text": "It seems like everyone is selling.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 925.87,
+      "end_time": 927.71
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 927.71,
+      "end_time": 928.07
+    },
+    {
+      "text": "Is that the AI push?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 929.91,
+      "end_time": 931.19
+    },
+    {
+      "text": "Is that because of AI you think?",
+      "speaker_name": "Ari Simchi",
+      "start_time": 931.19,
+      "end_time": 932.47
+    },
+    {
+      "text": "Yeah, it's been a big thing.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 932.69,
+      "end_time": 933.97
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 933.97,
+      "end_time": 934.33
+    },
+    {
+      "text": "AI and just with, with everything that's been going on with you know, like changes in legislation and tariffs and just everything that's, that's happened, it seems like people are this like mass consolidation is going on right now.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 934.33,
+      "end_time": 947.33
+    },
+    {
+      "text": "So it's been interesting.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 947.41,
+      "end_time": 949.13
+    },
+    {
+      "text": "But it's a good time to buy.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 949.13,
+      "end_time": 950.45
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 951.33,
+      "end_time": 951.89
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 951.89,
+      "end_time": 952.29
+    },
+    {
+      "text": "Good time to buy.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 952.29,
+      "end_time": 953.09
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 953.25,
+      "end_time": 953.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 954.13,
+      "end_time": 954.61
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 954.77,
+      "end_time": 955.33
+    },
+    {
+      "text": "Thank you so much and I look forward to hearing back from you guys.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 955.41,
+      "end_time": 958.85
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 959.13,
+      "end_time": 959.53
+    },
+    {
+      "text": "All right, I should have an email over to you by today at the latest.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 959.53,
+      "end_time": 962.65
+    },
+    {
+      "text": "It was nice to meet you and we'll talk soon.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 963.85,
+      "end_time": 965.77
+    },
+    {
+      "text": "Nice to meet you too.",
+      "speaker_name": "Ari Simchi",
+      "start_time": 966.25,
+      "end_time": 967.29
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 967.93,
+      "end_time": 968.25
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Amanda Sapio",
+      "start_time": 968.25,
+      "end_time": 968.57
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Digital marketing agency",
+      "Affiliate marketing",
+      "PR acquisition",
+      "Sales funnel",
+      "Parenting niche",
+      "Information memorandum"
+    ],
+    "action_items": "\n**Amanda Sapio**\nSend Ari Simchi the information memorandum for The Last Layer including financials, client data, and case studies (06:53)\nConfirm and provide exact client count and other requested details from Ahmed regarding The Last Layer (11:38)\nArrange a call between Ari Simchi and Katie Hammond for detailed discussions about PR placements and client acquisition processes (11:50)\nSend Ari individual deal opportunities with companies having strong sales engines and relevant business models (14:45)\nProvide details about Capitala’s formal buy-side acquisition services and initiate engagement if Ari’s team is interested (14:50)\n\n**Ari Simchi**\nPrepare questions for the call with Katie Hammond focusing on sales placements, client acquisition systems, retention, and transition plans of client relationships (08:40)\nParticipate in the follow-up call with Katie Hammond for deeper due diligence on The Last Layer’s operations and integration potential (12:15)\n",
+    "outline": null,
+    "overview": "- Team members are located in New Jersey and Austin, facilitating remote collaboration for digital marketing strategies.\n- Ari Simchi's agency specializes in performance and content-led affiliate marketing, including various online platforms like Google and Facebook.\n- The pursuit of strategic acquisitions aims to enhance their sales funnels and strengthen overall sales capabilities.\n- Ari views affiliate marketing and PR as complementary fields, indicating interest in expanding through PR-related acquisitions.\n- Funding strategies for acquisitions will combine internal resources with potential external financing, as decided by the CEO.\n- The Last Layer, a PR firm led by Katie Hammond, serves over 50 category-defining brands and targets the parenting niche.\n- Katie Hammond plans to maintain involvement during the transition to ensure stability post-sale for her 15-member team.\n- Key questions raised regarding client retention and relationship transfer highlight concerns over founder involvement after acquisition.\n- Amanda emphasized Capitala’s capabilities in conducting formal buy-side acquisition searches amidst increasing market activity driven by AI.\n- Interest expressed in other similarly sized agencies with strong sales engines indicates a broader acquisition strategy beyond the current opportunity with The Last Layer.",
+    "short_summary": "Ari Simchi’s digital marketing agency, which has been operational for 10 years, is considering acquiring The Last Layer, a PR agency specializing in the parenting niche, owned by Katie Hammond. The acquisition aims to leverage The Last Layer’s established sales funnel and strong marketing capabilities to expand the agency's content footprint and improve their operational model. Funding options for the acquisition remain flexible, with self-funding and outside funding being considered. The Last Layer operates independently with about 15 employees and has been stable for over a decade. The company’s founder plans a short-term transition to ensure client and operational continuity. Next steps include a call with Hammond to discuss client acquisition and retention metrics, as well as evaluating the transition process.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K4YHZJR048R7B42NA6HTH2Q1",
+  "audio_url": "https://cdn.fireflies.ai/01K4YHZJR048R7B42NA6HTH2Q1/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRZSFpKUjA0OFI3QjQyTkE2SFRIMlExL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=I3yX3JbHUF6CSIylC-1oAb5yDijPGbAUTAjItMAVaQYmXV1FEAI2ZcHMY0z9x4sCOToGQBOlSXQ5BZTzE37W0X-LTedICKaV59adRV~K3JhP5NyIMwlkfu3WDqjAL4GLnORuLDYSKd8n0ndqCy3UYc4rsx1~ky0yNbN8Zopv5OCFyU9929Hb5wA2WI6i-nOWcgifmBcrSSVZm71~HN4nP4YugiZREaArxO5I4-jQHMo6e9RS9PzKcxqv4YjKRj~veVV7xE25CSrDYn5HLuKU9nPOTrjdbPxXkX81mE2y8mHjXtRU1ZDV23~CRcRJVuXSFqyOgwxtAw~8wpwklJxVRg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K4YHZJR048R7B42NA6HTH2Q1/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzRZSFpKUjA0OFI3QjQyTkE2SFRIMlExL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=yBldlKT8xpxptkXxoi2jT3Ac~AIvjEsRGoaCTUAbecuATqSZHK~rOdOnj7cjfX5R4Sit9KTfui9uMQ~YWquS8N0bDBQHHSdiBdaPt9XrImawbV7w0mj521K26vbQvYhQWZD~UW~~AppUhcbR2zScT8BL0ze9KYpTOf-am9yRB~DsAqjzwP0PdJK-owOtb4xMTYCk1C5lkYulDjTcveArUVW2G~fohnX9RxgbgGF2WlFN4JeejzLTq6fkcYG5K9WHGVaJdotVy1axpHe3eMVj6TpZHTPvfkPvI9tCzlvUKNHQLZZpiOa-VH4PR~TQYrKXnWd~BcHcdv7DCTZq8eOkag__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

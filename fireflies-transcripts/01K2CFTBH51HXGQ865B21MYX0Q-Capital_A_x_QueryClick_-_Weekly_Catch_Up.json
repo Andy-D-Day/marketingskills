@@ -1,0 +1,993 @@
+{
+  "id": "01K2CFTBH51HXGQ865B21MYX0Q",
+  "title": "Capital A x QueryClick - Weekly Catch Up",
+  "date": 1755075600000,
+  "dateString": "2025-08-13T09:00:00.000Z",
+  "duration": 8.779999732971191,
+  "participants": [
+    "ahmed.zia@capitala.co,chris.liversidge@queryclick.com,andrew.day@capitala.co,fitzpatrick.brian1@gmail.com,lee-anne.lindsay@queryclick.com,richard.lewis@queryclick.com,richard@rclconsulting.co.uk,christopher.liversidge@corvidae.ai",
+    "chris.liversidge@queryclick.com",
+    "andrew.day@capitala.co",
+    "fitzpatrick.brian1@gmail.com",
+    "lee-anne.lindsay@queryclick.com",
+    "richard.lewis@queryclick.com",
+    "richard@rclconsulting.co.uk",
+    "christopher.liversidge@corvidae.ai"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris.liversidge@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "fitzpatrick.brian1@gmail.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "lee-anne.lindsay@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard.lewis@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard@rclconsulting.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "christopher.liversidge@corvidae.ai",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 3.04,
+      "end_time": 4.72
+    },
+    {
+      "text": "Hi LA.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 9.52,
+      "end_time": 10.4
+    },
+    {
+      "text": "How are you doing?",
+      "speaker_name": "LA",
+      "start_time": 14.16,
+      "end_time": 14.96
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 16.32,
+      "end_time": 17.36
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 17.36,
+      "end_time": 18
+    },
+    {
+      "text": "Good, good.",
+      "speaker_name": "LA",
+      "start_time": 18.48,
+      "end_time": 19.2
+    },
+    {
+      "text": "Just going to move you over so I can see you.",
+      "speaker_name": "LA",
+      "start_time": 21.12,
+      "end_time": 23.2
+    },
+    {
+      "text": "Better.",
+      "speaker_name": "LA",
+      "start_time": 23.2,
+      "end_time": 23.52
+    },
+    {
+      "text": "Plan.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 25.61,
+      "end_time": 25.85
+    },
+    {
+      "text": "Is Brian gonna be joining?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 34.17,
+      "end_time": 35.69
+    },
+    {
+      "text": "Because I didn't see his.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 35.69,
+      "end_time": 37.13
+    },
+    {
+      "text": "I'm not sure because I think he was going on leave.",
+      "speaker_name": "LA",
+      "start_time": 38.25,
+      "end_time": 41.53
+    },
+    {
+      "text": "I'm not sure if he was traveling today or tomorrow.",
+      "speaker_name": "LA",
+      "start_time": 42.25,
+      "end_time": 44.89
+    },
+    {
+      "text": "If he hasn't responded, I suspect he's not joining us today.",
+      "speaker_name": "LA",
+      "start_time": 45.93,
+      "end_time": 49.13
+    },
+    {
+      "text": "But Chris is joining us.",
+      "speaker_name": "LA",
+      "start_time": 49.37,
+      "end_time": 50.57
+    },
+    {
+      "text": "Chris says Chris.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 51.7,
+      "end_time": 52.58
+    },
+    {
+      "text": "Chris accepted.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 52.66,
+      "end_time": 53.78
+    },
+    {
+      "text": "Richard.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 53.78,
+      "end_time": 54.42
+    },
+    {
+      "text": "Richard also declined.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 54.66,
+      "end_time": 56.18
+    },
+    {
+      "text": "Richard is not gonna join as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 56.26,
+      "end_time": 58.26
+    },
+    {
+      "text": "And Andrew is also aware today.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 59.62,
+      "end_time": 62.5
+    },
+    {
+      "text": "Hi, Chris.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 62.58,
+      "end_time": 63.3
+    },
+    {
+      "text": "Hey guys.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 65.22,
+      "end_time": 65.94
+    },
+    {
+      "text": "Yeah, hi.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 66.58,
+      "end_time": 67.86
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 68.02,
+      "end_time": 68.82
+    },
+    {
+      "text": "I'm very well, thank you.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 69.54,
+      "end_time": 70.66
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 70.66,
+      "end_time": 70.9
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 70.9,
+      "end_time": 71.46
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 72.34,
+      "end_time": 73.46
+    },
+    {
+      "text": "How is your guys?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 75.46,
+      "end_time": 76.58
+    },
+    {
+      "text": "I think you guys were traveling Monday, I think was.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 76.82,
+      "end_time": 81.34
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 83.02,
+      "end_time": 83.5
+    },
+    {
+      "text": "Great to hear.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 86.14,
+      "end_time": 86.9
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 86.9,
+      "end_time": 87.5
+    },
+    {
+      "text": "So, yeah, just, just a general catch up.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 88.7,
+      "end_time": 91.74
+    },
+    {
+      "text": "So August is usually very notorious for M and A activity.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 91.74,
+      "end_time": 96.22
+    },
+    {
+      "text": "So most people, key decision makers, are away on vacation.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 96.38,
+      "end_time": 100.62
+    },
+    {
+      "text": "So we tend to pause our outreaches in August and then we resume from the first week of September.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 100.62,
+      "end_time": 107.19
+    },
+    {
+      "text": "So just wanted to update you on Quanta.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 108.15,
+      "end_time": 110.99
+    },
+    {
+      "text": "So they were super keen, but then they just came in and they're like, you know, our strategic priorities have changed and therefore we cannot make an offer.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 110.99,
+      "end_time": 119.67
+    },
+    {
+      "text": "So that was unfortunate.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 119.909,
+      "end_time": 121.91
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 122.47,
+      "end_time": 122.87
+    },
+    {
+      "text": "And also owner.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 124.23,
+      "end_time": 126.15
+    },
+    {
+      "text": "So we proposed a counteroffer to them, but they were like, the valuation is still high to them.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 126.15,
+      "end_time": 132.559
+    },
+    {
+      "text": "5x.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 132.559,
+      "end_time": 133.159
+    },
+    {
+      "text": "They.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 133.239,
+      "end_time": 133.639
+    },
+    {
+      "text": "Went back with.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 136.199,
+      "end_time": 136.999
+    },
+    {
+      "text": "Sorry, what was the counteroffer you went back with?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 138.119,
+      "end_time": 141.159
+    },
+    {
+      "text": "So we wanted them to introduce a cash upfront component to the deal and as well as reconsider the valuation because they gave us like $2 million.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 142.279,
+      "end_time": 153.239
+    },
+    {
+      "text": "So we were like, that's way too low.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 153.959,
+      "end_time": 156.24
+    },
+    {
+      "text": "And they were like, since the business is not growing and there's like a steady decline in revenue, they lost clients.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 156.64,
+      "end_time": 162.36
+    },
+    {
+      "text": "We therefore cannot propose a higher valuation.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 162.36,
+      "end_time": 166.08
+    },
+    {
+      "text": "So they had to drop off.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 166.32,
+      "end_time": 168.72
+    },
+    {
+      "text": "But on the other side now I think we, with your approval of the listing, I think we will get more interest and more engagement.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 169.04,
+      "end_time": 177.48
+    },
+    {
+      "text": "We still have one buyer, Capital A, they're entrusted but they're guys away till September so we'll, we'll screen them on in the first week of September and then we hope they'll be with that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 177.48,
+      "end_time": 193.22
+    },
+    {
+      "text": "So that's, that's an update.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 193.22,
+      "end_time": 195.74
+    },
+    {
+      "text": "Also we're building another set of lists of both financial and strategic buyers.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 195.74,
+      "end_time": 200.18
+    },
+    {
+      "text": "So we'll be reaching out to them as well.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 200.5,
+      "end_time": 202.42
+    },
+    {
+      "text": "But that as well in September because in August it's just, there's like no responses.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 202.42,
+      "end_time": 208.02
+    },
+    {
+      "text": "It's just automatic replies from everyone.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 208.02,
+      "end_time": 210.34
+    },
+    {
+      "text": "So it's just wasted Opportunity.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 210.5,
+      "end_time": 213.23
+    },
+    {
+      "text": "So we think September will be able to get more momentum and more responses.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 213.23,
+      "end_time": 218.35
+    },
+    {
+      "text": "Are you going to go back to some of the people that served their decline around valuation?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 218.83,
+      "end_time": 225.39
+    },
+    {
+      "text": "So I mean we, we use like some of them.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 227.71,
+      "end_time": 230.75
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 230.75,
+      "end_time": 231.15
+    },
+    {
+      "text": "Who, who came up with like you know, the valuation expectation?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 231.15,
+      "end_time": 235.27
+    },
+    {
+      "text": "We'll definitely go back to them and be like, you know, they're listed now for 5X.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 235.27,
+      "end_time": 239.37
+    },
+    {
+      "text": "What's your.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 239.37,
+      "end_time": 240.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 240.41,
+      "end_time": 240.97
+    },
+    {
+      "text": "We'Ll definitely be going back to some of the buyers, even to Quanta.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 243.37,
+      "end_time": 246.85
+    },
+    {
+      "text": "We, I mean Quanta, yeah, they're dropped off because we gave them a 5x.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 246.85,
+      "end_time": 251.53
+    },
+    {
+      "text": "They said they'll come around a 5x but I don't know what happened.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 251.85,
+      "end_time": 255.21
+    },
+    {
+      "text": "They just drop off all of a sudden and that's their only reason.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 255.21,
+      "end_time": 259.33
+    },
+    {
+      "text": "They just said, you know, it's just our strategic priorities changed.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 259.33,
+      "end_time": 262.93
+    },
+    {
+      "text": "But we're sure that in September the M and A activity picks up again till like mid November.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 262.93,
+      "end_time": 271.23
+    },
+    {
+      "text": "There's a large number of buyers so we'll making a list and we'll definitely go back to that with Quanta.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 271.63,
+      "end_time": 279.309
+    },
+    {
+      "text": "Can you inquire if the software was part of their change, strategic direction or not?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 279.309,
+      "end_time": 286.59
+    },
+    {
+      "text": "The lack of software software.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 286.75,
+      "end_time": 289.96
+    },
+    {
+      "text": "Because they obviously showed a lot of interest in the Corvidae software initially.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 292.76,
+      "end_time": 295.72
+    },
+    {
+      "text": "So just on like if you go with, with that so there, is there any expectations regarding the price?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 297.72,
+      "end_time": 304.2
+    },
+    {
+      "text": "We can just be like, you know, this is the valuation they're expecting for.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 304.2,
+      "end_time": 308.04
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 309.08,
+      "end_time": 309.4
+    },
+    {
+      "text": "At the moment I would just be interested to find out if this shift in strategy is because of the software aspect and if so just advise that we should probably have more discussion.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 309.4,
+      "end_time": 319.38
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 320.1,
+      "end_time": 320.66
+    },
+    {
+      "text": "And yeah, and then in terms of like the other buyers on the list, we like, like I said, August is very notorious for lower responses on email.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 325.06,
+      "end_time": 337.38
+    },
+    {
+      "text": "So that's why I think most of them are just on vacations.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 337.54,
+      "end_time": 340.9
+    },
+    {
+      "text": "We just get automated replies or no replies.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 340.9,
+      "end_time": 343.73
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 343.73,
+      "end_time": 344.05
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "LA",
+      "start_time": 344.05,
+      "end_time": 344.57
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 344.65,
+      "end_time": 345.13
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 348.09,
+      "end_time": 348.73
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 349.85,
+      "end_time": 350.37
+    },
+    {
+      "text": "And then all the ones you have listed that are chasing and non responsive for screening calls, you're going to be going into them with the new valuation?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 350.37,
+      "end_time": 357.93
+    },
+    {
+      "text": "Yes, a new teaser, new listing is that they'll be going down.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 358.81,
+      "end_time": 362.57
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 363.37,
+      "end_time": 363.93
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 365.13,
+      "end_time": 365.69
+    },
+    {
+      "text": "Elliot, you got any questions?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 366.82,
+      "end_time": 368.18
+    },
+    {
+      "text": "No, not on this.",
+      "speaker_name": "LA",
+      "start_time": 368.34,
+      "end_time": 369.46
+    },
+    {
+      "text": "Do you have multiples that you have used for other SaaS companies?",
+      "speaker_name": "LA",
+      "start_time": 370.02,
+      "end_time": 375.14
+    },
+    {
+      "text": "Yes, I mean most of our sellers are in the marketing and media space.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 377.14,
+      "end_time": 382.02
+    },
+    {
+      "text": "So we, we, we have one client that's partially SaaS, partially marketing.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 383.46,
+      "end_time": 389.82
+    },
+    {
+      "text": "So with them we are proposing a 12X but they're, they're in a different space, they're retail marketing.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 389.82,
+      "end_time": 397.78
+    },
+    {
+      "text": "So but yeah, for them we are, we're expecting 12 bucks like that's proposed multiple for them.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 397.78,
+      "end_time": 405.5
+    },
+    {
+      "text": "Okay, thanks.",
+      "speaker_name": "LA",
+      "start_time": 406.14,
+      "end_time": 409.1
+    },
+    {
+      "text": "All right, I'm done.",
+      "speaker_name": "LA",
+      "start_time": 411.42,
+      "end_time": 413.34
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 413.66,
+      "end_time": 414.3
+    },
+    {
+      "text": "Same.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 414.38,
+      "end_time": 414.78
+    },
+    {
+      "text": "Anything else, Ahmed, or you?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 415.5,
+      "end_time": 417.18
+    },
+    {
+      "text": "That.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 417.18,
+      "end_time": 417.54
+    },
+    {
+      "text": "Is that you?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 417.54,
+      "end_time": 418.22
+    },
+    {
+      "text": "Sorry, can you repeat anything else for me?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 419.99,
+      "end_time": 423.59
+    },
+    {
+      "text": "I mean, like, our reservation was just around the valuation, so I think now, once that's agreed upon, I think we should be good to go.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 425.03,
+      "end_time": 433.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 433.67,
+      "end_time": 434.23
+    },
+    {
+      "text": "When's the next meeting planned for then?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 435.67,
+      "end_time": 438.15
+    },
+    {
+      "text": "Let me check.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 439.75,
+      "end_time": 440.55
+    },
+    {
+      "text": "25th.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 442.55,
+      "end_time": 443.15
+    },
+    {
+      "text": "August.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 443.15,
+      "end_time": 443.67
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 448.16,
+      "end_time": 448.64
+    },
+    {
+      "text": "And given your comments about August, do you expect much change?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 448.64,
+      "end_time": 452.56
+    },
+    {
+      "text": "September would.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 454.32,
+      "end_time": 455.28
+    },
+    {
+      "text": "Would be a better ballpark, I would say, yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 455.52,
+      "end_time": 460.24
+    },
+    {
+      "text": "All right, thank you.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 461.04,
+      "end_time": 462.48
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 464,
+      "end_time": 464.48
+    },
+    {
+      "text": "So also we're planning to like just a few approval, just putting a narrative on the financial page of the im just to showcase, you know what.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 464.96,
+      "end_time": 476.75
+    },
+    {
+      "text": "Why is there a decline in the revenue and what's done to like, why is it projected revenues higher for the next few years?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 476.75,
+      "end_time": 484.55
+    },
+    {
+      "text": "So are you okay if we put something like that in there?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 484.55,
+      "end_time": 487.67
+    },
+    {
+      "text": "If we can see it beforehand?",
+      "speaker_name": "LA",
+      "start_time": 489.27,
+      "end_time": 491.03
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 491.35,
+      "end_time": 491.83
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 492.55,
+      "end_time": 493.11
+    },
+    {
+      "text": "You not previously showed something along those lines.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 493.83,
+      "end_time": 496.03
+    },
+    {
+      "text": "La.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 496.03,
+      "end_time": 496.31
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 496.83,
+      "end_time": 497.23
+    },
+    {
+      "text": "Yeah, but I just.",
+      "speaker_name": "LA",
+      "start_time": 497.87,
+      "end_time": 499.63
+    },
+    {
+      "text": "I don't know what they're going to put.",
+      "speaker_name": "LA",
+      "start_time": 499.63,
+      "end_time": 500.71
+    },
+    {
+      "text": "Take out extract from that.",
+      "speaker_name": "LA",
+      "start_time": 500.71,
+      "end_time": 502.19
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 502.27,
+      "end_time": 502.75
+    },
+    {
+      "text": "So if you can share what you.",
+      "speaker_name": "LA",
+      "start_time": 503.07,
+      "end_time": 504.35
+    },
+    {
+      "text": "What your proposal is, then.",
+      "speaker_name": "LA",
+      "start_time": 504.35,
+      "end_time": 505.87
+    },
+    {
+      "text": "Yeah, we can just review and have a look.",
+      "speaker_name": "LA",
+      "start_time": 506.27,
+      "end_time": 508.03
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 508.35,
+      "end_time": 508.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 508.83,
+      "end_time": 509.15
+    },
+    {
+      "text": "Okay, happy to do that.",
+      "speaker_name": "LA",
+      "start_time": 509.15,
+      "end_time": 510.83
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 511.47,
+      "end_time": 513.47
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "LA",
+      "start_time": 514.51,
+      "end_time": 515.07
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 515.39,
+      "end_time": 515.95
+    },
+    {
+      "text": "Thank you guys.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 515.95,
+      "end_time": 516.71
+    },
+    {
+      "text": "Have a great week.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 516.71,
+      "end_time": 517.79
+    },
+    {
+      "text": "Cheers, you too.",
+      "speaker_name": "LA",
+      "start_time": 518.11,
+      "end_time": 519.07
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 519.39,
+      "end_time": 519.95
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 520.43,
+      "end_time": 520.91
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 520.91,
+      "end_time": 521.47
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "M&A activity",
+      "valuation",
+      "Quanta",
+      "September outreach",
+      "SaaS multiples",
+      "Corvidae software"
+    ],
+    "action_items": "\n**Ahmed Zia**\nInquire with Quanta whether their strategic direction change was related to the software component (04:46)\nResume outreach to buyers in first week of September with new valuation (03:38)\nScreen Capital A in first week of September (03:38)\nRe-engage with previously interested buyers using new 5x listing (03:47)\nPrepare financial narrative for information memorandum explaining revenue decline and projections (07:44)\nShare proposed narrative content for review before implementation (08:09)\n\n**Chris Liversidge**\nReview proposed financial narrative content before approval (08:09)\n",
+    "outline": null,
+    "overview": "- August M&A outreach paused due to low response rates; resuming first week of September to align with key decision-makers' return.  \n- Quanta, once a keen buyer, withdrew due to changed strategic priorities, previously interested at a 5x valuation.  \n- Owner rejected proposed counteroffer with cash upfront, citing business decline and client losses to maintain $2 million valuation.  \n- Capital A remains as the sole interested buyer, currently unavailable until September; screening planned for the same timeframe.  \n- Developing new lists of financial and strategic buyers for September outreach to expand buyer base.  \n- Strategy to re-engage previously interested buyers with updated 5x valuation, including those like Quanta.  \n- Inquiry initiated to explore if Quanta's withdrawal is linked to the Corvidae software component.  \n- SaaS valuation benchmarks noted, with a cited 12x multiple for partially SaaS clients in the retail marketing sector.  \n- Request made for a financial narrative in the information memorandum to explain revenue decline and future growth projections.  \n- Next meeting scheduled for August 25th with expectations for more significant progress in September discussions.",
+    "short_summary": "The meeting discussed the pause of August M&A outreach due to low response rates, with plans to resume in September to align with key decision-makers' return. Quanta, a previously interested buyer, withdrew due to shifting strategic priorities, despite having shown interest at a 5x valuation. The owner rejected a counteroffer involving cash upfront, maintaining a $2 million valuation despite business decline and client losses. Capital A remains the sole interested buyer but is unavailable until September, with screenings planned for that timeframe. The strategy includes developing new lists of financial and strategic buyers to expand the buyer base and re-engaging previous interested buyers with an updated 5x valuation, including Quanta. An inquiry was initiated to see if Quanta's withdrawal relates to the Corvidae software component, alongside noting SaaS valuation benchmarks with a 12x multiple for partially SaaS clients in retail marketing. A financial narrative is requested for the information memorandum to explain revenue decline and future projections, with the next meeting scheduled for August 25th, aiming for significant progress in September discussions.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K2CFTBH51HXGQ865B21MYX0Q",
+  "audio_url": "https://cdn.fireflies.ai/01K2CFTBH51HXGQ865B21MYX0Q/audio.mp3?Expires=1773220845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzJDRlRCSDUxSFhHUTg2NUIyMU1ZWDBRL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0NX19fV19&Signature=DEoWxi9mpRQSHsS9CGBcntLEPu7IujYGRTmIyVF-oeSNu~8HulJy70MtuUCloZZx5Z0N3W6dX~qVer~50BJhjvUMteCQlGEgBaXIGXZJ99UrIS8CCf28TAqxHMHVr2sV2O6XStg9fLiy2hGkpba6Hkfz~Sr33o~og9790rMtpbSV8rB-QpkdW5EhQhZs~JCA37DHLjDMjTJFjlhsWdNONlgUw3WmeJCOgAd0wbHpTXotwrCpsO1o-Wysd1qd~aKOWIHCbDzyAk7XRboKgNGtFae51C6grVnKhFZVnGSnZ11mtHNrEGGV84WLYps5S74~ZXQx0gn34Clj1R1m810cAA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K2CFTBH51HXGQ865B21MYX0Q/video.mp4?Expires=1773220845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzJDRlRCSDUxSFhHUTg2NUIyMU1ZWDBRL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0NX19fV19&Signature=V1iM5lsdpqdPtGpsLuEVrZF2wC4I694oxiqsy52~AH0X33puGDgbF9-dkMpkRnrhL8RH1i85ProkOf1pzw2sXDEYlAY4QwN2Wdlue8oS5YSDprdIrNCc9IiiWNIZEEGXwBOMNS8my4MUBGDFtMmFselDml6iOQWbWb5Wsl7gpA7keVRdBiENs68sLPsNtjKNYCGifC~a~0GU7wHuI-jI19755632OKM3o-Kyt6ZP5~ZAvyd9~WSa87v5PVqO6L14Z-emeSsABrT7ndaQCXyVs1FhSPss-cVABiSVcJzG1o5yV70l-Rk8v1oVklnYYs36-87vdoD4qYsusJq7xHzP0A__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

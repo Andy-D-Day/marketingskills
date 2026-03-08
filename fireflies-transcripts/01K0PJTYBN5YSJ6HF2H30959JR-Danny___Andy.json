@@ -1,0 +1,844 @@
+{
+  "id": "01K0PJTYBN5YSJ6HF2H30959JR",
+  "title": "Danny | Andy",
+  "date": 1753105500000,
+  "dateString": "2025-07-21T13:45:00.000Z",
+  "duration": 10.970000267028809,
+  "participants": [
+    "andrew.day@capitala.co,daniel.smith@capitala.co,andy.day@capitala.co",
+    "daniel.smith@capitala.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "daniel.smith@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Thanks.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2,
+      "end_time": 2.32
+    },
+    {
+      "text": "Thank you for jumping on this call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2.4,
+      "end_time": 4.4
+    },
+    {
+      "text": "I need to figure out what the fuck we are currently doing with the pipeline.",
+      "speaker_name": "Andrew Day",
+      "start_time": 4.56,
+      "end_time": 13.68
+    },
+    {
+      "text": "So it's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 13.68,
+      "end_time": 14.56
+    },
+    {
+      "text": "What I'm looking at is the onboarding form complete workflow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 15.84,
+      "end_time": 19.92
+    },
+    {
+      "text": "Currently it's set up so that when an onboarding form is completed, there's an internal.",
+      "speaker_name": "Andrew Day",
+      "start_time": 20.64,
+      "end_time": 25.68
+    },
+    {
+      "text": "Does that work?",
+      "speaker_name": "Andrew Day",
+      "start_time": 29.88,
+      "end_time": 30.6
+    },
+    {
+      "text": "Well, the reason why I'm querying it is because if I go into Sites forms submissions, there is only five completed forms plus the XXX person, which is what you mentioned earlier.",
+      "speaker_name": "Andrew Day",
+      "start_time": 34.04,
+      "end_time": 55.24
+    },
+    {
+      "text": "So there should be a little filter button where it says the forms that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 56.45,
+      "end_time": 60.45
+    },
+    {
+      "text": "You'Re filtering for all forms.",
+      "speaker_name": "Andrew Day",
+      "start_time": 60.45,
+      "end_time": 63.89
+    },
+    {
+      "text": "Didn't see that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 64.45,
+      "end_time": 65.41
+    },
+    {
+      "text": "So you're going to filter.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 65.49,
+      "end_time": 66.45
+    },
+    {
+      "text": "Yeah, it still only says five.",
+      "speaker_name": "Andrew Day",
+      "start_time": 67.25,
+      "end_time": 68.69
+    },
+    {
+      "text": "I put all during the last.",
+      "speaker_name": "Andrew Day",
+      "start_time": 68.69,
+      "end_time": 70.53
+    },
+    {
+      "text": "Let me show you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 70.69,
+      "end_time": 71.49
+    },
+    {
+      "text": "So it will be working properly.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 73.25,
+      "end_time": 75.85
+    },
+    {
+      "text": "But let me get it on my.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 75.85,
+      "end_time": 79.61
+    },
+    {
+      "text": "End saying six submissions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 79.61,
+      "end_time": 82.61
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 90.51,
+      "end_time": 90.91
+    },
+    {
+      "text": "Sites, forms submissions and then filtering for Launchpad onboarding.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 91.07,
+      "end_time": 103.15
+    },
+    {
+      "text": "Or is it full onboarding?",
+      "speaker_name": "Daniel Smith",
+      "start_time": 105.63,
+      "end_time": 106.83
+    },
+    {
+      "text": "Spread it out for the year on all forms.",
+      "speaker_name": "Andrew Day",
+      "start_time": 109.4,
+      "end_time": 112.24
+    },
+    {
+      "text": "There were definitely more.",
+      "speaker_name": "Andrew Day",
+      "start_time": 112.24,
+      "end_time": 113.32
+    },
+    {
+      "text": "Okay, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 119,
+      "end_time": 120.36
+    },
+    {
+      "text": "Launch pad onboarding is what you want.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 120.36,
+      "end_time": 121.96
+    },
+    {
+      "text": "So the last person to fill it out was David Fan, I think.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 121.96,
+      "end_time": 129.08
+    },
+    {
+      "text": "And that was because we transitioned from the onboarding form to.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 130.44,
+      "end_time": 135.88
+    },
+    {
+      "text": "Then again, there's still some people that haven't filled it out.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 138.36,
+      "end_time": 140.64
+    },
+    {
+      "text": "But we've transitioned now to your new onboarding form, the Google sheet thing.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 140.64,
+      "end_time": 144.68
+    },
+    {
+      "text": "The Google form.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 145.32,
+      "end_time": 146.2
+    },
+    {
+      "text": "Well, how come Tim Lyle signed this on June 23rd?",
+      "speaker_name": "Andrew Day",
+      "start_time": 146.68,
+      "end_time": 150.36
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 150.84,
+      "end_time": 151.2
+    },
+    {
+      "text": "And then we've got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 151.2,
+      "end_time": 151.96
+    },
+    {
+      "text": "We've got three in July as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 152.279,
+      "end_time": 154.04
+    },
+    {
+      "text": "Nick Rickson and Theo Irving, who.",
+      "speaker_name": "Andrew Day",
+      "start_time": 154.04,
+      "end_time": 156
+    },
+    {
+      "text": "I don't know who these guys are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 156,
+      "end_time": 157.16
+    },
+    {
+      "text": "Owen Smith, Ryan Herbert.",
+      "speaker_name": "Andrew Day",
+      "start_time": 157.32,
+      "end_time": 159.8
+    },
+    {
+      "text": "So there will have been Nick Grigson.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 162.53,
+      "end_time": 166.37
+    },
+    {
+      "text": "All of these would have been Theo Irving.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 166.69,
+      "end_time": 170.45
+    },
+    {
+      "text": "So they're all inquiry forms for sales.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 170.45,
+      "end_time": 173.81
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 174.05,
+      "end_time": 174.49
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 174.49,
+      "end_time": 174.85
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 174.85,
+      "end_time": 175.37
+    },
+    {
+      "text": "So we've just switched to the Google form.",
+      "speaker_name": "Andrew Day",
+      "start_time": 175.37,
+      "end_time": 176.85
+    },
+    {
+      "text": "All right, well, because we're switching to Google form now, all of the triggers are off because obviously.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 176.93,
+      "end_time": 183.81
+    },
+    {
+      "text": "That'S my fault for moving it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 186.45,
+      "end_time": 187.81
+    },
+    {
+      "text": "All right, so let me just see where we're at.",
+      "speaker_name": "Andrew Day",
+      "start_time": 187.81,
+      "end_time": 191.13
+    },
+    {
+      "text": "And so the Google Drive.",
+      "speaker_name": "Andrew Day",
+      "start_time": 191.13,
+      "end_time": 192.53
+    },
+    {
+      "text": "So it's the onboarding form.",
+      "speaker_name": "Andrew Day",
+      "start_time": 195.81,
+      "end_time": 197.49
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 197.89,
+      "end_time": 198.61
+    },
+    {
+      "text": "So I need to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 198.61,
+      "end_time": 199.37
+    },
+    {
+      "text": "I need to just switch to that as the trigger.",
+      "speaker_name": "Andrew Day",
+      "start_time": 199.37,
+      "end_time": 201.33
+    },
+    {
+      "text": "External client onboarding.",
+      "speaker_name": "Andrew Day",
+      "start_time": 203.01,
+      "end_time": 204.45
+    },
+    {
+      "text": "It's that one, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 204.45,
+      "end_time": 205.49
+    },
+    {
+      "text": "Client onboarding form responses is the one that'll be the one that would trigger it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 212.37,
+      "end_time": 217.67
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 218.63,
+      "end_time": 219.27
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 219.91,
+      "end_time": 220.63
+    },
+    {
+      "text": "All right, well, this is good because Dom Kernock and Dom Kernock I don't think I've ever heard of.",
+      "speaker_name": "Andrew Day",
+      "start_time": 221.67,
+      "end_time": 227.75
+    },
+    {
+      "text": "So Dom Kernock is Jaw Sapak.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 228.55,
+      "end_time": 232.23
+    },
+    {
+      "text": "Same company.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 232.79,
+      "end_time": 233.51
+    },
+    {
+      "text": "Embrace.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 234.55,
+      "end_time": 235.19
+    },
+    {
+      "text": "Embrace Investments or something.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 235.59,
+      "end_time": 237.19
+    },
+    {
+      "text": "Right, Tom, Let me just check this thing because I'll.",
+      "speaker_name": "Andrew Day",
+      "start_time": 237.75,
+      "end_time": 242.56
+    },
+    {
+      "text": "We We're a little bit out of sync with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 242.64,
+      "end_time": 244.96
+    },
+    {
+      "text": "My recommendation would be I would.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 246.88,
+      "end_time": 249.8
+    },
+    {
+      "text": "I would link the triggers to the stripe link.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 249.8,
+      "end_time": 253.6
+    },
+    {
+      "text": "That's what I would do.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 255.28,
+      "end_time": 256.32
+    },
+    {
+      "text": "Because I would have it so that as soon as somebody pays, the first email that they get is an intro email to Amanda saying that they need to file the onboarding point.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 256.72,
+      "end_time": 266.08
+    },
+    {
+      "text": "Okay, one second.",
+      "speaker_name": "Andrew Day",
+      "start_time": 269.08,
+      "end_time": 270.04
+    },
+    {
+      "text": "Right, let me just make a note of that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 270.12,
+      "end_time": 271.6
+    },
+    {
+      "text": "So, okay, so you're saying the first email they get is not email one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 271.6,
+      "end_time": 287.8
+    },
+    {
+      "text": "Welcome to Deal Engines.",
+      "speaker_name": "Andrew Day",
+      "start_time": 287.8,
+      "end_time": 289.04
+    },
+    {
+      "text": "It's please fill out this form.",
+      "speaker_name": "Andrew Day",
+      "start_time": 289.04,
+      "end_time": 291
+    },
+    {
+      "text": "Okay, week zero, set up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 291.97,
+      "end_time": 294.29
+    },
+    {
+      "text": "All right, so client receives email one that's too late.",
+      "speaker_name": "Andrew Day",
+      "start_time": 296.61,
+      "end_time": 300.61
+    },
+    {
+      "text": "So there's a first email that's triggered when somebody does what, when somebody pays on stripe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 300.77,
+      "end_time": 307.89
+    },
+    {
+      "text": "So pays on stripe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 311.57,
+      "end_time": 312.93
+    },
+    {
+      "text": "And then look out, welcome email one, which is welcome to DL Engines.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 314.61,
+      "end_time": 318.13
+    },
+    {
+      "text": "Look forward to working with you.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 318.13,
+      "end_time": 319.33
+    },
+    {
+      "text": "So that we can get going, we need you to fill out this onboarding form before.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 319.73,
+      "end_time": 323.73
+    },
+    {
+      "text": "Before a meeting with Amanda, something like that.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 323.81,
+      "end_time": 325.81
+    },
+    {
+      "text": "So fill out the boarding form, and then once that's filled out, then book.",
+      "speaker_name": "Andrew Day",
+      "start_time": 330.69,
+      "end_time": 340.85
+    },
+    {
+      "text": "Book a kick of a call with Amanda.",
+      "speaker_name": "Andrew Day",
+      "start_time": 342.61,
+      "end_time": 346.29
+    },
+    {
+      "text": "And then on that kickoff call with Amanda, Amanda will get them linked up to Libs and whatever they need.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 351.19,
+      "end_time": 356.47
+    },
+    {
+      "text": "And if they haven't filled out the onboarding form already, Amanda will take them.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 358.23,
+      "end_time": 363.11
+    },
+    {
+      "text": "Basically take them through the onboarding call.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 363.35,
+      "end_time": 365.11
+    },
+    {
+      "text": "Onboarding form on that call.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 365.59,
+      "end_time": 367.11
+    },
+    {
+      "text": "And then what I would do is after that onboarding call with Amanda, either Amanda sends an email manually or she sets off another series of emails, which then says, here's how.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 368.63,
+      "end_time": 384.64
+    },
+    {
+      "text": "Here's how you use lips.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 384.64,
+      "end_time": 385.96
+    },
+    {
+      "text": "Here's how to manage the inbox.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 385.96,
+      "end_time": 387.28
+    },
+    {
+      "text": "Yeah, I've already got to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 389.6,
+      "end_time": 391.36
+    },
+    {
+      "text": "That bottleneck sets off.",
+      "speaker_name": "Andrew Day",
+      "start_time": 391.36,
+      "end_time": 393.12
+    },
+    {
+      "text": "It's basically email 2, which is the one that sends the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 393.36,
+      "end_time": 396.16
+    },
+    {
+      "text": "Yeah, so the problem with paying on stripe as the trigger is that we could have anything.",
+      "speaker_name": "Andrew Day",
+      "start_time": 397.77,
+      "end_time": 403.73
+    },
+    {
+      "text": "Paying on stripe could be for anything.",
+      "speaker_name": "Andrew Day",
+      "start_time": 403.73,
+      "end_time": 406.33
+    },
+    {
+      "text": "It would have to be a certain.",
+      "speaker_name": "Andrew Day",
+      "start_time": 408.81,
+      "end_time": 410.61
+    },
+    {
+      "text": "Type of payment filter where it's like, if they pay on this subscription, I bet you can if it's this payment link.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 410.61,
+      "end_time": 417.85
+    },
+    {
+      "text": "So, yeah, I mean, we'd have to narrow it down to certain subscription types.",
+      "speaker_name": "Andrew Day",
+      "start_time": 420.09,
+      "end_time": 425.77
+    },
+    {
+      "text": "So basically any subscription that was a deal engine subscription would get this trigger, even if it was a whatchamacallit one Pinnacle.",
+      "speaker_name": "Andrew Day",
+      "start_time": 425.77,
+      "end_time": 439.44
+    },
+    {
+      "text": "And then if you give me access to the trigger that you're creating, if you're doing it in Zapier or something, then that just means that if in the future we change the payment link or we create a new one or whatever, I can update it in there.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 440.56,
+      "end_time": 455.76
+    },
+    {
+      "text": "Sorry, what did you say?",
+      "speaker_name": "Andrew Day",
+      "start_time": 459.54,
+      "end_time": 460.22
+    },
+    {
+      "text": "Say it again.",
+      "speaker_name": "Andrew Day",
+      "start_time": 460.22,
+      "end_time": 460.82
+    },
+    {
+      "text": "If you give me access to this trigger this workflow.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 462.5,
+      "end_time": 466.58
+    },
+    {
+      "text": "That means that then if, let's say six months down the line we change and we create a new package or whatever or there's a client that wants to do something particular then I can just go into the automation and just say also add like this payment link or whatever.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 467.38,
+      "end_time": 481.62
+    },
+    {
+      "text": "I can set it up on my end.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 482.57,
+      "end_time": 483.77
+    },
+    {
+      "text": "Okay, so give Tony access.",
+      "speaker_name": "Andrew Day",
+      "start_time": 484.81,
+      "end_time": 486.97
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 496.25,
+      "end_time": 496.65
+    },
+    {
+      "text": "So I think what's happening is there is still a lot of variation in what we would do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 496.65,
+      "end_time": 502.05
+    },
+    {
+      "text": "It's quite difficult to just trigger the whole thing without being able to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 502.05,
+      "end_time": 506.33
+    },
+    {
+      "text": "We need to.",
+      "speaker_name": "Andrew Day",
+      "start_time": 507.78,
+      "end_time": 508.3
+    },
+    {
+      "text": "I mean there's still some kind of manual record keeping that needs to be done to then knock the next trigger.",
+      "speaker_name": "Andrew Day",
+      "start_time": 508.3,
+      "end_time": 514.9
+    },
+    {
+      "text": "Like for instance what you're saying.",
+      "speaker_name": "Andrew Day",
+      "start_time": 514.9,
+      "end_time": 516.5
+    },
+    {
+      "text": "So the first automated one is we pay with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 516.5,
+      "end_time": 520.5
+    },
+    {
+      "text": "It pays with stripe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 520.5,
+      "end_time": 521.62
+    },
+    {
+      "text": "So a certain type of subscription would trigger this workflow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 521.62,
+      "end_time": 525.38
+    },
+    {
+      "text": "So they get the first email saying please fill out this form, book a call with Amanda and then, and then they have the call of Amanda and she would have to physically then once the finished.",
+      "speaker_name": "Andrew Day",
+      "start_time": 526.1,
+      "end_time": 544.87
+    },
+    {
+      "text": "She's finished the call because turned up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 544.87,
+      "end_time": 551.31
+    },
+    {
+      "text": "Yeah, she'd have to then trigger it which then becomes an automate.",
+      "speaker_name": "Andrew Day",
+      "start_time": 553.31,
+      "end_time": 556.31
+    },
+    {
+      "text": "It's not automated.",
+      "speaker_name": "Andrew Day",
+      "start_time": 556.31,
+      "end_time": 557.19
+    },
+    {
+      "text": "It's her doing it, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 557.19,
+      "end_time": 559.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 560.92,
+      "end_time": 561.48
+    },
+    {
+      "text": "It would be good if we had like if we had a kanban of some kind where we're onboarding somebody.",
+      "speaker_name": "Andrew Day",
+      "start_time": 562.68,
+      "end_time": 569.16
+    },
+    {
+      "text": "So you're on, you're pushing through on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 569.16,
+      "end_time": 571.56
+    },
+    {
+      "text": "On the deal engines CRM to you know, in your opportunities pipeline once they have contract signed they then need to go into an onboarding process.",
+      "speaker_name": "Andrew Day",
+      "start_time": 574.04,
+      "end_time": 592.05
+    },
+    {
+      "text": "But it's choosing where that happens.",
+      "speaker_name": "Andrew Day",
+      "start_time": 593.65,
+      "end_time": 595.49
+    },
+    {
+      "text": "So what, what you could create and go high level.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 599.01,
+      "end_time": 602.29
+    },
+    {
+      "text": "There's an onboarding pipeline which you've already got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 602.69,
+      "end_time": 604.77
+    },
+    {
+      "text": "Yeah but we just don't use it.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 605.17,
+      "end_time": 606.45
+    },
+    {
+      "text": "So for example, Amanda could have one column that state that says onboarding call pending or something like that and then another one that says onboarding call set and another one says onboarding call complete.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 607.17,
+      "end_time": 623.66
+    },
+    {
+      "text": "And then she just drags it into the complete once she's done that meeting which will then trigger off the next waterfall of emails.",
+      "speaker_name": "Daniel Smith",
+      "start_time": 624.3,
+      "end_time": 632.7
+    },
+    {
+      "text": "It's Jeff Kaplan.",
+      "speaker_name": "Andrew Day",
+      "start_time": 639.19,
+      "end_time": 639.95
+    },
+    {
+      "text": "I'll go jump.",
+      "speaker_name": "Andrew Day",
+      "start_time": 639.95,
+      "end_time": 640.63
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "onboarding",
+      "workflow",
+      "automation",
+      "Stripe",
+      "triggers",
+      "pipeline"
+    ],
+    "action_items": "\n**Andrew Day**\nSwitch trigger from old onboarding form to 'Client onboarding form responses' in Google system (03:06)\nSet up Stripe payment filtering to trigger workflow only for specific subscription types (06:50)\nProvide Daniel access to the automation workflow for future updates (07:42)\n\n**Daniel Smith**\nUpdate automation triggers when new payment links or packages are created in the future (07:42)\n\n**Amanda**\nManually trigger next automation phase after completing onboarding calls with clients (08:04)\nUse CRM pipeline columns to track onboarding progress: pending, set, complete (10:05)\n",
+    "outline": null,
+    "overview": "- Current pipeline review shows only 5-6 completed onboarding forms, significantly below expectations; recent submissions were inquiry forms rather than onboarding.\n- Transition to Google form system has disrupted onboarding triggers, necessitating updates to ensure proper functionality.\n- Identified the need for new triggers linking to 'Client onboarding form responses' in the Google system to restore process flow.\n- Proposed linking triggers to Stripe payments for improved automation and to eliminate reliance on form completions.\n- Recommended Amanda send initial emails to clients post-payment, urging them to fill out the onboarding form and schedule a kickoff call.\n- Suggested that Amanda assist in completing the onboarding form during the kickoff call to facilitate client setup for Libs access.\n- Manual intervention by Amanda is still required to trigger the next automation phase after onboarding calls are completed.\n- Discussed implementing a Kanban/CRM pipeline approach to manage onboarding stages effectively and visualize progress.\n- Proposed CRM states ('onboarding call pending,' 'onboarding call set,' 'onboarding call complete') to streamline tracking and automate next steps.\n- Implementation of Stripe payment filtering is essential to prevent unnecessary triggers from non-relevant payments, ensuring system efficiency.",
+    "short_summary": "The discussion highlighted significant concerns regarding the current onboarding process, with only 5-6 completed forms noted, which is far below expectations. It was identified that the recent transition to a Google form system disrupted onboarding triggers, necessitating the creation of new triggers linked to 'Client onboarding form responses' to restore functionality. To improve automation, linking these triggers to Stripe payments was proposed, reducing reliance on completed forms. Amanda was recommended to send emails to clients after payments to encourage form completion and scheduling of kickoff calls, during which she could assist clients in filling out the form. Additionally, a Kanban/CRM pipeline approach was suggested to effectively manage onboarding stages, with specific states for tracking progress and automating next steps while implementing payment filtering to enhance system efficiency.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K0PJTYBN5YSJ6HF2H30959JR",
+  "audio_url": "https://cdn.fireflies.ai/01K0PJTYBN5YSJ6HF2H30959JR/audio.mp3?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzBQSlRZQk41WVNKNkhGMkgzMDk1OUpSL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=GWEHwE3ydCP19RYy7DfJtzFb0ULAGy0NgoJBymUsHUoRkC1RS1B8a389HJR2PeoBpdYMhyG97YEyRh1LcSzL6DLssJmjz0ua01a7MS6tcMkBvTvxmFA-mP7JB8CP-RSPtdQRYvRNGEMAhi699kSQxS~~7v6Nfm3CWWrvFLxqMWgBd3lu16-jYMzn8LPOOsNGkBnUsAN2cD8Axso28YP0KkPdwe6Eiv6DbLfVPL71zzTpi44WCB-S2kKTZsnnMyqUa6n7rMTs8Afy4eyJ8gX1PSbSjrBPXdc3HXKmZSme~VMotp86JEba8w3bQotS0hDrGR1W~N3Nl41NM0YxhvfDPA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K0PJTYBN5YSJ6HF2H30959JR/video.mp4?Expires=1773220847&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzBQSlRZQk41WVNKNkhGMkgzMDk1OUpSL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0N319fV19&Signature=V8RUDVjph~C9EP8e8BaXTs9IfjJ~v8G2aSCtMhTJ8KX3rtsQSXsn4UmSpOnDVZkPeiO3hMuG394UKkjUUc0Xjc-Jx76rKK-oog2YuZLn5ipHntgdPcS9A3tPUFm38ziD2vhTykddl9cG9gVBviCdSZKtF9USqzwfY4ecW5LBLSls7MNum9HelDqBs4KerhpGSqZpoCrpl05f0gejPYyBcTR0m-J0YIUHYyuc26v4bPvDLDDn7SmLUYx-iiS41OEd7ZLqJGZcNhgBh2JNgoTD6~PNbgBwjFVZat2c4rn8o80VCs6DvEISjk3eE5Ph4K09g8ZZJodlH3t6OlTNkxMTbA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

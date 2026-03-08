@@ -1,0 +1,1775 @@
+{
+  "id": "01JKE62V9HDVJDFS1AX1VG3NWT",
+  "title": "Next/Now / Capital A",
+  "date": 1738938600000,
+  "dateString": "2025-02-07T14:30:00.000Z",
+  "duration": 21,
+  "participants": [
+    "randy@nextnowagency.com,alan@nextnowagency.com,andrew.day@capitala.co,andy.day@capitala.co",
+    "randy@nextnowagency.com",
+    "alan@nextnowagency.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "randy@nextnowagency.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "alan@nextnowagency.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Good morning.",
+      "speaker_name": "Randy Gress",
+      "start_time": 0.08,
+      "end_time": 0.328
+    },
+    {
+      "text": "How are you, Andy?",
+      "speaker_name": "Randy Gress",
+      "start_time": 0.336,
+      "end_time": 1.4
+    },
+    {
+      "text": "Yeah, good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1.48,
+      "end_time": 1.96
+    },
+    {
+      "text": "I'm really sorry I'm late.",
+      "speaker_name": "Andrew Day",
+      "start_time": 2,
+      "end_time": 4.02
+    },
+    {
+      "text": "Client call, you know, it's before you and it's Friday, isn't it?",
+      "speaker_name": "Andrew Day",
+      "start_time": 4.56,
+      "end_time": 9.128
+    },
+    {
+      "text": "Friday.",
+      "speaker_name": "Randy Gress",
+      "start_time": 9.184,
+      "end_time": 9.544
+    },
+    {
+      "text": "Friday afternoon in the uk.",
+      "speaker_name": "Andrew Day",
+      "start_time": 9.632,
+      "end_time": 11.032
+    },
+    {
+      "text": "So, yeah, it was a bit more jolly than, than usual.",
+      "speaker_name": "Andrew Day",
+      "start_time": 11.136,
+      "end_time": 15.976
+    },
+    {
+      "text": "You got any good plans this weekend?",
+      "speaker_name": "Randy Gress",
+      "start_time": 16.088,
+      "end_time": 18.248
+    },
+    {
+      "text": "Sorry?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 18.344,
+      "end_time": 18.856
+    },
+    {
+      "text": "Any good plans this weekend?",
+      "speaker_name": "Randy Gress",
+      "start_time": 18.968,
+      "end_time": 20.62
+    },
+    {
+      "text": "I haven't got any plans, but that's a good thing because normally, normally I've got tons to do, but my youngest one, who's 10, has, has a weekend all booked up and sleepovers and stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 22.16,
+      "end_time": 33.96
+    },
+    {
+      "text": "So actually I've got a weekend of nothing planned for myself, which is great.",
+      "speaker_name": "Andrew Day",
+      "start_time": 34.04,
+      "end_time": 39.14
+    },
+    {
+      "text": "That's great.",
+      "speaker_name": "Randy Gress",
+      "start_time": 39.6,
+      "end_time": 40.44
+    },
+    {
+      "text": "That's awesome.",
+      "speaker_name": "Randy Gress",
+      "start_time": 40.56,
+      "end_time": 41.74
+    },
+    {
+      "text": "So I just wanted to jump on a quick call sort of in between, you know, any further calls that you might want to have just to see where you guys are and maybe if there's any like, you know, off the record questions that you wanted to ask that maybe feel a bit too awkward to ask Jeff or, or anything really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 43.76,
+      "end_time": 62.34
+    },
+    {
+      "text": "Just, you know, how did you feel it went?",
+      "speaker_name": "Andrew Day",
+      "start_time": 62.38,
+      "end_time": 64.74
+    },
+    {
+      "text": "The conversation?",
+      "speaker_name": "Andrew Day",
+      "start_time": 64.86,
+      "end_time": 65.796
+    },
+    {
+      "text": "Are you feeling positive or.",
+      "speaker_name": "Andrew Day",
+      "start_time": 65.908,
+      "end_time": 70.644
+    },
+    {
+      "text": "Andy?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 70.812,
+      "end_time": 71.332
+    },
+    {
+      "text": "I'll, I'll jump in.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 71.396,
+      "end_time": 72.516
+    },
+    {
+      "text": "So we're generally interested.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 72.588,
+      "end_time": 75.8
+    },
+    {
+      "text": "We.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 77.42,
+      "end_time": 78.16
+    },
+    {
+      "text": "I think for us to really understand things would be a little bit longer of a conversation with the team.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 81.12,
+      "end_time": 88.408
+    },
+    {
+      "text": "I mean, quite, you know, the things that we're trying to wrap our heads around are, quite frankly, where, where is the, what I call the force multiplier for us in this thing.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 88.464,
+      "end_time": 101.144
+    },
+    {
+      "text": "So, and I don't mean financially, I mean from, for growing our share of the business.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 101.312,
+      "end_time": 105.62
+    },
+    {
+      "text": "So we join up and it's hovercraft, it's us and it's omm, if I have that right.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 106.19,
+      "end_time": 113.17
+    },
+    {
+      "text": "Is, is there, what is the investment from skyview to build?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 114.27,
+      "end_time": 119.334
+    },
+    {
+      "text": "I mean, for me, I'm, I'm trying to understand what the investment is to build a biz dev organization around it.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 119.422,
+      "end_time": 130.118
+    },
+    {
+      "text": "And if it's not it, if it's felt that it's not needed, then what, besides our hustle is going to.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 130.174,
+      "end_time": 139.582
+    },
+    {
+      "text": "What's the benefit to NextNow as far as bringing in bigger, better projects?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 139.766,
+      "end_time": 146.494
+    },
+    {
+      "text": "You know, is the concept that OMM is so connected and those projects will fall out of that into NextNow and we can look at, you know, obviously we're going to have growth goals for our P and L.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 146.622,
+      "end_time": 160.17
+    },
+    {
+      "text": "So I guess that's really kind of the biggest question for us, you know, what's the concept behind an investment in growing NextNow in our P and L?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 160.96,
+      "end_time": 171.624
+    },
+    {
+      "text": "Or are we just going to continue bootstrapping it and have some access to some of these other agencies?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 171.792,
+      "end_time": 178.712
+    },
+    {
+      "text": "Clients and try to cross sell them.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 178.776,
+      "end_time": 182.82
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 183.36,
+      "end_time": 184.072
+    },
+    {
+      "text": "So I think the first thing to say is that they are work to bring more business in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 184.216,
+      "end_time": 191.248
+    },
+    {
+      "text": "So certainly Jeff is a great sales guy.",
+      "speaker_name": "Andrew Day",
+      "start_time": 191.384,
+      "end_time": 195.648
+    },
+    {
+      "text": "I'm sure you can see that in him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 195.664,
+      "end_time": 198.064
+    },
+    {
+      "text": "And he's looking to go out at the enterprise level and bring in more business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 198.232,
+      "end_time": 202.736
+    },
+    {
+      "text": "Business that most agencies wouldn't have got, you know, at the level that they were at even, you know, you guys or hovercraft that they're looking to go out and get more business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 202.808,
+      "end_time": 216.924
+    },
+    {
+      "text": "And one of the things that Jeff is particularly good at is going to the same company like a Nike, let's just say as an example.",
+      "speaker_name": "Andrew Day",
+      "start_time": 217.012,
+      "end_time": 224.94
+    },
+    {
+      "text": "But they may have hundreds and hundreds of different aspects to their business and most of the most agencies would only really deal into the sort of marketing level of that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 225.1,
+      "end_time": 234.78
+    },
+    {
+      "text": "And Jeff is very good at going out and finding other parts of the business that we can also work directly with.",
+      "speaker_name": "Andrew Day",
+      "start_time": 234.82,
+      "end_time": 240.806
+    },
+    {
+      "text": "So Jeff is certainly going to take that in his hands and they're building out that biz dev team.",
+      "speaker_name": "Andrew Day",
+      "start_time": 240.878,
+      "end_time": 248.37
+    },
+    {
+      "text": "So everybody in the group is going to benefit from that directly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 248.75,
+      "end_time": 252.01
+    },
+    {
+      "text": "So the natural order of things will be for them to develop more business for you guys and give it to you, obviously, because you are the experts in whatever particular area in the group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 252.43,
+      "end_time": 263.65
+    },
+    {
+      "text": "And then in terms of I guess the sort of the concept to grow you guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 264.83,
+      "end_time": 270.75
+    },
+    {
+      "text": "Yeah, I think what they're not looking to do is acquire the business and then just leave you in a silo and see how you get on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 271.09,
+      "end_time": 276.778
+    },
+    {
+      "text": "It's definitely they're looking to invest in the business to help you obviously increase margins and all of that other stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 276.834,
+      "end_time": 285.706
+    },
+    {
+      "text": "I mean, Travis, which I think you might have met last year, but he's involved less in these calls now because he's got his hands full.",
+      "speaker_name": "Andrew Day",
+      "start_time": 285.738,
+      "end_time": 293.05
+    },
+    {
+      "text": "But Travis is very good on the operations side of things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 293.17,
+      "end_time": 296.378
+    },
+    {
+      "text": "So they will be looking, you know, to find cost savings across the group with various suppliers, et cetera, et cetera.",
+      "speaker_name": "Andrew Day",
+      "start_time": 296.434,
+      "end_time": 305.568
+    },
+    {
+      "text": "So the margins are going to be better as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 305.584,
+      "end_time": 308.672
+    },
+    {
+      "text": "And plus, yeah, you'll be part of a bigger business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 308.856,
+      "end_time": 311.504
+    },
+    {
+      "text": "They're well capitalized, they have investment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 311.592,
+      "end_time": 313.664
+    },
+    {
+      "text": "They had several investment rounds before they raised capital to make the acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 313.832,
+      "end_time": 319.488
+    },
+    {
+      "text": "So they have access to capital to put into the businesses and help them to grow.",
+      "speaker_name": "Andrew Day",
+      "start_time": 319.664,
+      "end_time": 324.528
+    },
+    {
+      "text": "And they've already reorganized both OMM and Hovercraft to help them develop business.",
+      "speaker_name": "Andrew Day",
+      "start_time": 324.584,
+      "end_time": 331.254
+    },
+    {
+      "text": "I think Hovercraft in particular is now a international agency and it wasn't before.",
+      "speaker_name": "Andrew Day",
+      "start_time": 331.342,
+      "end_time": 337.318
+    },
+    {
+      "text": "They're winning business in Europe and the UK already.",
+      "speaker_name": "Andrew Day",
+      "start_time": 337.374,
+      "end_time": 340.71
+    },
+    {
+      "text": "So they're looking to do the same thing with you guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 340.83,
+      "end_time": 344.09
+    },
+    {
+      "text": "And also I mean, they have obviously made two acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 344.67,
+      "end_time": 349.206
+    },
+    {
+      "text": "They're about to make two small ones as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 349.318,
+      "end_time": 352.37
+    },
+    {
+      "text": "But it is still early days and they're looking for you guys to be involved.",
+      "speaker_name": "Andrew Day",
+      "start_time": 353.79,
+      "end_time": 357.702
+    },
+    {
+      "text": "You know, there's still seats on the bus, the sort of board management to bring you guys in and your ideas about where that can be steered going forward.",
+      "speaker_name": "Andrew Day",
+      "start_time": 357.766,
+      "end_time": 369.414
+    },
+    {
+      "text": "You know, I think as well, if, if you're having conversations with the hovercraft guys, which is, I'm understanding is the next step as well, they can speak to that more than I can.",
+      "speaker_name": "Andrew Day",
+      "start_time": 369.502,
+      "end_time": 384.934
+    },
+    {
+      "text": "But certainly if you have direct questions about, okay, what's it going to be like for us if we come in, do we get investment etc, how has it been for you?",
+      "speaker_name": "Andrew Day",
+      "start_time": 385.102,
+      "end_time": 391.81
+    },
+    {
+      "text": "Then they can give you honest answers about that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 392.11,
+      "end_time": 394.582
+    },
+    {
+      "text": "It's all very fresh.",
+      "speaker_name": "Andrew Day",
+      "start_time": 394.606,
+      "end_time": 396.566
+    },
+    {
+      "text": "Yeah, I think that would be very illuminating, obviously, if we can make that happen.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 396.758,
+      "end_time": 401.01
+    },
+    {
+      "text": "And Andy, do you.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 402.35,
+      "end_time": 403.878
+    },
+    {
+      "text": "I'm trying to.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 404.014,
+      "end_time": 405.17
+    },
+    {
+      "text": "And, and I mean, these are conversations, I think.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 405.56,
+      "end_time": 408.512
+    },
+    {
+      "text": "I don't know if it's with you or if it's with Jeff, but I'm kind of curious about the, the scale of the existing organization and with the.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 408.536,
+      "end_time": 419.824
+    },
+    {
+      "text": "It sounds like there's two additional acquisitions that seem like they're, you know, on the precipice.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 419.992,
+      "end_time": 428.24
+    },
+    {
+      "text": "You know, what are we, what are we talking for, for revenue for the organization?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 428.4,
+      "end_time": 433.9
+    },
+    {
+      "text": "What, what are the go revenue goals like before?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 434.72,
+      "end_time": 438.024
+    },
+    {
+      "text": "You know, like I'm trying to figure out right now, are they at X amount and once we get to 100 million and blah, blah, blah.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 438.112,
+      "end_time": 447.272
+    },
+    {
+      "text": "That's one.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 447.336,
+      "end_time": 447.976
+    },
+    {
+      "text": "It's, that's when a transition will occur and Skyview will then put itself in the position of being acquired.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 448.048,
+      "end_time": 460.07
+    },
+    {
+      "text": "Yeah, I don't know the exact number that Jeff has in his, in his head in terms of revenue goals, but what I do know is that the value that you, you will be creating and bringing into the business is not all about revenue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 460.41,
+      "end_time": 474.79
+    },
+    {
+      "text": "You know, in terms of creating the value for them to push the button for the exit.",
+      "speaker_name": "Andrew Day",
+      "start_time": 475.45,
+      "end_time": 479.842
+    },
+    {
+      "text": "It's more about what they're creating in terms of the business itself and the clients and the work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 479.986,
+      "end_time": 486.72
+    },
+    {
+      "text": "I think Jeff said several times on the call about, you know, being the biggest and best known in the space.",
+      "speaker_name": "Andrew Day",
+      "start_time": 488.3,
+      "end_time": 494.788
+    },
+    {
+      "text": "That's what Jeff is looking to create.",
+      "speaker_name": "Andrew Day",
+      "start_time": 494.924,
+      "end_time": 497.508
+    },
+    {
+      "text": "And I think part of that is about reputation.",
+      "speaker_name": "Andrew Day",
+      "start_time": 497.644,
+      "end_time": 499.764
+    },
+    {
+      "text": "Not really, you know, being the only company that's doing a billion in revenue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 499.812,
+      "end_time": 503.316
+    },
+    {
+      "text": "It's not, he's not really talking about that, but just more about the reputation and working with the best businesses out there and pulling them into the group.",
+      "speaker_name": "Andrew Day",
+      "start_time": 503.348,
+      "end_time": 512
+    },
+    {
+      "text": "But yeah, I mean, he can, he can tell you when he's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 513.42,
+      "end_time": 515.988
+    },
+    {
+      "text": "Yeah, for sure.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 516.004,
+      "end_time": 518
+    },
+    {
+      "text": "That would be one of the, one of the next things that I think we would try to do is either meet with him in person or just get a more casual conversation on a zoom call, talk to, talk to our friends at Hovercraft.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 518.38,
+      "end_time": 531.96
+    },
+    {
+      "text": "And you know, I think it would be if, if we get to that point.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 533.34,
+      "end_time": 538.588
+    },
+    {
+      "text": "Let's keep chatting.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 538.644,
+      "end_time": 539.452
+    },
+    {
+      "text": "If we get to that point, if you guys could set that meeting up and let you know, I just want it to be clear.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 539.516,
+      "end_time": 545.884
+    },
+    {
+      "text": "I want them to feel free to share information, whatever is comfortable to share without me feeling like I'm pulling it from them.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 545.972,
+      "end_time": 554.28
+    },
+    {
+      "text": "Yeah, I mean they are extremely open with information.",
+      "speaker_name": "Andrew Day",
+      "start_time": 555.54,
+      "end_time": 559.16
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 561.47,
+      "end_time": 562.022
+    },
+    {
+      "text": "So definitely I can get them to share more.",
+      "speaker_name": "Andrew Day",
+      "start_time": 562.126,
+      "end_time": 564.982
+    },
+    {
+      "text": "My, my experience with them so far is that their process has been extremely open and they've shared huge amounts of detail in a presentation that they, they put together with an offer and they make their offers very early on so that everybody knows how it's going to work.",
+      "speaker_name": "Andrew Day",
+      "start_time": 565.166,
+      "end_time": 582.93
+    },
+    {
+      "text": "So the next steps for them really is the financials from you guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 584.19,
+      "end_time": 588.296
+    },
+    {
+      "text": "If they can look at the financials and they would be ready to put an offer on the table early.",
+      "speaker_name": "Andrew Day",
+      "start_time": 588.328,
+      "end_time": 593.816
+    },
+    {
+      "text": "And then we all know what we're talking about and whether it's worth investing in emotionally for the long term.",
+      "speaker_name": "Andrew Day",
+      "start_time": 593.888,
+      "end_time": 600.26
+    },
+    {
+      "text": "But certainly I can set up another call with Jeff, maybe Jeff and Travis to put on the table once we have some financials.",
+      "speaker_name": "Andrew Day",
+      "start_time": 600.8,
+      "end_time": 610.264
+    },
+    {
+      "text": "But the more immediate one may be just that meeting with, with Hovercraft, I think.",
+      "speaker_name": "Andrew Day",
+      "start_time": 610.392,
+      "end_time": 615.35
+    },
+    {
+      "text": "And it's like just, sorry.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 616.29,
+      "end_time": 619.066
+    },
+    {
+      "text": "I mean, I think it's great to talk to Hovercraft.",
+      "speaker_name": "Randy Gress",
+      "start_time": 619.098,
+      "end_time": 621.226
+    },
+    {
+      "text": "But I guess the details with Jeff and Travis, like some of the questions we had today.",
+      "speaker_name": "Randy Gress",
+      "start_time": 621.258,
+      "end_time": 626.826
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 626.898,
+      "end_time": 627.13
+    },
+    {
+      "text": "Like, I mean, I think for us understanding the investment.",
+      "speaker_name": "Randy Gress",
+      "start_time": 627.17,
+      "end_time": 631.018
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 631.154,
+      "end_time": 631.45
+    },
+    {
+      "text": "And maybe that's just part of each deal.",
+      "speaker_name": "Randy Gress",
+      "start_time": 631.49,
+      "end_time": 632.73
+    },
+    {
+      "text": "Andrew.",
+      "speaker_name": "Randy Gress",
+      "start_time": 632.77,
+      "end_time": 633.114
+    },
+    {
+      "text": "And you're.",
+      "speaker_name": "Randy Gress",
+      "start_time": 633.162,
+      "end_time": 633.466
+    },
+    {
+      "text": "You're going to educate us, right?",
+      "speaker_name": "Randy Gress",
+      "start_time": 633.498,
+      "end_time": 634.73
+    },
+    {
+      "text": "Like he talked about the deal structure in some capacity.",
+      "speaker_name": "Randy Gress",
+      "start_time": 634.77,
+      "end_time": 638.842
+    },
+    {
+      "text": "But if we're saying from our perspective it sounds like Jeff's going to build.",
+      "speaker_name": "Randy Gress",
+      "start_time": 638.906,
+      "end_time": 642.922
+    },
+    {
+      "text": "I like, I think for us we might be a little different than hovercraft.",
+      "speaker_name": "Randy Gress",
+      "start_time": 643.026,
+      "end_time": 646.314
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 646.362,
+      "end_time": 646.618
+    },
+    {
+      "text": "Like we're somewhat of a sales focused in some capacity agency.",
+      "speaker_name": "Randy Gress",
+      "start_time": 646.674,
+      "end_time": 651.866
+    },
+    {
+      "text": "It sounds like the hovercraft guys are focused on the creative side, which we are.",
+      "speaker_name": "Randy Gress",
+      "start_time": 651.898,
+      "end_time": 655.834
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 656.002,
+      "end_time": 656.57
+    },
+    {
+      "text": "But I think for us a missing piece is that investment in some key elements in our business to help us grow.",
+      "speaker_name": "Randy Gress",
+      "start_time": 656.69,
+      "end_time": 666.71
+    },
+    {
+      "text": "And I would like to understand.",
+      "speaker_name": "Randy Gress",
+      "start_time": 667.01,
+      "end_time": 668.73
+    },
+    {
+      "text": "Al, I'm sure you same thing.",
+      "speaker_name": "Randy Gress",
+      "start_time": 668.85,
+      "end_time": 670.41
+    },
+    {
+      "text": "Understand part of the deal is that structured in.",
+      "speaker_name": "Randy Gress",
+      "start_time": 670.45,
+      "end_time": 675.01
+    },
+    {
+      "text": "Prior to the, you know, us coming on board or After, I think we would want to understand, hey, you know, in our mind we need three account managers and a senior creative director.",
+      "speaker_name": "Randy Gress",
+      "start_time": 675.71,
+      "end_time": 687.942
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 688.126,
+      "end_time": 688.518
+    },
+    {
+      "text": "And we would just want to make sure that we understand that kind of going in, you know, prior to, prior to moving too far.",
+      "speaker_name": "Randy Gress",
+      "start_time": 688.574,
+      "end_time": 697.03
+    },
+    {
+      "text": "And as you said.",
+      "speaker_name": "Randy Gress",
+      "start_time": 697.07,
+      "end_time": 698.07
+    },
+    {
+      "text": "Do you mean Randy just on that, do you mean.",
+      "speaker_name": "Andrew Day",
+      "start_time": 698.19,
+      "end_time": 701.03
+    },
+    {
+      "text": "Because obviously they wouldn't, they wouldn't invest into the business and then acquire the company further down the line.",
+      "speaker_name": "Andrew Day",
+      "start_time": 701.07,
+      "end_time": 708.66
+    },
+    {
+      "text": "They're looking to, to make a, an agreement on what the transaction would look like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 708.7,
+      "end_time": 712.612
+    },
+    {
+      "text": "And from that moment, once everything is agreed, then yes, at that, that stage they start to invest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 712.716,
+      "end_time": 718.16
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Randy Gress",
+      "start_time": 718.54,
+      "end_time": 719.188
+    },
+    {
+      "text": "And I think we would just want, I guess have that conversation to make sure that we're aligned on, you know, from our standpoint.",
+      "speaker_name": "Randy Gress",
+      "start_time": 719.284,
+      "end_time": 724.756
+    },
+    {
+      "text": "This is what we see that's missing to get us to that next level.",
+      "speaker_name": "Randy Gress",
+      "start_time": 724.788,
+      "end_time": 728.24
+    },
+    {
+      "text": "Just make sure that there's alignment there.",
+      "speaker_name": "Randy Gress",
+      "start_time": 728.81,
+      "end_time": 730.978
+    },
+    {
+      "text": "You know, with Jeff and team, I.",
+      "speaker_name": "Randy Gress",
+      "start_time": 731.114,
+      "end_time": 733.762
+    },
+    {
+      "text": "Mean, I speak to a lot of agency owners and most agency owners are not actually that interested in building up a team of business development experts.",
+      "speaker_name": "Andrew Day",
+      "start_time": 733.786,
+      "end_time": 746.594
+    },
+    {
+      "text": "So I think Jeff, that would be music to his ears.",
+      "speaker_name": "Andrew Day",
+      "start_time": 746.722,
+      "end_time": 748.93
+    },
+    {
+      "text": "That is very much where his background is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 749.01,
+      "end_time": 753.058
+    },
+    {
+      "text": "You know, his strengths are around the whole sales and marketing and business development aspect of things.",
+      "speaker_name": "Andrew Day",
+      "start_time": 753.114,
+      "end_time": 759.126
+    },
+    {
+      "text": "So he'll be really pleased that you want more of that over everything else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 759.198,
+      "end_time": 763.766
+    },
+    {
+      "text": "I think they're looking to build a sizable business and if you're, if you're attracted by that part of it, you know, how can we get bigger within your organization?",
+      "speaker_name": "Andrew Day",
+      "start_time": 763.798,
+      "end_time": 773.366
+    },
+    {
+      "text": "Then that's the question that they're looking to answer for you for sure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 773.478,
+      "end_time": 777.73
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress",
+      "start_time": 778.03,
+      "end_time": 778.95
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Randy Gress",
+      "start_time": 779.11,
+      "end_time": 779.398
+    },
+    {
+      "text": "I mean, Alan, I mean, is that aligned with kind of what you're thinking?",
+      "speaker_name": "Randy Gress",
+      "start_time": 779.414,
+      "end_time": 782.71
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 782.79,
+      "end_time": 783.046
+    },
+    {
+      "text": "I mean, so Andy, just to like, just.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 783.078,
+      "end_time": 785.296
+    },
+    {
+      "text": "I'll say what Randy just said.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 785.398,
+      "end_time": 786.572
+    },
+    {
+      "text": "I think you got it anyway.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 786.596,
+      "end_time": 787.676
+    },
+    {
+      "text": "But it is important to know like we go after these three, three spaces.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 787.708,
+      "end_time": 792.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 792.94,
+      "end_time": 793.68
+    },
+    {
+      "text": "We, our experience has been that to win in some of these spaces.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 794.42,
+      "end_time": 797.932
+    },
+    {
+      "text": "I'll pick museum as an example to have a biz dev person, an account manager that is deep in the museum world, knows everyone in the space, goes to all the conferences, knows when a project is percolating, that kind of thing.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 797.996,
+      "end_time": 814.668
+    },
+    {
+      "text": "So that's really like, you know, for us, unless we're missing something, we're always willing to learn, our next step for our organization is to invest in those people.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 814.724,
+      "end_time": 826.172
+    },
+    {
+      "text": "And we think that's the low hanging fruit for next now to go from, to double and triple our revenue.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 826.356,
+      "end_time": 832.828
+    },
+    {
+      "text": "You know, like for us that's, that's the, that's what we see as the obvious is the Obvious thing.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 833.004,
+      "end_time": 840.038
+    },
+    {
+      "text": "Always willing to learn if there's a different way to do it.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 840.204,
+      "end_time": 842.194
+    },
+    {
+      "text": "But we're kind of looking at either bootstrapping that or finding someone with a growth minded mindset like Jeff and go how are we going to do this?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 842.202,
+      "end_time": 851.97
+    },
+    {
+      "text": "And is there a synergy?",
+      "speaker_name": "Alan Hughes",
+      "start_time": 852.01,
+      "end_time": 853.234
+    },
+    {
+      "text": "Because there are more organizations.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 853.282,
+      "end_time": 855.362
+    },
+    {
+      "text": "So if we have this team together, it's not just selling us, you know, it's the Skyview thing.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 855.426,
+      "end_time": 863.378
+    },
+    {
+      "text": "So we're trying to understand, we're trying to understand if that is the, is the vision or if Jeff has so many personal contacts that he is, he is going to make the deals happen.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 863.514,
+      "end_time": 874.21
+    },
+    {
+      "text": "I think there's going to be an element of both.",
+      "speaker_name": "Andrew Day",
+      "start_time": 875.07,
+      "end_time": 877.33
+    },
+    {
+      "text": "Certainly he has loads of contacts and he's going to make a bunch of deals happen.",
+      "speaker_name": "Andrew Day",
+      "start_time": 878.03,
+      "end_time": 883.49
+    },
+    {
+      "text": "But also he is, you know, managing the, the rest of this process and busy with other stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 884.03,
+      "end_time": 891.206
+    },
+    {
+      "text": "He is certainly the, the type to get his hands dirty.",
+      "speaker_name": "Andrew Day",
+      "start_time": 891.318,
+      "end_time": 894.362
+    },
+    {
+      "text": "But say he is also the CEO of the group and he wouldn't look at, be looking to make every sale himself.",
+      "speaker_name": "Andrew Day",
+      "start_time": 894.426,
+      "end_time": 901.53
+    },
+    {
+      "text": "So I think in answer your question, if I'm getting this right, they would help you build that team that you want to build.",
+      "speaker_name": "Andrew Day",
+      "start_time": 901.61,
+      "end_time": 908.794
+    },
+    {
+      "text": "I mean in, quite in.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 908.962,
+      "end_time": 911.658
+    },
+    {
+      "text": "When we say help build it, we mean fund it in some fashion.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 911.714,
+      "end_time": 915.15
+    },
+    {
+      "text": "You know.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 915.65,
+      "end_time": 916.17
+    },
+    {
+      "text": "So I lead the, the, the growth of that part.",
+      "speaker_name": "Andrew Day",
+      "start_time": 916.21,
+      "end_time": 920.268
+    },
+    {
+      "text": "Because he is particularly focused in the sort of sales.",
+      "speaker_name": "Andrew Day",
+      "start_time": 920.324,
+      "end_time": 922.86
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 922.94,
+      "end_time": 923.324
+    },
+    {
+      "text": "Area.",
+      "speaker_name": "Andrew Day",
+      "start_time": 923.372,
+      "end_time": 923.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 925.7,
+      "end_time": 926.48
+    },
+    {
+      "text": "I think he's looking to be guided as well.",
+      "speaker_name": "Andrew Day",
+      "start_time": 927.22,
+      "end_time": 929.5
+    },
+    {
+      "text": "I know that the hovercraft guys have pretty much been leading a lot of the, the you know, business needs conversations that you know, it's not just Jeff and Travis saying this is what you're having.",
+      "speaker_name": "Andrew Day",
+      "start_time": 929.54,
+      "end_time": 942.28
+    },
+    {
+      "text": "I think he's lent particularly hard on, on those guys more than the OMM guys, the management omm.",
+      "speaker_name": "Andrew Day",
+      "start_time": 942.58,
+      "end_time": 949.37
+    },
+    {
+      "text": "So it would be for you to make that play.",
+      "speaker_name": "Andrew Day",
+      "start_time": 950.83,
+      "end_time": 953.75
+    },
+    {
+      "text": "Really.",
+      "speaker_name": "Andrew Day",
+      "start_time": 953.79,
+      "end_time": 953.99
+    },
+    {
+      "text": "I think if that's what you're looking to do and that's what you're trying to get out of the relationship and that's what you want.",
+      "speaker_name": "Andrew Day",
+      "start_time": 954.03,
+      "end_time": 961.27
+    },
+    {
+      "text": "I think they would be all ears that you're looking to build up a biz dev team for yourself that is specialized in that way.",
+      "speaker_name": "Andrew Day",
+      "start_time": 961.31,
+      "end_time": 968.85
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 971.96,
+      "end_time": 972.752
+    },
+    {
+      "text": "So it sounds like you are interested.",
+      "speaker_name": "Andrew Day",
+      "start_time": 972.816,
+      "end_time": 974.496
+    },
+    {
+      "text": "I mean I can't answer all of these questions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 974.528,
+      "end_time": 977.28
+    },
+    {
+      "text": "Obviously I've got a big overview of what's been happening, but I'm not boots on the ground.",
+      "speaker_name": "Andrew Day",
+      "start_time": 977.36,
+      "end_time": 983.02
+    },
+    {
+      "text": "You guys are in Chicago, aren't you?",
+      "speaker_name": "Andrew Day",
+      "start_time": 983.4,
+      "end_time": 985.04
+    },
+    {
+      "text": "So I think that'd be, I think that would be doable for them to come over and see you guys and have a face to face, have a deeper discussion and I'll see how they are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 985.08,
+      "end_time": 996.928
+    },
+    {
+      "text": "I think Jeff did mention particularly speak to the hovercraft guys as well, but in whichever order suits you best.",
+      "speaker_name": "Andrew Day",
+      "start_time": 997.064,
+      "end_time": 1004.59
+    },
+    {
+      "text": "So we can start to set those up.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1005.45,
+      "end_time": 1007.458
+    },
+    {
+      "text": "Yeah, and I think, like, Alan, I think we could chat and just say what makes the most sense.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1007.514,
+      "end_time": 1011.314
+    },
+    {
+      "text": "Just, you know, obviously a lot of this stuff for us, confidential with the rest of our employees.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1011.362,
+      "end_time": 1015.042
+    },
+    {
+      "text": "Like, it's just staying kind of within our walls.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1015.106,
+      "end_time": 1018.562
+    },
+    {
+      "text": "So, you know, we know that our industry is small.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1018.626,
+      "end_time": 1021.234
+    },
+    {
+      "text": "You know, we've had other conversations and grumblies come out to other employees.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1021.322,
+      "end_time": 1025.49
+    },
+    {
+      "text": "It's just.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1025.57,
+      "end_time": 1026.098
+    },
+    {
+      "text": "It's a challenging thing.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1026.154,
+      "end_time": 1027.458
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1027.594,
+      "end_time": 1027.847
+    },
+    {
+      "text": "So we do want to be mindful of that, you know.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1027.873,
+      "end_time": 1030.603
+    },
+    {
+      "text": "Yeah, of course.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1030.771,
+      "end_time": 1031.419
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1031.459,
+      "end_time": 1032.011
+    },
+    {
+      "text": "So let's.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1032.155,
+      "end_time": 1033.147
+    },
+    {
+      "text": "Let's chat and then figure out.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1033.323,
+      "end_time": 1034.875
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1034.947,
+      "end_time": 1035.179
+    },
+    {
+      "text": "Like, what makes the most sense.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1035.219,
+      "end_time": 1036.795
+    },
+    {
+      "text": "Do we talk to Jeff again or do we kind of talk to the hovercraft guys and then kind of go from there?",
+      "speaker_name": "Randy Gress",
+      "start_time": 1036.827,
+      "end_time": 1042.251
+    },
+    {
+      "text": "So, Andy, can we follow up you later on?",
+      "speaker_name": "Randy Gress",
+      "start_time": 1042.275,
+      "end_time": 1044.199
+    },
+    {
+      "text": "Yeah, yeah, sure.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1044.659,
+      "end_time": 1045.611
+    },
+    {
+      "text": "I mean, it sounds like you're happy to move forward.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1045.715,
+      "end_time": 1048.411
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1048.595,
+      "end_time": 1049.035
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1049.107,
+      "end_time": 1049.739
+    },
+    {
+      "text": "Your feedback on who you want to speak to next, obviously I can feed that to them, but from their point of view, we will need to request financials next, I think, because we want to get an offer on the table as quickly as possible.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1049.899,
+      "end_time": 1062.5
+    },
+    {
+      "text": "And I think our books.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1063.28,
+      "end_time": 1064.664
+    },
+    {
+      "text": "We were working on closing our books up.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1064.712,
+      "end_time": 1066.488
+    },
+    {
+      "text": "We'll check back with our CFO on that stuff.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1066.544,
+      "end_time": 1068.824
+    },
+    {
+      "text": "So they should be to a close point.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1068.872,
+      "end_time": 1070.9
+    },
+    {
+      "text": "Andy, do you know, are there.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1071.52,
+      "end_time": 1073.416
+    },
+    {
+      "text": "Is there a page one pager form of specifics of what you're looking for from a financial outlook from 2024 to whatever.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1073.568,
+      "end_time": 1082.312
+    },
+    {
+      "text": "Can you share that with us again?",
+      "speaker_name": "Randy Gress",
+      "start_time": 1082.376,
+      "end_time": 1083.816
+    },
+    {
+      "text": "Do you have.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1083.888,
+      "end_time": 1084.408
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1084.464,
+      "end_time": 1085.096
+    },
+    {
+      "text": "It's the last three years and the current year.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1085.208,
+      "end_time": 1087.704
+    },
+    {
+      "text": "So they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1087.792,
+      "end_time": 1088.2
+    },
+    {
+      "text": "They just need the last three years financials so that your balance sheet and your P L from last three years plus this current year with your budgets for this year, that's all they need.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1088.24,
+      "end_time": 1104.1
+    },
+    {
+      "text": "They don't need anything else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1104.14,
+      "end_time": 1105.636
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1105.828,
+      "end_time": 1107.556
+    },
+    {
+      "text": "So it might just be that you've done your returns, obviously for the last three years.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1107.628,
+      "end_time": 1110.996
+    },
+    {
+      "text": "So whatever you submitted to the tax office, that's all you need.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1111.068,
+      "end_time": 1115.092
+    },
+    {
+      "text": "You can just share that and then your current financials, just whatever your management accounts are.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1115.116,
+      "end_time": 1120.39
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1120.77,
+      "end_time": 1121.63
+    },
+    {
+      "text": "I know Alan kind of asked this and I'm not sure if you know the answer to this, like, based on our research for like, hovercraft, you know, and I don't know, we don't know what's right in zoom info and stuff like that, but it looked like they were around like Three and a half, four and a half million revenue.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1122.69,
+      "end_time": 1136.762
+    },
+    {
+      "text": "And then OMM couldn't really unpack that.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1136.906,
+      "end_time": 1139.93
+    },
+    {
+      "text": "But like, do you know where those companies are or were.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1139.97,
+      "end_time": 1143.67
+    },
+    {
+      "text": "I would only be recalling from my memory, I think hovercraft were possibly 3 or 4 million pounds.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1144.86,
+      "end_time": 1152.82
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1152.98,
+      "end_time": 1153.732
+    },
+    {
+      "text": "In revenue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1153.876,
+      "end_time": 1154.564
+    },
+    {
+      "text": "And I believe hovercraft would probably double that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1154.612,
+      "end_time": 1157.22
+    },
+    {
+      "text": "I think maybe a 6, 7, 8 million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1157.26,
+      "end_time": 1159.124
+    },
+    {
+      "text": "Maybe 8 million.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1159.212,
+      "end_time": 1159.908
+    },
+    {
+      "text": "Actually, I think it's around there in revenue.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1159.964,
+      "end_time": 1162.724
+    },
+    {
+      "text": "OMM was 6,8 million or the other way.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1162.852,
+      "end_time": 1166.324
+    },
+    {
+      "text": "Other way hovercraft, I think around eight.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1166.492,
+      "end_time": 1169.14
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1169.26,
+      "end_time": 1169.684
+    },
+    {
+      "text": "And I think OMM were about three or four million pounds.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1169.732,
+      "end_time": 1172.678
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1172.774,
+      "end_time": 1173.43
+    },
+    {
+      "text": "It's funny because the, the UK government publish, publishes everybody's accounts.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1173.59,
+      "end_time": 1178.054
+    },
+    {
+      "text": "It's actually he's really easy to find the UK stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1178.102,
+      "end_time": 1181.206
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1181.318,
+      "end_time": 1182.15
+    },
+    {
+      "text": "But I think California does it now, don't they?",
+      "speaker_name": "Andrew Day",
+      "start_time": 1182.31,
+      "end_time": 1184.902
+    },
+    {
+      "text": "I think so.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1185.086,
+      "end_time": 1186.166
+    },
+    {
+      "text": "A few other states that do it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1186.318,
+      "end_time": 1188.13
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1188.67,
+      "end_time": 1189.51
+    },
+    {
+      "text": "But yeah, I mean, again, that's just a simple, simple one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1189.67,
+      "end_time": 1193.862
+    },
+    {
+      "text": "I can double check with Jeff and I'm sure he's happy to relay the size of the business as it stands at the moment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1193.886,
+      "end_time": 1201.012
+    },
+    {
+      "text": "Okay, well, great.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1201.156,
+      "end_time": 1203.012
+    },
+    {
+      "text": "Well, let us.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1203.036,
+      "end_time": 1203.588
+    },
+    {
+      "text": "We also, you know, I think we got a couple more questions, but just want to get alignment just as we said today, probably with Jeff again.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1203.644,
+      "end_time": 1209.988
+    },
+    {
+      "text": "And you know what, our thought process is just to be crystal clear on that.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1210.044,
+      "end_time": 1213.684
+    },
+    {
+      "text": "And then, yeah, I think for us, like you said, I think trying to get a deal in place or at least an offer to say, hey, let's continue the conversation, I think makes sense.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1213.852,
+      "end_time": 1224.014
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1224.172,
+      "end_time": 1224.682
+    },
+    {
+      "text": "Yeah, yeah, I think so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1224.786,
+      "end_time": 1226.826
+    },
+    {
+      "text": "Then, then, you know, you're not wasting your time.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1226.898,
+      "end_time": 1228.698
+    },
+    {
+      "text": "Yeah, I mean, these guys are really good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1228.754,
+      "end_time": 1231.898
+    },
+    {
+      "text": "Their offers are really, really solid, generous.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1231.954,
+      "end_time": 1234.75
+    },
+    {
+      "text": "I mean, they're good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1235.33,
+      "end_time": 1236.394
+    },
+    {
+      "text": "We've been really happy working with them because a lot of, A lot of companies, they don't understand how to make offers, how to make good offers that are going to close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1236.482,
+      "end_time": 1245.722
+    },
+    {
+      "text": "But these guys are really, really, really good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1245.826,
+      "end_time": 1248.63
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1250.06,
+      "end_time": 1250.8
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1251.58,
+      "end_time": 1252.052
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1252.116,
+      "end_time": 1252.804
+    },
+    {
+      "text": "All right, well, enjoy the rest of your day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1252.852,
+      "end_time": 1254.548
+    },
+    {
+      "text": "I'll follow up and try and get some information back and obviously some, some sort of timelines on when and who you can meet next.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1254.684,
+      "end_time": 1265.46
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1265.58,
+      "end_time": 1266.036
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Randy Gress",
+      "start_time": 1266.108,
+      "end_time": 1266.436
+    },
+    {
+      "text": "Hopefully.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1266.468,
+      "end_time": 1267.16
+    },
+    {
+      "text": "Thanks for your feedback.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1267.5,
+      "end_time": 1268.5
+    },
+    {
+      "text": "I really appreciate that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1268.58,
+      "end_time": 1269.732
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Alan Hughes",
+      "start_time": 1269.836,
+      "end_time": 1270.52
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1271.58,
+      "end_time": 1272.004
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1272.052,
+      "end_time": 1272.42
+    },
+    {
+      "text": "I'll see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 1272.5,
+      "end_time": 1272.78
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Acquisition",
+      "Business Development",
+      "Investment",
+      "Growth Strategy",
+      "Agency Collaboration",
+      "Financial Due Diligence"
+    ],
+    "action_items": "\n**Randy Gress and Alan Hughes**\nDiscuss and decide on the next step - whether to talk to Jeff again or the Hovercraft team (17:12)\nPrepare and share financial information for the last three years plus current year with budgets (18:04)\n\n**Randy Gress**\nCheck with CFO on the status of closing the books (17:43)\n\n**Andrew Day**\nFollow up with additional information and timelines for next meetings (20:52)\nDouble-check with Jeff about the current size of the business and relay the information (19:45)\n",
+    "outline": null,
+    "overview": "The Exploratory Business Acquisition Discussion meeting between Next/Now and Skyview, led by Andrew Day, centered on assessing the potential for collaboration and acquisition. Initial greetings included casual conversation before Alan Hughes expressed interest in a deeper discussion about Skyview's strategic advantages, particularly regarding business development and revenue enhancement. Andrew Day detailed Skyview's approach to enterprise-level growth, emphasizing their commitment to investing in acquired companies for margin improvement and highlighting past successes like Hovercraft's international expansion. The conversation shifted to Next/Now's growth needs, with a focus on acquiring specialized personnel and resources. As the meeting progressed, participants agreed on the necessity of further discussions, maintaining confidentiality, and sharing financial information from Next/Now for the last three years, including budgets. The meeting concluded with defined action items for both teams, setting the stage for potential future negotiations.",
+    "short_summary": "During the Exploratory Business Acquisition Discussion, led by Andrew Day, participants from Next/Now and Skyview discussed the potential for collaboration and acquisition. Alan Hughes initiated the conversation by expressing interest in Skyview's strategic advantages, especially in business development and revenue enhancement. Andrew Day elaborated on Skyview's commitment to enterprise-level growth, detailing how they invest in acquired companies to improve margins, citing Hovercraft's successful international expansion as a key example. The dialogue then shifted to Next/Now's growth requirements, particularly the need for specialized personnel and resources. Both parties recognized the importance of maintaining confidentiality and agreed to share financial information from Next/Now for the past three years, including budgets. The meeting concluded with defined action items, paving the way for future negotiations.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JKE62V9HDVJDFS1AX1VG3NWT",
+  "audio_url": "https://cdn.fireflies.ai/01JKE62V9HDVJDFS1AX1VG3NWT/audio.mp3?Expires=1773220880&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSktFNjJWOUhEVkpERlMxQVgxVkczTldUL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg4MH19fV19&Signature=IREb8WRp4gQaLXpzvj8m6JLNDneONn6-XSpclNCqQptoKgEKD55yP828YbgIc7rV7qg~aeZS3ACP~9R6MJUagFlBslNV1rRaFaB-4BgQrYx1rn7iHfJ1JIn6DTJovTYbMGbna0j2-p5yqG6U7xa72LwaEM1zljYFtAjETrYBXV3UYhDvNlfmHSUwWt3oSF7ElyRRNLgnns3pdAy-D~ZHlHlMmla4jmxRKBl7cGCjgzd00NAKowKzU53ZmjcVajeP5x0BmIuYv9JO3~cX37HyuWdINmbxRvv90nUUZsyYIHhMnuRfVzNtt8xAD0uEi0LrwNXvBooGDpUK3Q~jdMeQCQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": null
+}

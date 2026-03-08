@@ -1,0 +1,1800 @@
+{
+  "id": "01JTRM681Y1YB91G0P794FPWF4",
+  "title": "TSG Weekly Update",
+  "date": 1746793800000,
+  "dateString": "2025-05-09T12:30:00.000Z",
+  "duration": 12.470000267028809,
+  "participants": [
+    "andrew.day@capitala.co,stuart.tiedeman@rmi.co,jon@rmi.co,matt.simpson@rmi.co,andy.day@capitala.co",
+    "stuart.tiedeman@rmi.co",
+    "jon@rmi.co",
+    "matt.simpson@rmi.co",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "stuart.tiedeman@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jon@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "matt.simpson@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hey, guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 0.08,
+      "end_time": 0.56
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Andrew Day",
+      "start_time": 0.88,
+      "end_time": 1.28
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 1.28,
+      "end_time": 1.68
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "MATT",
+      "start_time": 2.24,
+      "end_time": 2.72
+    },
+    {
+      "text": "How are you?",
+      "speaker_name": "MATT",
+      "start_time": 2.8,
+      "end_time": 3.44
+    },
+    {
+      "text": "I'm good, thank you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 4.16,
+      "end_time": 5.28
+    },
+    {
+      "text": "Looking forward to the weekend.",
+      "speaker_name": "Andrew Day",
+      "start_time": 6.72,
+      "end_time": 8
+    },
+    {
+      "text": "Yeah, it's been another busy one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 9.44,
+      "end_time": 10.64
+    },
+    {
+      "text": "Been another busy one.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 10.64,
+      "end_time": 11.76
+    },
+    {
+      "text": "It has.",
+      "speaker_name": "Andrew Day",
+      "start_time": 12.56,
+      "end_time": 13.2
+    },
+    {
+      "text": "So I'm not sure if John.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 14.48,
+      "end_time": 17.16
+    },
+    {
+      "text": "Has John come back to you to say that he's aware that this is happening and will join?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 17.16,
+      "end_time": 20.8
+    },
+    {
+      "text": "He has ticked the thing for, you know, the invite.",
+      "speaker_name": "Andrew Day",
+      "start_time": 21.44,
+      "end_time": 25.52
+    },
+    {
+      "text": "So he's aware of it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 25.9,
+      "end_time": 27.5
+    },
+    {
+      "text": "All right, so he may join, he might not.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 27.74,
+      "end_time": 30.98
+    },
+    {
+      "text": "Yeah, I sent him the update last week.",
+      "speaker_name": "Andrew Day",
+      "start_time": 30.98,
+      "end_time": 32.58
+    },
+    {
+      "text": "I didn't get a reply, so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 32.58,
+      "end_time": 33.86
+    },
+    {
+      "text": "But he is up to date?",
+      "speaker_name": "Andrew Day",
+      "start_time": 33.86,
+      "end_time": 35.78
+    },
+    {
+      "text": "I think so.",
+      "speaker_name": "Andrew Day",
+      "start_time": 35.78,
+      "end_time": 36.54
+    },
+    {
+      "text": "All right, good, good.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 37.58,
+      "end_time": 39.26
+    },
+    {
+      "text": "So I suppose the question is, has Ahmed given Chris a copy of everything that Zif have had to date?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 39.26,
+      "end_time": 46.94
+    },
+    {
+      "text": "Was that proving problematic?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 47.18,
+      "end_time": 48.7
+    },
+    {
+      "text": "It is a bit confusing on our part.",
+      "speaker_name": "Andrew Day",
+      "start_time": 49.26,
+      "end_time": 51.42
+    },
+    {
+      "text": "So why, what.",
+      "speaker_name": "Andrew Day",
+      "start_time": 51.42,
+      "end_time": 52.54
+    },
+    {
+      "text": "What is Chris asking for?",
+      "speaker_name": "Andrew Day",
+      "start_time": 52.97,
+      "end_time": 55.89
+    },
+    {
+      "text": "Because we've given.",
+      "speaker_name": "Andrew Day",
+      "start_time": 55.89,
+      "end_time": 56.77
+    },
+    {
+      "text": "We've shown him the date room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 56.77,
+      "end_time": 58.33
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 59.29,
+      "end_time": 59.65
+    },
+    {
+      "text": "So Chris.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 59.65,
+      "end_time": 60.13
+    },
+    {
+      "text": "Chris obviously has been a little bit one step removed from the whole process and I.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 60.13,
+      "end_time": 65.69
+    },
+    {
+      "text": "Chris has been the person who has progressively sent each month an update to the financial information to Jack Chap before he disappeared in.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 67.13,
+      "end_time": 79.49
+    },
+    {
+      "text": "David, we've no idea whether that went into the data room, whether it was shared with the people.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 79.49,
+      "end_time": 86.67
+    },
+    {
+      "text": "Hang on, John's ringing me.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 86.67,
+      "end_time": 87.67
+    },
+    {
+      "text": "Might not be able to get into the thing.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 87.67,
+      "end_time": 88.87
+    },
+    {
+      "text": "Hang on a sec.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 88.87,
+      "end_time": 89.51
+    },
+    {
+      "text": "Hi, John.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 89.91,
+      "end_time": 90.55
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 92.07,
+      "end_time": 92.55
+    },
+    {
+      "text": "Yeah, yeah, you're gonna join.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 94.87,
+      "end_time": 96.309
+    },
+    {
+      "text": "Well, we're all here.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 101.19,
+      "end_time": 102.23
+    },
+    {
+      "text": "Are you able to let John in, Andy?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 103.59,
+      "end_time": 105.59
+    },
+    {
+      "text": "I can do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 106.88,
+      "end_time": 107.48
+    },
+    {
+      "text": "Yeah, I can't see him waiting at the moment.",
+      "speaker_name": "Andrew Day",
+      "start_time": 107.48,
+      "end_time": 109.92
+    },
+    {
+      "text": "Yeah, he can't see you in the.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 110.08,
+      "end_time": 111.36
+    },
+    {
+      "text": "In the room there, John.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 111.36,
+      "end_time": 112.32
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 119.12,
+      "end_time": 119.68
+    },
+    {
+      "text": "Straight in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 121.6,
+      "end_time": 122.24
+    },
+    {
+      "text": "Straight in, mate, straight in.",
+      "speaker_name": "jon southcombe",
+      "start_time": 122.96,
+      "end_time": 124.36
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "jon southcombe",
+      "start_time": 124.36,
+      "end_time": 124.96
+    },
+    {
+      "text": "Straight in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 125.44,
+      "end_time": 126.16
+    },
+    {
+      "text": "He's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 126.4,
+      "end_time": 126.8
+    },
+    {
+      "text": "He's above all protocol.",
+      "speaker_name": "Andrew Day",
+      "start_time": 126.8,
+      "end_time": 128.08
+    },
+    {
+      "text": "He just entered himself into the room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 128.08,
+      "end_time": 130.24
+    },
+    {
+      "text": "That's the way I'd like it to be, Andy.",
+      "speaker_name": "jon southcombe",
+      "start_time": 130.4,
+      "end_time": 132.08
+    },
+    {
+      "text": "Enter myself into anybody and anything.",
+      "speaker_name": "jon southcombe",
+      "start_time": 132.08,
+      "end_time": 134.8
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 135.27,
+      "end_time": 135.83
+    },
+    {
+      "text": "It's the way.",
+      "speaker_name": "Andrew Day",
+      "start_time": 135.83,
+      "end_time": 136.63
+    },
+    {
+      "text": "Wake up, Matt.",
+      "speaker_name": "jon southcombe",
+      "start_time": 138.71,
+      "end_time": 139.51
+    },
+    {
+      "text": "Hello, Matt.",
+      "speaker_name": "jon southcombe",
+      "start_time": 139.51,
+      "end_time": 140.31
+    },
+    {
+      "text": "Hello, Matt.",
+      "speaker_name": "jon southcombe",
+      "start_time": 140.71,
+      "end_time": 141.67
+    },
+    {
+      "text": "I'm certainly here, John.",
+      "speaker_name": "MATT",
+      "start_time": 142.15,
+      "end_time": 143.43
+    },
+    {
+      "text": "Maybe it was your.",
+      "speaker_name": "MATT",
+      "start_time": 143.83,
+      "end_time": 144.67
+    },
+    {
+      "text": "Your wonderful voice was just hypnotizing me with your Johnisms.",
+      "speaker_name": "MATT",
+      "start_time": 144.67,
+      "end_time": 149.95
+    },
+    {
+      "text": "Well, you look.",
+      "speaker_name": "MATT",
+      "start_time": 149.95,
+      "end_time": 150.47
+    },
+    {
+      "text": "You're looking.",
+      "speaker_name": "MATT",
+      "start_time": 150.47,
+      "end_time": 150.949
+    },
+    {
+      "text": "You're looking brown, John.",
+      "speaker_name": "MATT",
+      "start_time": 150.949,
+      "end_time": 152.23
+    },
+    {
+      "text": "Compared to you, Matt, I do, you.",
+      "speaker_name": "jon southcombe",
+      "start_time": 152.47,
+      "end_time": 154.59
+    },
+    {
+      "text": "Look like a whole different race.",
+      "speaker_name": "MATT",
+      "start_time": 154.59,
+      "end_time": 156.31
+    },
+    {
+      "text": "I wouldn't say that I was a different race.",
+      "speaker_name": "jon southcombe",
+      "start_time": 156.79,
+      "end_time": 158.67
+    },
+    {
+      "text": "I mean, let's turn that down a bit, please.",
+      "speaker_name": "jon southcombe",
+      "start_time": 158.67,
+      "end_time": 160.51
+    },
+    {
+      "text": "You look very well with your tan.",
+      "speaker_name": "MATT",
+      "start_time": 160.51,
+      "end_time": 162.68
+    },
+    {
+      "text": "Anyway.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 165.64,
+      "end_time": 166.28
+    },
+    {
+      "text": "You look like Noreen, but you look fantastic, darling.",
+      "speaker_name": "jon southcombe",
+      "start_time": 166.36,
+      "end_time": 168.84
+    },
+    {
+      "text": "Thank you, darling.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 169.16,
+      "end_time": 170.04
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 170.04,
+      "end_time": 170.6
+    },
+    {
+      "text": "So we've just started.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 171,
+      "end_time": 172.36
+    },
+    {
+      "text": "So GAC was historically responsible, in our opinion, for sending on updated financial information to anybody that was interested.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 173.08,
+      "end_time": 183.2
+    },
+    {
+      "text": "And obviously we know that Ziff have been interested for some considerable time.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 183.2,
+      "end_time": 187.64
+    },
+    {
+      "text": "Recently, Chris was given access to the data room which is fine.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 189.19,
+      "end_time": 193.75
+    },
+    {
+      "text": "And yes, he can see what's in there, but there are several different versions of the data room and Chris is just a little bit confused.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 193.83,
+      "end_time": 203.67
+    },
+    {
+      "text": "He's trying to do us all a big favor, which is not providing any potential information that might be in conflict with what they've been shown before.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 203.749,
+      "end_time": 212.39
+    },
+    {
+      "text": "So his very simple question is, can you just send to him what Zif Davis are looking at, have looked at.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 213.03,
+      "end_time": 221.32
+    },
+    {
+      "text": "Forget the fact that you've given him access because he's a busy man.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 221.4,
+      "end_time": 224.92
+    },
+    {
+      "text": "Send him what Zif Davis have been shown and he'll be a happy bunny is his art.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 225.48,
+      "end_time": 233.08
+    },
+    {
+      "text": "I don't think that could be.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 233.24,
+      "end_time": 234.36
+    },
+    {
+      "text": "Yeah, that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 235.08,
+      "end_time": 235.64
+    },
+    {
+      "text": "That is literally all he's asking for.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 235.64,
+      "end_time": 237.4
+    },
+    {
+      "text": "Yeah, I got you.",
+      "speaker_name": "Andrew Day",
+      "start_time": 238.04,
+      "end_time": 239.16
+    },
+    {
+      "text": "Oh, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 239.16,
+      "end_time": 239.8
+    },
+    {
+      "text": "I just don't know I can give them a thorough answer to that.",
+      "speaker_name": "Andrew Day",
+      "start_time": 242.53,
+      "end_time": 246.13
+    },
+    {
+      "text": "I don't know what they've seen because we wouldn't be able to put like, you know, five or 10 different files next to each other and be able to see what all of the differences in the market.",
+      "speaker_name": "Andrew Day",
+      "start_time": 246.13,
+      "end_time": 257.81
+    },
+    {
+      "text": "I've not sent anything to Ziff Davis ever.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 258.21,
+      "end_time": 260.29
+    },
+    {
+      "text": "I think the only people that have.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 260.37,
+      "end_time": 261.73
+    },
+    {
+      "text": "We'Ve shared with them has gone into the data room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 262.29,
+      "end_time": 264.61
+    },
+    {
+      "text": "So there are two data rooms, one which Ziff Davis had access to up until March 24, something like that, which we cloned.",
+      "speaker_name": "Andrew Day",
+      "start_time": 264.61,
+      "end_time": 275.82
+    },
+    {
+      "text": "And then they've continued to have the same access to that one which has had updated files go into it from you guys as time has progressed.",
+      "speaker_name": "Andrew Day",
+      "start_time": 276.38,
+      "end_time": 284.3
+    },
+    {
+      "text": "The old one which hasn't had the updates is the one that Coolco is looking at.",
+      "speaker_name": "Andrew Day",
+      "start_time": 284.46,
+      "end_time": 289.18
+    },
+    {
+      "text": "He is still seeing the older version, but that's the only two versions of the rooms that we have.",
+      "speaker_name": "Andrew Day",
+      "start_time": 289.9,
+      "end_time": 296.15
+    },
+    {
+      "text": "So everything that we've been passed by Chris has just gone into the data room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 296.15,
+      "end_time": 299.79
+    },
+    {
+      "text": "There is no other way of us sharing stuff with them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 299.79,
+      "end_time": 303.47
+    },
+    {
+      "text": "So we're not.",
+      "speaker_name": "Andrew Day",
+      "start_time": 303.47,
+      "end_time": 304.15
+    },
+    {
+      "text": "I mean, that's exactly what data room is for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 304.95,
+      "end_time": 307.15
+    },
+    {
+      "text": "So we're not emailing backwards and forward single files.",
+      "speaker_name": "Andrew Day",
+      "start_time": 307.15,
+      "end_time": 309.87
+    },
+    {
+      "text": "So I don't think there's anything else that we can add to that apart from.",
+      "speaker_name": "Andrew Day",
+      "start_time": 309.87,
+      "end_time": 314.39
+    },
+    {
+      "text": "So the only person that matters in that equation, I think at the moment, Andy, is Chris.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 314.87,
+      "end_time": 320.31
+    },
+    {
+      "text": "So if you've spoken to Chris, if you haven't, could you just ring him and explain that?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 320.39,
+      "end_time": 324.88
+    },
+    {
+      "text": "Because he might have some other questions.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 324.88,
+      "end_time": 326.36
+    },
+    {
+      "text": "He seems to be small c concerned that he's running a risk of what?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 326.36,
+      "end_time": 331.68
+    },
+    {
+      "text": "Can I ask you what?",
+      "speaker_name": "Andrew Day",
+      "start_time": 331.68,
+      "end_time": 332.88
+    },
+    {
+      "text": "Because my advice would be just given the most up to date numbers and we can just say these are the most up to date.",
+      "speaker_name": "Andrew Day",
+      "start_time": 333.68,
+      "end_time": 338.88
+    },
+    {
+      "text": "So if they have something else and.",
+      "speaker_name": "Andrew Day",
+      "start_time": 338.88,
+      "end_time": 340.56
+    },
+    {
+      "text": "Then I don't want to Be a postman or in the middle, just Chris.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 340.56,
+      "end_time": 344.76
+    },
+    {
+      "text": "Is asking me and I'm saying speak to Erica then because I'm not quite sure what the difference might be in.",
+      "speaker_name": "Andrew Day",
+      "start_time": 344.76,
+      "end_time": 351.77
+    },
+    {
+      "text": "In a data room version of what he's got and something else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 351.77,
+      "end_time": 355.61
+    },
+    {
+      "text": "So I've tried to put them together so they can just request each other and I've asked him to CC me in and I did speak to him on the phone.",
+      "speaker_name": "Andrew Day",
+      "start_time": 355.61,
+      "end_time": 362.29
+    },
+    {
+      "text": "Very good.",
+      "speaker_name": "jon southcombe",
+      "start_time": 363.57,
+      "end_time": 364.21
+    },
+    {
+      "text": "Four or five days ago.",
+      "speaker_name": "Andrew Day",
+      "start_time": 364.29,
+      "end_time": 365.33
+    },
+    {
+      "text": "So I am speaking to him, but there is nothing else I can do.",
+      "speaker_name": "Andrew Day",
+      "start_time": 365.89,
+      "end_time": 369.85
+    },
+    {
+      "text": "I can't take like 10 different versions of files that he may have in his possession and compare them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 369.85,
+      "end_time": 374.53
+    },
+    {
+      "text": "That's not what he's asking for.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 375.34,
+      "end_time": 376.46
+    },
+    {
+      "text": "Clear on that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 377.98,
+      "end_time": 378.62
+    },
+    {
+      "text": "That's not a problem.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 378.62,
+      "end_time": 379.3
+    },
+    {
+      "text": "He just wants to make sure that what.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 379.3,
+      "end_time": 382.14
+    },
+    {
+      "text": "What he's about, he just wants to see like, for, like, tell me what they've seen.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 382.14,
+      "end_time": 385.62
+    },
+    {
+      "text": "If it's.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 385.62,
+      "end_time": 385.98
+    },
+    {
+      "text": "The answer is it's that.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 385.98,
+      "end_time": 386.9
+    },
+    {
+      "text": "Oh, that's it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 386.9,
+      "end_time": 387.82
+    },
+    {
+      "text": "That's it.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 387.82,
+      "end_time": 388.3
+    },
+    {
+      "text": "It's everything in the data room.",
+      "speaker_name": "Andrew Day",
+      "start_time": 388.38,
+      "end_time": 389.82
+    },
+    {
+      "text": "So he's got access to it and if he has a different version of a file, then he can check what is being shared already.",
+      "speaker_name": "Andrew Day",
+      "start_time": 389.82,
+      "end_time": 397.34
+    },
+    {
+      "text": "I, I think though, just the story is this is the latest version with the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 397.9,
+      "end_time": 401.54
+    },
+    {
+      "text": "With the right numbers.",
+      "speaker_name": "Andrew Day",
+      "start_time": 401.54,
+      "end_time": 402.54
+    },
+    {
+      "text": "Yeah, I'll talk to him about it, make sure he's up speed because he is holding things up right now and we're.",
+      "speaker_name": "Andrew Day",
+      "start_time": 402.84,
+      "end_time": 407.96
+    },
+    {
+      "text": "We're closing in on the 14th.",
+      "speaker_name": "Andrew Day",
+      "start_time": 407.96,
+      "end_time": 410.36
+    },
+    {
+      "text": "Obviously he'll say that I'm holding things up, but I'll speak to him again today.",
+      "speaker_name": "Andrew Day",
+      "start_time": 410.92,
+      "end_time": 415.48
+    },
+    {
+      "text": "I'll speak to him again today.",
+      "speaker_name": "Andrew Day",
+      "start_time": 417.56,
+      "end_time": 418.92
+    },
+    {
+      "text": "There's not really much more detail I can give them around what they've got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 419.24,
+      "end_time": 422.08
+    },
+    {
+      "text": "So I'll just say just give them what you've got.",
+      "speaker_name": "Andrew Day",
+      "start_time": 422.08,
+      "end_time": 424.08
+    },
+    {
+      "text": "There's the data room if you want to compare any files before you share them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 424.08,
+      "end_time": 427
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "MATT",
+      "start_time": 428.69,
+      "end_time": 429.09
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 430.13,
+      "end_time": 430.45
+    },
+    {
+      "text": "So that shenanigans aside, Andy, what else are we doing?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 430.45,
+      "end_time": 434.45
+    },
+    {
+      "text": "So cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 435.65,
+      "end_time": 436.29
+    },
+    {
+      "text": "Are still interested, which is good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 436.29,
+      "end_time": 437.81
+    },
+    {
+      "text": "Actually, heard from Zach today.",
+      "speaker_name": "Andrew Day",
+      "start_time": 437.81,
+      "end_time": 439.25
+    },
+    {
+      "text": "He has been off the radar for about five days.",
+      "speaker_name": "Andrew Day",
+      "start_time": 439.25,
+      "end_time": 442.61
+    },
+    {
+      "text": "He claims that he didn't get my last email, but it is in the email chain.",
+      "speaker_name": "Andrew Day",
+      "start_time": 443.49,
+      "end_time": 447.41
+    },
+    {
+      "text": "However, good news is he's still engaged and is still accessing the data room for stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 447.73,
+      "end_time": 455.18
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 455.58,
+      "end_time": 455.98
+    },
+    {
+      "text": "Which is good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 456.3,
+      "end_time": 457.02
+    },
+    {
+      "text": "So he's still in the running omnicom.",
+      "speaker_name": "Andrew Day",
+      "start_time": 457.42,
+      "end_time": 460.3
+    },
+    {
+      "text": "I haven't heard anything back directly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 460.3,
+      "end_time": 461.94
+    },
+    {
+      "text": "I've chased them.",
+      "speaker_name": "Andrew Day",
+      "start_time": 461.94,
+      "end_time": 462.74
+    },
+    {
+      "text": "Have you guys heard anything?",
+      "speaker_name": "Andrew Day",
+      "start_time": 462.74,
+      "end_time": 463.98
+    },
+    {
+      "text": "I've actually added he was the other guy that wasn't Duncan onto emails to see if there's any interest from.",
+      "speaker_name": "Andrew Day",
+      "start_time": 463.98,
+      "end_time": 475.14
+    },
+    {
+      "text": "From him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 475.14,
+      "end_time": 475.74
+    },
+    {
+      "text": "Either way, I think it is a long boil.",
+      "speaker_name": "Andrew Day",
+      "start_time": 476.14,
+      "end_time": 478.1
+    },
+    {
+      "text": "The Omnicom One, as we all spoke about last time we met.",
+      "speaker_name": "Andrew Day",
+      "start_time": 478.1,
+      "end_time": 480.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 481.04,
+      "end_time": 481.4
+    },
+    {
+      "text": "No, I think that the key thing there, that you said yourself, Andy, and I agree with you, is that to be able to say with a.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 481.4,
+      "end_time": 486.76
+    },
+    {
+      "text": "With a head held high, we're talking to a large agency group as well, obviously.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 486.76,
+      "end_time": 489.76
+    },
+    {
+      "text": "Why wouldn't we be?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 489.84,
+      "end_time": 490.8
+    },
+    {
+      "text": "That's important in itself, isn't it?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 492,
+      "end_time": 493.76
+    },
+    {
+      "text": "Yeah, it is.",
+      "speaker_name": "Andrew Day",
+      "start_time": 493.92,
+      "end_time": 494.8
+    },
+    {
+      "text": "But I do have a good feeling about Cool as well, which is good because you really seem to like him on.",
+      "speaker_name": "Andrew Day",
+      "start_time": 495.04,
+      "end_time": 499.2
+    },
+    {
+      "text": "On the call.",
+      "speaker_name": "Andrew Day",
+      "start_time": 499.2,
+      "end_time": 499.84
+    },
+    {
+      "text": "A good vibe.",
+      "speaker_name": "Andrew Day",
+      "start_time": 500.08,
+      "end_time": 500.96
+    },
+    {
+      "text": "I did.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 501.36,
+      "end_time": 501.92
+    },
+    {
+      "text": "And he can move quickly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 502.72,
+      "end_time": 504
+    },
+    {
+      "text": "So I think the.",
+      "speaker_name": "Andrew Day",
+      "start_time": 504.16,
+      "end_time": 505.04
+    },
+    {
+      "text": "The two horses in the race are those two.",
+      "speaker_name": "Andrew Day",
+      "start_time": 505.04,
+      "end_time": 506.84
+    },
+    {
+      "text": "And if Omnicom romps home in the last closing minutes, then Happy Days.",
+      "speaker_name": "Andrew Day",
+      "start_time": 506.84,
+      "end_time": 511.34
+    },
+    {
+      "text": "It has happened so many times on deals where a complete outsider has taken the crown at the last minute.",
+      "speaker_name": "Andrew Day",
+      "start_time": 511.5,
+      "end_time": 518.98
+    },
+    {
+      "text": "So it does happen.",
+      "speaker_name": "Andrew Day",
+      "start_time": 518.98,
+      "end_time": 520.14
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Andrew Day",
+      "start_time": 520.62,
+      "end_time": 520.98
+    },
+    {
+      "text": "But those are the two I think, to watch out for.",
+      "speaker_name": "Andrew Day",
+      "start_time": 520.98,
+      "end_time": 523.34
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 523.74,
+      "end_time": 524.219
+    },
+    {
+      "text": "Andy, do we have, like.",
+      "speaker_name": "MATT",
+      "start_time": 524.219,
+      "end_time": 525.18
+    },
+    {
+      "text": "Did you say the 14th?",
+      "speaker_name": "MATT",
+      "start_time": 525.18,
+      "end_time": 526.18
+    },
+    {
+      "text": "Have you got some sort of notional deadline in your head?",
+      "speaker_name": "MATT",
+      "start_time": 526.18,
+      "end_time": 528.86
+    },
+    {
+      "text": "Yeah, not in my head.",
+      "speaker_name": "Andrew Day",
+      "start_time": 529.1,
+      "end_time": 530.26
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 530.26,
+      "end_time": 530.78
+    },
+    {
+      "text": "It's out.",
+      "speaker_name": "Andrew Day",
+      "start_time": 530.78,
+      "end_time": 531.42
+    },
+    {
+      "text": "Are they so cool and thingy?",
+      "speaker_name": "MATT",
+      "start_time": 531.98,
+      "end_time": 533.94
+    },
+    {
+      "text": "No.",
+      "speaker_name": "MATT",
+      "start_time": 533.94,
+      "end_time": 534.22
+    },
+    {
+      "text": "Okay, so you put an actual.",
+      "speaker_name": "MATT",
+      "start_time": 536.43,
+      "end_time": 537.79
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "MATT",
+      "start_time": 537.95,
+      "end_time": 538.83
+    },
+    {
+      "text": "Omnicom.",
+      "speaker_name": "Andrew Day",
+      "start_time": 539.87,
+      "end_time": 540.55
+    },
+    {
+      "text": "Because like I said, my suspicion is that they couldn't close the deal for six months.",
+      "speaker_name": "Andrew Day",
+      "start_time": 540.55,
+      "end_time": 545.23
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 545.63,
+      "end_time": 546.11
+    },
+    {
+      "text": "Is that if they are interested, they still need to tell us they are interested by the four time and give us some kind of indication of what an offer would be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 546.27,
+      "end_time": 554.27
+    },
+    {
+      "text": "So it may not be.",
+      "speaker_name": "Andrew Day",
+      "start_time": 554.51,
+      "end_time": 555.55
+    },
+    {
+      "text": "So there is an IOI version of a loi, which is a bit vaguer.",
+      "speaker_name": "Andrew Day",
+      "start_time": 556.35,
+      "end_time": 561.15
+    },
+    {
+      "text": "A bit more vaguer than an LOI.",
+      "speaker_name": "Andrew Day",
+      "start_time": 561.65,
+      "end_time": 563.57
+    },
+    {
+      "text": "So they may well give us an IOI on the 14th, which just indicates.",
+      "speaker_name": "Andrew Day",
+      "start_time": 565.57,
+      "end_time": 569.25
+    },
+    {
+      "text": "Is an indication of.",
+      "speaker_name": "Andrew Day",
+      "start_time": 569.49,
+      "end_time": 570.69
+    },
+    {
+      "text": "In interest.",
+      "speaker_name": "Andrew Day",
+      "start_time": 570.69,
+      "end_time": 571.41
+    },
+    {
+      "text": "So we'll see.",
+      "speaker_name": "Andrew Day",
+      "start_time": 573.33,
+      "end_time": 574.09
+    },
+    {
+      "text": "But yes, 14th is the date, Matt.",
+      "speaker_name": "Andrew Day",
+      "start_time": 574.09,
+      "end_time": 576.45
+    },
+    {
+      "text": "So, yeah, yeah, sorry, I.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 576.45,
+      "end_time": 578.05
+    },
+    {
+      "text": "I saw you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 578.05,
+      "end_time": 578.81
+    },
+    {
+      "text": "I know we spent some good time last week, so.",
+      "speaker_name": "MATT",
+      "start_time": 578.81,
+      "end_time": 580.57
+    },
+    {
+      "text": "Yeah, it's cool.",
+      "speaker_name": "MATT",
+      "start_time": 580.57,
+      "end_time": 581.09
+    },
+    {
+      "text": "It's almost good to have a line, isn't it?",
+      "speaker_name": "MATT",
+      "start_time": 581.09,
+      "end_time": 582.45
+    },
+    {
+      "text": "And they'll probably stretch it, but as if.",
+      "speaker_name": "MATT",
+      "start_time": 582.45,
+      "end_time": 584.61
+    },
+    {
+      "text": "If they're all running up to that.",
+      "speaker_name": "MATT",
+      "start_time": 584.69,
+      "end_time": 586.01
+    },
+    {
+      "text": "That's.",
+      "speaker_name": "MATT",
+      "start_time": 586.01,
+      "end_time": 586.25
+    },
+    {
+      "text": "That's good for us to understand.",
+      "speaker_name": "MATT",
+      "start_time": 586.25,
+      "end_time": 587.33
+    },
+    {
+      "text": "I mean, we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 588.05,
+      "end_time": 588.53
+    },
+    {
+      "text": "We had a line about three months ago, so we.",
+      "speaker_name": "Andrew Day",
+      "start_time": 588.53,
+      "end_time": 591.47
+    },
+    {
+      "text": "We're open, but that's the next one.",
+      "speaker_name": "Andrew Day",
+      "start_time": 591.47,
+      "end_time": 594.43
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 594.75,
+      "end_time": 595.59
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "MATT",
+      "start_time": 595.59,
+      "end_time": 595.95
+    },
+    {
+      "text": "So, yeah, so hopefully we'll get some offers and.",
+      "speaker_name": "Andrew Day",
+      "start_time": 595.95,
+      "end_time": 597.99
+    },
+    {
+      "text": "And Coolco are aware of it as well, which, which is great because he can just move quickly.",
+      "speaker_name": "Andrew Day",
+      "start_time": 597.99,
+      "end_time": 602.47
+    },
+    {
+      "text": "It's him and he's the boss.",
+      "speaker_name": "Andrew Day",
+      "start_time": 602.47,
+      "end_time": 604.35
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Andrew Day",
+      "start_time": 605.63,
+      "end_time": 605.949
+    },
+    {
+      "text": "Hope he's got massive deep pockets and thinks we're the best thing since.",
+      "speaker_name": "MATT",
+      "start_time": 605.949,
+      "end_time": 608.83
+    },
+    {
+      "text": "Yeah, yeah, brilliant.",
+      "speaker_name": "MATT",
+      "start_time": 610.51,
+      "end_time": 611.39
+    },
+    {
+      "text": "It was a good call, wasn't it, Stuart?",
+      "speaker_name": "Andrew Day",
+      "start_time": 611.39,
+      "end_time": 612.99
+    },
+    {
+      "text": "I think it was.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 613.31,
+      "end_time": 614.15
+    },
+    {
+      "text": "Yeah, absolutely.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 614.15,
+      "end_time": 614.79
+    },
+    {
+      "text": "It was.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 614.79,
+      "end_time": 615.07
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 615.07,
+      "end_time": 615.47
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 615.89,
+      "end_time": 616.21
+    },
+    {
+      "text": "And he seems to be able to move quickly, and he's made four or five acquisitions.",
+      "speaker_name": "Andrew Day",
+      "start_time": 618.45,
+      "end_time": 622.21
+    },
+    {
+      "text": "I mean, he's.",
+      "speaker_name": "Andrew Day",
+      "start_time": 622.21,
+      "end_time": 622.77
+    },
+    {
+      "text": "He's been at it.",
+      "speaker_name": "Andrew Day",
+      "start_time": 622.77,
+      "end_time": 623.65
+    },
+    {
+      "text": "He's done a few.",
+      "speaker_name": "Andrew Day",
+      "start_time": 623.65,
+      "end_time": 624.61
+    },
+    {
+      "text": "So, yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 625.73,
+      "end_time": 626.37
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andrew Day",
+      "start_time": 626.69,
+      "end_time": 627.25
+    },
+    {
+      "text": "We're still sending out and things are still ticking along, but nothing.",
+      "speaker_name": "Andrew Day",
+      "start_time": 627.49,
+      "end_time": 630.61
+    },
+    {
+      "text": "Nothing else to report, really, in that department.",
+      "speaker_name": "Andrew Day",
+      "start_time": 632.61,
+      "end_time": 634.93
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "MATT",
+      "start_time": 635.97,
+      "end_time": 636.45
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 637.33,
+      "end_time": 637.73
+    },
+    {
+      "text": "Well, I think we all know what we're up to.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 640.29,
+      "end_time": 642.21
+    },
+    {
+      "text": "I'm just gonna make sure Chris is just giving a boot up the bum to get what he needs.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 642.21,
+      "end_time": 647.23
+    },
+    {
+      "text": "Over.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 647.23,
+      "end_time": 647.59
+    },
+    {
+      "text": "I'll call him.",
+      "speaker_name": "Andrew Day",
+      "start_time": 647.99,
+      "end_time": 648.71
+    },
+    {
+      "text": "I'll call him straight after.",
+      "speaker_name": "Andrew Day",
+      "start_time": 648.71,
+      "end_time": 649.75
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 650.15,
+      "end_time": 650.79
+    },
+    {
+      "text": "Yeah, let us know, Andy, please, like, if he's.",
+      "speaker_name": "MATT",
+      "start_time": 651.03,
+      "end_time": 653.43
+    },
+    {
+      "text": "I mean, Chris is a good guy, but do.",
+      "speaker_name": "MATT",
+      "start_time": 653.51,
+      "end_time": 656.27
+    },
+    {
+      "text": "Do let us know because we're at the, like the.",
+      "speaker_name": "MATT",
+      "start_time": 656.27,
+      "end_time": 658.19
+    },
+    {
+      "text": "The critical point of process.",
+      "speaker_name": "MATT",
+      "start_time": 658.19,
+      "end_time": 659.75
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "MATT",
+      "start_time": 659.83,
+      "end_time": 660.23
+    },
+    {
+      "text": "Any delay now would be shooting ourselves in the foot.",
+      "speaker_name": "MATT",
+      "start_time": 660.31,
+      "end_time": 663.27
+    },
+    {
+      "text": "Yeah, well, we are delaying at the moment because Erica is asking these three questions over and over, and I'm like.",
+      "speaker_name": "Andrew Day",
+      "start_time": 663.59,
+      "end_time": 668.39
+    },
+    {
+      "text": "I don't know what.",
+      "speaker_name": "Andrew Day",
+      "start_time": 668.55,
+      "end_time": 669.23
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "MATT",
+      "start_time": 669.23,
+      "end_time": 669.58
+    },
+    {
+      "text": "Specifics of.",
+      "speaker_name": "Andrew Day",
+      "start_time": 670.61,
+      "end_time": 671.45
+    },
+    {
+      "text": "Of what she's asking.",
+      "speaker_name": "Andrew Day",
+      "start_time": 671.45,
+      "end_time": 672.53
+    },
+    {
+      "text": "So it is Chris in that conversation now?",
+      "speaker_name": "Andrew Day",
+      "start_time": 672.53,
+      "end_time": 675.17
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 675.25,
+      "end_time": 675.57
+    },
+    {
+      "text": "If I catch up with him today, then.",
+      "speaker_name": "Andrew Day",
+      "start_time": 675.57,
+      "end_time": 679.33
+    },
+    {
+      "text": "Because I thought Chris was in contact with you every day.",
+      "speaker_name": "Andrew Day",
+      "start_time": 679.33,
+      "end_time": 681.85
+    },
+    {
+      "text": "But he's obviously just saying, well, Andy's just not passing the stuff.",
+      "speaker_name": "Andrew Day",
+      "start_time": 681.85,
+      "end_time": 684.93
+    },
+    {
+      "text": "Well, maybe then if you don't get hold of him by four, lets you and I know and we'll give him a call.",
+      "speaker_name": "MATT",
+      "start_time": 687.25,
+      "end_time": 690.85
+    },
+    {
+      "text": "Yeah, because I don't want Chris Delay in it, do we, Stuart?",
+      "speaker_name": "MATT",
+      "start_time": 691.73,
+      "end_time": 696.42
+    },
+    {
+      "text": "Okay, now.",
+      "speaker_name": "MATT",
+      "start_time": 696.42,
+      "end_time": 697.18
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andrew Day",
+      "start_time": 698.22,
+      "end_time": 698.58
+    },
+    {
+      "text": "This close.",
+      "speaker_name": "Andrew Day",
+      "start_time": 698.58,
+      "end_time": 699.1
+    },
+    {
+      "text": "Because they.",
+      "speaker_name": "Andrew Day",
+      "start_time": 699.1,
+      "end_time": 699.62
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Andrew Day",
+      "start_time": 699.62,
+      "end_time": 699.98
+    },
+    {
+      "text": "I mean, they just need, like, three.",
+      "speaker_name": "Andrew Day",
+      "start_time": 699.98,
+      "end_time": 701.58
+    },
+    {
+      "text": "I.",
+      "speaker_name": "Andrew Day",
+      "start_time": 701.66,
+      "end_time": 702.06
+    },
+    {
+      "text": "I forwarded them you a couple of times, but we've got these three questions on different.",
+      "speaker_name": "Andrew Day",
+      "start_time": 702.06,
+      "end_time": 705.94
+    },
+    {
+      "text": "Okay, all right, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 705.94,
+      "end_time": 708.94
+    },
+    {
+      "text": "So nothing else.",
+      "speaker_name": "Andrew Day",
+      "start_time": 708.94,
+      "end_time": 709.74
+    },
+    {
+      "text": "Number.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 710.14,
+      "end_time": 710.46
+    },
+    {
+      "text": "Andy, I'll get him to call you.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 710.46,
+      "end_time": 711.58
+    },
+    {
+      "text": "I'll call him there myself.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 711.58,
+      "end_time": 712.7
+    },
+    {
+      "text": "951.",
+      "speaker_name": "Andrew Day",
+      "start_time": 713.34,
+      "end_time": 714.3
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andrew Day",
+      "start_time": 714.46,
+      "end_time": 715.02
+    },
+    {
+      "text": "964480.",
+      "speaker_name": "Andrew Day",
+      "start_time": 715.26,
+      "end_time": 717.82
+    },
+    {
+      "text": "Let me see if I can get him.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 719.26,
+      "end_time": 720.18
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andrew Day",
+      "start_time": 720.18,
+      "end_time": 720.78
+    },
+    {
+      "text": "Just call me direct if there's anything later on.",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 721.65,
+      "end_time": 723.33
+    },
+    {
+      "text": "John, any more questions from you?",
+      "speaker_name": "Stuart Tiedeman",
+      "start_time": 723.33,
+      "end_time": 724.53
+    },
+    {
+      "text": "No, all's good.",
+      "speaker_name": "jon southcombe",
+      "start_time": 725.01,
+      "end_time": 725.81
+    },
+    {
+      "text": "Andy, can I have five minutes with you about paddle extra?",
+      "speaker_name": "jon southcombe",
+      "start_time": 725.81,
+      "end_time": 729.01
+    },
+    {
+      "text": "Yeah, all right.",
+      "speaker_name": "jon southcombe",
+      "start_time": 731.01,
+      "end_time": 732.33
+    },
+    {
+      "text": "Good seeing you, John.",
+      "speaker_name": "MATT",
+      "start_time": 732.33,
+      "end_time": 733.09
+    },
+    {
+      "text": "Take it easy.",
+      "speaker_name": "MATT",
+      "start_time": 733.09,
+      "end_time": 733.97
+    },
+    {
+      "text": "See you soon, mate.",
+      "speaker_name": "MATT",
+      "start_time": 733.97,
+      "end_time": 734.93
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andrew Day",
+      "start_time": 735.09,
+      "end_time": 735.49
+    },
+    {
+      "text": "See you later, guys.",
+      "speaker_name": "Andrew Day",
+      "start_time": 735.49,
+      "end_time": 736.37
+    },
+    {
+      "text": "Yeah, just.",
+      "speaker_name": "jon southcombe",
+      "start_time": 737.009,
+      "end_time": 737.89
+    },
+    {
+      "text": "I've got a version 6.",
+      "speaker_name": "jon southcombe",
+      "start_time": 738.21,
+      "end_time": 739.57
+    },
+    {
+      "text": "Version 6 of the deck.",
+      "speaker_name": "jon southcombe",
+      "start_time": 740.45,
+      "end_time": 741.63
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Data room",
+      "Acquisition offers",
+      "Zif Davis",
+      "Coolco",
+      "Omnicom",
+      "Deadline"
+    ],
+    "action_items": "\n**Andrew Day**\nCall Chris immediately after the meeting to resolve data room questions (10:47)\nFollow up with Zach from Coolco to maintain engagement (07:15)\nDiscuss 'paddle extra' with John after the meeting (12:12)\n\n**Stuart Tiedeman**\nCall Chris directly to help resolve the data sharing questions (11:53)\n\n**Matt Simpson**\nContact Chris if Andrew hasn't reached him by 4 PM (11:27)\n",
+    "outline": null,
+    "overview": "The TSG Weekly Update meeting focused on several key areas, beginning with updates on the deal process, where participants discussed the need for information regarding Zif Davis. A concern was raised about the existence of two separate data rooms—one updated for Zif Davis and another older version for Coolco—leading to confusion about sharing consistent information with potential buyers. The team noted that Coolco remains interested, with renewed engagement from Zach, while Omnicom has yet to provide direct feedback. A firm deadline for offers was established for the 14th, allowing buyers the option to submit an Indication of Interest instead of a Letter of Intent. Action items include Andrew calling Chris to clarify data room details and Stuart reaching out to assist with any data sharing questions, while Matt offered to step in if needed. Overall, the meeting emphasized the importance of timely communication and clarity in the ongoing deal process.",
+    "short_summary": "The TSG Weekly Update meeting centered on critical updates regarding the ongoing deal process, notably the need for clarity concerning Zif Davis. Participants identified a concern about two separate data rooms—one updated for Zif Davis and an older version for Coolco, which could lead to confusion when sharing information with potential buyers. Coolco remains actively interested, with renewed engagement from Zach, while Omnicom has not yet provided feedback despite follow-ups. A firm deadline for offers was set for the 14th, allowing buyers to submit an Indication of Interest instead of a formal Letter of Intent. Key action items included Andrew calling Chris to clarify data room details and Stuart reaching out for assistance with data sharing questions, highlighting the importance of timely communication in the deal process.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JTRM681Y1YB91G0P794FPWF4",
+  "audio_url": "https://cdn.fireflies.ai/01JTRM681Y1YB91G0P794FPWF4/audio.mp3?Expires=1773220860&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlRSTTY4MVkxWUI5MUcwUDc5NEZQV0Y0L2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2MH19fV19&Signature=ADLCNgznhUiIZNnJL0Z4uM1EzFF4twlU4T1cFqzqIwjIvfjAJk-72nCk9RsDFEXcmXI0zL-W-slEu2SdOJTVTlhpbGFY7zXAfo1dpLjQYEjEQ8ujWjMElcqsjzJX4OC-MUigDbcpSPVJWbmfAUlaCw2ObRHcXcPfoyuFGQHiqWCbcxM29z2lY9lOhoNuL1hqR2H4TeOLQ6hYCuDy4Qyf4BCpDX3CwBQye94goWj2NsTvj3RPySJofASzEmXsV~GHqJAArmi1-QTjhTvfiY1vSxtFtXcpOO9PqezCN2n7Jke1bFRrKLY1TwJn66YrMRxXllIO1XpT-eYuko8lVB4cEw__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JTRM681Y1YB91G0P794FPWF4/video.mp4?Expires=1773220860&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlRSTTY4MVkxWUI5MUcwUDc5NEZQV0Y0L3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2MH19fV19&Signature=stwiyqWuikJnjl38Pvx~--uf6Nx869~HABIQh-uPb-64yyVpnntS9uHfOhRi-sQYEkVB3DybmkgpYVHfJ2IP9gU68x77omwVZBl8iRI9Krqujl~IdnVZulv5hj9iKbjqYysXadGWvOAf75Nusgk~VEw0TIHT0baVnG1EU9BChXy04cTXo2NttxeNFJJ1Tl7SmS9GJ~XtXxPGNpEC4wbx4cPYe4zSzwfKsb2KFZGQ~ObQxXY-9WpxA2~lrxfyDeQuhE5m4RbjnypuJoyjqX2ZitlZqiFgQTtuzmZLH1XcyM0S-9yciO6VRBwJ0R6cm3M33KNPQ0iUVk8fZsBIecFhDw__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

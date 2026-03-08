@@ -1,0 +1,3453 @@
+{
+  "id": "l837AH4Ss88YrjBz",
+  "title": "Jack | Andy - Iris Catch Up",
+  "date": 1729585800000,
+  "dateString": "2024-10-22T08:30:00.000Z",
+  "duration": 38,
+  "participants": [
+    "jack.chiappe@capitala.co,andrew.day@capitala.co",
+    "jack.chiappe@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "jack.chiappe@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Second, I don't know, I can never find it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 0.2,
+      "end_time": 4.542
+    },
+    {
+      "text": "It's always in a weird spot.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 4.606,
+      "end_time": 6.086
+    },
+    {
+      "text": "Doesn't seem to open automatically.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 6.198,
+      "end_time": 8.37
+    },
+    {
+      "text": "Here it is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 11.15,
+      "end_time": 12.09
+    },
+    {
+      "text": "I'll ping this to you so you can see it live, just so you can understand where we're at.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 13.75,
+      "end_time": 19.77
+    },
+    {
+      "text": "So the conversation with Iris, I can, I can just give you a bit of context as to how it's going at the moment in terms of the communication with him.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 29.48,
+      "end_time": 42.128
+    },
+    {
+      "text": "I think we did a huge outreach at the beginning.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 42.224,
+      "end_time": 46.288
+    },
+    {
+      "text": "We spoke to a lot of companies.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 46.464,
+      "end_time": 47.98
+    },
+    {
+      "text": "It became pretty apparent that the criteria that Iris were looking for and had a business case to sell to Samsung and jail was very specific and the number of companies who provided that service was reducing rather than increasing over the years.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 49.12,
+      "end_time": 64.3
+    },
+    {
+      "text": "Adobe campaign is something that Adobe don't advertise anymore.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 64.88,
+      "end_time": 69.168
+    },
+    {
+      "text": "It's something that they don't, they're not kind of pushing it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 69.264,
+      "end_time": 72.4
+    },
+    {
+      "text": "I mean it just means that agencies have moved away from it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 72.52,
+      "end_time": 75.256
+    },
+    {
+      "text": "Even when we're speaking to Etsumos for example, who are a really good fit.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 75.448,
+      "end_time": 79.144
+    },
+    {
+      "text": "They say a lot of their clients don't use Adobe campaign anymore.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 79.272,
+      "end_time": 82.54
+    },
+    {
+      "text": "The reality.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 83.44,
+      "end_time": 84.46
+    },
+    {
+      "text": "What's that?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 85.52,
+      "end_time": 85.992
+    },
+    {
+      "text": "Sorry, what are they moving towards?",
+      "speaker_name": "Andy Day",
+      "start_time": 86.016,
+      "end_time": 87.9
+    },
+    {
+      "text": "HubSpot, Salesforce, Adobe experience manager.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 88.44,
+      "end_time": 92.136
+    },
+    {
+      "text": "So those are the three main ones that a lot of these companies are mentioning.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 92.248,
+      "end_time": 96.448
+    },
+    {
+      "text": "They sometimes mention Marketo.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 96.544,
+      "end_time": 98.424
+    },
+    {
+      "text": "My understanding is that Marketo and Adobe campaign are the same or they were the same at one point and Adobe acquired Marketo.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 98.592,
+      "end_time": 106.624
+    },
+    {
+      "text": "And now there's a kind of spin off.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 106.672,
+      "end_time": 108.364
+    },
+    {
+      "text": "There are some other kind of more budget ones, but those are the main ones that the big, big companies are using.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 108.512,
+      "end_time": 114.748
+    },
+    {
+      "text": "Salesforce, Adobe experience, Marketo.",
+      "speaker_name": "Andy Day",
+      "start_time": 114.884,
+      "end_time": 117.988
+    },
+    {
+      "text": "What was the other ones?",
+      "speaker_name": "Andy Day",
+      "start_time": 118.124,
+      "end_time": 119.316
+    },
+    {
+      "text": "So Adobe experience, HubSpot and Salesforce as a CRM and that's why they're looking for services.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 119.468,
+      "end_time": 131.08
+    },
+    {
+      "text": "So Adobe is still used, but the problem has come and it's not necessarily a problem.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 133.67,
+      "end_time": 139.982
+    },
+    {
+      "text": "It just means that there's not very many companies that still service this is that Adobe campaign isn't a big service that any of these agencies provide.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 140.046,
+      "end_time": 149.37
+    },
+    {
+      "text": "If they do, they're very niche down.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 150.11,
+      "end_time": 152.13
+    },
+    {
+      "text": "We've found a number that are really good fits but have been acquired already.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 152.91,
+      "end_time": 157.93
+    },
+    {
+      "text": "I think at the moment etumos is good, tap CXM is good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 158.43,
+      "end_time": 162.77
+    },
+    {
+      "text": "One of the things that I think we've probably got a bit more specialists rather than just finding leads because we've had to, I mean we have to be very granular with each of them.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 164.75,
+      "end_time": 173.81
+    },
+    {
+      "text": "We've set up, I've got a call set up with Tap CXN to go through a structure that I've laid out I've built out a structure that Iris has approved.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 174.23,
+      "end_time": 183.55
+    },
+    {
+      "text": "I can send that to you.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 183.71,
+      "end_time": 185.25
+    },
+    {
+      "text": "But it involves acquiring 100% of the business and paying for a small percentage upfront, and the remainder being based on EBITDA metrics that we can hit.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 188.7,
+      "end_time": 199.788
+    },
+    {
+      "text": "I mean, it ultimately, it has an effect on the fee we get, but it's better than not getting any fee.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 199.844,
+      "end_time": 205.8
+    },
+    {
+      "text": "Or not getting Jack, I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 206.18,
+      "end_time": 209.484
+    },
+    {
+      "text": "Excuse me one sec.",
+      "speaker_name": "Andy Day",
+      "start_time": 209.612,
+      "end_time": 210.88
+    },
+    {
+      "text": "I think we just need to close the deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 211.74,
+      "end_time": 214.312
+    },
+    {
+      "text": "The thing about Iris is this could be a cash cow for 20 years, but because we struggled with this, that, you know, the chances of them coming back are pretty slim.",
+      "speaker_name": "Andy Day",
+      "start_time": 214.416,
+      "end_time": 225.992
+    },
+    {
+      "text": "I mean, Ian has a good relationship with me, and we are doing other things in that.",
+      "speaker_name": "Andy Day",
+      "start_time": 226.056,
+      "end_time": 232.56
+    },
+    {
+      "text": "We referred to the Koreans that were lost at sea without an agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 232.6,
+      "end_time": 237.78
+    },
+    {
+      "text": "And I'm also meeting for him with a company in San Francisco that does load of data stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 239.21,
+      "end_time": 246.39
+    },
+    {
+      "text": "So Ian, I think, is always going to come back and say, okay, maybe we can give him another chance.",
+      "speaker_name": "Andy Day",
+      "start_time": 249.41,
+      "end_time": 253.714
+    },
+    {
+      "text": "But it just so happens that Simon is the COO in London, and that's, like, the ear that we really need.",
+      "speaker_name": "Andy Day",
+      "start_time": 253.762,
+      "end_time": 258.79
+    },
+    {
+      "text": "And so I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 259.93,
+      "end_time": 261.19
+    },
+    {
+      "text": "Have you had feedback from Simon?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 261.77,
+      "end_time": 263.71
+    },
+    {
+      "text": "No, not really.",
+      "speaker_name": "Andy Day",
+      "start_time": 264.9,
+      "end_time": 266.044
+    },
+    {
+      "text": "I'm just tracking with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 266.172,
+      "end_time": 267.96
+    },
+    {
+      "text": "My sense is that he is okay with the situation.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 268.34,
+      "end_time": 272.04
+    },
+    {
+      "text": "He was aware when he started the search that he said puddle.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 272.74,
+      "end_time": 277.476
+    },
+    {
+      "text": "It wasn't me that said puddle.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 277.628,
+      "end_time": 278.988
+    },
+    {
+      "text": "He said, we're not looking for a pool of buyers, a pool of targets.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 279.044,
+      "end_time": 282.012
+    },
+    {
+      "text": "This is a puddle.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 282.036,
+      "end_time": 283.04
+    },
+    {
+      "text": "I think what he's really doing is outsourcing the corporate development.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 283.78,
+      "end_time": 287.036
+    },
+    {
+      "text": "He doesn't want to have to go and find these companies and chase them up all the time.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 287.188,
+      "end_time": 290.604
+    },
+    {
+      "text": "Yeah, but we've got the list.",
+      "speaker_name": "Andy Day",
+      "start_time": 290.732,
+      "end_time": 291.868
+    },
+    {
+      "text": "I mean, that is what we do.",
+      "speaker_name": "Andy Day",
+      "start_time": 291.964,
+      "end_time": 293.124
+    },
+    {
+      "text": "That's the.",
+      "speaker_name": "Andy Day",
+      "start_time": 293.172,
+      "end_time": 293.716
+    },
+    {
+      "text": "That is just the definition of our job.",
+      "speaker_name": "Andy Day",
+      "start_time": 293.788,
+      "end_time": 296.5
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 296.62,
+      "end_time": 297.196
+    },
+    {
+      "text": "And that's what we're doing.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 297.268,
+      "end_time": 298.18
+    },
+    {
+      "text": "And that's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 298.26,
+      "end_time": 299.108
+    },
+    {
+      "text": "That's the reality of it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 299.164,
+      "end_time": 300.116
+    },
+    {
+      "text": "And I think he's happy with the service because he doesn't.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 300.148,
+      "end_time": 302.996
+    },
+    {
+      "text": "He doesn't want to do that.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 303.028,
+      "end_time": 304.32
+    },
+    {
+      "text": "And, and we're doing that for him.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 304.98,
+      "end_time": 306.62
+    },
+    {
+      "text": "The number of meetings.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 306.7,
+      "end_time": 307.892
+    },
+    {
+      "text": "Yeah, I know, but you're stating the obvious there, Jack, so that, that he doesn't want to do it and we're doing it for him.",
+      "speaker_name": "Andy Day",
+      "start_time": 308.076,
+      "end_time": 313.012
+    },
+    {
+      "text": "We know all of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 313.116,
+      "end_time": 314.148
+    },
+    {
+      "text": "That's what we're doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 314.204,
+      "end_time": 315.88
+    },
+    {
+      "text": "So I don't think that's a plus.",
+      "speaker_name": "Andy Day",
+      "start_time": 316.22,
+      "end_time": 317.82
+    },
+    {
+      "text": "That's just what's happening.",
+      "speaker_name": "Andy Day",
+      "start_time": 317.9,
+      "end_time": 319.324
+    },
+    {
+      "text": "That is completely transactional.",
+      "speaker_name": "Andy Day",
+      "start_time": 319.452,
+      "end_time": 321.598
+    },
+    {
+      "text": "He doesn't.",
+      "speaker_name": "Andy Day",
+      "start_time": 321.764,
+      "end_time": 322.258
+    },
+    {
+      "text": "Obviously.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 322.314,
+      "end_time": 323.15
+    },
+    {
+      "text": "Well, my point is we need to get.",
+      "speaker_name": "Andy Day",
+      "start_time": 324.77,
+      "end_time": 326.418
+    },
+    {
+      "text": "We need to do this successfully from.",
+      "speaker_name": "Andy Day",
+      "start_time": 326.474,
+      "end_time": 328.57
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Andy Day",
+      "start_time": 328.61,
+      "end_time": 328.786
+    },
+    {
+      "text": "From looking at this.",
+      "speaker_name": "Andy Day",
+      "start_time": 328.818,
+      "end_time": 329.426
+    },
+    {
+      "text": "So just correct me if I'm wrong, because I'm just looking at the spreadsheet and the pipeline, which I'm guessing is up to date.",
+      "speaker_name": "Andy Day",
+      "start_time": 329.458,
+      "end_time": 339.002
+    },
+    {
+      "text": "Like you are maybe not in the right place at the moment, but what have you got?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 339.106,
+      "end_time": 346.882
+    },
+    {
+      "text": "You've got it in as an opportunity outreached email.",
+      "speaker_name": "Andy Day",
+      "start_time": 346.906,
+      "end_time": 349.3
+    },
+    {
+      "text": "So this is what responded.",
+      "speaker_name": "Andy Day",
+      "start_time": 349.49,
+      "end_time": 351.78
+    },
+    {
+      "text": "Present to client.",
+      "speaker_name": "Andy Day",
+      "start_time": 352.52,
+      "end_time": 353.624
+    },
+    {
+      "text": "We got that far.",
+      "speaker_name": "Andy Day",
+      "start_time": 353.712,
+      "end_time": 354.744
+    },
+    {
+      "text": "Set up client meeting.",
+      "speaker_name": "Andy Day",
+      "start_time": 354.872,
+      "end_time": 356.18
+    },
+    {
+      "text": "Yeah, that's where it is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 356.88,
+      "end_time": 358.312
+    },
+    {
+      "text": "Present to client.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 358.416,
+      "end_time": 359.384
+    },
+    {
+      "text": "I've sent it to Simon, but he's out of office.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 359.512,
+      "end_time": 362.9
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 364.16,
+      "end_time": 365.06
+    },
+    {
+      "text": "Yeah, Simon isn't.",
+      "speaker_name": "Andy Day",
+      "start_time": 367.24,
+      "end_time": 368.56
+    },
+    {
+      "text": "You know, it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 368.68,
+      "end_time": 369.808
+    },
+    {
+      "text": "I think it's easy to just see this from happy, sad, sort of, you know, reactions, whether we are turning up on meetings and giving him some leads.",
+      "speaker_name": "Andy Day",
+      "start_time": 369.944,
+      "end_time": 380.31
+    },
+    {
+      "text": "The reality is we don't.",
+      "speaker_name": "Andy Day",
+      "start_time": 380.73,
+      "end_time": 382.274
+    },
+    {
+      "text": "If we don't get as close as possible to a close and absolutely rinse this list because he knows it's only 50.",
+      "speaker_name": "Andy Day",
+      "start_time": 382.362,
+      "end_time": 390.058
+    },
+    {
+      "text": "But we've got to, we've got to do the work.",
+      "speaker_name": "Andy Day",
+      "start_time": 390.114,
+      "end_time": 391.874
+    },
+    {
+      "text": "I mean, that's the point is we can't just do it the same way as we do everything else where we send out, you know, 100,000 emails and pray that one falls through.",
+      "speaker_name": "Andy Day",
+      "start_time": 391.922,
+      "end_time": 401.186
+    },
+    {
+      "text": "I mean, that's just statistics working to our favor.",
+      "speaker_name": "Andy Day",
+      "start_time": 401.218,
+      "end_time": 404.44
+    },
+    {
+      "text": "We need to like really reach out.",
+      "speaker_name": "Andy Day",
+      "start_time": 405.62,
+      "end_time": 407.292
+    },
+    {
+      "text": "I mean, it's a case of pretty much phoning all of these companies and seeing if we can set up a meeting.",
+      "speaker_name": "Andy Day",
+      "start_time": 407.316,
+      "end_time": 413.64
+    },
+    {
+      "text": "So look, I'm looking at these.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.7,
+      "end_time": 416.068
+    },
+    {
+      "text": "Green, right?",
+      "speaker_name": "Andy Day",
+      "start_time": 416.124,
+      "end_time": 416.78
+    },
+    {
+      "text": "Green is what we've got a conversation happening.",
+      "speaker_name": "Andy Day",
+      "start_time": 416.82,
+      "end_time": 421.12
+    },
+    {
+      "text": "Green, I think is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 421.58,
+      "end_time": 422.956
+    },
+    {
+      "text": "Is a potential sale.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 423.068,
+      "end_time": 425.268
+    },
+    {
+      "text": "So these are ones where you really.",
+      "speaker_name": "Andy Day",
+      "start_time": 425.444,
+      "end_time": 427.156
+    },
+    {
+      "text": "You like them.",
+      "speaker_name": "Andy Day",
+      "start_time": 427.268,
+      "end_time": 427.876
+    },
+    {
+      "text": "Basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 427.908,
+      "end_time": 428.34
+    },
+    {
+      "text": "I look at them and I think based on some of them haven't responded, but some of them have.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 428.42,
+      "end_time": 433.134
+    },
+    {
+      "text": "I look at them and think they could be the right fit.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 433.182,
+      "end_time": 435.55
+    },
+    {
+      "text": "They could be perfect.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 435.67,
+      "end_time": 436.998
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 437.174,
+      "end_time": 437.558
+    },
+    {
+      "text": "Well, what does yellow mean?",
+      "speaker_name": "Andy Day",
+      "start_time": 437.614,
+      "end_time": 439.61
+    },
+    {
+      "text": "Yellow means there's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 440.03,
+      "end_time": 441.334
+    },
+    {
+      "text": "There's something missing.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 441.382,
+      "end_time": 442.85
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 443.63,
+      "end_time": 444.134
+    },
+    {
+      "text": "And what does white mean?",
+      "speaker_name": "Andy Day",
+      "start_time": 444.182,
+      "end_time": 445.49
+    },
+    {
+      "text": "White means we don't have enough information.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 446.51,
+      "end_time": 448.41
+    },
+    {
+      "text": "But we their Adobe specialist.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 448.83,
+      "end_time": 451.95
+    },
+    {
+      "text": "So they have an Adobe accreditation, but they.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 452.03,
+      "end_time": 455.21
+    },
+    {
+      "text": "We don't have enough information to determine that they have Adobe campaign specialism.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 456.44,
+      "end_time": 460.26
+    },
+    {
+      "text": "Okay, so we're six months in, Jack.",
+      "speaker_name": "Andy Day",
+      "start_time": 464.84,
+      "end_time": 471.32
+    },
+    {
+      "text": "We're six months into this, right.",
+      "speaker_name": "Andy Day",
+      "start_time": 471.4,
+      "end_time": 473.3
+    },
+    {
+      "text": "And the reality is we've got four.",
+      "speaker_name": "Andy Day",
+      "start_time": 473.88,
+      "end_time": 477.512
+    },
+    {
+      "text": "What's that?",
+      "speaker_name": "Andy Day",
+      "start_time": 477.576,
+      "end_time": 478.048
+    },
+    {
+      "text": "Seven dead and four interested.",
+      "speaker_name": "Andy Day",
+      "start_time": 478.104,
+      "end_time": 481.906
+    },
+    {
+      "text": "That's eleven.",
+      "speaker_name": "Andy Day",
+      "start_time": 482.008,
+      "end_time": 482.878
+    },
+    {
+      "text": "Six months work.",
+      "speaker_name": "Andy Day",
+      "start_time": 483.014,
+      "end_time": 484.246
+    },
+    {
+      "text": "I know it's not that simple, but that's what the clients looking at.",
+      "speaker_name": "Andy Day",
+      "start_time": 484.438,
+      "end_time": 487.926
+    },
+    {
+      "text": "And that's what I have to deal with when having a conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 487.958,
+      "end_time": 490.174
+    },
+    {
+      "text": "Like, it's eleven, Andy.",
+      "speaker_name": "Andy Day",
+      "start_time": 490.262,
+      "end_time": 492.126
+    },
+    {
+      "text": "For six months it's taken you to look at this list.",
+      "speaker_name": "Andy Day",
+      "start_time": 492.278,
+      "end_time": 497.086
+    },
+    {
+      "text": "You've got eleven that.",
+      "speaker_name": "Andy Day",
+      "start_time": 497.278,
+      "end_time": 498.73
+    },
+    {
+      "text": "That we're dealing with.",
+      "speaker_name": "Andy Day",
+      "start_time": 499.39,
+      "end_time": 500.814
+    },
+    {
+      "text": "You know what I mean?",
+      "speaker_name": "Andy Day",
+      "start_time": 500.982,
+      "end_time": 501.694
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 501.742,
+      "end_time": 502.33
+    },
+    {
+      "text": "And there's been big gaps where Simon has been away or, you know, everything else.",
+      "speaker_name": "Andy Day",
+      "start_time": 503.63,
+      "end_time": 508.88
+    },
+    {
+      "text": "So we just.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.92,
+      "end_time": 509.4
+    },
+    {
+      "text": "We just need to rinse this list out.",
+      "speaker_name": "Andy Day",
+      "start_time": 509.44,
+      "end_time": 510.976
+    },
+    {
+      "text": "If we can honestly say that we've contacted, like, 90% of this list, and I mean, actually had conversations so that we can confidently strike them off, that's what we want to deliver to Iris and say we've been through the entire list.",
+      "speaker_name": "Andy Day",
+      "start_time": 511.008,
+      "end_time": 525.064
+    },
+    {
+      "text": "Yes, there was a percentage we couldn't get hold of, but everybody else we've spoken to had something wrong with the.",
+      "speaker_name": "Andy Day",
+      "start_time": 525.112,
+      "end_time": 531.72
+    },
+    {
+      "text": "With the setup.",
+      "speaker_name": "Andy Day",
+      "start_time": 531.8,
+      "end_time": 533.284
+    },
+    {
+      "text": "And we can confidently give them this list and go, that is six months worth of work at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 533.392,
+      "end_time": 538.404
+    },
+    {
+      "text": "This isn't six months of work.",
+      "speaker_name": "Andy Day",
+      "start_time": 538.452,
+      "end_time": 539.676
+    },
+    {
+      "text": "We both know that.",
+      "speaker_name": "Andy Day",
+      "start_time": 539.708,
+      "end_time": 540.84
+    },
+    {
+      "text": "So we've got to figure it out.",
+      "speaker_name": "Andy Day",
+      "start_time": 542.42,
+      "end_time": 543.652
+    },
+    {
+      "text": "I mean, that's the thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 543.676,
+      "end_time": 544.96
+    },
+    {
+      "text": "I want to be in a position where Iris.",
+      "speaker_name": "Andy Day",
+      "start_time": 546.14,
+      "end_time": 548.12
+    },
+    {
+      "text": "We're the go to team for Iris.",
+      "speaker_name": "Andy Day",
+      "start_time": 548.5,
+      "end_time": 550.676
+    },
+    {
+      "text": "I know they've tried like, six or seven other companies before us, and that's why they took so long.",
+      "speaker_name": "Andy Day",
+      "start_time": 550.748,
+      "end_time": 557.732
+    },
+    {
+      "text": "You know, I've been speaking to Ian for like, two, three years, and they wanted to put us on stuff, but they already had people engaged, so they just didn't want to muddy the waters.",
+      "speaker_name": "Andy Day",
+      "start_time": 557.756,
+      "end_time": 567.27
+    },
+    {
+      "text": "So what can we do to turn that list of outreach into green or red?",
+      "speaker_name": "Andy Day",
+      "start_time": 567.69,
+      "end_time": 574.35
+    },
+    {
+      "text": "This is the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 576.49,
+      "end_time": 577.274
+    },
+    {
+      "text": "I mean, I personally, I think it's an agreement between us as to whether or not we can turn someone that we've spoken.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 577.322,
+      "end_time": 584.426
+    },
+    {
+      "text": "We've reached out to two people at the company who should be involved in the m and a via email, via LinkedIn, and they haven't responded.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 584.538,
+      "end_time": 592.426
+    },
+    {
+      "text": "Are they a red?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 592.498,
+      "end_time": 593.55
+    },
+    {
+      "text": "Well, no, we want a conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 596.49,
+      "end_time": 598.35
+    },
+    {
+      "text": "I mean, we want a conversation.",
+      "speaker_name": "Andy Day",
+      "start_time": 598.73,
+      "end_time": 600.75
+    },
+    {
+      "text": "Just pull a couple out at random and let's go through.",
+      "speaker_name": "Andy Day",
+      "start_time": 601.97,
+      "end_time": 604.602
+    },
+    {
+      "text": "If you share your screen and show me what you've actually got, other than just talking about it, because, I mean, I've seen millions of these lists, but, like, this is the most naked one I've seen for a while.",
+      "speaker_name": "Andy Day",
+      "start_time": 604.626,
+      "end_time": 622.57
+    },
+    {
+      "text": "Right, okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 634.75,
+      "end_time": 636.086
+    },
+    {
+      "text": "I mean, the green ones.",
+      "speaker_name": "Andy Day",
+      "start_time": 636.118,
+      "end_time": 638.49
+    },
+    {
+      "text": "The green ones I can understand.",
+      "speaker_name": "Andy Day",
+      "start_time": 639.55,
+      "end_time": 640.918
+    },
+    {
+      "text": "Not the green ones.",
+      "speaker_name": "Andy Day",
+      "start_time": 641.054,
+      "end_time": 641.718
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 641.734,
+      "end_time": 641.878
+    },
+    {
+      "text": "The green ones.",
+      "speaker_name": "Andy Day",
+      "start_time": 641.894,
+      "end_time": 642.446
+    },
+    {
+      "text": "Uninterested.",
+      "speaker_name": "Andy Day",
+      "start_time": 642.478,
+      "end_time": 643.126
+    },
+    {
+      "text": "So double green, let's call them.",
+      "speaker_name": "Andy Day",
+      "start_time": 643.158,
+      "end_time": 645.12
+    },
+    {
+      "text": "I get those.",
+      "speaker_name": "Andy Day",
+      "start_time": 645.66,
+      "end_time": 646.476
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Andy Day",
+      "start_time": 646.548,
+      "end_time": 646.804
+    },
+    {
+      "text": "But take me through another green one.",
+      "speaker_name": "Andy Day",
+      "start_time": 646.852,
+      "end_time": 649.084
+    },
+    {
+      "text": "Like wolf sellers, for instance.",
+      "speaker_name": "Andy Day",
+      "start_time": 649.132,
+      "end_time": 650.284
+    },
+    {
+      "text": "I really like that name.",
+      "speaker_name": "Andy Day",
+      "start_time": 650.332,
+      "end_time": 651.452
+    },
+    {
+      "text": "Let's go with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 651.516,
+      "end_time": 652.56
+    },
+    {
+      "text": "Wolf sellers.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 652.94,
+      "end_time": 653.916
+    },
+    {
+      "text": "So what have we done?",
+      "speaker_name": "Andy Day",
+      "start_time": 654.028,
+      "end_time": 655.52
+    },
+    {
+      "text": "So I will show you.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 656.26,
+      "end_time": 658.612
+    },
+    {
+      "text": "Let's go on the CRM.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 658.796,
+      "end_time": 660.28
+    },
+    {
+      "text": "Randall Sellers.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 662.82,
+      "end_time": 664.04
+    },
+    {
+      "text": "Obviously, it's got caught up in TSG, as everything has, but usually.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 664.58,
+      "end_time": 667.98
+    },
+    {
+      "text": "Pause there.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 668.02,
+      "end_time": 668.92
+    },
+    {
+      "text": "Saw that I was getting blocks, went to LinkedIn.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 670.11,
+      "end_time": 674.21
+    },
+    {
+      "text": "Where is it?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 689.75,
+      "end_time": 690.85
+    },
+    {
+      "text": "Second, I think this is a good fit.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 694.11,
+      "end_time": 705.166
+    },
+    {
+      "text": "First of all.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 705.358,
+      "end_time": 706.342
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 706.446,
+      "end_time": 707.13
+    },
+    {
+      "text": "So I reached out to two people at this company.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 707.71,
+      "end_time": 712.65
+    },
+    {
+      "text": "Just got to find who they are now.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 714.67,
+      "end_time": 716.57
+    },
+    {
+      "text": "Where are these guys based?",
+      "speaker_name": "Andy Day",
+      "start_time": 720.8,
+      "end_time": 722.26
+    },
+    {
+      "text": "They're based in South America or Mexico, which is good.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 723.52,
+      "end_time": 727.92
+    },
+    {
+      "text": "That's fine, as long as they've got a us presence.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 728,
+      "end_time": 730.54
+    },
+    {
+      "text": "I don't know why Randall isn't coming up because I added him on LinkedIn.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 731.2,
+      "end_time": 735.34
+    },
+    {
+      "text": "Here we are.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 758.49,
+      "end_time": 759.51
+    },
+    {
+      "text": "So the way I reach out, I'll send them a connection request with a message and then that sits there until they accept it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 760.73,
+      "end_time": 770.71
+    },
+    {
+      "text": "But then obviously if they don't accept it for a week or so, I will send it to another person.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 771.7,
+      "end_time": 777.56
+    },
+    {
+      "text": "So who was that first person?",
+      "speaker_name": "Andy Day",
+      "start_time": 779.9,
+      "end_time": 781.268
+    },
+    {
+      "text": "What was he, was he the first.",
+      "speaker_name": "Andy Day",
+      "start_time": 781.324,
+      "end_time": 782.732
+    },
+    {
+      "text": "Randall Sellers.",
+      "speaker_name": "Andy Day",
+      "start_time": 782.756,
+      "end_time": 783.404
+    },
+    {
+      "text": "He owns the business, generally speaking.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 783.452,
+      "end_time": 788.74
+    },
+    {
+      "text": "I'll look for Corp Dev.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 788.78,
+      "end_time": 790.12
+    },
+    {
+      "text": "I don't think there was a corp dev here, so I would have reached out to a co founder or one of the c suite.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 791.1,
+      "end_time": 796.24
+    },
+    {
+      "text": "I just need to find who it was.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 796.66,
+      "end_time": 798.53
+    },
+    {
+      "text": "Um, because the email address is bounced.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 798.7,
+      "end_time": 803.318
+    },
+    {
+      "text": "I didn't have much to go on.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 803.414,
+      "end_time": 805.054
+    },
+    {
+      "text": "Maybe I reached out to this one.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 805.102,
+      "end_time": 806.526
+    },
+    {
+      "text": "No, I'd be able to see it so I can see if I recognize the name.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 806.598,
+      "end_time": 820.494
+    },
+    {
+      "text": "The reality is neither got back to me, um, when I chased them on Twitter.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 820.662,
+      "end_time": 825.23
+    },
+    {
+      "text": "What's interesting, Jake, seeing the CRM.",
+      "speaker_name": "Andy Day",
+      "start_time": 825.35,
+      "end_time": 827.85
+    },
+    {
+      "text": "You got blocked?",
+      "speaker_name": "Andy Day",
+      "start_time": 828.78,
+      "end_time": 830.6
+    },
+    {
+      "text": "Yeah, I emailed him and you emailed him again with the.",
+      "speaker_name": "Andy Day",
+      "start_time": 830.98,
+      "end_time": 837.64
+    },
+    {
+      "text": "And didn't get blocked.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 839.94,
+      "end_time": 841.156
+    },
+    {
+      "text": "It's TSG campaign didn't get blocked.",
+      "speaker_name": "Andy Day",
+      "start_time": 841.228,
+      "end_time": 843.276
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 843.308,
+      "end_time": 843.924
+    },
+    {
+      "text": "Yeah that is interesting.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 844.092,
+      "end_time": 846.012
+    },
+    {
+      "text": "So just be able to.",
+      "speaker_name": "Andy Day",
+      "start_time": 846.156,
+      "end_time": 849
+    },
+    {
+      "text": "You would be able to email him again, I would guess.",
+      "speaker_name": "Andy Day",
+      "start_time": 850.14,
+      "end_time": 852.316
+    },
+    {
+      "text": "Let me see what team I used with that on Jack agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 852.348,
+      "end_time": 855.24
+    },
+    {
+      "text": "So your jacket agencies is going through isn't being blocked.",
+      "speaker_name": "Andy Day",
+      "start_time": 855.72,
+      "end_time": 858.744
+    },
+    {
+      "text": "I mean we are not being blocked.",
+      "speaker_name": "Andy Day",
+      "start_time": 858.792,
+      "end_time": 860.42
+    },
+    {
+      "text": "I know.",
+      "speaker_name": "Andy Day",
+      "start_time": 861.28,
+      "end_time": 861.776
+    },
+    {
+      "text": "Actually I sent from agent mail agencies as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 861.808,
+      "end_time": 864.232
+    },
+    {
+      "text": "So we actually didn't use capital a.",
+      "speaker_name": "Andy Day",
+      "start_time": 864.256,
+      "end_time": 866
+    },
+    {
+      "text": "So what it says blocked has been blocked.",
+      "speaker_name": "Andy Day",
+      "start_time": 866.04,
+      "end_time": 868.26
+    },
+    {
+      "text": "Access denied, recipient address reject.",
+      "speaker_name": "Andy Day",
+      "start_time": 868.72,
+      "end_time": 873.816
+    },
+    {
+      "text": "So that was him actually was an error on their side.",
+      "speaker_name": "Andy Day",
+      "start_time": 873.888,
+      "end_time": 876.66
+    },
+    {
+      "text": "Just so you know.",
+      "speaker_name": "Andy Day",
+      "start_time": 878.48,
+      "end_time": 879.62
+    },
+    {
+      "text": "So actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 880.04,
+      "end_time": 881.02
+    },
+    {
+      "text": "Oh this, that means that that's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 881.9,
+      "end_time": 884.82
+    },
+    {
+      "text": "Isn't that their server blocking it?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 884.9,
+      "end_time": 886.84
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Andy Day",
+      "start_time": 887.14,
+      "end_time": 887.692
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 887.796,
+      "end_time": 888.132
+    },
+    {
+      "text": "Well their server is blocking it, but it's saying that the person that you send it to.",
+      "speaker_name": "Andy Day",
+      "start_time": 888.196,
+      "end_time": 891.652
+    },
+    {
+      "text": "So not the sender, the recipient address was rejected.",
+      "speaker_name": "Andy Day",
+      "start_time": 891.676,
+      "end_time": 895.284
+    },
+    {
+      "text": "So you got his, his email address wrong is what it's saying.",
+      "speaker_name": "Andy Day",
+      "start_time": 895.452,
+      "end_time": 901.36
+    },
+    {
+      "text": "We've been successfully sent emails via agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 901.7,
+      "end_time": 905.092
+    },
+    {
+      "text": "So that doesn't mean we've successfully sent it because I think undeliverables don't come through from Mailgun.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 905.156,
+      "end_time": 912.08
+    },
+    {
+      "text": "So we've sent it to age via agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 913.28,
+      "end_time": 915.992
+    },
+    {
+      "text": "So you have sent him Jackiencies Co.",
+      "speaker_name": "Andy Day",
+      "start_time": 916.056,
+      "end_time": 919.992
+    },
+    {
+      "text": "And there was no, that's my mail gun.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 920.056,
+      "end_time": 922.264
+    },
+    {
+      "text": "So that's going via mail gun?",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 922.392,
+      "end_time": 924.26
+    },
+    {
+      "text": "No, mail gun is mail agencies Co.",
+      "speaker_name": "Andy Day",
+      "start_time": 924.8,
+      "end_time": 927.56
+    },
+    {
+      "text": "So you actually sent them via your Google Gmail server.",
+      "speaker_name": "Andy Day",
+      "start_time": 927.6,
+      "end_time": 932.42
+    },
+    {
+      "text": "Okay, so let me just show you what I've got set up on here.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 933.04,
+      "end_time": 937.3
+    },
+    {
+      "text": "Accounts.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 939.21,
+      "end_time": 940.27
+    },
+    {
+      "text": "I've got one agencies and it's this one.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 940.65,
+      "end_time": 943.47
+    },
+    {
+      "text": "That's what's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 944.09,
+      "end_time": 945.074
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 945.202,
+      "end_time": 945.746
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 945.818,
+      "end_time": 946.058
+    },
+    {
+      "text": "You sent it via Mailgun.",
+      "speaker_name": "Andy Day",
+      "start_time": 946.074,
+      "end_time": 947.39
+    },
+    {
+      "text": "I'm not really sure why that's come up.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 947.81,
+      "end_time": 949.794
+    },
+    {
+      "text": "Do you think it looks better actually jacket agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 949.882,
+      "end_time": 952.794
+    },
+    {
+      "text": "But either way both of us sent from Mailgun and it didn't bounce.",
+      "speaker_name": "Andy Day",
+      "start_time": 952.842,
+      "end_time": 956.63
+    },
+    {
+      "text": "Well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 957.21,
+      "end_time": 957.95
+    },
+    {
+      "text": "If you just, just scroll because you sent him one email and you got one error, it looks to me you sent them an email from your email address and then they at the time had a server error.",
+      "speaker_name": "Andy Day",
+      "start_time": 959.97,
+      "end_time": 971.002
+    },
+    {
+      "text": "It was nothing to do with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 971.026,
+      "end_time": 972.51
+    },
+    {
+      "text": "What this says is recipient, it's basically saying there isn't a recipient email address.",
+      "speaker_name": "Andy Day",
+      "start_time": 973.97,
+      "end_time": 979.394
+    },
+    {
+      "text": "So Randall Sellers doesn't exist and that's why it blocked it.",
+      "speaker_name": "Andy Day",
+      "start_time": 979.442,
+      "end_time": 982.83
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 983.17,
+      "end_time": 984.026
+    },
+    {
+      "text": "So it's a glitch in the matrix basically.",
+      "speaker_name": "Andy Day",
+      "start_time": 984.218,
+      "end_time": 988.074
+    },
+    {
+      "text": "And then we sent two other emails which both went through that just happened to be from our mail gun accounts, but actually should have made no difference.",
+      "speaker_name": "Andy Day",
+      "start_time": 988.122,
+      "end_time": 995.986
+    },
+    {
+      "text": "So I think.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 996.178,
+      "end_time": 997.15
+    },
+    {
+      "text": "Sorry, mail gun doesn't bounce back to close, which I don't think I've ever seen a mail gun email bounce back to close.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 998.85,
+      "end_time": 1006.682
+    },
+    {
+      "text": "And when we do 30,000 we don't get any undeliverables from a mail gun outreach.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1006.786,
+      "end_time": 1011.682
+    },
+    {
+      "text": "But we definitely, if that's the case then all that's happened is we don't have his email address.",
+      "speaker_name": "Andy Day",
+      "start_time": 1011.786,
+      "end_time": 1017.31
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1017.75,
+      "end_time": 1018.102
+    },
+    {
+      "text": "So let's have a look at his LinkedIn again.",
+      "speaker_name": "Andy Day",
+      "start_time": 1018.126,
+      "end_time": 1020.09
+    },
+    {
+      "text": "What's he called?",
+      "speaker_name": "Andy Day",
+      "start_time": 1022.07,
+      "end_time": 1023.17
+    },
+    {
+      "text": "Randall.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1024.15,
+      "end_time": 1025.09
+    },
+    {
+      "text": "Randall Sellers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1025.55,
+      "end_time": 1026.686
+    },
+    {
+      "text": "You've got the plugin on your browser.",
+      "speaker_name": "Andy Day",
+      "start_time": 1026.758,
+      "end_time": 1029.13
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1029.51,
+      "end_time": 1030.29
+    },
+    {
+      "text": "For some reason.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1032.95,
+      "end_time": 1034.29
+    },
+    {
+      "text": "Yeah, I had to Google his name, I think.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1034.95,
+      "end_time": 1037.17
+    },
+    {
+      "text": "I don't think I got an email address for him.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1040.71,
+      "end_time": 1042.89
+    },
+    {
+      "text": "No I didn't.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1043.52,
+      "end_time": 1044.312
+    },
+    {
+      "text": "And then I tried the other tool I've got.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1044.376,
+      "end_time": 1047.48
+    },
+    {
+      "text": "So I wonder how we got hold of his email the first time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1047.64,
+      "end_time": 1050.62
+    },
+    {
+      "text": "Maybe from one of those big.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1052.08,
+      "end_time": 1053.44
+    },
+    {
+      "text": "Actually, let's have a look.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1053.52,
+      "end_time": 1054.78
+    },
+    {
+      "text": "Updated via an import.",
+      "speaker_name": "Andy Day",
+      "start_time": 1057.92,
+      "end_time": 1059.5
+    },
+    {
+      "text": "Oh, so you added it, you added it back.",
+      "speaker_name": "Andy Day",
+      "start_time": 1061.72,
+      "end_time": 1064.06
+    },
+    {
+      "text": "That's what's happened.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1064.64,
+      "end_time": 1065.544
+    },
+    {
+      "text": "I've got it from the other email source.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1065.592,
+      "end_time": 1068.46
+    },
+    {
+      "text": "So that's, that's probably why what I may have done also is for some reason I can't find that other person I messaged.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1068.93,
+      "end_time": 1076.922
+    },
+    {
+      "text": "But maybe the other person had an email address and I copied the format.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1076.986,
+      "end_time": 1080.91
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1081.77,
+      "end_time": 1082.55
+    },
+    {
+      "text": "Hang on.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1086.37,
+      "end_time": 1086.842
+    },
+    {
+      "text": "I'll be able to see pending when I.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1086.866,
+      "end_time": 1088.59
+    },
+    {
+      "text": "This isn't the most efficient process but yeah, I mean we've got, I think with, with this.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1090.53,
+      "end_time": 1103.572
+    },
+    {
+      "text": "I knew Randall was unlikely to respond because he just.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1103.636,
+      "end_time": 1107.548
+    },
+    {
+      "text": "His LinkedIn gave old.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1107.604,
+      "end_time": 1108.908
+    },
+    {
+      "text": "That was the impression I got.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1109.004,
+      "end_time": 1110.148
+    },
+    {
+      "text": "And generally speaking, they just don't.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1110.204,
+      "end_time": 1111.892
+    },
+    {
+      "text": "Don't respond to emails, especially if you're running a fairly large company.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1111.956,
+      "end_time": 1116.204
+    },
+    {
+      "text": "He's probably a channel.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1116.292,
+      "end_time": 1117.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1118.98,
+      "end_time": 1119.316
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1119.348,
+      "end_time": 1119.936
+    },
+    {
+      "text": "So is there a CEO or an MD that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1120.108,
+      "end_time": 1122.568
+    },
+    {
+      "text": "Couldn't find a CEO, but the person I reached out to, I think they accepted but then never responded to my.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1122.704,
+      "end_time": 1131.22
+    },
+    {
+      "text": "Let me have a look for that because I think I'll be able to find the wolf sellers.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1138.12,
+      "end_time": 1142.464
+    },
+    {
+      "text": "Let me put a note here to check so I'll be able to find who I reached out to.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1142.552,
+      "end_time": 1150.08
+    },
+    {
+      "text": "But.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1150.58,
+      "end_time": 1151.32
+    },
+    {
+      "text": "If we'd have continued down this conversation with this particular one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1157.06,
+      "end_time": 1160.2
+    },
+    {
+      "text": "So basically we were blocked at the CRM.",
+      "speaker_name": "Andy Day",
+      "start_time": 1162.58,
+      "end_time": 1165.244
+    },
+    {
+      "text": "So we just went with the story that we had.",
+      "speaker_name": "Andy Day",
+      "start_time": 1165.292,
+      "end_time": 1167.836
+    },
+    {
+      "text": "I would say ultimately we need to phone this guy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1167.988,
+      "end_time": 1170.196
+    },
+    {
+      "text": "But he's mexican, right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1170.228,
+      "end_time": 1171.62
+    },
+    {
+      "text": "And if we've got.",
+      "speaker_name": "Andy Day",
+      "start_time": 1171.66,
+      "end_time": 1172.284
+    },
+    {
+      "text": "If we can get hold of his phone number using our tools, we have a team.",
+      "speaker_name": "Andy Day",
+      "start_time": 1172.332,
+      "end_time": 1177.652
+    },
+    {
+      "text": "Jack, it's not just you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1177.836,
+      "end_time": 1179.44
+    },
+    {
+      "text": "And Ramon is a spanish speaking mexican ancestry person over the moons.",
+      "speaker_name": "Andy Day",
+      "start_time": 1180.42,
+      "end_time": 1186.964
+    },
+    {
+      "text": "Get involved with this and try and get wolf on the blower.",
+      "speaker_name": "Andy Day",
+      "start_time": 1187.012,
+      "end_time": 1189.452
+    },
+    {
+      "text": "So, you know, it's not.",
+      "speaker_name": "Andy Day",
+      "start_time": 1189.516,
+      "end_time": 1191.292
+    },
+    {
+      "text": "It's not just you on your own, it's us as a team.",
+      "speaker_name": "Andy Day",
+      "start_time": 1191.356,
+      "end_time": 1193.66
+    },
+    {
+      "text": "And that's what our weekly or our three times a week meetings are really about.",
+      "speaker_name": "Andy Day",
+      "start_time": 1193.7,
+      "end_time": 1198.97
+    },
+    {
+      "text": "Is not just an estate update.",
+      "speaker_name": "Andy Day",
+      "start_time": 1199.51,
+      "end_time": 1202.27
+    },
+    {
+      "text": "Is this is where we're at.",
+      "speaker_name": "Andy Day",
+      "start_time": 1202.31,
+      "end_time": 1204.206
+    },
+    {
+      "text": "This is my problem.",
+      "speaker_name": "Andy Day",
+      "start_time": 1204.358,
+      "end_time": 1205.47
+    },
+    {
+      "text": "How do we solve it?",
+      "speaker_name": "Andy Day",
+      "start_time": 1205.63,
+      "end_time": 1206.63
+    },
+    {
+      "text": "That's what we need to be doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1206.67,
+      "end_time": 1207.654
+    },
+    {
+      "text": "Not just turning up and listing stuff and then walking away and forgetting about it for the week.",
+      "speaker_name": "Andy Day",
+      "start_time": 1207.702,
+      "end_time": 1212.982
+    },
+    {
+      "text": "Now we really have to solve stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 1213.126,
+      "end_time": 1215.97
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1216.31,
+      "end_time": 1216.998
+    },
+    {
+      "text": "So it does look like there is another way around this for now.",
+      "speaker_name": "Andy Day",
+      "start_time": 1217.134,
+      "end_time": 1219.87
+    },
+    {
+      "text": "But equally, there's no harm in saying, Ramon, can you put together some spanish speaking emails to send to this guy?",
+      "speaker_name": "Andy Day",
+      "start_time": 1219.95,
+      "end_time": 1226.426
+    },
+    {
+      "text": "I've got a feeling maybe because he's older that he doesn't speak English and Ramon would just type up a good email for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1226.458,
+      "end_time": 1234.338
+    },
+    {
+      "text": "Do you know what I mean?",
+      "speaker_name": "Andy Day",
+      "start_time": 1234.354,
+      "end_time": 1235.282
+    },
+    {
+      "text": "Oh, yeah, I understand what you're saying.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1235.466,
+      "end_time": 1236.794
+    },
+    {
+      "text": "I mean, Randall Sellers sounds like the most american name out there.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1236.842,
+      "end_time": 1241.81
+    },
+    {
+      "text": "I don't know, maybe not.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1241.93,
+      "end_time": 1243.266
+    },
+    {
+      "text": "And he's based in the US, but.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1243.338,
+      "end_time": 1245.058
+    },
+    {
+      "text": "Yeah, I know.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1245.074,
+      "end_time": 1245.522
+    },
+    {
+      "text": "I take your point on this, that it's a mexican company.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1245.546,
+      "end_time": 1248.114
+    },
+    {
+      "text": "We should reach out to the mexican people in Spanish because they're much more likely to respond.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1248.202,
+      "end_time": 1252.562
+    },
+    {
+      "text": "And that isn't something I've been utilizing.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1252.706,
+      "end_time": 1254.618
+    },
+    {
+      "text": "I didn't even consider a lot of.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1254.714,
+      "end_time": 1255.842
+    },
+    {
+      "text": "Californians actually speak Spanish as their first language.",
+      "speaker_name": "Andy Day",
+      "start_time": 1255.866,
+      "end_time": 1258.71
+    },
+    {
+      "text": "I hadn't considered that we should be using my own Spanish speaking next row is another great one, but just before.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1260.09,
+      "end_time": 1269.914
+    },
+    {
+      "text": "We finish this, there is a solution to that one basically that's just broken in the search that we can fix now.",
+      "speaker_name": "Andy Day",
+      "start_time": 1269.962,
+      "end_time": 1276.546
+    },
+    {
+      "text": "All right, go on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1276.738,
+      "end_time": 1277.322
+    },
+    {
+      "text": "Next row, digital.",
+      "speaker_name": "Andy Day",
+      "start_time": 1277.346,
+      "end_time": 1278.27
+    },
+    {
+      "text": "Next row digital.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1279.59,
+      "end_time": 1280.73
+    },
+    {
+      "text": "David knows him, sent him an email.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1281.19,
+      "end_time": 1283.702
+    },
+    {
+      "text": "So I did utilize David there.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1283.766,
+      "end_time": 1286.446
+    },
+    {
+      "text": "He didn't respond.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1286.478,
+      "end_time": 1287.166
+    },
+    {
+      "text": "I've been chasing him and haven't had a response.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1287.238,
+      "end_time": 1290.55
+    },
+    {
+      "text": "But ultimately even the green Adobe experience cloud, I still have to figure out whether or not they have Adobe campaign.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1290.67,
+      "end_time": 1298.57
+    },
+    {
+      "text": "But they're in their list from Adobe's website now.",
+      "speaker_name": "Andy Day",
+      "start_time": 1299.59,
+      "end_time": 1302.19
+    },
+    {
+      "text": "So surely they do have it or have had it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1302.23,
+      "end_time": 1304.346
+    },
+    {
+      "text": "And we need a yes or a no.",
+      "speaker_name": "Andy Day",
+      "start_time": 1304.438,
+      "end_time": 1305.922
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1306.066,
+      "end_time": 1306.69
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1306.77,
+      "end_time": 1307.13
+    },
+    {
+      "text": "We need something from them and all of these.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1307.17,
+      "end_time": 1309.746
+    },
+    {
+      "text": "It's like we don't know whether or not they have Adobe campaign in the level that we need it, but we just need a yes or no from them.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1309.778,
+      "end_time": 1316.042
+    },
+    {
+      "text": "And the issue is getting hold of them.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1316.186,
+      "end_time": 1318.818
+    },
+    {
+      "text": "And this may be partly due to me being blocked and I haven't tried doing the mail gun to these guys.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1318.914,
+      "end_time": 1329.55
+    },
+    {
+      "text": "I think it may be worth doing another round maybe with the ones that we haven't reached out to on LinkedIn with just my agency's email just to see if they respond to that one because I've only tried my capital a email with all of these guys.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1330.66,
+      "end_time": 1344.88
+    },
+    {
+      "text": "So that's definitely something I can do.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1345.74,
+      "end_time": 1348.24
+    },
+    {
+      "text": "This one, Kumaranga, next row.",
+      "speaker_name": "Andy Day",
+      "start_time": 1349.22,
+      "end_time": 1351.42
+    },
+    {
+      "text": "He's caught up in eleven campaigns at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 1351.54,
+      "end_time": 1354.28
+    },
+    {
+      "text": "He's enrolled in eleven workflows.",
+      "speaker_name": "Andy Day",
+      "start_time": 1355.51,
+      "end_time": 1357.23
+    },
+    {
+      "text": "Most of them are finished, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 1357.27,
+      "end_time": 1358.89
+    },
+    {
+      "text": "Well, I think they're all finished actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 1359.79,
+      "end_time": 1361.158
+    },
+    {
+      "text": "That error paused.",
+      "speaker_name": "Andy Day",
+      "start_time": 1361.214,
+      "end_time": 1362.53
+    },
+    {
+      "text": "So something's going through.",
+      "speaker_name": "Andy Day",
+      "start_time": 1364.27,
+      "end_time": 1365.462
+    },
+    {
+      "text": "So what's, what's the issue that he just hasn't replied to?",
+      "speaker_name": "Andy Day",
+      "start_time": 1365.486,
+      "end_time": 1368.69
+    },
+    {
+      "text": "Yeah, so he's replying to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1369.35,
+      "end_time": 1375.29
+    },
+    {
+      "text": "He replied to David at one point in July.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1377.39,
+      "end_time": 1380.97
+    },
+    {
+      "text": "Yeah, he didn't respond when I sent him info about Iris.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1381.89,
+      "end_time": 1385.75
+    },
+    {
+      "text": "I chased, sent him a connection request on LinkedIn and then, so it's not Kumar, it's Kieran that we're speaking to.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1386.25,
+      "end_time": 1396.43
+    },
+    {
+      "text": "Ryan.",
+      "speaker_name": "Andy Day",
+      "start_time": 1400.73,
+      "end_time": 1401.154
+    },
+    {
+      "text": "He's obviously the right guy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1401.202,
+      "end_time": 1402.25
+    },
+    {
+      "text": "So Kieran Ranger, have we looked at his LinkedIn?",
+      "speaker_name": "Andy Day",
+      "start_time": 1402.29,
+      "end_time": 1405.234
+    },
+    {
+      "text": "Have we got him on LinkedIn?",
+      "speaker_name": "Andy Day",
+      "start_time": 1405.282,
+      "end_time": 1406.87
+    },
+    {
+      "text": "He's pretty old as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1417.11,
+      "end_time": 1418.57
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1420.99,
+      "end_time": 1421.39
+    },
+    {
+      "text": "So same situation.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1421.43,
+      "end_time": 1423.09
+    },
+    {
+      "text": "Sent him a request with the caption.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1423.91,
+      "end_time": 1429.19
+    },
+    {
+      "text": "We are looking for queries.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1429.31,
+      "end_time": 1430.798
+    },
+    {
+      "text": "As soon as they respond to my request, I can then bug them and I can follow up.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1430.894,
+      "end_time": 1435.21
+    },
+    {
+      "text": "We can, we can message in sales nav I, every time I get a sales nav message, I bin it or don't look at it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1436.78,
+      "end_time": 1443.28
+    },
+    {
+      "text": "But once they, once they accept my request, I can follow up, which is what happened with Etymos Etymos I followed up with for.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1446.06,
+      "end_time": 1453.596
+    },
+    {
+      "text": "Well, you can see I followed up with him semi regularly.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1453.748,
+      "end_time": 1457.2
+    },
+    {
+      "text": "So you see, I followed up, checked his email.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1461.67,
+      "end_time": 1469.17
+    },
+    {
+      "text": "I'd sent him maybe five emails after he'd sent me that he hadn't got it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1469.87,
+      "end_time": 1473.93
+    },
+    {
+      "text": "No, maybe more than five emails I was following up weekly.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1475.03,
+      "end_time": 1478.69
+    },
+    {
+      "text": "And then he said he wasn't getting them.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1479.43,
+      "end_time": 1484.598
+    },
+    {
+      "text": "So I sent through the header and then he found it somewhere, but I don't know where he found it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1484.654,
+      "end_time": 1489.37
+    },
+    {
+      "text": "And then we had the call last week, but it was just, it was a matter of.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1490.04,
+      "end_time": 1494.016
+    },
+    {
+      "text": "He hadn't seen the email come through, which is why I'm chasing up on LinkedIn and those.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1494.048,
+      "end_time": 1500.4
+    },
+    {
+      "text": "LinkedIn.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1500.44,
+      "end_time": 1501.14
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1501.44,
+      "end_time": 1501.776
+    },
+    {
+      "text": "But I think we can take it as read that emails are not always going to get through.",
+      "speaker_name": "Andy Day",
+      "start_time": 1501.808,
+      "end_time": 1506.336
+    },
+    {
+      "text": "I mean, it just is hit and miss.",
+      "speaker_name": "Andy Day",
+      "start_time": 1506.368,
+      "end_time": 1508.336
+    },
+    {
+      "text": "And that is the nature of emails.",
+      "speaker_name": "Andy Day",
+      "start_time": 1508.408,
+      "end_time": 1509.688
+    },
+    {
+      "text": "It's not us.",
+      "speaker_name": "Andy Day",
+      "start_time": 1509.704,
+      "end_time": 1510.416
+    },
+    {
+      "text": "We haven't made a mistake.",
+      "speaker_name": "Andy Day",
+      "start_time": 1510.488,
+      "end_time": 1511.448
+    },
+    {
+      "text": "We're not spamming people so much that our email, it just is random.",
+      "speaker_name": "Andy Day",
+      "start_time": 1511.504,
+      "end_time": 1515.544
+    },
+    {
+      "text": "I've got, I've just been looking actually now, one of our new clients that we signed, the San Francisco guy that came from Iris's meeting, he went into my spam.",
+      "speaker_name": "Andy Day",
+      "start_time": 1515.592,
+      "end_time": 1526.482
+    },
+    {
+      "text": "Had I not gone through spam, I wouldn't have known that he was even arranging a meeting with me this year.",
+      "speaker_name": "Andy Day",
+      "start_time": 1526.666,
+      "end_time": 1531.722
+    },
+    {
+      "text": "So it just is the nature of.",
+      "speaker_name": "Andy Day",
+      "start_time": 1531.906,
+      "end_time": 1533.778
+    },
+    {
+      "text": "It does happen and that's fine when it's a big list.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1533.874,
+      "end_time": 1538.13
+    },
+    {
+      "text": "The fear is when it's 50 and you're reaching out to them semi regularly, following up and they're not responding to LinkedIn outreach.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1538.21,
+      "end_time": 1545.99
+    },
+    {
+      "text": "And the phones.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1546.53,
+      "end_time": 1547.402
+    },
+    {
+      "text": "Yeah, the phones I have tried and should do more of, to be honest.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1547.506,
+      "end_time": 1551.83
+    },
+    {
+      "text": "In this case, we just need to do it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1552.45,
+      "end_time": 1555.602
+    },
+    {
+      "text": "I mean, it's just that simple.",
+      "speaker_name": "Andy Day",
+      "start_time": 1555.706,
+      "end_time": 1557.066
+    },
+    {
+      "text": "And if you are unable to, or it's phoning the US or whatever, we just need to sort it out.",
+      "speaker_name": "Andy Day",
+      "start_time": 1557.138,
+      "end_time": 1562.674
+    },
+    {
+      "text": "And also, like I say, I'm really happy to bring Ramon on board with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1562.722,
+      "end_time": 1567.546
+    },
+    {
+      "text": "You know, just the fact that he's in the country, he's got american accent.",
+      "speaker_name": "Andy Day",
+      "start_time": 1567.578,
+      "end_time": 1571.596
+    },
+    {
+      "text": "It might be less weird for Americans to get random phone call.",
+      "speaker_name": "Andy Day",
+      "start_time": 1571.708,
+      "end_time": 1575.8
+    },
+    {
+      "text": "Yeah, I mean, I can, I can use, I've got phone calls set up on.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1577.1,
+      "end_time": 1579.668
+    },
+    {
+      "text": "I've got phone set up on clothes.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1579.724,
+      "end_time": 1580.956
+    },
+    {
+      "text": "I've used it before and I can use it for these lists.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1580.988,
+      "end_time": 1585
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "Andy Day",
+      "start_time": 1585.5,
+      "end_time": 1585.988
+    },
+    {
+      "text": "I think you just need to kill with this, Jack, because, yeah, even from my point of view, I'm thinking, well, I paid whatever to you for the.",
+      "speaker_name": "Andy Day",
+      "start_time": 1586.044,
+      "end_time": 1595.63
+    },
+    {
+      "text": "To do this work like eight grand or whatever over six months and I'm just seeing 1111 communications.",
+      "speaker_name": "Andy Day",
+      "start_time": 1595.71,
+      "end_time": 1604.838
+    },
+    {
+      "text": "Do you know what I mean, eleven successful one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1605.014,
+      "end_time": 1607.574
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1607.742,
+      "end_time": 1608.55
+    },
+    {
+      "text": "To me, maybe I need to expand on what we've actually done as well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1608.71,
+      "end_time": 1613.246
+    },
+    {
+      "text": "This list is the list of people that we think we can close.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1613.358,
+      "end_time": 1617.958
+    },
+    {
+      "text": "This isn't a random list and maybe that's not coming across the iris as well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1618.054,
+      "end_time": 1622.97
+    },
+    {
+      "text": "This is the kind of the final list that we need to close down on rather than the only people we've reached out to and the only conversations we've had.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1624.84,
+      "end_time": 1633.24
+    },
+    {
+      "text": "So it is a good point.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1633.36,
+      "end_time": 1638.016
+    },
+    {
+      "text": "And let me put something together on that so you can.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1638.168,
+      "end_time": 1642.22
+    },
+    {
+      "text": "Hear that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1645.4,
+      "end_time": 1646.232
+    },
+    {
+      "text": "Oh, you're back.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1646.376,
+      "end_time": 1647.46
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1649.49,
+      "end_time": 1654.626
+    },
+    {
+      "text": "So you said this is the list that we need to close down on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1654.658,
+      "end_time": 1657.122
+    },
+    {
+      "text": "Yeah, yeah, this is.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1657.226,
+      "end_time": 1658.33
+    },
+    {
+      "text": "And I think, and it is a good point.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1658.37,
+      "end_time": 1660.378
+    },
+    {
+      "text": "I don't want Iris to think this is all we've done, because it isn't.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1660.434,
+      "end_time": 1664.79
+    },
+    {
+      "text": "So if I put together something, like.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1665.85,
+      "end_time": 1668.31
+    },
+    {
+      "text": "A lot of what we do do is automated.",
+      "speaker_name": "Andy Day",
+      "start_time": 1669.93,
+      "end_time": 1671.97
+    },
+    {
+      "text": "So, I mean, just, and I'm not complaining, you know, I'm really happy with your work, generally speaking, but I don't know what you're doing 40 hours a week.",
+      "speaker_name": "Andy Day",
+      "start_time": 1672.09,
+      "end_time": 1678.922
+    },
+    {
+      "text": "So all I can do is guess that you are setting up the campaigns and then you're moving on with your life.",
+      "speaker_name": "Andy Day",
+      "start_time": 1678.946,
+      "end_time": 1684.894
+    },
+    {
+      "text": "And because you haven't got your eye on this all the time, you just kind of let it drift.",
+      "speaker_name": "Andy Day",
+      "start_time": 1684.942,
+      "end_time": 1691.67
+    },
+    {
+      "text": "There has been weeks where we haven't done fuck all, and that's not always our fault.",
+      "speaker_name": "Andy Day",
+      "start_time": 1691.71,
+      "end_time": 1696.27
+    },
+    {
+      "text": "It's partly to do with the fact that Simon has not been engaged.",
+      "speaker_name": "Andy Day",
+      "start_time": 1696.31,
+      "end_time": 1699.662
+    },
+    {
+      "text": "And also we had a period where he wasn't getting your emails, and it's obviously not a priority for him because he wasn't kicking our door down saying, where the fuck have we locked on?",
+      "speaker_name": "Andy Day",
+      "start_time": 1699.726,
+      "end_time": 1707.868
+    },
+    {
+      "text": "Kind of letting it slide as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1708.014,
+      "end_time": 1710
+    },
+    {
+      "text": "But the fact is, when we turn around at the end of seven, eight months and say, this is what we're presenting, that is going to look really bad on our part.",
+      "speaker_name": "Andy Day",
+      "start_time": 1710.16,
+      "end_time": 1719.072
+    },
+    {
+      "text": "And this is kind of the conversation I'm getting from f 84.",
+      "speaker_name": "Andy Day",
+      "start_time": 1719.256,
+      "end_time": 1721.744
+    },
+    {
+      "text": "But I do believe that we've at least got 50, 60% of the way there for them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1721.792,
+      "end_time": 1726.94
+    },
+    {
+      "text": "But I don't want to fuck Iris off.",
+      "speaker_name": "Andy Day",
+      "start_time": 1727.28,
+      "end_time": 1729.296
+    },
+    {
+      "text": "This is the future for us in terms of being able to do nice, big corporate buy side stuff and just have a pipeline coming from Iris every six months of new searches, you know, so it'd be good if you just were able to turn around at the end of a six month period and say, well, this is the final list from an original list where most of them were dead or moved on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1729.328,
+      "end_time": 1750.98
+    },
+    {
+      "text": "These ones were the, you know, the finalists that look really great.",
+      "speaker_name": "Andy Day",
+      "start_time": 1751.44,
+      "end_time": 1755.368
+    },
+    {
+      "text": "And we focused on these and we've been through the entire list and we spoke to everybody and this is the reality.",
+      "speaker_name": "Andy Day",
+      "start_time": 1755.424,
+      "end_time": 1762.82
+    },
+    {
+      "text": "Then you can give them a good case of, you know.",
+      "speaker_name": "Andy Day",
+      "start_time": 1762.94,
+      "end_time": 1765.956
+    },
+    {
+      "text": "So we've looked at everything.",
+      "speaker_name": "Andy Day",
+      "start_time": 1765.988,
+      "end_time": 1766.972
+    },
+    {
+      "text": "Our advice to you is you need to move on to Adobe experience or HubSpot, you know, Marketo or Salesforce and that's what you need to be acquiring if one of those services you already own.",
+      "speaker_name": "Andy Day",
+      "start_time": 1767.076,
+      "end_time": 1778.2
+    },
+    {
+      "text": "Yeah, so, okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1778.5,
+      "end_time": 1780.66
+    },
+    {
+      "text": "Yeah, and maybe this is my error for not communicating that with you as well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1780.74,
+      "end_time": 1786.068
+    },
+    {
+      "text": "We've done big Salesforce and a bunch of the other categories of outreach fed that back to Simon as these guys are more interested.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1786.204,
+      "end_time": 1793.924
+    },
+    {
+      "text": "He said park, those were not interested in Salesforce.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1793.972,
+      "end_time": 1797.1
+    },
+    {
+      "text": "So that whole kind of bit of communication has happened as well.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1797.22,
+      "end_time": 1800.32
+    },
+    {
+      "text": "This should have been presented to them as the case, you know, the proof that they need to move on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1803.66,
+      "end_time": 1811.076
+    },
+    {
+      "text": "So I think this isn't proof that they need in my view.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1811.268,
+      "end_time": 1815.492
+    },
+    {
+      "text": "There is a company on this list and we need to kill the list.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1815.556,
+      "end_time": 1818.652
+    },
+    {
+      "text": "And I, I agree with you.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1818.716,
+      "end_time": 1820.02
+    },
+    {
+      "text": "So you just need to collect it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1820.76,
+      "end_time": 1822.832
+    },
+    {
+      "text": "The next, the next week or so, maybe next two weeks.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1822.976,
+      "end_time": 1826.784
+    },
+    {
+      "text": "Hopefully I can get down to 70, 80%.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1826.952,
+      "end_time": 1830.352
+    },
+    {
+      "text": "We've got responses and we've got no's from.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1830.536,
+      "end_time": 1832.94
+    },
+    {
+      "text": "If you turn around to me this morning and said Andy, I've called those other 40.",
+      "speaker_name": "Andy Day",
+      "start_time": 1834.32,
+      "end_time": 1839.04
+    },
+    {
+      "text": "I've done my best to get through to them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1839.16,
+      "end_time": 1840.824
+    },
+    {
+      "text": "I've emailed them, I've linked in them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1840.872,
+      "end_time": 1843.02
+    },
+    {
+      "text": "They just not respond.",
+      "speaker_name": "Andy Day",
+      "start_time": 1843.32,
+      "end_time": 1844.392
+    },
+    {
+      "text": "We're unable and that's why I've read it out.",
+      "speaker_name": "Andy Day",
+      "start_time": 1844.496,
+      "end_time": 1846.78
+    },
+    {
+      "text": "You know, half of the list, these others have been positive but we're yet to set up court then.",
+      "speaker_name": "Andy Day",
+      "start_time": 1846.88,
+      "end_time": 1851.988
+    },
+    {
+      "text": "Yeah, of course we've done six months worth of work but right now that isn't what it looks like.",
+      "speaker_name": "Andy Day",
+      "start_time": 1852.044,
+      "end_time": 1857.388
+    },
+    {
+      "text": "And I do appreciate you set up other lists.",
+      "speaker_name": "Andy Day",
+      "start_time": 1857.444,
+      "end_time": 1859.612
+    },
+    {
+      "text": "But again, Jack, you know, as the person that oversees what's going on, a lot of that is Ahmed setting those up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1859.636,
+      "end_time": 1866.556
+    },
+    {
+      "text": "And I am paying for your brainpower and experience over Ahmed's.",
+      "speaker_name": "Andy Day",
+      "start_time": 1866.588,
+      "end_time": 1872.44
+    },
+    {
+      "text": "But equally I need a result.",
+      "speaker_name": "Andy Day",
+      "start_time": 1872.83,
+      "end_time": 1874.654
+    },
+    {
+      "text": "You know, it's just parmenate to Ahmed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1874.742,
+      "end_time": 1877.598
+    },
+    {
+      "text": "He's setting up the list and then you know, you're getting on with it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1877.694,
+      "end_time": 1880.63
+    },
+    {
+      "text": "It's at these points when we get to a sort of four, five, six months in and stuff is going to tips that we need to just batten down the hatches and actually deliver something because I, that we're going to become known as just another shitty little M and a company that has a go, but they're not very good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1880.67,
+      "end_time": 1900.15
+    },
+    {
+      "text": "You know, that's kind of the reputation that we are, we have with some of our clients where we've just fucked it and left it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1900.19,
+      "end_time": 1907.57
+    },
+    {
+      "text": "And if we have enough of those, it will just be the end of us.",
+      "speaker_name": "Andy Day",
+      "start_time": 1907.87,
+      "end_time": 1911.07
+    },
+    {
+      "text": "It means marketing is really difficult.",
+      "speaker_name": "Andy Day",
+      "start_time": 1911.23,
+      "end_time": 1913.134
+    },
+    {
+      "text": "Every single client we have to like dig out from somewhere because we've got a fairly bad reputation and we don't need to have it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1913.182,
+      "end_time": 1922.766
+    },
+    {
+      "text": "We don't because we are actually pretty fucking good.",
+      "speaker_name": "Andy Day",
+      "start_time": 1922.838,
+      "end_time": 1924.886
+    },
+    {
+      "text": "But I do appreciate sometimes they go against you, these searches and then it becomes really difficult.",
+      "speaker_name": "Andy Day",
+      "start_time": 1924.918,
+      "end_time": 1929.81
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1930.75,
+      "end_time": 1931.134
+    },
+    {
+      "text": "So I think we started in June with this one.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1931.182,
+      "end_time": 1935.69
+    },
+    {
+      "text": "So I think we're at month five.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1936.79,
+      "end_time": 1938.43
+    },
+    {
+      "text": "By month six, I would aim to have either a company, a list of companies that are definitely yeses, hopefully tap CXM or a two month close.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1938.55,
+      "end_time": 1948.33
+    },
+    {
+      "text": "And I think Tap CXM are closer than we think because I've got an outline to share with them and I think they might vote on that and a result is all, obviously any of us care about.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1948.79,
+      "end_time": 1958.45
+    },
+    {
+      "text": "But month six have this whole list as read it out and greened out and then kind of call off the search, I guess, or call off the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1958.75,
+      "end_time": 1969.342
+    },
+    {
+      "text": "Well, I mean, I don't want to keep like pretending that I'm happy that we just ditch searches because we can't find anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 1969.526,
+      "end_time": 1976.822
+    },
+    {
+      "text": "But equally if we have an argument for then going into other areas.",
+      "speaker_name": "Andy Day",
+      "start_time": 1976.886,
+      "end_time": 1980.452
+    },
+    {
+      "text": "But obviously we've come in too early saying, let's move to Salesforce because he's probably like, well, I've spoke to like three, four companies, so it's just not enough.",
+      "speaker_name": "Andy Day",
+      "start_time": 1980.646,
+      "end_time": 1991.74
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1992.24,
+      "end_time": 1992.976
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1993.088,
+      "end_time": 1993.472
+    },
+    {
+      "text": "I mean, the way we framed it with them, just given the size of search was so small was, there's these buckets we see as interesting.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 1993.536,
+      "end_time": 2002.888
+    },
+    {
+      "text": "There's this issue with, with Adobe campaign and that the companies we're speaking to are saying it's sunsetting.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2003.064,
+      "end_time": 2012.378
+    },
+    {
+      "text": "We basically outlined our research of the market scope and he kind of confirmed it.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2012.474,
+      "end_time": 2017.786
+    },
+    {
+      "text": "That was kind of the way we looked at this when we were, he's.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2017.818,
+      "end_time": 2022.09
+    },
+    {
+      "text": "Hired us and has paid us for six months work so far.",
+      "speaker_name": "Andy Day",
+      "start_time": 2022.13,
+      "end_time": 2026.186
+    },
+    {
+      "text": "Five months work should say he's hired us to do this.",
+      "speaker_name": "Andy Day",
+      "start_time": 2026.338,
+      "end_time": 2032.14
+    },
+    {
+      "text": "He doesn't need telling from ours.",
+      "speaker_name": "Andy Day",
+      "start_time": 2032.18,
+      "end_time": 2034.7
+    },
+    {
+      "text": "He needs showing.",
+      "speaker_name": "Andy Day",
+      "start_time": 2034.82,
+      "end_time": 2035.932
+    },
+    {
+      "text": "You know, you need you at that point.",
+      "speaker_name": "Andy Day",
+      "start_time": 2036.036,
+      "end_time": 2037.42
+    },
+    {
+      "text": "You have to show him the list and say, this is everybody that we've contacted and there's your proof.",
+      "speaker_name": "Andy Day",
+      "start_time": 2037.46,
+      "end_time": 2043.428
+    },
+    {
+      "text": "And then we can call the search off or hopefully upsell him to a different search where we know that we can get success.",
+      "speaker_name": "Andy Day",
+      "start_time": 2043.564,
+      "end_time": 2050.644
+    },
+    {
+      "text": "But, but still we are at that point where this list isn't totally rinsed and it needs to be before we can suggest that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2050.732,
+      "end_time": 2058.08
+    },
+    {
+      "text": "Okay, so that's next steps and whatever it takes, really, Jack, I mean, we are a team.",
+      "speaker_name": "Andy Day",
+      "start_time": 2058.26,
+      "end_time": 2063.92
+    },
+    {
+      "text": "And whether it takes David, Ahmed, Ramon and yourself to deliver on all the points, then, then that's fine.",
+      "speaker_name": "Andy Day",
+      "start_time": 2063.96,
+      "end_time": 2072.488
+    },
+    {
+      "text": "You know, David possibly even phoning some people up that potentially, he knows, always communicate with before.",
+      "speaker_name": "Andy Day",
+      "start_time": 2072.664,
+      "end_time": 2078.552
+    },
+    {
+      "text": "So it doesn't, you know, so it's not disjointed, weird phone calls out the blue potentially, but whatever it looks like it needs to, it needs to be delivered as a complete piece of work.",
+      "speaker_name": "Andy Day",
+      "start_time": 2078.656,
+      "end_time": 2090.958
+    },
+    {
+      "text": "And right now, that doesn't look like it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2091.014,
+      "end_time": 2094.41
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2094.75,
+      "end_time": 2095.47
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2095.59,
+      "end_time": 2096.134
+    },
+    {
+      "text": "Give me, um, give me two weeks to rinse this list.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2096.222,
+      "end_time": 2100.734
+    },
+    {
+      "text": "Um, and I'll come back and I can share this list again.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2100.902,
+      "end_time": 2105.158
+    },
+    {
+      "text": "Um, and you will see more red, hopefully all red and green.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2105.254,
+      "end_time": 2110.23
+    },
+    {
+      "text": "Um, and ideally an offer, but we'll see.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2110.35,
+      "end_time": 2113.74
+    },
+    {
+      "text": "Well, again, it's not, you know, this is where we come unstuck sometimes.",
+      "speaker_name": "Andy Day",
+      "start_time": 2115.64,
+      "end_time": 2119.78
+    },
+    {
+      "text": "And again, this is a complaint of clients when they do give me feedback, which came back, I guess, with Bearfox as well, was they got an offer, but they just got one offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 2120.32,
+      "end_time": 2131.528
+    },
+    {
+      "text": "So, yes, it is.",
+      "speaker_name": "Andy Day",
+      "start_time": 2131.624,
+      "end_time": 2132.648
+    },
+    {
+      "text": "The idea is to complete, but you need to have that tension.",
+      "speaker_name": "Andy Day",
+      "start_time": 2132.744,
+      "end_time": 2137.064
+    },
+    {
+      "text": "And also, for a buyer, they don't want to be stuck in a position where they just have one offer out.",
+      "speaker_name": "Andy Day",
+      "start_time": 2137.112,
+      "end_time": 2142.51
+    },
+    {
+      "text": "It needs to be all of them at the same time.",
+      "speaker_name": "Andy Day",
+      "start_time": 2142.85,
+      "end_time": 2144.93
+    },
+    {
+      "text": "So they want ten offers out because then they're completely unexposed to anybody who comes back and starts being a dick.",
+      "speaker_name": "Andy Day",
+      "start_time": 2145.01,
+      "end_time": 2152.31
+    },
+    {
+      "text": "They can say, do you know what?",
+      "speaker_name": "Andy Day",
+      "start_time": 2152.89,
+      "end_time": 2154.17
+    },
+    {
+      "text": "We speak to nine others, and this is a really good offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 2154.21,
+      "end_time": 2156.618
+    },
+    {
+      "text": "So you need that on the buy side as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 2156.674,
+      "end_time": 2161.27
+    },
+    {
+      "text": "So we just need to.",
+      "speaker_name": "Andy Day",
+      "start_time": 2161.73,
+      "end_time": 2164.79
+    },
+    {
+      "text": "Noted.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2166.19,
+      "end_time": 2167.09
+    },
+    {
+      "text": "And we did get more offers for bear Fox.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2167.63,
+      "end_time": 2169.406
+    },
+    {
+      "text": "They were all the same, though, which is unfortunate.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2169.438,
+      "end_time": 2172.246
+    },
+    {
+      "text": "Yeah, I appreciate that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2172.278,
+      "end_time": 2173.614
+    },
+    {
+      "text": "I appreciate that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2173.662,
+      "end_time": 2174.758
+    },
+    {
+      "text": "Clients complain about all sorts of stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 2174.934,
+      "end_time": 2176.67
+    },
+    {
+      "text": "I had Arjun and Erin really badly, complaining, phoning me and complaining about stuff, and now they couldn't be happier.",
+      "speaker_name": "Andy Day",
+      "start_time": 2176.71,
+      "end_time": 2186.43
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 2186.47,
+      "end_time": 2187.05
+    },
+    {
+      "text": "Yeah, I will get the.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2189.19,
+      "end_time": 2192.73
+    },
+    {
+      "text": "Yeah, I'll get this.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2193.04,
+      "end_time": 2194.032
+    },
+    {
+      "text": "Read it out.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2194.056,
+      "end_time": 2194.976
+    },
+    {
+      "text": "I agree.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2195.128,
+      "end_time": 2195.6
+    },
+    {
+      "text": "It's not where it should be.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2195.64,
+      "end_time": 2196.98
+    },
+    {
+      "text": "I know you can smash this.",
+      "speaker_name": "Andy Day",
+      "start_time": 2197.64,
+      "end_time": 2199.056
+    },
+    {
+      "text": "Look, and again, this is between me and you, but I don't really know how you spend your day, Jack, or how many other clients, but I can see who you're invoicing and it's mostly me.",
+      "speaker_name": "Andy Day",
+      "start_time": 2199.128,
+      "end_time": 2208.568
+    },
+    {
+      "text": "Maybe one other, in terms of the numbers that are going up.",
+      "speaker_name": "Andy Day",
+      "start_time": 2208.744,
+      "end_time": 2211.74
+    },
+    {
+      "text": "So really, if this is six months real work for you, working 20 hours a week, or even if that was split, let's say it's 10 hours a week work for six months, I mean, it reflects badly on you personally that this is what you're supplying as work.",
+      "speaker_name": "Andy Day",
+      "start_time": 2212.12,
+      "end_time": 2229.03
+    },
+    {
+      "text": "And I don't believe that this is your standard of work either.",
+      "speaker_name": "Andy Day",
+      "start_time": 2229.07,
+      "end_time": 2232.878
+    },
+    {
+      "text": "So something else.",
+      "speaker_name": "Andy Day",
+      "start_time": 2232.934,
+      "end_time": 2234.07
+    },
+    {
+      "text": "There is something else going wrong that I'm not being communicated from you, and I can't figure it out.",
+      "speaker_name": "Andy Day",
+      "start_time": 2234.19,
+      "end_time": 2241.71
+    },
+    {
+      "text": "But it needs to be better.",
+      "speaker_name": "Andy Day",
+      "start_time": 2241.83,
+      "end_time": 2245.486
+    },
+    {
+      "text": "Let me look at it and see.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2245.678,
+      "end_time": 2249.586
+    },
+    {
+      "text": "See what we can do.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2249.698,
+      "end_time": 2251.786
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2251.898,
+      "end_time": 2252.202
+    },
+    {
+      "text": "Well, we've agreed two weeks, so preferably get most of this done by the end of next week.",
+      "speaker_name": "Andy Day",
+      "start_time": 2252.226,
+      "end_time": 2257.65
+    },
+    {
+      "text": "But two weeks.",
+      "speaker_name": "Andy Day",
+      "start_time": 2257.69,
+      "end_time": 2258.61
+    },
+    {
+      "text": "And let's look at it again.",
+      "speaker_name": "Andy Day",
+      "start_time": 2258.73,
+      "end_time": 2259.986
+    },
+    {
+      "text": "A week on Tuesday, two weeks today.",
+      "speaker_name": "Andy Day",
+      "start_time": 2260.138,
+      "end_time": 2262.35
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 2263.85,
+      "end_time": 2265.402
+    },
+    {
+      "text": "Something on the calendar.",
+      "speaker_name": "Andy Day",
+      "start_time": 2265.506,
+      "end_time": 2266.83
+    },
+    {
+      "text": "All right, good stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 2267.89,
+      "end_time": 2269.282
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2269.426,
+      "end_time": 2270.026
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 2270.058,
+      "end_time": 2270.242
+    },
+    {
+      "text": "Cheers for that.",
+      "speaker_name": "Andy Day",
+      "start_time": 2270.266,
+      "end_time": 2270.762
+    },
+    {
+      "text": "Appreciate it.",
+      "speaker_name": "Andy Day",
+      "start_time": 2270.786,
+      "end_time": 2271.458
+    },
+    {
+      "text": "Thanks.",
+      "speaker_name": "Jack Chiappe",
+      "start_time": 2271.554,
+      "end_time": 2272.098
+    },
+    {
+      "text": "See you later.",
+      "speaker_name": "Andy Day",
+      "start_time": 2272.234,
+      "end_time": 2272.754
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andy Day",
+      "start_time": 2272.802,
+      "end_time": 2272.93
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Adobe Campaign",
+      "acquisition",
+      "outreach strategies",
+      "market research",
+      "client communication",
+      "M&A"
+    ],
+    "action_items": "\n**Jack Chiappe**\nPut together a comprehensive overview of all work done for Iris, not just the final list (27:25)\nRinse the entire list of potential targets within two weeks (35:16)\nPrepare to present a list of companies that are definite 'yeses' or close to closing by month six (32:11)\nUse phone calls more frequently to reach out to potential targets (26:17)\nUtilize Ramon for Spanish-speaking outreach to Mexican companies (20:16)\n\n**Andy Day**\nSchedule a follow-up meeting in two weeks to review progress (37:32)\n",
+    "outline": null,
+    "overview": "In the recent Project Review and Strategy Discussion meeting between Jack and Andy, the status of the Iris project was evaluated, highlighting challenges such as the limited availability of companies offering Adobe Campaign services and the industry's shift towards platforms like HubSpot and Salesforce. Jack shared his structured plan to effectively engage 100% of target businesses, while Andy underscored the urgency of finalizing the deal with Iris. They also reviewed outreach efforts to Wolf Sellers and Next Row Digital, identifying issues with email deliverability and emphasizing the need for more persistent communication, including phone outreach. Action items were assigned: Jack will compile a comprehensive overview of the Iris project, refine the target list, and increase phone outreach, while Andy will schedule a follow-up meeting in two weeks to track progress.",
+    "short_summary": "In the recent Project Review and Strategy Discussion, Jack and Andy focused on the Iris project, detailing challenges such as the limited availability of companies providing Adobe Campaign services and a shift towards platforms like HubSpot and Salesforce. Jack presented a structured plan aimed at engaging 100% of target businesses, while Andy emphasized the urgency of concluding the deal with Iris. They reviewed outreach efforts to Wolf Sellers and Next Row Digital, identifying issues with email deliverability and the need for persistent communication strategies, including phone outreach. Action items were assigned, with Jack tasked to compile a comprehensive overview of the Iris project, refine the target list, and enhance phone outreach, while Andy will schedule a follow-up meeting in two weeks to track progress and ensure the project's advancement.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/l837AH4Ss88YrjBz",
+  "audio_url": "https://cdn.fireflies.ai/l837AH4Ss88YrjBz/audio.mp3?Expires=1773225125&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL2w4MzdBSDRTczg4WXJqQnovYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MTI1fX19XX0_&Signature=vOaVnG7r0pOoeGOm4NtjAiTXUQGaV50B7W9qy2ael51kLjsbuPBDCFPvcoT40Kn1PwgjpqnvoBwO8hjQRVRRpamL82ISGviPc3bvVdTCSA0NJGEYtfhb1xWT95EixcZbA9RKuKi9nHyqUoFCMPJlarVWO5n3W2HBIZ4W8qE-xSSGagJ7XVu-22jp2XqiXjOyvWP5KWsFuLrpi8651s3Hf2U9tvusrf4h~CeYYnzJ4Jdht1Z54FPsTAvze6RmAOP2XEZmECgAr4h3kUoed1UMuLhG3YcMhBWkYeP-UaLZKa~iP0cMuQ46dBqGw7Sgor2ivmzRFdWLFbkRvck69l9C5g__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/l837AH4Ss88YrjBz/video.mp4?Expires=1773225125&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL2w4MzdBSDRTczg4WXJqQnovdmlkZW8ubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MTI1fX19XX0_&Signature=cyuCR8h4KuuJ5v5BZhr9IgClo-KmUWCVNx9OgkmfMZUlL2NrBiD6Di4V5U6xnNfBMxnrd5dggGP0DYeYiwxKN0cBoBGxTIFa-wbMNiP7HA7UPyTWsEBYv6MVUvE4Lkoc1ZpXo3mAE49ekVJPgsX9PMDHFKTh~cwxDe0mewAlp9MuSXjxzQALuONcNUboYNImk0UIbR2wB6yCjM2USkgcPfxCqHyVBcVYZgLARqSbHSMtDnweIoub6PiCZZrH2jRsK4ScbIP-RUzAp~NXQc8LUiPiphhDxtvEvq9nzGkIZCbOAeIA9p8IZIAeKfUZ1p4rdJQn69F93QM7tvV15nuVFQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

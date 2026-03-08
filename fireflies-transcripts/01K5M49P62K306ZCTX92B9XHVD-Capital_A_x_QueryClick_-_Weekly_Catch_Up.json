@@ -1,0 +1,1863 @@
+{
+  "id": "01K5M49P62K306ZCTX92B9XHVD",
+  "title": "Capital A x QueryClick - Weekly Catch Up",
+  "date": 1758546000000,
+  "dateString": "2025-09-22T13:00:00.000Z",
+  "duration": 14,
+  "participants": [
+    "ahmed.zia@capitala.co,chris.liversidge@queryclick.com,andrew.day@capitala.co,fitzpatrick.brian1@gmail.com,lee-anne.lindsay@queryclick.com,richard.lewis@queryclick.com,richard@rclconsulting.co.uk,christopher.liversidge@corvidae.ai",
+    "chris.liversidge@queryclick.com",
+    "andrew.day@capitala.co",
+    "fitzpatrick.brian1@gmail.com",
+    "lee-anne.lindsay@queryclick.com",
+    "richard.lewis@queryclick.com",
+    "richard@rclconsulting.co.uk",
+    "christopher.liversidge@corvidae.ai"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "ahmed.zia@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "chris.liversidge@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "fitzpatrick.brian1@gmail.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "lee-anne.lindsay@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard.lewis@queryclick.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "richard@rclconsulting.co.uk",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "christopher.liversidge@corvidae.ai",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hey, guys.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 16.96,
+      "end_time": 17.6
+    },
+    {
+      "text": "Chris, how you doing?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 21.28,
+      "end_time": 22.72
+    },
+    {
+      "text": "Okay, thanks.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 23.2,
+      "end_time": 24
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 26.97,
+      "end_time": 27.45
+    },
+    {
+      "text": "Hi, Chris.",
+      "speaker_name": "Andy Day",
+      "start_time": 28.73,
+      "end_time": 29.29
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 29.29,
+      "end_time": 29.85
+    },
+    {
+      "text": "Hey, Andy.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 29.93,
+      "end_time": 30.73
+    },
+    {
+      "text": "Good weekend?",
+      "speaker_name": "Andy Day",
+      "start_time": 32.89,
+      "end_time": 33.69
+    },
+    {
+      "text": "Yes, yeah, very good receiver, but all good.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 35.05,
+      "end_time": 39.61
+    },
+    {
+      "text": "Good stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 40.17,
+      "end_time": 40.89
+    },
+    {
+      "text": "Bit of good weather, wasn't there?",
+      "speaker_name": "Andy Day",
+      "start_time": 42.17,
+      "end_time": 43.29
+    },
+    {
+      "text": "Well, I was here anyway.",
+      "speaker_name": "Andy Day",
+      "start_time": 43.29,
+      "end_time": 44.41
+    },
+    {
+      "text": "A bit sunnier again.",
+      "speaker_name": "Andy Day",
+      "start_time": 45.05,
+      "end_time": 46.33
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 46.65,
+      "end_time": 47.21
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 49.93,
+      "end_time": 50.57
+    },
+    {
+      "text": "Have we got anybody else on the call today?",
+      "speaker_name": "Andy Day",
+      "start_time": 50.97,
+      "end_time": 52.65
+    },
+    {
+      "text": "LA is just powering through things.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 53.74,
+      "end_time": 55.5
+    },
+    {
+      "text": "She saw your request, Ahmed, so she'll get that over to you.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 55.5,
+      "end_time": 58.94
+    },
+    {
+      "text": "So she's not going to jump on.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 59.26,
+      "end_time": 60.38
+    },
+    {
+      "text": "I said that would be fine.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 60.38,
+      "end_time": 61.5
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 62.78,
+      "end_time": 63.58
+    },
+    {
+      "text": "All right, then just say, oh, Brian's there.",
+      "speaker_name": "Andy Day",
+      "start_time": 64.54,
+      "end_time": 66.98
+    },
+    {
+      "text": "Hi, Brian.",
+      "speaker_name": "Andy Day",
+      "start_time": 66.98,
+      "end_time": 67.66
+    },
+    {
+      "text": "There he is.",
+      "speaker_name": "Andy Day",
+      "start_time": 71.74,
+      "end_time": 72.54
+    },
+    {
+      "text": "Hey, Brian.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 72.78,
+      "end_time": 73.58
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Andy Day",
+      "start_time": 73.98,
+      "end_time": 74.46
+    },
+    {
+      "text": "I think you're a little bit quiet today, Brian.",
+      "speaker_name": "Andy Day",
+      "start_time": 79.51,
+      "end_time": 81.43
+    },
+    {
+      "text": "Not like me at all.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 82.71,
+      "end_time": 83.91
+    },
+    {
+      "text": "Maybe the microphone's underneath something.",
+      "speaker_name": "Andy Day",
+      "start_time": 85.43,
+      "end_time": 87.51
+    },
+    {
+      "text": "Anyway, good to see you both.",
+      "speaker_name": "Andy Day",
+      "start_time": 88.79,
+      "end_time": 90.07
+    },
+    {
+      "text": "No Richard today, or is that Richard there?",
+      "speaker_name": "Andy Day",
+      "start_time": 91.03,
+      "end_time": 92.83
+    },
+    {
+      "text": "No, it's not.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 92.83,
+      "end_time": 93.31
+    },
+    {
+      "text": "It's my Fitzpatrick.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 93.31,
+      "end_time": 94.39
+    },
+    {
+      "text": "I've got a meeting with him later.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 94.47,
+      "end_time": 95.75
+    },
+    {
+      "text": "I wasn't sure if he was going to be in this or not.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 95.83,
+      "end_time": 97.99
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 98.15,
+      "end_time": 98.71
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 99.67,
+      "end_time": 100.23
+    },
+    {
+      "text": "Well, a quick overview then, because we've got quite a few to follow up on, so let's have a look.",
+      "speaker_name": "Andy Day",
+      "start_time": 100.39,
+      "end_time": 109.53
+    },
+    {
+      "text": "Start from the top.",
+      "speaker_name": "Andy Day",
+      "start_time": 109.53,
+      "end_time": 110.73
+    },
+    {
+      "text": "So Azo network had a meeting with last week.",
+      "speaker_name": "Andy Day",
+      "start_time": 110.89,
+      "end_time": 114.01
+    },
+    {
+      "text": "Seemed to go quite well.",
+      "speaker_name": "Andy Day",
+      "start_time": 114.81,
+      "end_time": 116.89
+    },
+    {
+      "text": "They're interested in Corvidae.",
+      "speaker_name": "Andy Day",
+      "start_time": 117.13,
+      "end_time": 118.57
+    },
+    {
+      "text": "And is that the information that LA is following up with?",
+      "speaker_name": "Andy Day",
+      "start_time": 118.57,
+      "end_time": 122.01
+    },
+    {
+      "text": "I don't think they were interested in Corvidae?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 122.97,
+      "end_time": 124.53
+    },
+    {
+      "text": "A.",
+      "speaker_name": "Andy Day",
+      "start_time": 124.53,
+      "end_time": 124.69
+    },
+    {
+      "text": "No, Andy.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 124.69,
+      "end_time": 125.17
+    },
+    {
+      "text": "They hadn't heard of it, but it was a very good meeting.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 125.17,
+      "end_time": 127.77
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 128.33,
+      "end_time": 129.29
+    },
+    {
+      "text": "Just.",
+      "speaker_name": "Andy Day",
+      "start_time": 129.29,
+      "end_time": 129.53
+    },
+    {
+      "text": "IM looking in the.",
+      "speaker_name": "Andy Day",
+      "start_time": 129.53,
+      "end_time": 130.33
+    },
+    {
+      "text": "Just the notes there and it said that.",
+      "speaker_name": "Andy Day",
+      "start_time": 130.49,
+      "end_time": 132.49
+    },
+    {
+      "text": "No, it wasn't.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.16,
+      "end_time": 135.84
+    },
+    {
+      "text": "They weren't in.",
+      "speaker_name": "Andy Day",
+      "start_time": 135.84,
+      "end_time": 136.92
+    },
+    {
+      "text": "They were unaware of it and they were just gonna check it out afterwards.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 137.48,
+      "end_time": 142.04
+    },
+    {
+      "text": "Out of their own interest, not as part of it.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 142.04,
+      "end_time": 143.96
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 143.96,
+      "end_time": 144.44
+    },
+    {
+      "text": "There's no definitely wrong.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 144.68,
+      "end_time": 146.6
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 147.24,
+      "end_time": 147.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 147.76,
+      "end_time": 147.96
+    },
+    {
+      "text": "This is the way that the summary is written out.",
+      "speaker_name": "Andy Day",
+      "start_time": 147.96,
+      "end_time": 150.12
+    },
+    {
+      "text": "Just makes it sound like they're waiting for additional information.",
+      "speaker_name": "Andy Day",
+      "start_time": 150.12,
+      "end_time": 152.44
+    },
+    {
+      "text": "But that's not true.",
+      "speaker_name": "Andy Day",
+      "start_time": 152.52,
+      "end_time": 153.6
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 153.6,
+      "end_time": 153.92
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 153.92,
+      "end_time": 154.2
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 155.48,
+      "end_time": 156.04
+    },
+    {
+      "text": "We're just still following up with those guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 156.52,
+      "end_time": 159.32
+    },
+    {
+      "text": "And then we've got Havas who've been interested as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 160.73,
+      "end_time": 165.13
+    },
+    {
+      "text": "We've released the IM to these guys, so it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 165.53,
+      "end_time": 168.57
+    },
+    {
+      "text": "I don't know if you have heard of Havas Market, Brian.",
+      "speaker_name": "Andy Day",
+      "start_time": 168.65,
+      "end_time": 171.77
+    },
+    {
+      "text": "Do you know those guys particularly?",
+      "speaker_name": "Andy Day",
+      "start_time": 172.09,
+      "end_time": 173.69
+    },
+    {
+      "text": "I know of them, but not in a great detail.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 174.49,
+      "end_time": 176.57
+    },
+    {
+      "text": "But I thought, this is an interesting one.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 176.57,
+      "end_time": 178.81
+    },
+    {
+      "text": "Give us one.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 178.81,
+      "end_time": 179.41
+    },
+    {
+      "text": "The big six.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 179.41,
+      "end_time": 180.01
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 180.33,
+      "end_time": 180.81
+    },
+    {
+      "text": "Or five or four.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 181.21,
+      "end_time": 182.25
+    },
+    {
+      "text": "Or how many have been consolidated.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 182.25,
+      "end_time": 183.77
+    },
+    {
+      "text": "Yeah, big three soon.",
+      "speaker_name": "Andy Day",
+      "start_time": 184.25,
+      "end_time": 185.45
+    },
+    {
+      "text": "But it'd be interesting to see if there's a potential partnership.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 187.19,
+      "end_time": 191.11
+    },
+    {
+      "text": "So if we can't get a deal, see if we can open up discussion about a partnership with them.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 191.11,
+      "end_time": 195.19
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 197.11,
+      "end_time": 197.51
+    },
+    {
+      "text": "We're still.",
+      "speaker_name": "Andy Day",
+      "start_time": 197.51,
+      "end_time": 197.95
+    },
+    {
+      "text": "Still chasing them up since they've had the im.",
+      "speaker_name": "Andy Day",
+      "start_time": 197.95,
+      "end_time": 200.71
+    },
+    {
+      "text": "So it's a guy called Bertrand Fraboulet who's based in France, and they've had the im.",
+      "speaker_name": "Andy Day",
+      "start_time": 200.71,
+      "end_time": 208.39
+    },
+    {
+      "text": "So, yeah, still chasing them.",
+      "speaker_name": "Andy Day",
+      "start_time": 208.55,
+      "end_time": 209.99
+    },
+    {
+      "text": "So no solid feedback on getting a meeting set up with those guys yet, but.",
+      "speaker_name": "Andy Day",
+      "start_time": 209.99,
+      "end_time": 215.2
+    },
+    {
+      "text": "Okay, we've got Macy, which is a PE search fund.",
+      "speaker_name": "Andy Day",
+      "start_time": 216.64,
+      "end_time": 222
+    },
+    {
+      "text": "We had a screening course set up with them, but they canceled it due to personal.",
+      "speaker_name": "Andy Day",
+      "start_time": 223.52,
+      "end_time": 227.36
+    },
+    {
+      "text": "Personal reasons.",
+      "speaker_name": "Andy Day",
+      "start_time": 228.56,
+      "end_time": 229.48
+    },
+    {
+      "text": "But we're still chasing them up for that initial meeting, and then we can get something set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 229.48,
+      "end_time": 233.6
+    },
+    {
+      "text": "Chris, I guess you know what a search fund is.",
+      "speaker_name": "Andy Day",
+      "start_time": 234.4,
+      "end_time": 237.68
+    },
+    {
+      "text": "Do you want me to give you any more?",
+      "speaker_name": "Andy Day",
+      "start_time": 237.68,
+      "end_time": 239.04
+    },
+    {
+      "text": "No, that's fine.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 239.76,
+      "end_time": 241.92
+    },
+    {
+      "text": "Oh, that's a good look.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 245.68,
+      "end_time": 247.76
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 248.88,
+      "end_time": 249.36
+    },
+    {
+      "text": "Think we've lost you there, Andy.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 249.84,
+      "end_time": 251.36
+    },
+    {
+      "text": "Was that a good moment there?",
+      "speaker_name": "Andy Day",
+      "start_time": 254.48,
+      "end_time": 255.759
+    },
+    {
+      "text": "First pause of the day.",
+      "speaker_name": "Andy Day",
+      "start_time": 256.72,
+      "end_time": 257.84
+    },
+    {
+      "text": "We're back again.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 258.24,
+      "end_time": 258.96
+    },
+    {
+      "text": "Sorry, Chris, I was just saying that there's a slight difference with search fans.",
+      "speaker_name": "Andy Day",
+      "start_time": 259.84,
+      "end_time": 263.8
+    },
+    {
+      "text": "IM like, PE funds.",
+      "speaker_name": "Andy Day",
+      "start_time": 263.8,
+      "end_time": 265.77
+    },
+    {
+      "text": "Search funds just tend to be an individual who raises.",
+      "speaker_name": "Andy Day",
+      "start_time": 266.65,
+      "end_time": 271.37
+    },
+    {
+      "text": "Either raises capital first and uses that fund to buy a business, or they find a business to buy, get an offer confirmed, and then they get the funding, you know, firmed up after they've.",
+      "speaker_name": "Andy Day",
+      "start_time": 271.37,
+      "end_time": 282.81
+    },
+    {
+      "text": "They've got the.",
+      "speaker_name": "Andy Day",
+      "start_time": 282.81,
+      "end_time": 283.53
+    },
+    {
+      "text": "The offer agreed.",
+      "speaker_name": "Andy Day",
+      "start_time": 283.85,
+      "end_time": 285.29
+    },
+    {
+      "text": "So although that's quite interesting, it's kind of still a bit of a.",
+      "speaker_name": "Andy Day",
+      "start_time": 286.09,
+      "end_time": 290.73
+    },
+    {
+      "text": "Not too exciting until we get to speak with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 292.35,
+      "end_time": 294.75
+    },
+    {
+      "text": "Then we've got a Infinity Nation, which is a digital marketing agency, still chasing them for a call.",
+      "speaker_name": "Andy Day",
+      "start_time": 296.35,
+      "end_time": 303.43
+    },
+    {
+      "text": "Haven't got anything confirmed with them.",
+      "speaker_name": "Andy Day",
+      "start_time": 303.43,
+      "end_time": 305.39
+    },
+    {
+      "text": "Another agency called Min Tents as well, who we're speaking to today.",
+      "speaker_name": "Andy Day",
+      "start_time": 306.19,
+      "end_time": 310.51
+    },
+    {
+      "text": "So hopefully that will go well and we can get a call set up with you guys as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 310.59,
+      "end_time": 317.07
+    },
+    {
+      "text": "And then we've got.",
+      "speaker_name": "Andy Day",
+      "start_time": 318.41,
+      "end_time": 319.21
+    },
+    {
+      "text": "I mean, we're really, really busy.",
+      "speaker_name": "Andy Day",
+      "start_time": 319.61,
+      "end_time": 321.13
+    },
+    {
+      "text": "We've got a ton of leads there.",
+      "speaker_name": "Andy Day",
+      "start_time": 321.13,
+      "end_time": 322.25
+    },
+    {
+      "text": "Blue Ocean Interactive.",
+      "speaker_name": "Andy Day",
+      "start_time": 322.25,
+      "end_time": 323.85
+    },
+    {
+      "text": "And then one more that we didn't run past you yet, that we need confirmation that you're okay for us to release.",
+      "speaker_name": "Andy Day",
+      "start_time": 328.17,
+      "end_time": 334.85
+    },
+    {
+      "text": "The IM is a company called Springbok Properties.",
+      "speaker_name": "Andy Day",
+      "start_time": 334.85,
+      "end_time": 337.61
+    },
+    {
+      "text": "We asked you about that one.",
+      "speaker_name": "Andy Day",
+      "start_time": 340.49,
+      "end_time": 341.57
+    },
+    {
+      "text": "So I spoke to.",
+      "speaker_name": "Andy Day",
+      "start_time": 341.57,
+      "end_time": 342.89
+    },
+    {
+      "text": "I actually know this guy Ahmed, as he's been a client for one of our other services deal engines.",
+      "speaker_name": "Andy Day",
+      "start_time": 343.05,
+      "end_time": 352.73
+    },
+    {
+      "text": "So he is a tax exile on the Isle of Man.",
+      "speaker_name": "Andy Day",
+      "start_time": 353.69,
+      "end_time": 358.17
+    },
+    {
+      "text": "He's British.",
+      "speaker_name": "Andy Day",
+      "start_time": 358.17,
+      "end_time": 359.05
+    },
+    {
+      "text": "He's made a ton of money in properties, and they do lots of outbound marketing with what they're doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 360.57,
+      "end_time": 365.61
+    },
+    {
+      "text": "So they're not a marketing company, but he has access to a lot of personal wealth and he's interested in acquiring a marketing agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 366.17,
+      "end_time": 376.22
+    },
+    {
+      "text": "So if you're okay with us releasing the IM to him, he could be interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 376.94,
+      "end_time": 382.46
+    },
+    {
+      "text": "It's A slightly unusual one, isn't it?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 383.74,
+      "end_time": 385.82
+    },
+    {
+      "text": "It is slightly unusual, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 385.9,
+      "end_time": 387.46
+    },
+    {
+      "text": "I mean, he's a.",
+      "speaker_name": "Andy Day",
+      "start_time": 387.46,
+      "end_time": 388.3
+    },
+    {
+      "text": "He would come under sort of private investors, I guess.",
+      "speaker_name": "Andy Day",
+      "start_time": 388.38,
+      "end_time": 391.74
+    },
+    {
+      "text": "Well, I can say.",
+      "speaker_name": "Andy Day",
+      "start_time": 396.78,
+      "end_time": 397.74
+    },
+    {
+      "text": "I mean, obviously.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 397.82,
+      "end_time": 399.34
+    },
+    {
+      "text": "I mean, I think everything's worth exploring at the moment, but the model.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 399.42,
+      "end_time": 402.06
+    },
+    {
+      "text": "But our team.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 402.69,
+      "end_time": 403.41
+    },
+    {
+      "text": "If you're thinking about how the team transitions into an external agency, into effectively being his internal digital marketing, whether the team find that attractive and what that means for Chris, I think all those things we need to explore.",
+      "speaker_name": "Richard Lewis",
+      "start_time": 403.49,
+      "end_time": 418.93
+    },
+    {
+      "text": "Yeah, it is slightly different and definitely worth consideration in a separate way.",
+      "speaker_name": "Andy Day",
+      "start_time": 419.57,
+      "end_time": 426.05
+    },
+    {
+      "text": "It possibly is worth speaking to.",
+      "speaker_name": "Andy Day",
+      "start_time": 426.53,
+      "end_time": 428.37
+    },
+    {
+      "text": "I don't think that's going to be a rush because here he's actually selling his property company as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 428.37,
+      "end_time": 433.51
+    },
+    {
+      "text": "So he would.",
+      "speaker_name": "Andy Day",
+      "start_time": 434.71,
+      "end_time": 435.51
+    },
+    {
+      "text": "I mean, he would have a fortune from that once he's.",
+      "speaker_name": "Andy Day",
+      "start_time": 435.75,
+      "end_time": 438.99
+    },
+    {
+      "text": "He's finalized it.",
+      "speaker_name": "Andy Day",
+      "start_time": 438.99,
+      "end_time": 440.07
+    },
+    {
+      "text": "But, yeah, I think that's probably one just to put further down the list.",
+      "speaker_name": "Andy Day",
+      "start_time": 441.35,
+      "end_time": 445.63
+    },
+    {
+      "text": "I mean, there's no rush, really, with that one.",
+      "speaker_name": "Andy Day",
+      "start_time": 445.63,
+      "end_time": 447.309
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 447.309,
+      "end_time": 447.83
+    },
+    {
+      "text": "But let us know if you want us to release the IM or whether you want us to wait.",
+      "speaker_name": "Andy Day",
+      "start_time": 448.47,
+      "end_time": 451.67
+    },
+    {
+      "text": "If he's got the.",
+      "speaker_name": "Andy Day",
+      "start_time": 451.67,
+      "end_time": 452.55
+    },
+    {
+      "text": "Obviously.",
+      "speaker_name": "Andy Day",
+      "start_time": 452.63,
+      "end_time": 453.27
+    },
+    {
+      "text": "Yeah, I think it.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 453.51,
+      "end_time": 454.43
+    },
+    {
+      "text": "I think it's okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 454.43,
+      "end_time": 455.51
+    },
+    {
+      "text": "But, yeah, all those comments, I think stand, don't they?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 455.51,
+      "end_time": 458.23
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 458.66,
+      "end_time": 459.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 460.74,
+      "end_time": 461.22
+    },
+    {
+      "text": "And then we've got the old stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 461.22,
+      "end_time": 463.54
+    },
+    {
+      "text": "We've got Beach Equity who are still interested.",
+      "speaker_name": "Andy Day",
+      "start_time": 463.62,
+      "end_time": 467.3
+    },
+    {
+      "text": "We're just following up on where they are because they had a. I don't know if we gave you all of this information, but they've.",
+      "speaker_name": "Andy Day",
+      "start_time": 468.1,
+      "end_time": 473.7
+    },
+    {
+      "text": "They've got another deal that they're closing.",
+      "speaker_name": "Andy Day",
+      "start_time": 474.5,
+      "end_time": 476.42
+    },
+    {
+      "text": "So they said, can we wait until they've closed that deal and then they would follow up with this one.",
+      "speaker_name": "Andy Day",
+      "start_time": 476.74,
+      "end_time": 481.14
+    },
+    {
+      "text": "So we're just following up with those guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 481.14,
+      "end_time": 482.82
+    },
+    {
+      "text": "Do you have them down as declined on the sheet?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 483.06,
+      "end_time": 485.3
+    },
+    {
+      "text": "Are they on as declined, Ahmed?",
+      "speaker_name": "Andy Day",
+      "start_time": 486.29,
+      "end_time": 488.21
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 489.73,
+      "end_time": 490.09
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 490.09,
+      "end_time": 490.33
+    },
+    {
+      "text": "So they eventually were like, we're gonna pass.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 490.33,
+      "end_time": 492.97
+    },
+    {
+      "text": "And then they were like, we're comparing other opportunities.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 492.97,
+      "end_time": 495.81
+    },
+    {
+      "text": "So, yeah, they can come back into the game.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 496.29,
+      "end_time": 498.77
+    },
+    {
+      "text": "Yeah, well, yeah, so we're gonna see where they are because a little bit of time has passed and they said they were.",
+      "speaker_name": "Andy Day",
+      "start_time": 499.65,
+      "end_time": 506.61
+    },
+    {
+      "text": "They were still interested, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 506.61,
+      "end_time": 508.21
+    },
+    {
+      "text": "So those could be coming back in.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.85,
+      "end_time": 510.53
+    },
+    {
+      "text": "And then we've got Quanta, which need the.",
+      "speaker_name": "Andy Day",
+      "start_time": 510.53,
+      "end_time": 513.78
+    },
+    {
+      "text": "Zia this the stuff for LA is the latest management accounts and forecast for 26, 27, 20.",
+      "speaker_name": "Andy Day",
+      "start_time": 513.94,
+      "end_time": 519.3
+    },
+    {
+      "text": "Yeah, she's doing that just now.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 519.3,
+      "end_time": 520.58
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 520.82,
+      "end_time": 521.18
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 521.18,
+      "end_time": 521.58
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "Andy Day",
+      "start_time": 521.58,
+      "end_time": 522.06
+    },
+    {
+      "text": "So we're up to date with all of that stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 522.06,
+      "end_time": 523.86
+    },
+    {
+      "text": "So I think that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 525.3,
+      "end_time": 526.1
+    },
+    {
+      "text": "That's us pretty much up to date.",
+      "speaker_name": "Andy Day",
+      "start_time": 526.1,
+      "end_time": 528.58
+    },
+    {
+      "text": "So the next one we should be getting into, your calendar will be min Tense, I should hope, this week.",
+      "speaker_name": "Andy Day",
+      "start_time": 528.659,
+      "end_time": 535.22
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 535.54,
+      "end_time": 536.02
+    },
+    {
+      "text": "The next One, and then possibly one or two of the others if we can.",
+      "speaker_name": "Andy Day",
+      "start_time": 536.18,
+      "end_time": 540.57
+    },
+    {
+      "text": "If we can track them down and see, you know, what level of seriousness they have at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 540.81,
+      "end_time": 547.21
+    },
+    {
+      "text": "Yeah, certainly.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 548.33,
+      "end_time": 549.45
+    },
+    {
+      "text": "Havas is one that looks most interesting, I must say.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 549.69,
+      "end_time": 552.25
+    },
+    {
+      "text": "Yeah, it's exciting, isn't it?",
+      "speaker_name": "Andy Day",
+      "start_time": 552.41,
+      "end_time": 553.81
+    },
+    {
+      "text": "If, if we could get some traction with those guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 553.81,
+      "end_time": 556.33
+    },
+    {
+      "text": "I had a question as well.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 557.13,
+      "end_time": 558.45
+    },
+    {
+      "text": "Just if that's the updates.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 558.45,
+      "end_time": 560.33
+    },
+    {
+      "text": "Azo Network was slightly unusual, I thought, in that they didn't seem to know what the commercial model or proposal looked like.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 560.73,
+      "end_time": 569.58
+    },
+    {
+      "text": "So that was, I would say, at least half of their questions to me during that call.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 569.58,
+      "end_time": 574.06
+    },
+    {
+      "text": "I was slightly surprised by that.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 574.46,
+      "end_time": 576.54
+    },
+    {
+      "text": "What were your, what was your take on that?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 577.58,
+      "end_time": 579.5
+    },
+    {
+      "text": "Well, Ahmed, you were on the call.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 580.62,
+      "end_time": 582.14
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 583.02,
+      "end_time": 583.9
+    },
+    {
+      "text": "So, I mean, we, we did send them, them the teaser, then the im and they asked a few questions.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 583.9,
+      "end_time": 589.5
+    },
+    {
+      "text": "Most of them were not on the.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 590.06,
+      "end_time": 591.5
+    },
+    {
+      "text": "That list, but they were like, you know, what's, what's up with the clients?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 591.5,
+      "end_time": 595.76
+    },
+    {
+      "text": "Zia the owner willing to stay?",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 595.76,
+      "end_time": 597.28
+    },
+    {
+      "text": "And I was like, instead of, like, me answering them, why don't you just get on a call with the founder himself and he can go through those answers for you in much better contact.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 597.28,
+      "end_time": 607.28
+    },
+    {
+      "text": "So, yeah, that was.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 607.6,
+      "end_time": 609.439
+    },
+    {
+      "text": "Do you mean that they asked lots of basic questions, Chris, about the business?",
+      "speaker_name": "Andy Day",
+      "start_time": 611.44,
+      "end_time": 615.04
+    },
+    {
+      "text": "No, I mean, they asked basic questions about what our valuation expectation was.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 616.16,
+      "end_time": 620.96
+    },
+    {
+      "text": "Oh, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 621.9,
+      "end_time": 622.22
+    },
+    {
+      "text": "I mean, they should have.",
+      "speaker_name": "Andy Day",
+      "start_time": 622.22,
+      "end_time": 622.82
+    },
+    {
+      "text": "They, they should have seen that already.",
+      "speaker_name": "Andy Day",
+      "start_time": 622.82,
+      "end_time": 624.22
+    },
+    {
+      "text": "Yeah, they have.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 624.78,
+      "end_time": 625.98
+    },
+    {
+      "text": "Yeah, they have seen that.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 626.22,
+      "end_time": 627.5
+    },
+    {
+      "text": "But I mean, Andy, I have seen with most buyers, they kind of tend to ask it again on calls.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 627.5,
+      "end_time": 632.42
+    },
+    {
+      "text": "They do, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 632.42,
+      "end_time": 633.34
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 633.9,
+      "end_time": 634.38
+    },
+    {
+      "text": "So it's, it's like.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 634.38,
+      "end_time": 636.38
+    },
+    {
+      "text": "But I will take a look at that call, Chris, for sure, and see if I notice anything.",
+      "speaker_name": "Andy Day",
+      "start_time": 636.62,
+      "end_time": 641.9
+    },
+    {
+      "text": "Yeah, I mean, it was, it's fine.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 641.9,
+      "end_time": 643.02
+    },
+    {
+      "text": "I mean, they were, they were very engaged.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 643.02,
+      "end_time": 645.18
+    },
+    {
+      "text": "I was just surprised, that's all.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 645.42,
+      "end_time": 647.98
+    },
+    {
+      "text": "Yeah, I guess it is.",
+      "speaker_name": "Andy Day",
+      "start_time": 649.77,
+      "end_time": 651.17
+    },
+    {
+      "text": "I mean, they get it on all of the information.",
+      "speaker_name": "Andy Day",
+      "start_time": 651.17,
+      "end_time": 653.05
+    },
+    {
+      "text": "They get it with the teaser, they get it with the listing.",
+      "speaker_name": "Andy Day",
+      "start_time": 653.29,
+      "end_time": 655.37
+    },
+    {
+      "text": "So, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 656.81,
+      "end_time": 657.45
+    },
+    {
+      "text": "Bit peculiar, I guess.",
+      "speaker_name": "Andy Day",
+      "start_time": 657.61,
+      "end_time": 659.09
+    },
+    {
+      "text": "It's just, it's probably just a way of fishing directly with you as the founder to see where maybe you are and whether there's any movement.",
+      "speaker_name": "Andy Day",
+      "start_time": 659.09,
+      "end_time": 668.41
+    },
+    {
+      "text": "Okay, well, we'll follow up with these guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 669.93,
+      "end_time": 672.09
+    },
+    {
+      "text": "Obviously, we need to know if they're going to make an offer, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 673.21,
+      "end_time": 676.54
+    },
+    {
+      "text": "So that's the next step with these guys, but that's pretty much where we're at.",
+      "speaker_name": "Andy Day",
+      "start_time": 676.54,
+      "end_time": 681.46
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 681.62,
+      "end_time": 682.1
+    },
+    {
+      "text": "So pretty happy with the, the traction that we've got.",
+      "speaker_name": "Andy Day",
+      "start_time": 682.1,
+      "end_time": 686.34
+    },
+    {
+      "text": "I hope you guys are too.",
+      "speaker_name": "Andy Day",
+      "start_time": 687.78,
+      "end_time": 688.98
+    },
+    {
+      "text": "I mean, this is, this is much more where I would prefer to be where we've got sort of Five or six leads.",
+      "speaker_name": "Andy Day",
+      "start_time": 688.98,
+      "end_time": 695.66
+    },
+    {
+      "text": "All.",
+      "speaker_name": "Andy Day",
+      "start_time": 695.66,
+      "end_time": 696.02
+    },
+    {
+      "text": "All cooking at once?",
+      "speaker_name": "Andy Day",
+      "start_time": 696.74,
+      "end_time": 697.94
+    },
+    {
+      "text": "Definitely.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 698.26,
+      "end_time": 698.98
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 699.14,
+      "end_time": 699.62
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 701.32,
+      "end_time": 701.8
+    },
+    {
+      "text": "All right, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 701.88,
+      "end_time": 702.68
+    },
+    {
+      "text": "All right, if there's no extra questions.",
+      "speaker_name": "Andy Day",
+      "start_time": 702.68,
+      "end_time": 705.16
+    },
+    {
+      "text": "You good, Brian?",
+      "speaker_name": "Andy Day",
+      "start_time": 705.16,
+      "end_time": 706.04
+    },
+    {
+      "text": "All good?",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 706.2,
+      "end_time": 706.84
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 707.08,
+      "end_time": 707.56
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 707.56,
+      "end_time": 708.36
+    },
+    {
+      "text": "All right, well, I'll keep you posted if anything changes with those.",
+      "speaker_name": "Andy Day",
+      "start_time": 709,
+      "end_time": 712.28
+    },
+    {
+      "text": "And like I say, it looks like min tents will be the next one this week.",
+      "speaker_name": "Andy Day",
+      "start_time": 712.28,
+      "end_time": 715.08
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 715.24,
+      "end_time": 715.88
+    },
+    {
+      "text": "If you can, as early as possible, let me know.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 716.52,
+      "end_time": 718.52
+    },
+    {
+      "text": "Dates you're thinking about.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 718.52,
+      "end_time": 719.52
+    },
+    {
+      "text": "I have got an awful lot of client QBRs over the next fortnight, so I've got travel left, right, center already in my calendar, so it's becoming tricky.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 719.52,
+      "end_time": 729.17
+    },
+    {
+      "text": "Do.",
+      "speaker_name": "Andy Day",
+      "start_time": 729.25,
+      "end_time": 729.57
+    },
+    {
+      "text": "Do you have preferred days this week?",
+      "speaker_name": "Andy Day",
+      "start_time": 729.57,
+      "end_time": 732.29
+    },
+    {
+      "text": "And we can.",
+      "speaker_name": "Andy Day",
+      "start_time": 732.29,
+      "end_time": 732.89
+    },
+    {
+      "text": "We can try and push that through straight away.",
+      "speaker_name": "Andy Day",
+      "start_time": 732.89,
+      "end_time": 734.69
+    },
+    {
+      "text": "Yeah, I think Friday morning probably this week would be.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 735.01,
+      "end_time": 737.73
+    },
+    {
+      "text": "I've got a few calls committed to in there as well.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 738.77,
+      "end_time": 741.73
+    },
+    {
+      "text": "Wait a second.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 741.81,
+      "end_time": 742.61
+    },
+    {
+      "text": "Friday morning, you know, 10am our time?",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 746.37,
+      "end_time": 752.45
+    },
+    {
+      "text": "Yep.",
+      "speaker_name": "Andy Day",
+      "start_time": 752.77,
+      "end_time": 753.41
+    },
+    {
+      "text": "Well, best made at 10:30 our time.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 753.65,
+      "end_time": 757.81
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 759.09,
+      "end_time": 759.65
+    },
+    {
+      "text": "They're UK based.",
+      "speaker_name": "Andy Day",
+      "start_time": 759.65,
+      "end_time": 760.45
+    },
+    {
+      "text": "Intense.",
+      "speaker_name": "Andy Day",
+      "start_time": 760.45,
+      "end_time": 761.01
+    },
+    {
+      "text": "I think they've got.co.uk right?",
+      "speaker_name": "Andy Day",
+      "start_time": 761.01,
+      "end_time": 763.09
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 763.41,
+      "end_time": 763.89
+    },
+    {
+      "text": "Yeah, they're.co.uk they're UK.",
+      "speaker_name": "Andy Day",
+      "start_time": 765.01,
+      "end_time": 766.81
+    },
+    {
+      "text": "Then next week it looks like Tuesday IM gonna have to travel for a new business meeting on the.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 766.81,
+      "end_time": 773.17
+    },
+    {
+      "text": "Yeah, on the 30th.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 773.41,
+      "end_time": 774.53
+    },
+    {
+      "text": "That's the Tuesday.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 774.53,
+      "end_time": 775.17
+    },
+    {
+      "text": "Monday afternoon is looking a lot better.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 775.57,
+      "end_time": 777.73
+    },
+    {
+      "text": "So that's the 29th in the afternoon looks.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 779.01,
+      "end_time": 781.01
+    },
+    {
+      "text": "Looks pretty good.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 781.01,
+      "end_time": 781.61
+    },
+    {
+      "text": "And the first in the afternoon looks pretty good.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 781.61,
+      "end_time": 784.05
+    },
+    {
+      "text": "Thursday, not good.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 785.49,
+      "end_time": 787.33
+    },
+    {
+      "text": "I'll be traveling.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 787.41,
+      "end_time": 788.61
+    },
+    {
+      "text": "And Friday, not good.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 790.37,
+      "end_time": 791.85
+    },
+    {
+      "text": "I'll be traveling as well.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 791.85,
+      "end_time": 792.85
+    },
+    {
+      "text": "So the second and third are likely unavailable.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 792.85,
+      "end_time": 796.29
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 797.57,
+      "end_time": 798.01
+    },
+    {
+      "text": "So first is Monday afternoon and the first afternoon.",
+      "speaker_name": "Andy Day",
+      "start_time": 798.01,
+      "end_time": 801.09
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 801.17,
+      "end_time": 801.53
+    },
+    {
+      "text": "And Wednesday afternoon, the first.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 801.53,
+      "end_time": 803.17
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 804.18,
+      "end_time": 804.66
+    },
+    {
+      "text": "Afternoon.",
+      "speaker_name": "Andy Day",
+      "start_time": 806.42,
+      "end_time": 806.98
+    },
+    {
+      "text": "Was it Wednesday as well?",
+      "speaker_name": "Andy Day",
+      "start_time": 806.98,
+      "end_time": 807.94
+    },
+    {
+      "text": "Sorry.",
+      "speaker_name": "Andy Day",
+      "start_time": 807.94,
+      "end_time": 808.42
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 808.42,
+      "end_time": 808.9
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 810.02,
+      "end_time": 810.54
+    },
+    {
+      "text": "Both good.",
+      "speaker_name": "Andy Day",
+      "start_time": 810.54,
+      "end_time": 811.22
+    },
+    {
+      "text": "Trying to avoid 2:30 to 3.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 811.62,
+      "end_time": 813.78
+    },
+    {
+      "text": "I have client calls on the first 2:30 to 3 that I can't move.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 813.94,
+      "end_time": 817.54
+    },
+    {
+      "text": "All right, let's.",
+      "speaker_name": "Andy Day",
+      "start_time": 819.46,
+      "end_time": 820.299
+    },
+    {
+      "text": "Yeah, we'll try and get it set up in our next call so we can book it straight in.",
+      "speaker_name": "Andy Day",
+      "start_time": 820.299,
+      "end_time": 824.18
+    },
+    {
+      "text": "All right, fantastic.",
+      "speaker_name": "Andy Day",
+      "start_time": 825.86,
+      "end_time": 827.46
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 827.54,
+      "end_time": 828.18
+    },
+    {
+      "text": "All right, cheers, guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 828.18,
+      "end_time": 829.1
+    },
+    {
+      "text": "Thanks for your time.",
+      "speaker_name": "Andy Day",
+      "start_time": 829.1,
+      "end_time": 829.78
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "Chris, Corvidae",
+      "start_time": 830.29,
+      "end_time": 830.77
+    },
+    {
+      "text": "Thanks, Andrew.",
+      "speaker_name": "brianfitzpatrick",
+      "start_time": 831.17,
+      "end_time": 832.13
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andy Day",
+      "start_time": 832.21,
+      "end_time": 832.89
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Andy Day",
+      "start_time": 832.89,
+      "end_time": 833.41
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 833.89,
+      "end_time": 834.37
+    },
+    {
+      "text": "Bye.",
+      "speaker_name": "Ahmed Zia",
+      "start_time": 834.37,
+      "end_time": 834.77
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Azo Network",
+      "Havas",
+      "Search Fund",
+      "Information Memorandum",
+      "Marketing Agency Acquisition",
+      "Client Scheduling"
+    ],
+    "action_items": "\n**Chris Liversidge**\nConfirm availability and preferred dates for upcoming Min Tense meeting by Friday morning or earlier this week (11:55)\nReview and consider comments around Springbok Properties interest and transition model (06:23)\n\n**Andy Day**\nContinue chasing Havas for meeting arrangements and gathering feedback (03:00)\nCoordinate scheduling of Min Tense meeting to secure a slot in Chris’s calendar (11:55)\nFollow up with Beach Equity regarding their deal closure and possible renewed interest (08:00)\nMonitor follow-up progress on other leads including Infinity Nation, Blue Ocean Interactive, and Springbok Properties IM release approval (04:50)\nReview Azo Network call to confirm any notable issues or insights (09:35)\n\n**Ahmed Zia**\nAssist LA with provision of latest management accounts and forecast data for Quanta (08:35)\nSupport follow-ups with Azo Network and clarify information on commercial model queries raised during calls (09:40)\n",
+    "outline": null,
+    "overview": "- Azo Network meeting showed initial lack of awareness about Corvidae; no immediate interest but engaged for potential future exploration.\n- Havas is exhibiting strong interest in collaboration; IM has been released, and meetings are actively being scheduled for partnership discussions.\n- Macy search fund canceled initial screening call, but efforts are underway to reschedule; understanding the search fund model is crucial for strategy.\n- Upcoming Min Tense meeting is a priority this week; ongoing follow-ups with other leads like Infinity Nation and Blue Ocean Interactive are important.\n- Consideration to release Information Memorandum to Springbok Properties; challenges noted around transition model and timing readiness.\n- Beach Equity may show renewed interest after closing another deal despite previous decline; need to follow up for updates.\n- LA is preparing latest management accounts and forecasts for Quanta for review and strategic planning.\n- Positive momentum highlighted, with five to six leads currently in the pipeline indicating a healthy business development outlook.\n- Client QBRs are influencing scheduling; travel constraints noted, with Friday mornings proposed for calls.\n- Team's availability next week includes Monday and Wednesday afternoons, with specific time blocks for client calls to be mindful of.",
+    "short_summary": "The team discussed various active leads, including Havas Market, which shows promise for partnership talks pending confirmation of a meeting with Bertrand Fraboulet. Macy remains a target for rescheduling after canceling an initial call, with strategic adjustments made due to their search fund nature. Min Tents has a scheduled call this week to clarify their interest, while Springbok Properties represents a long-term potential lead with significant personal wealth but requires careful timing due to their property sale. Beach Equity might reconsider discussions after closing another deal, necessitating ongoing follow-up. Additionally, the team is prioritizing updates on financial documentation for buyer diligence while ensuring effective communication and scheduling amid Chris's heavy travel commitments, stressing the importance of maintaining deal momentum and addressing buyer inquiries accurately.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K5M49P62K306ZCTX92B9XHVD",
+  "audio_url": "https://cdn.fireflies.ai/01K5M49P62K306ZCTX92B9XHVD/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzVNNDlQNjJLMzA2WkNUWDkyQjlYSFZEL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=GpQ89AaqmPj-qegimxhsdzqSfdABYdmp7SgmM2G0vYBW9DhbpcVmXWeNxpLpVe2ZDOmhTBZq3yX9Zd~JThkexP-AIoWKQl14bfBB~JJF~Dw7pvbReYtvsfymGCTpSoZWvTJTecYFi7io-~wpErFYMQBfvxKasKMzRd0eE~6WC3BWvV7crQyImLfGTPcHG3z9vtkHgYVMQbQ0awWLPQbKM7JzO5fGvZrqhncFhqHWQV26OSnW5frxO1dhM94Ejhxg1EPd4Mt-tAW203VwETAGfmZT1wydiJXo5FHxgNhL~kntI7Qw4L0H9Gb3uqohvF35hzUHGrkvOt~z-c5d41T4xA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K5M49P62K306ZCTX92B9XHVD/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzVNNDlQNjJLMzA2WkNUWDkyQjlYSFZEL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=yEMyNF8jzFOBSkAdGWohjwzU6uEQyQQ-LWjbs~HByCnYapfKexhUxTod8r6sq-nO~yxC4uzSvt1KALUdabWfEN1AQOMkov82XHN1eyMrcn~Ksz9S2cZ9oqi~eA72r2OvbyPWnqwAeG~tfiGSp8kVGFogl5sBZl1-wi16gmANGLh3HJct4Z8e2EWHCs0ai6XESzcFnX-GL7CnIw9dWSntQaSMo2XiH1vvHsGtF5w2G-fhZVYbBDGzAWJo2yzJcswgO1~RS3zd9eoPyjkE5ofK31tUzyV6wlIcLEKG40koslC3EUVj~VpoilmpeDFApHYyzeTWUeaXQ~gcaqbMR3qKgg__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

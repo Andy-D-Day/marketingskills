@@ -1,0 +1,1156 @@
+{
+  "id": "k6cTfWFf70ru6aoo",
+  "title": "2pm Call: Jon Southcombe, Andy Day & Simon Goldberg",
+  "date": 1728910800000,
+  "dateString": "2024-10-14T13:00:00.000Z",
+  "duration": 13,
+  "participants": [
+    "andrew.day@capitala.co,jon@rmi.co,simon.goldberg@smb.london",
+    "andy.day@capitala.co",
+    "jon@rmi.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Jon Southcombe",
+      "email": "jon@rmi.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "Simon Goldberg",
+      "email": "simon.goldberg@smb.london",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "I'm here.",
+      "speaker_name": "iPhone",
+      "start_time": 0.68,
+      "end_time": 1.468
+    },
+    {
+      "text": "You said he couldn't get on.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 2.47,
+      "end_time": 3.97
+    },
+    {
+      "text": "I lied.",
+      "speaker_name": "iPhone",
+      "start_time": 5.35,
+      "end_time": 5.902
+    },
+    {
+      "text": "You've got them anyway.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.966,
+      "end_time": 6.758
+    },
+    {
+      "text": "You've got them, so it doesn't matter.",
+      "speaker_name": "iPhone",
+      "start_time": 6.814,
+      "end_time": 8.33
+    },
+    {
+      "text": "Hi, Andy.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 9.31,
+      "end_time": 10.33
+    },
+    {
+      "text": "He's on.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 12.59,
+      "end_time": 13.53
+    },
+    {
+      "text": "He's on.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 14.95,
+      "end_time": 15.486
+    },
+    {
+      "text": "That's him.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 15.518,
+      "end_time": 16.03
+    },
+    {
+      "text": "But we just need to turn him off.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 16.11,
+      "end_time": 17.99
+    },
+    {
+      "text": "Mute.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 18.03,
+      "end_time": 18.65
+    },
+    {
+      "text": "Hello, Simon.",
+      "speaker_name": "iPhone",
+      "start_time": 23.87,
+      "end_time": 25.49
+    },
+    {
+      "text": "Hi, John.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 26.24,
+      "end_time": 26.76
+    },
+    {
+      "text": "How are you doing?",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 26.8,
+      "end_time": 27.704
+    },
+    {
+      "text": "I'm doing well.",
+      "speaker_name": "iPhone",
+      "start_time": 27.872,
+      "end_time": 29.06
+    },
+    {
+      "text": "Sat at Queen's club again.",
+      "speaker_name": "iPhone",
+      "start_time": 29.64,
+      "end_time": 31.424
+    },
+    {
+      "text": "Why are you at Queen's club?",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 31.592,
+      "end_time": 32.9
+    },
+    {
+      "text": "It's quite a good place to work from in between hitting balls with my other son.",
+      "speaker_name": "iPhone",
+      "start_time": 33.96,
+      "end_time": 38.46
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 39.76,
+      "end_time": 40.74
+    },
+    {
+      "text": "We've got to get you and your boy to play paddle, remember?",
+      "speaker_name": "iPhone",
+      "start_time": 41.24,
+      "end_time": 43.104
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 43.152,
+      "end_time": 43.76
+    },
+    {
+      "text": "I'm desperate to, but it's just a question of time.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 43.88,
+      "end_time": 46.2
+    },
+    {
+      "text": "But once he's done his English GCC, which is in.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 46.24,
+      "end_time": 49.82
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 50.8,
+      "end_time": 51.54
+    },
+    {
+      "text": "Hello.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 52.18,
+      "end_time": 52.612
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 52.676,
+      "end_time": 53.56
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 54.5,
+      "end_time": 55.028
+    },
+    {
+      "text": "I'm on a call with two bearded men.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 55.124,
+      "end_time": 57.72
+    },
+    {
+      "text": "Hi, guys.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 63.7,
+      "end_time": 64.524
+    },
+    {
+      "text": "So just.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 64.612,
+      "end_time": 65.508
+    },
+    {
+      "text": "I convene this because I just really wanted an update, and I introduced you guys some months back.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 65.604,
+      "end_time": 71.716
+    },
+    {
+      "text": "I know you got a mandate, Andy, and I'm just bringing you to check in.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 71.868,
+      "end_time": 75.052
+    },
+    {
+      "text": "Really?",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 75.076,
+      "end_time": 75.64
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 77.96,
+      "end_time": 78.384
+    },
+    {
+      "text": "Well, happy to catch up.",
+      "speaker_name": "Andy Day",
+      "start_time": 78.432,
+      "end_time": 79.576
+    },
+    {
+      "text": "Sorry it's a bit echoey where I am at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 79.608,
+      "end_time": 81.62
+    },
+    {
+      "text": "Sounds like I'm in a church kind of out.",
+      "speaker_name": "Andy Day",
+      "start_time": 82,
+      "end_time": 84.5
+    },
+    {
+      "text": "Um, yeah, so it's, uh.",
+      "speaker_name": "Andy Day",
+      "start_time": 85,
+      "end_time": 87.24
+    },
+    {
+      "text": "Well, it's been a long slog to get.",
+      "speaker_name": "Andy Day",
+      "start_time": 87.32,
+      "end_time": 89.016
+    },
+    {
+      "text": "To get here, but we are up and running.",
+      "speaker_name": "Andy Day",
+      "start_time": 89.088,
+      "end_time": 91.552
+    },
+    {
+      "text": "I think we've been live with the campaign now for about four weeks, probably a full month, actually, at this point in time.",
+      "speaker_name": "Andy Day",
+      "start_time": 91.736,
+      "end_time": 100.78
+    },
+    {
+      "text": "Um, so we are getting some traction, but it's.",
+      "speaker_name": "Andy Day",
+      "start_time": 101.36,
+      "end_time": 107.944
+    },
+    {
+      "text": "It's still relatively at the start of the.",
+      "speaker_name": "Andy Day",
+      "start_time": 108.032,
+      "end_time": 111.24
+    },
+    {
+      "text": "The process at the moment.",
+      "speaker_name": "Andy Day",
+      "start_time": 111.32,
+      "end_time": 113.312
+    },
+    {
+      "text": "So I don't think we've got to the point yet where we've been able to set up some cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 113.376,
+      "end_time": 119.144
+    },
+    {
+      "text": "I think you should just leave it now.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 119.192,
+      "end_time": 122.008
+    },
+    {
+      "text": "You don't need something to make that decision.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 122.144,
+      "end_time": 123.76
+    },
+    {
+      "text": "We're very close.",
+      "speaker_name": "Andy Day",
+      "start_time": 123.84,
+      "end_time": 124.72
+    },
+    {
+      "text": "Very close.",
+      "speaker_name": "Andy Day",
+      "start_time": 124.84,
+      "end_time": 125.72
+    },
+    {
+      "text": "So the way the process works is we build a large.",
+      "speaker_name": "Andy Day",
+      "start_time": 125.88,
+      "end_time": 130.322
+    },
+    {
+      "text": "And now.",
+      "speaker_name": "Andy Day",
+      "start_time": 130.496,
+      "end_time": 131.61
+    },
+    {
+      "text": "Go mute.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 136.35,
+      "end_time": 137.37
+    },
+    {
+      "text": "We built a large list in this case.",
+      "speaker_name": "Andy Day",
+      "start_time": 138.43,
+      "end_time": 140.446
+    },
+    {
+      "text": "We had 30,000 initial contacts that we reached out to and alongside.",
+      "speaker_name": "Andy Day",
+      "start_time": 140.478,
+      "end_time": 146.478
+    },
+    {
+      "text": "That's sort of like deep sea fishing net approach.",
+      "speaker_name": "Andy Day",
+      "start_time": 146.534,
+      "end_time": 152.046
+    },
+    {
+      "text": "And then we have sort of a more targeted approach where we target people that are in our network and that we see as buyers.",
+      "speaker_name": "Andy Day",
+      "start_time": 152.198,
+      "end_time": 158.854
+    },
+    {
+      "text": "And on top of that, we're researching as well, sort of on a more intricate level, I guess, you know, doing research into the market to see if we can find any individual buyers that we can reach out to as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 159.022,
+      "end_time": 173.9
+    },
+    {
+      "text": "So I think so far we've reached out to about 30,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 174.28,
+      "end_time": 177.58
+    },
+    {
+      "text": "Let me just get the stats.",
+      "speaker_name": "Andy Day",
+      "start_time": 179.12,
+      "end_time": 181.02
+    },
+    {
+      "text": "We've reached out to 30,000.",
+      "speaker_name": "Andy Day",
+      "start_time": 182.44,
+      "end_time": 184.62
+    },
+    {
+      "text": "We are discussing.",
+      "speaker_name": "Andy Day",
+      "start_time": 185.04,
+      "end_time": 186.54
+    },
+    {
+      "text": "Well, we've got four signed NDAs and we are speaking to another five who want to sign the NDA or are talking about it.",
+      "speaker_name": "Andy Day",
+      "start_time": 188.49,
+      "end_time": 198.75
+    },
+    {
+      "text": "And then we've got another 29 conversations that are ongoing.",
+      "speaker_name": "Andy Day",
+      "start_time": 199.25,
+      "end_time": 205.85
+    },
+    {
+      "text": "And John, did you tell Andy about the ones not to go for the ones?",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 206.01,
+      "end_time": 210.098
+    },
+    {
+      "text": "Well, it doesn't matter.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 210.154,
+      "end_time": 210.962
+    },
+    {
+      "text": "If you're doing such a broad brush post, then maybe they're probably going to be in there anyway.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 210.986,
+      "end_time": 215.29
+    },
+    {
+      "text": "But John, you'd had to do with a few that.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 215.33,
+      "end_time": 217.274
+    },
+    {
+      "text": "Yeah, there was some communication, Andy, by Stuart.",
+      "speaker_name": "iPhone",
+      "start_time": 217.322,
+      "end_time": 220.126
+    },
+    {
+      "text": "I think there was only three or four companies that was on a banned list, but that was only to protect my other finance guy, Mark, who's now in Dubai, and I haven't really spoken to him for the last two months, so not as precious as it was at the time, to be honest.",
+      "speaker_name": "iPhone",
+      "start_time": 220.158,
+      "end_time": 234.41
+    },
+    {
+      "text": "Yeah, I mean, we're pretty much trying to talk to everybody, Simon, at every sort of level in the, in the market.",
+      "speaker_name": "Andy Day",
+      "start_time": 235.51,
+      "end_time": 243.494
+    },
+    {
+      "text": "So, for instance, we're talking to Adobe and Microsoft sort of at the top end.",
+      "speaker_name": "Andy Day",
+      "start_time": 243.582,
+      "end_time": 251.02
+    },
+    {
+      "text": "And there's another company called Khaki Caci Limited, which thinks a listed company that we're talking to, but everything all the way through Walmart.",
+      "speaker_name": "Andy Day",
+      "start_time": 252.84,
+      "end_time": 265.18
+    },
+    {
+      "text": "What else we got in there?",
+      "speaker_name": "Andy Day",
+      "start_time": 267.56,
+      "end_time": 268.624
+    },
+    {
+      "text": "Tencent and John, did you told Andy what went wrong last time and why Malkins and Smith got.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 268.672,
+      "end_time": 276.14
+    },
+    {
+      "text": "Yeah, yeah, the background story was fine.",
+      "speaker_name": "iPhone",
+      "start_time": 277.08,
+      "end_time": 279
+    },
+    {
+      "text": "I mean, I think my perspective was just to get Andy's view, because this is the main knowledge.",
+      "speaker_name": "iPhone",
+      "start_time": 279.04,
+      "end_time": 283.936
+    },
+    {
+      "text": "He's done this a hundred times, thousand times, is maybe it's too early because it's only four weeks in, but then that's okay for me as well, to understand that if it's going to plan or is he getting kickbacks that are totally different to what he normally would see in the market.",
+      "speaker_name": "iPhone",
+      "start_time": 283.968,
+      "end_time": 299.184
+    },
+    {
+      "text": "So it's the process really just to understand, are we on track or nothing?",
+      "speaker_name": "iPhone",
+      "start_time": 299.272,
+      "end_time": 302.904
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 303.022,
+      "end_time": 303.388
+    },
+    {
+      "text": "So the process is going to plan, I would say, in terms of whether we're having the same experience as usual, I would say no, it is slightly different.",
+      "speaker_name": "Andy Day",
+      "start_time": 303.444,
+      "end_time": 316.16
+    },
+    {
+      "text": "As a business, you have this fairly unique software element, and I think it's much more complex than the agency transactions that we're doing all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 316.66,
+      "end_time": 330.788
+    },
+    {
+      "text": "So it has, it has a slightly different market.",
+      "speaker_name": "Andy Day",
+      "start_time": 330.924,
+      "end_time": 335.406
+    },
+    {
+      "text": "And certainly the buyers are, they're kind of more tech oriented and they want to have more of an initial conversation to find out whether there's a fit before they move on with even signing the NDA.",
+      "speaker_name": "Andy Day",
+      "start_time": 335.478,
+      "end_time": 349.126
+    },
+    {
+      "text": "Whereas normally we would see, I mean, we're putting out a description of the business, an anonymous teaser.",
+      "speaker_name": "Andy Day",
+      "start_time": 349.278,
+      "end_time": 357.13
+    },
+    {
+      "text": "Normally we would see a bunch of signed NDAs very early on without the companies really knowing anything about the agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 358.12,
+      "end_time": 368.216
+    },
+    {
+      "text": "And then they'll take a look and then they'll say yes or no to move forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 368.368,
+      "end_time": 372.06
+    },
+    {
+      "text": "But I just think because we're targeting just more experienced businesses as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 372.96,
+      "end_time": 379.088
+    },
+    {
+      "text": "So like I said, we're speaking to Adobe and Microsoft, so we're speaking to the departments that just deal with M and A all the time.",
+      "speaker_name": "Andy Day",
+      "start_time": 379.144,
+      "end_time": 389.226
+    },
+    {
+      "text": "So they're just a much more sophisticated audience, generally speaking.",
+      "speaker_name": "Andy Day",
+      "start_time": 389.338,
+      "end_time": 392.95
+    },
+    {
+      "text": "So it is definitely slightly slower than we would normally experience.",
+      "speaker_name": "Andy Day",
+      "start_time": 393.73,
+      "end_time": 399.83
+    },
+    {
+      "text": "But that said, we have some interest with some really good leads.",
+      "speaker_name": "Andy Day",
+      "start_time": 400.13,
+      "end_time": 405.07
+    },
+    {
+      "text": "But yeah, I guess to some degree, every single transaction that we do is a learning curve on our behalf.",
+      "speaker_name": "Andy Day",
+      "start_time": 407.09,
+      "end_time": 414.348
+    },
+    {
+      "text": "You know, we have to find out a ton of stuff that we might not necessarily understand or know about at the beginning.",
+      "speaker_name": "Andy Day",
+      "start_time": 414.404,
+      "end_time": 420.4
+    },
+    {
+      "text": "And this one was a fairly complex one, which took probably three or four weeks longer than we would normally take.",
+      "speaker_name": "Andy Day",
+      "start_time": 421.5,
+      "end_time": 428.28
+    },
+    {
+      "text": "And an element of that was backwards and forwards with Stuart approving, you know, some of the marketing materials and that sort of thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 428.9,
+      "end_time": 437.48
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 437.82,
+      "end_time": 438.228
+    },
+    {
+      "text": "It'd be great to see the concluded marketing materials.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 438.244,
+      "end_time": 440.548
+    },
+    {
+      "text": "I don't think I've got a copy of that.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 440.564,
+      "end_time": 441.628
+    },
+    {
+      "text": "John.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 441.644,
+      "end_time": 442.2
+    },
+    {
+      "text": "No, I think Jack, isn't it?",
+      "speaker_name": "iPhone",
+      "start_time": 443.11,
+      "end_time": 447.742
+    },
+    {
+      "text": "Jack.",
+      "speaker_name": "iPhone",
+      "start_time": 447.766,
+      "end_time": 448.19
+    },
+    {
+      "text": "Andy, could you ask him to send it to Simon?",
+      "speaker_name": "iPhone",
+      "start_time": 448.31,
+      "end_time": 450.534
+    },
+    {
+      "text": "Yeah, I can ask Jack to send.",
+      "speaker_name": "Andy Day",
+      "start_time": 450.702,
+      "end_time": 452.53
+    },
+    {
+      "text": "I wouldn't have it to hand.",
+      "speaker_name": "Andy Day",
+      "start_time": 454.19,
+      "end_time": 455.246
+    },
+    {
+      "text": "Yeah, it'd be.",
+      "speaker_name": "Andy Day",
+      "start_time": 455.278,
+      "end_time": 456.13
+    },
+    {
+      "text": "Jack and David are dealing that mostly.",
+      "speaker_name": "Andy Day",
+      "start_time": 456.75,
+      "end_time": 460.334
+    },
+    {
+      "text": "I mean, David is very experienced in this niche, in particular the software niche.",
+      "speaker_name": "Andy Day",
+      "start_time": 460.462,
+      "end_time": 466.31
+    },
+    {
+      "text": "He's based in San Francisco as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 466.35,
+      "end_time": 468.07
+    },
+    {
+      "text": "So, you know, sort of marketing software is something where he.",
+      "speaker_name": "Andy Day",
+      "start_time": 468.11,
+      "end_time": 473.172
+    },
+    {
+      "text": "He plays.",
+      "speaker_name": "Andy Day",
+      "start_time": 473.316,
+      "end_time": 474.044
+    },
+    {
+      "text": "That's his space.",
+      "speaker_name": "Andy Day",
+      "start_time": 474.092,
+      "end_time": 475.12
+    },
+    {
+      "text": "So we're definitely so reaching out to everything.",
+      "speaker_name": "Andy Day",
+      "start_time": 476.1,
+      "end_time": 478.548
+    },
+    {
+      "text": "Just over the last few days, we've actually built another, another bespoke list.",
+      "speaker_name": "Andy Day",
+      "start_time": 478.724,
+      "end_time": 485.1
+    },
+    {
+      "text": "It's a really big one.",
+      "speaker_name": "Andy Day",
+      "start_time": 485.14,
+      "end_time": 486.44
+    },
+    {
+      "text": "We have.",
+      "speaker_name": "Andy Day",
+      "start_time": 487.86,
+      "end_time": 488.684
+    },
+    {
+      "text": "Let me just give you a bit of color on that, because this is where we're heading now over the next week or two.",
+      "speaker_name": "Andy Day",
+      "start_time": 488.772,
+      "end_time": 497.708
+    },
+    {
+      "text": "So we're going after big consulting firms, IT consultant firms, retail marketing, large retailers, software buyers, private equity software buyers, companies that advise retailers, global data providers, and some big tech firms and fintech stroke payment platforms as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 497.764,
+      "end_time": 522.122
+    },
+    {
+      "text": "So we built another list of 60,000 companies in the UK and us that we're going after as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 522.146,
+      "end_time": 532.218
+    },
+    {
+      "text": "So what we usually do, John, is we usually build like a really big net and cast it everywhere.",
+      "speaker_name": "Andy Day",
+      "start_time": 532.274,
+      "end_time": 540.99
+    },
+    {
+      "text": "And eventually that filters down to three, four buyers that are qualified.",
+      "speaker_name": "Andy Day",
+      "start_time": 541.57,
+      "end_time": 547.242
+    },
+    {
+      "text": "It's the right time for them, you know, and they're ready to make an offer.",
+      "speaker_name": "Andy Day",
+      "start_time": 547.346,
+      "end_time": 551.53
+    },
+    {
+      "text": "They've got capital, they've got finance in place, etcetera.",
+      "speaker_name": "Andy Day",
+      "start_time": 551.57,
+      "end_time": 554.434
+    },
+    {
+      "text": "So it starts with 100,000 and then, you know, eventually it just ends up being two or three at the bottom.",
+      "speaker_name": "Andy Day",
+      "start_time": 554.482,
+      "end_time": 561.818
+    },
+    {
+      "text": "But, yeah, I mean, it is early, it is only four weeks in, but it is slightly slower.",
+      "speaker_name": "Andy Day",
+      "start_time": 561.954,
+      "end_time": 566.482
+    },
+    {
+      "text": "I would say it is a slower process, but it's much more corporate process as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 566.546,
+      "end_time": 571.546
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 571.578,
+      "end_time": 572.15
+    },
+    {
+      "text": "Simon, I'll also double check and send you the details through because one of the, the four pager that went out, which was quite interesting to see that RMI, over its 20 plus years, has placed over 1 billion of media in the UK, which is quite a milestone, actually.",
+      "speaker_name": "iPhone",
+      "start_time": 574.21,
+      "end_time": 593.032
+    },
+    {
+      "text": "And I think to your pointy, the amount of different, I suppose, products and skus that we have to deal with in Sainsbury's or whatever, Iceland or whatever, the complexity of that very boring complexity, but there's a lot of complexity means it is quite difficult.",
+      "speaker_name": "iPhone",
+      "start_time": 593.096,
+      "end_time": 615.034
+    },
+    {
+      "text": "It's quite niche for a suitor to be.",
+      "speaker_name": "iPhone",
+      "start_time": 615.082,
+      "end_time": 618.146
+    },
+    {
+      "text": "Has to be involved or has great ambitions to be involved in the retail industry, because it's not the glamorous side of the industry, for sure.",
+      "speaker_name": "iPhone",
+      "start_time": 618.298,
+      "end_time": 626.91
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 627.85,
+      "end_time": 628.37
+    },
+    {
+      "text": "And we're very much heartened as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 628.45,
+      "end_time": 630.162
+    },
+    {
+      "text": "So the research that we've been doing over the last month or two has brought up several very similar companies that have been acquired globally as well, by large.",
+      "speaker_name": "Andy Day",
+      "start_time": 630.186,
+      "end_time": 640.406
+    },
+    {
+      "text": "So marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 640.598,
+      "end_time": 642.81
+    },
+    {
+      "text": "So, I mean, it is something that other companies are looking at at this moment in time.",
+      "speaker_name": "Andy Day",
+      "start_time": 644.39,
+      "end_time": 650.398
+    },
+    {
+      "text": "It's a shift in the industry towards this sort of knowledge economy and really sort of understanding buyers behavior, etcetera.",
+      "speaker_name": "Andy Day",
+      "start_time": 650.494,
+      "end_time": 659.166
+    },
+    {
+      "text": "I mean, it's always been there, obviously, but it seems to be something now that, you know, bigger holding companies are interested in acquiring in this space.",
+      "speaker_name": "Andy Day",
+      "start_time": 659.198,
+      "end_time": 667.938
+    },
+    {
+      "text": "So there's definitely going to be somebody out there that's the right time for.",
+      "speaker_name": "Andy Day",
+      "start_time": 667.994,
+      "end_time": 673.91
+    },
+    {
+      "text": "I don't know whether you get.",
+      "speaker_name": "Andy Day",
+      "start_time": 674.57,
+      "end_time": 676.066
+    },
+    {
+      "text": "You're on the meetings, John, but we are speaking to Stagwell as well, who've signed the NDA, and they're relatively interested.",
+      "speaker_name": "Andy Day",
+      "start_time": 676.218,
+      "end_time": 684.106
+    },
+    {
+      "text": "I can't promise anything at this moment, but we've got a good relationship with their m and a team.",
+      "speaker_name": "Andy Day",
+      "start_time": 684.138,
+      "end_time": 689.114
+    },
+    {
+      "text": "We sold them a company about four or five months ago as well, so they're very keen.",
+      "speaker_name": "Andy Day",
+      "start_time": 689.162,
+      "end_time": 694.634
+    },
+    {
+      "text": "So they're kind of holding companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 694.682,
+      "end_time": 698.282
+    },
+    {
+      "text": "Where did you sell?",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 698.386,
+      "end_time": 699.274
+    },
+    {
+      "text": "Was that in the States or here?",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 699.362,
+      "end_time": 700.99
+    },
+    {
+      "text": "Stagwell is based in the US.",
+      "speaker_name": "Andy Day",
+      "start_time": 701.97,
+      "end_time": 703.61
+    },
+    {
+      "text": "The company we sold was based in Israel.",
+      "speaker_name": "Andy Day",
+      "start_time": 703.69,
+      "end_time": 705.95
+    },
+    {
+      "text": "Oh, interesting.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 706.41,
+      "end_time": 707.25
+    },
+    {
+      "text": "So israeli law.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 707.29,
+      "end_time": 708.51
+    },
+    {
+      "text": "Yeah, because we did their last.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 709.45,
+      "end_time": 711.426
+    },
+    {
+      "text": "I don't know, last year.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 711.618,
+      "end_time": 712.826
+    },
+    {
+      "text": "It was a long time ago, but we did stagwells when they sold the.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 712.858,
+      "end_time": 716.31
+    },
+    {
+      "text": "Did they sell or did they buy.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 717.26,
+      "end_time": 719.116
+    },
+    {
+      "text": "They bought the publishing company that did the BA high life and stuff like that.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 719.308,
+      "end_time": 723.48
+    },
+    {
+      "text": "And we did that deal, so we know Stagwell well.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 724.18,
+      "end_time": 726.98
+    },
+    {
+      "text": "Oh, good.",
+      "speaker_name": "Andy Day",
+      "start_time": 727.14,
+      "end_time": 727.636
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 727.668,
+      "end_time": 728.28
+    },
+    {
+      "text": "I don't know if you deal with Teddy because Teddy's more the Corp dev, but him and David are pretty close, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 729.22,
+      "end_time": 736.86
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 736.9,
+      "end_time": 737.236
+    },
+    {
+      "text": "And they did buy.",
+      "speaker_name": "Andy Day",
+      "start_time": 737.308,
+      "end_time": 738.172
+    },
+    {
+      "text": "They bought a company in the UK, didn't they?",
+      "speaker_name": "Andy Day",
+      "start_time": 738.236,
+      "end_time": 739.892
+    },
+    {
+      "text": "Not too long ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 739.916,
+      "end_time": 740.58
+    },
+    {
+      "text": "So I don't know whether that was you, but they actually came to us and we did a valuation for them as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 740.62,
+      "end_time": 747.216
+    },
+    {
+      "text": "Don't think we did.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 747.368,
+      "end_time": 748.16
+    },
+    {
+      "text": "Recent one.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 748.2,
+      "end_time": 748.792
+    },
+    {
+      "text": "I'll ask Peter, who's the current partner.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 748.856,
+      "end_time": 750.416
+    },
+    {
+      "text": "But anyway, that's just a good one because they're a great company.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 750.448,
+      "end_time": 757.46
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 758.2,
+      "end_time": 758.96
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 759.12,
+      "end_time": 759.44
+    },
+    {
+      "text": "So I would say it's trundling, but you can see it is just much more in depth than some of the deals that we've done where we've really been able to get a lot of interest without doing much work.",
+      "speaker_name": "Andy Day",
+      "start_time": 759.48,
+      "end_time": 777.3
+    },
+    {
+      "text": "Well, say not much, but just doing the standard stuff and getting quite a lot of interest, whereas this is much more in depth.",
+      "speaker_name": "Andy Day",
+      "start_time": 778,
+      "end_time": 785.48
+    },
+    {
+      "text": "Every single piece of interest has been a conversation rather than an email, backwards and forwards and getting on the call.",
+      "speaker_name": "Andy Day",
+      "start_time": 785.56,
+      "end_time": 793.86
+    },
+    {
+      "text": "Sounds good.",
+      "speaker_name": "iPhone",
+      "start_time": 795.37,
+      "end_time": 796.034
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "iPhone",
+      "start_time": 796.082,
+      "end_time": 796.658
+    },
+    {
+      "text": "That's all I needed to hear.",
+      "speaker_name": "iPhone",
+      "start_time": 796.754,
+      "end_time": 797.802
+    },
+    {
+      "text": "Really cool update, so I appreciate that.",
+      "speaker_name": "iPhone",
+      "start_time": 797.826,
+      "end_time": 800.586
+    },
+    {
+      "text": "All right, send me the materials, guys.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 800.698,
+      "end_time": 802.626
+    },
+    {
+      "text": "Keep us posted and then we'll maybe touch base in another three or four weeks time.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 802.778,
+      "end_time": 806.79
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "iPhone",
+      "start_time": 807.25,
+      "end_time": 808.23
+    },
+    {
+      "text": "All right, good to see you guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 809.29,
+      "end_time": 810.498
+    },
+    {
+      "text": "Simon.",
+      "speaker_name": "Andy Day",
+      "start_time": 810.554,
+      "end_time": 811.106
+    },
+    {
+      "text": "Cheers, boys.",
+      "speaker_name": "Simon Goldberg",
+      "start_time": 811.218,
+      "end_time": 812.242
+    },
+    {
+      "text": "Bye bye.",
+      "speaker_name": "iPhone",
+      "start_time": 812.426,
+      "end_time": 813.266
+    },
+    {
+      "text": "All right, speak to.",
+      "speaker_name": "Andy Day",
+      "start_time": 813.378,
+      "end_time": 814.01
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "campaign",
+      "software",
+      "buyers",
+      "NDA",
+      "retail",
+      "M&A"
+    ],
+    "action_items": "\n**Andy Day**\nAsk Jack to send marketing materials to Simon (07:23)\n\n**John**\nDouble-check and send details to Simon about the four-pager document (09:34)\n\n**Simon Goldberg**\nReview marketing materials once received (07:18)\n\n**All**\nTouch base in another 3-4 weeks for an update (13:21)\n",
+    "outline": null,
+    "overview": "In the Project Update and Strategy Discussion meeting held at 2 PM, Jon Southcombe, Andy Day, and Simon Goldberg reviewed the progress of Andy's campaign, which has been active for four weeks and has successfully reached an initial list of 30,000 contacts, leading to four signed NDAs and multiple ongoing conversations. The team discussed the targeted approach of engaging with high-level buyers such as Adobe and Microsoft, noting that the unique software aspect complicates the process, resulting in a more gradual buildup before NDA signings. Future strategies include expanding outreach to a new bespoke list of 60,000 companies, focusing primarily on consulting firms and tech-centric businesses. The participants emphasized the complexities of the retail industry and the shift towards a knowledge-based economy as influential factors in buyer behavior. Action items were assigned, including reviewing marketing materials and checking the details of relevant documents, with plans to reconvene in 3-4 weeks for further updates.",
+    "short_summary": "During the Project Update and Strategy Discussion meeting, Jon Southcombe, Andy Day, and Simon Goldberg assessed the progress of Andy's four-week campaign, which successfully contacted 30,000 individuals, resulting in four signed NDAs and numerous ongoing discussions. They emphasized a targeted approach to engage high-level buyers, including prominent companies like Adobe and Microsoft. The team noted the complexity of the software aspect, which necessitates a gradual approach before securing more NDAs. Future strategies will involve expanding outreach to a new bespoke list of 60,000 companies, primarily targeting consulting firms and technology-centric businesses, while considering the complexities of the retail industry and the shift towards a knowledge-based economy that influences buyer behavior. Action items included reviewing marketing materials and relevant documents, with plans to reconvene in 3-4 weeks for updates.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/k6cTfWFf70ru6aoo",
+  "audio_url": "https://cdn.fireflies.ai/k6cTfWFf70ru6aoo/audio.mp3?Expires=1773225125&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL2s2Y1RmV0ZmNzBydTZhb28vYXVkaW8ubXAzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MTI1fX19XX0_&Signature=nBF1rX~19uILrnqHRqUrecR~tXBP4Z65sR7EVNiv4Ux38AscCWwhpI5C4oh-QjfaIMvgzpJwvU8buNrYoDgVH4~n-ZrAueC2wr8tzsLghPUijzPEINeJrhSYVPztJlm7fZIGn8FLvtlrrQ9w7LelFKvyDvgF9aPCBjL2WTXlbtNErjRineUHPyvJ3zVm4bphMxmNT1c8q9OXCKKilDuuOQhj~sJQv3EmDzdxpCWHXIYtGhmJzYqGOQanhI5ktNvxYXjL0o5cxp3AgK08NzR0gOToLv9oBXX-XMhp1JDlkcF3x7XHCDbuyrhR1FEHOXjpI-wcq63IY5MiR5HlXeU82g__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/k6cTfWFf70ru6aoo/video.mp4?Expires=1773225125&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpL2s2Y1RmV0ZmNzBydTZhb28vdmlkZW8ubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzczMjI1MTI1fX19XX0_&Signature=QmSB7o2eTALchMTz5YlgckI7F7WLHP~-rxsqsR79Cd6fj6diwKLSv6XTeJDb4cvA4wSXXj2aK3l--SZ-gBGHsWHN344khtC9CKygv7yQB26xJttU86aNmlh-QIrkVt~GjFNsEZ6LOahG~dWI97wEYzBwp0XKOkSDIK9Dcd19QYfs1WJqlQ59XNA6kdWpDb66a4HKjtUHDW35IACL62TuX3IdPjsMc2h8gmMxaiaD2gsatgcpJAX2xDRYoKWJDo1cVdhH68QbMVsVEjaoZsOZ7jjTDUIK6cS7HTxms0jGL4ADaE2Pye7vQeZbSAQhCIdhvyXGu7eB2OOiewypHuvFjw__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

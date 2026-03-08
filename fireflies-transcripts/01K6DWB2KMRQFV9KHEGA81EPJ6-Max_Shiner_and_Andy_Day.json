@@ -1,0 +1,1496 @@
+{
+  "id": "01K6DWB2KMRQFV9KHEGA81EPJ6",
+  "title": "Max Shiner and Andy Day",
+  "date": 1759849200000,
+  "dateString": "2025-10-07T15:00:00.000Z",
+  "duration": 22.6299991607666,
+  "participants": [
+    "aden@samba.tv,andrew.day@capitala.co,max.shiner@samba.tv,jaein.seo@samba.tv,c_188etdhbjjbcmih6mje983opgm8jc@resource.calendar.google.com,samba.tv_1889oa30n1q38jmdhlkb0pcf7s5s66ga6gsjae1g70o32chp@resource.calendar.google.com,andy.day@capitala.co",
+    "aden@samba.tv",
+    "max.shiner@samba.tv",
+    "jaein.seo@samba.tv",
+    "c_188etdhbjjbcmih6mje983opgm8jc@resource.calendar.google.com",
+    "samba.tv_1889oa30n1q38jmdhlkb0pcf7s5s66ga6gsjae1g70o32chp@resource.calendar.google.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": "Aden Zaman",
+      "email": "aden@samba.tv",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "max.shiner@samba.tv",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "jaein.seo@samba.tv",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "NYC 200 Madison-20-Thing (5)",
+      "email": "c_188etdhbjjbcmih6mje983opgm8jc@resource.calendar.google.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": "NYC 200 Madison-20-Hawkins (4) [Video Conf]",
+      "email": "samba.tv_1889oa30n1q38jmdhlkb0pcf7s5s66ga6gsjae1g70o32chp@resource.calendar.google.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hi, Jane, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 0.16,
+      "end_time": 1.28
+    },
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Andy Day",
+      "start_time": 2.64,
+      "end_time": 4.32
+    },
+    {
+      "text": "Yeah, good, thank you.",
+      "speaker_name": "Andy Day",
+      "start_time": 4.8,
+      "end_time": 5.88
+    },
+    {
+      "text": "I'm just setting up the note takers.",
+      "speaker_name": "Andy Day",
+      "start_time": 5.88,
+      "end_time": 8
+    },
+    {
+      "text": "As long as you guys are fine with.",
+      "speaker_name": "Andy Day",
+      "start_time": 8.32,
+      "end_time": 9.84
+    },
+    {
+      "text": "Whereabouts are you calling from us?",
+      "speaker_name": "Andy Day",
+      "start_time": 11.36,
+      "end_time": 12.72
+    },
+    {
+      "text": "Say that one more time, Andy.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 15.76,
+      "end_time": 16.92
+    },
+    {
+      "text": "Sorry, whereabouts?",
+      "speaker_name": "Andy Day",
+      "start_time": 16.92,
+      "end_time": 18.64
+    },
+    {
+      "text": "Whereabouts are you guys based?",
+      "speaker_name": "Andy Day",
+      "start_time": 18.64,
+      "end_time": 19.92
+    },
+    {
+      "text": "We're New York based.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 21.04,
+      "end_time": 22.12
+    },
+    {
+      "text": "I know Jane is off site.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 22.12,
+      "end_time": 23.52
+    },
+    {
+      "text": "I'm in our office right now.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 23.52,
+      "end_time": 25.2
+    },
+    {
+      "text": "But yeah, we have a.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 26.52,
+      "end_time": 27.44
+    },
+    {
+      "text": "We have a global presence and that's why I think we were interested in taking this call, you know, to kick things off.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 27.44,
+      "end_time": 33.04
+    },
+    {
+      "text": "Can do some quick intros on our end.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 33.04,
+      "end_time": 34.84
+    },
+    {
+      "text": "I'm Max Shiner.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 34.92,
+      "end_time": 36.08
+    },
+    {
+      "text": "I lead our corp dev efforts here at Samba.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 36.08,
+      "end_time": 38.44
+    },
+    {
+      "text": "And yeah, everything to do with fundraising, buy side, sell side, all of that.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 38.76,
+      "end_time": 44.6
+    },
+    {
+      "text": "And I'll pass Jane from here.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 44.84,
+      "end_time": 47.48
+    },
+    {
+      "text": "Great, thanks.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 48.84,
+      "end_time": 49.64
+    },
+    {
+      "text": "Hi, Andy, I'm Jane.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 49.88,
+      "end_time": 51.16
+    },
+    {
+      "text": "I'm on the business development side, focusing mostly on strategic partnerships and portion as well.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 51.16,
+      "end_time": 58.47
+    },
+    {
+      "text": "Just the same thing which companies have synergies with.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 58.47,
+      "end_time": 61.11
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Andy Day",
+      "start_time": 62.87,
+      "end_time": 63.23
+    },
+    {
+      "text": "All right, well, great meeting you both.",
+      "speaker_name": "Andy Day",
+      "start_time": 63.23,
+      "end_time": 65.75
+    },
+    {
+      "text": "Thanks for your time today.",
+      "speaker_name": "Andy Day",
+      "start_time": 66.15,
+      "end_time": 67.35
+    },
+    {
+      "text": "Yeah, so these calls really just to obviously get a bit of information up front, but really the founders of the company are probably the best people to sort of represent themselves in terms of what the business does.",
+      "speaker_name": "Andy Day",
+      "start_time": 68.23,
+      "end_time": 80.95
+    },
+    {
+      "text": "But happy to give you a bit of color as we go.",
+      "speaker_name": "Andy Day",
+      "start_time": 80.95,
+      "end_time": 84.78
+    },
+    {
+      "text": "Myself personally, I'm the CEO of Capital A and we're an M and A advisory firm for marketing services companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 85.82,
+      "end_time": 93.74
+    },
+    {
+      "text": "All of our clients are either buy or sell side services companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 93.82,
+      "end_time": 101.34
+    },
+    {
+      "text": "There's a bit of noise in the background.",
+      "speaker_name": "Andy Day",
+      "start_time": 101.34,
+      "end_time": 102.74
+    },
+    {
+      "text": "Sorry, must be.",
+      "speaker_name": "Andy Day",
+      "start_time": 102.74,
+      "end_time": 103.9
+    },
+    {
+      "text": "Must be you, Max.",
+      "speaker_name": "Andy Day",
+      "start_time": 104.62,
+      "end_time": 105.74
+    },
+    {
+      "text": "Yeah, sorry, I'm in the office, so.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 106.3,
+      "end_time": 109.42
+    },
+    {
+      "text": "A little bit of.",
+      "speaker_name": "Andy Day",
+      "start_time": 109.42,
+      "end_time": 110.14
+    },
+    {
+      "text": "Can't really do much about that.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 110.46,
+      "end_time": 111.9
+    },
+    {
+      "text": "No worries, no worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 112.54,
+      "end_time": 113.74
+    },
+    {
+      "text": "I couldn't hear myself talk just for a sec.",
+      "speaker_name": "Andy Day",
+      "start_time": 115.26,
+      "end_time": 116.94
+    },
+    {
+      "text": "Yeah, so we work both the buy and the sell side and we operate agencies co, which is our marketplace platform for sell side clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 117.5,
+      "end_time": 125.18
+    },
+    {
+      "text": "So, yeah, be happy to give you any more detail that you're looking for on today's call.",
+      "speaker_name": "Andy Day",
+      "start_time": 125.18,
+      "end_time": 132.54
+    },
+    {
+      "text": "But also our next steps really is to get information about what your strategy is at Samba currently so that we can guide our client before that meeting and give them as much information as possible to make it a valuable use of time for both sides.",
+      "speaker_name": "Andy Day",
+      "start_time": 132.54,
+      "end_time": 151.1
+    },
+    {
+      "text": "Yeah, definitely makes sense, I would say.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 153.26,
+      "end_time": 156.58
+    },
+    {
+      "text": "You know, for this call, I think I'll probably approach it from more of a financial lens and then Jane will probably approach it from more of an operational and product fit lens so I can kick things off.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 156.58,
+      "end_time": 169.5
+    },
+    {
+      "text": "First question, stable revenue growth 22 to 24.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 169.5,
+      "end_time": 173.42
+    },
+    {
+      "text": "What's causing the pretty significant downturn for 25?",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 173.42,
+      "end_time": 179.82
+    },
+    {
+      "text": "Yeah, so the business model for this company previously has been a marketing agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 180.78,
+      "end_time": 187.18
+    },
+    {
+      "text": "So the majority of the revenue that they've been pulling in is for the design work and the other sort of supplementary stuff that went around the platform that they operate.",
+      "speaker_name": "Andy Day",
+      "start_time": 187.18,
+      "end_time": 199.67
+    },
+    {
+      "text": "More recently, particularly in the last 12 months, they've been focused on converting the business into a SaaS business.",
+      "speaker_name": "Andy Day",
+      "start_time": 201.03,
+      "end_time": 207.59
+    },
+    {
+      "text": "And while they've been doing that, they've been moving away from the agency stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 208.47,
+      "end_time": 213.43
+    },
+    {
+      "text": "So the business is more profitable but less revenue coming in at the top.",
+      "speaker_name": "Andy Day",
+      "start_time": 213.43,
+      "end_time": 218.31
+    },
+    {
+      "text": "That said, they did also lose a big ish client which they feel is just, is just client churn.",
+      "speaker_name": "Andy Day",
+      "start_time": 219.35,
+      "end_time": 229.22
+    },
+    {
+      "text": "They had the client for quite a while and the relationship had sort of moved towards the end of the cycle and the client churned.",
+      "speaker_name": "Andy Day",
+      "start_time": 229.22,
+      "end_time": 238.98
+    },
+    {
+      "text": "But that did represent some revenue as well, as well as the agency work that they'd stopped doing.",
+      "speaker_name": "Andy Day",
+      "start_time": 239.059,
+      "end_time": 245.14
+    },
+    {
+      "text": "What percentage of the 6.3 or just, you know, high level numbers would be that agency component that you know, know now is no longer part of the business model?",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 245.94,
+      "end_time": 254.13
+    },
+    {
+      "text": "I haven't got the exact number in front of me.",
+      "speaker_name": "Andy Day",
+      "start_time": 256.37,
+      "end_time": 258.21
+    },
+    {
+      "text": "My understanding is it was about a million.",
+      "speaker_name": "Andy Day",
+      "start_time": 258.21,
+      "end_time": 261.01
+    },
+    {
+      "text": "So it was a million in revenue annually.",
+      "speaker_name": "Andy Day",
+      "start_time": 261.25,
+      "end_time": 263.25
+    },
+    {
+      "text": "So it was significant.",
+      "speaker_name": "Andy Day",
+      "start_time": 263.41,
+      "end_time": 264.45
+    },
+    {
+      "text": "But they have replaced a lot of that revenue with new clients and their pipeline is really, really strong.",
+      "speaker_name": "Andy Day",
+      "start_time": 265.97,
+      "end_time": 272.29
+    },
+    {
+      "text": "Really strong.",
+      "speaker_name": "Andy Day",
+      "start_time": 272.61,
+      "end_time": 273.25
+    },
+    {
+      "text": "So is the company now focusing more on building that direct relationship with brands versus agencies?",
+      "speaker_name": "iPhone jaein",
+      "start_time": 274.13,
+      "end_time": 281.01
+    },
+    {
+      "text": "And do, do you see that's how the revenue split is kind of pivoting towards like more direct brands versus agencies.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 281.73,
+      "end_time": 289.17
+    },
+    {
+      "text": "So they have different types of clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 291.25,
+      "end_time": 293.25
+    },
+    {
+      "text": "So yeah, they are growing the brand direct work, but they also have a lot of supermarkets and retail businesses that are their clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 295.409,
+      "end_time": 305.09
+    },
+    {
+      "text": "And then on top of that, the agencies, I guess I couldn't tell you definitely whether that is agencies per se, but certainly they're selling more licenses for accessing their platform and that's where the majority of their business now is going, is towards these licenses.",
+      "speaker_name": "Andy Day",
+      "start_time": 307.23,
+      "end_time": 324.27
+    },
+    {
+      "text": "Some of those will be marketing agencies.",
+      "speaker_name": "Andy Day",
+      "start_time": 324.83,
+      "end_time": 327.31
+    },
+    {
+      "text": "The business that they have allows marketing agencies to book media, physical media in store at supermarkets and that type of thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 327.87,
+      "end_time": 341.87
+    },
+    {
+      "text": "So, so just to give you a sort of brief overview, if you were say a vodka brand and you were looking to launch a new sort of flavored vodka, you would be able to look at historic marketing across lots of different stores and pick out the ones where they had the, the best vodka purchases.",
+      "speaker_name": "Andy Day",
+      "start_time": 341.87,
+      "end_time": 364.79
+    },
+    {
+      "text": "And then you'd be able to book in a, a campaign that would appear directly on the edges of shelves and you know, sort of real world artifacts, I don't know what you would call them exactly, but basically, you know, sort of cardboard stands and all of that sort of Stuff that comes with campaigns as well as in store media as well alongside of till stuff placed, you know, near the cashiers point, digital media around there as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 365.43,
+      "end_time": 398.41
+    },
+    {
+      "text": "So a lot of that would be agencies I think Jane, but I don't know the exact definition of those licensed clients.",
+      "speaker_name": "Andy Day",
+      "start_time": 398.41,
+      "end_time": 408.61
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 413.41,
+      "end_time": 413.81
+    },
+    {
+      "text": "You know, continuing on from my end, given the repositioning, you know, more as a SaaS product, what should we be thinking about in terms of gross margin dynamics as well as cash flow margin dynamics?",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 414.21,
+      "end_time": 426.74
+    },
+    {
+      "text": "So I'm not too sure about their gross margin.",
+      "speaker_name": "Andy Day",
+      "start_time": 433.62,
+      "end_time": 436.1
+    },
+    {
+      "text": "Again, I don't have all of the numbers directly in front of me and I'm not a financial guy, I'm more of the networking guy, the sales guy.",
+      "speaker_name": "Andy Day",
+      "start_time": 436.1,
+      "end_time": 445.06
+    },
+    {
+      "text": "I think that their margins are getting better.",
+      "speaker_name": "Andy Day",
+      "start_time": 446.96,
+      "end_time": 448.96
+    },
+    {
+      "text": "That's all I can really speak to with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 450.16,
+      "end_time": 452.88
+    },
+    {
+      "text": "Obviously their SaaS business is now the core focus of all of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 452.88,
+      "end_time": 458.08
+    },
+    {
+      "text": "The agency work and the other stuff is all being sunsetted quickly.",
+      "speaker_name": "Andy Day",
+      "start_time": 458.32,
+      "end_time": 462.72
+    },
+    {
+      "text": "So obviously as a software business and with less sort of humans involved in having to deliver the work, the margin.",
+      "speaker_name": "Andy Day",
+      "start_time": 462.72,
+      "end_time": 469.92
+    },
+    {
+      "text": "Sorry, I paused there, Max.",
+      "speaker_name": "Andy Day",
+      "start_time": 487.21,
+      "end_time": 488.41
+    },
+    {
+      "text": "It was gross margin.",
+      "speaker_name": "Andy Day",
+      "start_time": 488.41,
+      "end_time": 489.37
+    },
+    {
+      "text": "What was the second half of that question?",
+      "speaker_name": "Andy Day",
+      "start_time": 489.37,
+      "end_time": 490.81
+    },
+    {
+      "text": "Sorry, cash flow, you know, even if it's cash flow burning, neutral generating, that would be super helpful for us as well.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 490.89,
+      "end_time": 498.33
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 502.2,
+      "end_time": 502.52
+    },
+    {
+      "text": "So a lot of this is, I mean it is dynamic right now.",
+      "speaker_name": "Andy Day",
+      "start_time": 502.52,
+      "end_time": 505.52
+    },
+    {
+      "text": "So the business is going through a huge amount of change.",
+      "speaker_name": "Andy Day",
+      "start_time": 505.52,
+      "end_time": 508.2
+    },
+    {
+      "text": "So we are trying to stay on top of the change in their financials.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.2,
+      "end_time": 511.64
+    },
+    {
+      "text": "But I couldn't give you 100% accurate answer to cash burning or generating.",
+      "speaker_name": "Andy Day",
+      "start_time": 511.8,
+      "end_time": 519
+    },
+    {
+      "text": "My understanding is they are now generating more profits as they go forward.",
+      "speaker_name": "Andy Day",
+      "start_time": 519.24,
+      "end_time": 523.64
+    },
+    {
+      "text": "They've invested a huge amount of money in the platform over the last couple of years and it's really starting to bear fruit.",
+      "speaker_name": "Andy Day",
+      "start_time": 524.12,
+      "end_time": 531.42
+    },
+    {
+      "text": "You know that as more users come onto the platform they, they actually feed more information into it as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 532.22,
+      "end_time": 538.14
+    },
+    {
+      "text": "Once we give you a demo, Max, you'll really be able to see, I mean there's photographs of, of, you know, installations all across the world and it's all pretty much real time.",
+      "speaker_name": "Andy Day",
+      "start_time": 538.7,
+      "end_time": 548.3
+    },
+    {
+      "text": "It's a fascinating platform that they've got but, but it's, it's an improving business.",
+      "speaker_name": "Andy Day",
+      "start_time": 548.3,
+      "end_time": 554.2
+    },
+    {
+      "text": "It's an improving business, but it's a, it's a short track record versus their agency stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 554.36,
+      "end_time": 559.2
+    },
+    {
+      "text": "So yeah, we need to get you into the data room I think and have a look and having a look around the up to date financials.",
+      "speaker_name": "Andy Day",
+      "start_time": 559.2,
+      "end_time": 567.08
+    },
+    {
+      "text": "Yeah, just because there's, there's definitely sometimes a disconnect between growing EBITDA and you know, the actual financial performance of the business given, you know, different definitions of EBITDA and kind of understanding that bridge from their bottom line to cash flow really kind of will help us understand as a SaaS business they should be hopefully generating very high gross margins and then cash flow as well.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 567.48,
+      "end_time": 591.05
+    },
+    {
+      "text": "So I'd be interested in learning a little bit more about that for sure.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 591.61,
+      "end_time": 594.73
+    },
+    {
+      "text": "Yeah, I think it's a positive story there for sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 595.13,
+      "end_time": 598.65
+    },
+    {
+      "text": "Things are improving on a daily basis.",
+      "speaker_name": "Andy Day",
+      "start_time": 601.53,
+      "end_time": 604.43
+    },
+    {
+      "text": "Daily basis, you know, they're bringing in more, more and more business.",
+      "speaker_name": "Andy Day",
+      "start_time": 604.9,
+      "end_time": 607.54
+    },
+    {
+      "text": "I mean it really is an untapped market as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 607.62,
+      "end_time": 611.02
+    },
+    {
+      "text": "In the us the majority of the business that they actually have is Europe and uk, Australia, those types of markets.",
+      "speaker_name": "Andy Day",
+      "start_time": 611.02,
+      "end_time": 618.34
+    },
+    {
+      "text": "And there's an untapped market for them in the US because there's a huge gap between the sort of top tier owned, you know, Amazon and Walmart who have all of the, this type of software already.",
+      "speaker_name": "Andy Day",
+      "start_time": 618.42,
+      "end_time": 631.38
+    },
+    {
+      "text": "Obviously that's their bread and butter.",
+      "speaker_name": "Andy Day",
+      "start_time": 631.38,
+      "end_time": 633.65
+    },
+    {
+      "text": "And then there's a huge middle tier that really doesn't have access to this kind of software that they've created.",
+      "speaker_name": "Andy Day",
+      "start_time": 633.81,
+      "end_time": 641.09
+    },
+    {
+      "text": "And there's a huge amount of interest in it as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 641.09,
+      "end_time": 644.69
+    },
+    {
+      "text": "So it's a, it's a big play for them to enter the US market.",
+      "speaker_name": "Andy Day",
+      "start_time": 644.77,
+      "end_time": 648.37
+    },
+    {
+      "text": "So Andy, just so I just to confirm my understanding of the product.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 650.77,
+      "end_time": 654.85
+    },
+    {
+      "text": "So this company plays in the retail media ecosystem and works with agencies and brands to kind of optimize their media spend.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 655.57,
+      "end_time": 665.6
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 665.6,
+      "end_time": 665.92
+    },
+    {
+      "text": "And then they like the end result is they deliver successful campaigns, insights, generates insights, et cetera.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 666.24,
+      "end_time": 675.04
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 675.76,
+      "end_time": 676.6
+    },
+    {
+      "text": "So that is the sort of main sort of play.",
+      "speaker_name": "Andy Day",
+      "start_time": 676.6,
+      "end_time": 681.12
+    },
+    {
+      "text": "But there's a huge amount of data in there as well, Jane, that's being shared in, into the platform.",
+      "speaker_name": "Andy Day",
+      "start_time": 681.76,
+      "end_time": 687.28
+    },
+    {
+      "text": "They actually have data that comes from one of their supermarket partners as well, which they are responsible for.",
+      "speaker_name": "Andy Day",
+      "start_time": 687.92,
+      "end_time": 698.36
+    },
+    {
+      "text": "One of the.",
+      "speaker_name": "Andy Day",
+      "start_time": 698.36,
+      "end_time": 698.96
+    },
+    {
+      "text": "I don't know if you have these in the us.",
+      "speaker_name": "Andy Day",
+      "start_time": 699.12,
+      "end_time": 700.52
+    },
+    {
+      "text": "Well, I'm sure you do.",
+      "speaker_name": "Andy Day",
+      "start_time": 700.52,
+      "end_time": 701.44
+    },
+    {
+      "text": "I'm not sure the name of them, but they have a rewards card system that runs across lots of retailers across the uk.",
+      "speaker_name": "Andy Day",
+      "start_time": 701.44,
+      "end_time": 709.12
+    },
+    {
+      "text": "Yeah, like, like loyalty program.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 709.36,
+      "end_time": 711.04
+    },
+    {
+      "text": "Yes, exactly that, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 711.36,
+      "end_time": 712.72
+    },
+    {
+      "text": "So you can spend it in the gas station, you know, you can top it up in the gas station or in the supermarket.",
+      "speaker_name": "Andy Day",
+      "start_time": 712.72,
+      "end_time": 717.06
+    },
+    {
+      "text": "And it's across lots of different retailers as well, even though it's owned by one supermarket in particular.",
+      "speaker_name": "Andy Day",
+      "start_time": 717.06,
+      "end_time": 722.62
+    },
+    {
+      "text": "So they have a lot of re live data that goes into their systems as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 723.18,
+      "end_time": 729.34
+    },
+    {
+      "text": "And so they have, you know, different types of licenses for the information and also for the media part of it as well, booking in the media and all of that.",
+      "speaker_name": "Andy Day",
+      "start_time": 729.34,
+      "end_time": 741.86
+    },
+    {
+      "text": "The planning side of things.",
+      "speaker_name": "Andy Day",
+      "start_time": 741.86,
+      "end_time": 743.02
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 743.02,
+      "end_time": 743.58
+    },
+    {
+      "text": "So curious.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 743.78,
+      "end_time": 744.38
+    },
+    {
+      "text": "Do they bring in so do the clients of this company bring in those data or does the company actually license.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 744.38,
+      "end_time": 751.34
+    },
+    {
+      "text": "Those data so they have a relationship with the supermarket where the data is, is basically on their system that they have built the platform that it sits on.",
+      "speaker_name": "Andy Day",
+      "start_time": 751.34,
+      "end_time": 762.9
+    },
+    {
+      "text": "I don't understand 100% around how they get that data out, but obviously they're very careful with the way that that works.",
+      "speaker_name": "Andy Day",
+      "start_time": 764.74,
+      "end_time": 773.46
+    },
+    {
+      "text": "But, but it's all right.",
+      "speaker_name": "Andy Day",
+      "start_time": 773.46,
+      "end_time": 774.74
+    },
+    {
+      "text": "I'll be curious.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 776.74,
+      "end_time": 777.42
+    },
+    {
+      "text": "I don't know how much you know about Samba tv but we, we are a first party TV and streaming data company so that's sort of our most, our competitive advantage.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 777.42,
+      "end_time": 789.7
+    },
+    {
+      "text": "And I don't know if this company currently has any tv, OTT or streaming data integrated into the platform, but I think that's where we could potentially see an immediate value add as well.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 790.1,
+      "end_time": 801.82
+    },
+    {
+      "text": "And social synergy.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 802.22,
+      "end_time": 803.74
+    },
+    {
+      "text": "Yeah, we have spoke about this at length with, with other interested parties.",
+      "speaker_name": "Andy Day",
+      "start_time": 805.02,
+      "end_time": 809.62
+    },
+    {
+      "text": "So yeah, definitely there is, there is an ability to plug into that real time information that comes from other platforms that will inform buying habits, you know, live buying habits in actual retail stores.",
+      "speaker_name": "Andy Day",
+      "start_time": 809.62,
+      "end_time": 826.89
+    },
+    {
+      "text": "So yeah, that's definitely an interesting crossover there, Jane.",
+      "speaker_name": "Andy Day",
+      "start_time": 826.97,
+      "end_time": 831.53
+    },
+    {
+      "text": "I think once you get a demo of what they're doing, I think your brain's going to be popping with lots of ideas of how this can all plug in and work together.",
+      "speaker_name": "Andy Day",
+      "start_time": 831.53,
+      "end_time": 841.13
+    },
+    {
+      "text": "It'd be good to kind of understand a little bit more about how Samba TV see a shopper media platform plugging in as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 842.25,
+      "end_time": 851.96
+    },
+    {
+      "text": "So that, that's the kind of thing really that I want to take back to them and help inform them to, to get, to give you the best out that meeting when we get it set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 851.96,
+      "end_time": 862.96
+    },
+    {
+      "text": "Yeah, thanks Andy.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 869.6,
+      "end_time": 870.8
+    },
+    {
+      "text": "One more question on like numbers metrics, if you have anything offhand retention.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 871.04,
+      "end_time": 876.48
+    },
+    {
+      "text": "So you've talked about kind of the big client churn, but maintaining growing the SaaS customer base.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 877.55,
+      "end_time": 885.47
+    },
+    {
+      "text": "It would be great to understand kind of from a gross and net retention standpoint, kind of what the business is looking like as well.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 885.79,
+      "end_time": 892.59
+    },
+    {
+      "text": "Yeah, I'll have to get these for you Max, but I can certainly dig into that again.",
+      "speaker_name": "Andy Day",
+      "start_time": 896.43,
+      "end_time": 902.31
+    },
+    {
+      "text": "I've only got like a general understanding of, of what that looks like, but my understanding is that their retention has been really, really good.",
+      "speaker_name": "Andy Day",
+      "start_time": 902.31,
+      "end_time": 910.01
+    },
+    {
+      "text": "Obviously outside of this one larger client that did churn, they now are bringing on board a lot of much smaller licenses.",
+      "speaker_name": "Andy Day",
+      "start_time": 910.25,
+      "end_time": 919.65
+    },
+    {
+      "text": "Sometimes they're selling like 50 licenses at a time, but they're keeping those, those new clients on for, for a good period or I don't think they've got much churn at all.",
+      "speaker_name": "Andy Day",
+      "start_time": 919.65,
+      "end_time": 932.01
+    },
+    {
+      "text": "But, but those sorts of numbers I can make sure.",
+      "speaker_name": "Andy Day",
+      "start_time": 932.17,
+      "end_time": 935.03
+    },
+    {
+      "text": "They have to hand for the next meeting.",
+      "speaker_name": "Andy Day",
+      "start_time": 935.03,
+      "end_time": 937.23
+    },
+    {
+      "text": "So that, that can be an answer.",
+      "speaker_name": "Andy Day",
+      "start_time": 937.31,
+      "end_time": 939.71
+    },
+    {
+      "text": "Yeah, definitely a P and L. Definitely an understanding of cash flow dynamics.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 940.35,
+      "end_time": 945.31
+    },
+    {
+      "text": "Definitely some retention metrics as well, you know, quarter to quarter.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 946.19,
+      "end_time": 950.669
+    },
+    {
+      "text": "Yeah, I think those would be pretty standard for us to want to look through, you know, prior to, you know, a full engagement here and then.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 952.03,
+      "end_time": 960.84
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 960.84,
+      "end_time": 961.32
+    },
+    {
+      "text": "Understanding of the recurring nature of revenue, kind of what percent does that look like as well would be super helpful.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 961.64,
+      "end_time": 969.24
+    },
+    {
+      "text": "Yeah, a lot, a lot of that will be.",
+      "speaker_name": "Andy Day",
+      "start_time": 970.04,
+      "end_time": 971.8
+    },
+    {
+      "text": "Have you had the IM already?",
+      "speaker_name": "Andy Day",
+      "start_time": 972.12,
+      "end_time": 973.6
+    },
+    {
+      "text": "I don't think you have.",
+      "speaker_name": "Andy Day",
+      "start_time": 973.6,
+      "end_time": 974.36
+    },
+    {
+      "text": "Have you.",
+      "speaker_name": "Andy Day",
+      "start_time": 974.36,
+      "end_time": 974.84
+    },
+    {
+      "text": "A lot of that will, will be in the im.",
+      "speaker_name": "Andy Day",
+      "start_time": 974.84,
+      "end_time": 977.24
+    },
+    {
+      "text": "But also we've got all of that stuff in the data room as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 977.96,
+      "end_time": 981.04
+    },
+    {
+      "text": "But let's get a call set up first because I really want them to show you what they actually do.",
+      "speaker_name": "Andy Day",
+      "start_time": 981.04,
+      "end_time": 987.97
+    },
+    {
+      "text": "I mean that's the thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 987.97,
+      "end_time": 989.41
+    },
+    {
+      "text": "Just on the whole sort of fit with Samba.",
+      "speaker_name": "Andy Day",
+      "start_time": 990.37,
+      "end_time": 992.73
+    },
+    {
+      "text": "Could you give me a bit of background how you see this fitting together with what you guys do?",
+      "speaker_name": "Andy Day",
+      "start_time": 992.73,
+      "end_time": 998.13
+    },
+    {
+      "text": "Because yeah, Jane, I did have a good look at your website and I saw obviously your focus is around streaming TVs so it'd be good to understand how you see this working.",
+      "speaker_name": "Andy Day",
+      "start_time": 998.85,
+      "end_time": 1008.77
+    },
+    {
+      "text": "Yeah, sure.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1009.57,
+      "end_time": 1010.29
+    },
+    {
+      "text": "So at the core, Samba tv, we are a data company that collects not just TV but streaming and linear data, but also game and people play it on their smart TV.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1010.53,
+      "end_time": 1021.73
+    },
+    {
+      "text": "And we have direct relationships with OEMs or TV manufacturers like Sony, Panasonic, Vestel, etc globally.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1022.21,
+      "end_time": 1031.33
+    },
+    {
+      "text": "So Samba TV, we are currently live, meaning we productize our data licensing as well as our like tune in reports, insights, etc in eight countries countries.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1031.41,
+      "end_time": 1043.189
+    },
+    {
+      "text": "So us, Canada, uk, France, Italy, Germany, Australia and we'll be launching soon in India, Japan and Mexico and entering the Latin market as well.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1043.829,
+      "end_time": 1059.429
+    },
+    {
+      "text": "So we collect household level TV data from over 48 million plus devices globally.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1060.309,
+      "end_time": 1069.28
+    },
+    {
+      "text": "So that's sort of our, the core of our business.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1069.6,
+      "end_time": 1072.32
+    },
+    {
+      "text": "And then we also did measurement, audience, product as well as identity graph.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1072.8,
+      "end_time": 1079.92
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1080.96,
+      "end_time": 1081.8
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1081.8,
+      "end_time": 1082.16
+    },
+    {
+      "text": "Okay, so it's, it's a kind of ability for you guys to plug into live supermarket data, I guess, or retail data.",
+      "speaker_name": "Andy Day",
+      "start_time": 1082.64,
+      "end_time": 1094
+    },
+    {
+      "text": "That's what you're looking for.",
+      "speaker_name": "Andy Day",
+      "start_time": 1094,
+      "end_time": 1095.04
+    },
+    {
+      "text": "Yeah, so I think where we potentially see a synergy here is again we have the technology to collect all those TV viewership and ad exposure data and that can be complemented with the retail purchasing data or whatever other retail data that you guys have to create that full closed loop attribution and picture of what the consumers are doing end to end.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1096.33,
+      "end_time": 1121.15
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1122.82,
+      "end_time": 1123.46
+    },
+    {
+      "text": "Yeah, that's perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1123.46,
+      "end_time": 1124.42
+    },
+    {
+      "text": "Okay, fantastic.",
+      "speaker_name": "Andy Day",
+      "start_time": 1124.98,
+      "end_time": 1126.1
+    },
+    {
+      "text": "Well look, there's clearly a really good Opportunity here.",
+      "speaker_name": "Andy Day",
+      "start_time": 1126.1,
+      "end_time": 1129.78
+    },
+    {
+      "text": "So I would love to get a call set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1129.86,
+      "end_time": 1132.62
+    },
+    {
+      "text": "Would it be you, Max, and you, Jane, yourself that would, that would be involved in the next steps to get to know what the product does?",
+      "speaker_name": "Andy Day",
+      "start_time": 1132.62,
+      "end_time": 1141.7
+    },
+    {
+      "text": "Yeah, we might have another person from our end as well help evaluate.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1143.06,
+      "end_time": 1147.22
+    },
+    {
+      "text": "So it would be probably the three of us from the Samba.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1147.6,
+      "end_time": 1150.28
+    },
+    {
+      "text": "And I know this week is tough with ad week here in New York, but we can look to schedule something for maybe next week.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1150.28,
+      "end_time": 1156.48
+    },
+    {
+      "text": "Okay, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1157.2,
+      "end_time": 1157.92
+    },
+    {
+      "text": "Yeah, early next week would be fantastic.",
+      "speaker_name": "Andy Day",
+      "start_time": 1157.92,
+      "end_time": 1159.68
+    },
+    {
+      "text": "High level.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1160.96,
+      "end_time": 1161.56
+    },
+    {
+      "text": "What's the process looking like?",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1161.56,
+      "end_time": 1163.08
+    },
+    {
+      "text": "What's the desire for cash versus equity consideration?",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1163.08,
+      "end_time": 1167.2
+    },
+    {
+      "text": "Do they want to stand alone in a larger entity and more or less work out of a venture studio, or are they willing to be fully conjoined into a larger organization and be fully integrated in that sense?",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1168.56,
+      "end_time": 1181.08
+    },
+    {
+      "text": "They're very flexible, but I think overall they would prefer to join a larger business and be able to operate across that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1182.52,
+      "end_time": 1190.84
+    },
+    {
+      "text": "They're very ambitious for the product.",
+      "speaker_name": "Andy Day",
+      "start_time": 1191,
+      "end_time": 1194.36
+    },
+    {
+      "text": "Stuart, who is, who heads up the company, is really passionate about the product that they're building and, and so he's really looking for a long term vehicle to buy into and be part of and help him realize the vision that he has for the products that they're building.",
+      "speaker_name": "Andy Day",
+      "start_time": 1195.24,
+      "end_time": 1213.24
+    },
+    {
+      "text": "So in terms of cash versus equity, again, there's definitely some flexibility there, Max.",
+      "speaker_name": "Andy Day",
+      "start_time": 1213.4,
+      "end_time": 1220.68
+    },
+    {
+      "text": "But just to give you a bit of background, there is another founder that's left the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1221.08,
+      "end_time": 1224.84
+    },
+    {
+      "text": "He got cancer three or four years ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 1225.48,
+      "end_time": 1228.44
+    },
+    {
+      "text": "It's completely clear now.",
+      "speaker_name": "Andy Day",
+      "start_time": 1228.44,
+      "end_time": 1229.96
+    },
+    {
+      "text": "But he's now on his life's mission and he's, he wants to be doing something completely different.",
+      "speaker_name": "Andy Day",
+      "start_time": 1229.96,
+      "end_time": 1234.9
+    },
+    {
+      "text": "So he stepped out of the business a while ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 1235.7,
+      "end_time": 1238.18
+    },
+    {
+      "text": "But he is looking to cash out his equity and not carry anything over.",
+      "speaker_name": "Andy Day",
+      "start_time": 1238.82,
+      "end_time": 1243.22
+    },
+    {
+      "text": "But it's a mix and there are two other founders that are staying in.",
+      "speaker_name": "Andy Day",
+      "start_time": 1244.02,
+      "end_time": 1247.54
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1248.5,
+      "end_time": 1248.899
+    },
+    {
+      "text": "Are you able to disclose the name of the company or would that come after.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1249.46,
+      "end_time": 1253.06
+    },
+    {
+      "text": "No, I'm happy to disclose it.",
+      "speaker_name": "Andy Day",
+      "start_time": 1254.1,
+      "end_time": 1256.82
+    },
+    {
+      "text": "So they're called the Shopper Group.",
+      "speaker_name": "Andy Day",
+      "start_time": 1256.82,
+      "end_time": 1258.1
+    },
+    {
+      "text": "Let me see if I can just send you a link because there's a few companies that are similarly named, but I just throw one into here.",
+      "speaker_name": "Andy Day",
+      "start_time": 1259.57,
+      "end_time": 1266.21
+    },
+    {
+      "text": "So that's there for you, Max, so you can click straight into that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1271.01,
+      "end_time": 1273.77
+    },
+    {
+      "text": "So it's the shoppergroup.com and so they have three sort of different brands, base RMI and the shopper Agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 1273.77,
+      "end_time": 1282.29
+    },
+    {
+      "text": "So the base operating system, which is kind of the Plan Hub Live brand that they're now working with, but the base operating system is really the SaaS part of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1282.77,
+      "end_time": 1294.44
+    },
+    {
+      "text": "So yeah, if you, if you look at PlanHub Live as well, that's kind of where their new login lives.",
+      "speaker_name": "Andy Day",
+      "start_time": 1296.2,
+      "end_time": 1304.68
+    },
+    {
+      "text": "Did you get that?",
+      "speaker_name": "Andy Day",
+      "start_time": 1306.76,
+      "end_time": 1307.56
+    },
+    {
+      "text": "Yeah, I got it.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1307.96,
+      "end_time": 1308.8
+    },
+    {
+      "text": "Thank you so much.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1308.8,
+      "end_time": 1309.28
+    },
+    {
+      "text": "Yeah, it'll be good for us to kind of, like, review and get.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1309.28,
+      "end_time": 1311.64
+    },
+    {
+      "text": "Understand the company better prior to the demo, but I think, as a next step, we'll get the NDA going and then get any financials for Max to evaluate, and it can set up time for a demo to better understand the company.",
+      "speaker_name": "iPhone jaein",
+      "start_time": 1311.96,
+      "end_time": 1326.79
+    },
+    {
+      "text": "Yeah, perfect.",
+      "speaker_name": "Andy Day",
+      "start_time": 1327.43,
+      "end_time": 1328.51
+    },
+    {
+      "text": "Okay, so I'll.",
+      "speaker_name": "Andy Day",
+      "start_time": 1328.51,
+      "end_time": 1329.47
+    },
+    {
+      "text": "I'll get somebody from my team to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1329.47,
+      "end_time": 1331.51
+    },
+    {
+      "text": "To share everything that we can ahead of that meeting with you, and then let's get a date for early next week so you can get that demo.",
+      "speaker_name": "Andy Day",
+      "start_time": 1332.15,
+      "end_time": 1341.27
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1343.71,
+      "end_time": 1343.95
+    },
+    {
+      "text": "Thanks, Andy.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1344.67,
+      "end_time": 1345.55
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1345.95,
+      "end_time": 1346.35
+    },
+    {
+      "text": "Brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 1346.35,
+      "end_time": 1346.83
+    },
+    {
+      "text": "All right, Great to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1347.31,
+      "end_time": 1348.39
+    },
+    {
+      "text": "Have a great day, guys.",
+      "speaker_name": "Andy Day",
+      "start_time": 1348.39,
+      "end_time": 1349.39
+    },
+    {
+      "text": "Speak soon.",
+      "speaker_name": "Andy Day",
+      "start_time": 1349.39,
+      "end_time": 1349.95
+    },
+    {
+      "text": "Likewise.",
+      "speaker_name": "Hawkins (NYC 200 Madison, 20)",
+      "start_time": 1349.95,
+      "end_time": 1350.59
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "Andy Day",
+      "start_time": 1350.91,
+      "end_time": 1351.55
+    },
+    {
+      "text": "Thanks a lot.",
+      "speaker_name": "Andy Day",
+      "start_time": 1351.55,
+      "end_time": 1352.27
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Shopper Group",
+      "SaaS platform",
+      "retail media",
+      "client retention",
+      "data integration",
+      "financial metrics"
+    ],
+    "action_items": "\n**Andy Day**\nShare Shopper Group link and initial information with Samba TV team (20:54)\nCoordinate sending NDA and financial data for Samba TV review ahead of demo (21:47)\nArrange demo session with Shopper Group and Samba TV team early next week (22:07)\n\n**Max Shiner**\nReview financials, retention metrics, cash flow data from data room/IM provided by Capital A (14:56)\nPrepare to evaluate SaaS business metrics and financial performance ahead of further discussions (09:27)\n\n**Jane**\nProvide input on strategic partnership and product fit perspectives for next demo and discussions (02:33)\nLead Samba TV’s insights on integrating TV/OTT/streaming data with Shopper Group platform (12:56)\n",
+    "outline": null,
+    "overview": "- Capital A specializes in buy and sell side marketing services for companies, aiming to enhance marketplace dynamics for sell side clients.  \n- Shopper Group is transitioning from a marketing agency to a SaaS platform, with a planned revenue decline in 2025 offset by increased profitability.  \n- The new SaaS platform will enable clients to analyze historic retail marketing data, enhancing media placements based on consumer purchasing patterns.  \n- The shift to a SaaS model is projected to yield higher gross margins; the company is heavily investing in this transition with a robust pipeline.  \n- There is a significant opportunity for Shopper Group to expand its footprint in the U.S. market, currently focusing on Europe, the UK, and Australia.  \n- Integration of real-time shopper data will improve campaign insights and strategic planning within the retail media ecosystem.  \n- A potential synergy exists between Shopper Group and Samba TV, leveraging first-party TV and streaming data for better attribution of ad exposure to retail purchases.  \n- Shopper Group demonstrates strong SaaS retention metrics with low churn rates, successfully acquiring many smaller license clients.  \n- Capital A will provide detailed financials and retention metrics in preparation for the next meeting to evaluate the partnership potential.  \n- Samba TV collects data from over 48 million devices, enabling expanded audience measurement and identity graphs globally, offering valuable integration possibilities with Shopper Group’s data.",
+    "short_summary": "The company is shifting from a marketing agency model to a SaaS-focused business, improving profitability while experiencing lower overall revenue. The agency component, previously generating around $1 million annually, is being phased out to prioritize SaaS growth. Despite a recent client churn affecting revenue, there is a strong sales pipeline in place. The SaaS segment is becoming the core of the business, requiring fewer human resources and enhancing profit margins. The retail media platform enables brands and agencies to optimize marketing campaigns using real-time data. A partnership with Samba TV is being explored to leverage data on TV ad exposure and in-store purchasing, aiming to create a closed-loop attribution model. Further financial metrics are needed for due diligence, and next steps include a demo and financial review to evaluate product fit and strategic alignment.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K6DWB2KMRQFV9KHEGA81EPJ6",
+  "audio_url": "https://cdn.fireflies.ai/01K6DWB2KMRQFV9KHEGA81EPJ6/audio.mp3?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzZEV0IyS01SUUZWOUtIRUdBODFFUEo2L2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=PmsrjEF9s5bmBl6UWjKPPKGktwCmwkAvLbqWVxr75xrMxU2I8JBF8XmOn3UOmgfiezy9Xg7iaMXdi9AE8SKIRQiq1U-1yjqZcWuAGyf3LHlna6kijZXtdnDH374Qxvn0irKTHZkTqFVRALk7FOD7OBYFzEYDFinH5kKNy8qYRjOhSiaCjZ7cQrWxHGm-92Kat3GbEUUOZM3Gy~w3nxNUv9hCMQzKgl0bHbfXPfmhSz60eetDwi~-ThPvnR3d7YEyFEPl8k6cK1eb4VRPncfkr9wmq02JmjmjmxGEJlffyS6NldacJSdlwFqTd-m4U~O3A92DveiTDkEXjKgGSpokLg__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K6DWB2KMRQFV9KHEGA81EPJ6/video.mp4?Expires=1773220843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzZEV0IyS01SUUZWOUtIRUdBODFFUEo2L3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0M319fV19&Signature=Cmm7MLxCmNZcbCbPuckimulrNUwJWJqddFzMKYz7CODC28W5bNA4bQDfKJehEj4ivZWcPXZw0O1vFAUtNP-cLWgc90zIjPiMWU4FClxkwjBXmoFRr5aqokaeY2IQv-5K1gj7LT1tshdr-3eLQe~X1FXJbYtlv3KufwZyB3rW4svCYWZPh8uoVCSnK78KW8xp163bOQgpDCopxpsDCCMzgOW3r19dAKjYPneiXk28hqlG8vKgKoqZNRhW3W2VnTpR9OHjX5TIJuYRYLWgFDCsWkE77hNhThp4KErwAPZ85FPomfNti6KJj3mp8d8sbNVJLPqJZVF4AqQEto0yhNphCQ__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

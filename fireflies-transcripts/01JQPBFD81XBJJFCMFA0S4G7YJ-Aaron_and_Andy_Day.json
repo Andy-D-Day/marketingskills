@@ -1,0 +1,2656 @@
+{
+  "id": "01JQPBFD81XBJJFCMFA0S4G7YJ",
+  "title": "Aaron and Andy Day",
+  "date": 1743433200000,
+  "dateString": "2025-03-31T15:00:00.000Z",
+  "duration": 40.5099983215332,
+  "participants": [
+    "andrew.day@capitala.co,aaron@thisisround.com,andy.day@capitala.co",
+    "aaron@thisisround.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "andrew.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "aaron@thisisround.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This meeting is being recorded.",
+      "speaker_name": "Andy Day",
+      "start_time": 0.24,
+      "end_time": 2.06
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "aaronsayer",
+      "start_time": 16.48,
+      "end_time": 17.26
+    },
+    {
+      "text": "Hey, Aaron, how you doing?",
+      "speaker_name": "Andy Day",
+      "start_time": 18.64,
+      "end_time": 19.864
+    },
+    {
+      "text": "I'm good, how are you?",
+      "speaker_name": "aaronsayer",
+      "start_time": 19.952,
+      "end_time": 21.06
+    },
+    {
+      "text": "Yeah, I'm good, thank you, I'm good.",
+      "speaker_name": "Andy Day",
+      "start_time": 22,
+      "end_time": 23.56
+    },
+    {
+      "text": "Whereabouts are you calling from?",
+      "speaker_name": "Andy Day",
+      "start_time": 23.6,
+      "end_time": 24.84
+    },
+    {
+      "text": "Good stuff.",
+      "speaker_name": "aaronsayer",
+      "start_time": 24.96,
+      "end_time": 25.9
+    },
+    {
+      "text": "We're in London, so just now Old Street.",
+      "speaker_name": "aaronsayer",
+      "start_time": 26.48,
+      "end_time": 28.66
+    },
+    {
+      "text": "Ah, brilliant.",
+      "speaker_name": "Andy Day",
+      "start_time": 29.26,
+      "end_time": 31
+    },
+    {
+      "text": "How about you?",
+      "speaker_name": "aaronsayer",
+      "start_time": 31.66,
+      "end_time": 32.72
+    },
+    {
+      "text": "Well, I'm in Somerset but I know Old street very well.",
+      "speaker_name": "Andy Day",
+      "start_time": 33.9,
+      "end_time": 36.436
+    },
+    {
+      "text": "Very nice.",
+      "speaker_name": "aaronsayer",
+      "start_time": 36.508,
+      "end_time": 37.4
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 38.78,
+      "end_time": 39.444
+    },
+    {
+      "text": "Enjoying the sunshine out in the middle of nowhere.",
+      "speaker_name": "Andy Day",
+      "start_time": 39.572,
+      "end_time": 42.44
+    },
+    {
+      "text": "Yeah, yeah, it's nice, yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 42.86,
+      "end_time": 45.732
+    },
+    {
+      "text": "I grew up in Devon so I kind of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 45.796,
+      "end_time": 47.604
+    },
+    {
+      "text": "Yeah, I miss it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 47.772,
+      "end_time": 49.04
+    },
+    {
+      "text": "Every now and again go down there and get a breath of fresh air.",
+      "speaker_name": "aaronsayer",
+      "start_time": 49.34,
+      "end_time": 52.948
+    },
+    {
+      "text": "But yeah, yeah, good stuff.",
+      "speaker_name": "Andy Day",
+      "start_time": 53.004,
+      "end_time": 56.53
+    },
+    {
+      "text": "Ah, Devin's really nice as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 56.69,
+      "end_time": 59.23
+    },
+    {
+      "text": "Nice one.",
+      "speaker_name": "Andy Day",
+      "start_time": 60.89,
+      "end_time": 61.538
+    },
+    {
+      "text": "Well, look, I've been interested in speaking to you for a while, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 61.594,
+      "end_time": 64.85
+    },
+    {
+      "text": "Interested to get.",
+      "speaker_name": "Andy Day",
+      "start_time": 64.97,
+      "end_time": 66.11
+    },
+    {
+      "text": "Get your assigned NDA through.",
+      "speaker_name": "Andy Day",
+      "start_time": 68.01,
+      "end_time": 69.89
+    },
+    {
+      "text": "I think I spoke to somebody else at your place last time there.",
+      "speaker_name": "Andy Day",
+      "start_time": 69.93,
+      "end_time": 74.242
+    },
+    {
+      "text": "Is it Vishal?",
+      "speaker_name": "Andy Day",
+      "start_time": 74.266,
+      "end_time": 75.298
+    },
+    {
+      "text": "Oh, possibly, yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 75.474,
+      "end_time": 76.95
+    },
+    {
+      "text": "But yeah, all good.",
+      "speaker_name": "Andy Day",
+      "start_time": 79.05,
+      "end_time": 80.274
+    },
+    {
+      "text": "So you've signed a few NDAs on Agencies Co, which is our platform.",
+      "speaker_name": "Andy Day",
+      "start_time": 80.362,
+      "end_time": 85.73
+    },
+    {
+      "text": "It's probably.",
+      "speaker_name": "Andy Day",
+      "start_time": 86.23,
+      "end_time": 86.894
+    },
+    {
+      "text": "I don't know how much you know about the rest of the business, but it's probably good to give you a quick overview and where you're at.",
+      "speaker_name": "Andy Day",
+      "start_time": 86.942,
+      "end_time": 94.89
+    },
+    {
+      "text": "Yeah, so we are, we're capital A and we are an M and A advisory for marketing services companies.",
+      "speaker_name": "Andy Day",
+      "start_time": 95.51,
+      "end_time": 101.47
+    },
+    {
+      "text": "So we work both on the buy and the sell side, but we have a marketplace, agencies co for.",
+      "speaker_name": "Andy Day",
+      "start_time": 101.59,
+      "end_time": 107.706
+    },
+    {
+      "text": "For sellers, but also we work with buyers as well, helping them to find the targets for the types of agencies that they're looking to acquire.",
+      "speaker_name": "Andy Day",
+      "start_time": 107.798,
+      "end_time": 118.162
+    },
+    {
+      "text": "So those could be marketing agencies, high growth or ambitious agencies or with private equity as well directly and investment teams.",
+      "speaker_name": "Andy Day",
+      "start_time": 118.226,
+      "end_time": 127.75
+    },
+    {
+      "text": "So the good thing is we get to see both sides of the table and we know what offers look like, good ones and bad ones.",
+      "speaker_name": "Andy Day",
+      "start_time": 128.41,
+      "end_time": 135.35
+    },
+    {
+      "text": "Um, but you guys are interested in making some acquisitions yourself?",
+      "speaker_name": "Andy Day",
+      "start_time": 135.67,
+      "end_time": 140.45
+    },
+    {
+      "text": "Yeah, so yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 140.95,
+      "end_time": 142.894
+    },
+    {
+      "text": "Be good to sort of learn a little bit more about what it is that you're trying to achieve and how we can help you do that.",
+      "speaker_name": "Andy Day",
+      "start_time": 142.942,
+      "end_time": 149.13
+    },
+    {
+      "text": "Yeah, so I guess, I guess I'll give a bit of a background of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 149.51,
+      "end_time": 152.89
+    },
+    {
+      "text": "Yeah, around.",
+      "speaker_name": "aaronsayer",
+      "start_time": 153.27,
+      "end_time": 154.238
+    },
+    {
+      "text": "So we.",
+      "speaker_name": "aaronsayer",
+      "start_time": 154.374,
+      "end_time": 155.93
+    },
+    {
+      "text": "When did you.",
+      "speaker_name": "aaronsayer",
+      "start_time": 156.39,
+      "end_time": 157.022
+    },
+    {
+      "text": "Did you speak to Vishal?",
+      "speaker_name": "aaronsayer",
+      "start_time": 157.046,
+      "end_time": 157.886
+    },
+    {
+      "text": "Did you say.",
+      "speaker_name": "aaronsayer",
+      "start_time": 157.918,
+      "end_time": 158.542
+    },
+    {
+      "text": "Was that recently?",
+      "speaker_name": "aaronsayer",
+      "start_time": 158.646,
+      "end_time": 159.47
+    },
+    {
+      "text": "Was that a while ago?",
+      "speaker_name": "aaronsayer",
+      "start_time": 159.59,
+      "end_time": 160.89
+    },
+    {
+      "text": "September 23rd.",
+      "speaker_name": "Andy Day",
+      "start_time": 162.4,
+      "end_time": 163.816
+    },
+    {
+      "text": "So it's quite a while ago.",
+      "speaker_name": "Andy Day",
+      "start_time": 163.968,
+      "end_time": 165.304
+    },
+    {
+      "text": "Okay, yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 165.392,
+      "end_time": 166.104
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 166.152,
+      "end_time": 167.1
+    },
+    {
+      "text": "I guess things have moved on a bit since then anyway.",
+      "speaker_name": "aaronsayer",
+      "start_time": 167.44,
+      "end_time": 169.512
+    },
+    {
+      "text": "So, yeah, we're.",
+      "speaker_name": "aaronsayer",
+      "start_time": 169.576,
+      "end_time": 170.6
+    },
+    {
+      "text": "Yeah, an agency, we're based in London, working mainly in the music industry and we also have an office in Medellin, Colombia, servicing the kind of Latin American clients which again is mostly mostly music space.",
+      "speaker_name": "aaronsayer",
+      "start_time": 170.76,
+      "end_time": 187.47
+    },
+    {
+      "text": "And then we have a software development team that.",
+      "speaker_name": "aaronsayer",
+      "start_time": 187.64,
+      "end_time": 191.554
+    },
+    {
+      "text": "That's kind of remote and yeah, building kind of tools and platforms internally.",
+      "speaker_name": "aaronsayer",
+      "start_time": 191.642,
+      "end_time": 198.114
+    },
+    {
+      "text": "So we have a kind of white labeled campaign management software which we've just started.",
+      "speaker_name": "aaronsayer",
+      "start_time": 198.162,
+      "end_time": 202.43
+    },
+    {
+      "text": "So we have internal campaign management software and we just started kind of licensing that out to some of our label clients.",
+      "speaker_name": "aaronsayer",
+      "start_time": 202.89,
+      "end_time": 209.938
+    },
+    {
+      "text": "And we, we have a kind of micro influencer tool which is a bit like.",
+      "speaker_name": "aaronsayer",
+      "start_time": 210.114,
+      "end_time": 216.716
+    },
+    {
+      "text": "So it's an automated campaign setup tool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 216.868,
+      "end_time": 219.068
+    },
+    {
+      "text": "So you kind of, it's a bit like Facebook ads but for influencers.",
+      "speaker_name": "aaronsayer",
+      "start_time": 219.124,
+      "end_time": 221.868
+    },
+    {
+      "text": "So you put your budget, your targeting things, targeting requirements, run dates and then our tool kind of like automatically search through our platform.",
+      "speaker_name": "aaronsayer",
+      "start_time": 221.884,
+      "end_time": 231.052
+    },
+    {
+      "text": "Micro influencers send them brief and then we have a kind of approval, automated approval flow.",
+      "speaker_name": "aaronsayer",
+      "start_time": 231.116,
+      "end_time": 236.236
+    },
+    {
+      "text": "So it's very hands off again.",
+      "speaker_name": "aaronsayer",
+      "start_time": 236.428,
+      "end_time": 238.46
+    },
+    {
+      "text": "Yeah, so that's for sort of micro campaigns.",
+      "speaker_name": "aaronsayer",
+      "start_time": 238.5,
+      "end_time": 242.15
+    },
+    {
+      "text": "And then we have the kind of service part of the agency which is yeah running campaigns for our clients.",
+      "speaker_name": "aaronsayer",
+      "start_time": 243.13,
+      "end_time": 249.394
+    },
+    {
+      "text": "Guess the trends that we're seeing are a move amongst our clients into like in housing parts of this and centralizing their sort of influencer marketing strategies.",
+      "speaker_name": "aaronsayer",
+      "start_time": 249.522,
+      "end_time": 262.322
+    },
+    {
+      "text": "If you like kind of backtrack three years or so.",
+      "speaker_name": "aaronsayer",
+      "start_time": 262.386,
+      "end_time": 266.27
+    },
+    {
+      "text": "Labels weren't really structured.",
+      "speaker_name": "aaronsayer",
+      "start_time": 266.73,
+      "end_time": 268.338
+    },
+    {
+      "text": "Music engine wasn't really structured to be able to like handle the volume of payments, the volume of creators, just the, the pure like volume of work that was that that goes in, in running these campaigns effectively.",
+      "speaker_name": "aaronsayer",
+      "start_time": 268.434,
+      "end_time": 279.71
+    },
+    {
+      "text": "So the role of agencies in that instance is quite clear.",
+      "speaker_name": "aaronsayer",
+      "start_time": 279.79,
+      "end_time": 283.55
+    },
+    {
+      "text": "And over time labels are wanting to in house a lot of the strategy and manage these things and so they're a lot more keen to use tools and technologies and that's where we're seeing our role with them is going to be more of a kind of software rather than like a managed service.",
+      "speaker_name": "aaronsayer",
+      "start_time": 283.67,
+      "end_time": 301.45
+    },
+    {
+      "text": "So I guess what we're kind of looking to do is continue, continue kind of down that path.",
+      "speaker_name": "aaronsayer",
+      "start_time": 301.75,
+      "end_time": 306.654
+    },
+    {
+      "text": "And then we're also looking to expand the agency and, and look at new industries that we could kind of work within.",
+      "speaker_name": "aaronsayer",
+      "start_time": 306.702,
+      "end_time": 315.214
+    },
+    {
+      "text": "Kind of leveraging our music expertise and understanding of how trends form and working with micro influencers.",
+      "speaker_name": "aaronsayer",
+      "start_time": 315.302,
+      "end_time": 321.918
+    },
+    {
+      "text": "So we work, we work with about, we push out about 50,000 posts a year across yeah across our kind of range of tools which works out yeah about four or five thousand a month.",
+      "speaker_name": "aaronsayer",
+      "start_time": 321.934,
+      "end_time": 336.704
+    },
+    {
+      "text": "And so we can kind of handle like a huge scale and we're looking to work to leverage that to work with other industries.",
+      "speaker_name": "aaronsayer",
+      "start_time": 336.872,
+      "end_time": 345.408
+    },
+    {
+      "text": "So I guess where M and A comes into that we're looking at potentially looking at other agencies where we can kind of plug that are purely service that we can kind of leverage some of our tools and things that we've already built and open us up to kind of new Industries as opposed to going in completely cold into those places.",
+      "speaker_name": "aaronsayer",
+      "start_time": 345.584,
+      "end_time": 362.9
+    },
+    {
+      "text": "And there's a kind of the general trend that we see is around smaller influencers at scale and that's what all of our software and everything has been designed to do and that's been what the music industry has kind of demanded from these types of campaigns.",
+      "speaker_name": "aaronsayer",
+      "start_time": 363.96,
+      "end_time": 378.048
+    },
+    {
+      "text": "So I think we're in a really good position to be able to understand that and to be able to I think like uni lead a Unilever's CEO the other week kind of put out an article saying that they're increasing their influence to spend.",
+      "speaker_name": "aaronsayer",
+      "start_time": 378.064,
+      "end_time": 389.788
+    },
+    {
+      "text": "And the whole rationale of that is they want one kind of ambassador influencer in each tiny little town across all of the regions they operate in.",
+      "speaker_name": "aaronsayer",
+      "start_time": 389.884,
+      "end_time": 398.84
+    },
+    {
+      "text": "And so it's that kind of thing that we're.",
+      "speaker_name": "aaronsayer",
+      "start_time": 399.3,
+      "end_time": 400.924
+    },
+    {
+      "text": "Yeah, we're really well set, well placed to kind of run those sorts of campaigns and I think gives us an edge against some of the other agencies.",
+      "speaker_name": "aaronsayer",
+      "start_time": 400.972,
+      "end_time": 408.092
+    },
+    {
+      "text": "So yeah, we're just looking at yeah, M and A opportunities.",
+      "speaker_name": "aaronsayer",
+      "start_time": 408.236,
+      "end_time": 410.988
+    },
+    {
+      "text": "So other agencies that have got a foothold in, in other industries.",
+      "speaker_name": "aaronsayer",
+      "start_time": 411.084,
+      "end_time": 415.134
+    },
+    {
+      "text": "So outside of music that either don't have software developed or, or where we can kind of use some of our software and help run this type of campaign that they might not already be.",
+      "speaker_name": "aaronsayer",
+      "start_time": 415.182,
+      "end_time": 425.998
+    },
+    {
+      "text": "Be doing.",
+      "speaker_name": "aaronsayer",
+      "start_time": 426.054,
+      "end_time": 426.81
+    },
+    {
+      "text": "Okay, cool, that's interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 428.31,
+      "end_time": 429.79
+    },
+    {
+      "text": "Do you mind me asking about the size of round whereabouts are you at the moment in terms of like team size and revenue?",
+      "speaker_name": "Andy Day",
+      "start_time": 429.87,
+      "end_time": 436.21
+    },
+    {
+      "text": "So in terms of billing.",
+      "speaker_name": "aaronsayer",
+      "start_time": 436.63,
+      "end_time": 437.918
+    },
+    {
+      "text": "So that's like the total.",
+      "speaker_name": "aaronsayer",
+      "start_time": 438.014,
+      "end_time": 439.29
+    },
+    {
+      "text": "You know, if, if a client is giving us ten grand we take.",
+      "speaker_name": "aaronsayer",
+      "start_time": 439.96,
+      "end_time": 444.096
+    },
+    {
+      "text": "If it's a serviced.",
+      "speaker_name": "aaronsayer",
+      "start_time": 444.248,
+      "end_time": 445.7
+    },
+    {
+      "text": "If it's yeah, part of the services we, we take a 30 roughly 30 to 35 as our commission.",
+      "speaker_name": "aaronsayer",
+      "start_time": 446.36,
+      "end_time": 452.78
+    },
+    {
+      "text": "And then if it's the micro campaigns our revenue is sort of 55 on those ones.",
+      "speaker_name": "aaronsayer",
+      "start_time": 453.16,
+      "end_time": 459.232
+    },
+    {
+      "text": "So top line billings like last 12 months is about £8 million GBP.",
+      "speaker_name": "aaronsayer",
+      "start_time": 459.376,
+      "end_time": 466.21
+    },
+    {
+      "text": "Our revenue is about 40% of that.",
+      "speaker_name": "aaronsayer",
+      "start_time": 466.63,
+      "end_time": 471.47
+    },
+    {
+      "text": "So it's three, three and a half ish.",
+      "speaker_name": "aaronsayer",
+      "start_time": 471.51,
+      "end_time": 474.03
+    },
+    {
+      "text": "And then profit, non adjusted profit is, is about 7 between 7 and 800,000.",
+      "speaker_name": "aaronsayer",
+      "start_time": 474.19,
+      "end_time": 483.69
+    },
+    {
+      "text": "If you take out some of the, if we capitalize on the development cost it goes to about 1.1 adjusted EBITDA.",
+      "speaker_name": "aaronsayer",
+      "start_time": 484.07,
+      "end_time": 492.62
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 495.28,
+      "end_time": 496.14
+    },
+    {
+      "text": "You've been talking to your accountant about capitalizing the development costs.",
+      "speaker_name": "Andy Day",
+      "start_time": 497.12,
+      "end_time": 502.808
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 502.984,
+      "end_time": 503.82
+    },
+    {
+      "text": "Yes, yes.",
+      "speaker_name": "aaronsayer",
+      "start_time": 504.4,
+      "end_time": 505.98
+    },
+    {
+      "text": "Sir.",
+      "speaker_name": "Andy Day",
+      "start_time": 508.24,
+      "end_time": 509.02
+    },
+    {
+      "text": "Sense.",
+      "speaker_name": "Andy Day",
+      "start_time": 515.92,
+      "end_time": 516.78
+    },
+    {
+      "text": "Oh, sorry, you just cut out for a second there.",
+      "speaker_name": "aaronsayer",
+      "start_time": 517.57,
+      "end_time": 519.594
+    },
+    {
+      "text": "I missed that.",
+      "speaker_name": "aaronsayer",
+      "start_time": 519.682,
+      "end_time": 520.442
+    },
+    {
+      "text": "It only makes sense in certain situations.",
+      "speaker_name": "Andy Day",
+      "start_time": 520.546,
+      "end_time": 522.602
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 522.666,
+      "end_time": 523.27
+    },
+    {
+      "text": "But anyway, let's leave it there for now.",
+      "speaker_name": "Andy Day",
+      "start_time": 523.73,
+      "end_time": 525.946
+    },
+    {
+      "text": "So I mean that's quite interesting.",
+      "speaker_name": "Andy Day",
+      "start_time": 526.018,
+      "end_time": 527.63
+    },
+    {
+      "text": "Are you being approached by buyers very often?",
+      "speaker_name": "Andy Day",
+      "start_time": 528.29,
+      "end_time": 531.75
+    },
+    {
+      "text": "We've explored it a little bit and Yeah, I think while like we would.",
+      "speaker_name": "aaronsayer",
+      "start_time": 533.81,
+      "end_time": 543.868
+    },
+    {
+      "text": "Yeah, I think that that's ultimately probably the aim, but I think the offers that we had at the moment are like, I think we can take it a little bit further than, than, than where we're at in terms of some of the offers.",
+      "speaker_name": "aaronsayer",
+      "start_time": 543.924,
+      "end_time": 556.252
+    },
+    {
+      "text": "So I think unless it was something that was above the.",
+      "speaker_name": "aaronsayer",
+      "start_time": 556.396,
+      "end_time": 560.2
+    },
+    {
+      "text": "Yeah, there was like a kind of premium there, then we're just gonna, we'll just keep kind of growing just out.",
+      "speaker_name": "aaronsayer",
+      "start_time": 560.66,
+      "end_time": 566.812
+    },
+    {
+      "text": "Of interest and obviously only if you're comfortable.",
+      "speaker_name": "Andy Day",
+      "start_time": 566.836,
+      "end_time": 568.284
+    },
+    {
+      "text": "But what, what is the multiple that you're getting that you've not, you've not taken them up on those offers?",
+      "speaker_name": "Andy Day",
+      "start_time": 568.332,
+      "end_time": 573.19
+    },
+    {
+      "text": "I think.",
+      "speaker_name": "aaronsayer",
+      "start_time": 575.05,
+      "end_time": 575.618
+    },
+    {
+      "text": "Well, I guess it kind of comes down to like what is involved in that as well.",
+      "speaker_name": "aaronsayer",
+      "start_time": 575.674,
+      "end_time": 580.034
+    },
+    {
+      "text": "So we had one that was a kind of 55% stake with some money going into the business, some paying out the shareholders and, and then they were going to be very hands off.",
+      "speaker_name": "aaronsayer",
+      "start_time": 580.122,
+      "end_time": 591.73
+    },
+    {
+      "text": "They'd have the option to acquire the rest.",
+      "speaker_name": "aaronsayer",
+      "start_time": 591.77,
+      "end_time": 593.87
+    },
+    {
+      "text": "And.",
+      "speaker_name": "aaronsayer",
+      "start_time": 595.37,
+      "end_time": 596.11
+    },
+    {
+      "text": "Yeah, and that was at evaluation.",
+      "speaker_name": "aaronsayer",
+      "start_time": 596.66,
+      "end_time": 599.6
+    },
+    {
+      "text": "Well, that, yeah, they said between 15 to 18 million dollars was, was what they said.",
+      "speaker_name": "aaronsayer",
+      "start_time": 600.34,
+      "end_time": 605.612
+    },
+    {
+      "text": "And I think what was unattractive about that was just that they were going to be very hands off and kind of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 605.636,
+      "end_time": 613.48
+    },
+    {
+      "text": "Yeah, it was, it was a, it was a, it was a company that was backed by a public company and they were trading a much higher multiple.",
+      "speaker_name": "aaronsayer",
+      "start_time": 614.18,
+      "end_time": 620.96
+    },
+    {
+      "text": "And so it's a kind of an arbitrage thing for them.",
+      "speaker_name": "aaronsayer",
+      "start_time": 621.38,
+      "end_time": 625.08
+    },
+    {
+      "text": "So yeah, I think if there was like something that was strategically like a great fit and we could kind of see how there was like value add beyond, just beyond cash, then, then that'd be interesting.",
+      "speaker_name": "aaronsayer",
+      "start_time": 626.5,
+      "end_time": 637.644
+    },
+    {
+      "text": "But yeah, that, that's, that was the last one that we kind of talked about.",
+      "speaker_name": "aaronsayer",
+      "start_time": 637.692,
+      "end_time": 644.2
+    },
+    {
+      "text": "But so I guess you're looking to what's.",
+      "speaker_name": "Andy Day",
+      "start_time": 647.22,
+      "end_time": 650.236
+    },
+    {
+      "text": "So what's the ambition?",
+      "speaker_name": "Andy Day",
+      "start_time": 650.268,
+      "end_time": 651.084
+    },
+    {
+      "text": "Is it you're looking to build for yourself?",
+      "speaker_name": "Andy Day",
+      "start_time": 651.132,
+      "end_time": 653.394
+    },
+    {
+      "text": "You want to create something bigger and keep going?",
+      "speaker_name": "Andy Day",
+      "start_time": 653.442,
+      "end_time": 656.258
+    },
+    {
+      "text": "Or are you looking to build because you understand arbitrage and you're, you're trying to get to a certain size that you can exit at.",
+      "speaker_name": "Andy Day",
+      "start_time": 656.394,
+      "end_time": 665.55
+    },
+    {
+      "text": "I think a bit of, a bit of both is the, the agency part.",
+      "speaker_name": "aaronsayer",
+      "start_time": 666.33,
+      "end_time": 670.002
+    },
+    {
+      "text": "To be honest, the agency part has always been a kind of like a hedge against if the tech didn't like fully work.",
+      "speaker_name": "aaronsayer",
+      "start_time": 670.106,
+      "end_time": 675.874
+    },
+    {
+      "text": "So I think if, if the software.",
+      "speaker_name": "aaronsayer",
+      "start_time": 675.962,
+      "end_time": 678.242
+    },
+    {
+      "text": "Yeah, we've got kind of like a couple of clients in that space and if we can scale that, like, you know, we think we might be able to, then that will probably become by far the most valuable part of the kind of group, if that makes sense.",
+      "speaker_name": "aaronsayer",
+      "start_time": 678.386,
+      "end_time": 692.09
+    },
+    {
+      "text": "The agency's part.",
+      "speaker_name": "aaronsayer",
+      "start_time": 692.83,
+      "end_time": 694.182
+    },
+    {
+      "text": "It Feels a lot kind of safer.",
+      "speaker_name": "aaronsayer",
+      "start_time": 694.286,
+      "end_time": 697.398
+    },
+    {
+      "text": "And I guess they are more in the continuing to do what we're currently already doing.",
+      "speaker_name": "aaronsayer",
+      "start_time": 697.494,
+      "end_time": 705.01
+    },
+    {
+      "text": "And, and if there's.",
+      "speaker_name": "aaronsayer",
+      "start_time": 705.64,
+      "end_time": 707.968
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 708.064,
+      "end_time": 708.336
+    },
+    {
+      "text": "If there's ways that we can kind of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 708.368,
+      "end_time": 710.22
+    },
+    {
+      "text": "That we can integrate other agencies.",
+      "speaker_name": "aaronsayer",
+      "start_time": 710.68,
+      "end_time": 712.576
+    },
+    {
+      "text": "I guess it kind of comes down to what I don't really want to do personally is to work for a company for another like three or four years where, you know, if I was going to exit, I would probably want like a shorter kind of handover period, if that makes sense of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 712.608,
+      "end_time": 727.1
+    },
+    {
+      "text": "Of remaining within the company.",
+      "speaker_name": "aaronsayer",
+      "start_time": 728.04,
+      "end_time": 729.424
+    },
+    {
+      "text": "So.",
+      "speaker_name": "aaronsayer",
+      "start_time": 729.512,
+      "end_time": 729.856
+    },
+    {
+      "text": "So that kind of a part of it as well.",
+      "speaker_name": "aaronsayer",
+      "start_time": 729.928,
+      "end_time": 732.192
+    },
+    {
+      "text": "I wouldn't want a situation where someone owns kind of half of it indefinitely without like much of a plan.",
+      "speaker_name": "aaronsayer",
+      "start_time": 732.296,
+      "end_time": 740.43
+    },
+    {
+      "text": "It just.",
+      "speaker_name": "aaronsayer",
+      "start_time": 740.97,
+      "end_time": 741.618
+    },
+    {
+      "text": "You end in like, in a kind of weird limbo space.",
+      "speaker_name": "aaronsayer",
+      "start_time": 741.674,
+      "end_time": 744.43
+    },
+    {
+      "text": "Valuation is really good that they gave you.",
+      "speaker_name": "Andy Day",
+      "start_time": 745.37,
+      "end_time": 747.698
+    },
+    {
+      "text": "But yeah, I understand the other part of it is not ideal because once you sold that 55, you can't get rid of the rest.",
+      "speaker_name": "Andy Day",
+      "start_time": 747.754,
+      "end_time": 755.826
+    },
+    {
+      "text": "So basically they are getting it for half price, but they also overacted the price a little bit, so they didn't really make it cheap for themselves.",
+      "speaker_name": "Andy Day",
+      "start_time": 755.898,
+      "end_time": 765.156
+    },
+    {
+      "text": "But it definitely in a position where you can't exit it.",
+      "speaker_name": "Andy Day",
+      "start_time": 765.348,
+      "end_time": 767.828
+    },
+    {
+      "text": "So it's kind of pointless unless you like money, in which case you could have taken the money.",
+      "speaker_name": "Andy Day",
+      "start_time": 767.884,
+      "end_time": 773.84
+    },
+    {
+      "text": "Okay, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 774.54,
+      "end_time": 775.508
+    },
+    {
+      "text": "So you're looking to build basically for the long term.",
+      "speaker_name": "Andy Day",
+      "start_time": 775.564,
+      "end_time": 778.292
+    },
+    {
+      "text": "You want to put something on the map that's.",
+      "speaker_name": "Andy Day",
+      "start_time": 778.396,
+      "end_time": 781.572
+    },
+    {
+      "text": "That scales.",
+      "speaker_name": "Andy Day",
+      "start_time": 781.636,
+      "end_time": 782.66
+    },
+    {
+      "text": "The problem with music, I guess, is it.",
+      "speaker_name": "Andy Day",
+      "start_time": 782.82,
+      "end_time": 784.468
+    },
+    {
+      "text": "It's difficult to scale.",
+      "speaker_name": "Andy Day",
+      "start_time": 784.524,
+      "end_time": 785.716
+    },
+    {
+      "text": "And music companies don't like to spend money on marketing, so their budgets are tiny.",
+      "speaker_name": "Andy Day",
+      "start_time": 785.828,
+      "end_time": 791.96
+    },
+    {
+      "text": "Yeah, it's lots of little budgets.",
+      "speaker_name": "aaronsayer",
+      "start_time": 792.3,
+      "end_time": 793.972
+    },
+    {
+      "text": "Is.",
+      "speaker_name": "aaronsayer",
+      "start_time": 794.036,
+      "end_time": 794.404
+    },
+    {
+      "text": "Is the way that that works.",
+      "speaker_name": "aaronsayer",
+      "start_time": 794.492,
+      "end_time": 795.764
+    },
+    {
+      "text": "But it kind of, you know, prepares you quite well for other types of campaigns.",
+      "speaker_name": "aaronsayer",
+      "start_time": 795.812,
+      "end_time": 800.628
+    },
+    {
+      "text": "We've done probably maybe between 5 and 10% of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 800.644,
+      "end_time": 804.26
+    },
+    {
+      "text": "Of the work we do is not music.",
+      "speaker_name": "aaronsayer",
+      "start_time": 804.3,
+      "end_time": 805.92
+    },
+    {
+      "text": "And it's a completely different cadence.",
+      "speaker_name": "aaronsayer",
+      "start_time": 806.22,
+      "end_time": 808.66
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "aaronsayer",
+      "start_time": 808.74,
+      "end_time": 808.98
+    },
+    {
+      "text": "The team and everything.",
+      "speaker_name": "aaronsayer",
+      "start_time": 809.02,
+      "end_time": 809.924
+    },
+    {
+      "text": "It's like music is like you get brief today and it's going live on Friday brands.",
+      "speaker_name": "aaronsayer",
+      "start_time": 810.012,
+      "end_time": 813.876
+    },
+    {
+      "text": "You get an intro today for something that's going live at Christmas.",
+      "speaker_name": "aaronsayer",
+      "start_time": 813.908,
+      "end_time": 816.868
+    },
+    {
+      "text": "And it's a completely different like cadence and way of working.",
+      "speaker_name": "aaronsayer",
+      "start_time": 816.964,
+      "end_time": 820
+    },
+    {
+      "text": "We don't.",
+      "speaker_name": "aaronsayer",
+      "start_time": 820.68,
+      "end_time": 821.216
+    },
+    {
+      "text": "We're just not, you know, the team as we currently have it aren't set up to work those sorts of timelines.",
+      "speaker_name": "aaronsayer",
+      "start_time": 821.248,
+      "end_time": 825.84
+    },
+    {
+      "text": "And you know, we just need to.",
+      "speaker_name": "aaronsayer",
+      "start_time": 825.92,
+      "end_time": 829.42
+    },
+    {
+      "text": "Yeah, I think it will be easier for us to.",
+      "speaker_name": "aaronsayer",
+      "start_time": 830.76,
+      "end_time": 832.4
+    },
+    {
+      "text": "I mean, that's like one of the attractive parts of acquiring an agency that, you know, you have the team that's already in the flow of understanding how these clients work and it's A case of adding on our services into what they're already pitching.",
+      "speaker_name": "aaronsayer",
+      "start_time": 832.44,
+      "end_time": 844.208
+    },
+    {
+      "text": "That feels a lot more manageable than starting from the ground up and building a team from scratch.",
+      "speaker_name": "aaronsayer",
+      "start_time": 844.304,
+      "end_time": 848.99
+    },
+    {
+      "text": "Yeah, 100%.",
+      "speaker_name": "Andy Day",
+      "start_time": 849.57,
+      "end_time": 850.618
+    },
+    {
+      "text": "That's definitely the better way to go.",
+      "speaker_name": "Andy Day",
+      "start_time": 850.674,
+      "end_time": 852.39
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 853.49,
+      "end_time": 854.99
+    },
+    {
+      "text": "So how can I help you best?",
+      "speaker_name": "Andy Day",
+      "start_time": 855.81,
+      "end_time": 858.042
+    },
+    {
+      "text": "Are we, are you looking for more agencies that appear on our platform and making sure that you, you don't miss any or are you looking to sort of pull the trigger on finding a business or businesses as quickly as possible and you want to look at volume?",
+      "speaker_name": "Andy Day",
+      "start_time": 858.146,
+      "end_time": 875.508
+    },
+    {
+      "text": "Because there's two ways we can help.",
+      "speaker_name": "Andy Day",
+      "start_time": 875.684,
+      "end_time": 877.108
+    },
+    {
+      "text": "One is that obviously you're in our mailing list and we know you exist, we know what you're looking for and so we're going to come and knock on your door when we have certain types of sell side clients or can we work with you on the buy side where we know what you're looking for but you have us on a retained basis and we're bringing those deals to the table every week for you so that we can get an acquisition done in a much short space of time rather than waiting for serendipity and hoping that something lands that, that you're looking for.",
+      "speaker_name": "Andy Day",
+      "start_time": 877.164,
+      "end_time": 909.646
+    },
+    {
+      "text": "Yeah, I think we.",
+      "speaker_name": "aaronsayer",
+      "start_time": 909.798,
+      "end_time": 911.342
+    },
+    {
+      "text": "So we've done a few or we've done two acquisitions up to this point.",
+      "speaker_name": "aaronsayer",
+      "start_time": 911.446,
+      "end_time": 916.91
+    },
+    {
+      "text": "So we did and they've both been sort of, I guess non standard you could say.",
+      "speaker_name": "aaronsayer",
+      "start_time": 916.95,
+      "end_time": 920.846
+    },
+    {
+      "text": "First one was an influencer company who kind of managed creators and that was a kind of friend that I'd known like since, since I started round and, and he was just tired and kind of wanted, wanted to kind of like pass it on to someone.",
+      "speaker_name": "aaronsayer",
+      "start_time": 920.918,
+      "end_time": 936.752
+    },
+    {
+      "text": "So it was.",
+      "speaker_name": "aaronsayer",
+      "start_time": 936.856,
+      "end_time": 938.048
+    },
+    {
+      "text": "So that was the first one we did and then we just acquired a software company before Christmas which was sort of the opposite.",
+      "speaker_name": "aaronsayer",
+      "start_time": 938.184,
+      "end_time": 945.344
+    },
+    {
+      "text": "It was.",
+      "speaker_name": "aaronsayer",
+      "start_time": 945.392,
+      "end_time": 945.856
+    },
+    {
+      "text": "So it's a tool called TCAT.",
+      "speaker_name": "aaronsayer",
+      "start_time": 945.928,
+      "end_time": 948.016
+    },
+    {
+      "text": "It's a, it's a SaaS product and we acquired that plus the team, so five person development team and that was from One Media IP which is a public company on AIM.",
+      "speaker_name": "aaronsayer",
+      "start_time": 948.128,
+      "end_time": 962.83
+    },
+    {
+      "text": "Yeah, you might come across them.",
+      "speaker_name": "aaronsayer",
+      "start_time": 963.57,
+      "end_time": 965.098
+    },
+    {
+      "text": "So kind of like opposite side.",
+      "speaker_name": "aaronsayer",
+      "start_time": 965.154,
+      "end_time": 966.57
+    },
+    {
+      "text": "That was again, that was no cash, that was just we acquired it for shares of Round and.",
+      "speaker_name": "aaronsayer",
+      "start_time": 966.61,
+      "end_time": 972.07
+    },
+    {
+      "text": "Yeah, and so that was obviously a much more kind of formal process that, that we went through to, to complete that.",
+      "speaker_name": "aaronsayer",
+      "start_time": 974.37,
+      "end_time": 980.84
+    },
+    {
+      "text": "We.",
+      "speaker_name": "aaronsayer",
+      "start_time": 981.46,
+      "end_time": 982.2
+    },
+    {
+      "text": "Yeah, at the moment this is something I guess like kind of exploratory phase.",
+      "speaker_name": "aaronsayer",
+      "start_time": 982.58,
+      "end_time": 987.324
+    },
+    {
+      "text": "So we've, I guess we finished that, that the TCAT deal finished in November and we've just been sort of getting, getting that up to speed and everything and starting to look at what the plans are for the rest of the year.",
+      "speaker_name": "aaronsayer",
+      "start_time": 987.372,
+      "end_time": 999.5
+    },
+    {
+      "text": "So I think probably too early to go and like pull the trigger on some sort of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 999.62,
+      "end_time": 1004.36
+    },
+    {
+      "text": "Yeah, some sort.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1006.12,
+      "end_time": 1007.056
+    },
+    {
+      "text": "I think we would need to like figure out exactly what it is in a bit more detail that we're looking for.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1007.088,
+      "end_time": 1012.928
+    },
+    {
+      "text": "And I guess what would be useful is to understand maybe the size types of agencies or the size or the kind of like general like market at the moment.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1012.984,
+      "end_time": 1020.032
+    },
+    {
+      "text": "Like what, what are other agencies looking for is it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1020.096,
+      "end_time": 1023.58
+    },
+    {
+      "text": "And, and all of the other parts that I guess that, that are around it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1025.4,
+      "end_time": 1029.568
+    },
+    {
+      "text": "So like how common is it that the founding team are going to stay on?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1029.624,
+      "end_time": 1032.787
+    },
+    {
+      "text": "What type of deal structures are they going to be looking at?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1032.843,
+      "end_time": 1034.691
+    },
+    {
+      "text": "Is it going to be like all cash at close or combination of these things?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1034.715,
+      "end_time": 1038.195
+    },
+    {
+      "text": "Like yeah, figure out a few like main points I guess that like deal structures that you find people kind of most into and then yeah, like understand I guess the size of the types of agencies that you're working with.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1038.267,
+      "end_time": 1055.359
+    },
+    {
+      "text": "So yeah, I mean there is no one answer for that really in terms of who we work with on the sell side we're working with agencies doing up to about 15, 20 million but all the way down from you know, about 500k or so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1056.539,
+      "end_time": 1072.86
+    },
+    {
+      "text": "So small to sort of mid size on the sell side.",
+      "speaker_name": "Andy Day",
+      "start_time": 1073.32,
+      "end_time": 1076.86
+    },
+    {
+      "text": "In terms of deal structure, again it's not really something that you can put your finger on.",
+      "speaker_name": "Andy Day",
+      "start_time": 1077.96,
+      "end_time": 1083.392
+    },
+    {
+      "text": "As you can tell from your own experience somebody's giving you this.",
+      "speaker_name": "Andy Day",
+      "start_time": 1083.416,
+      "end_time": 1086.86
+    },
+    {
+      "text": "I hate the type of deal that you've been offered.",
+      "speaker_name": "Andy Day",
+      "start_time": 1087.79,
+      "end_time": 1089.526
+    },
+    {
+      "text": "Actually we have those four clients every so often and I don't know anybody that's accepted one of those types of deals.",
+      "speaker_name": "Andy Day",
+      "start_time": 1089.558,
+      "end_time": 1097.61
+    },
+    {
+      "text": "So I mean and for me that's, yeah, I mean it's not a great, it's not a great type of deal because Even though it's 55% it's control of the business and you can't get out, you can't sell 45% to somebody else who's not interested.",
+      "speaker_name": "Andy Day",
+      "start_time": 1100.51,
+      "end_time": 1111.85
+    },
+    {
+      "text": "So but we, we do tend to see a sort of standard structure of, of deals particularly because they're, they're more common in the larger buyers that we work with and also private equity as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1114.04,
+      "end_time": 1128.048
+    },
+    {
+      "text": "So they, that tends to be the sort of range of valuations for average agency agencies is, is something like 4 to 6.",
+      "speaker_name": "Andy Day",
+      "start_time": 1128.104,
+      "end_time": 1137.264
+    },
+    {
+      "text": "So most holding companies are looking to buy sort of between the 5 and 7 mark I would say and if they can buy at the bottom of that range then they will.",
+      "speaker_name": "Andy Day",
+      "start_time": 1137.432,
+      "end_time": 1147.47
+    },
+    {
+      "text": "And they're looking to give 50% cash up front and then a three year earn out sometimes they will roll over some equity, private equity, do do this more often where they will roll over a 20% of the business into the holding company or the platform business and then they will buy 80% with 40% cash up front and 40% as part of an earn out.",
+      "speaker_name": "Andy Day",
+      "start_time": 1148.25,
+      "end_time": 1173.212
+    },
+    {
+      "text": "But there is no kind of standard deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1173.396,
+      "end_time": 1175.468
+    },
+    {
+      "text": "Everybody's offering their own kind of deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1175.524,
+      "end_time": 1178.78
+    },
+    {
+      "text": "But I would say that's probably the more common one that we see is 50, 40 or 50% cash up front and the rest is an earn out and then some equity rolled over or not.",
+      "speaker_name": "Andy Day",
+      "start_time": 1178.82,
+      "end_time": 1188.28
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1189.86,
+      "end_time": 1190.46
+    },
+    {
+      "text": "And you have.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1190.54,
+      "end_time": 1191.612
+    },
+    {
+      "text": "So and your company then has like a, just like a list of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1191.796,
+      "end_time": 1196.56
+    },
+    {
+      "text": "Oh yeah, yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1197.02,
+      "end_time": 1197.972
+    },
+    {
+      "text": "How does it work in terms of like the platform and the, the I guess working on both sides.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1198.036,
+      "end_time": 1205.732
+    },
+    {
+      "text": "Is there.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1205.876,
+      "end_time": 1206.8
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1209.74,
+      "end_time": 1210.212
+    },
+    {
+      "text": "Is that, can you do that?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1210.276,
+      "end_time": 1211.812
+    },
+    {
+      "text": "Is there like conflict ever?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1211.836,
+      "end_time": 1213.14
+    },
+    {
+      "text": "I'm trying to think of it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1213.26,
+      "end_time": 1214.64
+    },
+    {
+      "text": "Occasionally there is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1215.34,
+      "end_time": 1216.916
+    },
+    {
+      "text": "It's very rare that both sides of the table are looking for the same thing.",
+      "speaker_name": "Andy Day",
+      "start_time": 1217.068,
+      "end_time": 1220.116
+    },
+    {
+      "text": "So it doesn't, it doesn't happen in practice, at least not to the point where we've ever had to negotiate with ourselves to get a deal done.",
+      "speaker_name": "Andy Day",
+      "start_time": 1220.188,
+      "end_time": 1229.27
+    },
+    {
+      "text": "So how does it work?",
+      "speaker_name": "Andy Day",
+      "start_time": 1231.49,
+      "end_time": 1232.362
+    },
+    {
+      "text": "Do we have a list?",
+      "speaker_name": "Andy Day",
+      "start_time": 1232.386,
+      "end_time": 1233.05
+    },
+    {
+      "text": "We have 130,000 agencies in our CRM.",
+      "speaker_name": "Andy Day",
+      "start_time": 1233.09,
+      "end_time": 1237.77
+    },
+    {
+      "text": "So we're in constant contact with them depending on, you know, keywords that match for whatever we're searching for.",
+      "speaker_name": "Andy Day",
+      "start_time": 1237.93,
+      "end_time": 1243.322
+    },
+    {
+      "text": "And that's a good starting place for us.",
+      "speaker_name": "Andy Day",
+      "start_time": 1243.426,
+      "end_time": 1245.594
+    },
+    {
+      "text": "Most, you know, most of our clients are looking for a certain type of thing and we're able to locate those types of businesses based on the keywords that they're looking to match.",
+      "speaker_name": "Andy Day",
+      "start_time": 1245.682,
+      "end_time": 1256.698
+    },
+    {
+      "text": "But we're constantly adding to that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1256.754,
+      "end_time": 1258.218
+    },
+    {
+      "text": "Every client has some different, you know, differentiator of the, the sort of variables that they want.",
+      "speaker_name": "Andy Day",
+      "start_time": 1258.274,
+      "end_time": 1265.77
+    },
+    {
+      "text": "You know, they might want bigger or smaller or more people or less people or, or about to go bust or healthy.",
+      "speaker_name": "Andy Day",
+      "start_time": 1265.81,
+      "end_time": 1272.73
+    },
+    {
+      "text": "You know, there's always something else that our clients want.",
+      "speaker_name": "Andy Day",
+      "start_time": 1272.81,
+      "end_time": 1276.352
+    },
+    {
+      "text": "I think the main thing that, that is a commonality is that we look for off market opportunities.",
+      "speaker_name": "Andy Day",
+      "start_time": 1276.536,
+      "end_time": 1282.288
+    },
+    {
+      "text": "So what we're not looking to do is go to a bunch of brokers, including ourselves, and find stuff that's for sale.",
+      "speaker_name": "Andy Day",
+      "start_time": 1282.384,
+      "end_time": 1289.472
+    },
+    {
+      "text": "You never want to really buy something that's for sale if you can help it, because it usually comes with a set of problems.",
+      "speaker_name": "Andy Day",
+      "start_time": 1289.536,
+      "end_time": 1295.68
+    },
+    {
+      "text": "Not, not 100% of the time, but certainly at the lower end of the market there is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1295.76,
+      "end_time": 1301.038
+    },
+    {
+      "text": "You're more likely to come across problems because if they're looking to sell, then they've got a reason to sell.",
+      "speaker_name": "Andy Day",
+      "start_time": 1301.094,
+      "end_time": 1305.998
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Andy Day",
+      "start_time": 1306.054,
+      "end_time": 1306.366
+    },
+    {
+      "text": "So what we do with our clients is we go off market and that's where the real value add is of what we're bringing to the table.",
+      "speaker_name": "Andy Day",
+      "start_time": 1306.438,
+      "end_time": 1314.174
+    },
+    {
+      "text": "Because if you go as round to a bunch of other agencies that are similar to round, some of those are going to feel like they can't communicate openly with you because you're a competitor.",
+      "speaker_name": "Andy Day",
+      "start_time": 1314.222,
+      "end_time": 1326.638
+    },
+    {
+      "text": "So if you have an M and a team that is approaching what may be competitors in the market or similar agencies, we're able to extract huge amount of information from them and share that with our client at the right time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1326.814,
+      "end_time": 1340.202
+    },
+    {
+      "text": "But they're more comfortable with that cushion between the two businesses.",
+      "speaker_name": "Andy Day",
+      "start_time": 1340.386,
+      "end_time": 1345.258
+    },
+    {
+      "text": "But also, like I said, we're going off market.",
+      "speaker_name": "Andy Day",
+      "start_time": 1345.434,
+      "end_time": 1347.77
+    },
+    {
+      "text": "So if we don't find it in our database, we don't find enough or we exhaust those that list quickly, then we will go out on the search as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1347.89,
+      "end_time": 1357.77
+    },
+    {
+      "text": "You know, if you have a particular type of influencer, I mean, you're not looking for influencer agencies in music, but say you were, you know, there's probably a very small list that we can access easily.",
+      "speaker_name": "Andy Day",
+      "start_time": 1357.81,
+      "end_time": 1367.928
+    },
+    {
+      "text": "And we're going to have to go out and find other agencies that aren't easily, you know, targetable.",
+      "speaker_name": "Andy Day",
+      "start_time": 1367.944,
+      "end_time": 1374.92
+    },
+    {
+      "text": "But what we do is we start those conversations.",
+      "speaker_name": "Andy Day",
+      "start_time": 1375.08,
+      "end_time": 1377.42
+    },
+    {
+      "text": "You know, it's a more relaxing way of, of beginning the conversation because they're not kind of guarded from day one.",
+      "speaker_name": "Andy Day",
+      "start_time": 1378.16,
+      "end_time": 1385.358
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1385.544,
+      "end_time": 1386.546
+    },
+    {
+      "text": "So that's what we're doing for our clients and that's what our clients find it difficult to do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1386.658,
+      "end_time": 1389.682
+    },
+    {
+      "text": "Also, it's a huge time sync.",
+      "speaker_name": "Andy Day",
+      "start_time": 1389.706,
+      "end_time": 1392.05
+    },
+    {
+      "text": "And also you're going to get, I mean, if you were to go out to market and say, you know, we want to have a conversation, you're going to have a percentage of those that are tire kickers and time wasters.",
+      "speaker_name": "Andy Day",
+      "start_time": 1392.21,
+      "end_time": 1402.146
+    },
+    {
+      "text": "They just want to talk to you because you are who you are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1402.178,
+      "end_time": 1404.59
+    },
+    {
+      "text": "So we have those initial conversations.",
+      "speaker_name": "Andy Day",
+      "start_time": 1405.21,
+      "end_time": 1407.266
+    },
+    {
+      "text": "We're able to remove the tire kickers and the time wasters as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1407.378,
+      "end_time": 1411.762
+    },
+    {
+      "text": "We're able to, you know, get initial info.",
+      "speaker_name": "Andy Day",
+      "start_time": 1411.866,
+      "end_time": 1415.064
+    },
+    {
+      "text": "And then for our clients when they, when we set up a meeting for them, we prepare a one, what we call a one pager, but is often two or three pages.",
+      "speaker_name": "Andy Day",
+      "start_time": 1415.192,
+      "end_time": 1423.42
+    },
+    {
+      "text": "But a one pager that gives you an overview of the business.",
+      "speaker_name": "Andy Day",
+      "start_time": 1424,
+      "end_time": 1426.776
+    },
+    {
+      "text": "You've already got most of the information that you need in front of you when you're speaking to them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1426.848,
+      "end_time": 1430.616
+    },
+    {
+      "text": "So it gives you a massive head start knowing that this is somebody that's already been spoken to by our team, somebody that, you know, you've already got at least an initial part of what you would normally get in due diligence.",
+      "speaker_name": "Andy Day",
+      "start_time": 1430.768,
+      "end_time": 1443.506
+    },
+    {
+      "text": "You've got that information in front of you for that very first conversation as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1443.538,
+      "end_time": 1447.058
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1447.114,
+      "end_time": 1447.71
+    },
+    {
+      "text": "So we're adding all of that as part of the service.",
+      "speaker_name": "Andy Day",
+      "start_time": 1448.17,
+      "end_time": 1451.07
+    },
+    {
+      "text": "And what sort of like, criteria, I guess, is.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1452.33,
+      "end_time": 1455.074
+    },
+    {
+      "text": "Is stage one.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1455.162,
+      "end_time": 1456.018
+    },
+    {
+      "text": "We work on sort of a brief, like a type of business that we're looking for and a type of deal structure.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1456.074,
+      "end_time": 1461.826
+    },
+    {
+      "text": "And that becomes a kind of like the qualifying questions that you would use to find suitable targets.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1461.858,
+      "end_time": 1469.658
+    },
+    {
+      "text": "Yeah, we wouldn't discuss the deal structure with a target on the off.",
+      "speaker_name": "Andy Day",
+      "start_time": 1469.754,
+      "end_time": 1474.634
+    },
+    {
+      "text": "What you want to do is get a target all the way to the point where they're interested in working with you and they want to see an offer, and then we give them the offer in the form of an loi, usually, and then that's their opportunity to say we do what we don't like this.",
+      "speaker_name": "Andy Day",
+      "start_time": 1474.802,
+      "end_time": 1491.688
+    },
+    {
+      "text": "The, the nice thing about.",
+      "speaker_name": "Andy Day",
+      "start_time": 1491.824,
+      "end_time": 1493.112
+    },
+    {
+      "text": "Well, the nice thing for us about being on the buy side and going off market is that a lot of the sellers, they.",
+      "speaker_name": "Andy Day",
+      "start_time": 1493.216,
+      "end_time": 1499.4
+    },
+    {
+      "text": "They're not engaged with a.",
+      "speaker_name": "Andy Day",
+      "start_time": 1499.44,
+      "end_time": 1500.68
+    },
+    {
+      "text": "With a banker.",
+      "speaker_name": "Andy Day",
+      "start_time": 1500.72,
+      "end_time": 1501.464
+    },
+    {
+      "text": "They don't know what offers look like.",
+      "speaker_name": "Andy Day",
+      "start_time": 1501.512,
+      "end_time": 1503.464
+    },
+    {
+      "text": "We're not competing with anybody else.",
+      "speaker_name": "Andy Day",
+      "start_time": 1503.552,
+      "end_time": 1505.656
+    },
+    {
+      "text": "So they don't have a lot of information at their fingertips that they can compare the offer with.",
+      "speaker_name": "Andy Day",
+      "start_time": 1505.848,
+      "end_time": 1512.008
+    },
+    {
+      "text": "So it puts us in the driving seat in terms of, you know, getting that in front of them.",
+      "speaker_name": "Andy Day",
+      "start_time": 1512.144,
+      "end_time": 1516.84
+    },
+    {
+      "text": "So we don't want to present it too early.",
+      "speaker_name": "Andy Day",
+      "start_time": 1516.96,
+      "end_time": 1518.36
+    },
+    {
+      "text": "We want to get them interested first.",
+      "speaker_name": "Andy Day",
+      "start_time": 1518.4,
+      "end_time": 1520.1
+    },
+    {
+      "text": "We will get them excited about the deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1520.62,
+      "end_time": 1522.436
+    },
+    {
+      "text": "You'll get them excited on those initial calls as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1522.508,
+      "end_time": 1525.14
+    },
+    {
+      "text": "So by the time they get an offer, they're already like, they can't wait, you know, and then if there are certain aspects of that that they.",
+      "speaker_name": "Andy Day",
+      "start_time": 1525.18,
+      "end_time": 1532.628
+    },
+    {
+      "text": "They don't like, then that's, you know, we have an initial negotiation around the LOI before we get it signed, and then we go into due diligence.",
+      "speaker_name": "Andy Day",
+      "start_time": 1532.684,
+      "end_time": 1540.484
+    },
+    {
+      "text": "And then the final offer, it comes with a contract from your lawyer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1540.612,
+      "end_time": 1544.52
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1545.75,
+      "end_time": 1546.222
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1546.246,
+      "end_time": 1546.526
+    },
+    {
+      "text": "And do you do the due diligence part as well, or is that something we would.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1546.558,
+      "end_time": 1550.318
+    },
+    {
+      "text": "We do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1550.454,
+      "end_time": 1551.15
+    },
+    {
+      "text": "It's part of the price, which is very fair because there's a lot of companies that do that as a specialty that start their starting price like 30 grand.",
+      "speaker_name": "Andy Day",
+      "start_time": 1551.27,
+      "end_time": 1558.51
+    },
+    {
+      "text": "So it's just part of our monthly retainer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1558.59,
+      "end_time": 1561.806
+    },
+    {
+      "text": "We'll do the due diligence.",
+      "speaker_name": "Andy Day",
+      "start_time": 1561.838,
+      "end_time": 1563.25
+    },
+    {
+      "text": "I mean, that is.",
+      "speaker_name": "Andy Day",
+      "start_time": 1564.39,
+      "end_time": 1565.326
+    },
+    {
+      "text": "That.",
+      "speaker_name": "Andy Day",
+      "start_time": 1565.398,
+      "end_time": 1565.678
+    },
+    {
+      "text": "That is with you, but we're requesting the information.",
+      "speaker_name": "Andy Day",
+      "start_time": 1565.734,
+      "end_time": 1568.206
+    },
+    {
+      "text": "We're going through the information with you, but obviously we will spot red flags and raise those up the poll.",
+      "speaker_name": "Andy Day",
+      "start_time": 1568.278,
+      "end_time": 1576.69
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1576.77,
+      "end_time": 1577.39
+    },
+    {
+      "text": "So, yeah, it saves a lot of time and money doing that with us.",
+      "speaker_name": "Andy Day",
+      "start_time": 1578.49,
+      "end_time": 1581.89
+    },
+    {
+      "text": "The only thing we don't offer is any financial advice.",
+      "speaker_name": "Andy Day",
+      "start_time": 1581.93,
+      "end_time": 1584.226
+    },
+    {
+      "text": "And no Legal advice, so you'd have to seek that elsewhere.",
+      "speaker_name": "Andy Day",
+      "start_time": 1584.338,
+      "end_time": 1587.59
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1588.17,
+      "end_time": 1588.882
+    },
+    {
+      "text": "And how many deals do you do like a month or a year roughly?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1589.026,
+      "end_time": 1592.87
+    },
+    {
+      "text": "We probably close about a deal every two months, something like that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1593.37,
+      "end_time": 1597.218
+    },
+    {
+      "text": "So we're not a huge deal team, but we are very busy for the size that we are.",
+      "speaker_name": "Andy Day",
+      "start_time": 1597.354,
+      "end_time": 1602.504
+    },
+    {
+      "text": "There's a lot of investment banks that take years to, to close six deals, but we're doing that every year, so.",
+      "speaker_name": "Andy Day",
+      "start_time": 1602.672,
+      "end_time": 1608.952
+    },
+    {
+      "text": "Cool, Cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1609.136,
+      "end_time": 1611.24
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1611.4,
+      "end_time": 1611.912
+    },
+    {
+      "text": "I think the.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1611.976,
+      "end_time": 1612.664
+    },
+    {
+      "text": "Yeah, I think there was one on the website.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1612.752,
+      "end_time": 1615.032
+    },
+    {
+      "text": "I think it was that.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1615.136,
+      "end_time": 1615.88
+    },
+    {
+      "text": "Is it like a reason agency?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1615.92,
+      "end_time": 1617.832
+    },
+    {
+      "text": "I think I signed the same NDA twice but didn't get any of the information.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1617.896,
+      "end_time": 1622.024
+    },
+    {
+      "text": "Yeah, so it has to go to our client first.",
+      "speaker_name": "Andy Day",
+      "start_time": 1622.192,
+      "end_time": 1624.04
+    },
+    {
+      "text": "That's so you won't get an instant IM back.",
+      "speaker_name": "Andy Day",
+      "start_time": 1624.08,
+      "end_time": 1626.392
+    },
+    {
+      "text": "It goes to our client and once they approve you as a potential buyer, then you'll get the im.",
+      "speaker_name": "Andy Day",
+      "start_time": 1626.416,
+      "end_time": 1630.804
+    },
+    {
+      "text": "So it's in, it's in process.",
+      "speaker_name": "Andy Day",
+      "start_time": 1630.972,
+      "end_time": 1633.6
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1634.22,
+      "end_time": 1634.692
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1634.716,
+      "end_time": 1635.236
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Andy Day",
+      "start_time": 1635.268,
+      "end_time": 1635.78
+    },
+    {
+      "text": "You've asked about a content creation agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 1635.86,
+      "end_time": 1638.36
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1638.78,
+      "end_time": 1639.56
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1639.9,
+      "end_time": 1640.276
+    },
+    {
+      "text": "Where they from?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1640.308,
+      "end_time": 1640.868
+    },
+    {
+      "text": "Is it from Paris?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1640.924,
+      "end_time": 1641.476
+    },
+    {
+      "text": "Is that the one?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1641.508,
+      "end_time": 1642.48
+    },
+    {
+      "text": "Yep, it is, yeah.",
+      "speaker_name": "Andy Day",
+      "start_time": 1644.7,
+      "end_time": 1647.604
+    },
+    {
+      "text": "French agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 1647.652,
+      "end_time": 1649.684
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1649.812,
+      "end_time": 1650.116
+    },
+    {
+      "text": "Yeah, that's the one that you're interested in?",
+      "speaker_name": "Andy Day",
+      "start_time": 1650.148,
+      "end_time": 1652.08
+    },
+    {
+      "text": "Yeah, Yeah, I thought.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1652.38,
+      "end_time": 1653.428
+    },
+    {
+      "text": "Yeah, that looks cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1653.484,
+      "end_time": 1654.84
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1656.62,
+      "end_time": 1657.332
+    },
+    {
+      "text": "They are very cool actually.",
+      "speaker_name": "Andy Day",
+      "start_time": 1657.476,
+      "end_time": 1658.676
+    },
+    {
+      "text": "So we're just in the process or they're just in the process getting some numbers back.",
+      "speaker_name": "Andy Day",
+      "start_time": 1658.748,
+      "end_time": 1662.74
+    },
+    {
+      "text": "So just at a year end, just signed a big client this week.",
+      "speaker_name": "Andy Day",
+      "start_time": 1662.78,
+      "end_time": 1667.364
+    },
+    {
+      "text": "So next week is probably when we're freer to share more information.",
+      "speaker_name": "Andy Day",
+      "start_time": 1667.452,
+      "end_time": 1672.32
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1673.1,
+      "end_time": 1673.96
+    },
+    {
+      "text": "Okay, cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1674.94,
+      "end_time": 1676.04
+    },
+    {
+      "text": "And what your retainers start at or is it.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1676.46,
+      "end_time": 1679.62
+    },
+    {
+      "text": "And yeah.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1679.66,
+      "end_time": 1680.116
+    },
+    {
+      "text": "How long would you kind of advise these things going for initially?",
+      "speaker_name": "aaronsayer",
+      "start_time": 1680.148,
+      "end_time": 1685.038
+    },
+    {
+      "text": "Yeah, so it's usually sort of three to six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1685.214,
+      "end_time": 1688.59
+    },
+    {
+      "text": "I would say three months is too short.",
+      "speaker_name": "Andy Day",
+      "start_time": 1688.63,
+      "end_time": 1690.398
+    },
+    {
+      "text": "But there are some clients that we have that kind of dip their toe if they're not tremendously experienced.",
+      "speaker_name": "Andy Day",
+      "start_time": 1690.454,
+      "end_time": 1695.278
+    },
+    {
+      "text": "But we often bring them so much deal flow that they kind of have to pause.",
+      "speaker_name": "Andy Day",
+      "start_time": 1695.374,
+      "end_time": 1700.21
+    },
+    {
+      "text": "But we've had clients that we've worked with for sort of 18 months or longer, so depending on what it is that you're looking to do.",
+      "speaker_name": "Andy Day",
+      "start_time": 1700.63,
+      "end_time": 1707.69
+    },
+    {
+      "text": "Because what we're going to do is suddenly give you a ton of deals that you can.",
+      "speaker_name": "Andy Day",
+      "start_time": 1707.83,
+      "end_time": 1711.842
+    },
+    {
+      "text": "So that's, that's a real opportunity.",
+      "speaker_name": "Andy Day",
+      "start_time": 1712.026,
+      "end_time": 1714.07
+    },
+    {
+      "text": "And if you are able to make offers quickly and get them closed, I mean, for me that is the ideal client for us is somebody that is able to make, you know, is able to recognize what an opportunity looks like and make an offer really quickly without, you know, messing around for months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1714.49,
+      "end_time": 1729.938
+    },
+    {
+      "text": "Months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1730.074,
+      "end_time": 1730.75
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1732.17,
+      "end_time": 1732.578
+    },
+    {
+      "text": "So it's usually, I would say it's about a six month process to get A deal done.",
+      "speaker_name": "Andy Day",
+      "start_time": 1732.634,
+      "end_time": 1737.26
+    },
+    {
+      "text": "We do work with clients for longer than sometimes it takes about 9, 9, 10 months to get a deal start to finish.",
+      "speaker_name": "Andy Day",
+      "start_time": 1738.2,
+      "end_time": 1744.896
+    },
+    {
+      "text": "But the sort of first three or four months, the first month is getting set up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1745.008,
+      "end_time": 1749.66
+    },
+    {
+      "text": "We usually bringing in deals sort of week four.",
+      "speaker_name": "Andy Day",
+      "start_time": 1750.44,
+      "end_time": 1754.46
+    },
+    {
+      "text": "That's purely sort of a scheduling thing, you know.",
+      "speaker_name": "Andy Day",
+      "start_time": 1755.4,
+      "end_time": 1759.02
+    },
+    {
+      "text": "But once we're up and running month two, month three, you know, you should have a good steady deal flow.",
+      "speaker_name": "Andy Day",
+      "start_time": 1760.04,
+      "end_time": 1766.758
+    },
+    {
+      "text": "And then we would hope and expect our clients starting to make offers in month four and then it's usually another 60 days to get a deal closed.",
+      "speaker_name": "Andy Day",
+      "start_time": 1766.774,
+      "end_time": 1774.81
+    },
+    {
+      "text": "Yeah, yeah, cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1775.55,
+      "end_time": 1776.534
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1776.582,
+      "end_time": 1777.29
+    },
+    {
+      "text": "Charge $5,000 or £4,000 roughly a month for the retainer.",
+      "speaker_name": "Andy Day",
+      "start_time": 1778.67,
+      "end_time": 1784.566
+    },
+    {
+      "text": "We take one and a half percent on the deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1784.678,
+      "end_time": 1786.358
+    },
+    {
+      "text": "There are other ways to do that depending on which team within capital A you work with.",
+      "speaker_name": "Andy Day",
+      "start_time": 1786.414,
+      "end_time": 1792.614
+    },
+    {
+      "text": "But we have a product called Deal Engines where we just, we do everything within the inbox of the target.",
+      "speaker_name": "Andy Day",
+      "start_time": 1792.782,
+      "end_time": 1802.13
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1803.39,
+      "end_time": 1803.75
+    },
+    {
+      "text": "And we don't take a percentage on the retain on the, on the deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1803.79,
+      "end_time": 1807.89
+    },
+    {
+      "text": "So the difference is with working with an M and A team is that we are doing all of those face to face phone calls for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1808.19,
+      "end_time": 1816.86
+    },
+    {
+      "text": "It creates a huge amount of trust before you get anywhere near the target.",
+      "speaker_name": "Andy Day",
+      "start_time": 1817.16,
+      "end_time": 1821.74
+    },
+    {
+      "text": "Or we can do it just from inboxes where we have an M and a representative who is just emailing and messaging on LinkedIn on your behalf.",
+      "speaker_name": "Andy Day",
+      "start_time": 1822.84,
+      "end_time": 1833.904
+    },
+    {
+      "text": "Basically once they're booked into your calendar, we don't, we're not involved.",
+      "speaker_name": "Andy Day",
+      "start_time": 1833.952,
+      "end_time": 1838.096
+    },
+    {
+      "text": "Whereas the M and A team to take our 1/2 percent, we're hugely involved in the whole process to the finish line.",
+      "speaker_name": "Andy Day",
+      "start_time": 1838.128,
+      "end_time": 1844.38
+    },
+    {
+      "text": "Cool, cool.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1845.17,
+      "end_time": 1846.314
+    },
+    {
+      "text": "Makes sense.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1846.362,
+      "end_time": 1847.162
+    },
+    {
+      "text": "Okay, great.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1847.306,
+      "end_time": 1848.55
+    },
+    {
+      "text": "Yeah, well, yeah, thank you.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1849.49,
+      "end_time": 1851.034
+    },
+    {
+      "text": "It's good to get an overview of all of that, I think.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1851.122,
+      "end_time": 1853.53
+    },
+    {
+      "text": "Yeah, like I say, this is kind of like the initial stage I guess of exploring what this kind of, I guess like strategy looks like and we, yeah, I guess what timeline, what it looks like from our side will be to figure out exactly what we have in terms of like budget and like cash that we'd be able to deploy into, into this sort of thing and.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1853.57,
+      "end_time": 1878.75
+    },
+    {
+      "text": "Yeah, and, and how, and what sort of size of company and that sort of thing.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1880.41,
+      "end_time": 1884.19
+    },
+    {
+      "text": "So that's kind of.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1885.45,
+      "end_time": 1887.07
+    },
+    {
+      "text": "Yeah, that's kind of what we're working on at the moment is like how, how we fund these deals and then.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1887.61,
+      "end_time": 1893.55
+    },
+    {
+      "text": "Yeah, I think if you've got anything that comes through that you think would be suitable in the meantime, it would be, it would be nice to just start seeing some examples of these companies.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1894.41,
+      "end_time": 1903.786
+    },
+    {
+      "text": "But we're probably not going to be able to kind of go on to A kind of proper initiative.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1903.858,
+      "end_time": 1911.55
+    },
+    {
+      "text": "Maybe, like the end of April will be a good time to kind of check back in again on that.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1912.05,
+      "end_time": 1916.81
+    },
+    {
+      "text": "But, yeah, I think for the next couple of weeks, which is figuring out some of these things internally.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1916.85,
+      "end_time": 1921.95
+    },
+    {
+      "text": "All right, no worries.",
+      "speaker_name": "Andy Day",
+      "start_time": 1922.29,
+      "end_time": 1923.418
+    },
+    {
+      "text": "Yeah, I mean, it is a big investment, particularly it's outside of, like, immediate cash flow.",
+      "speaker_name": "Andy Day",
+      "start_time": 1923.514,
+      "end_time": 1929.46
+    },
+    {
+      "text": "But we do compress time.",
+      "speaker_name": "Andy Day",
+      "start_time": 1929.88,
+      "end_time": 1931.536
+    },
+    {
+      "text": "You know, I've seen people.",
+      "speaker_name": "Andy Day",
+      "start_time": 1931.608,
+      "end_time": 1933.312
+    },
+    {
+      "text": "I mean, we.",
+      "speaker_name": "Andy Day",
+      "start_time": 1933.416,
+      "end_time": 1934.16
+    },
+    {
+      "text": "We have conversations every year with the same buyers that haven't managed to close a deal.",
+      "speaker_name": "Andy Day",
+      "start_time": 1934.28,
+      "end_time": 1938.72
+    },
+    {
+      "text": "They're just, you know, window shopping for years and years and years.",
+      "speaker_name": "Andy Day",
+      "start_time": 1938.76,
+      "end_time": 1942.688
+    },
+    {
+      "text": "Whereas we can get a deal done within six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1942.744,
+      "end_time": 1944.992
+    },
+    {
+      "text": "We've transformed, you know, for.",
+      "speaker_name": "Andy Day",
+      "start_time": 1945.096,
+      "end_time": 1947.648
+    },
+    {
+      "text": "For our investors that we work with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1947.704,
+      "end_time": 1949.712
+    },
+    {
+      "text": "Don't that start with no agencies, for instance?",
+      "speaker_name": "Andy Day",
+      "start_time": 1949.736,
+      "end_time": 1951.878
+    },
+    {
+      "text": "You know, we transformed their prospects from nobody really wanted to talking to them to.",
+      "speaker_name": "Andy Day",
+      "start_time": 1952.024,
+      "end_time": 1955.93
+    },
+    {
+      "text": "To getting two or three deals closed within six months.",
+      "speaker_name": "Andy Day",
+      "start_time": 1955.97,
+      "end_time": 1958.586
+    },
+    {
+      "text": "So it really is about, you know, us working with you at the right time for you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1958.658,
+      "end_time": 1964.618
+    },
+    {
+      "text": "You know, we don't want to work with buyers that are, you know, still trying to put things in place or they're not really sure what they want to buy because it just.",
+      "speaker_name": "Andy Day",
+      "start_time": 1964.674,
+      "end_time": 1971.21
+    },
+    {
+      "text": "It damages our reputation as well.",
+      "speaker_name": "Andy Day",
+      "start_time": 1971.25,
+      "end_time": 1973.05
+    },
+    {
+      "text": "So.",
+      "speaker_name": "Andy Day",
+      "start_time": 1973.09,
+      "end_time": 1973.674
+    },
+    {
+      "text": "So, yeah, definitely.",
+      "speaker_name": "Andy Day",
+      "start_time": 1973.842,
+      "end_time": 1974.714
+    },
+    {
+      "text": "Timing's everything, but happy to drop back in at the end of April and see where you are with that.",
+      "speaker_name": "Andy Day",
+      "start_time": 1974.762,
+      "end_time": 1979.956
+    },
+    {
+      "text": "And in the meantime, I'll make sure that we're following up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1980.108,
+      "end_time": 1983.86
+    },
+    {
+      "text": "My team will follow up.",
+      "speaker_name": "Andy Day",
+      "start_time": 1983.9,
+      "end_time": 1984.74
+    },
+    {
+      "text": "Probably Jack or Ahmed will follow up about the Paris content Agency.",
+      "speaker_name": "Andy Day",
+      "start_time": 1984.78,
+      "end_time": 1989.476
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1989.588,
+      "end_time": 1990.148
+    },
+    {
+      "text": "Awesome.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1990.244,
+      "end_time": 1990.74
+    },
+    {
+      "text": "Cool.",
+      "speaker_name": "Andy Day",
+      "start_time": 1990.82,
+      "end_time": 1991.156
+    },
+    {
+      "text": "Good to speak with you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1991.188,
+      "end_time": 1991.892
+    },
+    {
+      "text": "Nice to meet you.",
+      "speaker_name": "Andy Day",
+      "start_time": 1991.916,
+      "end_time": 1992.88
+    },
+    {
+      "text": "Enjoy the rest of your day.",
+      "speaker_name": "Andy Day",
+      "start_time": 1993.98,
+      "end_time": 1995.252
+    },
+    {
+      "text": "Cheers.",
+      "speaker_name": "aaronsayer",
+      "start_time": 1995.356,
+      "end_time": 1995.54
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Influencer marketing",
+      "M&A advisory",
+      "Agency acquisition",
+      "Micro-influencers",
+      "Deal structure",
+      "Due diligence"
+    ],
+    "action_items": "\n**Aaron**\nDetermine budget and cash available for potential acquisitions (31:06)\nDefine criteria for target company size and type (31:06)\n\n**Andy Day**\nFollow up with Aaron at the end of April to discuss potential engagement (32:02)\nEnsure team follows up about the Paris content agency (33:10)\n",
+    "outline": null,
+    "overview": "The Exploratory business development meeting between Aaron and Andy Day focused on the potential acquisition strategy of Round, a company specializing in influencer marketing within the music industry, which currently generates £3.5 million in revenue and is considering multiple acquisition opportunities. Capital A, the M&A advisory firm, provided insights on market trends, typical deal structures, and their extensive database of agencies for off-market opportunities. The meeting outlined a strategic plan for Round to expand into new industries by leveraging micro-influencer campaign expertise, alongside a detailed discussion of the due diligence process and associated costs. Action items included Aaron determining his budget and criteria for target acquisitions while Andy planned to follow up on these discussions and the prospect of a French content creation agency.",
+    "short_summary": "Aaron and Andy Day met to discuss the acquisition strategy for Round, a company specializing in influencer marketing within the music industry, currently generating £3.5 million in revenue. Capital A, the M&A advisory firm, provided insights on market trends and typical deal structures, highlighting their database of 130,000 agencies for off-market opportunities. The meeting focused on Round's desire to leverage its expertise in micro-influencer campaigns for expansion into new industries. They also discussed the due diligence process and costs associated with acquisitions. Action items included Aaron determining his budget and acquisition criteria, while Andy planned to follow up on a potential French content creation agency.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01JQPBFD81XBJJFCMFA0S4G7YJ",
+  "audio_url": "https://cdn.fireflies.ai/01JQPBFD81XBJJFCMFA0S4G7YJ/audio.mp3?Expires=1773220867&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlFQQkZEODFYQkpKRkNNRkEwUzRHN1lKL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2N319fV19&Signature=uJIyqIdhPjFQN9I5CIJ5OQ3U7nZSKK9-sbXh8sQgxMC4vJv7PZ4PF18xPyUgnQjLF1DNLIwWmoxNR5qsr0fiDGMi2FkznWSejCGnKLeQ10XokOnGBa9O0Wvu6PeIMuY1IIpb25hHBN3RZeIUJTSU6RD3lQXHceqWlsnjHlHnhlQymc5VlheEdZGEE6EMIq5rxqzrK3xZPjsQlB67cFLxxKlBTAMNzsWXTpdkWheX5xYoMFp~lgkSuwVVPT2Z-9El2isEcECnFobgMXjlJqjfCEuttaGuTS7DLhKIXSrVdhcMUMXdwJhxRKg4hlia9GDAI9oMxjMTEp0ZfJggO3MANA__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01JQPBFD81XBJJFCMFA0S4G7YJ/video.mp4?Expires=1773220867&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSlFQQkZEODFYQkpKRkNNRkEwUzRHN1lKL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg2N319fV19&Signature=AH7Bk0e8ju57hsNa~KkbJb-SN~7~5TqcocJ11sZT2-6~WP7p8Cuh7NC5MvUiFVA4ovV0ZPxBHfRwq0Y4YIpFjuJz3-Hizl~7~7rcatOQBlcbWX2qb61ADrBLKeyUXkZ~~hx6zt1iAo5aSsMXCc1FPaV5WWRK4KH5EsHnv8Btx-DD8rmOHq2~TKzfg2MhYos6Ea7z2YYls8EZDRtxVRqOvZzY0BcMYBftJwk~Z5LZPkyeiXsMamDjWgNixn7TrQ65Oen~jRTcuGN9ZM7HJXLMMrBbEwxvwnIdQJMVH9HyFazXeWe38UcgnbMvJgyNOw~zVyQ59AbWq6GTcJ-Gi9zjQA__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}

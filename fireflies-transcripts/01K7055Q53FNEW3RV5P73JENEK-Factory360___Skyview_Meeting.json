@@ -1,0 +1,4421 @@
+{
+  "id": "01K7055Q53FNEW3RV5P73JENEK",
+  "title": "Factory360 + Skyview Meeting",
+  "date": 1760038200000,
+  "dateString": "2025-10-09T19:30:00.000Z",
+  "duration": 47.34000015258789,
+  "participants": [
+    "jeff.kaplan@skyviewi.com,mfernandez@factory-360.com,heather.fullerton@capitala.co,andy.day@capitala.co",
+    "jeff.kaplan@skyviewi.com",
+    "mfernandez@factory-360.com",
+    "andy.day@capitala.co"
+  ],
+  "meeting_attendees": [
+    {
+      "displayName": null,
+      "email": "jeff.kaplan@skyviewi.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "mfernandez@factory-360.com",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "heather.fullerton@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    },
+    {
+      "displayName": null,
+      "email": "andy.day@capitala.co",
+      "phoneNumber": null,
+      "name": null
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sam it.",
+      "speaker_name": "Michael",
+      "start_time": 0.24,
+      "end_time": 25.93
+    },
+    {
+      "text": "60.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 54.74,
+      "end_time": 54.98
+    },
+    {
+      "text": "Hi, Michael.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 92.59,
+      "end_time": 93.15
+    },
+    {
+      "text": "Hi.",
+      "speaker_name": "Michael",
+      "start_time": 93.71,
+      "end_time": 94.07
+    },
+    {
+      "text": "How you doing?",
+      "speaker_name": "Michael",
+      "start_time": 94.07,
+      "end_time": 94.67
+    },
+    {
+      "text": "Good, how are you?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 95.79,
+      "end_time": 96.83
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Michael",
+      "start_time": 97.31,
+      "end_time": 97.71
+    },
+    {
+      "text": "I'm just waiting for Jeff to get here.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 99.79,
+      "end_time": 103.4
+    },
+    {
+      "text": "You get my note with the various bits and pieces?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 105.16,
+      "end_time": 108.28
+    },
+    {
+      "text": "I mean he'll tell you everything, but I thought just a bit of a.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 108.28,
+      "end_time": 111.16
+    },
+    {
+      "text": "Bit of a heads up.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 112.52,
+      "end_time": 113.64
+    },
+    {
+      "text": "You got my note?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 114.36,
+      "end_time": 115.48
+    },
+    {
+      "text": "Yes, I did.",
+      "speaker_name": "Michael",
+      "start_time": 119.08,
+      "end_time": 119.88
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Michael",
+      "start_time": 120.84,
+      "end_time": 121.2
+    },
+    {
+      "text": "Yes, yes.",
+      "speaker_name": "Michael",
+      "start_time": 121.2,
+      "end_time": 121.88
+    },
+    {
+      "text": "Advertising Week is going on this.",
+      "speaker_name": "Michael",
+      "start_time": 122.6,
+      "end_time": 124.28
+    },
+    {
+      "text": "In this Week in New York.",
+      "speaker_name": "Michael",
+      "start_time": 124.28,
+      "end_time": 125.52
+    },
+    {
+      "text": "So I've been at conferences all week long, but I did get it.",
+      "speaker_name": "Michael",
+      "start_time": 125.52,
+      "end_time": 129.96
+    },
+    {
+      "text": "Is it going.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 130.83,
+      "end_time": 131.35
+    },
+    {
+      "text": "How's it going since I last talked to you?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 131.35,
+      "end_time": 133.31
+    },
+    {
+      "text": "Is it well attended these days?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 133.39,
+      "end_time": 135.23
+    },
+    {
+      "text": "Very well attended, yes.",
+      "speaker_name": "Michael",
+      "start_time": 136.11,
+      "end_time": 137.39
+    },
+    {
+      "text": "Interesting.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 137.63,
+      "end_time": 138.27
+    },
+    {
+      "text": "Where are they holding at this time?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 140.11,
+      "end_time": 141.79
+    },
+    {
+      "text": "They hold it at the old 33 Street.",
+      "speaker_name": "Michael",
+      "start_time": 142.67,
+      "end_time": 146.509
+    },
+    {
+      "text": "The old mall that was on 30.",
+      "speaker_name": "Michael",
+      "start_time": 146.75,
+      "end_time": 148.43
+    },
+    {
+      "text": "The Manhattan Mall that was on 33.",
+      "speaker_name": "Michael",
+      "start_time": 148.59,
+      "end_time": 150.486
+    },
+    {
+      "text": "33rd and.",
+      "speaker_name": "Michael",
+      "start_time": 150.614,
+      "end_time": 151.55
+    },
+    {
+      "text": "And 6 Avenue where the JCPenney seems to be.",
+      "speaker_name": "Michael",
+      "start_time": 152.35,
+      "end_time": 156.75
+    },
+    {
+      "text": "Yeah, I remember that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 157.18,
+      "end_time": 158.1
+    },
+    {
+      "text": "And there's.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 158.1,
+      "end_time": 158.7
+    },
+    {
+      "text": "There's what?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 158.86,
+      "end_time": 159.54
+    },
+    {
+      "text": "There are two agencies in there just going to write Jeff and Terry in the mall.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 159.54,
+      "end_time": 165.74
+    },
+    {
+      "text": "Yeah, they used to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 166.06,
+      "end_time": 166.94
+    },
+    {
+      "text": "So up above that mall because I remember going to meetings.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 166.94,
+      "end_time": 169.98
+    },
+    {
+      "text": "Brand media.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 170.94,
+      "end_time": 172.06
+    },
+    {
+      "text": "Brands or a couple big agencies are up there.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 172.06,
+      "end_time": 175.18
+    },
+    {
+      "text": "But the mall's closed.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 175.18,
+      "end_time": 176.46
+    },
+    {
+      "text": "The mall?",
+      "speaker_name": "Michael",
+      "start_time": 177.58,
+      "end_time": 178.46
+    },
+    {
+      "text": "Yeah, they.",
+      "speaker_name": "Michael",
+      "start_time": 178.94,
+      "end_time": 179.58
+    },
+    {
+      "text": "They closed that mall like.",
+      "speaker_name": "Michael",
+      "start_time": 179.74,
+      "end_time": 181.5
+    },
+    {
+      "text": "Like 15 years ago.",
+      "speaker_name": "Michael",
+      "start_time": 181.5,
+      "end_time": 182.66
+    },
+    {
+      "text": "I felt like.",
+      "speaker_name": "Michael",
+      "start_time": 182.66,
+      "end_time": 183.26
+    },
+    {
+      "text": "No, I think it was still around because I went to go because it had.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 184.29,
+      "end_time": 188.85
+    },
+    {
+      "text": "I did some competitive research at that mall at some point in time to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 189.09,
+      "end_time": 193.17
+    },
+    {
+      "text": "Went to a JCPenney's when I was working on Kohl's Way, way, way back when.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 193.17,
+      "end_time": 196.77
+    },
+    {
+      "text": "That was 2012.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 197.17,
+      "end_time": 198.53
+    },
+    {
+      "text": "Yeah, I don't.",
+      "speaker_name": "Michael",
+      "start_time": 201.17,
+      "end_time": 202.21
+    },
+    {
+      "text": "I don't think I ever went in them all.",
+      "speaker_name": "Michael",
+      "start_time": 202.21,
+      "end_time": 203.89
+    },
+    {
+      "text": "Ever.",
+      "speaker_name": "Michael",
+      "start_time": 205.89,
+      "end_time": 206.29
+    },
+    {
+      "text": "I went.",
+      "speaker_name": "Michael",
+      "start_time": 207.01,
+      "end_time": 207.69
+    },
+    {
+      "text": "I've.",
+      "speaker_name": "Michael",
+      "start_time": 207.69,
+      "end_time": 208.21
+    },
+    {
+      "text": "I've now I've gone into it since Advertising Week has its.",
+      "speaker_name": "Michael",
+      "start_time": 208.21,
+      "end_time": 211.97
+    },
+    {
+      "text": "And.",
+      "speaker_name": "Michael",
+      "start_time": 212.77,
+      "end_time": 212.93
+    },
+    {
+      "text": "But I. Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 212.93,
+      "end_time": 214.05
+    },
+    {
+      "text": "You know, and I've never been inside the Macy's in Herald Square either, which is ironic.",
+      "speaker_name": "Michael",
+      "start_time": 214.21,
+      "end_time": 218.73
+    },
+    {
+      "text": "And now after 26 years of living in New York, I feel like I should never go in there because it will be a bad day.",
+      "speaker_name": "Michael",
+      "start_time": 218.73,
+      "end_time": 225.57
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 226.29,
+      "end_time": 226.77
+    },
+    {
+      "text": "If one can avoid that.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 227.41,
+      "end_time": 229.05
+    },
+    {
+      "text": "But I remember the last ad week I went to was up in.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 229.05,
+      "end_time": 233.41
+    },
+    {
+      "text": "What do you call it?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 236.45,
+      "end_time": 237.21
+    },
+    {
+      "text": "The theater district.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 237.21,
+      "end_time": 238.05
+    },
+    {
+      "text": "What's wrong with me?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 238.13,
+      "end_time": 238.97
+    },
+    {
+      "text": "Why can't I remember the words right?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 238.97,
+      "end_time": 240.41
+    },
+    {
+      "text": "Like, right where all the plays are and things and.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 240.41,
+      "end_time": 246.15
+    },
+    {
+      "text": "Oh, they used to have it at the Bill Paley.",
+      "speaker_name": "Michael",
+      "start_time": 246.15,
+      "end_time": 247.75
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "Michael",
+      "start_time": 247.75,
+      "end_time": 247.99
+    },
+    {
+      "text": "I don't remember.",
+      "speaker_name": "Michael",
+      "start_time": 247.99,
+      "end_time": 248.67
+    },
+    {
+      "text": "Yeah, it's gotten very kind of underground.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 249.15,
+      "end_time": 251.75
+    },
+    {
+      "text": "Gotten very, very large now, which is ironic.",
+      "speaker_name": "Michael",
+      "start_time": 251.75,
+      "end_time": 254.75
+    },
+    {
+      "text": "But then there's a experiential break off that XP Land did at Rock center that was actually much better.",
+      "speaker_name": "Michael",
+      "start_time": 254.75,
+      "end_time": 262.83
+    },
+    {
+      "text": "So a better area.",
+      "speaker_name": "Michael",
+      "start_time": 263.55,
+      "end_time": 265.95
+    },
+    {
+      "text": "But there I used to go.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 268.28,
+      "end_time": 269.52
+    },
+    {
+      "text": "I did go religiously for a while, but not when obviously I stopped at the.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 269.52,
+      "end_time": 273.64
+    },
+    {
+      "text": "I'm just going to call Jeff because I stopped when it changed.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 275,
+      "end_time": 278.08
+    },
+    {
+      "text": "I guess normally he's very prompt.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 278.08,
+      "end_time": 281.24
+    },
+    {
+      "text": "I invited him, didn't I?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 286.6,
+      "end_time": 288.28
+    },
+    {
+      "text": "Yeah, he's there, but he just.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 306.29,
+      "end_time": 308.21
+    },
+    {
+      "text": "Sorry to keep you waiting.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 311.17,
+      "end_time": 312.85
+    },
+    {
+      "text": "That's okay.",
+      "speaker_name": "Michael",
+      "start_time": 313.49,
+      "end_time": 314.09
+    },
+    {
+      "text": "I just have a hard stop before.",
+      "speaker_name": "Michael",
+      "start_time": 314.09,
+      "end_time": 315.33
+    },
+    {
+      "text": "That might be him also.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 315.49,
+      "end_time": 317.17
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 318.7,
+      "end_time": 319.1
+    },
+    {
+      "text": "I'm guessing it's him.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 321.5,
+      "end_time": 322.86
+    },
+    {
+      "text": "Nope.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 325.98,
+      "end_time": 326.54
+    },
+    {
+      "text": "Hey, how are you?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 331.82,
+      "end_time": 332.86
+    },
+    {
+      "text": "Hey.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 333.1,
+      "end_time": 333.5
+    },
+    {
+      "text": "Good.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 333.5,
+      "end_time": 333.82
+    },
+    {
+      "text": "I was.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 334.54,
+      "end_time": 334.98
+    },
+    {
+      "text": "I was double checking I invited you, but you are here, so.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 334.98,
+      "end_time": 338.46
+    },
+    {
+      "text": "Perfect.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 338.46,
+      "end_time": 338.94
+    },
+    {
+      "text": "Jeff, meet Michael Fernandez.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 341.34,
+      "end_time": 343.98
+    },
+    {
+      "text": "Michael, this is Jeff Kaplan, who's the CEO of Skyview, but evolving in name and nature.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 344.06,
+      "end_time": 350.95
+    },
+    {
+      "text": "Thank you guys both for making the time.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 352.39,
+      "end_time": 354.47
+    },
+    {
+      "text": "Pleasure to meet you.",
+      "speaker_name": "Michael",
+      "start_time": 355.11,
+      "end_time": 356.15
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 356.39,
+      "end_time": 356.71
+    },
+    {
+      "text": "And sorry about that, Michael.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 356.71,
+      "end_time": 357.75
+    },
+    {
+      "text": "I just got caught up for a few minutes.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 357.91,
+      "end_time": 359.35
+    },
+    {
+      "text": "Oh, no worries.",
+      "speaker_name": "Michael",
+      "start_time": 359.51,
+      "end_time": 360.31
+    },
+    {
+      "text": "No worries.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 360.55,
+      "end_time": 361.19
+    },
+    {
+      "text": "So, I mean, really, this is a time for you guys to get to know each other.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 362.63,
+      "end_time": 366.07
+    },
+    {
+      "text": "So, Michael, I've shared with Jeff just the baseline information that you shared with me about the business, your ownership.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 366.15,
+      "end_time": 372.31
+    },
+    {
+      "text": "So Gabby and yourself, your growth over the past.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 373.11,
+      "end_time": 377.04
+    },
+    {
+      "text": "It sounds like year has been pretty impressive.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 377.12,
+      "end_time": 379.36
+    },
+    {
+      "text": "Your beginning focus on sports.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 380,
+      "end_time": 382.24
+    },
+    {
+      "text": "But I didn't have answers that Jeff had because that's an area that interests him as well.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 382.24,
+      "end_time": 386.48
+    },
+    {
+      "text": "So my suggestion, Jeff, unless you want to do this differently, is that Michael gives you just a quick overview of their business and then you can share the.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 387.12,
+      "end_time": 396.16
+    },
+    {
+      "text": "You kind of your vision and see if it's worth having a bigger, longer conversation if this is something you both want to pursue.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 396.24,
+      "end_time": 402.25
+    },
+    {
+      "text": "But I think there's definitely a lot of.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 402.25,
+      "end_time": 403.81
+    },
+    {
+      "text": "A lot of synergies and it feels like sort of common interest.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 404.13,
+      "end_time": 406.93
+    },
+    {
+      "text": "Yeah, yeah, that would be great.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 407.41,
+      "end_time": 408.41
+    },
+    {
+      "text": "Appreciate the.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 408.41,
+      "end_time": 409.33
+    },
+    {
+      "text": "Michael.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 409.41,
+      "end_time": 409.89
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 409.89,
+      "end_time": 410.17
+    },
+    {
+      "text": "If you could just take a second.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 410.17,
+      "end_time": 411.33
+    },
+    {
+      "text": "I looked through your website and you know, Heather said that their website isn't really representative of some of the things you're doing.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 411.65,
+      "end_time": 419.77
+    },
+    {
+      "text": "So I'd love to hear about.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 419.77,
+      "end_time": 420.81
+    },
+    {
+      "text": "I mean, free representative of.",
+      "speaker_name": "Michael",
+      "start_time": 424.21,
+      "end_time": 426.13
+    },
+    {
+      "text": "Well, I know she mentioned something about sports, FIFA, all kinds of.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 426.46,
+      "end_time": 429.06
+    },
+    {
+      "text": "Yeah, we just.",
+      "speaker_name": "Michael",
+      "start_time": 429.06,
+      "end_time": 429.74
+    },
+    {
+      "text": "We just hired a senior vice president of development and sponsorships that came over from.",
+      "speaker_name": "Michael",
+      "start_time": 429.82,
+      "end_time": 438.14
+    },
+    {
+      "text": "He had worked at Amazon and he had worked at.",
+      "speaker_name": "Michael",
+      "start_time": 438.78,
+      "end_time": 441.5
+    },
+    {
+      "text": "Not caa, but Endeavor, I think maybe.",
+      "speaker_name": "Michael",
+      "start_time": 442.54,
+      "end_time": 446.7
+    },
+    {
+      "text": "And he started about three months ago.",
+      "speaker_name": "Michael",
+      "start_time": 447.1,
+      "end_time": 449.14
+    },
+    {
+      "text": "And it's primarily because we are getting involved in Formula one and active and trying to bring that to the clients in the United States now that there's three racetracks or three venues between Austin, Las Vegas and Miami.",
+      "speaker_name": "Michael",
+      "start_time": 449.14,
+      "end_time": 465.73
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 465.97,
+      "end_time": 466.37
+    },
+    {
+      "text": "And tap into.",
+      "speaker_name": "Michael",
+      "start_time": 466.85,
+      "end_time": 468.29
+    },
+    {
+      "text": "Tap into the motorsports where that's pretty lucrative.",
+      "speaker_name": "Michael",
+      "start_time": 469.17,
+      "end_time": 473.89
+    },
+    {
+      "text": "So that was.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 474.05,
+      "end_time": 474.77
+    },
+    {
+      "text": "That's probably what she's referring to.",
+      "speaker_name": "Michael",
+      "start_time": 474.85,
+      "end_time": 476.53
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 477.17,
+      "end_time": 477.73
+    },
+    {
+      "text": "So when I look at a lot of what you do, first of All.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 478.05,
+      "end_time": 481.09
+    },
+    {
+      "text": "How many employees you guys have?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 481.17,
+      "end_time": 483.42
+    },
+    {
+      "text": "32.",
+      "speaker_name": "Michael",
+      "start_time": 484.7,
+      "end_time": 485.564
+    },
+    {
+      "text": "33.",
+      "speaker_name": "Michael",
+      "start_time": 485.756,
+      "end_time": 486.524
+    },
+    {
+      "text": "33.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 486.716,
+      "end_time": 487.58
+    },
+    {
+      "text": "And it looks like a lot of what you do is what I'll term as physical experiential.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 487.74,
+      "end_time": 494.66
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 494.66,
+      "end_time": 494.94
+    },
+    {
+      "text": "You know, developing briefs with clients where you're delivering immersive capabilities for a specific brief at what we call like a moment in time.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 494.94,
+      "end_time": 506.86
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Michael",
+      "start_time": 507.5,
+      "end_time": 507.98
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 508.71,
+      "end_time": 508.95
+    },
+    {
+      "text": "And as opposed to some of the companies we talk to that do like more of the permanent stuff.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 509.59,
+      "end_time": 514.67
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 514.67,
+      "end_time": 515.03
+    },
+    {
+      "text": "And then.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 515.91,
+      "end_time": 516.63
+    },
+    {
+      "text": "And you're working mostly with brand.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 516.79,
+      "end_time": 518.47
+    },
+    {
+      "text": "Well, I don't understand what you mean by permanent stuff.",
+      "speaker_name": "Michael",
+      "start_time": 518.79,
+      "end_time": 521.03
+    },
+    {
+      "text": "Well, so you know, we're talking to some companies that are doing what we call technology and spaces.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 521.35,
+      "end_time": 526.95
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 526.95,
+      "end_time": 527.23
+    },
+    {
+      "text": "Looking at spaces and working on year long projects to deliver into museums, into innovation centers, permanent installations, Michael.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 527.23,
+      "end_time": 536.23
+    },
+    {
+      "text": "So like you go into museum?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 536.23,
+      "end_time": 537.71
+    },
+    {
+      "text": "Yeah, I mean we have, we have some of that, but most of ours are in and outs and pop ups.",
+      "speaker_name": "Michael",
+      "start_time": 537.71,
+      "end_time": 544.1
+    },
+    {
+      "text": "Yeah, there are no permanent installations.",
+      "speaker_name": "Michael",
+      "start_time": 544.1,
+      "end_time": 545.66
+    },
+    {
+      "text": "And you're working mostly with direct to brand, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 546.06,
+      "end_time": 548.7
+    },
+    {
+      "text": "Direct with brands, yes.",
+      "speaker_name": "Michael",
+      "start_time": 550.38,
+      "end_time": 552.14
+    },
+    {
+      "text": "And direct to consumers and also B2B?",
+      "speaker_name": "Michael",
+      "start_time": 552.22,
+      "end_time": 554.7
+    },
+    {
+      "text": "Well, no.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 554.94,
+      "end_time": 555.38
+    },
+    {
+      "text": "As opposed to through agencies?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 555.38,
+      "end_time": 556.78
+    },
+    {
+      "text": "We are the agency.",
+      "speaker_name": "Michael",
+      "start_time": 557.5,
+      "end_time": 558.62
+    },
+    {
+      "text": "No, no, but there's a lot of.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 559.34,
+      "end_time": 560.86
+    },
+    {
+      "text": "Companies, we don't go through agencies.",
+      "speaker_name": "Michael",
+      "start_time": 560.86,
+      "end_time": 562.86
+    },
+    {
+      "text": "Okay, I'm just, that's what I was asking.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 563.1,
+      "end_time": 566.14
+    },
+    {
+      "text": "So.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 567.2,
+      "end_time": 567.44
+    },
+    {
+      "text": "Okay, so that's important.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 567.76,
+      "end_time": 569.2
+    },
+    {
+      "text": "Right, so you're working direct to brands and you're bringing these experiences to life in a.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 569.28,
+      "end_time": 577.44
+    },
+    {
+      "text": "Whether it's four days a month or whatever it is.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 578.08,
+      "end_time": 581.28
+    },
+    {
+      "text": "Do you do any live events?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 581.44,
+      "end_time": 584.92
+    },
+    {
+      "text": "And when I say live events, let me kind of couch it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 584.92,
+      "end_time": 587.04
+    },
+    {
+      "text": "Like festivals, corporate, live, internal, or is it really more just an outward facing product launch or brand exposure type of event?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 587.04,
+      "end_time": 595.15
+    },
+    {
+      "text": "No, we do live events too.",
+      "speaker_name": "Michael",
+      "start_time": 595.94,
+      "end_time": 597.46
+    },
+    {
+      "text": "Okay, so you give me.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 598.18,
+      "end_time": 599.46
+    },
+    {
+      "text": "We do, we do Amazon's B2B, Amazon Web Services.",
+      "speaker_name": "Michael",
+      "start_time": 599.54,
+      "end_time": 603.14
+    },
+    {
+      "text": "They're all employees, all hands.",
+      "speaker_name": "Michael",
+      "start_time": 604.5,
+      "end_time": 607.02
+    },
+    {
+      "text": "At the global meeting that is actually held in several of the offices all around the world.",
+      "speaker_name": "Michael",
+      "start_time": 607.02,
+      "end_time": 612.1
+    },
+    {
+      "text": "We do some investor days.",
+      "speaker_name": "Michael",
+      "start_time": 612.98,
+      "end_time": 615.22
+    },
+    {
+      "text": "We also do live events on music festival activations.",
+      "speaker_name": "Michael",
+      "start_time": 615.3,
+      "end_time": 621.38
+    },
+    {
+      "text": "So there, there's quite a few live events.",
+      "speaker_name": "Michael",
+      "start_time": 621.7,
+      "end_time": 624.34
+    },
+    {
+      "text": "So when you do that, what is typically your role?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 624.34,
+      "end_time": 627.48
+    },
+    {
+      "text": "We create the concept and create all the, whatever the activation is and also manage the entire production.",
+      "speaker_name": "Michael",
+      "start_time": 628.44,
+      "end_time": 636.52
+    },
+    {
+      "text": "Are you doing the operations, the logistics, venue permitting, everything.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 637,
+      "end_time": 642.36
+    },
+    {
+      "text": "Everything badging, all kinds of badging.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 642.84,
+      "end_time": 645.92
+    },
+    {
+      "text": "Obviously you're using in some cases, some people you need to, to support, you know, that entire thing.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 645.92,
+      "end_time": 651.08
+    },
+    {
+      "text": "But that's a segment that we, we call owned and operated.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 651.08,
+      "end_time": 654.79
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 654.87,
+      "end_time": 655.27
+    },
+    {
+      "text": "So when we look at these four days concept sprints, like we'll bounty at the super bowl for us.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 656.23,
+      "end_time": 662.35
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 662.35,
+      "end_time": 662.71
+    },
+    {
+      "text": "That's just an experiential but when we look at something like, I don't know, you know, you were managing the College Football.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 662.87,
+      "end_time": 670.23
+    },
+    {
+      "text": "Amazon's B2B Day own and operate.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 670.55,
+      "end_time": 673.07
+    },
+    {
+      "text": "They're almost treating general contractor.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 673.07,
+      "end_time": 675.35
+    },
+    {
+      "text": "You're doing as much as you can in house.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 675.51,
+      "end_time": 677.43
+    },
+    {
+      "text": "And then there are pieces of that, like maybe fabrication, maybe certain pieces where you're farming out based on needs.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 678.39,
+      "end_time": 684.47
+    },
+    {
+      "text": "We'll form out some big construction, like if there's a mobile vehicle involved, obviously we're going to farm that out because we don't have the.",
+      "speaker_name": "Michael",
+      "start_time": 684.95,
+      "end_time": 692.87
+    },
+    {
+      "text": "Or if there's some type of big set piece.",
+      "speaker_name": "Michael",
+      "start_time": 693.27,
+      "end_time": 695.87
+    },
+    {
+      "text": "But most of it we handle in house.",
+      "speaker_name": "Michael",
+      "start_time": 695.87,
+      "end_time": 699.83
+    },
+    {
+      "text": "We have a full creative department that's probably about 15 people.",
+      "speaker_name": "Michael",
+      "start_time": 700.47,
+      "end_time": 703.83
+    },
+    {
+      "text": "So we don't even use really creative freelancers like most agencies in our space do.",
+      "speaker_name": "Michael",
+      "start_time": 705.2,
+      "end_time": 709.6
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 710.16,
+      "end_time": 710.6
+    },
+    {
+      "text": "And those 15.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 710.6,
+      "end_time": 711.68
+    },
+    {
+      "text": "So out of the 33, 15 are creatives as opposed to producers.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 711.68,
+      "end_time": 716
+    },
+    {
+      "text": "Or like I would say, I would say 12 are creatives.",
+      "speaker_name": "Michael",
+      "start_time": 716,
+      "end_time": 719.36
+    },
+    {
+      "text": "And we don't use producers.",
+      "speaker_name": "Michael",
+      "start_time": 719.36,
+      "end_time": 720.76
+    },
+    {
+      "text": "We have an account format that really the account person that is dealing with the client also acts as a producer.",
+      "speaker_name": "Michael",
+      "start_time": 720.76,
+      "end_time": 727.56
+    },
+    {
+      "text": "So we're not, we're not structured like a typical experiential agency where they have these producers.",
+      "speaker_name": "Michael",
+      "start_time": 727.56,
+      "end_time": 735.46
+    },
+    {
+      "text": "We, we, we will bring in a producer every once in a while, but from the outside, if we're like shorthanded.",
+      "speaker_name": "Michael",
+      "start_time": 735.62,
+      "end_time": 742.82
+    },
+    {
+      "text": "But really our account people, the same people that are actively face to face with the clients, are acting as the producers too, with the creatives.",
+      "speaker_name": "Michael",
+      "start_time": 743.06,
+      "end_time": 752.1
+    },
+    {
+      "text": "And so when you call them account people, so just so because everyone has different pieces of the language.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 752.42,
+      "end_time": 756.46
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 756.46,
+      "end_time": 756.7
+    },
+    {
+      "text": "Some people say producers, this, an account person is more of a sales rep.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 756.7,
+      "end_time": 760.52
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 760.6,
+      "end_time": 760.92
+    },
+    {
+      "text": "Going out there working to get more business.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 760.92,
+      "end_time": 763.6
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 763.6,
+      "end_time": 763.96
+    },
+    {
+      "text": "We call that new business.",
+      "speaker_name": "Michael",
+      "start_time": 764.92,
+      "end_time": 766.12
+    },
+    {
+      "text": "Okay, so this is purely a account person acts as a producer that works with an account or a set of accounts.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 767.08,
+      "end_time": 777.44
+    },
+    {
+      "text": "And then if another opportunity comes up, they're the one chap holding that too and trying to build a relationship to grow that account.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 777.44,
+      "end_time": 784.7
+    },
+    {
+      "text": "But their duties include being the producer on a specific activation.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 784.86,
+      "end_time": 789.5
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Michael",
+      "start_time": 790.46,
+      "end_time": 790.94
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 791.58,
+      "end_time": 792.14
+    },
+    {
+      "text": "All right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 792.14,
+      "end_time": 792.7
+    },
+    {
+      "text": "Yeah, yeah.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 792.86,
+      "end_time": 793.7
+    },
+    {
+      "text": "I mean, like I said, some people break it out, some people kind of do it like you.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 793.7,
+      "end_time": 798.14
+    },
+    {
+      "text": "I think hovercraft probably functions.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 798.14,
+      "end_time": 799.82
+    },
+    {
+      "text": "They call them producers, but I think they function a lot like you is those producers have freedom to and they're basically managing that environment.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 800.54,
+      "end_time": 808.54
+    },
+    {
+      "text": "But then as the next one comes up with a Fortune 10 company, they, they start working through that and then they have creatives that work alongside the producers in these individual pods that would then come up with the creative cool solution or whatever it is.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 808.78,
+      "end_time": 824.35
+    },
+    {
+      "text": "Yeah, because my background is primarily brand management.",
+      "speaker_name": "Michael",
+      "start_time": 824.67,
+      "end_time": 827.39
+    },
+    {
+      "text": "So I model agency, more like an advertising agency would be, would be structured, whereas the account person's always attached at the hip with the client.",
+      "speaker_name": "Michael",
+      "start_time": 827.63,
+      "end_time": 838.74
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 838.9,
+      "end_time": 839.3
+    },
+    {
+      "text": "But they're also working as a producer and that has worked better for us because you're constantly with the client and there's no information that really, you know, falls through cracks.",
+      "speaker_name": "Michael",
+      "start_time": 839.3,
+      "end_time": 851.9
+    },
+    {
+      "text": "If you, I feel like there's a comp service handing something off to a producer.",
+      "speaker_name": "Michael",
+      "start_time": 851.9,
+      "end_time": 855.38
+    },
+    {
+      "text": "There's always communication falling.",
+      "speaker_name": "Michael",
+      "start_time": 855.54,
+      "end_time": 858.02
+    },
+    {
+      "text": "Yeah, no, I think, like I said, I think when you look at Hovercraft, they have a good model like that too because like, for example, they're Nike's agency of record and they're Jordan's agency of record.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 858.5,
+      "end_time": 867.01
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 867.01,
+      "end_time": 867.29
+    },
+    {
+      "text": "And the same producers work on those accounts and over the course of a year they're doing multiple activations, but they're the ones that are always there in front of them.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 867.29,
+      "end_time": 877.65
+    },
+    {
+      "text": "So there's that continuity thing right there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 877.65,
+      "end_time": 880.17
+    },
+    {
+      "text": "And there's also, to your earlier point, the opportunity for incremental business because.",
+      "speaker_name": "Michael",
+      "start_time": 880.17,
+      "end_time": 886.41
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 886.81,
+      "end_time": 887.17
+    },
+    {
+      "text": "They will constantly be with the clients.",
+      "speaker_name": "Michael",
+      "start_time": 887.17,
+      "end_time": 888.69
+    },
+    {
+      "text": "They will be brainstorming other things that can be done and then they search, you know, for the budget so they find the budgets.",
+      "speaker_name": "Michael",
+      "start_time": 888.69,
+      "end_time": 894.41
+    },
+    {
+      "text": "We just had one where one of the largest fast food companies in the world we did an activation for.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 894.56,
+      "end_time": 900.96
+    },
+    {
+      "text": "And it's because of that producer.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 901.44,
+      "end_time": 904.32
+    },
+    {
+      "text": "Call it an account, call it whatever you want.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 904.32,
+      "end_time": 905.72
+    },
+    {
+      "text": "But in our nomenclature, producer was so close to the account, they called her and said, listen, we're looking to do this over here.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 905.72,
+      "end_time": 913.04
+    },
+    {
+      "text": "And she's like, great, I'll assemble the team and we'll work on that solution next.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 913.44,
+      "end_time": 918
+    },
+    {
+      "text": "And it was.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 918,
+      "end_time": 918.64
+    },
+    {
+      "text": "It's great because it's a no bid situation.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 919.6,
+      "end_time": 922.4
+    },
+    {
+      "text": "It's.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 922.79,
+      "end_time": 923.07
+    },
+    {
+      "text": "We loved what you did there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 923.07,
+      "end_time": 924.31
+    },
+    {
+      "text": "Get the band back together and do something really cool for us over here that meets this business initiative.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 925.11,
+      "end_time": 930.39
+    },
+    {
+      "text": "Exactly.",
+      "speaker_name": "Michael",
+      "start_time": 930.47,
+      "end_time": 930.99
+    },
+    {
+      "text": "I love a no bid situation.",
+      "speaker_name": "Michael",
+      "start_time": 930.99,
+      "end_time": 932.31
+    },
+    {
+      "text": "Yeah, exactly.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 932.79,
+      "end_time": 933.75
+    },
+    {
+      "text": "Okay, so I get it right now when you talk about you versus your co founder, Gabby, I think it is.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 933.83,
+      "end_time": 944.03
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Michael",
+      "start_time": 944.03,
+      "end_time": 944.39
+    },
+    {
+      "text": "What role do you play versus her?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 947.19,
+      "end_time": 949.43
+    },
+    {
+      "text": "I am taking more.",
+      "speaker_name": "Michael",
+      "start_time": 950.38,
+      "end_time": 951.78
+    },
+    {
+      "text": "I was the founder of the agency and in the last few years I've taken more of a backseat to where I'm handling more of the bigger picture things like working with our bankers line of credit and handling right now, like if we're exploring any private equity raise or maybe any strategy.",
+      "speaker_name": "Michael",
+      "start_time": 951.78,
+      "end_time": 972.58
+    },
+    {
+      "text": "And she's doing the day to day, which a big part of that is new business.",
+      "speaker_name": "Michael",
+      "start_time": 972.58,
+      "end_time": 977.18
+    },
+    {
+      "text": "I also attend conferences and sort of am the face of the agency.",
+      "speaker_name": "Michael",
+      "start_time": 977.5,
+      "end_time": 982.13
+    },
+    {
+      "text": "For example, Advertising Week was all this week in New York and I've been I've gone with some clients there and I sort of go and shake the tree still, but at a high level.",
+      "speaker_name": "Michael",
+      "start_time": 983.49,
+      "end_time": 993.17
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 993.89,
+      "end_time": 994.33
+    },
+    {
+      "text": "But you're not involved in any of the day to day operational of the agency?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 994.33,
+      "end_time": 999.81
+    },
+    {
+      "text": "Not activation.",
+      "speaker_name": "Michael",
+      "start_time": 1000.05,
+      "end_time": 1000.97
+    },
+    {
+      "text": "No.",
+      "speaker_name": "Michael",
+      "start_time": 1000.97,
+      "end_time": 1001.33
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1001.97,
+      "end_time": 1002.53
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1004.3,
+      "end_time": 1004.5
+    },
+    {
+      "text": "So you're doing the.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1004.5,
+      "end_time": 1005.42
+    },
+    {
+      "text": "Hey, you know, we're thinking about exploring whatever it may be.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1006.78,
+      "end_time": 1011.82
+    },
+    {
+      "text": "I need to look at either a capital raise, investment, exit apart.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1011.98,
+      "end_time": 1016.86
+    },
+    {
+      "text": "If there's a major partnership we could do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1016.86,
+      "end_time": 1018.7
+    },
+    {
+      "text": "If there's a face that I need to speak, a conference I need to speak at.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1018.7,
+      "end_time": 1022.54
+    },
+    {
+      "text": "So we have exposure.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1022.54,
+      "end_time": 1023.74
+    },
+    {
+      "text": "Maybe looking at it from overarching marketing perspective.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1024.14,
+      "end_time": 1026.86
+    },
+    {
+      "text": "Where do we want to go from a vision perspective.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1026.86,
+      "end_time": 1029.02
+    },
+    {
+      "text": "That's kind of your space.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1029.67,
+      "end_time": 1030.87
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 1031.43,
+      "end_time": 1031.83
+    },
+    {
+      "text": "And new, new relationships hire, you know.",
+      "speaker_name": "Michael",
+      "start_time": 1031.83,
+      "end_time": 1034.39
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 1036.07,
+      "end_time": 1036.43
+    },
+    {
+      "text": "Basically the sort of conference on the circuit, speaking and doing that.",
+      "speaker_name": "Michael",
+      "start_time": 1036.43,
+      "end_time": 1041.87
+    },
+    {
+      "text": "And my business partner, even though she is in the day to day, she's not involved in the activations.",
+      "speaker_name": "Michael",
+      "start_time": 1041.87,
+      "end_time": 1047.39
+    },
+    {
+      "text": "We have a COO that overlooks that and then a direct director of account service.",
+      "speaker_name": "Michael",
+      "start_time": 1047.39,
+      "end_time": 1052.63
+    },
+    {
+      "text": "I'm more looking for high level opportunities.",
+      "speaker_name": "Michael",
+      "start_time": 1053.59,
+      "end_time": 1056.95
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1058.04,
+      "end_time": 1058.48
+    },
+    {
+      "text": "Okay, sounds good.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1058.48,
+      "end_time": 1059.72
+    },
+    {
+      "text": "Can I just ask, what do you mean by activations?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1060.52,
+      "end_time": 1062.68
+    },
+    {
+      "text": "Just the language thing, Michael.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1062.84,
+      "end_time": 1064.84
+    },
+    {
+      "text": "Activations.",
+      "speaker_name": "Michael",
+      "start_time": 1065.48,
+      "end_time": 1066.2
+    },
+    {
+      "text": "Experiential activations.",
+      "speaker_name": "Michael",
+      "start_time": 1066.28,
+      "end_time": 1067.44
+    },
+    {
+      "text": "The actual.",
+      "speaker_name": "Michael",
+      "start_time": 1067.44,
+      "end_time": 1068.2
+    },
+    {
+      "text": "The actual work.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1068.44,
+      "end_time": 1069.28
+    },
+    {
+      "text": "The project.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1069.28,
+      "end_time": 1069.8
+    },
+    {
+      "text": "The actual.",
+      "speaker_name": "Michael",
+      "start_time": 1071.32,
+      "end_time": 1072.04
+    },
+    {
+      "text": "Yeah, we call an activation.",
+      "speaker_name": "Michael",
+      "start_time": 1072.52,
+      "end_time": 1073.96
+    },
+    {
+      "text": "We call an experiential project the, you know, whatever's happening in the project.",
+      "speaker_name": "Michael",
+      "start_time": 1074.44,
+      "end_time": 1080.12
+    },
+    {
+      "text": "An activation.",
+      "speaker_name": "Michael",
+      "start_time": 1080.44,
+      "end_time": 1081.24
+    },
+    {
+      "text": "Yeah, I get it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1081.48,
+      "end_time": 1082.2
+    },
+    {
+      "text": "Activations.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1082.2,
+      "end_time": 1082.84
+    },
+    {
+      "text": "There's a team under Gabby which are the account producer people who really manage the day to day activation.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1083.72,
+      "end_time": 1089.23
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Michael",
+      "start_time": 1090.5,
+      "end_time": 1090.74
+    },
+    {
+      "text": "And Gabby handles most a lot of new business.",
+      "speaker_name": "Michael",
+      "start_time": 1090.74,
+      "end_time": 1093.86
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1094.5,
+      "end_time": 1095.14
+    },
+    {
+      "text": "But we do have a new business person, but she likes to lead that.",
+      "speaker_name": "Michael",
+      "start_time": 1095.38,
+      "end_time": 1099.46
+    },
+    {
+      "text": "So she is leading RFPs.",
+      "speaker_name": "Michael",
+      "start_time": 1099.46,
+      "end_time": 1101.22
+    },
+    {
+      "text": "Because unfortunately we're at the point where we don't actually have the luxury of not having to cold call.",
+      "speaker_name": "Michael",
+      "start_time": 1102.82,
+      "end_time": 1109.5
+    },
+    {
+      "text": "We actually get including a lot of RFPs, but at the same time a lot of not all RFPS are worth pursuing.",
+      "speaker_name": "Michael",
+      "start_time": 1109.5,
+      "end_time": 1115.94
+    },
+    {
+      "text": "And that's actually a whole nother thing because a lot of I call it idea shopping or idea stealing really.",
+      "speaker_name": "Michael",
+      "start_time": 1115.94,
+      "end_time": 1124.18
+    },
+    {
+      "text": "And so, you know, if RPS are too small in budget, I would say anywhere like under half a million dollars, we really don't have the bandwidth to actually pitch them anymore.",
+      "speaker_name": "Michael",
+      "start_time": 1124.58,
+      "end_time": 1133.46
+    },
+    {
+      "text": "Got it, Got it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1134.34,
+      "end_time": 1137.22
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1137.46,
+      "end_time": 1138.02
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1139.06,
+      "end_time": 1139.66
+    },
+    {
+      "text": "And then I kind of like to ask this question, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1139.66,
+      "end_time": 1142.18
+    },
+    {
+      "text": "So you know, you guys have been doing a long time, obviously you know, you and Gabby have a, a separation of duties there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1142.26,
+      "end_time": 1150.18
+    },
+    {
+      "text": "That kind is working well.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1150.18,
+      "end_time": 1151.58
+    },
+    {
+      "text": "Are you looking to kind of continue to do this for a long term?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1153.02,
+      "end_time": 1156.46
+    },
+    {
+      "text": "Are you looking to be part of something bigger?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1156.46,
+      "end_time": 1158.34
+    },
+    {
+      "text": "Are you looking to just step out of the Business.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1158.34,
+      "end_time": 1159.98
+    },
+    {
+      "text": "Like what's the.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1159.98,
+      "end_time": 1160.78
+    },
+    {
+      "text": "Have you thought about.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1160.94,
+      "end_time": 1161.82
+    },
+    {
+      "text": "I've thought about all scenarios.",
+      "speaker_name": "Michael",
+      "start_time": 1162.7,
+      "end_time": 1164.02
+    },
+    {
+      "text": "I mean if it's interest, I mean I, I've thought about scenarios where I stay involved in, in the business.",
+      "speaker_name": "Michael",
+      "start_time": 1164.02,
+      "end_time": 1171.66
+    },
+    {
+      "text": "But like, like I said from a high level, working on strategy and, and more macro.",
+      "speaker_name": "Michael",
+      "start_time": 1171.74,
+      "end_time": 1179.16
+    },
+    {
+      "text": "But I'm 10 years older than Gabby, so I'm, you know, looking closer to retirement than I am like wanting to do this another 10 years.",
+      "speaker_name": "Michael",
+      "start_time": 1180.28,
+      "end_time": 1187.56
+    },
+    {
+      "text": "Got it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1188.36,
+      "end_time": 1188.92
+    },
+    {
+      "text": "Got.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1189,
+      "end_time": 1189.4
+    },
+    {
+      "text": "Yeah, that makes a lot of sense.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1189.64,
+      "end_time": 1190.92
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1190.92,
+      "end_time": 1191.24
+    },
+    {
+      "text": "And honestly what, you know, we're, me and my business partner, we've done this before and so we, we should be all intents and purposes done forever.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1191.4,
+      "end_time": 1200.4
+    },
+    {
+      "text": "But we just see a great opportunity here and so we came back kind of last ride of the Dalton boys, if you will.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1200.4,
+      "end_time": 1206.2
+    },
+    {
+      "text": "And you know, we're probably earmarking a four or five year and then we're going to sell the whole thing collectively for generational wealth for all the parties involved.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1206.44,
+      "end_time": 1218
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1218,
+      "end_time": 1218.28
+    },
+    {
+      "text": "That's kind of the concept.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1218.28,
+      "end_time": 1219.48
+    },
+    {
+      "text": "So.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1219.64,
+      "end_time": 1220.04
+    },
+    {
+      "text": "Absolutely.",
+      "speaker_name": "Michael",
+      "start_time": 1220.36,
+      "end_time": 1221.24
+    },
+    {
+      "text": "Did you want to add.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1222.28,
+      "end_time": 1223.08
+    },
+    {
+      "text": "No, that's the idea.",
+      "speaker_name": "Michael",
+      "start_time": 1223.72,
+      "end_time": 1224.68
+    },
+    {
+      "text": "And I think that what I'm seeing now is post Covid and especially this last year, experientials finally coming into its own.",
+      "speaker_name": "Michael",
+      "start_time": 1224.68,
+      "end_time": 1234.4
+    },
+    {
+      "text": "Whereas for years and years and years, and I attribute it to generational change in actual clients, the clients that are now have the budgets and the responsibilities and can pull the trigger or came up with experiential and they're much more experiential and value experiences.",
+      "speaker_name": "Michael",
+      "start_time": 1234.72,
+      "end_time": 1257.42
+    },
+    {
+      "text": "Especially after Covid being locked up.",
+      "speaker_name": "Michael",
+      "start_time": 1257.42,
+      "end_time": 1259.94
+    },
+    {
+      "text": "There's a whole different mentality on IRL experiences and we see that while we do a little social and digital too, we see the sort of consumer journey having moved from traditional television, linear television and out of home and radio to now experiential, digital, social.",
+      "speaker_name": "Michael",
+      "start_time": 1259.94,
+      "end_time": 1277.62
+    },
+    {
+      "text": "And that's, that's the consumer journey into retail and continues the relationship.",
+      "speaker_name": "Michael",
+      "start_time": 1277.62,
+      "end_time": 1283.62
+    },
+    {
+      "text": "Yeah, and I think we agree with that.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1284.34,
+      "end_time": 1286.42
+    },
+    {
+      "text": "I think we just take a little different perspective in the fact that we also see that what's starting to happen and because we've done this in prior, my business partner, we have a lot of experiences as Heather knows.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1286.98,
+      "end_time": 1300.66
+    },
+    {
+      "text": "You could see our LinkedIn, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1300.66,
+      "end_time": 1301.86
+    },
+    {
+      "text": "We've built companies in major technology evolution.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1301.86,
+      "end_time": 1305.98
+    },
+    {
+      "text": "The last one we did was like in cloud.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1305.98,
+      "end_time": 1307.54
+    },
+    {
+      "text": "We built it from scratch.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1307.54,
+      "end_time": 1308.74
+    },
+    {
+      "text": "We saw what happened at the beginning of crowd the middle.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1309.32,
+      "end_time": 1311.64
+    },
+    {
+      "text": "We became a market leader, we sold it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1311.64,
+      "end_time": 1313.36
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1313.36,
+      "end_time": 1313.72
+    },
+    {
+      "text": "Company sold.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1314.04,
+      "end_time": 1314.84
+    },
+    {
+      "text": "My business partner sold multiple companies to VMware.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1314.84,
+      "end_time": 1317.56
+    },
+    {
+      "text": "So we've been involved in a lot of these technology evolutions and this is a technology evolution.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1317.56,
+      "end_time": 1321.88
+    },
+    {
+      "text": "Say what you want about it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1321.96,
+      "end_time": 1322.96
+    },
+    {
+      "text": "But the reality is you're leveraging emerging technologies to create experiences that you could never do before.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1322.96,
+      "end_time": 1330.08
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1330.08,
+      "end_time": 1330.4
+    },
+    {
+      "text": "So that's just fact.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1330.4,
+      "end_time": 1331.96
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1331.96,
+      "end_time": 1332.36
+    },
+    {
+      "text": "But at the end of the day, what we're also seeing and what we also knew to be fact when we came back and wanted to do this is that the companies today are now starting to pivot a little bit and go, okay, I've spent a lot of money on these point experiences.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1332.44,
+      "end_time": 1349.66
+    },
+    {
+      "text": "Now I need to take a step back and I need to focus on working with a smaller roster of agencies that could do more for me.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1350.46,
+      "end_time": 1359.66
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1359.98,
+      "end_time": 1360.38
+    },
+    {
+      "text": "And that is the, I think, the pivot point that you're going to see in the next couple of years.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1360.94,
+      "end_time": 1365.34
+    },
+    {
+      "text": "And a lot of the individual agencies that swim in a single lane, it's going to be a tough sled for them.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1365.87,
+      "end_time": 1373.07
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1373.07,
+      "end_time": 1373.47
+    },
+    {
+      "text": "And we saw this in the.com, we saw this in cloud, we saw this in everything.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1373.87,
+      "end_time": 1377.47
+    },
+    {
+      "text": "It's just a natural evolution, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1377.95,
+      "end_time": 1379.95
+    },
+    {
+      "text": "So our model is kind of the same as you, and this was kind of a sports focused one.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1380.03,
+      "end_time": 1386.31
+    },
+    {
+      "text": "So I just want to give you an example, right, of how we think about it, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1386.31,
+      "end_time": 1389.55
+    },
+    {
+      "text": "We know there's big bets, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1389.63,
+      "end_time": 1391.23
+    },
+    {
+      "text": "If you look at sports alone like you're, you're leaning in.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1391.23,
+      "end_time": 1393.93
+    },
+    {
+      "text": "We know that sports sponsorship, 23% of it is forecasted to be immersive, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1393.93,
+      "end_time": 1400.57
+    },
+    {
+      "text": "In the next seven years, which is a multibillion dollar opportunity, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1400.57,
+      "end_time": 1404.09
+    },
+    {
+      "text": "When you think about fan zones, fan engagement, same concept, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1404.17,
+      "end_time": 1407.93
+    },
+    {
+      "text": "When you think about, yeah, one thing, maybe you want to just reshare, because right now the way you're sharing, you're sharing your whole screen and then there's something over the middle of your slide.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1408.09,
+      "end_time": 1417.29
+    },
+    {
+      "text": "Oh, okay.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1418.09,
+      "end_time": 1418.97
+    },
+    {
+      "text": "Maybe instead of selecting the investor deck, you got the whole, you know how you can do that?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1419.45,
+      "end_time": 1423.68
+    },
+    {
+      "text": "Let's see.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1424.72,
+      "end_time": 1425.28
+    },
+    {
+      "text": "Let me try that.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1425.28,
+      "end_time": 1426.08
+    },
+    {
+      "text": "There you go.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 1427.28,
+      "end_time": 1428.08
+    },
+    {
+      "text": "Okay, so then, then I'll, I'll hop into a couple of different things.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1428.64,
+      "end_time": 1431.52
+    },
+    {
+      "text": "Okay, so what we did over the last 12 months is, you know, so we set out and said, okay, we think there's a huge opportunity and fragmented industry about to hit hypergrowth, humongous opportunity, multibillion dollar revenue stream.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1432.08,
+      "end_time": 1447.04
+    },
+    {
+      "text": "The first, obviously slices of it or phases of it are coming in.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1447.28,
+      "end_time": 1452.16
+    },
+    {
+      "text": "This marketing and advertising spend, as you mentioned, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1452.16,
+      "end_time": 1455
+    },
+    {
+      "text": "It's going from traditional to more this experiential, immersive.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1455,
+      "end_time": 1459.48
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1459.48,
+      "end_time": 1459.8
+    },
+    {
+      "text": "And so we said, look, in order for us to be successful here, we gotta partner, find the best companies, acquire them and partner with their leadership to create an integrated global company.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1460.28,
+      "end_time": 1471.56
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1471.64,
+      "end_time": 1471.96
+    },
+    {
+      "text": "And so we started with omm, who's an agency in Europe and I'll have to click off in a second and click back onto their LinkedIns, but you know, I don't know if you've taken a look at them or not, but essentially their focus is they work with a lot of the biggest sports teams and leagues in Europe, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1471.96,
+      "end_time": 1490.38
+    },
+    {
+      "text": "And they do game day operations, 3D, all the 3D stuff that sits on the ribbon boards, all the brands they work with there, Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1490.46,
+      "end_time": 1499.5
+    },
+    {
+      "text": "And then when you look at hovercraft, Hovercraft again did no marketing, but they are probably the best creative agency in this space and now they're getting kind of known for that.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1500.14,
+      "end_time": 1514.04
+    },
+    {
+      "text": "And when we started to market them and people go, oh, you guys are the guys behind Bounty and you guys are the guys behind Coinbase and you guys are the guys behind ATT and Nike and Jordan and everything, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1514.2,
+      "end_time": 1523.8
+    },
+    {
+      "text": "And so, and then we just acquired Raw Cereal probably three weeks ago and Raw Serial is, you know, one of the leaders in creative production for some of the biggest acts in the world.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1524.28,
+      "end_time": 1536.83
+    },
+    {
+      "text": "Morgan Wallen, Jenny, you know, Laney, Laney Wilson, go down three doors down, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1536.83,
+      "end_time": 1542.59
+    },
+    {
+      "text": "And they do all of the creative.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1542.67,
+      "end_time": 1544.75
+    },
+    {
+      "text": "So, you know, we started on the sports side, we added the retail and brand side.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1544.75,
+      "end_time": 1552.03
+    },
+    {
+      "text": "Like I said, Hovercraft is the agency of record for Nike and Jordan.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1552.35,
+      "end_time": 1556.19
+    },
+    {
+      "text": "And now we have the entertainment side.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1556.72,
+      "end_time": 1558.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1558.2,
+      "end_time": 1558.56
+    },
+    {
+      "text": "And so we're building an integrated capability set across all of this where we get to leverage all of these capabilities in every single space.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1558.8,
+      "end_time": 1568.96
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1569.12,
+      "end_time": 1569.52
+    },
+    {
+      "text": "And we're marketing them in a way.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1569.84,
+      "end_time": 1571.56
+    },
+    {
+      "text": "And we're probably a month out from a big announcement.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1571.56,
+      "end_time": 1574.56
+    },
+    {
+      "text": "We're announcing a whole rebrand of everything under the hovercraft umbrella.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1574.56,
+      "end_time": 1578.24
+    },
+    {
+      "text": "Creating a group layer, you know, doing that, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1578.32,
+      "end_time": 1581.68
+    },
+    {
+      "text": "And doing that in a way where it's going to be very compelling.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1582.2,
+      "end_time": 1588.12
+    },
+    {
+      "text": "And then the companies that are bigger are going to go, why should I go anywhere else?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1588.28,
+      "end_time": 1593.4
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1593.56,
+      "end_time": 1593.96
+    },
+    {
+      "text": "You guys can do one stop shopping.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1593.96,
+      "end_time": 1596.72
+    },
+    {
+      "text": "So you're basically doing the old only company play that WPP and Interpublic and all those did, but you're bundling with new, with new generation marketing.",
+      "speaker_name": "Michael",
+      "start_time": 1596.72,
+      "end_time": 1610.31
+    },
+    {
+      "text": "So I would say there's a huge difference between Don sue and WPP and all those guys and us, they've been buying up companies and kind of running them as siloed entities, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1610.95,
+      "end_time": 1622.15
+    },
+    {
+      "text": "And that strategy, if you read all the trade rags and everything, and we talked to a lot of people who have sold their company and left that company, isn't working.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1622.71,
+      "end_time": 1632.23
+    },
+    {
+      "text": "That strategy isn't working anymore because all they did was Put a little money in their pocket, and it became kind of a cog in the wheel.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1632.39,
+      "end_time": 1639.96
+    },
+    {
+      "text": "And so they have 10 creative agencies.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1639.96,
+      "end_time": 1641.44
+    },
+    {
+      "text": "What good does that do?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1641.44,
+      "end_time": 1642.36
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1642.36,
+      "end_time": 1642.68
+    },
+    {
+      "text": "We're saying, okay, we have a creative agency in hovercraft.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1643.08,
+      "end_time": 1646.72
+    },
+    {
+      "text": "They're the best at what they do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1646.72,
+      "end_time": 1647.8
+    },
+    {
+      "text": "We have live.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1647.96,
+      "end_time": 1648.84
+    },
+    {
+      "text": "They're the best at what they do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1648.84,
+      "end_time": 1650.04
+    },
+    {
+      "text": "We have sport.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1650.04,
+      "end_time": 1651
+    },
+    {
+      "text": "What's missing from our jigsaw puzzle that we can pop in here?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1651.32,
+      "end_time": 1655.16
+    },
+    {
+      "text": "Well, one thing that, you know, we've.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1655.48,
+      "end_time": 1657.44
+    },
+    {
+      "text": "We've highlighted for heather in capital a Was that while we do a ton of what I'll call event production, the owned and operated space like you do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1657.44,
+      "end_time": 1666.88
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1667.04,
+      "end_time": 1667.44
+    },
+    {
+      "text": "Not really our forte.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1667.92,
+      "end_time": 1669.28
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1669.36,
+      "end_time": 1669.76
+    },
+    {
+      "text": "Studio does it because they're asked to do it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1670.16,
+      "end_time": 1673.36
+    },
+    {
+      "text": "But if we.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1673.68,
+      "end_time": 1674.48
+    },
+    {
+      "text": "So we do either, can build that up and use all of our case studies and everything that we've done in the past to just stamp our name in the whole experiential sector.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1674.48,
+      "end_time": 1684.16
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1684.56,
+      "end_time": 1684.96
+    },
+    {
+      "text": "Or we could find a company like yours, and we're talking to probably six others that we can slide in here that can support the studio and the live segment in terms of pure play, event production.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1685.68,
+      "end_time": 1700.19
+    },
+    {
+      "text": "And yes, you have some overlap or you have creatives.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1700.35,
+      "end_time": 1703.15
+    },
+    {
+      "text": "Our forte is more of the creative.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1703.55,
+      "end_time": 1705.71
+    },
+    {
+      "text": "The production becomes a byproduct of what we do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1706.27,
+      "end_time": 1708.83
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1709.07,
+      "end_time": 1709.47
+    },
+    {
+      "text": "But it's really the most amazing, creative, innovative, technically driven solutions that people are snapping up from us.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1709.95,
+      "end_time": 1717.64
+    },
+    {
+      "text": "They're literally calling inbound off the hook.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1717.64,
+      "end_time": 1720.08
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1720.08,
+      "end_time": 1720.36
+    },
+    {
+      "text": "I'm not even kidding.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1720.36,
+      "end_time": 1721.48
+    },
+    {
+      "text": "And so if we can find a big enough player and put them in there like yourself, and like I said, there are others, as you know, and slot them in, that's a good synergy.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1722.12,
+      "end_time": 1734.52
+    },
+    {
+      "text": "And that allows us to say, instead of tucking in, we now can give you a seat at the table because you have a specialty.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1734.6,
+      "end_time": 1742.56
+    },
+    {
+      "text": "It's not a weakness for us.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1743.12,
+      "end_time": 1744.6
+    },
+    {
+      "text": "It's just an area that we don't focus on.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1744.6,
+      "end_time": 1747.16
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1747.16,
+      "end_time": 1747.44
+    },
+    {
+      "text": "The opportunities that we get on the hovercraft side are really more of these large scale creative productions than they are just a typical event production.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1747.44,
+      "end_time": 1758.4
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1760.4,
+      "end_time": 1760.8
+    },
+    {
+      "text": "Live is a great example.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1760.88,
+      "end_time": 1762.16
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1762.16,
+      "end_time": 1762.48
+    },
+    {
+      "text": "If you look at live hovercraft have done some live events.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1764.32,
+      "end_time": 1767.85
+    },
+    {
+      "text": "Raw serial does some corporate live events.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1769.45,
+      "end_time": 1772.01
+    },
+    {
+      "text": "But raw serials focus has been more of live in terms of entertainment.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1772.01,
+      "end_time": 1775.85
+    },
+    {
+      "text": "And so the whole corporate live space, we probably have an impressive portfolio as anyone in the market just haven't marketed yet.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1776.49,
+      "end_time": 1783.69
+    },
+    {
+      "text": "So the minute we rebrand and market and focus and say, hey, we've done this at herbalife, at capital one, at this one and that one, we're gold, but we have to make sure before we do that that we're properly sniffed.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1783.93,
+      "end_time": 1799.42
+    },
+    {
+      "text": "So it's either that we're gonna extend our production team or product our producer team, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1799.42,
+      "end_time": 1807.98
+    },
+    {
+      "text": "To build a pod focused on just, you know, it could have no technology and doesn't matter.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1808.06,
+      "end_time": 1813.3
+    },
+    {
+      "text": "Could be event production or we're gonna go and acquire a company that could live within our walls and work hand in hand that we could just drive this thing together.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1813.3,
+      "end_time": 1823.08
+    },
+    {
+      "text": "Yes.",
+      "speaker_name": "Michael",
+      "start_time": 1824.76,
+      "end_time": 1825.2
+    },
+    {
+      "text": "And I think that's the premise.",
+      "speaker_name": "Michael",
+      "start_time": 1825.2,
+      "end_time": 1827.24
+    },
+    {
+      "text": "When I was on the client side, I would always use the adage that, you know, a great idea executed poorly is essentially a poor idea and a good idea executed with excellence, it turns into be a great idea.",
+      "speaker_name": "Michael",
+      "start_time": 1827.24,
+      "end_time": 1843.72
+    },
+    {
+      "text": "And what if you could pair both excellence in execution and excellence in creative?",
+      "speaker_name": "Michael",
+      "start_time": 1844.6,
+      "end_time": 1850.04
+    },
+    {
+      "text": "And the thing with the execution is that you need a plan B, C, D and E. And that's sort of where we have Excel because, you know, we don't drop balls and we also don't go over budget.",
+      "speaker_name": "Michael",
+      "start_time": 1850.36,
+      "end_time": 1862.04
+    },
+    {
+      "text": "Like if you look at what we do, right, we do the same things you do in some cases, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1862.84,
+      "end_time": 1868.76
+    },
+    {
+      "text": "Which is just standard, experiential.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1869.24,
+      "end_time": 1871.2
+    },
+    {
+      "text": "And like I said, we could expand on this, but we also do very technology driven 3D, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1871.2,
+      "end_time": 1879.91
+    },
+    {
+      "text": "And the things we did for Coinbase, full creative productions, that's where we're getting huge for Nike, they asked us to design buildings for them.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1879.99,
+      "end_time": 1890.31
+    },
+    {
+      "text": "And so we focus in this space.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1891.43,
+      "end_time": 1894.07
+    },
+    {
+      "text": "If you look at RAW Serial, Raw Serial focuses in creative production for some of the biggest brands in the entire world, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1894.07,
+      "end_time": 1902.6
+    },
+    {
+      "text": "Sands and Boots Festival, the Strokes, Morgan Wallen, they did their whole concert, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1902.84,
+      "end_time": 1906.84
+    },
+    {
+      "text": "They, Morgan Wallen came to them and said, hey, we want you to creatively produce and develop all the assets for our world tour, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1906.84,
+      "end_time": 1914.2
+    },
+    {
+      "text": "Then you go to OMM and you look at what OMM does and they play heavy in the sports world.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1914.52,
+      "end_time": 1919.4
+    },
+    {
+      "text": "Not in fan engagement, but more in this LED.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1919.72,
+      "end_time": 1922.6
+    },
+    {
+      "text": "NFL always calls OMM, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1922.76,
+      "end_time": 1924.84
+    },
+    {
+      "text": "And all these 3D ribbons where they work with things.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1925.24,
+      "end_time": 1928.58
+    },
+    {
+      "text": "A great example of that is JAL, if I can find it, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1929.62,
+      "end_time": 1933.58
+    },
+    {
+      "text": "JAL.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1933.58,
+      "end_time": 1934.18
+    },
+    {
+      "text": "We did all their 3D banners for Liverpool.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1934.66,
+      "end_time": 1937.18
+    },
+    {
+      "text": "They called us and said, hey, we're having this event at km.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1937.18,
+      "end_time": 1939.7
+    },
+    {
+      "text": "I know you guys, a partner, you know, just did this deal in hovercraft's part of it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1939.78,
+      "end_time": 1944.18
+    },
+    {
+      "text": "Can you do it?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1944.18,
+      "end_time": 1944.62
+    },
+    {
+      "text": "And we're like, sure.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1944.62,
+      "end_time": 1945.38
+    },
+    {
+      "text": "And then in Kosm in three weeks, we did this and they went crazy.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1945.62,
+      "end_time": 1951.58
+    },
+    {
+      "text": "It was posed with the pros.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1951.58,
+      "end_time": 1952.9
+    },
+    {
+      "text": "It was all kinds of stuff.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1952.9,
+      "end_time": 1954.1
+    },
+    {
+      "text": "They loved it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1954.66,
+      "end_time": 1955.18
+    },
+    {
+      "text": "It was the simplest thing we can do within three weeks for them.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1955.18,
+      "end_time": 1958.46
+    },
+    {
+      "text": "It was like we just Unwrap the most amazing immersive thing in the world.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1958.46,
+      "end_time": 1963.3
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1963.3,
+      "end_time": 1963.66
+    },
+    {
+      "text": "And so everything's there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1963.66,
+      "end_time": 1966.1
+    },
+    {
+      "text": "We have all the relationships.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1966.34,
+      "end_time": 1968.42
+    },
+    {
+      "text": "We have the whole pipeline.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1968.66,
+      "end_time": 1970.1
+    },
+    {
+      "text": "The question for us in the immersive space is do we just lean in hard and hire build a leadership team and just go at it?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1970.9,
+      "end_time": 1978.94
+    },
+    {
+      "text": "Yeah, we've been doing it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1978.94,
+      "end_time": 1980.91
+    },
+    {
+      "text": "So it wouldn't be that much of a stress.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1980.91,
+      "end_time": 1982.59
+    },
+    {
+      "text": "Or is it easier to just bring in an expert like you and you and Gabby and bring in your organization and then work together to say, okay, anything in these event productions that we need go to you?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1982.59,
+      "end_time": 1995.39
+    },
+    {
+      "text": "Anything that's more of a larger scale creative stays within the walls of hovercraft.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 1995.87,
+      "end_time": 2000.91
+    },
+    {
+      "text": "And the same thing on the raw serial side, you know?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2001.71,
+      "end_time": 2003.79
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2005.56,
+      "end_time": 2005.76
+    },
+    {
+      "text": "And it's.",
+      "speaker_name": "Michael",
+      "start_time": 2005.76,
+      "end_time": 2006.28
+    },
+    {
+      "text": "The project actually will self determine who the lead is.",
+      "speaker_name": "Michael",
+      "start_time": 2006.44,
+      "end_time": 2010.76
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2011.08,
+      "end_time": 2011.48
+    },
+    {
+      "text": "That's exactly right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2011.56,
+      "end_time": 2012.52
+    },
+    {
+      "text": "But as long as you're sitting at the table, like, here's a great example.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2012.52,
+      "end_time": 2015.8
+    },
+    {
+      "text": "We do this for Jordan.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2015.8,
+      "end_time": 2017.08
+    },
+    {
+      "text": "I was here.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2017.16,
+      "end_time": 2017.72
+    },
+    {
+      "text": "I was at the Super Bowl.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2017.72,
+      "end_time": 2018.72
+    },
+    {
+      "text": "This was the coolest thing.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2018.72,
+      "end_time": 2019.8
+    },
+    {
+      "text": "There wasn't an ounce of technology in it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2019.88,
+      "end_time": 2021.96
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2022.2,
+      "end_time": 2022.6
+    },
+    {
+      "text": "But Jordan asked us design at the.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2022.68,
+      "end_time": 2025.4
+    },
+    {
+      "text": "At the NBA All Star game.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2025.4,
+      "end_time": 2027.4
+    },
+    {
+      "text": "We built this in the basement of Shoe palace, which is a retail store.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2027.64,
+      "end_time": 2031.96
+    },
+    {
+      "text": "They asked us design a really cool, funky thing.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2032.52,
+      "end_time": 2035
+    },
+    {
+      "text": "We had a DJ there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2035.08,
+      "end_time": 2036.24
+    },
+    {
+      "text": "It was really cool.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2036.24,
+      "end_time": 2037.24
+    },
+    {
+      "text": "Gorgeous.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2037.88,
+      "end_time": 2038.44
+    },
+    {
+      "text": "Yeah, it was gorgeous.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2038.84,
+      "end_time": 2040.12
+    },
+    {
+      "text": "So this is the stuff that we do, but, you know, and we do it all day long, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2040.12,
+      "end_time": 2045.8
+    },
+    {
+      "text": "But we're like, we don't even market that.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2045.96,
+      "end_time": 2048.28
+    },
+    {
+      "text": "We market stuff like this, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2048.44,
+      "end_time": 2051.48
+    },
+    {
+      "text": "We're building an entire huge technically driven activation.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2051.64,
+      "end_time": 2057.24
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2057.97,
+      "end_time": 2058.21
+    },
+    {
+      "text": "That's the stuff that we do all over the place.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2059.25,
+      "end_time": 2062.45
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2063.09,
+      "end_time": 2063.41
+    },
+    {
+      "text": "And if you look at the @t, right, you look at Coinbase, what we did for them at the arena, I'm sure you guys have went through and you saw a lot of this stuff, but my point is, like, Bounty was insane.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2063.41,
+      "end_time": 2076.49
+    },
+    {
+      "text": "We got so much press right now we're telling people about it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2076.49,
+      "end_time": 2079.85
+    },
+    {
+      "text": "Last year, they didn't tell anybody we bought them.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2079.85,
+      "end_time": 2081.37
+    },
+    {
+      "text": "Like, you got to tell everybody that you're the ones that did it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2081.37,
+      "end_time": 2083.65
+    },
+    {
+      "text": "Now we're telling everybody.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2083.93,
+      "end_time": 2085.05
+    },
+    {
+      "text": "Their phone literally rings off the hook of people going, I didn't know that was you.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2085.21,
+      "end_time": 2091.37
+    },
+    {
+      "text": "Great.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2092.25,
+      "end_time": 2092.65
+    },
+    {
+      "text": "Now I finally got to who's actually doing the work.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2092.89,
+      "end_time": 2095.29
+    },
+    {
+      "text": "Can you do this for us?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2095.77,
+      "end_time": 2096.97
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2097.45,
+      "end_time": 2097.85
+    },
+    {
+      "text": "And we're waiting work with some of the biggest brands in the world that we're not even bidding.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2098.25,
+      "end_time": 2101.93
+    },
+    {
+      "text": "We are still doing bidding.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2102.09,
+      "end_time": 2103.97
+    },
+    {
+      "text": "There's no question in this industry, you have to.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2103.97,
+      "end_time": 2105.85
+    },
+    {
+      "text": "But there are some brands that come to us, and the minute they come to Us, it goes from one activation to four because they're like, why would I use anyone else?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2105.85,
+      "end_time": 2115.04
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2115.12,
+      "end_time": 2115.48
+    },
+    {
+      "text": "You guys are in that four or five day moment in time.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2115.48,
+      "end_time": 2118.72
+    },
+    {
+      "text": "Nothing went wrong, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2119.12,
+      "end_time": 2121.32
+    },
+    {
+      "text": "And so.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2121.32,
+      "end_time": 2122
+    },
+    {
+      "text": "And it was insane and everyone loved it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2122.16,
+      "end_time": 2124.04
+    },
+    {
+      "text": "Like, why wouldn't I do it?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2124.04,
+      "end_time": 2125.32
+    },
+    {
+      "text": "Like this Bounty, Wingman all started with how do you.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2125.32,
+      "end_time": 2128.64
+    },
+    {
+      "text": "And when they did this two years ago with PG1, it was like, how do you make Bounty cool?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2128.64,
+      "end_time": 2134.56
+    },
+    {
+      "text": "Well, let's create this whole team Wingman and let's serve wings at it, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2135.21,
+      "end_time": 2139.61
+    },
+    {
+      "text": "And then let's put it on Radio row where they could do interviews and they had Gronk there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2140.01,
+      "end_time": 2143.73
+    },
+    {
+      "text": "They had all kinds of stuff and it got more press than anything.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2143.73,
+      "end_time": 2148.25
+    },
+    {
+      "text": "Two years ago, hovercraft wasn't mentioned this year.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2148.41,
+      "end_time": 2151.93
+    },
+    {
+      "text": "Hovercraft was like, yeah, you know, we did this with Bounty and all this stuff.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2152.49,
+      "end_time": 2156.17
+    },
+    {
+      "text": "You had to see the level of companies that came out of the woodworks, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2156.89,
+      "end_time": 2161.94
+    },
+    {
+      "text": "So marketing plays a big part of it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2163.14,
+      "end_time": 2165.02
+    },
+    {
+      "text": "And we structured our marketing organization to be core and make sure every organization is on a cadence, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2165.02,
+      "end_time": 2172.58
+    },
+    {
+      "text": "For raw cereal on if you go look at the raw serials.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2172.98,
+      "end_time": 2175.66
+    },
+    {
+      "text": "Instagram, we just started marketing with them this week.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2175.66,
+      "end_time": 2178.02
+    },
+    {
+      "text": "They did three posts for Jenny.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2178.34,
+      "end_time": 2180.18
+    },
+    {
+      "text": "Their third post was just a snippet of three little animations they did there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2180.9,
+      "end_time": 2185.22
+    },
+    {
+      "text": "72 hours ago we posted it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2186.5,
+      "end_time": 2188.42
+    },
+    {
+      "text": "We have 2500 likes and 20,000 views, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2188.81,
+      "end_time": 2193.21
+    },
+    {
+      "text": "And so that's the type of thing that we're going to overlay and that we bring to the table that overlays all of what you guys do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2193.77,
+      "end_time": 2202.17
+    },
+    {
+      "text": "You guys are the most creative guys.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2202.41,
+      "end_time": 2204.17
+    },
+    {
+      "text": "You guys are great at what you do, but a lot of time you guys are light on the marketing focus.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2204.489,
+      "end_time": 2209.21
+    },
+    {
+      "text": "No one in this industry likes to talk about themselves like, you know.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2210.09,
+      "end_time": 2213.29
+    },
+    {
+      "text": "No, exactly.",
+      "speaker_name": "Michael",
+      "start_time": 2215.22,
+      "end_time": 2216.26
+    },
+    {
+      "text": "And that's exactly what I've been doing because no one was.",
+      "speaker_name": "Michael",
+      "start_time": 2216.34,
+      "end_time": 2220.26
+    },
+    {
+      "text": "No one's going to toot your horn, but so you have to do it yourself.",
+      "speaker_name": "Michael",
+      "start_time": 2220.26,
+      "end_time": 2223.22
+    },
+    {
+      "text": "So I go to these conferences and I arrange small dinners and we, we do small client dinners and to help tout what we do.",
+      "speaker_name": "Michael",
+      "start_time": 2223.54,
+      "end_time": 2233.38
+    },
+    {
+      "text": "Yeah, so, so that's really the, the bottom line here, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2234.5,
+      "end_time": 2239.06
+    },
+    {
+      "text": "It's, I think, an opportunity that does not exist.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2239.06,
+      "end_time": 2243.18
+    },
+    {
+      "text": "You can go to Dansu, you can go to a PE company, you can go to a large strategic.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2243.34,
+      "end_time": 2247.58
+    },
+    {
+      "text": "You will not get an opportunity to exist for a couple of reasons.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2248.14,
+      "end_time": 2251.94
+    },
+    {
+      "text": "One is we still have some open seats at the table, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2251.94,
+      "end_time": 2256.14
+    },
+    {
+      "text": "That we want to fill, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2256.14,
+      "end_time": 2257.42
+    },
+    {
+      "text": "And so you don't get to come in as a tuck in where people tell you what to do.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2257.74,
+      "end_time": 2261.94
+    },
+    {
+      "text": "You're coming in with divisional responsibility to do what you do and how can we make it better, faster, stronger?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2261.94,
+      "end_time": 2268.2
+    },
+    {
+      "text": "That's number one.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2268.35,
+      "end_time": 2268.99
+    },
+    {
+      "text": "Number two is our enterprise value because we've, we're three acquisitions in.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2269.23,
+      "end_time": 2273.39
+    },
+    {
+      "text": "Isn't in the like billions where you're going to get, you're going to trade your shares for a company that, you know there's not going to be any, any real growth.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2273.71,
+      "end_time": 2281.59
+    },
+    {
+      "text": "I mean our whole idea for all of us, everyone involved is that the shares of this thing at the end are going to be so five years.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2281.59,
+      "end_time": 2291.63
+    },
+    {
+      "text": "We're going to create generational wealth for everybody.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2292.27,
+      "end_time": 2294.75
+    },
+    {
+      "text": "Everyone's going to cash, everyone's going to make a ton of money because your shares look like my shares, like everybody else's shares.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2295.6,
+      "end_time": 2302.16
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2302.16,
+      "end_time": 2302.4
+    },
+    {
+      "text": "You trade a portion of the purchase price and our ability to help you grow and make money every year is substantial.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2302.4,
+      "end_time": 2309.76
+    },
+    {
+      "text": "And I think the final thing is, and this announcement in 30 days will kind of kick start this thing with new websites and everything is that our name is going to be everywhere.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2309.76,
+      "end_time": 2319.44
+    },
+    {
+      "text": "So for the people that go, hey, I'm in a lane, I'm doing great here, but if I was part of what you do and had a seat at the table and can help drive this thing together, we could kind of create the best company in the whole industry.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2319.52,
+      "end_time": 2334.48
+    },
+    {
+      "text": "And that's, that's where we're going.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2335.84,
+      "end_time": 2337.4
+    },
+    {
+      "text": "We're well funded, we have cash to do deals.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2337.4,
+      "end_time": 2340.48
+    },
+    {
+      "text": "Obviously, you know, it's, it's an EBITDA based world as you know.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2341.04,
+      "end_time": 2344.2
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2344.2,
+      "end_time": 2344.52
+    },
+    {
+      "text": "And so, but it's an M and A model which is you'll take ships off the table, you'll have an earn out and that share that will turn into Skyview stock will be worth a lot more because every time we add a company we're now worth more and more.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2344.52,
+      "end_time": 2359.45
+    },
+    {
+      "text": "And in five years we've already have a list of who's buying us depending on how we want to lean into some areas, technology, sports, retail, consulting.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2359.45,
+      "end_time": 2369.21
+    },
+    {
+      "text": "And we're going to sell for 15, 20x.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2369.69,
+      "end_time": 2372.81
+    },
+    {
+      "text": "That's fat.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2372.97,
+      "end_time": 2373.77
+    },
+    {
+      "text": "You know, and everybody's gonna profit.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2374,
+      "end_time": 2376.64
+    },
+    {
+      "text": "No, I mean it sounds interesting and like I, like I was telling Heather, we started to go down this road.",
+      "speaker_name": "Michael",
+      "start_time": 2379.36,
+      "end_time": 2384.68
+    },
+    {
+      "text": "We've hired an attorney about six months ago and Andreas Role at Everose, which is a boutique investment bank.",
+      "speaker_name": "Michael",
+      "start_time": 2384.68,
+      "end_time": 2392.8
+    },
+    {
+      "text": "I don't know if you are familiar with him and, and definitely open to it.",
+      "speaker_name": "Michael",
+      "start_time": 2392.8,
+      "end_time": 2399.48
+    },
+    {
+      "text": "So that's why I took the, I took the call from Heather.",
+      "speaker_name": "Michael",
+      "start_time": 2399.48,
+      "end_time": 2401.6
+    },
+    {
+      "text": "So I, I think that if it's worth it to you, we can arrange another meeting with Gabby and I And are you, where are you actually situated physically?",
+      "speaker_name": "Michael",
+      "start_time": 2401.6,
+      "end_time": 2413.36
+    },
+    {
+      "text": "I am in New Jersey.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2413.36,
+      "end_time": 2414.56
+    },
+    {
+      "text": "Where are you in New York?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2414.56,
+      "end_time": 2415.6
+    },
+    {
+      "text": "I'm in the city.",
+      "speaker_name": "Michael",
+      "start_time": 2415.68,
+      "end_time": 2416.4
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 2416.4,
+      "end_time": 2416.8
+    },
+    {
+      "text": "Yeah, Gabby, Gabby's down in, in Miami.",
+      "speaker_name": "Michael",
+      "start_time": 2416.8,
+      "end_time": 2420.4
+    },
+    {
+      "text": "During COVID she went down there and I, yeah.",
+      "speaker_name": "Michael",
+      "start_time": 2422.32,
+      "end_time": 2425.92
+    },
+    {
+      "text": "Kind of function outside of New York City.",
+      "speaker_name": "Michael",
+      "start_time": 2425.92,
+      "end_time": 2427.6
+    },
+    {
+      "text": "So I'm here.",
+      "speaker_name": "Michael",
+      "start_time": 2427.6,
+      "end_time": 2428.32
+    },
+    {
+      "text": "So here's the question, the one question I have for you and it is, it is an important question.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2428.64,
+      "end_time": 2432.16
+    },
+    {
+      "text": "I talked about it with Heather.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2432.16,
+      "end_time": 2433.44
+    },
+    {
+      "text": "If you hired a banker and you're paying a banker to be in a process, we typically don't do those type of deals.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2433.99,
+      "end_time": 2441.99
+    },
+    {
+      "text": "And I'll be honest and transparent and that's the one thing you're going to find with me.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2441.99,
+      "end_time": 2444.95
+    },
+    {
+      "text": "What we found with bankers, they'll tend to get in the middle, try to prop up a price, or tell me I got to deliver an IOI on 10 different people.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2445.03,
+      "end_time": 2455.99
+    },
+    {
+      "text": "We don't compete.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2456.79,
+      "end_time": 2457.67
+    },
+    {
+      "text": "We're looking for the one that wants to join us.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2457.67,
+      "end_time": 2461.27
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2461.59,
+      "end_time": 2461.87
+    },
+    {
+      "text": "I'm not saying you shouldn't have a lawyer.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2461.87,
+      "end_time": 2463.19
+    },
+    {
+      "text": "You should.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2463.19,
+      "end_time": 2463.67
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2463.75,
+      "end_time": 2464.15
+    },
+    {
+      "text": "But when you say banker, I just want to make sure that you're not in the middle or starting up.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2464.47,
+      "end_time": 2468.23
+    },
+    {
+      "text": "You've signed a process.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2468.23,
+      "end_time": 2469.19
+    },
+    {
+      "text": "We haven't signed a process yet, but what we've signed is just a non disclosure agreement.",
+      "speaker_name": "Michael",
+      "start_time": 2469.83,
+      "end_time": 2474.95
+    },
+    {
+      "text": "We have signed on with the lawyer though, because the lawyer, you're going to need a lawyer.",
+      "speaker_name": "Michael",
+      "start_time": 2474.95,
+      "end_time": 2479.11
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2479.11,
+      "end_time": 2479.43
+    },
+    {
+      "text": "You know, so that's not a problem.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2479.83,
+      "end_time": 2481.03
+    },
+    {
+      "text": "But the minute you sign on with the banker A, you now have to pay the banker.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2481.03,
+      "end_time": 2485.35
+    },
+    {
+      "text": "So the banker is going to tell you they're worth their weight in gold.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2485.35,
+      "end_time": 2489.61
+    },
+    {
+      "text": "And there's probably The Lehman system, 5, 4, 3, 2, 1, whatever it is.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2489.61,
+      "end_time": 2492.93
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2492.93,
+      "end_time": 2493.29
+    },
+    {
+      "text": "But at the end of the day, what they're going to tell you is, hey, look, you know, I think we need to get multiple bids and have a process.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2493.37,
+      "end_time": 2499.85
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2500.01,
+      "end_time": 2500.41
+    },
+    {
+      "text": "We will tell you that.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2500.97,
+      "end_time": 2502.73
+    },
+    {
+      "text": "I'll shake your hand and say, good luck to you, I'll help you.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2502.73,
+      "end_time": 2505.25
+    },
+    {
+      "text": "If you want to call me and I'll be happy to give you advice, I'm always happy to do it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2505.25,
+      "end_time": 2508.89
+    },
+    {
+      "text": "I don't play in that because it just, it's not what we're after as what we're looking for.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2509.21,
+      "end_time": 2515.74
+    },
+    {
+      "text": "We're looking for the company that says, hey, let's continue the dialog.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2515.74,
+      "end_time": 2519.7
+    },
+    {
+      "text": "If the money is good, obviously we're going to get our lawyer, an accountant and we're going to determine for ourselves the value.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2519.7,
+      "end_time": 2524.54
+    },
+    {
+      "text": "Right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2525.18,
+      "end_time": 2525.54
+    },
+    {
+      "text": "But if we think this is a good fit, we think, I don't want to be talking to bankers.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2525.54,
+      "end_time": 2529.62
+    },
+    {
+      "text": "It's just right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2529.62,
+      "end_time": 2530.42
+    },
+    {
+      "text": "Heather never works.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2530.42,
+      "end_time": 2531.3
+    },
+    {
+      "text": "I Mean, honestly, I'm sorry, but, you know, that's why we never bid on.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2531.3,
+      "end_time": 2535.42
+    },
+    {
+      "text": "We've had.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2535.42,
+      "end_time": 2536.06
+    },
+    {
+      "text": "Unfortunately, and it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2537.18,
+      "end_time": 2540.3
+    },
+    {
+      "text": "It may sound a bit funny, but we've had multiple potential deals that got completely derailed and never went.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2540.54,
+      "end_time": 2546.14
+    },
+    {
+      "text": "There was a great company these guys wanted to acquire the should have done it.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2546.14,
+      "end_time": 2549.7
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2549.7,
+      "end_time": 2549.98
+    },
+    {
+      "text": "Remember that?",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2549.98,
+      "end_time": 2550.62
+    },
+    {
+      "text": "The guys didn't get back to us.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2550.7,
+      "end_time": 2552.46
+    },
+    {
+      "text": "They dragged their feet.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2552.62,
+      "end_time": 2553.7
+    },
+    {
+      "text": "They put a junior person on and we haven't found the advisor.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2553.7,
+      "end_time": 2559.58
+    },
+    {
+      "text": "It's productive and we're happy to, you know, obviously, and Andy's happy to.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2560.46,
+      "end_time": 2564.98
+    },
+    {
+      "text": "Andy and I are happy to give advice, but I think you can always capital a play.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2564.98,
+      "end_time": 2570.54
+    },
+    {
+      "text": "Well, we work for intermediary.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2571.42,
+      "end_time": 2574.54
+    },
+    {
+      "text": "Yeah, we're the intermediary, but we work for Jeff.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2575.02,
+      "end_time": 2577.06
+    },
+    {
+      "text": "At this point, we're helping with the acquirer.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2577.06,
+      "end_time": 2579.06
+    },
+    {
+      "text": "So we can give you sort of industry standard and tell you our thoughts, but obviously, very transparently, we're hired by Jeff to find acquisitions.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2579.06,
+      "end_time": 2587.1
+    },
+    {
+      "text": "They're knocking on your door, as they are 20 other companies that we have meetings every.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2587.74,
+      "end_time": 2592.34
+    },
+    {
+      "text": "Every day with Companies.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2592.34,
+      "end_time": 2593.34
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2593.42,
+      "end_time": 2593.82
+    },
+    {
+      "text": "Some of them we like.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2594.44,
+      "end_time": 2595.12
+    },
+    {
+      "text": "Some of them doesn't make sense.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2595.12,
+      "end_time": 2596.48
+    },
+    {
+      "text": "Some of them, you know, there's not.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2596.48,
+      "end_time": 2597.8
+    },
+    {
+      "text": "We don't think there'll be a good cultural fit, but some of them we have probably a pipeline right now, about six active discussions that are moving down a path.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2597.8,
+      "end_time": 2606.52
+    },
+    {
+      "text": "Well, right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2606.52,
+      "end_time": 2607.24
+    },
+    {
+      "text": "It shouldn't feel like.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2608.2,
+      "end_time": 2609.52
+    },
+    {
+      "text": "It's not like don't talk to them because there's something sinister here.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2609.52,
+      "end_time": 2613.48
+    },
+    {
+      "text": "It is really more that it really complicates the process.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2613.48,
+      "end_time": 2616.44
+    },
+    {
+      "text": "And as what I think I said to you and I say to everyone I talk to, which is that Jeff and Travis, who Travis you'll meet, who are very professional, very clear in a proposal, you can take it to friends, to other people to get opinions, your lawyer, whatever.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2616.44,
+      "end_time": 2632.41
+    },
+    {
+      "text": "I just think the moment.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2632.41,
+      "end_time": 2633.49
+    },
+    {
+      "text": "What we have found is.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2633.49,
+      "end_time": 2634.57
+    },
+    {
+      "text": "And these guys won't do it, the moment you have another investment, you know, investment bank M and a group involved, it drags out and it becomes very expensive for everybody and less profitable for everyone.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2634.57,
+      "end_time": 2645.93
+    },
+    {
+      "text": "Start that way with us.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2647.05,
+      "end_time": 2648.49
+    },
+    {
+      "text": "And if you're feeling uncomfortable, then you could.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2648.49,
+      "end_time": 2650.86
+    },
+    {
+      "text": "And I'm not saying not to do it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2650.86,
+      "end_time": 2652.7
+    },
+    {
+      "text": "I'm saying if you want to.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2652.7,
+      "end_time": 2653.58
+    },
+    {
+      "text": "If that's what you want to do, like, go for it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2653.58,
+      "end_time": 2655.74
+    },
+    {
+      "text": "When I saw my cloud company, I hired a banker and did a process, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2655.74,
+      "end_time": 2659.7
+    },
+    {
+      "text": "And I will tell you that, you know, at the time, I thought it was great.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2660.26,
+      "end_time": 2663.46
+    },
+    {
+      "text": "Obviously I sold it, I made generational money.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2663.78,
+      "end_time": 2666.58
+    },
+    {
+      "text": "But I kind of felt like it was.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2667.22,
+      "end_time": 2668.94
+    },
+    {
+      "text": "It was a colder process.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2668.94,
+      "end_time": 2670.82
+    },
+    {
+      "text": "And I think there was A probably a couple of opportunities that I could have explored that people kind of shied away from because they said to me, look, I don't, I just don't play.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2670.82,
+      "end_time": 2679.31
+    },
+    {
+      "text": "And, you know, I'm not going to just throw bids in.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2679.31,
+      "end_time": 2681.75
+    },
+    {
+      "text": "And hopefully, you know, we don't.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2681.75,
+      "end_time": 2683.15
+    },
+    {
+      "text": "There's too many companies out there that we can go do a deal with that are founder to founder.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2683.15,
+      "end_time": 2687.79
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2687.79,
+      "end_time": 2688.15
+    },
+    {
+      "text": "And so that's your choice.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2689.35,
+      "end_time": 2690.51
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2690.51,
+      "end_time": 2690.87
+    },
+    {
+      "text": "Again, I'm not trying to scare you away.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2691.11,
+      "end_time": 2692.79
+    },
+    {
+      "text": "Be my guest.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2693.99,
+      "end_time": 2694.79
+    },
+    {
+      "text": "I'm just saying the minute you sign with a banker, that banker is going to insert themselves in the middle.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2694.79,
+      "end_time": 2701.23
+    },
+    {
+      "text": "And you may want that and you may want to create a process.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2701.23,
+      "end_time": 2703.91
+    },
+    {
+      "text": "Go for it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2704.82,
+      "end_time": 2705.34
+    },
+    {
+      "text": "Like I said, I'll be happy to be a sounding board for you.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2705.34,
+      "end_time": 2708.22
+    },
+    {
+      "text": "I don't really care.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2708.22,
+      "end_time": 2708.98
+    },
+    {
+      "text": "Right.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2708.98,
+      "end_time": 2709.38
+    },
+    {
+      "text": "But as far as us, we just don't, we don't play.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2709.7,
+      "end_time": 2714.66
+    },
+    {
+      "text": "They just never worked out well in this space.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2714.66,
+      "end_time": 2716.66
+    },
+    {
+      "text": "No fair.",
+      "speaker_name": "Michael",
+      "start_time": 2718.58,
+      "end_time": 2719.22
+    },
+    {
+      "text": "So why don't we do this?",
+      "speaker_name": "Michael",
+      "start_time": 2719.86,
+      "end_time": 2720.94
+    },
+    {
+      "text": "Why don't we, why don't I talk to my business partner and then we can regroup if she wants to, and I'll tell her exactly, you know, transparently what you, what you just told me and, and then also we'll talk to our lawyer.",
+      "speaker_name": "Michael",
+      "start_time": 2720.94,
+      "end_time": 2735.52
+    },
+    {
+      "text": "Yeah, perfect.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2735.84,
+      "end_time": 2736.56
+    },
+    {
+      "text": "Like I said.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2736.56,
+      "end_time": 2737.04
+    },
+    {
+      "text": "And either way, nice to have met you and sounds like you guys have a good business and, you know, hopefully we could talk more, but if we can't, it's fine.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2737.04,
+      "end_time": 2746.16
+    },
+    {
+      "text": "Yeah.",
+      "speaker_name": "Michael",
+      "start_time": 2746.4,
+      "end_time": 2746.72
+    },
+    {
+      "text": "If you're ever in the city, you know, maybe we'll grab drink.",
+      "speaker_name": "Michael",
+      "start_time": 2746.72,
+      "end_time": 2749.36
+    },
+    {
+      "text": "You got it.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2749.52,
+      "end_time": 2750.24
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "Michael",
+      "start_time": 2750.32,
+      "end_time": 2750.88
+    },
+    {
+      "text": "And just one more thing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2750.88,
+      "end_time": 2751.84
+    },
+    {
+      "text": "If you guys think just in my effort to move things along, because also Jeff and Travis move quite quickly when you talk to your lawyer and you talk to Gabby and you, hmm, let's explore this further.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2751.84,
+      "end_time": 2764.38
+    },
+    {
+      "text": "Then the next step would be an NDA and then sharing.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2764.94,
+      "end_time": 2768.62
+    },
+    {
+      "text": "What would be your level of financials, Jeff, at this point that you.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2769.02,
+      "end_time": 2772.1
+    },
+    {
+      "text": "It's just, it's simple.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2772.1,
+      "end_time": 2773.38
+    },
+    {
+      "text": "It's three years of.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2773.38,
+      "end_time": 2774.7
+    },
+    {
+      "text": "You know, three.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2776.54,
+      "end_time": 2777.78
+    },
+    {
+      "text": "I think in this case, what we would do is we would, we would want obviously, three years of finance, P and L and balance.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2777.78,
+      "end_time": 2784.22
+    },
+    {
+      "text": "Easy enough, right?",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2784.22,
+      "end_time": 2784.94
+    },
+    {
+      "text": "I'm sure you guys have that, but if there was interest, maybe on the next call, I, I, if I can get.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2784.94,
+      "end_time": 2791.26
+    },
+    {
+      "text": "I know the hovercraft guys is slammed with some super bowl stuff, but if I can pry them away and maybe have a, have a meeting there.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2791.75,
+      "end_time": 2798.87
+    },
+    {
+      "text": "But again, it would the all.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2799.27,
+      "end_time": 2801.03
+    },
+    {
+      "text": "Let's, let's take one step at a time.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2801.91,
+      "end_time": 2803.99
+    },
+    {
+      "text": "You come back to us and tell us if you're going to go investment bank process or if you want to try to explore if there's something here.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2803.99,
+      "end_time": 2810.31
+    },
+    {
+      "text": "And then we can kind of see if we do that before that.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2810.79,
+      "end_time": 2814.07
+    },
+    {
+      "text": "Okay.",
+      "speaker_name": "Michael",
+      "start_time": 2814.47,
+      "end_time": 2815.03
+    },
+    {
+      "text": "Sounds fair.",
+      "speaker_name": "Michael",
+      "start_time": 2815.51,
+      "end_time": 2816.31
+    },
+    {
+      "text": "Have a good one.",
+      "speaker_name": "Michael",
+      "start_time": 2817.44,
+      "end_time": 2818.16
+    },
+    {
+      "text": "Thank you.",
+      "speaker_name": "jeff kaplan",
+      "start_time": 2818.72,
+      "end_time": 2819.2
+    },
+    {
+      "text": "That's me and you.",
+      "speaker_name": "Michael",
+      "start_time": 2819.2,
+      "end_time": 2819.88
+    },
+    {
+      "text": "Take care.",
+      "speaker_name": "Michael",
+      "start_time": 2819.88,
+      "end_time": 2820.4
+    },
+    {
+      "text": "Thank you, Heather.",
+      "speaker_name": "Michael",
+      "start_time": 2820.4,
+      "end_time": 2821.28
+    },
+    {
+      "text": "Thanks, Michael.",
+      "speaker_name": "Heather Fullerton",
+      "start_time": 2821.36,
+      "end_time": 2822.24
+    }
+  ],
+  "summary": {
+    "keywords": [
+      "Experiential Marketing",
+      "Acquisition Strategy",
+      "Live Activations",
+      "Event Production",
+      "Sports Sponsorship",
+      "Integrated Marketing"
+    ],
+    "action_items": "\n**Michael Fernandez**\nDiscuss Jeff’s direct negotiation preference and implications with Gabby and legal counsel on deciding to continue dialogue or pursue formal investment banker process (40:00)\nUpdate Jeff and Heather on decision to advance discussions or not after internal consultation (46:50)\n\n**Jeff Kaplan**\nProvide clarity on Skyview’s preference for direct, non-brokered acquisition discussions; offer guidance if Michael’s team wants advice on process (40:50)\nAwait feedback from Michael on whether to proceed to next steps: NDA signing and financials review for potential acquisition (46:10)\n\n**Heather Fullerton**\nSupport and facilitate ongoing communication and advice regarding acquisition process and industry standards (42:00)\n",
+    "outline": null,
+    "overview": "- Advertising Week NYC has seen significant growth at its Manhattan Mall location, indicating a strong trend in experiential marketing events.\n- Michael Fernandez is hiring a Senior VP with experience from Amazon and Endeavor to strengthen sports event activations for Formula One in the US.\n- Skyview has a workforce of 32-33 employees, specializing in direct-to-consumer experiential activations rather than relying on agencies.\n- The company manages major events like AWS all-hands and music festivals entirely in-house, showcasing their production capabilities.\n- Michael emphasized a creative team structure where account managers serve dual roles to prevent miscommunication typically seen in producer transitions.\n- Jeff stressed the importance of maintaining client-producer relationships for incremental business growth and sustainability.\n- Skyview strategically avoids RFPs under $500K to maintain focus and efficiency in operations.\n- The company plans to rebrand and aims to integrate acquisitions for a cohesive experiential marketing firm, contrasting the siloed approach of competitors.\n- Michael indicated a willingness to explore various exit scenarios as he approaches retirement, highlighting potential for new partnerships.\n- Skyview is cautious in negotiations, engaging legal and financial experts while being mindful of M&A complexities and avoiding pitfalls with intermediaries.",
+    "short_summary": "Michael’s agency consists of 33 employees, with a creative team of 12, operating under a unique structure where account managers also serve as producers, facilitating client communication. They focus on physical, short-term experiential activations for direct brand clients, handling live events like Amazon Web Services global meetings and music festival activations, while outsourcing large-scale fabrication. Michael oversees strategic roles, while co-founder Gabby manages daily operations. The agency prioritizes RFPs over $500,000 and aims for generational wealth. The market for experiential marketing is rapidly growing, with a shift toward immersive events. Skyview is interested in acquiring Michael's agency to fill a gap in event production while maintaining its operational control. They prefer direct deals without intermediaries, and both parties agreed to regroup after further discussions.",
+    "topics_discussed": null
+  },
+  "transcript_url": "https://app.fireflies.ai/view/01K7055Q53FNEW3RV5P73JENEK",
+  "audio_url": "https://cdn.fireflies.ai/01K7055Q53FNEW3RV5P73JENEK/audio.mp3?Expires=1773220842&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzcwNTVRNTNGTkVXM1JWNVA3M0pFTkVLL2F1ZGlvLm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0Mn19fV19&Signature=0J57sPiLU6SPaIX4Kt~f1nMH5xjZUmf240pjjtCKVF68KzVmtKGOfkUYXl6j0q0S2FGYDZ-nHHhs2njEmeCkDPJjFY2TbN-ycJxVe291IXOUU51MW2bq3MbmvnbvUbP1U73BwwCVj8lmnapESFrEb20jtPo6QTj3L8wC7uAMZhCj3q6FAmwCqPC8cL7hxZzVV5Be66dGzJi84Vl3nPFi1Qdo7XTeiy5nS5uhwOnhvsy3T~Gs6IMR7EUY3KPrajuoraowpqK5aOKJomEJ0fwGaNQabJJrkX7IoIN5yZxMjLHC-3ooJMtwqb7BZQKma9FRHHXrIkHCfrPobkyUlBRHFQ__&Key-Pair-Id=K25ZJR0UZVF4CM",
+  "video_url": "https://cdn.fireflies.ai/01K7055Q53FNEW3RV5P73JENEK/video.mp4?Expires=1773220842&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZmlyZWZsaWVzLmFpLzAxSzcwNTVRNTNGTkVXM1JWNVA3M0pFTkVLL3ZpZGVvLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzIyMDg0Mn19fV19&Signature=XgtcK1G-voZ-7fmoHXKZZw~NY5u-Dy2wszq7ET6rJ8wMinFO8FdDCm4SAzXFv69X63NL2YTV66-n54hJUMzl35JqXy53Q7aoxlwntQBuhlYAhHQco-ftB43VzIL3e1dMzOOyGnvypKsYSdAy-r38FlnSL~oCVP38SaCkBlO-ZNo5DD1TCcrRsfSsZGgnVux5xr8UJ~LoiU87Xa1SU34MvaMmmjWbeVmtst~N9TQSA0u-GN4d0aW8u8D-P0U7Wj5QRwM0epaEAH3SKc2DQ5cem9QRI5mpt-mfxBCzjiQ3cO3kw1vcWXlFP0b~ZoEfma-mQ9BaaWdjBzYHcStawQjn9w__&Key-Pair-Id=K25ZJR0UZVF4CM"
+}
