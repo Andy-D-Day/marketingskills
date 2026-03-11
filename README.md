@@ -53,6 +53,7 @@ See each skill's **Related Skills** section for the full dependency map.
 <!-- SKILLS:START -->
 | Skill | Description |
 |-------|-------------|
+| [agency-valuation-followup](skills/agency-valuation-followup/) | When the user wants to create or optimize the follow-up email sequence after someone uses the Agencies.co Agency... |
 | [ab-test-setup](skills/ab-test-setup/) | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B... |
 | [ad-creative](skills/ad-creative/) | When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad... |
 | [ai-seo](skills/ai-seo/) | When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.... |
@@ -245,6 +246,7 @@ You can also invoke skills directly:
 ### Sales & RevOps
 - `revops` - Lead lifecycle, scoring, routing, pipeline management
 - `sales-enablement` - Sales decks, one-pagers, objection docs, demo scripts
+- `agency-valuation-followup` - Post-valuation lead nurture emails for Agencies.co
 
 ## Contributing
 

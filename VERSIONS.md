@@ -4,6 +4,7 @@ Current versions of all skills. Agents can compare against local versions to che
 
 | Skill | Version | Last Updated |
 |-------|---------|--------------|
+| agency-valuation-followup | 1.0.0 | 2026-03-11 |
 | ab-test-setup | 1.1.0 | 2026-02-27 |
 | ad-creative | 1.1.0 | 2026-02-27 |
 | ai-seo | 1.1.0 | 2026-02-27 |
@@ -38,6 +39,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.1.0 | 2026-02-27 |
 
 ## Recent Changes
+
+### 2026-03-11
+- Added `agency-valuation-followup` skill for post-valuation email nurture sequence targeting agency owners who used the Agencies.co Agency Valuation Tool
 
 ### 2026-02-27
 - Migrated context path from `.claude/` to `.agents/` for agent-agnostic compatibility
