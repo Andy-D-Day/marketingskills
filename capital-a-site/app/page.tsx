@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const deals = [
   { seller: "Leaders Group", buyer: "Stagwell", note: "Digital marketing group" },
@@ -28,14 +29,34 @@ export default function Home() {
     <>
       {/* Hero */}
       <section className="relative min-h-screen flex flex-col justify-end pb-24 px-6 md:px-12 overflow-hidden">
-        {/* Background: split suggests the duality — establishment left, street right */}
+        {/* Background: establishment left / street right */}
         <div className="absolute inset-0 grid grid-cols-2">
-          <div style={{ background: "linear-gradient(135deg, #0a0a0a 0%, #1a1408 60%, #0a0a0a 100%)" }} />
-          <div style={{ background: "linear-gradient(135deg, #0a0a0a 0%, #0c110a 60%, #0a0a0a 100%)" }} />
+          {/* Left — old money: whisky, leather, fireplace */}
+          <div className="relative overflow-hidden">
+            <Image
+              src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=1200&q=80"
+              alt=""
+              fill
+              className="object-cover object-center scale-105"
+              priority
+            />
+            <div className="absolute inset-0 bg-black/55" />
+          </div>
+          {/* Right — street: pool hall, low light, gold chains */}
+          <div className="relative overflow-hidden">
+            <Image
+              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80"
+              alt=""
+              fill
+              className="object-cover object-center scale-105"
+              priority
+            />
+            <div className="absolute inset-0 bg-black/65" />
+          </div>
         </div>
-        <div className="absolute inset-0 bg-gradient-to-b from-black/10 via-transparent to-[#0a0a0a]" />
-        {/* Gold seam */}
-        <div className="absolute inset-y-0 left-1/2 w-px bg-gradient-to-b from-transparent via-[#c9a84c]/20 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-transparent to-[#0a0a0a]" />
+        {/* Gold seam down the centre */}
+        <div className="absolute inset-y-0 left-1/2 w-px bg-gradient-to-b from-transparent via-[#c9a84c]/40 to-transparent" />
 
         <div className="relative z-10 max-w-6xl mx-auto w-full">
           <p className="text-xs tracking-[0.4em] uppercase text-[#c9a84c] mb-10">

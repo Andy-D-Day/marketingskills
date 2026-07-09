@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export const metadata = {
   title: "Our Story | Capital A",
   description: "Built and sold Gigwise. Eight years inside agency M&A. Then started buying.",
@@ -17,7 +19,16 @@ export default function OurStory() {
 
       <section className="py-24 px-6 md:px-12">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-20">
-          <div /> {/* intentional white space left */}
+          {/* Atmospheric image — whisky, leather, fireplace */}
+          <div className="relative h-80 md:h-full min-h-[400px] overflow-hidden grayscale">
+            <Image
+              src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=900&q=80"
+              alt=""
+              fill
+              className="object-cover object-center"
+            />
+            <div className="absolute inset-0 bg-black/40" />
+          </div>
           <div className="space-y-8 font-serif text-xl md:text-2xl font-light leading-relaxed text-white/70">
             <p>
               Built and sold Gigwise to private equity. Spent eight years inside agency M&A,
