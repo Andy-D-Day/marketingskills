@@ -12,6 +12,7 @@ const transactions = [
   { seller: "Bubblebridge", buyer: "Huble", context: "Agency acquisition" },
   { seller: "Sports Presentation Company", buyer: "Smyle", context: "Events and experiential acquisition" },
   { seller: "Marketers in Demand", buyer: "Motion Agency", context: "Talent and media brand acquisition" },
+  { seller: "New North", buyer: "Motion Agency", context: "B2B tech growth agency acquired by podcast marketing firm" },
   { seller: "Spotlight", buyer: "Mason", context: "Agency acquisition" },
   { seller: "Integrous Marketing", buyer: "Avionos", context: "Demand generation and analytics agency acquired by Chicago digital firm" },
   { seller: "Absolute Corporate Events", buyer: "Venues and Events International", context: "Corporate events agency acquisition" },
