@@ -22,7 +22,7 @@ export default function OurStory() {
           {/* Atmospheric image — whisky, leather, fireplace */}
           <div className="relative h-80 md:h-full min-h-[400px] overflow-hidden grayscale">
             <Image
-              src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=900&q=80"
+              src="/images/hero-establishment.jpg"
               alt=""
               fill
               className="object-cover object-center"

@@ -34,7 +34,7 @@ export default function Home() {
           {/* Left — old money: whisky, leather, fireplace */}
           <div className="relative overflow-hidden">
             <Image
-              src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=1200&q=80"
+              src="/images/hero-establishment.jpg"
               alt=""
               fill
               className="object-cover object-center scale-105"
@@ -42,10 +42,10 @@ export default function Home() {
             />
             <div className="absolute inset-0 bg-black/55" />
           </div>
-          {/* Right — street: pool hall, low light, gold chains */}
+          {/* Right — street: pool hall, low light */}
           <div className="relative overflow-hidden">
             <Image
-              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80"
+              src="/images/hero-street.jpg"
               alt=""
               fill
               className="object-cover object-center scale-105"
