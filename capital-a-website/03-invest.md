@@ -36,4 +36,4 @@ We work with a small group of private investors, many of them founders we have p
 
 ---
 
-*Note: Deliberately no fund language, no "returns", no solicitation. "We work with a small group of private investors, enquiries in confidence" is the institutional register and stays inside the financial promotions safe zone. Counsel should still see this page before publish.*
+*Note: Deliberately no fund language, no "returns", no solicitation. "We work with a small group of private investors, enquiries in confidence" is the institutional register and stays inside the financial promotions safe zone. Have counsel confirm before publish.*
