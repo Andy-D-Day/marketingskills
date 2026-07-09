@@ -13,8 +13,8 @@ const transactions = [
   { seller: "Sports Presentation Company", buyer: "Smyle", context: "Events and experiential acquisition" },
   { seller: "Marketers in Demand", buyer: "Motion Agency", context: "Talent and media brand acquisition" },
   { seller: "Spotlight", buyer: "Mason", context: "Agency acquisition" },
-  { seller: "Integrous", buyer: null, context: "Transaction completed" },
-  { seller: "Absolute Corporate", buyer: null, context: "Transaction completed" },
+  { seller: "Integrous Marketing", buyer: "Avionos", context: "Demand generation and analytics agency acquired by Chicago digital firm" },
+  { seller: "Absolute Corporate Events", buyer: "Venues and Events International", context: "Corporate events agency acquisition" },
   { seller: "We Group", buyer: null, context: "Secondary transaction" },
 ];
 
