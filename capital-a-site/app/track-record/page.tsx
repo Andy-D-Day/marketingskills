@@ -17,6 +17,7 @@ const transactions = [
   { seller: "Integrous Marketing", buyer: "Avionos", context: "Demand generation and analytics agency acquired by Chicago digital firm" },
   { seller: "Absolute Corporate Events", buyer: "Venues and Events International", context: "Corporate events agency acquisition" },
   { seller: "Lost Horizon", buyer: "We Group", context: "Investment raised" },
+  { seller: "We Group", buyer: "Private individual", context: "Secondary disposal of Lost Horizon shares" },
 ];
 
 export default function TrackRecord() {
