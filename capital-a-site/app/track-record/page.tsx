@@ -15,7 +15,7 @@ const transactions = [
   { seller: "Spotlight", buyer: "Mason", context: "Agency acquisition" },
   { seller: "Integrous Marketing", buyer: "Avionos", context: "Demand generation and analytics agency acquired by Chicago digital firm" },
   { seller: "Absolute Corporate Events", buyer: "Venues and Events International", context: "Corporate events agency acquisition" },
-  { seller: "We Group", buyer: null, context: "Secondary transaction" },
+  { seller: "Lost Horizon", buyer: "We Group", context: "Investment raised" },
 ];
 
 export default function TrackRecord() {
