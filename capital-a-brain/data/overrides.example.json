@@ -1,0 +1,14 @@
+{
+  "_comment": "Copy to data/overrides.json (gitignored) and fill in real values. conf_tier: 1 = open, 2 = codename-only externally, 3 = never return the real name anywhere. Buyer overrides may set tier / ebitda_floor / ebitda_ceiling / notes.",
+  "deals": {
+    "SomeCodename": {"conf_tier": 3},
+    "AnotherCodename": {"conf_tier": 2}
+  },
+  "buyers": {
+    "example-buyer.com": {"tier": "bidder", "ebitda_floor": 1000000, "ebitda_ceiling": 5000000}
+  },
+  "project_map": {
+    "_comment": "substring of an Off-Platform NDA 'Deal / Project' text -> deal code, for rows the automatic matcher cannot map",
+    "Some Project Description Fragment": "SomeCodename"
+  }
+}
